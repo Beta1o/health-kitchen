@@ -159,7 +159,7 @@ RECIPES = [
 # 13 Heavenly Zucchini Pineapple Loaf
 {"id": 4269980,
  "es": {
-  "title": "Panqué celestial de calabacita y piña",
+  "title": "Pan dulce celestial de calabacita y piña",
   "description": None, "portions": "24", "serving_size": "1/24 de la receta",
   "groups": {},
   "ing": [
@@ -180,7 +180,7 @@ RECIPES = [
    "En un tazón grande, prepare la mezcla de huevo batiendo los huevos con el aceite, el jugo de manzana, el azúcar y la vainilla.",
    "Mida el yogur y añádale el bicarbonato de sodio; revuelva para mezclar y deje reposar 1 minuto.",
    "Exprima el exceso de agua de la calabacita rallada y de la piña, y agréguelas a la mezcla de huevo junto con el yogur; revuelva bien.",
-   "Añada toda la harina de una vez a la mezcla húmeda y revuelva solo hasta que se integre. (¡Si revuelve demasiado, el panqué quedará chicloso!)",
+   "Añada toda la harina de una vez a la mezcla húmeda y revuelva solo hasta que se integre. (¡Si revuelve demasiado, el pan quedará chicloso!)",
    "Vierta la mezcla en un molde para pan de 9 × 5 pulgadas, engrasado y enharinado. Hornee durante 60 minutos.",
    "Desmolde y deje enfriar sobre una rejilla. ¡Buen provecho!",
   ],
@@ -222,11 +222,11 @@ RECIPES = [
 # 14 Ready in a Flash Fruit Pie
 {"id": 4280791,
  "es": {
-  "title": "Pay de frutas listo en un instante",
+  "title": "Tarta de frutas lista en un instante",
   "description": None, "portions": "8", "serving_size": "1/8 de la receta",
-  "groups": {"Store-bought pastry shells": "Bases para pay compradas en la tienda"},
+  "groups": {"Store-bought pastry shells": "Bases para tarta compradas en la tienda"},
   "ing": [
-   "1 base para pay (congelada o casera)",
+   "1 base para tarta (congelada o casera)",
    "2 tazas de arándanos azules",
    "2 tazas de frambuesas",
    "2 cucharadas de azúcar",
@@ -238,13 +238,13 @@ RECIPES = [
    "1 huevo grande",
   ],
   "steps": [
-   "Precaliente el horno a 350 °F. Si usa masa comprada, deje que la base para pay se descongele a temperatura ambiente durante un par de minutos. Rocíe el fondo de un molde para pay con aceite antiadherente en aerosol y coloque la masa en el molde.",
-   "En un tazón, mezcle con movimientos envolventes las bayas, el azúcar, la canela y el jugo de limón. Vierta en la base para pay.",
-   "En un tazón pequeño, mezcle la harina, el azúcar, la mantequilla derretida y el huevo. Extienda esta mezcla sobre las bayas en la base para pay.",
+   "Precaliente el horno a 350 °F. Si usa masa comprada, deje que la base para tarta se descongele a temperatura ambiente durante un par de minutos. Rocíe el fondo de un molde para tarta con aceite antiadherente en aerosol y coloque la masa en el molde.",
+   "En un tazón, mezcle con movimientos envolventes las bayas, el azúcar, la canela y el jugo de limón. Vierta en la base para tarta.",
+   "En un tazón pequeño, mezcle la harina, el azúcar, la mantequilla derretida y el huevo. Extienda esta mezcla sobre las bayas en la base para tarta.",
    "Hornee durante 45–60 minutos, hasta que la base esté dorada y las frutas burbujeen.",
   ],
   "hints": [
-   "Aunque se recomienda la moderación para limitar la grasa y las calorías no deseadas, un postre ocasional como el pay de frutas puede formar parte de su dieta renal baja en potasio. Si tiene tiempo y prepara su propia masa, le será más fácil controlar la cantidad de sodio y de aditivos de fósforo que consume. Si no, tenga en cuenta los siguientes consejos cuando use una base para pay comprada. Lectura de etiquetas: revise las etiquetas cuando use una masa ya preparada. Lea la etiqueta de información nutricional y la lista de ingredientes para elegir la mejor opción. Según el tipo de conservantes utilizados, la masa puede tener mucha sal y aditivos de fósforo. Tamaño de la porción: la porción que usted come también es importante. Puede cortar el pay en más de las 8 rebanadas recomendadas para reducir el consumo de sal. Rellenos del pay: elegir ciertos rellenos de fruta puede reducir la cantidad de potasio de su postre. Elija alimentos más bajos en potasio, como manzana, arándano azul, cereza, zarzamora o fresa, en lugar de plátano o calabaza, que son más altos en potasio.",
+   "Aunque se recomienda la moderación para limitar la grasa y las calorías no deseadas, un postre ocasional como la tarta de frutas puede formar parte de su dieta renal baja en potasio. Si tiene tiempo y prepara su propia masa, le será más fácil controlar la cantidad de sodio y de aditivos de fósforo que consume. Si no, tenga en cuenta los siguientes consejos cuando use una base para tarta comprada. Lectura de etiquetas: revise las etiquetas cuando use una masa ya preparada. Lea la etiqueta de información nutricional y la lista de ingredientes para elegir la mejor opción. Según el tipo de conservantes utilizados, la masa puede tener mucha sal y aditivos de fósforo. Tamaño de la porción: la porción que usted come también es importante. Puede cortar la tarta en más de las 8 rebanadas recomendadas para reducir el consumo de sal. Rellenos de la tarta: elegir ciertos rellenos de fruta puede reducir la cantidad de potasio de su postre. Elija alimentos más bajos en potasio, como manzana, arándano azul, cereza, zarzamora o fresa, en lugar de plátano o calabaza, que son más altos en potasio.",
   ],
   "fc": ["2 almidón", "1 fruta baja en potasio", "2 grasa"]},
  "ar": {

@@ -535,7 +535,7 @@ RECIPES = [
    "3 cucharadas de canela",
   ],
   "steps": [
-   "Mezcle los huevos, el azúcar, el sustituto de crema no lácteo y la vainilla en un recipiente poco profundo o en un molde para pay. Remoje el pan en la mezcla hasta que se ablande, volteándolo una vez. En otra fuente para hornear grande y poco profunda, extienda las hojuelas de maíz y luego cubra todas las rebanadas de pan remojadas con las hojuelas por ambos lados.",
+   "Mezcle los huevos, el azúcar, el sustituto de crema no lácteo y la vainilla en un recipiente poco profundo o en un molde para tarta. Remoje el pan en la mezcla hasta que se ablande, volteándolo una vez. En otra fuente para hornear grande y poco profunda, extienda las hojuelas de maíz y luego cubra todas las rebanadas de pan remojadas con las hojuelas por ambos lados.",
    "Ponga la margarina en una sartén y cocine las rebanadas de pan a fuego medio-alto, volteándolas para que se doren por ambos lados. Mezcle la canela y el azúcar en un tazón aparte. Espolvoree sobre las rebanadas y sirva.",
   ],
   "hints": [],

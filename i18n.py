@@ -178,8 +178,8 @@ def apply_fixes():
             was = orig["text"].get(lang)
             if new == was:
                 continue
-            if field == "description":
-                changed += db.execute("UPDATE recipe_i18n SET description=? WHERE recipe_id=? AND lang=? AND description=?",
+            if field in ("description", "title"):
+                changed += db.execute(f"UPDATE recipe_i18n SET {field}=? WHERE recipe_id=? AND lang=? AND {field}=?",
                                       (new, rid, lang, was)).rowcount
                 continue
             table = f"{field}_i18n"

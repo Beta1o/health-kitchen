@@ -1,5 +1,15 @@
 <title>Health Kitchen</title>
+<link rel="icon" type="image/svg+xml" href="logo.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2f6b2a">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJIZWFsdGggS2l0Y2hlbiI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTYiIGZpbGw9IiMyZjZiMmEiLz4KICA8cGF0aCBkPSJNMzIgMzNDMjIuNSAyOS41IDE4LjUgMjAuNSAyMy41IDEzLjVDMjggMTUuNSAzMS41IDIxIDMyIDMzWiIgZmlsbD0iI2M5ZWNiNCIvPgogIDxwYXRoIGQ9Ik0zMiAzM0M0MS41IDI5LjUgNDUuNSAyMC41IDQwLjUgMTMuNUMzNiAxNS41IDMyLjUgMjEgMzIgMzNaIiBmaWxsPSIjOGZkMTdhIi8+CiAgPHBhdGggZD0iTTExIDM0LjVINTNDNTMgNDYuNCA0My42IDU1IDMyIDU1UzExIDQ2LjQgMTEgMzQuNVoiIGZpbGw9IiNmZmZmZmYiLz4KICA8cGF0aCBkPSJNMjAgNDEuNUg0NCIgc3Ryb2tlPSIjMmY2YjJhIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIuMjUiLz4KICA8Y2lyY2xlIGN4PSI0NyIgY3k9IjE3IiByPSIzLjIiIGZpbGw9IiNlNTk3YzQiLz4KPC9zdmc+Cg==">
+<script>
+function hideSplash() { const el = document.getElementById("splash"); if (!el || el.classList.contains("gone")) return; el.classList.add("gone"); setTimeout(() => el.remove(), 450); }
+window.addEventListener("load", () => setTimeout(hideSplash, 300));
+setTimeout(hideSplash, 8000);
+</script>
 <script>try { const t = localStorage.getItem("kk:theme"); if (t && t !== '"system"') document.documentElement.dataset.theme = JSON.parse(t); } catch (e) {}</script>
 <style>/*__FONTS__*/</style>
 <style>
@@ -37,6 +47,14 @@
                    --font-body: "IBM Plex Sans Arabic", "Atkinson Hyperlegible", system-ui, sans-serif; }
 
 * { box-sizing: border-box; }
+#splash { position: fixed; inset: 0; z-index: 1000; background: var(--bg); display: grid; place-items: center; transition: opacity .35s ease, visibility .35s; }
+#splash.gone { opacity: 0; visibility: hidden; }
+.splash-in { display: grid; justify-items: center; gap: 14px; color: var(--ink); font-family: var(--font-display); }
+.splash-in svg { animation: splashPulse 1.4s ease-in-out infinite; border-radius: 18px; }
+.splash-in i { width: 120px; height: 4px; border-radius: 99px; background: var(--surface-2); overflow: hidden; position: relative; }
+.splash-in i::after { content: ""; position: absolute; inset-block: 0; width: 40%; background: var(--accent); border-radius: 99px; animation: splashBar 1.1s ease-in-out infinite; }
+@keyframes splashPulse { 50% { transform: scale(1.06); } }
+@keyframes splashBar { from { inset-inline-start: -40%; } to { inset-inline-start: 100%; } }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--font-body); }
 button, input, select { font: inherit; color: inherit; }
@@ -60,7 +78,9 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .brand h1 { font-size: 1.45rem; font-weight: 800; }
 .brand h1 span { color: var(--accent); }
 .brand small { color: var(--muted); font-size: .8rem; }
-.search { flex: 1; min-width: 0; position: relative; }
+.search { flex: 1 1 320px; min-width: 220px; position: relative; }
+@media (max-width: 1250px) { .top-in .fav-label { display: none; } }
+@media (max-width: 1100px) { .view-tabs button { padding: 7px 10px; } }
 .search input { width: 100%; padding-block: 11px; padding-inline: 42px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
 .search svg { position: absolute; inset-inline-start: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); }
 .icon-btn { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 9px 14px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; white-space: nowrap; text-decoration: none; color: inherit; }
@@ -71,6 +91,11 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .langs button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
 .langs button[data-l="ar"] { font-family: "IBM Plex Sans Arabic", system-ui, sans-serif; }
 .only-narrow { display: none; }
+.view-tabs { display: inline-flex; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px; flex: none; }
+.view-tabs button { border: 0; background: none; border-radius: 999px; padding: 7px 14px; cursor: pointer; font-weight: 700; font-size: .9rem; color: var(--muted); }
+.view-tabs button.on { background: var(--surface); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+@media (max-width: 1100px) { .brand-txt small { display: none; } }
+@media (max-width: 640px) { .view-tabs { display: none; } }
 
 /* ---------- category ribbon ---------- */
 .cats { max-width: 1480px; margin: 0 auto; padding: 4px 16px 12px; display: flex; gap: 8px; overflow-x: auto; scrollbar-width: thin; }
@@ -127,7 +152,8 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .thumb img.ok { opacity: 1; }
 .ph { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: flex-end; padding: 14px; color: #fff; overflow: hidden; }
 .ph b { font-family: var(--font-display); font-weight: 800; font-size: 1.3rem; line-height: 1.12; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; position: relative; }
-.ph svg { position: absolute; inset-inline-end: -18px; top: -18px; width: 62%; height: auto; opacity: .22; }
+.ph .art { position: absolute; inset: 0; width: 100%; height: 100%; }
+.ph b { text-shadow: 0 1px 12px rgba(0,0,0,.25); }
 .badges { position: absolute; top: 10px; inset-inline-start: 10px; display: flex; gap: 6px; }
 .badge { background: rgba(10,20,22,.72); color: #fff; font-size: .72rem; font-weight: 700; padding: 3px 8px; border-radius: 999px; display: inline-flex; align-items: center; gap: 4px; }
 .fav { position: absolute; top: 8px; inset-inline-end: 8px; width: 36px; height: 36px; border-radius: 50%; border: 0; background: rgba(255,255,255,.92); color: #7a2e5c; cursor: pointer; display: grid; place-items: center; }
@@ -162,7 +188,7 @@ body.reading .hero-band, body.reading .wrap, body.reading .cats, body.reading fo
 .hero .photo { position: relative; display: block; height: 100%; width: auto; max-width: 100%; margin: 0 auto; object-fit: contain; animation: kenburns 9s ease-out both; }
 .hero .ph b { font-size: clamp(1.4rem, 3vw, 2.2rem); -webkit-line-clamp: 2; }
 .hero.nophoto { height: clamp(96px, 12vw, 140px); }
-.hero.nophoto .ph svg { width: 22%; inset-inline-end: 4%; top: -30%; }
+
 .hero.nophoto .ph b { font-size: clamp(1.2rem, 2.4vw, 1.7rem); }
 .sheet-body { max-width: 1100px; margin-inline: auto; }
 @media print {
@@ -234,9 +260,12 @@ ol.steps li.done::before { content: "✓"; background: var(--accent); color: var
 .toast { position: fixed; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 18px; border-radius: 999px; font-size: .9rem; z-index: 100; }
 footer.site { max-width: 1480px; margin: 0 auto; padding-inline: 16px; padding-block: 0 40px; color: var(--muted); font-size: .82rem; }
 /* ---------- hero ---------- */
-html, body { overflow-x: clip; }
-.hero-band { overflow: clip; overflow-clip-margin: 40px; max-width: 1480px; margin: 0 auto; padding-inline: 16px; padding-block: 22px 6px; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 28px; align-items: center; }
-.hero-copy { display: grid; gap: 14px; }
+html, body { overflow-x: clip; max-width: 100%; }
+.dash, .wrap, .hero-band, .recipe-page { max-width: min(1480px, 100%); }
+.hero-band { max-width: 1480px; margin: 0 auto; padding-inline: 16px; padding-block: 16px 6px; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, .75fr); gap: 22px; align-items: stretch; }
+.hero-band .today { align-content: start; }
+.hero-band .stage { aspect-ratio: auto; min-height: 320px; }
+.hero-copy { display: grid; gap: 14px; align-content: start; }
 .hero-copy .eyebrow { color: var(--accent); }
 .hero-copy h2 { font-size: clamp(2rem, 4.2vw, 3.4rem); font-weight: 800; line-height: 1.02; letter-spacing: -.03em; }
 :root[lang="ar"] .hero-copy h2 { line-height: 1.3; letter-spacing: 0; }
@@ -253,17 +282,142 @@ html, body { overflow-x: clip; }
 .slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .slide.s0 { transform: translate3d(0,0,0) rotate(0deg); z-index: 3; }
 .slide.s0 img { animation: kenburns 7s ease-out both; }
-.slide.s1 { transform: translate3d(5%, -4%, 0) rotate(4deg) scale(.92); z-index: 2; opacity: .85; filter: saturate(.7); }
-.slide.s2 { transform: translate3d(-5%, -6%, 0) rotate(-5deg) scale(.86); z-index: 1; opacity: .6; filter: saturate(.5) blur(1px); }
-.slide.out { transform: translate3d(-30%, 8%, 0) rotate(-12deg) scale(.9); opacity: 0; z-index: 4; }
-.slide-cap { position: absolute; inset-inline: 0; bottom: 0; padding: 40px 18px 16px; background: linear-gradient(transparent, rgba(6,14,16,.82)); color: #fff; display: grid; gap: 6px; }
+.slide.out { opacity: 0; z-index: 4; }
+.slide { border-radius: 20px; }
+.slide-cap { position: absolute; inset-inline: 0; bottom: 0; padding: 40px 18px 34px; background: linear-gradient(transparent, rgba(6,14,16,.82)); color: #fff; display: grid; gap: 6px; }
 .slide-cap small { font-size: .74rem; letter-spacing: .08em; text-transform: uppercase; opacity: .85; }
 .slide-cap b { font-family: var(--font-display); font-size: 1.35rem; line-height: 1.15; }
 .slide-cap .chips span { background: rgba(255,255,255,.16); backdrop-filter: blur(4px); color: #fff; border: 0; font-size: .74rem; padding: 3px 9px; border-radius: 999px; }
-.dots { position: absolute; bottom: -22px; inset-inline-start: 50%; transform: translateX(-50%); display: flex; gap: 6px; }
+.dots { position: absolute; bottom: 12px; z-index: 5; inset-inline-start: 50%; transform: translateX(-50%); display: flex; gap: 6px; }
 [dir="rtl"] .dots { transform: translateX(50%); }
-.dots button { width: 8px; height: 8px; border-radius: 99px; border: 0; background: var(--line); cursor: pointer; padding: 0; transition: width .3s, background .3s; }
+.dots button { width: 8px; height: 8px; border-radius: 99px; border: 0; background: rgba(255,255,255,.55); cursor: pointer; padding: 0; transition: width .3s, background .3s; }
 .dots button[aria-current="true"] { width: 22px; background: var(--accent); }
+
+/* ---------- views ---------- */
+body.view-dash .about, body.view-recipes .about, body.view-recipes .cond-switch { display: none; }
+body.view-about .hero-band, body.view-about .dash, body.view-about .wrap, body.view-about .cats, body.view-about .cond-switch { display: none; }
+body.reading .about, body.reading .cond-switch { display: none; }
+.cond-switch { max-width: min(1480px, 100%); margin: 0 auto; padding-inline: 16px; padding-block: 18px 0; display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; }
+.cond-switch button { flex: none; display: inline-flex; align-items: center; gap: 8px; border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; padding: 9px 16px; cursor: pointer; font-weight: 700; font-size: .92rem; transition: all .2s; }
+.cond-switch button i { font-style: normal; font-size: 1.05rem; }
+.sub-switch { display: inline-flex; flex: none; align-items: center; gap: 2px; background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
+.cond-switch .sub-switch button { border: 0; padding: 6px 12px; font-size: .84rem; background: none; color: var(--muted); box-shadow: none; }
+.cond-switch .sub-switch button[aria-pressed="true"] { background: var(--surface); color: var(--accent); border: 0; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
+.cond-switch button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); box-shadow: 0 6px 18px color-mix(in srgb, var(--accent) 30%, transparent); }
+.about { max-width: min(1100px, 100%); margin: 0 auto; padding-inline: 16px; padding-block: 34px 60px; display: grid; gap: 36px; }
+.about-hero { display: grid; gap: 14px; }
+.about-hero .eyebrow { color: var(--accent); }
+.about-hero h2 { font-size: clamp(2rem, 4.4vw, 3.4rem); font-weight: 800; line-height: 1.05; letter-spacing: -.03em; }
+:root[lang="ar"] .about-hero h2 { line-height: 1.3; letter-spacing: 0; }
+.about-hero h2 em { font-style: normal; color: var(--accent); }
+.about-hero p { margin: 0; color: var(--muted); max-width: 60ch; font-size: 1.05rem; }
+.about-body { display: grid; gap: 30px; }
+.about-body h3 { font-size: 1.3rem; margin-bottom: 10px; }
+.how { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.how div { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 16px; display: grid; gap: 6px; }
+.how b { font-family: var(--font-display); font-size: 1.05rem; }
+.how span { color: var(--muted); font-size: .92rem; }
+.how i { font-style: normal; font-size: 1.6rem; }
+.src-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.src { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; display: grid; gap: 6px; text-decoration: none; color: var(--ink); transition: transform .2s, border-color .2s; }
+.src:hover { transform: translateY(-2px); border-color: var(--accent); }
+.src b { font-family: var(--font-display); font-size: 1.02rem; display: flex; justify-content: space-between; gap: 8px; }
+.src b span { font-family: var(--font-data); color: var(--accent); font-size: .9rem; }
+.src small { color: var(--muted); }
+.src u { text-decoration: none; color: var(--accent); font-size: .82rem; direction: ltr; text-align: start; overflow-wrap: anywhere; }
+.share-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.disclaimer { background: color-mix(in srgb, var(--mid) 10%, transparent); border-radius: 14px; padding: 14px 16px; font-size: .92rem; }
+body.view-dash .wrap, body.view-dash .cats { display: none; }
+body.view-recipes .hero-band, body.view-recipes .dash { display: none; }
+.dash { max-width: 1480px; margin: 0 auto; padding-inline: 16px; padding-block: 26px 40px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 34px; }
+.dash-sec { min-width: 0; }
+#dPlan { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 760px) { #dPlan { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.dash-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 12px; }
+.dash-head h2 { font-size: 1.35rem; font-weight: 800; }
+.cat-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.cat-tile { position: relative; aspect-ratio: 4 / 3; border-radius: 16px; overflow: hidden; border: 0; cursor: pointer; padding: 0; text-align: start; color: #fff; box-shadow: var(--shadow); transition: transform .25s cubic-bezier(.2,.8,.2,1); animation: rise .5s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(var(--i, 0) * 40ms); }
+.cat-tile:hover { transform: translateY(-3px) rotate(-.6deg); }
+.cat-tile .art, .cat-tile img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.cat-tile img { filter: saturate(1.05); }
+.cat-tile::after { content: ""; position: absolute; inset: 0; background: linear-gradient(transparent 35%, rgba(6,14,16,.75)); }
+.cat-tile span { position: absolute; inset-inline: 12px; bottom: 10px; z-index: 1; display: grid; }
+.cat-tile b { font-family: var(--font-display); font-size: 1.02rem; line-height: 1.2; }
+.cat-tile small { opacity: .85; font-family: var(--font-data); font-size: .75rem; }
+.hscroll { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(230px, 260px); gap: 14px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+.hscroll > * { scroll-snap-align: start; }
+.dash-cta { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center; }
+.btn-primary.big { font-size: 1.1rem; padding: 14px 28px; box-shadow: 0 8px 24px color-mix(in srgb, var(--accent) 35%, transparent); transition: transform .2s; }
+.btn-primary.big:hover { transform: translateY(-2px); }
+/* ---------- dashboard tools ---------- */
+.targets { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.target { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 12px 14px; display: grid; gap: 2px; animation: rise .5s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(var(--i, 0) * 40ms); }
+.target span { font-size: .76rem; color: var(--muted); font-weight: 700; }
+.target b { font-family: var(--font-display); font-size: 1.5rem; font-weight: 800; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.target small { font-size: .74rem; color: var(--muted); }
+.target.accent { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.target.accent span, .target.accent small { color: inherit; opacity: .85; }
+.tips-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.tip-card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; display: grid; grid-template-columns: 40px minmax(0, 1fr); gap: 12px; align-items: start; animation: rise .5s cubic-bezier(.2,.8,.2,1) both; animation-delay: calc(var(--i, 0) * 50ms); }
+.tip-card i { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; font-style: normal; font-size: 1.2rem; background: var(--accent-soft); }
+.tip-card p { margin: 0; font-size: .92rem; }
+.tools-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+.tool { text-align: start; border: 1px solid var(--line); background: var(--surface); border-radius: 16px; padding: 14px; cursor: pointer; display: grid; gap: 6px; transition: transform .2s, border-color .2s; }
+.tool:hover { transform: translateY(-2px); border-color: var(--accent); }
+.tool i { font-style: normal; font-size: 1.5rem; }
+.tool b { font-family: var(--font-display); font-size: 1rem; }
+.tool span { font-size: .8rem; color: var(--muted); }
+.tool svg.spark { width: 100%; height: 40px; }
+.calc-out { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 14px; display: grid; gap: 8px; }
+.calc-out .big { font-family: var(--font-display); font-size: 2rem; font-weight: 800; color: var(--accent); line-height: 1; }
+.calc-row { display: flex; justify-content: space-between; gap: 10px; font-size: .92rem; border-bottom: 1px dashed var(--line); padding-bottom: 6px; }
+.calc-row:last-child { border-bottom: 0; }
+.calc-row b { font-family: var(--font-data); direction: ltr; }
+.wchart { width: 100%; height: 160px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; }
+.wlist { display: grid; gap: 4px; max-height: 180px; overflow: auto; font-family: var(--font-data); font-size: .85rem; }
+.wlist div { display: flex; justify-content: space-between; gap: 8px; padding: 4px 8px; background: var(--surface); border-radius: 8px; }
+/* ---------- today ---------- */
+.today { display: grid; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 16px; box-shadow: var(--shadow); }
+.today-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.today-top h3 { font-size: 1.25rem; }
+.today-top .chipset { display: flex; gap: 6px; flex-wrap: wrap; }
+.streak { display: inline-flex; gap: 6px; align-items: center; background: var(--mid-bg); color: var(--mid); font-weight: 700; font-size: .82rem; border-radius: 999px; padding: 4px 10px; }
+.mini-rings { display: grid; grid-template-columns: repeat(auto-fit, minmax(84px, 1fr)); gap: 8px; }
+.mini-rings .ring svg { width: 64px; height: 64px; }
+.mini-rings .ring .pc { margin-top: -48px; height: 48px; font-size: .85rem; }
+.mini-rings .ring { font-size: .72rem; }
+.next-meal { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 12px; align-items: center; background: var(--surface-2); border-radius: 14px; padding: 8px; cursor: pointer; transition: transform .2s; }
+.next-meal:hover { transform: translateY(-2px); }
+.next-meal .thumb { aspect-ratio: 1; border-radius: 10px; }
+.next-meal .ph b { display: none; }
+.next-meal small { color: var(--accent); font-weight: 700; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; }
+:root[lang="ar"] .next-meal small { letter-spacing: 0; }
+.next-meal h4 { margin: 2px 0; font-family: var(--font-display); font-size: 1rem; line-height: 1.25; }
+.next-meal span { font-size: .78rem; color: var(--muted); }
+.tip { display: flex; gap: 10px; align-items: flex-start; font-size: .9rem; color: var(--ink); background: color-mix(in srgb, var(--plum) 9%, transparent); border-radius: 12px; padding: 10px 12px; }
+.tip b { color: var(--plum); white-space: nowrap; }
+.pick-plan { display: flex; flex-wrap: wrap; gap: 6px; }
+.pick-plan button { border: 1px solid var(--line); background: var(--surface-2); border-radius: 999px; padding: 7px 12px; cursor: pointer; font-size: .86rem; }
+.pick-plan button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+
+/* ---------- cook mode ---------- */
+dialog.cook { border: 0; padding: 0; width: 100%; height: 100%; max-width: 100%; max-height: 100%; background: var(--bg); color: var(--ink); }
+.cook-in { height: 100%; display: grid; grid-template-rows: auto auto 1fr auto; gap: 14px; padding: calc(14px + env(safe-area-inset-top, 0px)) 18px calc(18px + env(safe-area-inset-bottom, 0px)); max-width: 900px; margin: 0 auto; }
+.cook-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.cook-head h2 { font-size: 1.1rem; }
+.cook-progress { height: 6px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
+.cook-progress i { display: block; height: 100%; background: var(--accent); transition: inline-size .4s cubic-bezier(.2,.8,.2,1); }
+.cook-step { align-self: center; display: grid; gap: 18px; animation: rise .4s cubic-bezier(.2,.8,.2,1) both; }
+.cook-step .n { font-family: var(--font-data); color: var(--accent); font-weight: 600; }
+.cook-step p { margin: 0; font-size: clamp(1.35rem, 3.6vw, 2.1rem); line-height: 1.45; font-weight: 500; }
+.timers { display: flex; flex-wrap: wrap; gap: 8px; }
+.timer { display: inline-flex; align-items: center; gap: 8px; border: 2px solid var(--accent); color: var(--accent); background: var(--surface); border-radius: 999px; padding: 10px 16px; font-weight: 700; cursor: pointer; font-family: var(--font-data); font-size: 1rem; }
+.timer.run { background: var(--accent); color: var(--accent-ink); }
+.timer.done { background: var(--plum); border-color: var(--plum); color: #fff; animation: pop .5s ease 3; }
+.cook-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.cook-nav button { padding: 16px; font-size: 1.05rem; border-radius: 16px; }
+.cook-ing { max-height: 40vh; overflow: auto; background: var(--surface); border-radius: 14px; padding: 10px 14px; }
+.btn-cook { display: inline-flex; gap: 8px; align-items: center; }
 
 /* ---------- motion ---------- */
 @keyframes rise { from { transform: translateY(14px) scale(.985); opacity: .35; } to { transform: none; opacity: 1; } }
@@ -300,7 +454,7 @@ dialog.panel-dlg[open] { animation: sheetIn .35s cubic-bezier(.2,.8,.2,1); }
   .card, .slide.s0 img, .bar i, .gauge i, .ring .val, .recipe-page, .hero .photo, dialog.panel-dlg[open], .hero-copy h2 em::after { animation: none !important; }
   .slide { transition: none; }
 }
-@media (max-width: 980px) { .hero-band { grid-template-columns: minmax(0, 1fr); } .stage { max-width: 520px; width: 100%; justify-self: center; } }
+@media (max-width: 980px) { .hero-band { grid-template-columns: minmax(0, 1fr); } .hero-band .stage { min-height: 0; aspect-ratio: 16 / 10; } }
 @media (max-width: 640px) { .hero-copy h2 { font-size: 1.9rem; } .stage { aspect-ratio: 4 / 3; } }
 
 /* kidney plan, meters, planner */
@@ -438,6 +592,7 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
 @media (prefers-reduced-motion: reduce) { * { transition-duration: 0s !important; } }
 </style>
 
+<div id="splash" aria-hidden="true"><div class="splash-in"><svg width="72" height="72" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#2f6b2a"/><path d="M32 33C22.5 29.5 18.5 20.5 23.5 13.5C28 15.5 31.5 21 32 33Z" fill="#c9ecb4"/><path d="M32 33C41.5 29.5 45.5 20.5 40.5 13.5C36 15.5 32.5 21 32 33Z" fill="#8fd17a"/><path d="M11 34.5H53C53 46.4 43.6 55 32 55S11 46.4 11 34.5Z" fill="#fff"/><circle cx="47" cy="17" r="3.2" fill="#e597c4"/></svg><b>Health Kitchen · مطبخ الصحة</b><i></i></div></div>
 <header class="top">
   <div class="top-in">
     <button class="icon-btn only-narrow" id="openFilters">
@@ -452,6 +607,7 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
   <circle cx="47" cy="17" r="3.2" fill="#e597c4"/>
 </svg>
 <span class="brand-txt"><h1 id="brand"></h1><small id="tagline"></small></span></a>
+    <nav class="view-tabs" aria-label="Views"><button data-vtab="dash" data-i="navHome"></button><button data-vtab="recipes" data-i="navRecipes"></button><button data-vtab="about" data-i="navAbout"></button></nav>
     <div class="search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" type="search" autocomplete="off">
@@ -478,15 +634,31 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
   <nav class="cats" id="cats"></nav>
 </header>
 
-<section class="hero-band" aria-label="Featured">
-  <div class="hero-copy">
+<nav class="cond-switch" id="condSwitch" aria-label="Condition"></nav>
+<section class="hero-band" aria-label="Today">
+  <div class="today" id="today"></div>
+  <div class="stage" id="stage"><div class="dots" id="dots"></div></div>
+</section>
+<section class="about" id="about">
+  <div class="about-hero">
     <div class="eyebrow" id="heroEyebrow"></div>
     <h2 id="heroTitle"></h2>
     <p id="heroLede"></p>
     <div class="stats" id="stats"></div>
     <div class="legend" id="legend"></div>
   </div>
-  <div class="stage" id="stage"><div class="dots" id="dots"></div></div>
+  <div class="about-body" id="aboutBody"></div>
+</section>
+
+<section class="dash" id="dash">
+  <div class="dash-sec"><div class="dash-head"><h2 data-i="dRecTitle"></h2><button class="linkish" id="editPlan2" data-i="planEdit"></button></div><div class="targets" id="dTargets"></div></div>
+  <div class="dash-sec"><div class="dash-head"><h2 data-i="dTipsTitle"></h2></div><div class="tips-grid" id="dTips"></div></div>
+  <div class="dash-sec"><div class="dash-head"><h2 data-i="dToolsTitle"></h2></div><div class="tools-grid" id="dTools"></div></div>
+  <div class="dash-sec"><div class="dash-head"><h2 data-i="dCats"></h2><button class="linkish" data-go="recipes" data-i="dAll"></button></div><div class="cat-tiles" id="catTiles"></div></div>
+  <div class="dash-sec"><div class="dash-head"><h2 id="dPicksTitle"></h2><button class="linkish" data-go="fit" data-i="dMore"></button></div><div class="hscroll" id="dPicks"></div></div>
+  <div class="dash-sec"><div class="dash-head"><h2 data-i="dPlanTitle"></h2><button class="linkish" data-proxy2="#openPlans" data-i="dOpenPlans"></button></div><div class="mp-grid" id="dPlan"></div></div>
+  <div class="dash-sec" id="dSavedSec"><div class="dash-head"><h2 data-i="saved"></h2><button class="linkish" data-go="saved" data-i="dMore"></button></div><div class="hscroll" id="dSaved"></div></div>
+  <div class="dash-cta"><button class="btn-primary big" data-go="recipes"><span data-i="dBrowse"></span> →</button><button class="icon-btn" data-vgo="about" data-i="navAbout"></button></div>
 </section>
 
 <div class="wrap">
@@ -521,6 +693,7 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
   <main>
     <div class="res-head">
       <h2 id="count" aria-live="polite"></h2>
+      <button class="icon-btn only-narrow" id="openFilters2"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M7 12h10M10 18h4"/></svg> <span data-i="filters"></span></button>
       <div class="sort"><label for="sort" data-i="sort"></label><select id="sort"></select></div>
     </div>
     <div class="active" id="active"></div>
@@ -528,10 +701,10 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
     <div class="more"><button class="icon-btn" id="moreBtn" hidden></button></div>
   </main>
 </div>
-<footer class="site" id="footer"></footer>
+
 <nav class="bottom-nav" aria-label="Main">
-  <button data-proxy="#home"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11 12 4l9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg><span data-i="navHome"></span></button>
-  <button data-proxy="#openFilters"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M7 12h10M10 18h4"/></svg><span data-i="filters"></span></button>
+  <button data-proxy="#home" data-nav="dash"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11 12 4l9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg><span data-i="navHome"></span></button>
+  <button data-go="recipes" data-nav="recipes"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span data-i="navRecipes"></span></button>
   <button data-proxy="#openPlans"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19V5M4 19h16M8 15l3-4 3 2 4-6"/></svg><span data-i="mealPlans"></span></button>
   <button data-proxy="#openDay"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span data-i="myDay"></span><b class="nav-count" id="navDay"></b></button>
   <button data-proxy="#favOnly"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-4.4-9.3-9C1.2 8.8 3.2 5 6.8 5c2 0 3.4 1.1 5.2 3 1.8-1.9 3.2-3 5.2-3 3.6 0 5.6 3.8 4.1 7-2.3 4.6-9.3 9-9.3 9z"/></svg><span data-i="saved"></span><b class="nav-count" id="navFav"></b></button>
@@ -539,21 +712,44 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
 
 <main class="recipe-page" id="sheet" hidden aria-labelledby="sheetTitle"><div class="sheet-in" id="sheetIn"></div></main>
 <dialog class="panel-dlg" id="planDlg" aria-labelledby="planDlgTitle"><div class="dlg-in" id="planIn"></div></dialog>
+<dialog class="cook" id="cookDlg" aria-labelledby="cookTitle"><div class="cook-in" id="cookIn"></div></dialog>
+<dialog class="panel-dlg" id="toolDlg" aria-labelledby="toolTitle"><div class="dlg-in" id="toolIn"></div></dialog>
 <dialog class="panel-dlg wide" id="mpDlg" aria-labelledby="mpTitle"><div class="dlg-in" id="mpIn"></div></dialog>
 <dialog class="panel-dlg" id="dayDlg" aria-labelledby="dayDlgTitle"><div class="dlg-in" id="dayIn"></div></dialog>
 
+<!--__DATA_SCRIPT__-->
 <script>
-const DATA = /*__DATA__*/null;
+const DATA = window.HK_DATA || /*__DATA__*/null;
 const R = DATA.recipes;
 
 // ---------- interface text ----------
 const UI = {
   en: {
+    navAbout: "About", kidneySub: { hd: "Dialysis", ckd: "CKD, no dialysis", dm: "CKD + diabetes" }, aboutLatest: "Recently updated recipes", conds: { kidney: "Kidney", t2: "Diabetes", bp: "Blood pressure", heart: "Heart", gen: "General" },
+    aboutWhat: "What is Health Kitchen?", aboutWhatP: "Health Kitchen brings together recipes from trusted kidney, diabetes and heart-health organisations in one place, in English, Spanish and Arabic. Every recipe shows its nutrition per serving and links to its original source, so you can cook with confidence and share what you find.",
+    aboutHow: "How it works", aboutSteps: [["🎯", "Choose your condition", "Kidney, diabetes, blood pressure, heart or general. The dashboard adapts to it."], ["🍽️", "Find recipes that fit", "Filter by diet, nutrients and ingredients, and see each dish's share of your daily amounts."], ["📅", "Plan and cook", "Build meal plans, track your day and weight, and cook step by step with timers."]],
+    aboutSources: "Recipe sources", aboutSourcesP: "Each recipe credits and links to the organisation that published it.", aboutShare: "Share Health Kitchen", shareBtn: "Share", shareMsg: "Health Kitchen: recipes for kidney, diabetes and heart health in English, Spanish and Arabic.",
+    email: "Email", copyLink: "Copy link", linkCopied: "Link copied",
+    disclaimer: "Health Kitchen is for general information. It doesn't replace advice from your doctor, dietitian or dialysis team; follow the limits they give you.",
+    unitsLabel: "Units", unitsMetric: "Metric units (g, ml, °C)", unitsUS: "US units (oz, cups, °F)",
+    dRecTitle: "Your daily targets", dTipsTitle: "Advice for your plan", dToolsTitle: "Tools & calculators",
+    tCalories: "Calories", tPerDay: "per day", tPerMeal: x => `about ${x} per meal`, tChoices: n => `about ${n} choices per meal`, tSalt: g => `= ${g} g salt`,
+    tFluid: "Fluid", tFluidNote: "urine output + 750 ml", tBmi: "BMI", tNote: "Estimates from your plan and body details (Mifflin-St Jeor for calories, Devine ideal weight). Your care team's targets come first.",
+    bmiCat: b => b < 18.5 ? "Underweight" : b < 25 ? "Healthy weight" : b < 30 ? "Overweight" : "Obesity",
+    toolNames: { bmi: "BMI & healthy weight", needs: "Daily calories & protein", fluid: "Fluid allowance (dialysis)", convert: "Salt, mmol & carb converter", weight: "Weight tracker" },
+    bmiSub: "Body mass index, healthy range, ideal weight", needsSub: "Energy and protein for your plan", fluidSub: "Based on your daily urine output", convSub: "Salt ↔ sodium, mmol ↔ mg, carb choices", weightSub: "Log your weight and see the trend",
+    height: "Height", age: "Age", years: "years", sex: "Sex", female: "Woman", male: "Man", activity: "Activity", act: ["Little or no exercise", "Light (1–3 days/week)", "Moderate (3–5 days/week)", "Very active (6–7 days/week)"],
+    healthyRange: "Healthy weight range", ibw: "Ideal body weight", adjw: "Adjusted body weight (used for protein)", bmr: "Resting energy (BMR)", meal: "meal", choicesW: "carb choices",
+    fluidIntro: "For dialysis, a common starting point is your daily urine output plus 500–1,000 ml. Your unit sets your actual limit.", urine: "Urine per day", cups250: "Cups of 250 ml",
+    salt: "Salt", convHint: "Enter a value in any box.", date: "Date", addWeight: "Save weight", weightSaved: "Weight saved", weightEmpty: "Add two or more weights to see your trend.",
+    calcNote: "For guidance only. Ask your doctor or dietitian for your personal targets.",
+    navRecipes: "Recipes", dCats: "Browse by category", dAll: "All recipes", dMore: "See all", dPicks: p => `Top picks for ${p}`, dPlanTitle: "Today in your meal plan", dOpenPlans: "Open meal plans", dBrowse: "Browse all recipes", greetMorning: "Good morning", greetAfternoon: "Good afternoon", greetEvening: "Good evening", streak: n => `${n}-day streak`, pickPlan: "What are you cooking for?",
+    nextIdea: slot => `Idea for ${slot.toLowerCase()}`, tipTitle: "Tip of the day", cookMode: "Cook mode", stepOf: (i, n) => `Step ${i} of ${n}`, startTimer: "Start", timerDone: "Time's up!", finish: "Finish",
     mealPlans: "Meal plans", mpTitle: n => `${n}-day meal plan`, mpLen: n => n === 365 ? "1 year" : `${n} days`, mpDayOf: (d, n) => `Day ${d} of ${n}`, mpIntro: p => `Built from the collection for your plan: ${p}. Every day's breakfast, lunch, dinner and snack stay within your daily limits.`,
     mpSlots: ["Breakfast", "Lunch", "Dinner", "Snack"], mpDay: d => `Day ${d}`, mpShuffle: "Shuffle", mpUseDay: "Add this day to My day", mpUsed: "Day added to My day",
     mpNone: "Not enough recipes fit these limits. Loosen a limit in your plan.", mpNote: "Suggestions only, built automatically from nutrient data. Check portions with your care team.",
     heroEyebrow: "Kidney · diabetes · blood pressure · heart", heroTitle: 'Everyday food, <em>made for your health</em>',
-    heroLede: n => `${n} recipes from DaVita and leading health charities, with full nutrition per serving. Choose a plan for kidney disease, diabetes, blood pressure or heart health and see how every dish fits your day.`,
+    heroLede: n => `${n} recipes from trusted health organisations, with full nutrition per serving. Choose a plan for kidney disease, diabetes, blood pressure or heart health and see how every dish fits your day.`,
     statRecipes: "recipes", statPhotos: "with photos", statVideos: "cooking videos", statSources: "sources", featured: "Featured",
     legendLo: "Low", legendMid: "Moderate", legendHi: "Higher", legendMeal: "share of one meal", navHome: "Home", themeNames: { system: "Theme: system", dark: "Theme: dark", light: "Theme: light" }, source: "Source", allDone: "All steps done. Enjoy your meal!",
     plan: "My health plan", planEdit: "Edit amounts", profiles: { hd: "Kidney: dialysis", ckd: "Kidney: CKD, not on dialysis", dm: "Kidney: CKD with diabetes", t2: "Diabetes", bp: "High blood pressure", heart: "Heart health", gen: "General healthy eating" },
@@ -592,11 +788,31 @@ const UI = {
     occasions: "Occasions", without: "Without", saveOnly: "Saved only", servUnit: "servings",
     footer: (n, x) => `${n} recipes from DaVita and leading kidney, diabetes and heart health organisations, in English, Spanish and Arabic. Colour levels per serving: sodium low ≤140 mg, higher >400 mg; potassium low ≤200 mg, higher >400 mg; phosphorus low ≤100 mg, higher >250 mg. They help with sorting only. Follow the advice of your doctor or dietitian.` },
   es: {
+    navAbout: "Acerca de", kidneySub: { hd: "Diálisis", ckd: "ERC sin diálisis", dm: "ERC + diabetes" }, aboutLatest: "Recetas actualizadas recientemente", conds: { kidney: "Riñón", t2: "Diabetes", bp: "Presión arterial", heart: "Corazón", gen: "General" },
+    aboutWhat: "¿Qué es Cocina Saludable?", aboutWhatP: "Cocina Saludable reúne en un solo lugar recetas de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Cada receta muestra su nutrición por porción y enlaza a su fuente original, para que cocine con confianza y comparta lo que encuentre.",
+    aboutHow: "Cómo funciona", aboutSteps: [["🎯", "Elija su condición", "Riñón, diabetes, presión arterial, corazón o general. El panel se adapta."], ["🍽️", "Encuentre recetas adecuadas", "Filtre por dieta, nutrientes e ingredientes, y vea qué parte de sus cantidades diarias ocupa cada plato."], ["📅", "Planee y cocine", "Cree planes de comidas, registre su día y su peso, y cocine paso a paso con temporizadores."]],
+    aboutSources: "Fuentes de las recetas", aboutSourcesP: "Cada receta menciona y enlaza a la organización que la publicó.", aboutShare: "Compartir Cocina Saludable", shareBtn: "Compartir", shareMsg: "Cocina Saludable: recetas para riñón, diabetes y corazón en inglés, español y árabe.",
+    email: "Correo", copyLink: "Copiar enlace", linkCopied: "Enlace copiado",
+    disclaimer: "Cocina Saludable ofrece información general. No reemplaza los consejos de su médico, dietista o equipo de diálisis; siga los límites que ellos le indiquen.",
+    unitsLabel: "Unidades", unitsMetric: "Unidades métricas (g, ml, °C)", unitsUS: "Unidades de EE. UU. (oz, tazas, °F)",
+    dRecTitle: "Sus metas diarias", dTipsTitle: "Consejos para su plan", dToolsTitle: "Herramientas y calculadoras",
+    tCalories: "Calorías", tPerDay: "por día", tPerMeal: x => `unos ${x} por comida`, tChoices: n => `unas ${n} opciones por comida`, tSalt: g => `= ${g} g de sal`,
+    tFluid: "Líquidos", tFluidNote: "orina diaria + 750 ml", tBmi: "IMC", tNote: "Estimaciones según su plan y datos corporales (Mifflin-St Jeor para calorías, peso ideal de Devine). Las metas de su equipo de salud van primero.",
+    bmiCat: b => b < 18.5 ? "Bajo peso" : b < 25 ? "Peso saludable" : b < 30 ? "Sobrepeso" : "Obesidad",
+    toolNames: { bmi: "IMC y peso saludable", needs: "Calorías y proteína diarias", fluid: "Líquidos permitidos (diálisis)", convert: "Conversor de sal, mmol y carbohidratos", weight: "Registro de peso" },
+    bmiSub: "Índice de masa corporal, rango saludable, peso ideal", needsSub: "Energía y proteína para su plan", fluidSub: "Según su orina diaria", convSub: "Sal ↔ sodio, mmol ↔ mg, opciones de carbohidratos", weightSub: "Registre su peso y vea la tendencia",
+    height: "Estatura", age: "Edad", years: "años", sex: "Sexo", female: "Mujer", male: "Hombre", activity: "Actividad", act: ["Poco o nada de ejercicio", "Ligera (1–3 días/semana)", "Moderada (3–5 días/semana)", "Muy activa (6–7 días/semana)"],
+    healthyRange: "Rango de peso saludable", ibw: "Peso corporal ideal", adjw: "Peso ajustado (para la proteína)", bmr: "Energía en reposo (TMB)", meal: "comida", choicesW: "opciones de carbohidratos",
+    fluidIntro: "En diálisis, un punto de partida habitual es su orina diaria más 500–1,000 ml. Su unidad fija su límite real.", urine: "Orina por día", cups250: "Vasos de 250 ml",
+    salt: "Sal", convHint: "Escriba un valor en cualquier casilla.", date: "Fecha", addWeight: "Guardar peso", weightSaved: "Peso guardado", weightEmpty: "Agregue dos o más pesos para ver la tendencia.",
+    calcNote: "Solo como guía. Pida a su médico o dietista sus metas personales.",
+    navRecipes: "Recetas", dCats: "Explorar por categoría", dAll: "Todas las recetas", dMore: "Ver todo", dPicks: p => `Mejores opciones para ${p}`, dPlanTitle: "Hoy en su plan de comidas", dOpenPlans: "Abrir planes de comidas", dBrowse: "Ver todas las recetas", greetMorning: "Buenos días", greetAfternoon: "Buenas tardes", greetEvening: "Buenas noches", streak: n => `Racha de ${n} días`, pickPlan: "¿Para qué cocina?",
+    nextIdea: slot => `Idea para ${slot.toLowerCase()}`, tipTitle: "Consejo del día", cookMode: "Modo cocina", stepOf: (i, n) => `Paso ${i} de ${n}`, startTimer: "Iniciar", timerDone: "¡Tiempo!", finish: "Terminar",
     mealPlans: "Planes de comidas", mpTitle: n => `Plan de comidas de ${n} días`, mpLen: n => n === 365 ? "1 año" : `${n} días`, mpDayOf: (d, n) => `Día ${d} de ${n}`, mpIntro: p => `Creado con la colección para su plan: ${p}. El desayuno, la comida, la cena y el refrigerio de cada día quedan dentro de sus límites diarios.`,
     mpSlots: ["Desayuno", "Comida", "Cena", "Refrigerio"], mpDay: d => `Día ${d}`, mpShuffle: "Cambiar", mpUseDay: "Agregar este día a Mi día", mpUsed: "Día agregado a Mi día",
     mpNone: "No hay suficientes recetas dentro de estos límites. Amplíe un límite de su plan.", mpNote: "Solo sugerencias, creadas automáticamente a partir de los nutrientes. Revise las porciones con su equipo de salud.",
     heroEyebrow: "Riñón · diabetes · presión arterial · corazón", heroTitle: 'Comida de todos los días, <em>pensada para su salud</em>',
-    heroLede: n => `${n} recetas de DaVita y organizaciones de salud reconocidas, con nutrición completa por porción. Elija un plan para enfermedad renal, diabetes, presión arterial o corazón y vea cómo encaja cada plato en su día.`,
+    heroLede: n => `${n} recetas de organizaciones de salud reconocidas, con nutrición completa por porción. Elija un plan para enfermedad renal, diabetes, presión arterial o corazón y vea cómo encaja cada plato en su día.`,
     statRecipes: "recetas", statPhotos: "con foto", statVideos: "videos de cocina", statSources: "fuentes", featured: "Destacada",
     legendLo: "Bajo", legendMid: "Moderado", legendHi: "Alto", legendMeal: "parte de una comida", navHome: "Inicio", themeNames: { system: "Tema: sistema", dark: "Tema: oscuro", light: "Tema: claro" }, source: "Fuente", allDone: "¡Todos los pasos listos! Buen provecho.",
     plan: "Mi plan de salud", planEdit: "Editar cantidades", profiles: { hd: "Riñón: diálisis", ckd: "Riñón: ERC sin diálisis", dm: "Riñón: ERC con diabetes", t2: "Diabetes", bp: "Presión arterial alta", heart: "Salud del corazón", gen: "Alimentación saludable general" },
@@ -635,11 +851,31 @@ const UI = {
     occasions: "Ocasiones", without: "Sin", saveOnly: "Solo guardadas", servUnit: "porciones",
     footer: (n, x) => `${n} recetas de DaVita y de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Niveles por porción: sodio bajo ≤140 mg, alto >400 mg; potasio bajo ≤200 mg, alto >400 mg; fósforo bajo ≤100 mg, alto >250 mg. Solo sirven para ordenar. Siga las indicaciones de su médico o dietista.` },
   ar: {
+    navAbout: "عن التطبيق", kidneySub: { hd: "غسيل الكلى", ckd: "مزمن دون غسيل", dm: "مع السكري" }, aboutLatest: "أحدث الوصفات المحدّثة", conds: { kidney: "الكلى", t2: "السكري", bp: "ضغط الدم", heart: "القلب", gen: "عام" },
+    aboutWhat: "ما هو مطبخ الصحة؟", aboutWhatP: "يجمع مطبخ الصحة في مكان واحد وصفات من مؤسسات موثوقة في صحة الكلى والسكري والقلب، بالعربية والإنجليزية والإسبانية. تعرض كل وصفة قيمها الغذائية لكل حصة وترتبط بمصدرها الأصلي، لتطبخ بثقة وتشارك ما تجده.",
+    aboutHow: "كيف يعمل", aboutSteps: [["🎯", "اختر حالتك", "الكلى أو السكري أو ضغط الدم أو القلب أو عام، وتتكيف لوحة التحكم معها."], ["🍽️", "اعثر على الوصفات المناسبة", "صفِّ حسب النظام الغذائي والعناصر الغذائية والمكونات، وشاهد حصة كل طبق من كمياتك اليومية."], ["📅", "خطّط واطبخ", "أنشئ خطط وجبات، وتابع يومك ووزنك، واطبخ خطوة بخطوة مع المؤقتات."]],
+    aboutSources: "مصادر الوصفات", aboutSourcesP: "تشير كل وصفة إلى الجهة التي نشرتها مع رابط لها.", aboutShare: "شارك مطبخ الصحة", shareBtn: "مشاركة", shareMsg: "مطبخ الصحة: وصفات لصحة الكلى والسكري والقلب بالعربية والإنجليزية والإسبانية.",
+    email: "البريد", copyLink: "نسخ الرابط", linkCopied: "تم نسخ الرابط",
+    disclaimer: "يقدم مطبخ الصحة معلومات عامة ولا يغني عن نصيحة طبيبك أو أخصائي التغذية أو فريق غسيل الكلى؛ اتبع الحدود التي يحددونها لك.",
+    unitsLabel: "الوحدات", unitsMetric: "الوحدات المترية (غ، مل، °م)", unitsUS: "الوحدات الأمريكية (أونصة، كوب، °ف)",
+    dRecTitle: "أهدافك اليومية", dTipsTitle: "نصائح لخطتك", dToolsTitle: "الأدوات والحاسبات",
+    tCalories: "السعرات", tPerDay: "يوميًا", tPerMeal: x => `نحو ${x} لكل وجبة`, tChoices: n => `نحو ${n} حصص لكل وجبة`, tSalt: g => `= ${g} غ ملح`,
+    tFluid: "السوائل", tFluidNote: "كمية البول اليومية + 750 مل", tBmi: "مؤشر كتلة الجسم", tNote: "تقديرات مبنية على خطتك وبياناتك الجسدية (معادلة Mifflin-St Jeor للسعرات، والوزن المثالي وفق Devine). أهداف فريقك الطبي هي المرجع الأول.",
+    bmiCat: b => b < 18.5 ? "نقص في الوزن" : b < 25 ? "وزن صحي" : b < 30 ? "زيادة في الوزن" : "سمنة",
+    toolNames: { bmi: "مؤشر كتلة الجسم والوزن الصحي", needs: "السعرات والبروتين اليومي", fluid: "السوائل المسموحة (غسيل الكلى)", convert: "محوّل الملح والمليمول والكربوهيدرات", weight: "متابعة الوزن" },
+    bmiSub: "مؤشر كتلة الجسم والمدى الصحي والوزن المثالي", needsSub: "الطاقة والبروتين وفق خطتك", fluidSub: "وفق كمية البول اليومية", convSub: "ملح ↔ صوديوم، مليمول ↔ ملغ، حصص الكربوهيدرات", weightSub: "سجّل وزنك وتابع التغير",
+    height: "الطول", age: "العمر", years: "سنة", sex: "الجنس", female: "امرأة", male: "رجل", activity: "النشاط", act: ["نشاط قليل أو منعدم", "خفيف (1–3 أيام أسبوعيًا)", "متوسط (3–5 أيام أسبوعيًا)", "نشيط جدًا (6–7 أيام أسبوعيًا)"],
+    healthyRange: "مدى الوزن الصحي", ibw: "الوزن المثالي", adjw: "الوزن المعدّل (لحساب البروتين)", bmr: "طاقة الراحة (BMR)", meal: "وجبة", choicesW: "حصص كربوهيدرات",
+    fluidIntro: "في غسيل الكلى، نقطة البداية الشائعة هي كمية البول اليومية مضافًا إليها 500–1000 مل. ويحدد مركز الغسيل حدّك الفعلي.", urine: "البول يوميًا", cups250: "أكواب سعة 250 مل",
+    salt: "الملح", convHint: "أدخل قيمة في أي خانة.", date: "التاريخ", addWeight: "حفظ الوزن", weightSaved: "تم حفظ الوزن", weightEmpty: "أضف وزنين أو أكثر لرؤية التغير.",
+    calcNote: "للإرشاد فقط. اطلب من طبيبك أو أخصائي التغذية أهدافك الشخصية.",
+    navRecipes: "الوصفات", dCats: "تصفح حسب الفئة", dAll: "كل الوصفات", dMore: "عرض الكل", dPicks: p => `أفضل الاختيارات لـ${p}`, dPlanTitle: "اليوم في خطة وجباتك", dOpenPlans: "فتح خطط الوجبات", dBrowse: "تصفح كل الوصفات", greetMorning: "صباح الخير", greetAfternoon: "مساء الخير", greetEvening: "مساء الخير", streak: n => `${n} أيام متتالية`, pickPlan: "لأي حالة تطبخ؟",
+    nextIdea: slot => `فكرة لـ${slot}`, tipTitle: "نصيحة اليوم", cookMode: "وضع الطهي", stepOf: (i, n) => `الخطوة ${i} من ${n}`, startTimer: "ابدأ", timerDone: "انتهى الوقت!", finish: "إنهاء",
     mealPlans: "خطط الوجبات", mpTitle: n => `خطة وجبات لـ ${n} يومًا`, mpLen: n => n === 365 ? "سنة" : `${n} يومًا`, mpDayOf: (d, n) => `اليوم ${d} من ${n}`, mpIntro: p => `مبنية من مجموعة الوصفات وفق خطتك: ${p}. تبقى وجبات الفطور والغداء والعشاء والوجبة الخفيفة لكل يوم ضمن حدودك اليومية.`,
     mpSlots: ["الفطور", "الغداء", "العشاء", "وجبة خفيفة"], mpDay: d => `اليوم ${d}`, mpShuffle: "تبديل", mpUseDay: "أضف هذا اليوم إلى يومي", mpUsed: "أُضيف اليوم إلى يومي",
     mpNone: "لا توجد وصفات كافية ضمن هذه الحدود. وسّع أحد الحدود في خطتك.", mpNote: "اقتراحات فقط، مبنية تلقائيًا من القيم الغذائية. راجع الحصص مع فريقك الطبي.",
     heroEyebrow: "الكلى · السكري · ضغط الدم · القلب", heroTitle: 'طعام يومي <em>مصمم لصحتك</em>',
-    heroLede: n => `${n} وصفة من DaVita وجمعيات صحية رائدة، مع القيم الغذائية الكاملة لكل حصة. اختر خطة لأمراض الكلى أو السكري أو ضغط الدم أو صحة القلب وشاهد كيف يناسب كل طبق يومك.`,
+    heroLede: n => `${n} وصفة من جهات صحية موثوقة، مع القيم الغذائية الكاملة لكل حصة. اختر خطة لأمراض الكلى أو السكري أو ضغط الدم أو صحة القلب وشاهد كيف يناسب كل طبق يومك.`,
     statRecipes: "وصفة", statPhotos: "بالصور", statVideos: "فيديو طهي", statSources: "مصادر", featured: "مختارة",
     legendLo: "منخفض", legendMid: "متوسط", legendHi: "مرتفع", legendMeal: "حصة الوجبة الواحدة", navHome: "الرئيسية", themeNames: { system: "المظهر: حسب النظام", dark: "المظهر: داكن", light: "المظهر: فاتح" }, source: "المصدر", allDone: "أنهيت كل الخطوات. بالهناء والشفاء!",
     plan: "خطتي الصحية", planEdit: "تعديل الكميات", profiles: { hd: "الكلى: غسيل الكلى", ckd: "الكلى: مرض مزمن دون غسيل", dm: "الكلى: مع السكري", t2: "السكري", bp: "ارتفاع ضغط الدم", heart: "صحة القلب", gen: "أكل صحي عام" },
@@ -786,11 +1022,29 @@ const io = "IntersectionObserver" in window ? new IntersectionObserver(es => {
 }, { rootMargin: "400px" }) : null;
 function attachImg(img, r) { img.dataset.id = r.id; img.onload = () => img.classList.add("ok"); img.onerror = () => img.remove(); io ? io.observe(img) : setImg(img, r); }
 
+// generative cover for recipes without a photo: seeded from the recipe id, tinted by category
+function rng(seed) { let x = seed % 2147483647 || 1; return () => (x = x * 48271 % 2147483647) / 2147483647; }
+const artCache = new Map();
+function coverArt(r) {
+  if (artCache.has(r.id)) return artCache.get(r.id);
+  const rand = rng(r.id * 2654435761 % 2147483647), col = CAT_COLOR[r.cat] || "#456", g = CAT_GLYPH[r.cat] || "M4 12h16";
+  const hues = ["#ffffff", "#ffd27a", "#9fe0a5", "#ffb3c7", "#a8d8ff"];
+  let blobs = "";
+  for (let i = 0; i < 6; i++) {
+    const x = rand() * 120 - 10, y = rand() * 90 - 10, rx = 10 + rand() * 34, ry = rx * (.6 + rand() * .6), rot = rand() * 180;
+    blobs += `<ellipse cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" rx="${rx.toFixed(1)}" ry="${ry.toFixed(1)}" transform="rotate(${rot.toFixed(0)} ${x.toFixed(1)} ${y.toFixed(1)})" fill="${hues[Math.floor(rand() * hues.length)]}" opacity="${(.08 + rand() * .16).toFixed(2)}"/>`;
+  }
+  let dots = "";
+  for (let i = 0; i < 14; i++) dots += `<circle cx="${(rand() * 100).toFixed(1)}" cy="${(rand() * 75).toFixed(1)}" r="${(.6 + rand() * 1.6).toFixed(1)}" fill="#fff" opacity=".35"/>`;
+  const gx = 52 + rand() * 30, gy = 6 + rand() * 18, gs = 1.6 + rand() * .9, gr = rand() * 30 - 15;
+  const svg = `<svg class="art" viewBox="0 0 100 75" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <defs><linearGradient id="g${r.id}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${col}"/><stop offset="1" stop-color="color-mix(in srgb, ${col} 55%, #000)"/></linearGradient></defs>
+    <rect width="100" height="75" fill="${col}"/><rect width="100" height="75" fill="url(#g${r.id})"/>${blobs}${dots}
+    <g transform="translate(${gx.toFixed(1)} ${gy.toFixed(1)}) rotate(${gr.toFixed(0)}) scale(${gs.toFixed(2)})" fill="none" stroke="#fff" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".5"><path d="${g}"/></g></svg>`;
+  artCache.set(r.id, svg); return svg;
+}
 function placeholder(r) {
-  const col = CAT_COLOR[r.cat] || "#456", g = CAT_GLYPH[r.cat] || "M4 12h16";
-  return `<div class="ph" style="background:linear-gradient(150deg, ${col}, color-mix(in srgb, ${col} 60%, #000))">
-    <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"><path d="${g}"/></svg>
-    <b>${esc(tx(r).title)}</b></div>`;
+  return `<div class="ph">${coverArt(r)}<b>${esc(tx(r).title)}</b></div>`;
 }
 const heart = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-4.4-9.3-9C1.2 8.8 3.2 5 6.8 5c2 0 3.4 1.1 5.2 3 1.8-1.9 3.2-3 5.2-3 3.6 0 5.6 3.8 4.1 7-2.3 4.6-9.3 9-9.3 9z"/></svg>`;
 
@@ -800,7 +1054,7 @@ function card(r) {
   const mins = cardMetrics().map(([k, daily, goal, unit, li]) => {
     const v = r.n[IDX[k]], pc = v == null ? 0 : v / (daily / 3) * 100;
     const cls = v == null ? "na" : goal ? (pc >= 33 ? "lo" : "na") : pctLevel(pc);
-    return `<div class="mineral lv-${cls}"><span>${u().nutr[li]}</span><b>${fmt(v)}<small> ${unit}</small></b><div class="gauge"><i style="inline-size:${Math.min(100, pc)}%"></i></div></div>`; }).join("");
+    return `<div class="mineral lv-${cls}"><span>${u().nutr[li]}</span><b>${fmt(v)}<small> ${unitL(unit)}</small></b><div class="gauge"><i style="inline-size:${Math.min(100, pc)}%"></i></div></div>`; }).join("");
   el.innerHTML = `<div class="thumb">${placeholder(r)}${r.img != null ? `<img alt="" decoding="async">` : ""}
       <div class="badges">${r.video ? `<span class="badge">▶ ${u().video}</span>` : ""}${r.sourceName && r.sourceName !== "DaVita" ? `<span class="badge src-badge">${esc(r.sourceName)}</span>` : ""}</div>
       <button class="fav" aria-label="${u().save}" aria-pressed="${favs.has(r.id)}">${heart}</button></div>
@@ -861,10 +1115,13 @@ function applyLang() {
   const cats = {}; for (const r of R) cats[r.cat] = (cats[r.cat] || 0) + 1;
   $("#cats").innerHTML = `<button class="cat" data-cat="">${u().all} <span class="num">${R.length}</span></button>` +
     Object.keys(CAT_COLOR).filter(c => cats[c]).map(c => `<button class="cat" data-cat="${esc(c)}"><i style="background:${CAT_COLOR[c]}"></i>${esc(term(c))} <span class="num">${cats[c]}</span></button>`).join("");
-  $("#footer").textContent = u().footer(R.length, DATA.excluded);
+
   buildFacets();
   renderPlanCard();
   renderHero();
+  if (typeof renderToday === "function") renderToday();
+  if (typeof renderDash === "function" && view === "dash") renderDash();
+  if (typeof renderAbout === "function" && view === "about") renderAbout();
 }
 
 function render(resetScroll) {
@@ -903,6 +1160,56 @@ function syncUI() {
 }
 function update() { state.shown = 48; render(true); }
 
+
+const unitL = un => lang === "ar" ? ({ mg: "ملغ", g: "غ", ml: "مل", kcal: "سعرة", kg: "كغ" }[un] ?? un) : un;
+// ---------- units: show recipes in metric (the default, as used across the Middle East) ----------
+let units = store.get("units", "metric");
+const FRAC_V = { "½": .5, "⅓": 1/3, "⅔": 2/3, "¼": .25, "¾": .75, "⅛": .125, "⅜": .375, "⅝": .625, "⅞": .875 };
+const QTY = String.raw`(\d+(?:[.,]\d+)?(?:\s*[-–]\s*\d+\/\d+|\s+\d+\/\d+|\s*[½⅓⅔¼¾⅛⅜⅝⅞])?|\d+\/\d+|[½⅓⅔¼¾⅛⅜⅝⅞])`;
+function qty(q) {
+  q = q.replace(",", ".").trim();
+  let m = q.match(/^(\d+(?:\.\d+)?)\s*[-–]?\s*(\d+)\/(\d+)$/) || q.match(/^(\d+(?:\.\d+)?)\s+(\d+)\/(\d+)$/);
+  if (m) return +m[1] + m[2] / m[3];
+  if ((m = q.match(/^(\d+)\/(\d+)$/))) return m[1] / m[2];
+  if ((m = q.match(/^(\d+(?:\.\d+)?)\s*([½⅓⅔¼¾⅛⅜⅝⅞])$/))) return +m[1] + FRAC_V[m[2]];
+  if (FRAC_V[q]) return FRAC_V[q];
+  return parseFloat(q);
+}
+const U_NAMES = { en: { ml: "ml", l: "L", g: "g", kg: "kg", cm: "cm", c: "°C" }, es: { ml: "ml", l: "L", g: "g", kg: "kg", cm: "cm", c: "°C" },
+                  ar: { ml: "مل", l: "لتر", g: "غ", kg: "كغ", cm: "سم", c: "° مئوية" } };
+const round = (v, step) => Math.max(step, Math.round(v / step) * step);
+function fmtMetric(v, kind, L) {
+  const N = U_NAMES[L] || U_NAMES.en;
+  if (kind === "ml") return v >= 1000 ? `${+(v / 1000).toFixed(v >= 10000 ? 0 : 1)} ${N.l}` : `${round(v, v < 30 ? 5 : v < 200 ? 10 : 25)} ${N.ml}`;
+  if (kind === "g") return v >= 1000 ? `${+(v / 1000).toFixed(2)} ${N.kg}` : `${round(v, v < 30 ? 5 : v < 200 ? 5 : 10)} ${N.g}`;
+  if (kind === "cm") return `${+(Math.round(v * 2) / 2).toFixed(1)} ${N.cm}`.replace(".0 ", " ");
+  return v;
+}
+// unit words per language -> [kind, factor]
+const UNIT_RULES = {
+  en: [["fluid ounces?|fl\\.? ?oz\\.?", "ml", 29.57], ["cups?\\b|c\\.(?=\\s)", "ml", 240], ["pints?\\b|pt\\.?(?=\\s)", "ml", 473], ["quarts?\\b|qt\\.?(?=\\s)", "ml", 946], ["gallons?\\b|gal\\.?(?=\\s)", "ml", 3785],
+       ["ounces?\\b|oz\\.?(?![a-z])", "g", 28.35], ["pounds?\\b|lbs?\\.?(?![a-z])", "g", 453.6], ["inch(?:es)?\\b|in\\.(?=\\s)|[″”\"](?=\\s|$|[,.)])", "cm", 2.54]],
+  es: [["onzas? líquidas?", "ml", 29.57], ["tazas?\\b", "ml", 240], ["pintas?\\b", "ml", 473], ["cuartos? de galón|cuartos?\\b", "ml", 946], ["galones?\\b|galón\\b", "ml", 3785],
+       ["onzas?\\b", "g", 28.35], ["libras?\\b", "g", 453.6], ["pulgadas?\\b|[″”\"](?=\\s|$|[,.)])", "cm", 2.54]],
+  ar: [["أونصات سائلة|أونصة سائلة", "ml", 29.57], ["أكواب|كوبًا|كوبا|كوبين|كوب", "ml", 240], ["باينت", "ml", 473], ["كوارت", "ml", 946], ["غالون|جالون", "ml", 3785],
+       ["أونصات|أونصة", "g", 28.35], ["أرطال|رطلًا|رطلا|رطلين|رطل", "g", 453.6], ["بوصات|بوصة|إنش", "cm", 2.54]],
+};
+const RULES_RE = {};
+for (const [L, rules] of Object.entries(UNIT_RULES))
+  RULES_RE[L] = rules.map(([w, kind, f]) => [new RegExp(QTY + String.raw`(\s*[-–]?\s*(?:\(\s*)?)(` + w + ")", "gi"), kind, f]);
+function toMetric(text, L) {
+  if (units !== "metric" || !text) return text;
+  let t = text;
+  // temperatures: Arabic text already carries the Celsius value in brackets
+  t = t.replace(/(\d+)\s*°\s*فهرنهايت\s*\((\d+)\s*°\s*مئوية\)/g, "$2° مئوية");
+  t = t.replace(/(\d+)\s*(?:°|º|degrees?)\s*F\b(?:\s*\((\d+)\s*°\s*C\))?/gi, (m, f, c) => `${c || round((f - 32) * 5 / 9, 5)} °C`);
+  t = t.replace(/(\d+)\s*°\s*فهرنهايت/g, (m, f) => `${round((f - 32) * 5 / 9, 5)}° مئوية`);
+  for (const [re, kind, f] of RULES_RE[L] || RULES_RE.en) {
+    t = t.replace(re, (m, q, gap) => { const v = qty(q); if (!isFinite(v)) return m; return fmtMetric(v * f, kind, L) + (gap.includes("(") ? " (" : ""); });
+  }
+  return t;
+}
+
 // ---------- recipe sheet ----------
 let current = null;
 const isOpen = () => !$("#sheet").hidden;
@@ -938,6 +1245,8 @@ function openRecipe(id, push = true) {
         <button class="icon-btn" data-act="prev" aria-label="${s.prev}">${lang === "ar" ? "›" : "‹"}</button>
         <button class="icon-btn" data-act="next" aria-label="${s.next}">${lang === "ar" ? "‹" : "›"}</button>
         <button class="icon-btn" data-act="fav" aria-pressed="${favs.has(r.id)}" aria-label="${s.save}">${heart}<span class="lbl">${favs.has(r.id) ? s.savedBtn : s.save}</span></button>
+        <button class="icon-btn" data-act="units" title="${s.unitsLabel}" aria-label="${s.unitsLabel}"><b style="font-family:var(--font-data);font-size:.78rem">${units === "metric" ? "g·ml" : "oz·cup"}</b></button>
+        <button class="icon-btn" data-act="share" aria-label="${s.shareBtn}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/></svg><span class="lbl">${s.shareBtn}</span></button>
         <button class="icon-btn" data-act="copy" aria-label="${s.copy}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="lbl">${s.copy}</span></button>
         ${window.top === window ? `<button class="icon-btn" data-act="pdf" aria-label="PDF"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg><span class="lbl">PDF</span></button>` : ""}
         <a class="icon-btn" href="${esc(srcUrl)}" target="_blank" rel="noopener" aria-label="${esc(r.sourceName || "DaVita")}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg><span class="lbl">${esc(r.sourceName || "DaVita")}</span></a>
@@ -952,24 +1261,24 @@ function openRecipe(id, push = true) {
       </div>
       <dl class="facts">
         <div><dt>${s.portions}</dt><dd>${esc(t.portions || "–")}</dd></div>
-        <div><dt>${s.serving}</dt><dd>${esc(t.serving || "–")}</dd></div>
+        <div><dt>${s.serving}</dt><dd>${esc(toMetric(t.serving, lang) || "–")}</dd></div>
         <div style="grid-column: span 2"><dt>${s.dietTypes}</dt><dd><div class="chips" style="margin-top:4px">${r.diet.map(d => `<span class="chip diet">${esc(term(d))}</span>`).join("") || "–"}</div></dd></div>
       </dl>
       <div class="cols">
         <div style="display:grid;gap:26px">
           <section class="panel"><h3>${s.ing} <span class="foot-note">${s.items(t.ing.length)}</span></h3>
-            ${groupedList(t.ing, (x, i) => `<li><label><input type="checkbox" data-ing="${i}" ${done.i.includes(i) ? "checked" : ""}><span>${esc(x)}</span></label></li>`, "ul", "ing")}</section>
-          <section class="panel"><h3>${s.prep} <span class="foot-note">${s.stepsHint}</span></h3>
-            ${groupedList(t.steps, (x, i) => `<li data-step="${i}" class="${done.s.includes(i) ? "done" : ""}"><span>${esc(x)}</span></li>`, "ol", "steps")}</section>
+            ${groupedList(t.ing, (x, i) => `<li><label><input type="checkbox" data-ing="${i}" ${done.i.includes(i) ? "checked" : ""}><span>${esc(toMetric(x, lang))}</span></label></li>`, "ul", "ing")}</section>
+          <section class="panel"><h3>${s.prep} <button class="btn-primary btn-cook" data-act="cook">👩‍🍳 ${s.cookMode}</button></h3>
+            ${groupedList(t.steps, (x, i) => `<li data-step="${i}" class="${done.s.includes(i) ? "done" : ""}"><span>${esc(toMetric(x, lang))}</span></li>`, "ol", "steps")}</section>
           ${videoHtml}
-          ${t.hints.length ? `<section class="panel"><h3>${s.hints}</h3><div class="hints">${groupedList(t.hints, x => `<li>${esc(x)}</li>`, "ul", "")}</div></section>` : ""}
+          ${t.hints.length ? `<section class="panel"><h3>${s.hints}</h3><div class="hints">${groupedList(t.hints, x => `<li>${esc(toMetric(x, lang))}</li>`, "ul", "")}</div></section>` : ""}
         </div>
         <div class="side">
           ${dietitianView(r)}
           <section class="panel"><h3>${s.nut}</h3><div class="ntable"><table>${nrows}</table></div>
             ${r.footnote && lang === "en" ? `<p class="foot-note">${esc(r.footnote)}</p>` : ""}</section>
           ${t.choices.length ? `<div class="box"><h3>${s.choices}</h3><ul>${t.choices.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>` : ""}
-          ${r.carb ? `<div class="box"><h3>${s.carb}</h3><div class="carb-big">${esc(r.carb)}</div></div>` : ""}
+          ${r.carb && /^[\d\s.,/½⅓¼¾–-]+$/.test(r.carb) ? `<div class="box"><h3>${s.carb}</h3><div class="carb-big">${esc(r.carb)}</div></div>` : ""}
           ${tagRow(s.cuisine, r.cuisine)}${tagRow(s.method, r.method)}${tagRow(s.dish, r.dish)}
           ${r.by && lang === "en" ? `<p class="foot-note">${s.by}: ${esc(r.by)}</p>` : ""}
           <p class="print-src">${esc(r.sourceName || "DaVita")} · ${esc(srcUrl)}</p>
@@ -992,10 +1301,12 @@ function openRecipe(id, push = true) {
 }
 let listScroll = 0;
 function hidePage() { $("#sheet").hidden = true; document.body.classList.remove("reading"); current = null; window.scrollTo({ top: listScroll }); }
-function closeRecipe() { if (history.state && history.state.r) history.back(); else { hidePage(); history.replaceState(null, "", `#${lang}`); } }
+function closeRecipe() { if (history.state && history.state.r) history.back(); else { hidePage(); history.replaceState(null, "", view === "recipes" ? `#${lang}-recipes` : `#${lang}`); } }
 window.addEventListener("popstate", () => {
   const m = location.hash.match(/r(\d+)$/);
-  if (m) openRecipe(+m[1], false); else if (isOpen()) hidePage();
+  if (m) { openRecipe(+m[1], false); return; }
+  if (isOpen()) hidePage();
+  setView(/-recipes$/.test(location.hash) ? "recipes" : /-about$/.test(location.hash) ? "about" : "dash", false);
 });
 $("#sheet").addEventListener("click", e => {
   const act = e.target.closest("[data-act]")?.dataset.act;
@@ -1003,6 +1314,9 @@ $("#sheet").addEventListener("click", e => {
   if (act === "prev" || act === "next") step(act === "next" ? 1 : -1);
   if (act === "fav") { toggleFav(current.id); openRecipe(current.id, false); }
   if (act === "copy") copyRecipe(current);
+  if (act === "cook") openCook(current);
+  if (act === "share") shareLink(`${shareUrl()}#${lang}-r${current.id}`, tx(current).title);
+  if (act === "units") { units = units === "metric" ? "us" : "metric"; store.set("units", units); openRecipe(current.id, false); toast(units === "metric" ? u().unitsMetric : u().unitsUS); }
   if (act === "pdf") { const t0 = document.title; document.title = tx(current).title; window.print(); setTimeout(() => document.title = t0, 500); }
   if (act === "plan") openPlan();
   if (act === "srvPlus" || act === "srvMinus") { const o = $("#srv"); o.value = o.textContent = Math.max(0.5, Math.min(10, +o.textContent + (act === "srvPlus" ? 0.5 : -0.5))); }
@@ -1023,8 +1337,8 @@ function step(d) {
 }
 function copyRecipe(r) {
   const t = tx(r), s = u(), L = NLABEL[lang], U = NUNIT[lang];
-  const txt = [t.title, `${s.portions}: ${t.portions || "-"} · ${s.serving}: ${t.serving || "-"}`, "", s.ing + ":", ...t.ing.map(x => "• " + x[1]), "",
-    s.prep + ":", ...t.steps.map((x, i) => `${i + 1}. ${x[1]}`), "", s.nut + ":", ...NKEYS.map((k, i) => r.n[i] != null ? `${L[i]}: ${fmt(r.n[i])} ${U[i]}`.trim() : null).filter(Boolean),
+  const txt = [t.title, `${s.portions}: ${t.portions || "-"} · ${s.serving}: ${t.serving || "-"}`, "", s.ing + ":", ...t.ing.map(x => "• " + toMetric(x[1], lang)), "",
+    s.prep + ":", ...t.steps.map((x, i) => `${i + 1}. ${toMetric(x[1], lang)}`), "", s.nut + ":", ...NKEYS.map((k, i) => r.n[i] != null ? `${L[i]}: ${fmt(r.n[i])} ${U[i]}`.trim() : null).filter(Boolean),
     ...(t.hints.length ? ["", s.hints + ":", ...t.hints.map(x => "• " + x[1])] : []), "", r.url].join("\n");
   try { navigator.clipboard.writeText(txt).then(() => toast(s.copied), () => fallbackCopy(txt)); } catch { fallbackCopy(txt); }
 }
@@ -1068,11 +1382,11 @@ function fitScore(r) {   // largest share of a meal's budget among the limits (g
 const SORT_OK = v => (v in SORTS ? v : "az");
 // the three nutrients shown on cards: the plan's limits first, then its goals
 function cardMetrics() { const t = planTargets().filter(x => x[0] !== "protein_g"); return [...t.filter(x => !x[2]), ...t.filter(x => x[2])].slice(0, 3); }
-function savePlan() { store.set("plan", plan); mpCache = null; if ($("#mpDlg").open) renderMealPlan(); renderPlanCard(); render(); renderHero(); if (current) openRecipe(current.id, false); if ($("#dayDlg").open) renderDay(); }
+function savePlan() { store.set("plan", plan); if (view === "dash" && typeof renderDash === "function") { mpCache = null; setTimeout(renderDash); } if (typeof renderToday === "function") renderToday(); mpCache = null; if ($("#mpDlg").open) renderMealPlan(); renderPlanCard(); render(); renderHero(); if (current) openRecipe(current.id, false); if ($("#dayDlg").open) renderDay(); }
 function renderPlanCard() {
   $("#planType").innerHTML = Object.entries(u().profiles).map(([k, l]) => `<option value="${k}" ${k === plan.type ? "selected" : ""}>${l}</option>`).join("");
   const t = planTargets(), N = u().nutr;
-  $("#planLims").innerHTML = t.map(([k, d, goal, unit, li]) => `<bdi>${N[li]}${goal ? " ↑" : ""}: <span class="num" dir="ltr">${d} ${unit}</span></bdi>`).join(" · ");
+  $("#planLims").innerHTML = t.map(([k, d, goal, unit, li]) => `<bdi>${N[li]}${goal ? " ↑" : ""}: <span class="num">${d} ${unitL(unit)}</span></bdi>`).join(" · ");
 }
 function meter(label, v, daily, goal, unit, perMeal = true) {
   if (v == null || !daily) return "";
@@ -1093,7 +1407,7 @@ function dietitianView(r) {
   if (na != null && na / plan.na > 1 / 3) notes.push(s.nNa(Math.round(na / plan.na * 100)));
   if (plan.type === "hd" && pr >= 15) notes.push(s.nProtGood(fmt(pr)));
   if ((plan.type === "ckd" || plan.type === "dm") && pr != null && pr > proteinDaily() / 3) notes.push(s.nProtOver);
-  if ((plan.type === "dm" || plan.type === "t2") && r.carb) notes.push(s.nCarb(r.carb));
+  if ((plan.type === "dm" || plan.type === "t2") && r.carb && /^[\d\s.,/½]+$/.test(r.carb)) notes.push(s.nCarb(r.carb));
   if (plan.sugar && n("added_sugar_g") >= 10) notes.push(s.nSugar(fmt(n("added_sugar_g"))));
   if (plan.type === "bp" && k >= 400) notes.push(s.nKGood);
   if (n("fiber_g") >= 3) notes.push(s.nFiber);
@@ -1156,8 +1470,19 @@ $("#planType").addEventListener("change", e => { plan = { ...plan, type: e.targe
 $("#editPlan").addEventListener("click", openPlan);
 
 // ---------- my day (planner) ----------
-let day = store.get("day", []);   // [{id, servings}]
-function saveDay() { store.set("day", day); $("#dayCount").textContent = day.length; syncNav(); if ($("#dayDlg").open) renderDay(); }
+const todayKey = () => new Date().toISOString().slice(0, 10);
+let day = store.get("day", []);   // [{id, servings}] for today
+(function rollDay() {   // keep a short history so the home view can show a streak
+  const d = store.get("dayDate", todayKey());
+  if (d !== todayKey()) { const h = store.get("history", {}); if (day.length) h[d] = day.length; store.set("history", h); day = []; store.set("day", day); }
+  store.set("dayDate", todayKey());
+})();
+function streak() {
+  const h = store.get("history", {}); let n = day.length ? 1 : 0, t = new Date();
+  for (let i = 1; i < 400; i++) { t.setDate(t.getDate() - 1); if (h[t.toISOString().slice(0, 10)]) n++; else break; }
+  return n;
+}
+function saveDay() { store.set("day", day); store.set("dayDate", todayKey()); if (typeof renderToday === "function") renderToday(); $("#dayCount").textContent = day.length; syncNav(); if ($("#dayDlg").open) renderDay(); }
 function renderDay() {
   const s = u(), N = s.nutr;
   const items = day.map(d => ({ ...d, r: byId.get(d.id) })).filter(d => d.r);
@@ -1209,11 +1534,11 @@ function renderHero() {
 function drawSlides() {
   const stage = $("#stage"); stage.querySelectorAll(".slide").forEach(x => x.remove());
   if (!FEATURED.length) { stage.hidden = true; return; }
-  [2, 1, 0].forEach(k => {
+  [0].forEach(k => {
     const r = FEATURED[(slideAt + k) % FEATURED.length], el = document.createElement("div");
     el.className = `slide s${k}`; el.dataset.id = r.id;
     el.innerHTML = `<img alt="">${k === 0 ? `<div class="slide-cap"><small>${u().featured} · ${esc(term(r.cat))}</small><b>${esc(tx(r).title)}</b>
-      <div class="chips">${cardMetrics().map(([key, , , unit, li]) => `<span>${u().nutr[li]} ${fmt(r.n[IDX[key]])} ${unit}</span>`).join("")}</div></div>` : ""}`;
+      <div class="chips">${cardMetrics().map(([key, , , unit, li]) => `<span>${u().nutr[li]} ${fmt(r.n[IDX[key]])} ${unitL(unit)}</span>`).join("")}</div></div>` : ""}`;
     const im = el.querySelector("img"); im.onerror = () => { im.onerror = null; setImg(im, r); }; im.src = `photos/${r.id}.webp`; stage.prepend(el);
   });
   $("#dots").innerHTML = FEATURED.slice(0, 6).map((_, i) => `<button aria-label="${i + 1}" aria-current="${i === slideAt % 6}"></button>`).join("");
@@ -1254,7 +1579,7 @@ function ringGauge(label, v, daily, goal, unit) {
   const col = goal ? "var(--accent)" : `var(--${pctLevel(pc)})`;
   return `<div class="ring"><svg viewBox="0 0 84 84"><circle class="track" cx="42" cy="42" r="${R0}"/><circle class="val" cx="42" cy="42" r="${R0}" stroke="${col}"
       stroke-dasharray="${C.toFixed(1)}" stroke-dashoffset="${off.toFixed(1)}" style="--c:${C.toFixed(1)}"/></svg>
-    <div class="pc">${pc}%</div><b>${label}</b><span class="num" dir="ltr">${fmt(v)} / ${daily} ${unit}</span></div>`;
+    <div class="pc">${pc}%</div><b>${label}</b><span class="num"><bdi>${fmt(v)} / ${daily}</bdi> ${unitL(unit)}</span></div>`;
 }
 
 
@@ -1269,7 +1594,6 @@ const SLOT_RULES = [
 const MP_LENGTHS = [7, 14, 30, 60, 120, 365];
 let mpSeed = 1, mpDay = 0, mpCache = null, mpLen = store.get("mpLen", 7);
 if (!MP_LENGTHS.includes(mpLen)) mpLen = 7;
-function rng(seed) { let x = seed % 2147483647 || 1; return () => (x = x * 48271 % 2147483647) / 2147483647; }
 function fitsShare(r, share) {
   for (const [k, daily, goal] of planTargets()) {
     if (goal || k === "protein_g") continue;
@@ -1335,13 +1659,438 @@ $("#mpDlg").addEventListener("click", e => {
   if (act === "open") { $("#mpDlg").close(); openRecipe(+a.dataset.id); }
 });
 
+
+// ---------- today (home) ----------
+function slotNow() { const h = new Date().getHours(); return h < 11 ? 0 : h < 16 ? 1 : h < 21 ? 2 : 3; }
+function nextMealIdea() {
+  const slot = slotNow(), rule = SLOT_RULES[slot], used = new Set(day.map(d => d.id));
+  const eaten = k => day.reduce((a, d) => a + ((byId.get(d.id)?.n[IDX[k]]) || 0) * d.servings, 0);
+  const pool = R.filter(r => rule.cats.includes(r.cat) && !used.has(r.id) && r.n[0] != null && (slot === 3 || r.n[0] >= 150)
+    && planTargets().every(([k, daily, goal]) => goal || k === "protein_g" || (r.n[IDX[k]] ?? 1e9) <= Math.max(0, daily - eaten(k)) * (slot === 3 ? .4 : .5)));
+  if (!pool.length) return null;
+  const withPhoto = pool.filter(r => r.img != null), list = withPhoto.length ? withPhoto : pool;
+  const seed = [...todayKey()].reduce((a, c) => a * 31 + c.charCodeAt(0), 7) + day.length * 13;
+  return { r: list[Math.abs(seed) % list.length], slot };
+}
+function tipOfDay() {
+  const seed = [...todayKey()].reduce((a, c) => a * 31 + c.charCodeAt(0), 3);
+  const pool = R.filter(r => (tx(r).hints || []).some(h => h[1] && h[1].length > 60 && h[1].length < 220));
+  if (!pool.length) return null;
+  const r = pool[Math.abs(seed) % pool.length], h = tx(r).hints.filter(h => h[1] && h[1].length > 60 && h[1].length < 220);
+  return { r, text: h[0][1] };
+}
+function renderToday() {
+  const s = u(), hour = new Date().getHours();
+  const greet = hour < 12 ? s.greetMorning : hour < 18 ? s.greetAfternoon : s.greetEvening;
+  const firstVisit = !store.get("plan", null);
+  const total = k => day.reduce((a, d) => a + ((byId.get(d.id)?.n[IDX[k]]) || 0) * d.servings, 0);
+  const idea = nextMealIdea(), tip = tipOfDay(), st = streak();
+  $("#today").innerHTML = `<div class="today-top"><h3>${greet}</h3><div class="chipset">${st > 1 ? `<span class="streak">🔥 ${s.streak(st)}</span>` : ""}<span class="chip diet">${s.profiles[plan.type]}</span></div></div>
+
+    <div class="mini-rings">${planTargets().slice(0, 4).map(([k, daily, goal, unit, li]) => ringGauge(s.nutr[li], Math.round(total(k)), daily, goal, unit)).join("")}</div>
+    ${idea ? `<div class="next-meal" data-open="${idea.r.id}"><div class="thumb">${placeholder(idea.r)}${idea.r.img != null ? `<img alt="" data-timg="${idea.r.id}">` : ""}</div>
+      <div><small>${s.nextIdea(s.mpSlots[idea.slot])}</small><h4>${esc(tx(idea.r).title)}</h4><span>${cardMetrics().map(([k, , , unit, li]) => `${s.nutr[li]} ${fmt(idea.r.n[IDX[k]])} ${unitL(unit)}`).join(" · ")}</span></div></div>` : ""}
+    ${tip ? `<div class="tip"><b>${s.tipTitle}</b><span>${esc(tip.text)}</span></div>` : ""}`;
+  $("#today").querySelectorAll("[data-timg]").forEach(img => { img.onload = () => img.classList.add("ok"); img.onerror = () => img.remove(); setImg(img, byId.get(+img.dataset.timg)); });
+}
+$("#today").addEventListener("click", e => {
+  const p = e.target.closest("[data-tplan]"); if (p) { plan = { ...plan, type: p.dataset.tplan, ...blankPlan(p.dataset.tplan) }; savePlan(); return; }
+  const o = e.target.closest("[data-open]"); if (o) openRecipe(+o.dataset.open);
+});
+
+// ---------- cook mode ----------
+let cook = null, wakeLock = null, audioCtx = null;
+const TIMER_RE = /(\d+(?:\.\d+)?)(?:\s*(?:to|-|–|or)\s*(\d+(?:\.\d+)?))?\s*(hours?|hrs?|minutes?|mins?|seconds?|secs?)\b/gi;
+function timersIn(text) {
+  const out = []; let m; TIMER_RE.lastIndex = 0;
+  while ((m = TIMER_RE.exec(text || ""))) {
+    const v = parseFloat(m[2] || m[1]), unit = m[3].toLowerCase();
+    const sec = unit.startsWith("h") ? v * 3600 : unit.startsWith("s") ? v : v * 60;
+    if (sec >= 10 && sec <= 6 * 3600) out.push(Math.round(sec));
+  }
+  return [...new Set(out)].slice(0, 3);
+}
+const mmss = sec => { const h = Math.floor(sec / 3600), m = Math.floor(sec % 3600 / 60), s2 = sec % 60; return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(s2).padStart(2, "0"); };
+function beep() {
+  try { audioCtx ??= new (window.AudioContext || window.webkitAudioContext)();
+    [0, .35, .7].forEach(t => { const o = audioCtx.createOscillator(), g = audioCtx.createGain(); o.frequency.value = 880; o.connect(g); g.connect(audioCtx.destination);
+      g.gain.setValueAtTime(.0001, audioCtx.currentTime + t); g.gain.exponentialRampToValueAtTime(.3, audioCtx.currentTime + t + .02); g.gain.exponentialRampToValueAtTime(.0001, audioCtx.currentTime + t + .3);
+      o.start(audioCtx.currentTime + t); o.stop(audioCtx.currentTime + t + .32); }); } catch {}
+  try { navigator.vibrate?.([200, 100, 200]); } catch {}
+}
+function openCook(r) {
+  const en = r.t.en || tx(r);
+  cook = { r, i: 0, timers: {}, steps: tx(r).steps, en: en.steps };
+  renderCook(); $("#cookDlg").showModal();
+  try { navigator.wakeLock?.request("screen").then(l => wakeLock = l).catch(() => {}); } catch {}
+}
+function renderCook() {
+  const s = u(), { r, i, steps } = cook, st = steps[i];
+  const tms = timersIn((cook.en[i] || [])[1]).concat(lang === "en" ? [] : timersIn(st[1])).filter((v, k, a) => a.indexOf(v) === k).slice(0, 3);
+  $("#cookIn").innerHTML = `<div class="cook-head"><h2 id="cookTitle">${esc(tx(r).title)}</h2><div class="grp" style="display:flex;gap:6px">
+      <button class="icon-btn" data-cact="ing">${s.ing}</button><button class="icon-btn" data-cact="close">${s.done}</button></div></div>
+    <div class="cook-progress"><i style="inline-size:${(i + 1) / steps.length * 100}%"></i></div>
+    <div class="cook-step" key="${i}">${cook.showIng ? `<div class="cook-ing"><ul class="ing" style="list-style:none;padding:0;margin:0">${tx(r).ing.map(x => `<li style="padding:4px 0">${x[0] ? `<b>${esc(x[0])}:</b> ` : ""}${esc(toMetric(x[1], lang))}</li>`).join("")}</ul></div>` : ""}
+      <div class="n">${s.stepOf(i + 1, steps.length)}</div><p>${esc(toMetric(st[1], lang))}</p>
+      ${tms.length ? `<div class="timers">${tms.map(sec => { const t = cook.timers[`${i}:${sec}`]; const left = t ? Math.max(0, Math.round((t.end - Date.now()) / 1000)) : sec;
+        return `<button class="timer ${t ? (left ? "run" : "done") : ""}" data-cact="timer" data-sec="${sec}">⏱ ${t ? (left ? mmss(left) : s.timerDone) : `${s.startTimer} ${mmss(sec)}`}</button>`; }).join("")}</div>` : ""}</div>
+    <div class="cook-nav"><button class="icon-btn" data-cact="prev" ${i === 0 ? "disabled" : ""}>${lang === "ar" ? "→" : "←"} ${s.prev}</button>
+      ${i < steps.length - 1 ? `<button class="btn-primary" data-cact="next">${s.next} ${lang === "ar" ? "←" : "→"}</button>` : `<button class="btn-primary" data-cact="finish">✓ ${s.finish}</button>`}</div>`;
+}
+setInterval(() => {
+  if (!cook || !$("#cookDlg").open) return;
+  let ring = false;
+  for (const [k, t] of Object.entries(cook.timers)) if (!t.rung && Date.now() >= t.end) { t.rung = true; ring = true; }
+  if (ring) beep();
+  if (Object.keys(cook.timers).length) renderCook();
+}, 1000);
+$("#cookDlg").addEventListener("click", e => {
+  const a = e.target.closest("[data-cact]"); if (!a) return; const act = a.dataset.cact;
+  if (act === "close") $("#cookDlg").close();
+  if (act === "next") { cook.i++; renderCook(); }
+  if (act === "prev") { cook.i--; renderCook(); }
+  if (act === "ing") { cook.showIng = !cook.showIng; renderCook(); }
+  if (act === "timer") { const key = `${cook.i}:${a.dataset.sec}`; if (cook.timers[key]) delete cook.timers[key]; else cook.timers[key] = { end: Date.now() + a.dataset.sec * 1000 };
+    try { audioCtx ??= new (window.AudioContext || window.webkitAudioContext)(); } catch {} renderCook(); }
+  if (act === "finish") { $("#cookDlg").close(); celebrate(); }
+});
+$("#cookDlg").addEventListener("close", () => { try { wakeLock?.release(); } catch {} wakeLock = null; });
+document.addEventListener("keydown", e => { if (!$("#cookDlg").open) return; const f = lang === "ar" ? -1 : 1;
+  if (e.key === "ArrowRight" && cook.i < cook.steps.length - 1 && f > 0 || e.key === "ArrowLeft" && cook.i < cook.steps.length - 1 && f < 0) { cook.i++; renderCook(); }
+  else if ((e.key === "ArrowLeft" && f > 0 || e.key === "ArrowRight" && f < 0) && cook.i > 0) { cook.i--; renderCook(); } });
+let touchX = null;
+$("#cookDlg").addEventListener("touchstart", e => touchX = e.touches[0].clientX, { passive: true });
+$("#cookDlg").addEventListener("touchend", e => { if (touchX == null) return; const dx = e.changedTouches[0].clientX - touchX; touchX = null;
+  if (Math.abs(dx) < 60) return; const fwd = (dx < 0) !== (lang === "ar");
+  if (fwd && cook.i < cook.steps.length - 1) cook.i++; else if (!fwd && cook.i > 0) cook.i--; else return; renderCook(); });
+
+
+
+// ---------- dashboard: recommendations, advice, calculators, weight ----------
+const TIPS = {
+  kidney: { en: [
+      ["🥔", "Lower the potassium in potatoes and root vegetables: peel, dice and soak them, or boil them twice in fresh water."],
+      ["🏷️", "Check ingredient lists for phosphate additives (words containing \"phos\"). The body absorbs additive phosphorus almost completely."],
+      ["🌿", "Flavour food with herbs, lemon, garlic and spices instead of salt. Avoid salt substitutes made with potassium chloride."],
+      ["💧", "If you have a fluid limit, count soups, ice and juicy fruit as fluid too."],
+      ["💊", "Take phosphate binders with meals and snacks exactly as prescribed."] ],
+    es: [
+      ["🥔", "Reduzca el potasio de papas y raíces: pélelas, córtelas en cubos y remójelas, o hiérvalas dos veces en agua nueva."],
+      ["🏷️", "Revise los ingredientes en busca de aditivos de fosfato (palabras con \"fos\"). El cuerpo absorbe casi todo el fósforo de los aditivos."],
+      ["🌿", "Dé sabor con hierbas, limón, ajo y especias en lugar de sal. Evite sustitutos de sal con cloruro de potasio."],
+      ["💧", "Si tiene límite de líquidos, cuente también sopas, hielo y frutas jugosas."],
+      ["💊", "Tome los quelantes de fósforo con comidas y refrigerios, tal como se los recetaron."] ],
+    ar: [
+      ["🥔", "قلّل البوتاسيوم في البطاطس والخضار الجذرية: قشّرها وقطّعها وانقعها في الماء، أو اسلقها مرتين بماء جديد."],
+      ["🏷️", "افحص قائمة المكونات بحثًا عن إضافات الفوسفات (كلمات تحتوي على \"فوس\")؛ إذ يمتص الجسم فوسفور الإضافات بالكامل تقريبًا."],
+      ["🌿", "أضف النكهة بالأعشاب والليمون والثوم والتوابل بدل الملح، وتجنّب بدائل الملح المصنوعة من كلوريد البوتاسيوم."],
+      ["💧", "إذا كان لديك حد للسوائل، فاحسب الشوربة والثلج والفواكه الغنية بالعصارة ضمن السوائل."],
+      ["💊", "تناول رابطات الفوسفات مع الوجبات والوجبات الخفيفة كما وصفها الطبيب تمامًا."] ] },
+  diabetes: { en: [
+      ["🍽️", "Use the plate method: half non-starchy vegetables, a quarter lean protein, a quarter carbohydrate foods."],
+      ["⚖️", "Keep carbohydrate portions similar at each meal. One carbohydrate choice is about 15 g."],
+      ["🌾", "Choose whole grains, beans and lentils; their fibre slows the rise in blood sugar."],
+      ["🥤", "Swap sweetened drinks for water, unsweetened tea or coffee."],
+      ["🍎", "Eat fruit with some protein or healthy fat, and spread it through the day."] ],
+    es: [
+      ["🍽️", "Use el método del plato: la mitad verduras sin almidón, un cuarto proteína magra y un cuarto carbohidratos."],
+      ["⚖️", "Mantenga porciones de carbohidratos parecidas en cada comida. Una opción de carbohidratos son unos 15 g."],
+      ["🌾", "Elija granos integrales, frijoles y lentejas; su fibra hace más lento el aumento del azúcar en sangre."],
+      ["🥤", "Cambie las bebidas azucaradas por agua, té o café sin azúcar."],
+      ["🍎", "Coma la fruta con algo de proteína o grasa saludable y repártala durante el día."] ],
+    ar: [
+      ["🍽️", "استخدم طريقة الطبق: نصفه خضار غير نشوية، وربعه بروتين قليل الدهن، وربعه أطعمة نشوية."],
+      ["⚖️", "حافظ على كميات متقاربة من الكربوهيدرات في كل وجبة؛ فالحصة الواحدة من الكربوهيدرات نحو 15 غ."],
+      ["🌾", "اختر الحبوب الكاملة والفاصوليا والعدس؛ فأليافها تبطئ ارتفاع سكر الدم."],
+      ["🥤", "استبدل المشروبات المحلاة بالماء أو الشاي أو القهوة دون سكر."],
+      ["🍎", "تناول الفاكهة مع قليل من البروتين أو الدهون الصحية، ووزّعها على مدار اليوم."] ] },
+  bp: { en: [
+      ["🧂", "Most sodium comes from bread, processed meat, canned soup, pickles and restaurant food, not the salt shaker."],
+      ["🥬", "Eat plenty of potassium-rich vegetables, fruit and beans, unless your doctor limits potassium."],
+      ["🥛", "Choose low-fat dairy and whole grains, as in the DASH eating plan."],
+      ["🥫", "Rinse canned beans and vegetables to wash away up to a third of the sodium."],
+      ["🚶", "Move for about 30 minutes on most days; even a short walk after meals helps."] ],
+    es: [
+      ["🧂", "La mayor parte del sodio viene del pan, embutidos, sopas enlatadas, encurtidos y comida de restaurante, no del salero."],
+      ["🥬", "Coma muchas verduras, frutas y frijoles ricos en potasio, salvo que su médico limite el potasio."],
+      ["🥛", "Elija lácteos bajos en grasa y granos integrales, como en el plan DASH."],
+      ["🥫", "Enjuague los frijoles y verduras enlatados para quitar hasta un tercio del sodio."],
+      ["🚶", "Muévase unos 30 minutos casi todos los días; incluso una caminata corta después de comer ayuda."] ],
+    ar: [
+      ["🧂", "يأتي معظم الصوديوم من الخبز واللحوم المصنّعة والشوربات المعلبة والمخللات وطعام المطاعم، لا من المملحة."],
+      ["🥬", "أكثِر من الخضار والفواكه والبقوليات الغنية بالبوتاسيوم، ما لم يحدّ طبيبك من البوتاسيوم."],
+      ["🥛", "اختر الألبان قليلة الدسم والحبوب الكاملة كما في نظام DASH الغذائي."],
+      ["🥫", "اشطف الفاصوليا والخضار المعلبة للتخلص من ثلث الصوديوم تقريبًا."],
+      ["🚶", "تحرّك نحو 30 دقيقة في معظم الأيام؛ فحتى المشي القصير بعد الوجبات مفيد."] ] },
+  heart: { en: [
+      ["🫒", "Cook with olive or canola oil instead of butter or ghee."],
+      ["🐟", "Eat fish twice a week, especially oily fish such as salmon or sardines."],
+      ["🥩", "Choose lean cuts of meat and remove visible fat and skin."],
+      ["🥣", "Oats, barley, beans and lentils contain soluble fibre that helps lower LDL cholesterol."],
+      ["🍬", "Keep added sugar under about 25 g a day for women and 36 g for men."] ],
+    es: [
+      ["🫒", "Cocine con aceite de oliva o canola en lugar de mantequilla o manteca clarificada."],
+      ["🐟", "Coma pescado dos veces por semana, sobre todo pescados grasos como salmón o sardinas."],
+      ["🥩", "Elija cortes de carne magros y quite la grasa visible y la piel."],
+      ["🥣", "La avena, la cebada, los frijoles y las lentejas tienen fibra soluble que ayuda a bajar el colesterol LDL."],
+      ["🍬", "Mantenga el azúcar añadida por debajo de unos 25 g al día en mujeres y 36 g en hombres."] ],
+    ar: [
+      ["🫒", "اطبخ بزيت الزيتون أو زيت الكانولا بدل الزبدة أو السمن."],
+      ["🐟", "تناول السمك مرتين أسبوعيًا، خاصة الأسماك الدهنية كالسلمون والسردين."],
+      ["🥩", "اختر قطع اللحم قليلة الدهن، وأزل الدهون الظاهرة والجلد."],
+      ["🥣", "يحتوي الشوفان والشعير والفاصوليا والعدس على ألياف ذائبة تساعد على خفض الكوليسترول الضار."],
+      ["🍬", "اجعل السكر المضاف أقل من 25 غ يوميًا تقريبًا للنساء و36 غ للرجال."] ] },
+  gen: { en: [
+      ["📅", "Plan the week's meals ahead; it saves money and keeps nutrition on track."],
+      ["💧", "Drink water through the day, unless you have a fluid limit."],
+      ["🍇", "Eat vegetables and fruit of many colours for a wider range of nutrients."],
+      ["🏷️", "Read nutrition labels per serving, and check how many servings are in the pack."],
+      ["🥕", "Keep easy snacks ready: fruit, vegetable sticks or yoghurt."] ],
+    es: [
+      ["📅", "Planee las comidas de la semana; ahorra dinero y mantiene la nutrición en orden."],
+      ["💧", "Beba agua durante el día, salvo que tenga un límite de líquidos."],
+      ["🍇", "Coma verduras y frutas de muchos colores para obtener más nutrientes."],
+      ["🏷️", "Lea las etiquetas por porción y revise cuántas porciones trae el paquete."],
+      ["🥕", "Tenga refrigerios listos: fruta, palitos de verdura o yogur."] ],
+    ar: [
+      ["📅", "خطّط لوجبات الأسبوع مسبقًا؛ فذلك يوفر المال ويحافظ على تغذية متوازنة."],
+      ["💧", "اشرب الماء على مدار اليوم، ما لم يكن لديك حد للسوائل."],
+      ["🍇", "تناول خضارًا وفواكه بألوان متعددة للحصول على عناصر غذائية متنوعة."],
+      ["🏷️", "اقرأ البطاقة الغذائية لكل حصة، وتحقق من عدد الحصص في العبوة."],
+      ["🥕", "جهّز وجبات خفيفة سهلة: فاكهة أو أصابع خضار أو زبادي."] ] },
+};
+const tipGroup = () => ({ hd: "kidney", ckd: "kidney", dm: "kidney", t2: "diabetes", bp: "bp", heart: "heart", gen: "gen" })[plan.type];
+const body = () => ({ height: plan.height || 165, age: plan.age || 50, sex: plan.sex || "f", activity: plan.activity || 1.375, urine: plan.urine ?? 500 });
+function needs() {
+  const b = body(), kg = weightKg(), m = b.height / 100;
+  const bmi = kg / (m * m);
+  const ibw = b.sex === "m" ? 50 + 0.9 * (b.height - 152.4) : 45.5 + 0.9 * (b.height - 152.4);   // Devine
+  const adj = bmi >= 30 ? ibw + 0.25 * (kg - ibw) : kg;                                              // adjusted weight for obesity
+  const bmr = 10 * kg + 6.25 * b.height - 5 * b.age + (b.sex === "m" ? 5 : -161);                    // Mifflin-St Jeor
+  return { bmi, ibw, adj, bmr, tdee: bmr * b.activity, lo: 18.5 * m * m, hi: 24.9 * m * m,
+           protein: plan.perKg ? Math.round(adj * plan.perKg) : Math.round(adj * 0.8), fluid: b.urine + 750 };
+}
+function renderTargets() {
+  const s = u(), n = needs(), kidney = ["hd", "ckd", "dm"].includes(plan.type);
+  const cards = [
+    [s.tCalories, Math.round(n.tdee / 10) * 10, "kcal", s.tPerDay, true],
+    [s.nutr[3], n.protein, "g", s.tPerMeal(Math.round(n.protein / 3) + " g")],
+    plan.carbs ? [s.nutr[4], plan.carbs, "g", s.tChoices(Math.round(plan.carbs / 15 / 3))] : null,
+    [s.nutr[0], plan.na, "mg", s.tSalt((plan.na / 400).toFixed(1))],
+    plan.k ? [s.nutr[1], plan.k, "mg", plan.kGoal ? s.goalW : s.limitW] : null,
+    plan.p ? [s.nutr[2], plan.p, "mg", s.limitW] : null,
+    plan.fiber ? [s.nutr[6], plan.fiber, "g", s.goalW] : null,
+    plan.type === "hd" ? [s.tFluid, Math.round(n.fluid / 50) * 50, "ml", s.tFluidNote] : null,
+    [s.tBmi, n.bmi.toFixed(1), "", s.bmiCat(n.bmi)],
+  ].filter(Boolean);
+  $("#dTargets").innerHTML = cards.map(([l, v, un, sub, acc], i) => `<div class="target ${acc ? "accent" : ""}" style="--i:${i}"><span>${l}</span><b>${typeof v === "number" ? v.toLocaleString() : v}<small> ${unitL(un)}</small></b><small>${sub}</small></div>`).join("")
+    + `<p class="foot-note" style="grid-column:1/-1;margin:0">${s.tNote}</p>`;
+}
+function renderTips() {
+  const g = TIPS[tipGroup()], list = g[lang] || g.en;
+  $("#dTips").innerHTML = list.map(([ic, t], i) => `<div class="tip-card" style="--i:${i}"><i>${ic}</i><p>${esc(t)}</p></div>`).join("");
+}
+let weights = store.get("weights", []);   // [{d: "YYYY-MM-DD", kg}]
+function sparkline(w = 300, h = 40) {
+  if (weights.length < 2) return "";
+  const xs = weights.slice(-30), min = Math.min(...xs.map(x => x.kg)), max = Math.max(...xs.map(x => x.kg)), span = max - min || 1;
+  const pts = xs.map((x, i) => `${(i / (xs.length - 1) * (w - 8) + 4).toFixed(1)},${(h - 4 - (x.kg - min) / span * (h - 8)).toFixed(1)}`).join(" ");
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" preserveAspectRatio="none"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
+}
+const TOOLS = ["bmi", "needs", "fluid", "convert", "weight"];
+function renderTools() {
+  const s = u(), last = weights[weights.length - 1];
+  const sub = { bmi: s.bmiSub, needs: s.needsSub, fluid: s.fluidSub, convert: s.convSub, weight: last ? `${last.kg} kg · ${last.d}` : s.weightSub };
+  const ic = { bmi: "⚖️", needs: "🔥", fluid: "💧", convert: "🔁", weight: "📈" };
+  $("#dTools").innerHTML = TOOLS.map(k => `<button class="tool" data-tool="${k}"><i>${ic[k]}</i><b>${s.toolNames[k]}</b><span>${sub[k]}</span>${k === "weight" ? sparkline() : ""}</button>`).join("");
+}
+function field(id, label, val, unit, attrs = "") {
+  return `<label class="field">${label}<div class="unit-input"><input type="number" inputmode="decimal" id="${id}" value="${val ?? ""}" ${attrs}><span>${unit}</span></div></label>`;
+}
+function openTool(k) {
+  const s = u(), b = body(), kgU = lang === "ar" ? "كغ" : "kg", cmU = lang === "ar" ? "سم" : "cm";
+  const sexSel = `<label class="field">${s.sex}<select id="tSex"><option value="f" ${b.sex === "f" ? "selected" : ""}>${s.female}</option><option value="m" ${b.sex === "m" ? "selected" : ""}>${s.male}</option></select></label>`;
+  let html = "";
+  if (k === "bmi") html = `<div class="form-grid">${field("tW", s.weight, +weightKg().toFixed(1), kgU)}${field("tH", s.height, b.height, cmU)}${sexSel}</div><div class="calc-out" id="tOut"></div>`;
+  if (k === "needs") html = `<div class="form-grid">${field("tW", s.weight, +weightKg().toFixed(1), kgU)}${field("tH", s.height, b.height, cmU)}${field("tA", s.age, b.age, s.years)}${sexSel}
+      <label class="field">${s.activity}<select id="tAct">${[[1.2, s.act[0]], [1.375, s.act[1]], [1.55, s.act[2]], [1.725, s.act[3]]].map(([v, l]) => `<option value="${v}" ${+b.activity === v ? "selected" : ""}>${l}</option>`).join("")}</select></label></div><div class="calc-out" id="tOut"></div>`;
+  if (k === "fluid") html = `<p>${s.fluidIntro}</p><div class="form-grid">${field("tU", s.urine, b.urine, lang === "ar" ? "مل" : "ml")}</div><div class="calc-out" id="tOut"></div>`;
+  if (k === "convert") html = `<div class="form-grid">${field("cSalt", s.salt, "", lang === "ar" ? "غ" : "g")}${field("cNa", s.nutr[0], "", "mg")}${field("cCarb", s.nutr[4], "", lang === "ar" ? "غ" : "g")}${field("cKmmol", s.nutr[1] + " (mmol)", "", "mmol")}${field("cPmmol", s.nutr[2] + " (mmol)", "", "mmol")}${field("cNammol", s.nutr[0] + " (mmol)", "", "mmol")}</div><div class="calc-out" id="tOut"></div>`;
+  if (k === "weight") html = `<div class="form-grid">${field("wKg", s.weight, last2(), kgU, 'step="0.1"')}<label class="field">${s.date}<input type="date" id="wD" value="${todayKey()}" style="padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface)"></label></div>
+      <button class="btn-primary" data-tact="addW">${s.addWeight}</button><div id="wChart"></div><div class="wlist" id="wList"></div>`;
+  $("#toolIn").innerHTML = `<h2 id="toolTitle">${s.toolNames[k]}</h2>${html}<p class="foot-note">${s.calcNote}</p>
+    <div class="dlg-foot"><span></span><button class="btn-primary" data-tact="close">${s.done}</button></div>`;
+  $("#toolDlg").dataset.tool = k; calcTool(); if (!$("#toolDlg").open) $("#toolDlg").showModal();
+}
+const last2 = () => (weights[weights.length - 1] || {}).kg ?? +weightKg().toFixed(1);
+function calcTool() {
+  const k = $("#toolDlg").dataset.tool, s = u(), v = id => parseFloat($("#" + id)?.value), row = (a, b) => `<div class="calc-row"><span>${a}</span><b>${b}</b></div>`;
+  const out = $("#tOut");
+  if (k === "bmi" || k === "needs") {
+    const w = v("tW"), h = v("tH");
+    if (w > 0 && h > 0) { plan = { ...plan, weight: plan.unit === "lb" ? w / 0.4536 : w, height: h, sex: $("#tSex").value, ...(k === "needs" ? { age: v("tA") || 50, activity: +$("#tAct").value } : {}) }; store.set("plan", plan); }
+    const n = needs();
+    out.innerHTML = k === "bmi" ? `<div class="big">${n.bmi.toFixed(1)}</div><div>${s.bmiCat(n.bmi)}</div>${row(s.healthyRange, `${n.lo.toFixed(0)}–${n.hi.toFixed(0)} kg`)}${row(s.ibw, `${n.ibw.toFixed(1)} kg`)}${n.bmi >= 30 ? row(s.adjw, `${n.adj.toFixed(1)} kg`) : ""}`
+      : `<div class="big">${(Math.round(n.tdee / 10) * 10).toLocaleString()} kcal</div><div>${s.tPerDay}</div>${row(s.bmr, `${Math.round(n.bmr)} kcal`)}${row(s.nutr[3] + ` (${u().profiles[plan.type]})`, `${n.protein} g · ${Math.round(n.protein / 3)} g / ${s.meal}`)}${plan.carbs ? row(s.nutr[4], `${plan.carbs} g · ${Math.round(plan.carbs / 15)} ${s.choicesW}`) : ""}`;
+  }
+  if (k === "fluid") { const ur = v("tU") || 0; plan = { ...plan, urine: ur }; store.set("plan", plan);
+    const lo = ur + 500, hi = ur + 1000;
+    out.innerHTML = `<div class="big">${lo.toLocaleString()}–${hi.toLocaleString()} ml</div><div>${s.tPerDay}</div>${row(s.cups250, `${(lo / 250).toFixed(1)}–${(hi / 250).toFixed(1)}`)}`; }
+  if (k === "convert") {
+    const salt = v("cSalt"), na = v("cNa"), carb = v("cCarb"), km = v("cKmmol"), pm = v("cPmmol"), nm = v("cNammol");
+    out.innerHTML = [salt > 0 ? row(`${salt} g ${s.salt}`, `${Math.round(salt * 400)} mg ${s.nutr[0]}`) : "", na > 0 ? row(`${na} mg ${s.nutr[0]}`, `${(na / 400).toFixed(2)} g ${s.salt} · ${(na / 23).toFixed(1)} mmol`) : "",
+      carb > 0 ? row(`${carb} g ${s.nutr[4]}`, `${(carb / 15).toFixed(1)} ${s.choicesW}`) : "", km > 0 ? row(`${km} mmol ${s.nutr[1]}`, `${Math.round(km * 39.1)} mg`) : "",
+      pm > 0 ? row(`${pm} mmol ${s.nutr[2]}`, `${Math.round(pm * 31)} mg`) : "", nm > 0 ? row(`${nm} mmol ${s.nutr[0]}`, `${Math.round(nm * 23)} mg`) : ""].join("") || `<span class="foot-note">${s.convHint}</span>`;
+  }
+  if (k === "weight") {
+    const xs = weights.slice(-60);
+    if (xs.length >= 2) {
+      const W = 520, H = 160, min = Math.min(...xs.map(x => x.kg)) - .5, max = Math.max(...xs.map(x => x.kg)) + .5;
+      const X = i => 30 + i / (xs.length - 1) * (W - 44), Y = kg => H - 22 - (kg - min) / (max - min) * (H - 40);
+      $("#wChart").innerHTML = `<svg class="wchart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+        ${[min + .5, (min + max) / 2, max - .5].map(g => `<line x1="30" x2="${W - 10}" y1="${Y(g)}" y2="${Y(g)}" stroke="var(--line)"/><text x="4" y="${Y(g) + 4}" font-size="10" fill="var(--muted)">${g.toFixed(1)}</text>`).join("")}
+        <polyline points="${xs.map((x, i) => `${X(i)},${Y(x.kg)}`).join(" ")}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/>
+        ${xs.map((x, i) => `<circle cx="${X(i)}" cy="${Y(x.kg)}" r="3" fill="var(--accent)"/>`).join("")}</svg>`;
+    } else $("#wChart").innerHTML = `<p class="foot-note">${s.weightEmpty}</p>`;
+    $("#wList").innerHTML = weights.slice().reverse().map((x, i, a) => { const prev = a[i + 1], d = prev ? x.kg - prev.kg : 0;
+      return `<div><span>${x.d}</span><span>${x.kg} kg ${prev ? `<small style="color:var(--${Math.abs(d) >= 2 ? "hi" : "muted"})">${d > 0 ? "+" : ""}${d.toFixed(1)}</small>` : ""}</span><button class="linkish" data-tact="rmW" data-d="${x.d}">×</button></div>`; }).join("");
+  }
+}
+$("#toolDlg").addEventListener("input", calcTool);
+$("#toolDlg").addEventListener("change", calcTool);
+$("#toolDlg").addEventListener("click", e => {
+  if (e.target === $("#toolDlg")) return $("#toolDlg").close();
+  const a = e.target.closest("[data-tact]"); if (!a) return;
+  if (a.dataset.tact === "close") $("#toolDlg").close();
+  if (a.dataset.tact === "addW") { const kg = parseFloat($("#wKg").value), d = $("#wD").value || todayKey();
+    if (kg > 20 && kg < 400) { weights = weights.filter(x => x.d !== d).concat({ d, kg: Math.round(kg * 10) / 10 }).sort((x, y) => x.d.localeCompare(y.d)); store.set("weights", weights);
+      plan = { ...plan, weight: plan.unit === "lb" ? kg / 0.4536 : kg }; store.set("plan", plan); calcTool(); toast(u().weightSaved); } }
+  if (a.dataset.tact === "rmW") { weights = weights.filter(x => x.d !== a.dataset.d); store.set("weights", weights); calcTool(); }
+});
+$("#toolDlg").addEventListener("close", () => { if (view === "dash") { renderTools(); renderTargets(); renderToday(); } });
+$("#dTools").addEventListener("click", e => { const t = e.target.closest("[data-tool]"); if (t) openTool(t.dataset.tool); });
+$("#editPlan2").addEventListener("click", openPlan);
+
+
+// ---------- condition switch (dashboard) ----------
+const CONDS = [["kidney", "🫘", ["hd", "ckd", "dm"]], ["t2", "🩸", ["t2"]], ["bp", "❤️‍🩹", ["bp"]], ["heart", "❤️", ["heart"]], ["gen", "🥗", ["gen"]]];
+function renderCond() {
+  const s = u();
+  $("#condSwitch").innerHTML = CONDS.map(([k, ic, types]) => `<button data-cond="${k}" aria-pressed="${types.includes(plan.type)}"><i>${ic}</i>${s.conds[k]}</button>`).join("")
+    + (["hd", "ckd", "dm"].includes(plan.type) ? `<span class="sub-switch" role="group" aria-label="${s.conds.kidney}">${["hd", "ckd", "dm"].map(t => `<button data-ksub="${t}" aria-pressed="${t === plan.type}">${s.kidneySub[t]}</button>`).join("")}</span>` : "");
+}
+$("#condSwitch").addEventListener("click", e => { const b = e.target.closest("[data-cond]"); if (!b) return;
+  const c = CONDS.find(x => x[0] === b.dataset.cond); if (c[2].includes(plan.type)) return;
+  plan = { ...plan, type: c[2][0], ...blankPlan(c[2][0]) }; savePlan(); renderCond(); });
+$("#condSwitch").addEventListener("click", e => { const b = e.target.closest("[data-ksub]"); if (!b || b.dataset.ksub === plan.type) return;
+  plan = { ...plan, type: b.dataset.ksub, ...blankPlan(b.dataset.ksub) }; savePlan(); renderCond(); });
+
+// ---------- about ----------
+const SOURCES = {
+  "DaVita": ["https://davita.com/diet-nutrition/recipes/", { en: "Kidney-friendly recipes from DaVita dietitians, in English and Spanish.", es: "Recetas para el riñón de los dietistas de DaVita, en inglés y español.", ar: "وصفات مناسبة لمرضى الكلى من أخصائيي التغذية في DaVita، بالإنجليزية والإسبانية." }],
+  "DaVita Saudi Arabia": ["https://davita.sa/diet-nutrition", { en: "Regional kidney-friendly dishes with official Arabic text.", es: "Platos regionales para el riñón con texto oficial en árabe.", ar: "أطباق إقليمية مناسبة لمرضى الكلى مع نصوص عربية رسمية." }],
+  "AAKP": ["https://aakp.org/center-for-patient-research-and-education/kidney-friendly-recipes/", { en: "American Association of Kidney Patients recipe cards, with diet types and food choices.", es: "Tarjetas de recetas de la Asociación Americana de Pacientes Renales, con tipos de dieta y opciones de alimentos.", ar: "بطاقات وصفات الجمعية الأمريكية لمرضى الكلى، مع أنواع الأنظمة الغذائية وبدائل الأطعمة." }],
+  "Kidney Care UK": ["https://kidneycareuk.org/get-support/healthy-diet-support/kidney-kitchen/recipe-index/", { en: "Kidney Kitchen recipes from the UK's kidney patient charity.", es: "Recetas Kidney Kitchen de la organización británica de pacientes renales.", ar: "وصفات Kidney Kitchen من الجمعية البريطانية لمرضى الكلى." }],
+  "My Renal Nutrition": ["https://www.myrenalnutrition.com/recipes", { en: "Renal recipes with full nutrition panels, including meals for children.", es: "Recetas renales con información nutricional completa, incluidas comidas para niños.", ar: "وصفات لمرضى الكلى مع القيم الغذائية الكاملة، ومنها وجبات للأطفال." }],
+  "Diabetes Food Hub (ADA)": ["https://diabetesfoodhub.org/recipes", { en: "Diabetes-friendly recipes from the American Diabetes Association.", es: "Recetas para la diabetes de la Asociación Americana de la Diabetes.", ar: "وصفات مناسبة لمرضى السكري من جمعية السكري الأمريكية." }],
+  "Diabetes UK": ["https://www.diabetes.org.uk/living-with-diabetes/eating/recipes", { en: "Recipes from Diabetes UK with per-serving nutrition.", es: "Recetas de Diabetes UK con nutrición por porción.", ar: "وصفات من Diabetes UK مع القيم الغذائية لكل حصة." }],
+};
+const shareUrl = () => location.href.split("#")[0];
+function renderAbout() {
+  const s = u(), counts = {};
+  for (const r of R) counts[r.sourceName || "DaVita"] = (counts[r.sourceName || "DaVita"] || 0) + 1;
+  const enc = encodeURIComponent, url = shareUrl(), msg = s.shareMsg;
+  $("#aboutBody").innerHTML = `
+    <section><h3>${s.aboutWhat}</h3><p style="margin:0;max-width:70ch">${s.aboutWhatP}</p></section>
+    <section><h3>${s.aboutHow}</h3><div class="how">${s.aboutSteps.map(([ic, t, d]) => `<div><i>${ic}</i><b>${t}</b><span>${d}</span></div>`).join("")}</div></section>
+    <section><h3>${s.aboutSources}</h3><p class="foot-note" style="margin:0 0 10px">${s.aboutSourcesP}</p><div class="src-list">
+      ${Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([name, n]) => { const meta = SOURCES[name] || ["#", {}];
+        return `<a class="src" href="${meta[0]}" target="_blank" rel="noopener"><b>${esc(name)}<span>${n.toLocaleString()}</span></b><small>${esc(meta[1][lang] || meta[1].en || "")}</small><u>${meta[0].replace(/^https?:\/\//, "")} ↗</u></a>`; }).join("")}</div></section>
+    <section><h3>${s.aboutLatest}</h3><div class="hscroll" id="aboutLatest"></div></section>
+    <section><h3>${s.aboutShare}</h3><div class="share-row">
+      <button class="btn-primary" data-share="native">${s.shareBtn}</button>
+      <a class="icon-btn" href="https://wa.me/?text=${enc(msg + " " + url)}" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="icon-btn" href="https://x.com/intent/post?text=${enc(msg)}&url=${enc(url)}" target="_blank" rel="noopener">X</a>
+      <a class="icon-btn" href="https://t.me/share/url?url=${enc(url)}&text=${enc(msg)}" target="_blank" rel="noopener">Telegram</a>
+      <a class="icon-btn" href="mailto:?subject=${enc("Health Kitchen")}&body=${enc(msg + "\n" + url)}">${s.email}</a>
+      <button class="icon-btn" data-share="copy">${s.copyLink}</button></div>
+      <p class="foot-note" style="direction:ltr;text-align:start">${esc(url)}</p></section>
+    <section class="disclaimer">${s.disclaimer}</section>`;
+  const latest = R.filter(r => r.modified).sort((a, b) => b.modified.localeCompare(a.modified) || (b.img != null) - (a.img != null)).slice(0, 12);
+  $("#aboutLatest").replaceChildren(...latest.map(miniCard));
+}
+async function shareLink(url, title) {
+  try { if (navigator.share) { await navigator.share({ title, text: u().shareMsg, url }); return; } } catch (e) { if (e && e.name === "AbortError") return; }
+  try { await navigator.clipboard.writeText(url); toast(u().linkCopied); } catch { fallbackCopy(url); }
+}
+$("#about").addEventListener("click", e => {
+  const c = e.target.closest(".card"); if (c && !e.target.closest(".fav")) { openRecipe(+c.dataset.id); return; }
+  const b = e.target.closest("[data-share]"); if (!b) return;
+  if (b.dataset.share === "native") shareLink(shareUrl(), "Health Kitchen");
+  else { try { navigator.clipboard.writeText(shareUrl()).then(() => toast(u().linkCopied), () => fallbackCopy(shareUrl())); } catch { fallbackCopy(shareUrl()); } } });
+document.addEventListener("click", e => { const g = e.target.closest("[data-vgo]"); if (g) { e.preventDefault(); setView(g.dataset.vgo); } });
+
+// ---------- views: dashboard / recipes ----------
+let view = "dash";
+function setView(v, push = true) {
+  view = v; for (const k of ["dash", "recipes", "about"]) document.body.classList.toggle("view-" + k, v === k);
+  document.querySelectorAll(".bottom-nav [data-nav]").forEach(b => b.classList.toggle("on", b.dataset.nav === v && !state.favOnly));
+  document.querySelectorAll(".view-tabs [data-vtab]").forEach(b => b.classList.toggle("on", b.dataset.vtab === v));
+  if (push) history.pushState({ v }, "", v === "dash" ? `#${lang}` : `#${lang}-${v}`);
+  if (v === "dash") renderDash();
+  if (v === "about") { renderHero(); renderAbout(); }
+  window.scrollTo({ top: 0 });
+}
+function miniCard(r) { const c = card(r); c.style.animationDelay = "0ms"; return c; }
+function renderDash() {
+  renderCond(); renderTargets(); renderTips(); renderTools();
+  const s = u(), cats = {};
+  for (const r of R) (cats[r.cat] ??= []).push(r);
+  $("#catTiles").innerHTML = Object.keys(CAT_COLOR).filter(c => cats[c]).map((c, i) => {
+    const withImg = cats[c].filter(r => r.img != null), pick = withImg[(i * 7) % (withImg.length || 1)];
+    return `<button class="cat-tile" data-cat2="${esc(c)}" style="--i:${i}">${pick ? `<img alt="" data-cimg="${pick.id}">` : coverArt(cats[c][0])}<span><b>${esc(term(c))}</b><small>${cats[c].length}</small></span></button>`;
+  }).join("");
+  $("#catTiles").querySelectorAll("[data-cimg]").forEach(img => setImg(img, byId.get(+img.dataset.cimg)));
+  $("#dPicksTitle").textContent = s.dPicks(s.profiles[plan.type]);
+  const picks = R.filter(r => r.img != null && MAIN_CATS.concat(["Breakfast & Brunch", "Vegetables"]).includes(r.cat) && r.cat !== "Salads & Dressings" && r.n[0] >= 180)
+    .sort((a, b) => fitScore(a) - fitScore(b)).slice(0, 12);
+  $("#dPicks").replaceChildren(...picks.map(miniCard));
+  if (!mpCache) { mpLen = Math.max(mpLen, 7); mpCache = buildMealPlan(); }
+  const d0 = mpCache?.[0] || [];
+  $("#dPlan").innerHTML = d0.map((r, i) => `<div class="mp-slot" data-open="${r.id}" style="--i:${i}"><div class="thumb">${placeholder(r)}${r.img != null ? `<img alt="" data-pimg="${r.id}">` : ""}</div>
+    <div class="body"><div class="eyebrow">${s.mpSlots[i]}</div><h4>${esc(tx(r).title)}</h4></div></div>`).join("");
+  $("#dPlan").querySelectorAll("[data-pimg]").forEach(img => { img.onload = () => img.classList.add("ok"); setImg(img, byId.get(+img.dataset.pimg)); });
+  const saved = [...favs].map(id => byId.get(id)).filter(Boolean);
+  $("#dSavedSec").hidden = !saved.length;
+  $("#dSaved").replaceChildren(...saved.slice(0, 12).map(miniCard));
+}
+document.addEventListener("click", e => {
+  const g = e.target.closest("[data-go]");
+  if (g) { e.preventDefault(); if (isOpen()) hidePage();
+    if (g.dataset.go === "fit") { state.sort = "fit"; }
+    if (g.dataset.go === "saved") { state.favOnly = true; }
+    setView("recipes"); update(); return; }
+  const c = e.target.closest("[data-cat2]");
+  if (c) { state.sel.cat = new Set([c.dataset.cat2]); setView("recipes"); update(); return; }
+  const p2 = e.target.closest("[data-proxy2]"); if (p2) { $(p2.dataset.proxy2).click(); return; }
+  const o = e.target.closest("#dash [data-open]"); if (o) openRecipe(+o.dataset.open);
+});
+$("#dash").addEventListener("click", e => {
+  const c = e.target.closest(".card"); if (!c) return;
+  const fav = e.target.closest(".fav"); if (fav) { toggleFav(+c.dataset.id); fav.setAttribute("aria-pressed", String(favs.has(+c.dataset.id))); if (favs.has(+c.dataset.id)) burst(fav); return; }
+  openRecipe(+c.dataset.id);
+});
+$("#openFilters2").addEventListener("click", () => drawer(true));
+document.querySelector(".view-tabs").addEventListener("click", e => { const b = e.target.closest("[data-vtab]"); if (!b) return;
+  if (isOpen()) hidePage(); if (b.dataset.vtab === "dash") $("#home").click(); else if (b.dataset.vtab === "about") setView("about"); else { setView("recipes"); update(); } });
+
 // ---------- events ----------
 let timer;
 const later = (fn, ms) => { clearTimeout(timer); timer = setTimeout(fn, ms); };
-$("#q").addEventListener("input", e => later(() => { state.q = e.target.value.trim(); update(); }, 140));
+$("#q").addEventListener("input", e => later(() => { state.q = e.target.value.trim(); if (view !== "recipes" && state.q) setView("recipes", true); update(); }, 140));
 $("#exclude").addEventListener("input", e => later(() => { state.exclude = e.target.value.trim(); update(); }, 220));
 $("#cats").addEventListener("click", e => { const b = e.target.closest(".cat"); if (!b) return;
-  state.sel.cat = new Set(b.dataset.cat ? [b.dataset.cat] : []); update(); });
+  state.sel.cat = new Set(b.dataset.cat ? [b.dataset.cat] : []); if (view !== "recipes") setView("recipes"); update(); });
 $("#facets").addEventListener("change", e => { const f = e.target.dataset.f; if (!f) return;
   e.target.checked ? state.sel[f].add(e.target.value) : state.sel[f].delete(e.target.value); update(); });
 $("#presets").addEventListener("click", e => { const b = e.target.closest(".preset"); if (!b) return; const m = PRESETS[b.dataset.p];
@@ -1351,7 +2100,7 @@ $("#sliders").addEventListener("input", e => { const k = e.target.dataset.k, s =
 $("#resetSliders").addEventListener("click", () => { state.max = {}; update(); });
 $("#hasVideo").addEventListener("change", e => { state.hasVideo = e.target.checked; update(); });
 $("#sort").addEventListener("change", e => { state.sort = e.target.value; store.set("sort", state.sort); update(); });
-$("#favOnly").addEventListener("click", () => { state.favOnly = !state.favOnly; update(); });
+$("#favOnly").addEventListener("click", () => { state.favOnly = !state.favOnly; if (isOpen()) hidePage(); if (view !== "recipes") setView("recipes"); update(); });
 $("#clearAll").addEventListener("click", () => { state.q = ""; state.exclude = ""; state.max = {}; state.hasVideo = state.favOnly = false;
   for (const k in state.sel) state.sel[k].clear(); update(); });
 $("#active").addEventListener("click", e => { const k = e.target.dataset.rm; if (!k) return;
@@ -1380,12 +2129,13 @@ document.addEventListener("keydown", e => {
 function drawer(open) { $("#rail").classList.toggle("open", open); document.body.classList.toggle("drawer-open", open); document.querySelector(".scrim")?.remove();
   if (open) { const s = document.createElement("div"); s.className = "scrim"; s.onclick = () => drawer(false); document.body.append(s); } }
 $("#openFilters").addEventListener("click", () => {
-  if (isOpen()) { hidePage(); history.replaceState(null, "", `#${lang}`); }   // the filter rail lives in the list view
+  if (isOpen()) hidePage();   // the filter rail lives in the recipes view
+  if (view !== "recipes") setView("recipes");
   drawer(true);
 });
 $("#home").addEventListener("click", e => { e.preventDefault(); if (isOpen()) hidePage();
   state.q = ""; state.exclude = ""; state.max = {}; state.hasVideo = state.favOnly = false; for (const k in state.sel) state.sel[k].clear();
-  history.replaceState(null, "", `#${lang}`); update(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+  update(); setView("dash"); });
 
 // ---------- theme ----------
 let theme = store.get("theme", "system");
@@ -1403,13 +2153,15 @@ function syncNav() { $("#navDay").textContent = day.length || ""; $("#navFav").t
   document.querySelector('.bottom-nav [data-proxy="#favOnly"]').classList.toggle("on", state.favOnly); }
 
 // ---------- start ----------
-const hm = location.hash.match(/^#(?:(en|es|ar)-?)?(?:r(\d+))?$/) || [];
+const hm = location.hash.match(/^#(?:(en|es|ar)-?)?(recipes|about)?(?:r(\d+))?$/) || [];
 if (hm[1]) lang = hm[1];
 state.sort = SORT_OK(state.sort);
 applyLang();
 applyTheme();
 $("#dayCount").textContent = day.length;
 render();
-if (hm[2]) openRecipe(+hm[2], false);
+setView(hm[2] || "dash", false);
+if (hm[3]) openRecipe(+hm[3], false);
 startSlides();
+hideSplash();
 </script>

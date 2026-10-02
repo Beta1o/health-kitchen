@@ -163,8 +163,13 @@ def main():
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     fonts = (HERE / "fonts" / "fonts.css").read_text(encoding="utf-8")  # built by fonts/fetch_fonts.py
-    body = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", fonts).replace("/*__DATA__*/null", data)
-    (OUT / "artifact.html").write_text(body, encoding="utf-8")
+    tpl = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", fonts)
+    # artifact: everything inline. index.html: data in data.js so the page itself paints quickly
+    (OUT / "artifact.html").write_text(tpl.replace("<!--__DATA_SCRIPT__-->", "").replace("/*__DATA__*/null", data), encoding="utf-8")
+    (OUT / "data.js").write_text("window.HK_DATA=" + data + ";", encoding="utf-8")
+    import hashlib
+    ver = hashlib.md5(data.encode()).hexdigest()[:8]
+    body = tpl.replace("<!--__DATA_SCRIPT__-->", f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             '</head>\n<body>\n' + body + '\n</body>\n</html>\n')

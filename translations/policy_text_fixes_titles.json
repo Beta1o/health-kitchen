@@ -1,0 +1,930 @@
+[
+ {
+  "field": "title",
+  "recipe_id": 1783,
+  "position": 0,
+  "text": {
+   "ar": "مشروب البروتين بالتفاح والقيقب",
+   "en": "Maple Apple Protein Drink",
+   "es": "Bebida proteica de manzana y maple"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1783,
+  "position": 0,
+  "text": {
+   "ar": "حوّل المكمل الغذائي العادي بنكهة الفانيليا إلى مشروب لذيذ بإضافة نكهات إضافية. سينال مشروب التفاح والقيقب إعجابك بلا شك.",
+   "en": "Turn a plain vanilla nutrition supplement into a tasty treat by adding extra flavorings. This maple apple drink is sure to please.",
+   "es": "Convierta un suplemento nutricional sencillo de vainilla en una delicia agregándole sabores extra. Esta bebida de manzana y maple seguramente le encantará."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1874,
+  "position": 0,
+  "text": {
+   "ar": "حلوى الفراولة بالكريمة",
+   "en": "Strawberry Cream Dessert",
+   "es": "Postre cremoso de fresa"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1874,
+  "position": 0,
+  "text": {
+   "ar": "استمتع بحلوى منزلية أصيلة تعيدك إلى زمن أبسط. تشارك مارلين، اختصاصية تغذية مرضى الكلى في DaVita من تكساس، وصفة عائلتها المناسبة لمرضى الكلى لحلوى الفراولة بالكريمة.",
+   "en": "Enjoy a true, down-home dessert that harkens back to a simpler time. Marilyn, a DaVita renal dietitian from Texas, shares her family’s kidney-friendly recipe for this strawberry cream dessert.",
+   "es": "Disfrute de un auténtico postre casero que evoca tiempos más sencillos. Marilyn, dietista renal de DaVita en Texas, comparte la receta familiar, apta para personas con enfermedad renal, de este postre cremoso de fresa."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1946,
+  "position": 0,
+  "text": {
+   "ar": "سلطة الأرز والخضار الكريمية",
+   "en": "Creamy Rice and Vegetable Salad",
+   "es": "Ensalada cremosa de arroz y verduras"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1946,
+  "position": 0,
+  "text": {
+   "ar": "سواء كنت ستبقى في المنزل أو تستعد لنزهة، لدى ماري، أخصائية التغذية في DaVita، وصفة رائعة مناسبة لمرضى الكلى ستحبها: سلطة الأرز والخضار الكريمية.",
+   "en": "Whether you’re staying indoors or packing for a picnic, DaVita dietitian Mary has a great kidney-friendly recipe you’ll love: creamy rice and vegetable salad.",
+   "es": "Ya sea que se quede en casa o prepare un pícnic, Mary, dietista de DaVita, tiene una excelente receta apta para personas con enfermedad renal que le encantará: una ensalada cremosa de arroz y verduras."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1975,
+  "position": 0,
+  "text": {
+   "ar": "سباغيتي بصلصة اللحم",
+   "en": "Spaghetti with Meat Sauce",
+   "es": "Espagueti con salsa de carne"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1975,
+  "position": 0,
+  "text": {
+   "ar": "لدى كِنت، أحد مرضى غسيل الكلى في DaVita، طريقة يجمع بها أطفاله حول مائدة العشاء في ثوانٍ. تبدأ وصفته لسباغيتي بصلصة اللحم ببرطمان من صلصة الطماطم قليلة الصوديوم، \"يُحسّنها\" بإضافة اللحم البقري المفروم والبصل والتوابل الإيطالية وقليل من السكر البني لإزالة مرارة الطماطم. جرّب هذه الوصفة البسيطة لوجبة سريعة وسهلة ولذيذة ومناسبة لمرضى الكلى.",
+   "en": "DaVita dialysis patient, Kent, has a way to get his children to gather around the dinner table in seconds. His spaghetti with meat sauce recipe starts with a low-sodium jar of tomato sauce and he \"doctors\" it up with ground beef, onion, Italian seasonings and some brown sugar to take away the bitterness of the tomatoes. Give this simple recipe a try for a quick, easy, kidney-friendly and yummy meal.",
+   "es": "Kent, paciente de diálisis de DaVita, tiene una forma de reunir a sus hijos alrededor de la mesa en segundos. Su receta de espagueti con salsa de carne comienza con un frasco de salsa de tomate baja en sodio, que él \"mejora\" con carne molida de res, cebolla, hierbas italianas y un poco de azúcar morena para quitarle el amargor al tomate. Pruebe esta sencilla receta para disfrutar de una comida rápida, fácil, adecuada para los riñones y deliciosa."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2051,
+  "position": 0,
+  "text": {
+   "ar": "صلصة الزبادي الكريمية للفاكهة",
+   "en": "Creamy Yogurt Fruit Dip",
+   "es": "Dip cremoso de yogur para frutas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2051,
+  "position": 0,
+  "text": {
+   "ar": "بستة مكونات فقط وخطوتين سريعتين، يمكنك تحضير صلصة كريمية تجمع بين النكهات الحلوة والمنعشة بتوازن مثالي يناسب نظامك الغذائي الخاص بالكلى. صلصة الزبادي هذه للفاكهة هي الطريقة المثالية لإضافة المزيد من الفاكهة إلى خطتك الغذائية مع الحفاظ على صحة كليتيك!",
+   "en": "With only six ingredients, in two quick steps you can mix up a creamy dip that offers the perfect blend of sweet and tangy flavors for your kidney diet. This yogurt fruit dip is the ideal way to add more fruit to your eating plan while still supporting kidney health!",
+   "es": "Con solo seis ingredientes y en dos pasos rápidos, puede preparar un dip cremoso que ofrece la combinación perfecta de sabores dulces y ácidos para su dieta renal. ¡Este dip de yogur para frutas es la forma ideal de agregar más fruta a su plan de alimentación sin dejar de cuidar la salud de sus riñones!"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2095,
+  "position": 0,
+  "text": {
+   "ar": "لازانيا باللحم والخضار",
+   "en": "Beef and Vegetable Lasagna",
+   "es": "Lasaña de carne y verduras"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2095,
+  "position": 0,
+  "text": {
+   "ar": "هل تظن أنك لا تستطيع الاستمتاع بأطباقك المريحة المفضلة مثل اللازانيا ضمن النظام الغذائي لمرضى الكلى؟ ابتكرت دانا، أخصائية تغذية الكلى في DaVita من ولاية جورجيا، هذه اللازانيا باللحم والخضار. والآن يمكن لمرضى الكلى في كل مكان الاستمتاع بهذا الطبق الإيطالي الكريمي المخبوز.",
+   "en": "Think you can’t enjoy favorite comfort foods like lasagna on the kidney diet? DaVita renal dietitian Dana from Georgia created this beef and vegetable lasagna. Now this creamy Italian casserole is for kidney patients everywhere to enjoy.",
+   "es": "¿Cree que no puede disfrutar de sus comidas reconfortantes favoritas, como la lasaña, con la dieta renal? Dana, dietista renal de DaVita en Georgia, creó esta lasaña de carne y verduras. Ahora pacientes renales de todas partes pueden disfrutar de este cremoso guiso italiano."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2147,
+  "position": 0,
+  "text": {
+   "ar": "تشيز كيك بالكرز",
+   "en": "Cherry Cheesecake",
+   "es": "Pay de queso con cereza"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2147,
+  "position": 0,
+  "text": {
+   "ar": "تعرف تامي، أخصائية تغذية الكلى في DaVita من ولاية تكساس، كيف تحضّر حلوى لذيذة لعيد الحب مناسبة لمرضى الكلى مع تشيز كيك بالكرز. ومع بعض التعديلات، تصبح مناسبة أيضًا للخطة الغذائية لمرضى السكري.",
+   "en": "DaVita renal dietitian Tammy from Texas knows how to make a delicious, Kidney-friendly Valentine’s day treat with her cherry cheesecake. With a few modifications it’s also suitable to a diabetes meal plan.",
+   "es": "Tammy, dietista renal de DaVita en Texas, sabe cómo preparar un delicioso postre del Día de San Valentín apto para personas con enfermedad renal con su pay de queso con cereza. Con algunas modificaciones, también es adecuado para un plan de alimentación para la diabetes."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2154,
+  "position": 0,
+  "text": {
+   "ar": "برغر لحم البقر الكلاسيكي",
+   "en": "Classic Beef Burgers",
+   "es": "Hamburguesas clásicas de res"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2154,
+  "position": 0,
+  "text": {
+   "ar": "تشاركنا ليزا، أخصائية تغذية الكلى في DaVita والطاهية السابقة من نيويورك، وصفة لذيذة مناسبة لمرضى الكلى لبرغر لحم البقر الكلاسيكي. إنه مثالي لوجبة الغداء وغني بالنكهة لدرجة أنه لا يحتاج حتى إلى صلصات.",
+   "en": "Lisa, a DaVita renal dietitian and former chef from New York, shares a delicious kidney-friendly recipe for classic beef burgers. They are perfect for lunch and so flavorful they don’t even need condiments.",
+   "es": "Lisa, dietista renal de DaVita y ex chef de Nueva York, comparte una deliciosa receta apta para personas con enfermedad renal: hamburguesas clásicas de res. Son perfectas para el almuerzo y tan sabrosas que ni siquiera necesitan condimentos."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2176,
+  "position": 0,
+  "text": {
+   "ar": "صلصة الخرشوف الكريمية",
+   "en": "Creamy Artichoke Dip",
+   "es": "Dip cremoso de alcachofa"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2176,
+  "position": 0,
+  "text": {
+   "ar": "قدّم صلصة الخرشوف الكريمية في حفلتك القادمة، فهي وصفة لذيذة مناسبة لمن يتبعون النظام الغذائي لمرضى الكلى.",
+   "en": "Serve this creamy artichoke dip at your next party. This delicious, kidney-friendly recipe for people on a kidney diet.",
+   "es": "Sirva este dip cremoso de alcachofa en su próxima fiesta. Una deliciosa receta apta para personas que siguen una dieta renal."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2182,
+  "position": 0,
+  "text": {
+   "ar": "برغر لحم البقر الكلاسيكي (منخفض البروتين)",
+   "en": "Classic Beef Burgers (Lower Protein)",
+   "es": "Hamburguesas clásicas de res (bajas en proteínas)"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2182,
+  "position": 0,
+  "text": {
+   "ar": "تشاركنا ليزا، أخصائية تغذية الكلى في DaVita والطاهية السابقة من نيويورك، وصفة لذيذة مناسبة لمرضى الكلى لبرغر لحم البقر الكلاسيكي. إنه مثالي لوجبة الغداء وغني بالنكهة لدرجة أنه لا يحتاج حتى إلى صلصات.",
+   "en": "Lisa,a DaVita renal dietitian and former chef from New York,shares a delicious kidney-friendly recipe for classic beef burgers. They are perfect for lunch and so flavorful they don’t even need condiments.",
+   "es": "Lisa, dietista renal de DaVita y ex chef de Nueva York, comparte una deliciosa receta apta para personas con enfermedad renal: hamburguesas clásicas de res. Son perfectas para el almuerzo y tan sabrosas que ni siquiera necesitan condimentos."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2224,
+  "position": 0,
+  "text": {
+   "ar": "حلوى الفاكهة المجمّدة",
+   "en": "Frozen Fruit Dessert",
+   "es": "Postre de frutas congeladas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2224,
+  "position": 0,
+  "text": {
+   "ar": "تقدّم ميندي، أخصائية تغذية الكلى في DaVita من ولاية فرجينيا، وصفة حلوى مميزة هي حلوى الفاكهة المجمّدة. هذه الحلوى المنعشة باردة وغنية بنكهة الفاكهة ولذيذة، وهي وجبة خفيفة رائعة في الصيف وبديل للآيس كريم مناسب لمرضى الكلى. قدّمها في بسكويت المثلجات (كورنيه) أو في وعاء كحلوى أو وجبة خفيفة.",
+   "en": "DaVita renal dietitian Mindy from Virginia provides a special frozen fruit dessert recipe. This refreshing treat is chilly, fruity and tasty. It makes a great summertime snack that is a renal-friendly substitute for ice cream. Serve in an ice cream cone or bowl for dessert or snack.",
+   "es": "Mindy, dietista renal de DaVita en Virginia, ofrece una receta especial de postre de frutas congeladas. Este refrescante postre es frío, afrutado y sabroso. Es un excelente bocadillo de verano y un sustituto del helado apto para el riñón. Sírvalo en un cono de helado o en un tazón como postre o refrigerio."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2293,
+  "position": 0,
+  "text": {
+   "ar": "برغر الديك الرومي المتبّل",
+   "en": "Seasoned Turkey Burgers",
+   "es": "Hamburguesas de pavo sazonadas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2293,
+  "position": 0,
+  "text": {
+   "ar": "ربما جرّبت بالفعل برغر لحم البقر الكلاسيكي من ليزا، أخصائية التغذية في DaVita. وقد ابتكرت الآن وصفة جديدة مناسبة لمرضى الكلى: برغر الديك الرومي المتبّل. أقراص برغر الديك الرومي قليلة الصوديوم هذه لذيذة بما يكفي لتناولها دون خبز أو صلصات، لكن لا تتردد في إضافة الخبز والإضافات التي ترغب فيها.",
+   "en": "You may have already tried the classic beef burgers from DaVita dietitian Lisa. She has created a new kidney-friendly recipe for seasoned turkey burgers. These low-sodium turkey burgers are tasty enough to eat without the bun and condiments, but feel free to add a bun and toppings of desired.",
+   "es": "Tal vez ya probó las hamburguesas clásicas de res de Lisa, dietista de DaVita. Ahora creó una nueva receta apta para el riñón: hamburguesas de pavo sazonadas. Estas hamburguesas de pavo bajas en sodio son tan sabrosas que puede comerlas sin pan ni condimentos, pero si lo desea, agrégueles pan y sus ingredientes favoritos."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2341,
+  "position": 0,
+  "text": {
+   "ar": "دجاج بالشبت مع الفاصوليا الخضراء والبطاطس",
+   "en": "Dill Chicken with Green Beans and Potatoes",
+   "es": "Pollo al eneldo con ejotes y papas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2341,
+  "position": 0,
+  "text": {
+   "ar": "هذا الدجاج بالشبت وجبة كاملة مناسبة لمرضى الكلى تُحضَّر دفعة واحدة. تبرز نكهة الشبت مذاق الدجاج والفاصوليا الخضراء والبطاطس، لتصنع طبقًا رئيسيًا لذيذًا يمكنك تحضيره في خمس خطوات سهلة.",
+   "en": "This dill chicken is a complete kidney-friendly meal you make all at once. The dill flavor accents the chicken, green beans and potatoes creating a delicious entree you can make in five easy steps.",
+   "es": "Este pollo al eneldo es una comida completa y apta para el riñón que se prepara toda a la vez. El sabor del eneldo realza el pollo, los ejotes y las papas, creando un delicioso plato principal que puede preparar en cinco sencillos pasos."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2397,
+  "position": 0,
+  "text": {
+   "ar": "فطيرة الكرز المنزلية",
+   "en": "Homemade Cherry Pie",
+   "es": "Pay de cereza casero"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2397,
+  "position": 0,
+  "text": {
+   "ar": "شريحة من فطيرة الكرز المنزلية هذه هي خاتمة حلوة لأي وجبة أو منشّط رائع في منتصف اليوم. اتبع هذه الوصفة المناسبة لمرضى الكلى لتحضير واحدة من أفضل الفطائر التي ستتذوقها على الإطلاق.",
+   "en": "A slice of this homemade cherry pie is a sweet ending to any meal or a great pick-me-up in the middle of the day. Follow this kidney-friendly recipe for one of the best pies you’ll ever try.",
+   "es": "Una rebanada de este pay de cereza casero es un final dulce para cualquier comida o un excelente estimulante a media tarde. Siga esta receta adecuada para los riñones y prepare uno de los mejores pays que haya probado."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2449,
+  "position": 0,
+  "text": {
+   "ar": "فلفل حار محشو بالجبن الكريمي (تشيلي ريينو)",
+   "en": "Cream Cheese Stuffed Chiles Rellenos",
+   "es": "Chiles rellenos de queso crema"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2449,
+  "position": 0,
+  "text": {
+   "ar": "هل تريد إضافة بعض النكهة الحارة إلى وجبتك القادمة المناسبة لمرضى الكلى؟ جرّب الفلفل الحار المحشو بالجبن الكريمي.",
+   "en": "Want to add some spice to your next kidney-friendly meal? Try these cream cheese stuffed chiles rellenos.",
+   "es": "¿Quiere darle un toque picante a su próxima comida adecuada para los riñones? Pruebe estos chiles rellenos de queso crema."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2496,
+  "position": 0,
+  "text": {
+   "ar": "خبز الحلّة التقليدي",
+   "en": "Classic Challah",
+   "es": "Jalá clásica"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2496,
+  "position": 0,
+  "text": {
+   "ar": "الحلّة خبز بسيط بالخميرة يُقدَّم في يوم السبت وفي الأعياد اليهودية. جرّب خبز الحلّة التقليدي من إعداد Maryam.",
+   "en": "Challah is a simple yeast bread served on the Sabbath and Jewish holidays. Try this classic challah from Maryam.",
+   "es": "La jalá es un pan sencillo de levadura que se sirve en el Sabbat y en las festividades judías. Pruebe esta jalá clásica de Maryam."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2502,
+  "position": 0,
+  "text": {
+   "ar": "كعكة التفاح الطازج بكريمة الجبن",
+   "en": "Fresh Apple Cake with Cream Cheese Frosting",
+   "es": "Pastel de manzana fresca con glaseado de queso crema"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2502,
+  "position": 0,
+  "text": {
+   "ar": "يجتمع التفاح والقرفة وجوز البقان والجبن الكريمي في كعكة لذيذة مناسبة لمرضى الكلى بفضل Bev وNancy، أخصائية التغذية الكلوية من ولاية كاليفورنيا. قدّمها حلوى يومية أو في مناسبة خاصة، ولن يخمّن ضيوفك أبدًا أنها كعكة قليلة الصوديوم ومنخفضة البوتاسيوم والفوسفور.",
+   "en": "Apples, cinnamon, pecans and cream cheese all put together in a tasty kidney-friendly cake thanks to Bev and renal dietitian Nancy from California. Serve it for everyday dessert or at a special occasion. Your guests will never guess this is a low sodium, low potassium, low phosphorus cake.",
+   "es": "Manzanas, canela, nueces pecanas y queso crema se combinan en un sabroso pastel adecuado para los riñones gracias a Bev y a Nancy, dietista renal de California. Sírvalo como postre de todos los días o en una ocasión especial. Sus invitados nunca adivinarán que es un pastel bajo en sodio, potasio y fósforo."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2547,
+  "position": 0,
+  "text": {
+   "ar": "مافن خبز الذرة بحليب الأرز",
+   "en": "Cornbread Muffins with Rice Milk",
+   "es": "Magdalenas de pan de maíz con leche de arroz"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2547,
+  "position": 0,
+  "text": {
+   "ar": "أضافت Jackie، أخصائية التغذية الكلوية في DaVita من ولاية كارولاينا الشمالية، لمستها الخاصة إلى مافن خبز الذرة بوصفة تمنحه لمسة خفيفة من الحلاوة بفضل مكوّنها السري: حليب الأرز، وهو بديل للحليب منخفض الفوسفور يُنصح به. وصفة المافن هذه المناسبة لمرضى الكلى سهلة التحضير لدرجة أنك تستطيع إعداد دفعة منها في وقت قصير جدًا.",
+   "en": "DaVita renal dietitian Jackie from North Carolina has put her own spin on Corn Bread Muffins with a recipe that offers just a hint of sweetness, thanks to the secret ingredients of rice milk, which is a recommended low-phosphorus substitute for milk. This renal-friendly muffin recipe is so easy to make, you can whip up a batch in no time.",
+   "es": "Jackie, dietista renal de DaVita en Carolina del Norte, le dio su toque personal a las magdalenas de pan de maíz con una receta que tiene apenas un toque dulce, gracias a su ingrediente secreto: la leche de arroz, un sustituto de la leche bajo en fósforo que se recomienda. Esta receta de magdalenas adecuada para los riñones es tan fácil que puede preparar una tanda en muy poco tiempo."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2627,
+  "position": 0,
+  "text": {
+   "ar": "صلصة الفينيغريت بالثوم والأعشاب",
+   "en": "Garlic Herb Vinaigrette Dressing",
+   "es": "Aderezo vinagreta de ajo y hierbas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2627,
+  "position": 0,
+  "text": {
+   "ar": "أضف لمسة منعشة إلى سلطتك المناسبة لمرضى الكلى مع صلصة الفينيغريت بالثوم والأعشاب. مذاق هذه الصلصة المنزلية أفضل من أي صلصة جاهزة تشتريها من المتجر، ولن تقلق بشأن الصوديوم والفوسفور والبوتاسيوم.",
+   "en": "Add a little zip to your kidney-friendly salad with this garlic herb vinaigrette dressing. This homemade dressing tastes better than anything you’ll buy off the shelf and you don’t have to worrying about sodium, phosphorus and potassium.",
+   "es": "Dé un toque de sabor a su ensalada apta para personas con enfermedad renal con este aderezo vinagreta de ajo y hierbas. Este aderezo casero sabe mejor que cualquiera que compre en la tienda y no tiene que preocuparse por el sodio, el fósforo ni el potasio."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2662,
+  "position": 0,
+  "text": {
+   "ar": "مافن التوت الأزرق بالليمون",
+   "en": "Lemon Blueberry Muffins",
+   "es": "Magdalenas de arándanos y limón"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2662,
+  "position": 0,
+  "text": {
+   "ar": "تشاركك هيذر، أخصائية التغذية في DaVita، إحدى الوصفات المفضلة لدى عائلتها: مافن التوت الأزرق بالليمون. وقد عدّلت الوصفة لتقليل الفوسفور والصوديوم لتصبح مناسبة لمرضى الكلى، مع الحفاظ على نكهة الطبخ التقليدي المريح.",
+   "en": "DaVita dietitian Heather shares one of her family’s favorite recipes, lemon blueberry muffins. She’s modified the recipe to reduce phosphorus and sodium making it kidney-friendly, while maintaining the flavor of comforting, old-fashioned cooking.",
+   "es": "Heather, dietista de DaVita, comparte una de las recetas favoritas de su familia: magdalenas de arándanos y limón. Modificó la receta para reducir el fósforo y el sodio y hacerla apta para personas con enfermedad renal, sin perder el sabor reconfortante de la cocina tradicional."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 2977,
+  "position": 0,
+  "text": {
+   "ar": "سلطة التونة بالتفاح والكرفس",
+   "en": "Tuna Salad with Apple and Celery",
+   "es": "Ensalada de atún con manzana y apio"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2977,
+  "position": 0,
+  "text": {
+   "ar": "تدرك Matilde، أخصائية التغذية في DaVita من ولاية تكساس، أن الطعام يمثل مصدرًا للراحة وأن اتباع نظام غذائي صحي قد يكون صعبًا على مرضاها. ولهذا فإن من مواهب Matilde العديدة مشاركة وصفات عائلتها المفضلة اللذيذة والمناسبة لمرضى الكلى. وسلطة التونة بالتفاح والكرفس هذه شهية وغنية بالبروتين وسهلة التحضير.",
+   "en": "Matilde, a DaVita dietitian from Texas, understands food represents comfort and adopting a healthy diet can be difficult for her patients. That’s why one of Matilde’s many talents is sharing family favorite recipes that are tasty and kidney-friendly. This tuna salad with apple and celery is savory, rich in protein and easy to prepare.",
+   "es": "Matilde, dietista de DaVita en Texas, entiende que la comida representa consuelo y que adoptar una dieta saludable puede ser difícil para sus pacientes. Por eso, uno de los muchos talentos de Matilde es compartir las recetas favoritas de su familia, que son sabrosas y aptas para personas con enfermedad renal. Esta ensalada de atún con manzana y apio es sabrosa, rica en proteína y fácil de preparar."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3101,
+  "position": 0,
+  "text": {
+   "ar": "مافن الزنجبيل",
+   "en": "Gingerbread Muffins",
+   "es": "Magdalenas de jengibre"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3101,
+  "position": 0,
+  "text": {
+   "ar": "من المؤكد أن كعك مافن الزنجبيل هذا سيصبح من المفضلات في الأعياد لسنوات قادمة. يجتمع الزنجبيل الحار مع القرفة والسكر البني ليصنع كعكة مافن شهية مناسبة لمرضى الكلى، رائعة للإفطار أو الحلوى أو كوجبة خفيفة.",
+   "en": "These gingerbread muffins are sure to be a holiday favorite for years to come. Spicy ginger combined with cinnamon and brown sugar come together to create a scrumptious kidney-friendly muffin that’s great for breakfast, dessert or snack.",
+   "es": "Estas magdalenas de jengibre seguramente serán una de las favoritas de las fiestas durante muchos años. El jengibre picante combinado con canela y azúcar morena crea una deliciosa magdalena adecuada para la dieta renal, ideal para el desayuno, el postre o un refrigerio."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3294,
+  "position": 0,
+  "text": {
+   "ar": "مشروب البروتين بالروت بير والفانيليا",
+   "en": "Vanilla Root Beer Protein Drink",
+   "es": "Bebida proteica de root beer con vainilla"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3294,
+  "position": 0,
+  "text": {
+   "ar": "دلّل حاسة التذوق لديك مع مشروب الروت بير بالفانيليا، وهو مشروب غني بالبروتين ومناسب لمرضى الكلى من ابتكار أليسون، أخصائية التغذية الكلوية في DaVita.",
+   "en": "Delight your taste buds with this vanilla root beer drink, a high protein, kidney-friendly drink creation from DaVita renal dietitian Allison.",
+   "es": "Deleite su paladar con esta bebida de root beer con vainilla, alta en proteínas y saludable para los riñones, creada por Allison, dietista renal de DaVita."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3326,
+  "position": 0,
+  "text": {
+   "ar": "حلوى بودنغ الفانيليا بالطبقات",
+   "en": "Layered Vanilla Pudding Dessert",
+   "es": "Postre de pudín de vainilla en capas"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3326,
+  "position": 0,
+  "text": {
+   "ar": "قاعدة منزلية الصنع تعلوها حشوة من الجبن الكريمي، ثم طبقة من البودنغ والكريمة المخفوقة، لتصنع حلوى فانيليا كريمية بطبقات.",
+   "en": "Homemade crust topped with cream cheese filling, plus a layer of pudding and whipped cream make this a creamy vanilla dessert.",
+   "es": "Una base casera cubierta con un relleno de queso crema, más una capa de pudín y crema batida hacen de este un cremoso postre de vainilla."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3376,
+  "position": 0,
+  "text": {
+   "ar": "فرابيه القهوة بالموكا",
+   "en": "Mocha Coffee Frappé",
+   "es": "Frappé de café moca"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3376,
+  "position": 0,
+  "text": {
+   "ar": "تشاركنا مارثا، أخصائية التغذية الكلوية في DaVita من ولاية ميزوري، وصفتها الرائعة والمناسبة لمرضى الكلى لفرابيه القهوة بالموكا. حضّر هذا المشروب في المناسبات الخاصة عندما ترغب في نسخة لذيذة ومناسبة لمرضى الكلى من مشروبات القهوة المثلجة الشهيرة التي تُباع في كل مقهى.",
+   "en": "DaVita renal dietitian Martha from Missouri shares her fabulous kidney friendly recipe for a mocha coffee frappé. Make this beverage for those special times when you’ll want a delicious kidney friendly version of the popular iced coffee drinks sold at every coffee house.",
+   "es": "Martha, dietista renal de DaVita en Misuri, comparte su fabulosa receta saludable para los riñones de frappé de café moca. Prepare esta bebida para esas ocasiones especiales en las que desee una deliciosa versión saludable para los riñones de las populares bebidas de café helado que se venden en todas las cafeterías."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3412,
+  "position": 0,
+  "text": {
+   "ar": "كوبلر التوت الأسود",
+   "en": "Blackberry Cobbler",
+   "es": "Cobbler de moras"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3412,
+  "position": 0,
+  "text": {
+   "ar": "تضفي ميشيل، أخصائية تغذية الكلى في DaVita والمنحدرة من تكساس، لمسة مناسبة لمرضى الكلى على هذه الوصفة اللذيذة التي ورثتها عن جدة زوجها المعروفة باسم «مور ماما». باستبدال منتجات الألبان بحليب الأرز، تقلل نسخة ميشيل من مستويات الفوسفور والبوتاسيوم.",
+   "en": "Michelle, a DaVita renal dietitian who hails from Texas, puts a kidney-friendly spin on this delicious recipe from her grandmother-in-law, better known as “More Momma.” By substituting rice milk for dairy, Michelle’s version lowers phosphorus and potassium levels.",
+   "es": "Michelle, dietista renal de DaVita originaria de Texas, le da un toque apto para personas con enfermedad renal a esta deliciosa receta de la abuela de su esposo, más conocida como «More Momma». Al sustituir los lácteos por leche de arroz, la versión de Michelle reduce los niveles de fósforo y potasio."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3480,
+  "position": 0,
+  "text": {
+   "ar": "مشروب البروتين الكريمي بالبرتقال",
+   "en": "Orange Cream Protein Drink",
+   "es": "Bebida proteica cremosa de naranja"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3480,
+  "position": 0,
+  "text": {
+   "ar": "دلّل حاسة التذوق لديك بمشروب البرتقال الكريمي المنعش، وهو مشروب غني بالبروتين ومناسب لمرضى الكلى من ابتكار أليسون، أخصائية تغذية الكلى في DaVita.",
+   "en": "Delight your tastebuds with this orange cream drink, a high protein, kidney- friendly drink creation from DaVita renal dietitian Allison.",
+   "es": "Deleite su paladar con esta bebida cremosa de naranja, alta en proteínas y apta para personas con enfermedad renal creada por Allison, dietista renal de DaVita."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3508,
+  "position": 0,
+  "text": {
+   "ar": "تورتة الكرز بالجبن الكريمي",
+   "en": "Cherry Cream Cheese Torte",
+   "es": "Torta de queso crema con cereza"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3508,
+  "position": 0,
+  "text": {
+   "ar": "كل وقت مناسب لحلوى مميزة، وقد عدّلت إيمي، أخصائية تغذية الكلى في DaVita من فلوريدا، وصفة جدتها ليستمتع بها الجميع، حتى من يتبعون النظام الغذائي الخاص بالكلى. باستخدام حشوة فطيرة الكرز والجبن الكريمي وبسكويت غراهام ومكونات أخرى غالبًا ما تكون متوفرة في مخزن مطبخك، يمكنك تحضير حلوى هذا المساء ستنال إعجاب الجميع الليلة!",
+   "en": "Anytime’s a good time for a special dessert, and DaVita renal dietitian Amy from Florida has adapted her grandmother’s recipe so it can be enjoyed by everyone, even those on the kidney diet. Using cherry pie filling, cream cheese, graham crackers and other ingredients you’re likely to have in your pantry, you can stir up a dessert this afternoon that’s sure to be a crowd-pleaser tonight!",
+   "es": "Cualquier momento es bueno para un postre especial, y Amy, dietista renal de DaVita de Florida, adaptó la receta de su abuela para que todos puedan disfrutarla, incluso quienes siguen la dieta para los riñones. Con relleno para pay de cereza, queso crema, galletas graham y otros ingredientes que probablemente tenga en su despensa, puede preparar esta tarde un postre que seguramente encantará a todos esta noche."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3509,
+  "position": 0,
+  "text": {
+   "ar": "تشيلي الدجاج بالفلفل الأخضر",
+   "en": "Green Chile Chicken Chili",
+   "es": "Chili de pollo con chile verde"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3509,
+  "position": 0,
+  "text": {
+   "ar": "يشاركنا إيان، أحد مرضى DaVita، وصفته الغنية بالنكهة والمناسبة لمرضى الكلى، والتي ستضفي الدفء بالتأكيد على أي أمسية عشاء عائلية.",
+   "en": "DaVita patient Ian shares his kidney friendly, flavor recipe that is sure to warm up any family meal night.",
+   "es": "Ian, paciente de DaVita, comparte su sabrosa receta apta para personas con enfermedad renal, que seguramente hará más cálida cualquier noche de comida en familia."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3623,
+  "position": 0,
+  "text": {
+   "ar": "كعكة الفقراء",
+   "en": "Poor Man’s Cake",
+   "es": "Pastel del pobre"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3623,
+  "position": 0,
+  "text": {
+   "ar": "تناسب هذه الكعكة الأنظمة الغذائية لمرضى الكلى المزمن ومرضى غسيل الكلى، ولا تحتاج إلا إلى نصف كوب من الكاكاو لتمنحها لونًا غنيًا ومذاق الشوكولاتة. وتقول كاثي إن ميشيل أعطتها الوصفة لأنها أرادت مساعدة المرضى على ضبط مستوى الفوسفور جيدًا مع الاستمتاع بالشوكولاتة.",
+   "en": "Suitable for CKD and dialysis food plans, the cake calls for just a half cup of cocoa to give it a rich color and chocolaty taste. Kathy says that Michelle gave her the recipe because she wanted to help patients maintain good phosphorus control while enjoying their chocolate.",
+   "es": "Apto para los planes de alimentación para la enfermedad renal crónica (ERC) y la diálisis, este pastel lleva solo media taza de cacao para darle un color intenso y un sabor a chocolate. Kathy cuenta que Michelle le dio la receta porque quería ayudar a los pacientes a mantener un buen control del fósforo mientras disfrutan del chocolate."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3659,
+  "position": 0,
+  "text": {
+   "ar": "صلصة ألفريدو الكريمية",
+   "en": "Creamy Alfredo Sauce",
+   "es": "Salsa Alfredo cremosa"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3659,
+  "position": 0,
+  "text": {
+   "ar": "حضّر صلصة ألفريدو الكريمية لعشائك. وصفات DaVita لذيذة ومناسبة لمرضى الكلى، ويقدمها أخصائيو التغذية في DaVita.",
+   "en": "Make this creamy alfredo sauce for your dinner. DaVita’s recipes are delicious, kidney-friendly, and submitted by DaVita dietitians.",
+   "es": "Prepare esta salsa Alfredo cremosa para su cena. Las recetas de DaVita son deliciosas, aptas para la dieta renal y enviadas por dietistas de DaVita."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3664,
+  "position": 0,
+  "text": {
+   "ar": "صلصة الخل بالتوت الأحمر والليمون",
+   "en": "Raspberry Lime Vinaigrette",
+   "es": "Vinagreta de frambuesa y limón"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3664,
+  "position": 0,
+  "text": {
+   "ar": "لا عجب أن صلصة الخل بالتوت الأحمر هي الخيار المفضل لجودي، أخصائية تغذية الكلى من ولاية بنسلفانيا. فالتوت الأحمر الطازج مع خل التوت الأحمر ومربى التوت الأحمر يضفي نكهة توت حلوة تكمّل أوراق السلطة الخضراء دون إضافة صوديوم.",
+   "en": "It’s no wonder this raspberry lime vinaigrette is a go-to favorite for renal dietitian Judy from Pennsylvania. Fresh raspberries along with raspberry vinegar and raspberry preserves add a sweet berry flavor that complements salad greens without adding extra sodium.",
+   "es": "No es de extrañar que esta vinagreta de frambuesa y limón sea la preferida de Judy, dietista renal de Pensilvania. Las frambuesas frescas, junto con el vinagre de frambuesa y la mermelada de frambuesa, aportan un sabor dulce a frutos rojos que complementa las hojas verdes de la ensalada sin agregar sodio extra."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3800,
+  "position": 0,
+  "text": {
+   "ar": "دجاج بالصلصة الحلوة والحامضة",
+   "en": "Sweet and Sour Chicken",
+   "es": "Pollo agridulce"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3800,
+  "position": 0,
+  "text": {
+   "ar": "هل تحب الطعام الصيني وقرمشة الخضار والصلصات اللاذعة؟ وصفة الدجاج بالصلصة الحلوة والحامضة هذه المناسبة لمرضى الكلى تجمع كل ذلك، وهي سهلة التحضير جدًا.",
+   "en": "Do you love Chinese food, the crunch of vegetables and the tangy sauces? The kidney-friendly recipe for this sweet and sour chicken has all that and it’s so easy to make.",
+   "es": "¿Le encanta la comida china, lo crujiente de las verduras y las salsas ácidas? Esta receta de pollo agridulce, apta para la dieta renal, lo tiene todo y es muy fácil de preparar."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3860,
+  "position": 0,
+  "text": {
+   "ar": "بسكويت الزبدة بالنعناع",
+   "en": "Butter Mint Cookies",
+   "es": "Galletas de mantequilla y menta"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3860,
+  "position": 0,
+  "text": {
+   "ar": "بسكويت الزبدة بالنعناع من شيريل، اختصاصية تغذية مرضى الكلى في DaVita، مزيج رائع من نكهة الزبدة والنعناع. هذا البسكويت الغني بالنكهة مُشبع جدًا لدرجة أن حصة من قطعتين تكفي لإسعادك.",
+   "en": "These butter mint cookies from DaVita renal dietitian Cheryl are a delightful combination of buttery mint flavor. These rich-tasting cookies are so satisfying that the 2 cookie serving size will be enough to make you happy.",
+   "es": "Las galletas de mantequilla y menta de Cheryl, dietista renal de DaVita, son una deliciosa combinación de sabor a mantequilla y menta. Estas galletas de sabor intenso son tan satisfactorias que la porción de 2 galletas será suficiente para dejarlo feliz."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3900,
+  "position": 0,
+  "text": {
+   "ar": "كيكة الجزر بكريمة الجبن",
+   "en": "Carrot Cake with Cream Cheese Icing",
+   "es": "Pastel de zanahoria con glaseado de queso crema"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3900,
+  "position": 0,
+  "text": {
+   "ar": "تفخر لوسي، اختصاصية تغذية مرضى الكلى في DaVita من ولاية جورجيا، كثيرًا بكيكة الجزر التي تحضّرها، فهي طرية ولذيذة، تبرز فيها نكهة الجزر بشكل رائع بفضل القرفة والفانيليا بدلًا من أن تطغى عليها كما في بعض الوصفات. وتتوّج كريمة الجبن هذه الكيكة المناسبة لمرضى الكلى.",
+   "en": "DaVita renal dietitian, Lucy from Georgia, is very proud of her carrot cake. It is moist and delicious. The flavor of the carrots are wonderfully accented by the cinnamon and vanilla instead of overpowered like some recipes. The cream cheese icing tops off this kidney-friendly carrot cake.",
+   "es": "Lucy, dietista renal de DaVita en Georgia, está muy orgullosa de su pastel de zanahoria. Es húmedo y delicioso. El sabor de las zanahorias se realza maravillosamente con la canela y la vainilla, en lugar de quedar opacado como en otras recetas. El glaseado de queso crema corona este pastel de zanahoria apto para la dieta renal."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3923,
+  "position": 0,
+  "text": {
+   "ar": "رغيف اللحم بجبن الشيدر",
+   "en": "Cheddar Meatloaf",
+   "es": "Pastel de carne con queso cheddar"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3923,
+  "position": 0,
+  "text": {
+   "ar": "لدى جانيس، اختصاصية تغذية مرضى الكلى في DaVita من ولاية فلوريدا، وصفة لرغيف اللحم طعمها رائع وتناسب النظام الغذائي لمرضى الكلى. وقد تجعله نكهته رغيف اللحم المفضل لديك.",
+   "en": "DaVita renal dietitian Janis from Florida has a meatloaf recipe that tastes wonderful and fits into the kidney diet. Its flavor may make this a meatloaf favorite.",
+   "es": "Janis, dietista renal de DaVita en Florida, tiene una receta de pastel de carne que sabe de maravilla y encaja en la dieta renal. Su sabor podría convertirlo en su pastel de carne favorito."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3927,
+  "position": 0,
+  "text": {
+   "ar": "كعكة الملاك بالفراولة",
+   "en": "Strawberry Angel Food Cake",
+   "es": "Pastel de ángel con fresa"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3927,
+  "position": 0,
+  "text": {
+   "ar": "أرضِ رغبتك في الحلوى بشريحة من كعكة الملاك بالفراولة من لورين، اختصاصية التغذية في DaVita من ولاية كنتاكي. إنها حلوى منعشة ومناسبة لمرضى الكلى في أنظمة أمراض الكلى المزمنة دون غسيل، وغسيل الكلى، وغسيل الكلى مع السكري.",
+   "en": "Satisfy your sweet tooth with a slice of strawberry angel food cake by DaVita dietitian Lauren from Kentucky. It’s a refreshing dessert and kidney friendly for the CKD non-dialysis, dialysis and diabetic-dialysis diets.",
+   "es": "Satisfaga su antojo de dulce con una rebanada de pastel de ángel con fresa, de Lauren, dietista de DaVita en Kentucky. Es un postre refrescante y apto para las dietas renales de enfermedad renal crónica sin diálisis, diálisis y diálisis con diabetes."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3972,
+  "position": 0,
+  "text": {
+   "ar": "مشروب البروتين الكريمي بالفراولة",
+   "en": "Strawberry Cream Protein Drink",
+   "es": "Bebida proteica cremosa de fresa"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3972,
+  "position": 0,
+  "text": {
+   "ar": "دلّل ذائقتك بمشروب الفراولة الكريمي، وهو مشروب غني بالبروتين ومناسب لمرضى الكلى من ابتكار أليسون، اختصاصية التغذية لمرضى الكلى في DaVita.",
+   "en": "Delight your taste buds with this strawberry cream drink, a high protein, kidney- friendly drink creation from DaVita renal dietitian Allison.",
+   "es": "Deleite su paladar con esta bebida cremosa de fresa, alta en proteínas y apta para personas con enfermedad renal, creada por Allison, dietista renal de DaVita."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 55203,
+  "position": 0,
+  "text": {
+   "ar": "كعكة الملاك بالشربات",
+   "en": "Angel Food Sherbet Cake",
+   "es": "Pastel de ángel con sorbete"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 55203,
+  "position": 0,
+  "text": {
+   "ar": "تتطلب كعكة الملاك بالشربات السهلة هذه ثلاثة مكونات فقط، وهي حلوى لذيذة يمكن أن تكون جزءًا من نظام غذائي مناسب لمرضى الكلى.",
+   "en": "This easy Angel Food Sherbet Cake uses just three ingredients and is a delicious dessert that can fit into a kidney-friendly diet.",
+   "es": "Este sencillo pastel de ángel con sorbete lleva solo tres ingredientes y es un postre delicioso que puede formar parte de una dieta apta para personas con enfermedad renal."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3571404,
+  "position": 0,
+  "text": {
+   "ar": "كاري اللحم البقري بالفاصوليا الخضراء",
+   "en": "Beef Curry with Green Beans",
+   "es": "Curry de res con ejotes"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3571404,
+  "position": 0,
+  "text": {
+   "ar": "تشارلي، الطاهي الشغوف، خضع مؤخرًا لعملية زراعة كلية، وساعدنا في تكييف هذه الوصفة لمطبخ الكلى Kidney Kitchen.",
+   "en": "Keen cook Charlie recently received a kidney transplant and helped us adapt this recipe for the Kidney Kitchen.",
+   "es": "Charlie, un entusiasta de la cocina, recibió recientemente un trasplante de riñón y nos ayudó a adaptar esta receta para Kidney Kitchen."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4060171,
+  "position": 0,
+  "text": {
+   "en": "Sweet Ricotta Breakfast Spread"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4207445,
+  "position": 0,
+  "text": {
+   "ar": "سموذي التوت المشكّل",
+   "en": "Mixed Berry Smoothie",
+   "es": "Batido de frutos rojos"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4269980,
+  "position": 0,
+  "text": {
+   "en": "Zucchini Pineapple Loaf"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4779899,
+  "position": 0,
+  "text": {
+   "en": "Pear and Cheddar Grilled Cheese"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4825624,
+  "position": 0,
+  "text": {
+   "en": "Vegetable and Orzo Meatloaf"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4859949,
+  "position": 0,
+  "text": {
+   "ar": "دجاج مشوي بالشمر والليمون",
+   "en": "Roast Chicken with Fennel and Lemon",
+   "es": "Pollo asado con hinojo y limón"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 4902938,
+  "position": 0,
+  "text": {
+   "en": "Blueberry Cupcakes with Vanilla Frosting"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 4902938,
+  "position": 0,
+  "text": {
+   "en": "A Family Tradition"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1002699,
+  "position": 0,
+  "text": {
+   "ar": "فلفل حار محشو بالفطر والجبن الكريمي",
+   "en": "Chiles Rellenos with Mushrooms and Cream Cheese",
+   "es": "Chiles rellenos con champiñones y queso crema"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1002699,
+  "position": 0,
+  "text": {
+   "ar": "هل تريد إضافة القليل من النكهة إلى وجبتك القادمة المناسبة لمرضى الكلى؟ جرّب الفلفل الحار المحشو بالفطر والجبن الكريمي.",
+   "en": "Want to add a little flavor to your next kidney-friendly meal? Try these chiles rellenos with mushrooms and cream cheese.",
+   "es": "¿Quiere agregar un poco de sabor a su próxima comida saludable para el riñón? Pruebe estos chiles rellenos con champiñones y queso crema."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1002729,
+  "position": 0,
+  "text": {
+   "ar": "مافن خبز الذرة قليل الحلاوة",
+   "en": "Lightly Sweet Cornbread Muffins",
+   "es": "Muffins de pan de maíz ligeramente dulces"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1002729,
+  "position": 0,
+  "text": {
+   "ar": "جرّب مافن خبز الذرة قليل الحلاوة عندما تشتهي خبزًا مناسبًا لمرضى الكلى.",
+   "en": "Try these lightly sweet cornbread muffins when you’re craving a kidney-friendly bread.",
+   "es": "Pruebe estos muffins de pan de maíz ligeramente dulces cuando tenga ganas de un pan amigable para los riñones."
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 1002982,
+  "position": 0,
+  "text": {
+   "ar": "صلصة الخل بالليمون والزعتر للسلطات",
+   "en": "Lemon and Thyme Vinaigrette Dressing",
+   "es": "Aderezo vinagreta de limón y tomillo"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 1002982,
+  "position": 0,
+  "text": {
+   "ar": "يمكن لهذه الصلصة قليلة الصوديوم أن تضفي النكهة على أي سلطة.",
+   "en": "This low-sodium dressing can add flavor to any salad.",
+   "es": "Esta salsa baja en sodio puede dar sabor a cualquier ensalada."
+  }
+ }
+]

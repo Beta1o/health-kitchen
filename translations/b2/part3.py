@@ -322,7 +322,7 @@ R(4562778,
       "2 tazas de arándanos rojos congelados",
       "3/4 de taza de azúcar blanca*",
       "1 cucharadita de ralladura de limón",
-      "1 cucharadita de polvo de cinco especias (para un sabor más suave, use ½ cucharadita)",
+      "1 cucharadita de polvo de 5 especias (para un sabor más suave, use ½ cucharadita)",
       "Hojas de menta fresca (opcional)"],
     steps=[
       "Combine todos los ingredientes en una cacerola y ponga a hervir. Cocine a fuego lento durante 5 minutos.",
