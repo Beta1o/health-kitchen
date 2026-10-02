@@ -1,0 +1,92 @@
+[
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/barley-and-beef-stew",
+    "davita_sa_title": "Barley and Beef Stew",
+    "db_recipe_id": 2289,
+    "db_title": "Barley and Beef Stew",
+    "match": "title",
+    "image_url": "https://ourassets.site/davita/barley-and-beef-stew.jpg",
+    "image_path": "sources/davita_sa/images/barley-and-beef-stew.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/bavarian-apple-tart",
+    "davita_sa_title": "Bavarian Apple Tart",
+    "db_recipe_id": 2647,
+    "db_title": "Bavarian Apple Tart",
+    "match": "title",
+    "image_url": "https://ourassets.site/davita/bavarian-apple-tart.jpg",
+    "image_path": "sources/davita_sa/images/bavarian-apple-tart.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/creamy-cucumber-spread",
+    "davita_sa_title": "Creamy Cucumber Spread",
+    "db_recipe_id": 2802,
+    "db_title": "Creamy Cucumber Spread",
+    "match": "title",
+    "image_url": "https://ourassets.site/davita/creamy-cucumber-spread.jpg",
+    "image_path": "sources/davita_sa/images/creamy-cucumber-spread.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/grilled-marinated-chicken",
+    "davita_sa_title": "Grilled Marinated Chicken",
+    "db_recipe_id": 3846,
+    "db_title": "Grilled Marinated Chicken",
+    "match": "title",
+    "image_url": "https://ourassets.site/davita/grilled-marinated-chicken.jpg",
+    "image_path": "sources/davita_sa/images/grilled-marinated-chicken.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/pineapple-cake",
+    "davita_sa_title": "Pineapple Cake",
+    "db_recipe_id": 3249,
+    "db_title": "Pineapple Cake",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/pineapple-cake.jpg",
+    "image_path": "sources/davita_sa/images/pineapple-cake.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/roasted-lamb",
+    "davita_sa_title": "Roast Lamb",
+    "db_recipe_id": 2599,
+    "db_title": "Roast Lamb",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/roast-lamb-new-.jpg",
+    "image_path": "sources/davita_sa/images/roasted-lamb.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/royal-meringue-cookies",
+    "davita_sa_title": "Royal Meringue Cookies",
+    "db_recipe_id": 3004,
+    "db_title": "Royal Meringue Cookies",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/royal-meringue-cookies.jpg",
+    "image_path": "sources/davita_sa/images/royal-meringue-cookies.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/slow-cooker-mixed-fruit-recipe",
+    "davita_sa_title": "Slow cooker Mixed Fruit Recipe",
+    "db_recipe_id": 3862,
+    "db_title": "Slow Cooker Mixed Fruit Pudding",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/slow-cooker-mixed-fruit-recipe.jpg",
+    "image_path": "sources/davita_sa/images/slow-cooker-mixed-fruit-recipe.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/tasty-eggplant-casserole",
+    "davita_sa_title": "Tasty Eggplant Casserole",
+    "db_recipe_id": 2166,
+    "db_title": "Tasty Eggplant Casserole",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/tasty-eggplant-casserole.jpg",
+    "image_path": "sources/davita_sa/images/tasty-eggplant-casserole.jpg"
+  },
+  {
+    "davita_sa_url": "https://davita.sa/diet-nutrition/vegetable-cutlet",
+    "davita_sa_title": "Vegetable cutlet",
+    "db_recipe_id": 3665,
+    "db_title": "Vegetable Cutlets",
+    "match": "title+nutrients",
+    "image_url": "https://ourassets.site/davita/vegetable-cutlet.jpg",
+    "image_path": "sources/davita_sa/images/vegetable-cutlet.jpg"
+  }
+]

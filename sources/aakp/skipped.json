@@ -1,0 +1,134 @@
+[
+ {
+  "title": "Turkey Scaloppinie",
+  "url": "https://aakp.org/wp-content/uploads/2022/07/EBMedCards-10scallopine-04.pdf",
+  "edition": 4,
+  "reason": "edition page links this title to the PDF of another recipe (Turkey Scaloppine); its own recipe text is not on aakp.org"
+ },
+ {
+  "title": "Chicken and Cabbage Bake",
+  "url": "https://aakp.org/wp-content/uploads/2022/06/23-Caribbean-Chicken-Wings.pdf",
+  "edition": 5,
+  "reason": "edition page links this title to the PDF of another recipe (Caribbean Chicken Wings); its own recipe text is not on aakp.org"
+ },
+ {
+  "title": "Holiday Eating Tips",
+  "url": "https://aakp.org/holiday-eating-tips/",
+  "reason": "category 'Recipe' post that is not a recipe (article / roundup without ingredients and steps)"
+ },
+ {
+  "title": "Enjoy a Valentine’s Day Meal of AAKP Delicious! Recipes",
+  "url": "https://aakp.org/enjoy-a-valentines-day-meal-of-aakp-delicious-recipes/",
+  "reason": "category 'Recipe' post that is not a recipe (article / roundup without ingredients and steps)"
+ },
+ {
+  "title": "Click here to find a renal dietitian near you!",
+  "url": "http://www.eatright.org/find-an-expert",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "Click here to order the 9th Edition recipe card set in AAKP's online store.",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-9th-edition-12-recipes/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Watch AAKP Delicious! Videos",
+  "url": "https://www.youtube.com/playlist?list=PLsqCn2yDJM3MF7mV6ZlYDwYxnVmswVC_R",
+  "reason": "video playlist (YouTube), no recipe text on aakp.org"
+ },
+ {
+  "title": "Purchase in our online store.",
+  "url": "https://aakp.org/product/aakp-delicious-cookbook/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store.",
+  "url": "https://aakp.org/product/aakp-delicious-cookbook-2nd-edition/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-3rd-edition-complete-set/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-4th-edition/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store.",
+  "url": "https://aakp.org/product/9423/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store.",
+  "url": "https://aakp.org/product/pre-order-aakp-delicious-recipe-card-series-6th-edition-12-recipes/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-7th-edition-12-new-recipes/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-8th-edition-12-new-recipes/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "Purchase in our online store",
+  "url": "https://aakp.org/product/aakp-delicious-recipe-card-series-9th-edition-12-recipes/",
+  "reason": "store page for printed recipe cards (same recipes as the digital edition PDFs); not fetched"
+ },
+ {
+  "title": "AAKP Nutrition Counter",
+  "url": "https://aakp.org/wp-content/uploads/2021/03/NutritionCounter_English_030321_Digital-2.pdf",
+  "reason": "nutrition guide PDF, not a recipe"
+ },
+ {
+  "title": "AAKP Pocket Guide to Managing Phosphorus",
+  "url": "https://aakp.org/wp-content/uploads/2025/03/PocketGuide_PhosphorusMngmt_FINAL_Digital.pdf",
+  "reason": "nutrition guide PDF, not a recipe"
+ },
+ {
+  "title": "AAKP Pocket Guide to Managing High Potassium",
+  "url": "https://aakp.org/wp-content/uploads/2024/02/AAKP_HighPotassiumGuide_Digital_2024.pdf",
+  "reason": "nutrition guide PDF, not a recipe"
+ },
+ {
+  "title": "AAKP Pocket Guide to Understanding the Food Nutrition Facts Label",
+  "url": "https://aakp.org/wp-content/uploads/2026/02/AAKP-FoodLabelBrochure-WEB-Jan2026-F2-1.pdf",
+  "reason": "nutrition guide PDF, not a recipe"
+ },
+ {
+  "title": "American Kidney Fund Kidney-Friendly Diet",
+  "url": "http://www.kidneyfund.org/kidney-disease/chronic-kidney-disease-ckd/kidney-friendly-diet-for-ckd.html",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "DaVita Kidney Care Recipes",
+  "url": "http://www.davita.com/diet-nutrition/recipes",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "Dialysis Clinic, Inc. Recipes",
+  "url": "http://www.dciinc.org/recipies",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "Fresenius Kidney Care Eating Well",
+  "url": "http://www.freseniuskidneycare.com/eating-well",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "Northwest Kidney Centers Kidney Healthy Recipes",
+  "url": "http://www.nwkidney.org/living-with-kidney-disease/recipes",
+  "reason": "external site, not hosted on aakp.org"
+ },
+ {
+  "title": "RSN Recipes",
+  "url": "http://www.rshope.org/renal-recipes-kidney-friendly",
+  "reason": "external site, not hosted on aakp.org"
+ }
+]

@@ -1,0 +1,127 @@
+"""Filter values (categories, diet types, dish types...) in English, Spanish and Arabic.
+
+TERMS maps each English value to its Spanish and Arabic names. ES_TO_EN folds the
+names used on espanol.davita.com into the English values, so one filter covers
+recipes from both sites.
+"""
+
+TERMS = {
+    # categories
+    "Appetizers & Snacks": ("Bocadillos y snacks", "مقبلات ووجبات خفيفة"),
+    "Beef, Lamb & Pork": ("Carne de res y cordero", "لحم البقر والضأن"),
+    "Beverages": ("Bebidas", "مشروبات"),
+    "Breads": ("Panes", "مخبوزات وخبز"),
+    "Breakfast & Brunch": ("Desayuno y almuerzo", "الفطور والبرانش"),
+    "Chicken & Turkey": ("Pollo y pavo", "دجاج وديك رومي"),
+    "Desserts": ("Postres", "حلويات"),
+    "Fish & Seafood": ("Pescados y mariscos", "أسماك ومأكولات بحرية"),
+    "Pasta, Rice & Grains": ("Pasta, arroz y granos", "معكرونة وأرز وحبوب"),
+    "Pizza & Sandwiches": ("Pizza y sándwiches", "بيتزا وسندويشات"),
+    "Salads & Dressings": ("Ensaladas y aderezos", "سلطات وصلصاتها"),
+    "Sauces & Seasonings": ("Salsas y condimentos", "صلصات وتوابل"),
+    "Soups & Stews": ("Sopas y estofados", "شوربات ويخنات"),
+    "Vegetables": ("Verduras", "خضروات"),
+    # diet types
+    "CKD non-dialysis": ("ERC sin diálisis", "مرض الكلى المزمن دون غسيل"),
+    "Diabetes": ("Diabetes", "السكري"),
+    "Dialysis": ("Diálisis", "غسيل الكلى"),
+    "Gluten-free": ("Sin gluten", "خالٍ من الغلوتين"),
+    "Heart Healthy": ("Saludable para el corazón", "صحي للقلب"),
+    "Higher Potassium": ("Más alto en potasio", "أعلى في البوتاسيوم"),
+    "Lower Potassium": ("Más bajo en potasio", "أقل في البوتاسيوم"),
+    "Lower Protein": ("Bajo en proteínas", "قليل البروتين"),
+    "Vegetarian": ("Vegetariana", "نباتي"),
+    # dish types
+    "5 or less ingredients": ("5 ingredientes o menos", "5 مكونات أو أقل"),
+    "Bread": ("Pan", "خبز"),
+    "Budget": ("Económico", "اقتصادي"),
+    "Cake": ("Pastel", "كيك"),
+    "Candy": ("Dulces", "حلوى"),
+    "Cookies": ("Galletas", "بسكويت"),
+    "Easy": ("Fácil", "سهل"),
+    "Freezer": ("Congelador", "يُحفظ في الفريزر"),
+    "Meatless Entree": ("Plato principal sin carne", "طبق رئيسي بدون لحم"),
+    "Muffin": ("Magdalena", "مافن"),
+    "One-Dish Meal": ("Comida en un solo plato", "وجبة في طبق واحد"),
+    "Picnic": ("Picnic", "نزهة"),
+    "Pie": ("Tarta", "فطيرة"),
+    "Potluck": ("Para compartir", "للعزائم والمشاركة"),
+    "Quick": ("Rápido", "سريع"),
+    "Refrigerator": ("Refrigerador", "يُحفظ في الثلاجة"),
+    "Soup": ("Sopa", "شوربة"),
+    "Stew": ("Estofado", "يخنة"),
+    "Stir-fry": ("Salteado", "مقلي سريع (ستير فراي)"),
+    # cooking methods
+    "Bake": ("Horneado", "خَبز في الفرن"),
+    "Fry": ("Freír", "قلي"),
+    "Grill": ("A la parrilla", "شوي"),
+    "Microwave": ("Microondas", "ميكروويف"),
+    "No Cooking": ("Sin cocinar", "بدون طهي"),
+    "Oven": ("Horno", "فرن"),
+    "Roast": ("Asado", "تحمير"),
+    "Slow Cooker": ("Olla de cocción lenta", "طباخ بطيء"),
+    "Stove Top": ("Estufa", "على الموقد"),
+    # holidays
+    "Christmas": ("Navidad", "عيد الميلاد"),
+    "Easter": ("Semana Santa", "عيد الفصح"),
+    "Halloween": ("Halloween", "الهالوين"),
+    "Hanukkah": ("Janucá", "عيد الأنوار (حانوكا)"),
+    "Independence Day": ("Día de la Independencia", "يوم الاستقلال"),
+    "Mother's Day": ("Día de las Madres", "عيد الأم"),
+    "New Year": ("Año Nuevo", "رأس السنة"),
+    "St Patrick's Day": ("Día de San Patricio", "يوم القديس باتريك"),
+    "Thanksgiving": ("Día de Acción de Gracias", "عيد الشكر"),
+    "Valentine's Day": ("San Valentín", "عيد الحب"),
+    "Special Celebrations": ("Celebraciones especiales", "مناسبات خاصة"),
+    # cuisines
+    "American": ("Estadounidense", "أمريكي"),
+    "Asian": ("Asiática", "آسيوي"),
+    "Caribbean": ("Caribeña", "كاريبي"),
+    "Chinese": ("China", "صيني"),
+    "Filipino": ("Filipina", "فلبيني"),
+    "French": ("Francesa", "فرنسي"),
+    "German": ("Alemana", "ألماني"),
+    "Greek": ("Griega", "يوناني"),
+    "Hawaiian": ("Hawaiana", "هاوايي"),
+    "Indian": ("India", "هندي"),
+    "Irish": ("Irlandesa", "إيرلندي"),
+    "Italian": ("Italiana", "إيطالي"),
+    "Japanese": ("Japonesa", "ياباني"),
+    "Jewish": ("Judía", "يهودي"),
+    "Mediterranean": ("Mediterránea", "متوسطي"),
+    "Mexican": ("Mexicana", "مكسيكي"),
+    "Middle Eastern": ("De Medio Oriente", "شرق أوسطي"),
+    "Native American": ("Nativa americana", "أمريكي أصلي"),
+    "South American": ("Sudamericana", "أمريكي جنوبي"),
+    "Southern": ("Sureña (EE. UU.)", "جنوب أمريكي (الجنوب الأمريكي)"),
+}
+
+ES_TO_EN = {
+    # categories
+    "Bebidas": "Beverages", "Bocadillos y Snacks": "Appetizers & Snacks",
+    "Carne de Res, Cordero y Cerdo": "Beef, Lamb & Pork", "Desayuno": "Breakfast & Brunch",
+    "Ensaladas y Aderezos": "Salads & Dressings", "Marisco": "Fish & Seafood", "Panes": "Breads",
+    "Pasta y Arroz": "Pasta, Rice & Grains", "Pizza y Sándwiches": "Pizza & Sandwiches",
+    "Pollo y Pavo": "Chicken & Turkey", "Postres": "Desserts", "Salsas y Aderezos": "Sauces & Seasonings",
+    "Sopas y Estofado": "Soups & Stews", "Verduras": "Vegetables",
+    # diet types
+    "Baja proteína": "Lower Protein", "Bajo en proteínas": "Lower Protein", "CKD no-diálisis": "CKD non-dialysis",
+    "Diabetes": "Diabetes", "Diálisis": "Dialysis", "Saludable para el Corazon": "Heart Healthy",
+    "Saludable": "Heart Healthy", "Sin Gluten": "Gluten-free", "Vegetariana": "Vegetarian",
+    "Bajo Costo": "Budget",  # a diet tag on the Spanish site, a dish type on the English one
+    # cooking methods
+    "Crock Pot": "Slow Cooker", "Estufa": "Stove Top", "Freír": "Fry", "Grill": "Grill",
+    "Horneado": "Bake", "Horno": "Oven", "Microondas": "Microwave", "Sin cocinar": "No Cooking",
+    # holidays
+    "Año Nuevo": "New Year", "Celebraciones Especiales": "Special Celebrations", "Janucá": "Hanukkah",
+    "Navidad": "Christmas", "Semana Santa": "Easter", "Thanksgiving": "Thanksgiving",
+    "Valentine's Day": "Valentine's Day",
+    # cuisines
+    "Alemán": "German", "Filipino": "Filipino", "Hawaiano": "Hawaiian", "Indio": "Indian",
+    "Italiano": "Italian", "Japonés": "Japanese", "Mediterráneo": "Mediterranean",
+    "Mexicano": "Mexican", "Sudamericano": "South American",
+    # dish types
+    "Congelador": "Freezer", "Crudo Picnic": "Picnic", "Estofado": "Stew", "Fácil": "Easy",
+    "Ingredientes de 5 o menos": "5 or less ingredients", "Pan": "Bread", "Potluck": "Potluck",
+    "Refrigerador": "Refrigerator", "Rápido": "Quick", "Sopa": "Soup", "Un plato de comida": "One-Dish Meal",
+}

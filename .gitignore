@@ -1,0 +1,9 @@
+# raw downloads (re-created by the scrapers; too large for git)
+cache/
+images/
+sources/*/cache/
+sources/*/images/
+fonts/cache_*
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,8 @@
+{
+ "listed": 302,
+ "scraped": 51,
+ "with_image": 51,
+ "with_nutrients": 50,
+ "skipped": 251,
+ "notes": "Recipe index (all 15 pages): 302 recipes. Sitemap recipe-index URLs: 302. Filter listings (34 values) union: 302. Collection pages linked: 168. Union of all: 302. In sitemap not index: none. In index not sitemap: none. Only in filters/collections: none. Nutrition is per serving; the site gives only carbohydrate (g) and energy (kcal) numerically, plus dietitian-assessed yes/no flags (low potassium/phosphate/salt/fat/protein, high protein, vegetarian, vegan, gluten-free) and portion price, all kept in nutrients_raw. Diet mapped from ticked flags: Low potassium->Lower Potassium, Low protein->Lower Protein, Gluten-free, Vegetarian/Vegan->Vegetarian; Dialysis only if text says suitable for dialysis. Images are the largest srcset rendition (1050px wide) of the recipe hero photo. Unmapped numeric nutrition labels kept in nutrients_raw: Portion price."
+}

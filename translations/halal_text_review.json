@@ -1,0 +1,1288 @@
+[
+ {
+  "field": "description",
+  "recipe_id": 2080,
+  "position": 0,
+  "recipe_title": "Pickled Mustard Seeds",
+  "ingredients_en": [
+   "1/2 cup yellow mustard seeds",
+   "3/4 cup apple cider vinegar",
+   "1/4 cup water",
+   "1/2 teaspoon salt",
+   "3/4 teaspoon turmeric",
+   "1 tablespoon honey"
+  ],
+  "text": {
+   "ar": "بذور الخردل المخللة سهلة التحضير ورائعة مع البيض المسلوق، وفي صلصات السلطة، ومع لحم الخنزير والدجاج والمأكولات البحرية والأسماك والساندويتشات.",
+   "en": "Pickled Mustard Seeds are easy to make and great on hard boiled eggs, in salad dressing, with pork, chicken, seafood, fish and sandwiches.",
+   "es": "Las Semillas de mostaza encurtidas son fáciles de preparar y quedan deliciosas con huevos duros, en aderezos para ensalada, con cerdo, pollo, mariscos, pescado y en sándwiches."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2153,
+  "position": 0,
+  "recipe_title": "Cranberry Salsa",
+  "ingredients_en": [
+   "16 ounces canned whole cranberries",
+   "8 ounces canned crushed pineapple",
+   "10 ounces frozen strawberries in sugar",
+   "1/2 cup unsweetened applesauce"
+  ],
+  "text": {
+   "ar": "إذا كنت تحب صلصة السالسا لكنك تريد الابتعاد عن النسخة المعتمدة على الطماطم والغنية بالبوتاسيوم، فلدى أدريان، أخصائية تغذية الكلى في DaVita من ولاية كارولاينا الشمالية، شيء مميز لك: وصفة سالسا التوت البري المناسبة لمرضى الكلى. ترافق هذه الإضافة المحضّرة من الفاكهة الديك الرومي ولحم الخنزير المدخن (الهام) والدجاج والسمك بأناقة، وتضيف لمسة من اللون إلى طبقك. إنها متعة رائعة في الأعياد أو في أي وقت، وطريقة مبتكرة لإضافة لمسة فاكهية مرحة إلى أي وجبة.",
+   "en": "If you love salsa,but want to stay away from the high-potassium,tomato-based version,DaVita renal dietitian,Adrienne from North Carolinahas something special for you — kidney-friendly recipe for Cranberry Salsa. This fruit-based garnish accompanies turkey,ham,chicken and fish with panache,and adds a splash of color to your plate. A great treat for the holidays or anytime,Cranberry Salsa is a creative way to add some fruity fun to any meal.",
+   "es": "Si le encanta la salsa pero quiere evitar la versión a base de tomate, alta en potasio, Adrienne, dietista renal de DaVita en Carolina del Norte, tiene algo especial para usted: la receta apta para personas con enfermedad renal de Salsa de arándanos rojos. Este acompañamiento a base de frutas complementa con estilo el pavo, el jamón, el pollo y el pescado, y añade un toque de color a su plato. Ideal para las fiestas o para cualquier ocasión, la Salsa de arándanos rojos es una forma creativa de añadir un toque afrutado a cualquier comida."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2631,
+  "position": 0,
+  "recipe_title": "Brunch Nachos",
+  "ingredients_en": [
+   "4 ounces unsalted large size tortilla chips (about 30 chips)",
+   "1 small green bell pepper (or orange, red)",
+   "1/4 cup diced red onion",
+   "2 roma tomatoes",
+   "1/2 cup cilantro",
+   "2 limes",
+   "1/2 cup sour cream",
+   "1/2 teaspoon cumin",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon onion powder",
+   "4 slices cooked turkey bacon",
+   "1/2 cup shredded sharp cheddar cheese",
+   "4 large eggs"
+  ],
+  "text": {
+   "ar": "يُضاف البيض ولحم الديك الرومي المقدد (بيكون) إلى مكونات الناتشوز التقليدية لتحضير ناتشوز البرانش، وهو طبق مكسيكي لذيذ لفطورك أو وجبة البرانش القادمة.",
+   "en": "Egg and turkey bacon are added to traditional nacho ingredients to create Brunch Nachos, a tasty Mexican dish for your next breakfast or brunch.",
+   "es": "Al huevo y el tocino de pavo se suman los ingredientes tradicionales de los nachos para crear estos nachos para el brunch, un sabroso platillo mexicano para su próximo desayuno o brunch."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2707,
+  "position": 0,
+  "recipe_title": "Jellied Cranberry Sauce",
+  "ingredients_en": [
+   "1 cup granulated sugar",
+   "1 cup water",
+   "12 ounces fresh whole cranberries"
+  ],
+  "text": {
+   "ar": "صلصة التوت البري الهلامية تذكير رائع بأنك لست مضطرًا لانتظار عيد الشكر لتزيين طبقك بصلصة التوت البري المناسبة لمرضى الكلى.",
+   "en": "Jellied Cranberry Sauce is a great reminder that you don’t have to wait for Thanksgiving to accent a dish with kidney-friendly cranberry sauce.",
+   "es": "Esta salsa de arándanos rojos en gelatina es un excelente recordatorio de que no hay que esperar al Día de Acción de Gracias para acompañar un platillo con salsa de arándanos rojos apta para personas con enfermedad renal."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2751,
+  "position": 0,
+  "recipe_title": "Spicy BBQ Sauce",
+  "ingredients_en": [
+   "2 tablespoons canola oil",
+   "1 tablespoon all-purpose white flour",
+   "1/4 cup dark corn syrup",
+   "1/4 cup tarragon vinegar",
+   "1/4 cup onion",
+   "1 cup water",
+   "2 teaspoons dry mustard",
+   "2 tablespoons no salt added tomato paste",
+   "1 teaspoon Tabasco® sauce",
+   "1 teaspoon Kitchen Bouquet® seasoning",
+   "1/4 teaspoon salt"
+  ],
+  "text": {
+   "ar": "صلصة الباربكيو الحارة وصفة لذيذة ومناسبة لمرضى الكلى، يمكنك استخدامها مع الدجاج ولحم البقر ولحم الخنزير وأي طبق آخر يحتاج إلى نكهة إضافية منعشة.",
+   "en": "Spicy BBQ Sauce is a yummy and kidney-friendly recipe to use on chicken, beef, pork and anything else that needs some extra zing.",
+   "es": "Esta salsa barbecue picante es una receta deliciosa y apta para personas con enfermedad renal que puede usar en pollo, res, cerdo y cualquier otro platillo que necesite un toque extra de sabor."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2784,
+  "position": 0,
+  "recipe_title": "Sweet Dijon-Glazed Turkey Breast",
+  "ingredients_en": [
+   "5 pound turkey breast",
+   "1/3 cup pineapple topping",
+   "2 teaspoons Dijon-style mustard",
+   "1 teaspoon lemon juice"
+  ],
+  "text": {
+   "ar": "عندما تفكر في مصادر البروتين الجيدة، تذكّر الديك الرومي. فهو بديل رائع للدجاج ولحم البقر ولحم الخنزير، وتقدم ماريا، أخصائية تغذية الكلى في DaVita من ولاية كارولاينا الشمالية، وصفة لذيذة لصدر الديك الرومي بصلصة خردل ديجون الحلوة المناسبة لمرضى الكلى.",
+   "en": "When you’re thinking of good protein sources, remember turkey. It’s a great change from chicken, beef and pork, and DaVita renal dietitian, Maria from North Carolina, offers a tasty recipe for kidney-friendly Sweet Dijon-Glazed Turkey Breast.",
+   "es": "Cuando piense en buenas fuentes de proteína, recuerde el pavo. Es un excelente cambio frente al pollo, la res y el cerdo, y María, dietista renal de DaVita de Carolina del Norte, ofrece una sabrosa receta de pechuga de pavo glaseada con mostaza Dijon dulce, apta para personas con enfermedad renal."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2843,
+  "position": 0,
+  "recipe_title": "Easy Horseradish Sauce",
+  "ingredients_en": [
+   "2 teaspoons prepared horseradish",
+   "1/2 cup sour cream",
+   "1/2 teaspoon ground nutmeg"
+  ],
+  "text": {
+   "ar": "تساعدك سارة، أخصائية تغذية الكلى في DaVita، على إضافة نكهة لاذعة إلى لحم البقر المشوي أو لحم الضأن أو لحم الخنزير مع وصفتها المناسبة لمرضى الكلى لصلصة الفجل الحار السهلة. يمتزج الفجل الحار والقشدة الحامضة وجوزة الطيب المطحونة لتعزيز نكهات اللحوم والخضار.",
+   "en": "DaVita renal dietitian, Sara, helps you add a little zing to your roast beef, lamb or pork with her kidney-friendly recipe for Easy Horseradish Sauce. Horseradish, sour cream and ground nutmeg combine to enhance the flavors of meat and vegetables.",
+   "es": "La dietista renal de DaVita, Sara, lo ayuda a agregar un poco de chispa a su carne asada, cordero o cerdo con su receta saludable para el riñón de salsa fácil de rábano picante. El rábano picante, la crema agria y la nuez moscada se combinan para mejorar los sabores de la carne y los vegetales."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 2919,
+  "position": 0,
+  "recipe_title": "Mexican Coleslaw",
+  "ingredients_en": [
+   "10 ounces coleslaw mix",
+   "1/4 cup green onions",
+   "1 cup red bell pepper",
+   "1/2 cup fresh cilantro",
+   "1 tablespoon jalapeno pepper",
+   "3 tablespoons extra virgin olive oil",
+   "1/4 cup pineapple juice",
+   "1/2 teaspoon ground ginger",
+   "1/4 teaspoon black pepper",
+   "1-1/2 teaspoons ground cumin",
+   "1 tablespoon sugar",
+   "2 tablespoons red wine vinegar",
+   "1/3 cup mayonnaise"
+  ],
+  "text": {
+   "ar": "من الطرق الرائعة لجعل الطبق الرئيسي يكفي أكثر أن تقدّم معه طبقًا جانبيًا يكمّله. وسلطة الملفوف على الطريقة المكسيكية إضافة ممتازة، إذ تشاركنا LaBonte E. من كاليفورنيا وصفتها الخاصة المناسبة لمرضى الكلى، والتي تكفي ثمانية أشخاص. الملفوف المبشور والجزر والفلفل الرومي وزيت الزيتون وخل النبيذ الأحمر تجعلها مقرمشة ومميزة للغاية!",
+   "en": "A great way to stretch a main course even further is to pair it with a complimentary side. Mexican Coleslaw is an excellent addition, and LaBonte E. from California shares her special kidney-friendly recipe that serves eight. Shredded cabbage, carrots, bell peppers, olive oil and red wine vinegar make it super-crunchy-special!",
+   "es": "Una excelente manera de hacer rendir aún más un plato principal es acompañarlo con una guarnición que lo complemente. La ensalada de col estilo mexicano es una excelente opción, y LaBonte E., de California, comparte su receta especial, apta para personas con enfermedad renal, que rinde ocho porciones. ¡La col rallada, las zanahorias, los pimientos, el aceite de oliva y el vinagre de vino tinto la hacen súper crujiente y especial!"
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3019,
+  "position": 0,
+  "recipe_title": "Meat and Rice Balls",
+  "ingredients_en": [
+   "1 pound lean ground beef",
+   "1 large egg",
+   "1 cup instant white rice",
+   "3/4 teaspoon Mrs. Dash® herb seasoning blend",
+   "2-1/4 cups water"
+  ],
+  "text": {
+   "ar": "كرات اللحم بالأرز ليس الاسم الأصلي لهذه الوصفة اللذيذة المناسبة لمرضى الكلى. فقد أُطلق على كرات اللحم البقري والأرز هذه لقب “كرات القنفذ” لأن حبات الأرز تبرز منها مثل الأشواك، تمامًا كالقنفذ. والوصفة من أخصائي التغذية الكلوية في DaVita، Ken، من ولاية ميزوري، وهي وصفة عائلية قديمة مفضلة جُرّبت واختُبرت على مر السنين.",
+   "en": "Meat and Rice Balls isn’t the original name of this tasty kidney-friendly recipe. These beef and rice meatballs were nicknamed Porcupine Balls because the rice sticks up like quills, just like a porcupine. The recipe is from DaVita renal dietitian, Ken from Missouri, and it’s an old family favorite that’s been tried and tested over the years.",
+   "es": "Una combinación de carne de pavo picada, carne picada y cerdo con orégano y ajo hacen las albóndigas griegas un sabor griego favorito."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3049,
+  "position": 0,
+  "recipe_title": "Red Wine Vinaigrette Asparagus",
+  "ingredients_en": [
+   "1 garlic clove",
+   "2 pounds fresh asparagus",
+   "1 tablespoon olive oil",
+   "1/4 cup red wine vinaigrette dressing",
+   "1/2 teaspoon black pepper"
+  ],
+  "text": {
+   "ar": "استمتع بوصفة الهليون بصلصة فينيغريت النبيذ الأحمر المناسبة لمرضى الكلى في عشاء عطلة نهاية الأسبوع القادمة.",
+   "en": "Enjoy this kidney-friendly recipe for Red Wine Vinaigrette Asparagus at your next weekend dinner.",
+   "es": "Disfrute de esta receta de Espárragos a la vinagreta de vino tinto, apta para personas con enfermedad renal, en su próxima cena de fin de semana."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3597,
+  "position": 0,
+  "recipe_title": "Basic Meat Coating Mix",
+  "ingredients_en": [
+   "1 cup dry unseasoned bread crumbs",
+   "1/4 teaspoon black pepper",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon basil",
+   "1/2 teaspoon dried celery leaves",
+   "1/2 teaspoon paprika"
+  ],
+  "text": {
+   "ar": "حضّر فتات الخبز في المنزل باستخدام هذه الوصفة المناسبة لمرضى الكلى لخلطة التغليف الأساسية للحوم، لتضمن طريقة قليلة الصوديوم لإضافة النكهة والقرمشة إلى لحم البقر والدجاج ولحم الخنزير والسمك. غلّف اللحم ثم اقلِه أو اخبزه. وجرّب إضافة بهارات مختلفة إلى الخلطة حسب نوع اللحم الذي تستخدمه لتعزيز النكهة.",
+   "en": "Make homemade breadcrumbs using this kidney-friendly recipe for Basic Meat Coating Mix recipe to ensure you have a low-sodium way to add flavor and crunch to beef, chicken, pork and fish. Coat meat and fry or bake. Try adding different spices to the Basic Meat Coating Mix depending on what type of meat you use to enhance flavor.",
+   "es": "Haga migajas de pan caseras utilizando esta recepta saludable para el riñón de mezcla básica de recubrimiento de carne para asegurarse de tener una forma baja en sodio para agregar sabor y algo crujiente a la carne, el pollo, cerdo y pescado. Recubra la carne y fría u hornee. Trate de agregar diferentes sabores a la mezcla básica de recubrimiento de carne según el tipo de carne que use para mejorar el sabor."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3716,
+  "position": 0,
+  "recipe_title": "Mexican Seasoning",
+  "ingredients_en": [
+   "3 teaspoons chili powder",
+   "2 teaspoons paprika",
+   "2 teaspoons ground cumin",
+   "1 teaspoon onion powder",
+   "1/2 teaspoon garlic powder",
+   "1/8 teaspoon cayenne pepper"
+  ],
+  "text": {
+   "ar": "خلطة التتبيل المكسيكية وصفة مناسبة لمرضى الكلى يمكن استخدامها مع لحم البقر أو الدجاج أو لحم الخنزير أو المأكولات البحرية.",
+   "en": "Mexican Seasoning is a kidney-friendly recipe that can be put on beef, chicken, pork or seafood.",
+   "es": "El aderezo mexicano es una receta saludable para el riñón que se puede poner a la carne, el pollo, el cerdo o los mariscos."
+  }
+ },
+ {
+  "field": "description",
+  "recipe_id": 3904,
+  "position": 0,
+  "recipe_title": "Homemade BBQ Sauce",
+  "ingredients_en": [
+   "2 tablespoons canola oil",
+   "1/4 cup honey",
+   "2 tablespoons brown sugar",
+   "1/4 cup apple cider vinegar",
+   "2 tablespoons sweet onion",
+   "1 cup water",
+   "1 small garlic clove",
+   "2 teaspoon dry mustard",
+   "2 tablespoons tomato paste",
+   "1 teaspoon Tabasco® hot pepper sauce",
+   "1 teaspoon Kitchen Bouquet® browning and seasoning sauce",
+   "1-1/2 tablespoon butter",
+   "1/4 teaspoon salt"
+  ],
+  "text": {
+   "ar": "تحتوي هذه الصلصة اللذيذة على 51 ملغ صوديوم فقط لكل حصة، ويمكن استخدامها مع الدجاج أو اللحم البقري أو لحم الخنزير أو البرغر أو في أي وصفة تعتمد على الباربكيو.",
+   "en": "This tasty sauce has only 51 mg of sodium a serving, and can be used on chicken, beef, pork, burgers or in any BBQ-based recipe.",
+   "es": "Esta sabrosa salsa tiene solo 51 mg de sodio por porción y puede usarse con pollo, res, cerdo, hamburguesas o en cualquier receta a base de barbacoa."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 1730,
+  "position": 1,
+  "recipe_title": "Tortas",
+  "ingredients_en": [
+   "4 (3 ounce) thin cut beef round steaks",
+   "4 sandwich rolls",
+   "1/2 (15 ounce) can pinto beans, drained, rinsed, mashed",
+   "1/4 cup sour cream, divided",
+   "1 medium tomato",
+   "1/2 avocado",
+   "2 pickled jalapeno peppers",
+   "1/2 cup fresh cilantro",
+   "1 cups shredded romaine lettuce",
+   "1/2 cup Queso Fresco, divided",
+   "1 lime"
+  ],
+  "text": {
+   "ar": "يمكن استبدال الستيك بالدجاج أو لحم الخنزير، أو الاستغناء عنه تمامًا لخيار نباتي.",
+   "en": "Steak can be substituted for chicken, pork, or removed completely for a vegetarian option.",
+   "es": "Puede sustituir el bistec por pollo o cerdo, u omitirlo por completo para una opción vegetariana."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 1771,
+  "position": 1,
+  "recipe_title": "Cucumbers with Sour Cream",
+  "ingredients_en": [
+   "2 medium cucumbers",
+   "1/8 teaspoon salt",
+   "1/2 medium sweet onion",
+   "1/4 cup white wine vinegar",
+   "1 tablespoon canola oil",
+   "1/8 teaspoon black pepper",
+   "1/2 cup reduced-fat sour cream"
+  ],
+  "text": {
+   "ar": "هذا الطبق إضافة رائعة إلى أي وجبة، وخاصة أطباق اللحم البقري ولحم الخنزير.",
+   "en": "This is a wonderful addition to any meal, but especially beef and pork dishes.",
+   "es": "Es un acompañamiento maravilloso para cualquier comida, especialmente para platos de res y cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 1913,
+  "position": 2,
+  "recipe_title": "Pancit",
+  "ingredients_en": [
+   "3 garlic cloves",
+   "1/2 cup onion",
+   "2 cups carrots",
+   "4 cups cabbage",
+   "3 celery stalks",
+   "2 green onions",
+   "1 tablespoon olive oil",
+   "1 cup chicken, cooked",
+   "1 cup shrimp, cooked",
+   "1 tablespoon reduced-sodium soy sauce",
+   "4 cups low-sodium chicken broth",
+   "16 ounces rice sticks (Asian rice noodles)",
+   "16 ounces frozen snow peas",
+   "1/2 teaspoon black pepper",
+   "1 egg, hard boiled",
+   "2 lemons"
+  ],
+  "text": {
+   "ar": "يمكن استبدال الدجاج بلحم الخنزير، أو استخدام مزيج من الدجاج ولحم الخنزير والروبيان.",
+   "en": "Pork can be substituted for chicken or you can use a mixture of chicken, pork and shrimp.",
+   "es": "Puede sustituir el pollo por cerdo, o usar una mezcla de pollo, cerdo y camarones."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2080,
+  "position": 5,
+  "recipe_title": "Pickled Mustard Seeds",
+  "ingredients_en": [
+   "1/2 cup yellow mustard seeds",
+   "3/4 cup apple cider vinegar",
+   "1/4 cup water",
+   "1/2 teaspoon salt",
+   "3/4 teaspoon turmeric",
+   "1 tablespoon honey"
+  ],
+  "text": {
+   "ar": "جرّب بذور الخردل المخللة مع البيض المسلوق، وفي صلصات السلطة، ومع لحم الخنزير والدجاج والمأكولات البحرية والسلمون والخضار المحمّصة والساندويتشات، أو مع أي طعام تحب إضافة الخردل إليه.",
+   "en": "Try Pickled Mustard Seeds on boiled eggs, in salad dressings, with pork, chicken, seafood, salmon, roasted vegetables, sandwiches, or anything that you like mustard on.",
+   "es": "Pruebe las Semillas de mostaza encurtidas con huevos cocidos, en aderezos para ensalada, con cerdo, pollo, mariscos, salmón, verduras asadas, sándwiches o cualquier alimento al que le guste ponerle mostaza."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2115,
+  "position": 1,
+  "recipe_title": "Turkey Kabobs",
+  "ingredients_en": [
+   "3 pounds boneless, skinless turkey breasts",
+   "6 tablespoons reduced-sodium teriyaki sauce",
+   "1-1/2 teaspoons sugar",
+   "3 teaspoons canola oil",
+   "1 teaspoon ground ginger",
+   "1/2 teaspoon nutmeg",
+   "2 large onions",
+   "3 sweet bell peppers (red and green)",
+   "40 ounces canned pineapple chunks",
+   "8 ounces canned mandarin oranges",
+   "1 cup raspberry salad dressing",
+   "1/2 pound grapes",
+   "24 skewers or kabob sticks"
+  ],
+  "text": {
+   "ar": "للتنويع، استبدل الديك الرومي بلحم الخنزير المشوي.",
+   "en": "Substitute pork roast for turkey for variety.",
+   "es": "Para variar, sustituya el pavo por lomo de cerdo asado."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2158,
+  "position": 1,
+  "recipe_title": "Chicken Parikas",
+  "ingredients_en": [
+   "non-stick cooking spray",
+   "2 tablespoons canola oil",
+   "1/2 cup onion, finely chopped",
+   "1 tablespoon sweet Hungarian paprika",
+   "1/2 teaspoon black pepper",
+   "6 chicken breasts, bone-in",
+   "2 cups water",
+   "1/4 teaspoon salt",
+   "1 cup reduced-fat sour cream"
+  ],
+  "text": {
+   "ar": "عُدّلت هذه الوصفة العائلية لتكون أكثر فائدة لصحة القلب. فالمطبخ المجري التقليدي يستخدم كميات كبيرة من القشدة الحامضة والزبدة والشحم ودهون اللحوم. وقد عُدّلت هذه الوصفة لتكون أقل دهونًا مع الحفاظ على النكهات التقليدية. إنها لذيذة عند تقديمها فوق الزلابية، لكن تقديمها فوق الشعيرية أسهل قليلًا.",
+   "en": "This family recipe was modified to be more heart-healthy. Traditional Hungarian cuisine uses copious quantities of sour cream, butter, lard, and fat from meats. This recipe has been modified to be leaner, while retaining traditional flavors. It is delicious served over dumplings, but is a little easier to serve over noodles.",
+   "es": "Esta receta familiar se modificó para que fuera más saludable para el corazón. La cocina húngara tradicional usa grandes cantidades de crema agria, mantequilla, manteca y grasa de las carnes. Esta receta se modificó para ser más magra, conservando los sabores tradicionales. Es deliciosa servida sobre dumplings, pero es un poco más fácil servirla sobre fideos."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2275,
+  "position": 2,
+  "recipe_title": "Black Eyed Pea Hash",
+  "ingredients_en": [
+   "1 cup frozen black eyed peas",
+   "2 cups cooked white rice",
+   "1 tablespoon olive oil",
+   "3 garlic cloves",
+   "1 medium red bell pepper",
+   "1 small onion",
+   "2 stalks celery",
+   "2 small carrots",
+   "1/2 cup kale",
+   "1 bay leaf",
+   "3 fresh thyme sprigs",
+   "1 cup low-sodium chicken broth",
+   "1/2 teaspoon salt (optional)",
+   "1/4 teaspoon black pepper"
+  ],
+  "text": {
+   "ar": "يمكن طهي هذا الطبق مع شريحة من لحم الخنزير المدخن (هام) قليل الصوديوم لنكهة أغنى. وإذا استخدمته، فاستغنِ عن الملح.",
+   "en": "This dish can be cooked with a slice of low-sodium ham for increased flavor. If you are using ham omit the salt.",
+   "es": "Este plato se puede cocinar con una rebanada de jamón bajo en sodio para darle más sabor. Si usa jamón, omita la sal."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2473,
+  "position": 4,
+  "recipe_title": "Ground Beef and Green Pea Stove-top Casserole",
+  "ingredients_en": [
+   "3 cups new potatoes",
+   "1 medium onion",
+   "1 pound lean ground beef",
+   "2-1/2 cups water",
+   "3 cups fresh shelled green peas",
+   "2 cups low-sodium beef broth",
+   "2 tablespoons cornstarch"
+  ],
+  "text": {
+   "ar": "نوّع الوصفة: استبدل اللحم البقري بلحم الغزال أو الدجاج أو الخنزير المفروم.",
+   "en": "Mix it up– substitute ground deer, chicken or pork for beef.",
+   "es": "Varíe la receta: sustituya la carne de res por carne molida de venado, pollo o cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2515,
+  "position": 1,
+  "recipe_title": "Sautéed Cabbage with Mustard Sauce",
+  "ingredients_en": [
+   "2 tablespoons apple cider vinegar",
+   "3 tablespoons apple cider",
+   "1 tablespoon mustard",
+   "1 tablespoon olive oil",
+   "1/2 teaspoon caraway seeds",
+   "3 cups cabbage",
+   "nonstick cooking spray"
+  ],
+  "text": {
+   "ar": "قدّمه طبقًا جانبيًا من الخضار أو استخدمه إضافة فوق ساندويتش ساخن من لحم البقر أو لحم الخنزير.",
+   "en": "Serve as a side vegetable dish or use as a topping on a hot beef or pork sandwich.",
+   "es": "Sirva como guarnición de verduras o úselo como cubierta en un sándwich caliente de res o de cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2549,
+  "position": 3,
+  "recipe_title": "Curried Chicken Thighs",
+  "ingredients_en": [
+   "1 Granny Smith apple",
+   "1 medium carrot",
+   "1/2 large onion",
+   "2 garlic cloves",
+   "4 chicken thighs, bone-in, skinless (1 pound)",
+   "1/2 teaspoon salt",
+   "2 tablespoons curry powder",
+   "1 teaspoon ginger",
+   "1 teaspoon garlic powder",
+   "1 teaspoon onion powder",
+   "1 teaspoon cumin",
+   "1/2 teaspoon cinnamon",
+   "1/4 teaspoon black pepper",
+   "4 tablespoons olive oil",
+   "1-1/2 cups water"
+  ],
+  "text": {
+   "ar": "للتنويع، استبدل الدجاج بالروبيان أو لحم الخنزير.",
+   "en": "Replace chicken with shrimp or pork for variety.",
+   "es": "Para variar, sustituya el pollo por camarones o cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2633,
+  "position": 2,
+  "recipe_title": "Jamaican Jerk Chicken",
+  "ingredients_en": [
+   "6 medium green onions",
+   "1 small onion",
+   "2 teaspoons fresh ginger",
+   "3 garlic cloves",
+   "2 habanero or 1 scotch bonnet chili pepper",
+   "2 tablespoons white vinegar",
+   "1 tablespoon soy sauce",
+   "1 tablespoon canola oil",
+   "2 tablespoons brown sugar",
+   "1 teaspoon kosher or sea salt",
+   "2 teaspoons fresh thyme",
+   "1 teaspoon ground allspice",
+   "1/4 teaspoon black pepper",
+   "1/4 teaspoon ground nutmeg",
+   "1/8 teaspoon cinnamon",
+   "1-1/2 pounds boneless, skinless chicken thighs"
+  ],
+  "text": {
+   "ar": "إذا استبدلت الدجاج بلحم الخنزير، فاطهه حتى تصل حرارته إلى 160° فهرنهايت (70° مئوية).",
+   "en": "If substituting pork for chicken cook to 160° F.",
+   "es": "Si usa cerdo en lugar de pollo, cocínelo hasta que alcance los 160 °F."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2707,
+  "position": 1,
+  "recipe_title": "Jellied Cranberry Sauce",
+  "ingredients_en": [
+   "1 cup granulated sugar",
+   "1 cup water",
+   "12 ounces fresh whole cranberries"
+  ],
+  "text": {
+   "ar": "للحصول على نسخة قليلة السكر، استخدم Splenda أو مُحلّيًا آخر خاليًا من السكر. أضف 1 إلى 2 ملعقة كبيرة من الجيلاتين السادة المذاب بعد تصفية الصلصة من التوت المطبوخ.",
+   "en": "For a low sugar version use Splenda or other sugar-free sweetener. Add 1 to 2 tablespoons dissolved plain gelatin after starining sauce from cooked berries.",
+   "es": "Para una versión baja en azúcar, use Splenda u otro endulzante sin azúcar. Agregue de 1 a 2 cucharadas de grenetina natural disuelta después de colar la salsa de los arándanos cocidos."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2774,
+  "position": 3,
+  "recipe_title": "Samosa",
+  "ingredients_en": [
+   "1/4 cup onion",
+   "1 teaspoons ginger root",
+   "2 tablespoon cilantro",
+   "1/2 cup frozen green peas",
+   "3 tablespoons canola oil plus oil for deep frying",
+   "1 tablespoon coriander powder",
+   "1/4 teaspoon cayenne pepper",
+   "1 teaspoon Garam Masala",
+   "1 pound ground beef",
+   "24 spring roll pastries (1 packet)",
+   "2 tablespoons all-purpose white flour",
+   "2 teaspoons water"
+  ],
+  "text": {
+   "ar": "للتنويع، جرّب لحم الديك الرومي المفروم أو لحم الخنزير المفروم بدلًا من لحم البقر.",
+   "en": "Instead of beef try ground turkey or pork for variety.",
+   "es": "Para variar, pruebe carne molida de pavo o de cerdo en lugar de res."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2784,
+  "position": 2,
+  "recipe_title": "Sweet Dijon-Glazed Turkey Breast",
+  "ingredients_en": [
+   "5 pound turkey breast",
+   "1/3 cup pineapple topping",
+   "2 teaspoons Dijon-style mustard",
+   "1 teaspoon lemon juice"
+  ],
+  "text": {
+   "ar": "يمكن أيضًا استخدام الصلصة مع شرائح الدجاج أو قطع لحم الخنزير.",
+   "en": "Glaze can also be used on chicken or pork chops.",
+   "es": "El glaseado también puede usarse en chuletas de pollo o de cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2797,
+  "position": 5,
+  "recipe_title": "Brie and Cranberry Chutney",
+  "ingredients_en": [
+   "12 ounces fresh cranberries",
+   "1/3 cup water",
+   "1/2 cup sugar",
+   "1/2 cup brown sugar",
+   "1 teaspoon dry mustard",
+   "1 teaspoon cloves",
+   "1 teaspoon cinnamon",
+   "1 teaspoon nutmeg",
+   "1 teaspoon allspice",
+   "8 ounces Brie cheese",
+   "30 low sodium crackers"
+  ],
+  "text": {
+   "ar": "تشاتني التوت البري طبق جانبي لذيذ مع الديك الرومي أو لحم الخنزير أو لحم الضأن، أو يمكنك دهنه على شطيرة الديك الرومي لنكهة شهية.",
+   "en": "Cranberry Chutney is a delicious side dish with turkey, pork or lamb, or spread it on a turkey sandwich for a yummy flavor.",
+   "es": "El chutney de arándanos rojos es una deliciosa guarnición para pavo, cerdo o cordero; también puede untarlo en un sándwich de pavo para darle un sabor delicioso."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2843,
+  "position": 1,
+  "recipe_title": "Easy Horseradish Sauce",
+  "ingredients_en": [
+   "2 teaspoons prepared horseradish",
+   "1/2 cup sour cream",
+   "1/2 teaspoon ground nutmeg"
+  ],
+  "text": {
+   "ar": "تضيف صلصة الفجل الحار نكهة إضافية إلى أطباق اللحوم مثل لحم البقر المشوي أو لحم الضأن أو شرائح لحم الخنزير.",
+   "en": "Horseradish sauce adds additional flavor to meat dishes like roast beef, lamb or pork chops.",
+   "es": "La salsa de rábano picante añade sabor extra a platillos de carne como rosbif, carnero o chuletas de puerco."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2857,
+  "position": 1,
+  "recipe_title": "Apple Butter",
+  "ingredients_en": [
+   "4-1/2 cups unsweetened applesauce",
+   "2 cups granulated sugar",
+   "1/4 cup distilled vinegar",
+   "1/2 teaspoon ground cloves",
+   "1/2 teaspoon cinnamon"
+  ],
+  "text": {
+   "ar": "استخدمها دهنةً على الخبز المحمّص أو خبز البيغل، أو صلصةً لشرائح لحم الخنزير.",
+   "en": "Use as a spread on toast or bagels or as a sauce for pork chops.",
+   "es": "Úsela para untar en pan tostado o bagels, o como salsa para chuletas de cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2905,
+  "position": 2,
+  "recipe_title": "Guava Barbecue Sauce",
+  "ingredients_en": [
+   "2 garlic cloves",
+   "1/4 cup onion",
+   "1 tablespoon olive oil",
+   "1/2 cup guava paste",
+   "1/4 cup water",
+   "3 tablespoons ketchup or tomato sauce",
+   "2 tablespoons brown sugar",
+   "1/2 tablespoon onion powder",
+   "1/2 teaspoon smoked paprika"
+  ],
+  "text": {
+   "ar": "جرّب صلصة الباربكيو بالجوافة مع أسياخ الدجاج على الطريقة البورتوريكية أو مع لحم البقر أو لحم الخنزير المشوي.",
+   "en": "Try Guava Barbecue Sauce on Puerto Rican Style Chicken Skewers or grilled beef or pork.",
+   "es": "Pruebe la salsa BBQ de guayaba en pinchos de pollo o en pollo o puerco a la parrilla."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 2941,
+  "position": 5,
+  "recipe_title": "Broccoli and Beef Stir-Fry",
+  "ingredients_en": [
+   "2 garlic cloves",
+   "1 medium Roma tomato",
+   "8 ounces lean sirloin beef, uncooked",
+   "12 ounces frozen broccoli stir-fry vegetable blend",
+   "2 tablespoons peanut oil",
+   "1/4 cup low-sodium chicken broth",
+   "1 tablespoon cornstarch",
+   "2 tablespoons reduced-sodium soy sauce",
+   "2 cups cooked brown or white rice"
+  ],
+  "text": {
+   "ar": "يمكنك استبدال اللحم البقري بالدجاج أو الروبيان أو لحم الخنزير لتنويع هذا الطبق.",
+   "en": "You can substitute chicken, shrimp, pork for beef to make variations in this dish.",
+   "es": "Puede sustituir la carne de res por pollo, camarones o cerdo para hacer variaciones de este platillo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3054,
+  "position": 1,
+  "recipe_title": "Turkey Stuffed Green Peppers",
+  "ingredients_en": [
+   "8 large green peppers",
+   "2 pounds ground turkey",
+   "1 cup cooked brown rice",
+   "1 tablespoon sweet Hungarian paprika",
+   "1/2 teaspoon salt",
+   "1 egg",
+   "1 medium onion, finely minced",
+   "3 medium cloves garlic, minced",
+   "1/2 cup crushed tomatoes",
+   "1 cup low-sodium beef broth"
+  ],
+  "text": {
+   "ar": "استخدم صدر الديك الرومي المفروم للحصول على أقل حشوة دهنًا، كما أن اللحم البقري المفروم قليل الدهن ولحم خاصرة الخنزير المفروم قليل الدهن من الحشوات الصحية للقلب أيضًا.",
+   "en": "Use ground turkey breast for the leanest possible filling, but lean ground beef and lean ground pork tenderloin are also heart-healthy fillings.",
+   "es": "Use pechuga de pavo molida para obtener el relleno más magro posible, aunque la carne de res molida magra y el lomo de cerdo molido magro también son rellenos saludables para el corazón."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3054,
+  "position": 4,
+  "recipe_title": "Turkey Stuffed Green Peppers",
+  "ingredients_en": [
+   "8 large green peppers",
+   "2 pounds ground turkey",
+   "1 cup cooked brown rice",
+   "1 tablespoon sweet Hungarian paprika",
+   "1/2 teaspoon salt",
+   "1 egg",
+   "1 medium onion, finely minced",
+   "3 medium cloves garlic, minced",
+   "1/2 cup crushed tomatoes",
+   "1 cup low-sodium beef broth"
+  ],
+  "text": {
+   "ar": "ينتشر الفلفل المحشو في جميع أنحاء وسط أوروبا وشرقها. وتختلف التوابل ونوع اللحم المستخدم في الحشو ليس فقط من منطقة إلى أخرى، بل داخل المنطقة الواحدة أيضًا. فبعضهم يستخدم لحمًا بقريًا مفرومًا بنسبة 100%، وآخرون لحم خنزير مفرومًا بنسبة 100%، وآخرون مزيجًا منهما.",
+   "en": "Stuffed peppers are ubiquitous throughout Central and Eastern Europe. Seasoning and what type of meat with which they are stuffed vary not only from region to region, but within regions. Some use 100% ground beef, others use 100% ground pork, and others use a mixture.",
+   "es": "Los pimientos rellenos se encuentran en toda Europa central y oriental. Los condimentos y el tipo de carne con que se rellenan varían no solo de una región a otra, sino también dentro de cada región. Algunos usan 100% carne de res molida, otros 100% carne de cerdo molida y otros una mezcla de ambas."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3141,
+  "position": 4,
+  "recipe_title": "Homemade Phosphorus-Free Baking Powder",
+  "ingredients_en": [
+   "1/4 cup cream of tartar",
+   "2 tablespoons baking soda"
+  ],
+  "text": {
+   "ar": "كريمة الترتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو منتج ثانوي لصناعة النبيذ. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة الترتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن محتوى الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio de los alimentos será mayor, pero el de fósforo será mucho menor."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3210,
+  "position": 1,
+  "recipe_title": "Easy Phosphorus-Free Drop Biscuits",
+  "ingredients_en": [
+   "2 cups all-purpose white flour",
+   "1 tablespoon Homemade Phosphorus-Free Baking Powder",
+   "2 teaspoons sugar",
+   "1/4 teaspoon salt",
+   "1/2 cup chilled unsalted butter, cut into small pieces",
+   "1 cup liquid nondairy creamer"
+  ],
+  "text": {
+   "ar": "كريمة التارتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو ناتج ثانوي من صناعة النبيذ. تحتوي ملعقة صغيرة واحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة التارتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى الطعام من البوتاسيوم سيكون أعلى، لكن الفوسفور أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3320,
+  "position": 3,
+  "recipe_title": "Shake and Bake Extravaganza Coating Mix",
+  "ingredients_en": [
+   "1-1/2 cups dry fine bread crumbs",
+   "1 cup all-purpose white flour",
+   "4 tablespoons dried parsley",
+   "1 tablespoon paprika",
+   "2 teaspoons onion powder",
+   "1-1/2 teaspoons garlic powder",
+   "1 teaspoon black pepper",
+   "1 tablespoon marjoram",
+   "1 tablespoon thyme",
+   "3 tablespoons vegetable oil"
+  ],
+  "text": {
+   "ar": "تُعد تغليفة رائعة للدجاج أو لحم الخنزير، أو بديلًا لفتات الخبز في أي وصفة.",
+   "en": "Makes a great coating for chicken, pork or in place of breadcrumbs in any recipe.",
+   "es": "Es un excelente empanizado para pollo o cerdo, o puede usarse en lugar del pan rallado en cualquier receta."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3360,
+  "position": 1,
+  "recipe_title": "Zesty Barbecue Sauce",
+  "ingredients_en": [
+   "1/4 cup red wine vinegar",
+   "1/4 cup tarragon vinegar",
+   "1/4 cup water",
+   "1 tablespoon black pepper",
+   "1 cup ketchup",
+   "1 teaspoon chili powder",
+   "1/4 cup onion",
+   "1/4 teaspoon Tabasco® sauce",
+   "1/2 teaspoon poultry seasoning",
+   "1/4 teaspoon dry mustard",
+   "1/4 teaspoon onion power",
+   "1/4 teaspoon garlic powder",
+   "1/4 teaspoon ginger",
+   "1/4 cup ginger ale",
+   "2 tablespoons lemon juice",
+   "2 tablespoons brown sugar",
+   "1 tablespoon Liquid Smoke®",
+   "2 teaspoons all-purpose white flour",
+   "1 tablespoon canola oil"
+  ],
+  "text": {
+   "ar": "استخدمها مع البرغر أو ضلوع اللحم البقري أو لحم الخنزير أو الدجاج أو شرائح لحم الخنزير أو الضلوع القصيرة أو شرائح الستيك.",
+   "en": "Use on hamburgers, beef or pork ribs, chicken, pork chops, short ribs and steaks.",
+   "es": "Úsela en hamburguesas, costillas de res o de cerdo, pollo, chuletas de cerdo, costillas cortas y bistecs."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3363,
+  "position": 1,
+  "recipe_title": "Microwave Egg and Veggie Jars",
+  "ingredients_en": [
+   "4 microwave-safe pint-sized jars with lids",
+   "8 ounces turkey sausage",
+   "4 tablespoons shredded natural cheddar cheese",
+   "1/4 cup bell pepper",
+   "1/4 cup onion",
+   "1/4 cup broccoli",
+   "1/4 cup mushrooms",
+   "1 fresh jalapeno pepper (optional)",
+   "8 large eggs"
+  ],
+  "text": {
+   "ar": "• يمكن تجميد البرطمانات. انقلها من الفريزر إلى الثلاجة في الليلة السابقة لليوم الذي تنوي فيه إضافة البيض وطهيه. • نوّع باستخدام خضار أخرى أقل في البوتاسيوم مثل الهليون أو البصل الأخضر أو الكرنب الأجعد (كيل) أو الكوسا. • اختر جبنًا طبيعيًا قليل الصوديوم مثل الشيدر أو الجبن السويسري. وإذا استخدمت جبنًا أعلى في الصوديوم مثل البارميزان أو الفيتا، فقلّل الكمية إلى ½ ملعقة كبيرة. • اختر نقانق لحم الخنزير أو الدجاج أو الديك الرومي الخالية من إضافات الفوسفور. وانتبه إلى أن بعض لحوم الإفطار مخفضة الصوديوم غنية جدًا بالبوتاسيوم بسبب إضافات البوتاسيوم. • للحصول على نقانق خالية من الإضافات وأقل في الصوديوم، جرّب وصفتي نقانق الديك الرومي المنزلية أو نقانق المقلاة المنزلية على موقع DaVita.com.",
+   "en": "• The jars can be frozen. Transfer from the freezer to the refrigerator the night before you plan to add eggs and cook. • Mix and match other lower potassium vegetables such as asparagus, green onion, kale or zucchini. • Select a natural low-sodium cheese like cheddar or Swiss. If using a higher sodium cheese like parmesan or feta reduce the amount to 1/2 tablespoon •Choose from pork, chicken or turkey sausage without phosphorus additives. Be aware some reduced-sodium breakfast meats are quite high in potassium due to potassium additives. • For an additive-free, lower sodium sausage try Homemade Turkey Sausage or Homemade Pan Sausage from recipes on DaVita.com.",
+   "es": "Los frascos se pueden congelar. Transfiéralos del congelador al refrigerador la noche anterior a cuando planifique agregar huevos y cocinar."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3363,
+  "position": 4,
+  "recipe_title": "Microwave Egg and Veggie Jars",
+  "ingredients_en": [
+   "4 microwave-safe pint-sized jars with lids",
+   "8 ounces turkey sausage",
+   "4 tablespoons shredded natural cheddar cheese",
+   "1/4 cup bell pepper",
+   "1/4 cup onion",
+   "1/4 cup broccoli",
+   "1/4 cup mushrooms",
+   "1 fresh jalapeno pepper (optional)",
+   "8 large eggs"
+  ],
+  "text": {
+   "es": "Elija una salchicha de cerdo, pollo o pavo sin aditivos de fósforo. Tenga presente que algunas carnes de desayuno con contenido de sodio reducido tienen un alto contenido de potasio debido a los aditivos de potasio."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3381,
+  "position": 1,
+  "recipe_title": "Chicken Spiedies",
+  "ingredients_en": [
+   "1/2 cup olive oil",
+   "1/2 cup red wine vinegar",
+   "1 red onion, diced large",
+   "1 clove garlic",
+   "1 teaspoon black pepper",
+   "1 teaspoon ground oregano",
+   "1 teaspoon paprika",
+   "1 pound boneless, skinless chicken"
+  ],
+  "text": {
+   "ar": "جرّب هذه الوصفة بمزيج من لحم صدر الدجاج وأفخاذه، أو استبدل الدجاج باللحم البقري أو لحم الخنزير أو الضأن إذا رغبت.",
+   "en": "Try this recipe with a combination of chicken breast and thigh meat, or substitute chicken with beef, pork or lamb, if desired.",
+   "es": "Pruebe esta receta con una combinación de pechuga y muslo de pollo, o sustituya el pollo por carne de res, cerdo o cordero, si lo desea."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3490,
+  "position": 3,
+  "recipe_title": "Sweet and Sour Chicken",
+  "ingredients_en": [
+   "8 ounces canned pineapple chunks, juice-packed",
+   "1 pound boneless, skinless chicken breasts",
+   "1 cup reduced-sodium chicken broth",
+   "1/4 cup apple cider vinegar",
+   "1/4 cup brown sugar",
+   "2 teaspoons reduced-sodium soy sauce",
+   "1/2 teaspoon garlic, chopped",
+   "1 cup celery, sliced",
+   "1 small onion, diced",
+   "1 green pepper, sliced",
+   "3 tablespoons cornstarch",
+   "1/4 cup water",
+   "2-1/2 cups cooked white rice"
+  ],
+  "text": {
+   "ar": "للتنويع، استبدل الدجاج بلحم الخنزير أو الروبيان.",
+   "en": "Replace chicken with pork or shrimp for more variety.",
+   "es": "Para más variedad, reemplace el pollo con cerdo o camarones."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3527,
+  "position": 2,
+  "recipe_title": "Primavera Sauce for Pasta",
+  "ingredients_en": [
+   "2 tablespoons olive oil",
+   "6 green onions",
+   "2 garlic cloves",
+   "1 medium zucchini",
+   "1 medium yellow summer squash",
+   "1 medium red bell pepper",
+   "1 teaspoon dry oregano",
+   "4 teaspoons parmesan cheese"
+  ],
+  "text": {
+   "ar": "إذا بدت الصلصة جافة جدًا، يمكنك إضافة قليل من الماء أو النبيذ الأبيض.",
+   "en": "If sauce seems too dry, you can add a little water or white wine.",
+   "es": "Si la salsa parece demasiado seca, puede agregar un poco de agua o vino blanco."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3597,
+  "position": 5,
+  "recipe_title": "Basic Meat Coating Mix",
+  "ingredients_en": [
+   "1 cup dry unseasoned bread crumbs",
+   "1/4 teaspoon black pepper",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon basil",
+   "1/2 teaspoon dried celery leaves",
+   "1/2 teaspoon paprika"
+  ],
+  "text": {
+   "ar": "الدجاج: أضف ½ ملعقة صغيرة زعتر و½ ملعقة صغيرة مريمية",
+   "en": "Chicken: add 1/2 teaspoon thyme and ½ teaspoon sage",
+   "es": "Puerco: añada 1/2 cucharadita de estragón seco o ½ cucharadita de pimienta inglesa."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3597,
+  "position": 6,
+  "recipe_title": "Basic Meat Coating Mix",
+  "ingredients_en": [
+   "1 cup dry unseasoned bread crumbs",
+   "1/4 teaspoon black pepper",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon basil",
+   "1/2 teaspoon dried celery leaves",
+   "1/2 teaspoon paprika"
+  ],
+  "text": {
+   "ar": "لحم الخنزير: أضف ½ ملعقة صغيرة طرخون مجفف أو ¼ ملعقة صغيرة بهار حلو.",
+   "en": "Pork: add 1/2 teaspoon dried tarragon or 1/4 teaspoon allspice."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3605,
+  "position": 5,
+  "recipe_title": "Pierogi with Sweet Cabbage and Mushroom Filling",
+  "ingredients_en": [
+   "2 cups cabbage",
+   "1/2 cup onion",
+   "1/2 cup mushrooms",
+   "1 cup all-purpose flour",
+   "1 large egg",
+   "1 tablespoon trans-fat free margarine",
+   "2 tablespoons hot water",
+   "1 tablespoon cooking oil",
+   "1/4 teaspoon fresh ground pepper"
+  ],
+  "text": {
+   "ar": "يُزيَّن الطبق تقليديًا بدهن لحم الخنزير المقدد وقطعه الصغيرة، أو برذاذ من السمن النباتي المذاب وملعقة من القشدة الحامضة.",
+   "en": "Traditional garnish is bacon fat and bacon bits, or a drizzle of melted margarine and a dollop of sour cream.",
+   "es": "La guarnición tradicional es grasa de tocino y trocitos de tocino, o un chorrito de margarina derretida y una cucharada de crema agria."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3851,
+  "position": 1,
+  "recipe_title": "Chicken Parmesan Meatballs",
+  "ingredients_en": [
+   "1 pound ground chicken",
+   "1 large egg",
+   "3 tablespoons bread crumbs",
+   "1 tablespoon grated Parmesan cheese",
+   "8 ounces pizza sauce",
+   "1/4 teaspoon Italian seasoning",
+   "1/4 teaspoon onion powder",
+   "1/4 teaspoon garlic powder",
+   "1/2 cup shredded mozzarella cheese"
+  ],
+  "text": {
+   "ar": "يمكن استبدال الدجاج المفروم بالديك الرومي أو اللحم البقري أو لحم الخنزير المفروم.",
+   "en": "Ground turkey or ground beef or ground pork can be substituted for ground chicken.",
+   "es": "Puede sustituir el pollo molido por pavo, res o cerdo molido."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3859,
+  "position": 2,
+  "recipe_title": "Sweet ‘n’ Sour Meatballs",
+  "ingredients_en": [
+   "1 pound ground turkey, 7% fat",
+   "1 large egg",
+   "1/4 cup unseasoned bread crumbs",
+   "2 tablespoons onion",
+   "1 teaspoon garlic powder",
+   "1/2 teaspoon black pepper",
+   "1/4 cup canola oil",
+   "6 ounces grape jelly",
+   "1/4 cup Heinz® bottled chili sauce"
+  ],
+  "text": {
+   "ar": "يمكن استبدال الديك الرومي المفروم باللحم البقري أو لحم الخنزير المفروم.",
+   "en": "Ground beef or pork may be substituted for ground turkey.",
+   "es": "Puede sustituir el pavo molido por carne molida de res o de cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3874,
+  "position": 2,
+  "recipe_title": "Curry Turkey Dish with Pineapple Rice",
+  "ingredients_en": [
+   "1 tablespoon olive oil",
+   "1 medium onion, cut lengthwise into thin strips",
+   "1/2 teaspoon black pepper",
+   "1/4 teaspoon ground cumin",
+   "3 tablespoons curry powder",
+   "1/4 teaspoon ground cinnamon",
+   "1 teaspoon turmeric",
+   "1/2 teaspoon ground ginger",
+   "1/4 teaspoon crushed red pepper",
+   "1/4 teaspoon salt (optional)",
+   "3 cloves garlic, minced",
+   "2 tablespoons low-sodium tomato paste",
+   "2-1/2 cups water (divided use)",
+   "2 cups zucchini, sliced 1/4” thick",
+   "1 cup frozen peas",
+   "3 cups cooked turkey, cut into bite-sized pieces",
+   "1 cup drained pineapple tidbits, canned in its own juice",
+   "3/4 cup long grain white rice",
+   "1/4 cup pineapple juice (drained from the canned pineapple)"
+  ],
+  "text": {
+   "ar": "يمكن استبدال الديك الرومي بلحم الخنزير أو الدجاج.",
+   "en": "Pork or chicken can be substituted for turkey.",
+   "es": "Puede sustituir el pavo por cerdo o pollo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3894,
+  "position": 2,
+  "recipe_title": "Nevada’s Best Tangy Coleslaw",
+  "ingredients_en": [
+   "6 cups green cabbage",
+   "4 cups red cabbage",
+   "1/4 cup sweet onion",
+   "1/2 cup 1% low fat milk",
+   "1/2 cup sour cream",
+   "1/2 teaspoon celery seed",
+   "1/2 teaspoon Tabasco® hot pepper sauce",
+   "3 tablespoons white vinegar",
+   "1 small garlic clove"
+  ],
+  "text": {
+   "ar": "قدّمها كطبق جانبي أو فوق ساندويتش لحم خنزير أو لحم بقري أو دجاج.",
+   "en": "Serve as a side dish or as a topping on a pork, beef or chicken sandwich.",
+   "es": "Sírvala como guarnición o sobre un sándwich de cerdo, res o pollo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3906,
+  "position": 2,
+  "recipe_title": "Asian Orange Chicken",
+  "ingredients_en": [
+   "1-3/4 cups water",
+   "2 tablespoons orange juice",
+   "1/4 cup lemon juice",
+   "1/3 cup unseasoned rice vinegar",
+   "2 tablespoons reduced-sodium soy sauce",
+   "1 tablespoon orange zest",
+   "1/3 cup packed brown sugar",
+   "1/2 teaspoon fresh ginger root",
+   "1 garlic clove",
+   "2 tablespoons green onion",
+   "1/4 teaspoon red pepper flakes",
+   "1/2 pound boneless, skinless chicken breasts",
+   "2-1/2 tablespoons cornstarch",
+   "3 tablespoons olive oil"
+  ],
+  "text": {
+   "ar": "يمكن استبدال صدر الدجاج بشرائح الديك الرومي أو لحم أفخاذ الدجاج أو لحم خاصرة الخنزير.",
+   "en": "Turkey cutlets, chicken thigh meat or pork loin can be substituted for chicken breast.",
+   "es": "Puede sustituir la pechuga de pollo por filetes de pavo, carne de muslo de pollo o lomo de cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 3919,
+  "position": 1,
+  "recipe_title": "Lower-Phosphorus Flour Tortillas",
+  "ingredients_en": [
+   "3 cups all-purpose white flour",
+   "2 teaspoons Homemade Phosphorus-Free Baking Powder",
+   "1/4 teaspoon salt",
+   "3/4 cup shortening",
+   "3/4 cup hot water"
+  ],
+  "text": {
+   "ar": "كريمة الترتر هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو منتج ثانوي من صناعة النبيذ. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ بوتاسيوم. عند استخدام كريمة الترتر مع بيكربونات الصوديوم بديلًا عن مسحوق الخبز المحتوي على الفوسفور، اعلم أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Al usar crémor tártaro con bicarbonato de sodio para reemplazar el polvo para hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 1002790,
+  "position": 1,
+  "recipe_title": "Tropical Salad",
+  "ingredients_en": [
+   "1/2 pound goldenberries (cape gooseberries)",
+   "1 teaspoon butter",
+   "1 cup sugar",
+   "2 cups lettuce",
+   "2 medium green apples",
+   "1/2 pound strawberries",
+   "5 tablespoons light mayonnaise"
+  ],
+  "text": {
+   "ar": "يمكنك تقديم هذه السلطة مع الدجاج أو السمك أو لحم الخنزير.",
+   "en": "You can serve this salad with chicken, fish or pork.",
+   "es": "Puede acompañar esta ensalada con pollo, pescado o cerdo."
+  }
+ },
+ {
+  "field": "hints",
+  "recipe_id": 1002806,
+  "position": 1,
+  "recipe_title": "Festival Salad",
+  "ingredients_en": [
+   "1 vegetable",
+   "2 fat",
+   "1/2 pound goldenberries (cape gooseberries)",
+   "1 teaspoon butter",
+   "1 cup sugar",
+   "2 cups lettuce",
+   "2 medium green apples",
+   "1/2 pound strawberries",
+   "5 tablespoons light mayonnaise"
+  ],
+  "text": {
+   "ar": "يمكنك تقديم هذه السلطة مع الدجاج أو السمك أو لحم الخنزير.",
+   "en": "You can serve this salad with chicken, fish or pork.",
+   "es": "Puede acompañar esta ensalada con pollo, pescado o cerdo."
+  }
+ },
+ {
+  "field": "steps",
+  "recipe_id": 2631,
+  "position": 1,
+  "recipe_title": "Brunch Nachos",
+  "ingredients_en": [
+   "4 ounces unsalted large size tortilla chips (about 30 chips)",
+   "1 small green bell pepper (or orange, red)",
+   "1/4 cup diced red onion",
+   "2 roma tomatoes",
+   "1/2 cup cilantro",
+   "2 limes",
+   "1/2 cup sour cream",
+   "1/2 teaspoon cumin",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon onion powder",
+   "4 slices cooked turkey bacon",
+   "1/2 cup shredded sharp cheddar cheese",
+   "4 large eggs"
+  ],
+  "text": {
+   "ar": "سخّن الفرن مسبقًا على 375° فهرنهايت (190° مئوية). قطّع الفلفل الرومي شرائح رفيعة. قطّع البصل الأحمر مكعبات صغيرة. افرم الطماطم والكزبرة الخضراء. قطّع لحم الديك الرومي المقدد قطعًا صغيرة.",
+   "en": "Preheat oven to 375° F. Cut bell pepper into thin strips. Dice red onion. Chop tomatoes and cilantro. Cut bacon into small pieces.",
+   "es": "Precaliente el horno a 375° F. Corte el pimiento en tiras finas. Corte la cebolla morada en cubitos. Pique los tomates y el cilantro. Corte el tocino en trozos pequeños."
+  }
+ },
+ {
+  "field": "steps",
+  "recipe_id": 2631,
+  "position": 8,
+  "recipe_title": "Brunch Nachos",
+  "ingredients_en": [
+   "4 ounces unsalted large size tortilla chips (about 30 chips)",
+   "1 small green bell pepper (or orange, red)",
+   "1/4 cup diced red onion",
+   "2 roma tomatoes",
+   "1/2 cup cilantro",
+   "2 limes",
+   "1/2 cup sour cream",
+   "1/2 teaspoon cumin",
+   "1/2 teaspoon garlic powder",
+   "1/2 teaspoon onion powder",
+   "4 slices cooked turkey bacon",
+   "1/2 cup shredded sharp cheddar cheese",
+   "4 large eggs"
+  ],
+  "text": {
+   "ar": "أخرج الرقائق من الفرن وضع فوقها البيض المخفوق ولحم الديك الرومي المقدد المقطّع وصلصة بيكو دي غايو ورذاذًا من الكريمة، ورشّة إضافية من الكزبرة الخضراء. استمتع بها!",
+   "en": "Remove chips from the oven and top with scrambled egg, chopped bacon, pico de gallo, drizzle of crema and additional sprinkle of cilantro. Enjoy!",
+   "es": "Saque los totopos del horno y cúbralos con el huevo revuelto, el tocino picado, el pico de gallo, un chorrito de crema y un poco más de cilantro espolvoreado. ¡Disfrute!"
+  }
+ },
+ {
+  "field": "steps",
+  "recipe_id": 2942,
+  "position": 3,
+  "recipe_title": "Herb Sauce Mix",
+  "ingredients_en": [
+   "1 teaspoon black pepper",
+   "2 teaspoons garlic powder",
+   "1/2 teaspoons celery salt",
+   "1 teaspoon celery seeds",
+   "2-1/2 teaspoons dry mustard",
+   "2 teaspoons Hungarian paprika"
+  ],
+  "text": {
+   "ar": "اسكبها فوق اللحم واخبزه في الفرن، أو استخدمها كصلصة فوق اللحم البقري أو الدجاج أو السمك أو لحم الخنزير.",
+   "en": "Pour over meat and bake in the oven or use as a sauce topping on beef, chicken, fish or pork.",
+   "es": "Vierta sobre la carne y hornee, o úsela como salsa para cubrir carne de res, pollo, pescado o cerdo."
+  }
+ },
+ {
+  "field": "steps",
+  "recipe_id": 3049,
+  "position": 4,
+  "recipe_title": "Red Wine Vinaigrette Asparagus",
+  "ingredients_en": [
+   "1 garlic clove",
+   "2 pounds fresh asparagus",
+   "1 tablespoon olive oil",
+   "1/4 cup red wine vinaigrette dressing",
+   "1/2 teaspoon black pepper"
+  ],
+  "text": {
+   "ar": "أضف صلصة فينيغريت النبيذ الأحمر والفلفل.",
+   "en": "Add the red wine vinaigrette dressing and pepper.",
+   "es": "Agregue el aderezo de vinagreta de vino tinto y la pimienta."
+  }
+ },
+ {
+  "field": "steps",
+  "recipe_id": 3320,
+  "position": 4,
+  "recipe_title": "Shake and Bake Extravaganza Coating Mix",
+  "ingredients_en": [
+   "1-1/2 cups dry fine bread crumbs",
+   "1 cup all-purpose white flour",
+   "4 tablespoons dried parsley",
+   "1 tablespoon paprika",
+   "2 teaspoons onion powder",
+   "1-1/2 teaspoons garlic powder",
+   "1 teaspoon black pepper",
+   "1 tablespoon marjoram",
+   "1 tablespoon thyme",
+   "3 tablespoons vegetable oil"
+  ],
+  "text": {
+   "ar": "للاستخدام، ضع 1 كوب من خلطة التغليف في كيس بلاستيكي. أضف عدة قطع من الدجاج أو شرائح لحم الخنزير أو أي لحم آخر، ورجّ الكيس لتغطيتها.",
+   "en": "To use, place 1 cup coating mixture in a plastic bag. Add several pieces of chicken, pork chops or other meat and shake to coat.",
+   "es": "Para usarla, coloque 1 taza de la mezcla de empanizado en una bolsa de plástico. Agregue varias piezas de pollo, chuletas de cerdo u otra carne y agite para cubrirlas."
+  }
+ }
+]

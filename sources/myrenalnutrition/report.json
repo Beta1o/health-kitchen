@@ -1,0 +1,8 @@
+{
+  "listed": 87,
+  "scraped": 87,
+  "with_image": 87,
+  "with_nutrients": 81,
+  "skipped": 0,
+  "notes": "Recipes found via the /recipes listing pager (?page=0..N); 87 unique slugs, cross-checked against the 4 site category filters (Meal/Drink/Dessert/First Foods) = 87. sitemap.xml lists 0 recipe URLs (it only covers info pages). image = recipe-page header photo (cut-out PNG/WebP with transparent background); the listing-card originals are multi-MB AdobeStock files so were not used. Nutrients taken from the per-portion column (mg values; mmol only when no mg given). No nutrition given for: apple-puree, butternut-squash-and-broccoli-puree, carrot-and-swede-puree, carrot-puree, pea-courgette-puree, pear-and-raspberry-puree. Values kept as published (e.g. fish-fingers lists 20 kcal per portion; christmas-tree protein is labelled kcal on site, taken as g). bean-burger table also has a per-sauce section, kept in nutrients_raw only. Most recipes use Renastep (Vitaflo); its medical-supervision note is kept as a hint. Category mapped from site category + slug keywords."
+}

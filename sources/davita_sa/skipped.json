@@ -1,0 +1,76 @@
+[
+  {
+    "urls": [
+      "https://davita.sa/tasty-eggplant-casserole",
+      "https://davita.sa/vegetable-cutlet",
+      "https://davita.sa/loqaymat",
+      "https://davita.sa/barley-and-beef-stew",
+      "https://davita.sa/eggplants-roll",
+      "https://davita.sa/pumpkin-soup",
+      "https://davita.sa/chicken-fajita",
+      "https://davita.sa/caesar-salad-with-chicken",
+      "https://davita.sa/bavarian-apple-tart",
+      "https://davita.sa/pineapple-cake",
+      "https://davita.sa/kursan-with-lamb-and-vegetables",
+      "https://davita.sa/fatosh-salad",
+      "https://davita.sa/grilled-marinated-chicken",
+      "https://davita.sa/creamy-cucumber-spread",
+      "https://davita.sa/roasted-lamb",
+      "https://davita.sa/vegetarian-pizza",
+      "https://davita.sa/slow-cooker-mixed-fruit-recipe",
+      "https://davita.sa/royal-meringue-cookies",
+      "https://davita.sa/ar/barley-and-beef-stew",
+      "https://davita.sa/ar/royal-meringue-cookies",
+      "https://davita.sa/ar/eggplants-roll",
+      "https://davita.sa/ar/caesar-salad-with-chicken",
+      "https://davita.sa/ar/tasty-eggplant-casserole",
+      "https://davita.sa/ar/creamy-cucumber-spread",
+      "https://davita.sa/ar/fatosh-salad",
+      "https://davita.sa/ar/slow-cooker-mixed-fruit-recipe",
+      "https://davita.sa/ar/vegetable-cutlet",
+      "https://davita.sa/ar/pineapple-cake",
+      "https://davita.sa/ar/chicken-fajita",
+      "https://davita.sa/ar/pumpkin-soup",
+      "https://davita.sa/ar/kursan-with-lamb-and-vegetables",
+      "https://davita.sa/ar/grilled-marinated-chicken",
+      "https://davita.sa/ar/bavarian-apple-tart",
+      "https://davita.sa/ar/roasted-lamb",
+      "https://davita.sa/ar/vegetarian-pizza"
+    ],
+    "reason": "sitemap gives recipe URLs at the site root; these return the site's 'page not found' content (HTTP 200). Not a gap: each recipe was scraped from [/ar]/diet-nutrition/<slug>."
+  },
+  {
+    "url": "https://davita.sa/healthy-kidney-recipes",
+    "reason": "linked from the site footer but renders 'page not found' (HTTP 200); contains no recipes"
+  },
+  {
+    "url": "https://davita.sa/ar/diet-nutrition/loqaymat",
+    "reason": "no Arabic version: page renders 'page not found' (HTTP 200)"
+  },
+  {
+    "url": null,
+    "title": "Mango with Glutinous Rice",
+    "reason": "'Mango with Glutinous Rice' exists only as text in the site's i18n message bundle (dietNutrition.mangoRecipe): no page or route renders it, no image, and its nutrition block has labels but no values. Not scraped."
+  },
+  {
+    "url": null,
+    "titles": [
+      "Chicken Rendang without Coconut Milk",
+      "Grilled Peanut Butter and Jelly Sandwich",
+      "Roasted Red Pepper Tomato Sauce"
+    ],
+    "reason": "'More Recipes' swiper titles in the i18n bundle are template leftovers (placeholder dialysis image alt text, no links or recipe content)."
+  },
+  {
+    "url": "https://backend.davita.sa/assets/saudi-arabia-cookbook-2.pdf",
+    "reason": "cookbook PDF download; contains recipes but PDF parsing is outside requests+stdlib. Needs an owner decision."
+  },
+  {
+    "url": "https://ourassets.site/davita/2025-cookbook-ar-_compressed.pdf",
+    "reason": "cookbook PDF download; contains recipes but PDF parsing is outside requests+stdlib. Needs an owner decision."
+  },
+  {
+    "url": "https://ourassets.site/davita/2025-cookbook-en-_compressed.pdf",
+    "reason": "cookbook PDF download; contains recipes but PDF parsing is outside requests+stdlib. Needs an owner decision."
+  }
+]
