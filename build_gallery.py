@@ -152,6 +152,18 @@ def main():
         })
     flush()
 
+    # feminine Arabic steps/hints (translations/arf/out_*.json), shown when the reader picks "woman"
+    arf = {}
+    for f in sorted((HERE / "translations" / "arf").glob("out_*.json")):
+        if "part" in f.stem:
+            continue
+        for o in json.loads(f.read_text(encoding="utf-8")):
+            arf[o["id"]] = o
+    for rec in recipes:
+        o, ar = arf.get(rec["id"]), rec["t"].get("ar")
+        if o and ar and len(o.get("steps") or []) == len(ar["steps"]) and len(o.get("hints") or []) == len(ar["hints"]):
+            rec["t"]["arf"] = {**ar, "steps": o["steps"], "hints": o["hints"]}
+
     used = {v for rec in recipes for k in ("diet", "dish", "cuisine", "method") for v in rec[k]}
     used |= {rec["cat"] for rec in recipes}
     terms = {k: {"es": TERMS[k][0], "ar": TERMS[k][1]} for k in sorted(used) if k in TERMS}

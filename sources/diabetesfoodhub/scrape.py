@@ -41,10 +41,12 @@ IMAGES = os.path.join(HERE, "images")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 WORKERS = 3
+IMG_WORKERS = int(os.environ.get("DFH_IMG_WORKERS") or 4)   # images share the page host, so at most 4
 MIN_INTERVAL = 1.0           # global spacing between live requests (s)
 _pause_until = [0.0]         # global pause after origin 503s
 OFFLINE = os.environ.get("DFH_OFFLINE") == "1"
 REL_IMG = f"sources/{KEY}/images/"
+PAGES_CACHE_ONLY = len(sys.argv) > 1 and sys.argv[1] == "images"   # prefetch photos for already-cached pages
 
 _lock = threading.Lock()
 _last = [0.0]
@@ -88,17 +90,18 @@ def fetch(url, binary=False):
         if binary:
             return st, open(path, "rb").read()
         return st, open(path, encoding="utf-8").read()
-    if OFFLINE:
+    if OFFLINE or (PAGES_CACHE_ONLY and not binary):
         return None, None
     if _challenges[0] >= 6:
         raise Blocked(url)
     delay = 3
     for attempt in range(6):
-        with _lock:
-            wait = max(_last[0] + MIN_INTERVAL, _pause_until[0]) - time.time()
-            if wait > 0:
-                time.sleep(wait)
-            _last[0] = time.time()
+        if not binary:    # photos are only limited by IMG_WORKERS (same host, 4 at most)
+            with _lock:
+                wait = max(_last[0] + MIN_INTERVAL, _pause_until[0]) - time.time()
+                if wait > 0:
+                    time.sleep(wait)
+                _last[0] = time.time()
         try:
             r = session().get(url, timeout=60)
         except requests.RequestException as e:
@@ -110,9 +113,7 @@ def fetch(url, binary=False):
             _challenges[0] = 0
             body = r.content if binary else r.text
             if binary:
-                if r.status_code == 200:
-                    with open(path, "wb") as f:
-                        f.write(body)
+                pass          # images/ itself is the cache for photos
             else:
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(body)
@@ -351,9 +352,19 @@ def parse_steps(h):
     return steps
 
 
+ES_WORDS = re.compile(r"\b(de|la|el|los|las|con|y|en|para|una?|del|al|hasta|minutos|agrega|añade|mezcla|taza|cucharadas?)\b", re.I)
+EN_WORDS = re.compile(r"\b(the|and|with|to|of|in|for|until|minutes|add|stir|cup|into|over)\b", re.I)
+
+
+def looks_spanish(title, steps):
+    t = (title or "") + " " + " ".join(x for _, x in steps)
+    return len(ES_WORDS.findall(t)) > 2 * len(EN_WORDS.findall(t)) + 2
+
+
 def parse_page(url, h):
     lang_m = re.search(r'<html[^>]*\blang="([a-z]{2})', h)
     lang = lang_m.group(1) if lang_m else ("es" if "/es/" in url else "en")
+    canon = re.search(r'<link rel="canonical" href="([^"]+)"', h)
     ld = jsonld_recipe(h) or {}
     t = re.search(r"<h1[^>]*>(.*?)</h1>", h, re.S)
     title = clean(t.group(1)) if t else clean(ld.get("name"))
@@ -414,6 +425,7 @@ def parse_page(url, h):
         "image_2x": urljoin(BASE, htmlmod.unescape(hero2x.group(1))) if hero2x else None,
         "image_1x": urljoin(BASE, htmlmod.unescape(hero1x.group(1))) if hero1x else None,
         "has_recipe": bool(ld) or 'id="recipe-steps-section"' in h,
+        "canonical": canon.group(1) if canon else None,
     }
 
 
@@ -743,9 +755,14 @@ def build(en, es, total, status):
             skipped.append({"url": loc, "reason": f"HTTP {st}" if st else "fetch failed (repeated 503 'Technical Difficulties')"})
             continue
         p = parse_page(loc, h)
-        if not p["has_recipe"] or not (p["ingredients"] or p["steps"]):
-            skipped.append({"url": loc, "reason": "page has no recipe content"})
+        if p["canonical"] in (BASE + "/", BASE + "/es", BASE + "/es/"):
+            skipped.append({"url": loc, "reason": "301 redirect to the homepage (recipe no longer published)"})
             continue
+        if not p["has_recipe"] or not (p["ingredients"] or p["steps"]):
+            skipped.append({"url": loc, "reason": "not a recipe page (landing/collection page in the recipes path)"})
+            continue
+        if p["lang"] == "en" and looks_spanish(p["title"], p["steps"]):
+            p["lang"] = "es"   # Spanish-only recipe published under /recipes/ with <html lang="en">
         parsed[loc] = p
 
     # learn ES->EN tag names from paired pages (tags are listed in the same order)
@@ -762,6 +779,8 @@ def build(en, es, total, status):
         es_map.setdefault(y, x)
 
     recipes, en_ids = [], {}
+    paired_en = {a.get("en") for l, a in es if a.get("en") and l in parsed}
+    matched_by_photo = []
     for loc, alts in en:
         if loc not in parsed:
             continue
@@ -777,6 +796,16 @@ def build(en, es, total, status):
         sid = "es-" + ES_RE.match(loc).group(1)
         en_url = alts.get("en")
         base = en_ids.get(en_url)
+        if not base and p["image_orig"]:
+            # no hreflang link: pair only when exactly one unpaired English page has the same photo and calories
+            cands = [r for u, r in en_ids.items() if u not in paired_en and r["lang"] == "en"
+                     and parsed[u]["image_orig"] == p["image_orig"]
+                     and parsed[u]["nutrients"]["calories"] == p["nutrients"]["calories"]]
+            if len(cands) == 1:
+                base = cands[0]
+                matched_by_photo.append(loc)
+        if base:
+            paired_en.add(base["url"])
         if not base:
             p = dict(p, tags=[(h_, es_map.get(t, t)) for h_, t in p["tags"]])
         r = record(loc, sid, p, p["lang"], base["source_id"] if base else None)
@@ -787,63 +816,85 @@ def build(en, es, total, status):
         recipes.append(r)
 
     # images: download once per distinct photo
+    def write_outputs():
+        with open(os.path.join(HERE, "recipes.json"), "w", encoding="utf-8") as f:
+            json.dump(recipes, f, ensure_ascii=False, indent=1)
+        with open(os.path.join(HERE, "skipped.json"), "w", encoding="utf-8") as f:
+            json.dump(skipped, f, ensure_ascii=False, indent=1)
+
+        def stats(rs):
+            return {"scraped": len(rs), "with_image": sum(1 for r in rs if r["image_path"]),
+                    "with_nutrients": sum(1 for r in rs if any(v is not None for v in r["nutrients"].values()))}
+        s_all = stats(recipes)
+        s_en = stats([r for r in recipes if r["lang"] == "en"])
+        s_es = stats([r for r in recipes if r["lang"] == "es"])
+        paired = sum(1 for r in recipes if r["translation_of"])
+        es_alone = sum(1 for r in recipes if r["lang"] == "es" and not r["translation_of"])
+        listed = len(en) + len(es)
+        notes = (
+            f"Discovery via sitemap.xml only (robots.txt disallows '/recipes?', so the listing pager was not crawled). "
+            f"The /recipes listing header says {total} recipes; the sitemap has {len(en)} English /recipes/<slug> URLs "
+            f"and {len(es)} Spanish /es/recipes/<slug> URLs (listed = {len(en)} + {len(es)} = {listed}). "
+            f"Spanish pages are the site's own translations, kept as lang 'es' records with source_id 'es-<slug>'; "
+            f"{paired} are linked to their English page (translation_of = English source_id, sharing its "
+            f"category/diet/dish/cuisine/method and photo): {paired - len(matched_by_photo)} via sitemap hreflang and "
+            f"{len(matched_by_photo)} with no hreflang link matched by identical photo + calories; {es_alone} Spanish "
+            f"records stand alone (no English counterpart found). lang comes from <html lang>, except Spanish-language "
+            f"recipes published under /recipes/ with lang=en, which are set to 'es'. Sitemap vs listing: of the "
+            f"{len(en)} English sitemap URLs, {sum(1 for x in skipped if 'homepage' in x['reason'] and '/es/' not in x['url'])} "
+            f"301-redirect to the homepage (unpublished) and {sum(1 for x in skipped if 'landing' in x['reason'] and '/es/' not in x['url'])} "
+            f"is a landing page; see skipped.json. Per language: en {s_en}, es {s_es}. "
+            f"Parsed from page HTML (the JSON-LD splits ingredients/steps on commas and omits potassium). Nutrition panel "
+            f"mapped per serving; added_sugar_g only from the 'Added Sugars' row; saturated/trans fat and total sugars "
+            f"are kept in nutrients_extra. No phosphorus/calcium values or diabetes exchanges/choices appear on the "
+            f"pages, so food_choices/carb_choices are empty. Ingredient text = US quantity + name (+ note); the metric "
+            f"column is ignored. diet: 'Diabetes' for all, plus tags Gluten-Free, Vegetarian/Vegan, CKD Dialysis -> "
+            f"Dialysis, CKD Non-Dialysis -> CKD non-dialysis ('Kidney-Friendly', 'Low Sodium', 'Low Carb' have no "
+            f"matching value). Extra fields kept per record: tags, credits, nutrients_extra. Origin intermittently "
+            f"returned HTTP 503 'Technical Difficulties' pages (not a bot challenge); these were retried with backoff."
+        )
+        report = {"listed": listed, "scraped": s_all["scraped"], "with_image": s_all["with_image"],
+                  "with_nutrients": s_all["with_nutrients"], "skipped": len(skipped), "notes": notes}
+        with open(os.path.join(HERE, "report.json"), "w", encoding="utf-8") as f:
+            json.dump(report, f, ensure_ascii=False, indent=1)
+        print(json.dumps(report, indent=1, ensure_ascii=False))
+        if _unlabelled:
+            print("unmapped nutrition labels:", dict(_unlabelled), file=sys.stderr)
+
+    have = {os.path.splitext(f)[0]: f for f in os.listdir(IMAGES)}
+    first_sid = {}
+    for r in [r for r in recipes if not r["translation_of"]] + [r for r in recipes if r["translation_of"]]:
+        if r["image_url"]:
+            first_sid.setdefault(r["image_url"], r["source_id"])
+    for r in recipes:
+        f = have.get(first_sid.get(r["image_url"]))
+        r["image_path"] = os.path.join(REL_IMG, f) if f else None
+    write_outputs()   # recipes complete; photos may still be missing (image_path null)
     by_photo = {}
-    def get_img(r):
-        p = parsed[r["url"]]
-        key = r["image_url"]
-        if not key:
-            return
-        if key in by_photo:
-            r["image_path"] = by_photo[key]
-            return
-        cands = [p["image_orig"], p["image_2x"], p["image_1x"]]
-        cands = list(dict.fromkeys(c for c in cands if c))
-        path = download_image(r["source_id"], cands)
-        by_photo[key] = path
-        r["image_path"] = path
     en_first = [r for r in recipes if not r["translation_of"]] + [r for r in recipes if r["translation_of"]]
-    for i, r in enumerate(en_first, 1):
-        get_img(r)
-        if i % 200 == 0:
-            print(f"  images {i}/{len(en_first)}", file=sys.stderr)
+    # one download per distinct photo; translations reuse the English file
+    firsts = {}
+    for r in en_first:
+        if r["image_url"]:
+            firsts.setdefault(r["image_url"], r)
+    def dl(r):
+        p = parsed[r["url"]]
+        # The 1440w hero rendition (recipe_hero_banner_720w_2x) is about the same pixel size as the uploaded
+        # original (~1000 px wide) at a fraction of the bytes; the original is the fallback and is only kept
+        # when it is <= 1600 px wide.
+        cands = list(dict.fromkeys(c for c in (p["image_2x"], p["image_orig"], p["image_1x"]) if c))
+        return r["image_url"], download_image(r["source_id"], cands)
+    done = 0
+    with ThreadPoolExecutor(IMG_WORKERS) as ex:
+        for key, path in ex.map(dl, list(firsts.values())):
+            by_photo[key] = path
+            done += 1
+            if done % 100 == 0:
+                print(f"  images {done}/{len(firsts)}", file=sys.stderr)
+    for r in recipes:
+        r["image_path"] = by_photo.get(r["image_url"]) if r["image_url"] else None
 
-    with open(os.path.join(HERE, "recipes.json"), "w", encoding="utf-8") as f:
-        json.dump(recipes, f, ensure_ascii=False, indent=1)
-    with open(os.path.join(HERE, "skipped.json"), "w", encoding="utf-8") as f:
-        json.dump(skipped, f, ensure_ascii=False, indent=1)
-
-    def stats(rs):
-        return {"scraped": len(rs), "with_image": sum(1 for r in rs if r["image_path"]),
-                "with_nutrients": sum(1 for r in rs if any(v is not None for v in r["nutrients"].values()))}
-    s_all = stats(recipes)
-    s_en = stats([r for r in recipes if r["lang"] == "en"])
-    s_es = stats([r for r in recipes if r["lang"] == "es"])
-    paired = sum(1 for r in recipes if r["translation_of"])
-    listed = len(en) + len(es)
-    notes = (
-        f"Discovery via sitemap.xml only (robots.txt disallows '/recipes?', so the listing pager was not crawled). "
-        f"The /recipes listing header says {total} recipes; the sitemap has {len(en)} English /recipes/<slug> URLs "
-        f"and {len(es)} Spanish /es/recipes/<slug> URLs (listed = {len(en)} + {len(es)} = {listed}). "
-        f"Spanish pages are the site's own translations, kept as lang 'es' records with source_id 'es-<slug>'; "
-        f"{paired} are linked by hreflang to their English page (translation_of = English source_id, sharing its "
-        f"category/diet/dish/cuisine/method and photo), the rest have no English alternate in the sitemap and stand "
-        f"alone. lang comes from <html lang>. Per language: en {s_en}, es {s_es}. "
-        f"Parsed from page HTML (the JSON-LD splits ingredients/steps on commas and omits potassium). Nutrition panel "
-        f"mapped per serving; added_sugar_g only from the 'Added Sugars' row; saturated/trans fat and total sugars "
-        f"are kept in nutrients_extra. No phosphorus/calcium values or diabetes exchanges/choices appear on the "
-        f"pages, so food_choices/carb_choices are empty. Ingredient text = US quantity + name (+ note); the metric "
-        f"column is ignored. diet: 'Diabetes' for all, plus tags Gluten-Free, Vegetarian/Vegan, CKD Dialysis -> "
-        f"Dialysis, CKD Non-Dialysis -> CKD non-dialysis ('Kidney-Friendly', 'Low Sodium', 'Low Carb' have no "
-        f"matching value). Extra fields kept per record: tags, credits, nutrients_extra. Origin intermittently "
-        f"returned HTTP 503 'Technical Difficulties' pages (not a bot challenge); these were retried with backoff."
-    )
-    report = {"listed": listed, "scraped": s_all["scraped"], "with_image": s_all["with_image"],
-              "with_nutrients": s_all["with_nutrients"], "skipped": len(skipped), "notes": notes}
-    with open(os.path.join(HERE, "report.json"), "w", encoding="utf-8") as f:
-        json.dump(report, f, ensure_ascii=False, indent=1)
-    print(json.dumps(report, indent=1, ensure_ascii=False))
-    if _unlabelled:
-        print("unmapped nutrition labels:", dict(_unlabelled), file=sys.stderr)
+    write_outputs()
 
 
 
@@ -855,6 +906,9 @@ def main():
     es = [(l, a) for l, a in entries if ES_RE.match(l)]
     total = listing_total()
     print(f"sitemap: {len(en)} /recipes/ + {len(es)} /es/recipes/; listing says {total}")
+    if PAGES_CACHE_ONLY:
+        build(en, es, total, {})
+        return
     status = fetch_all([l for l, _ in en] + [l for l, _ in es])
     for rnd in range(2):   # second/third chance for pages that kept returning 503
         failed = [u for u, st in status.items() if st not in (200, 404, "blocked")]

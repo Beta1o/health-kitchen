@@ -401,6 +401,21 @@ def parse_items(fragment, item_re):
     return out
 
 
+GROUP_RE = re.compile(r"^(for (the )?|to (serve|garnish|make|decorate|finish|top)|(cold|warm) fillings?)", re.I)
+
+
+def regroup(items):
+    """Turn sub-heading list items ('For the sauce:') into group labels."""
+    out, group = [], None
+    for g, t in items:
+        if (t.endswith(":") and len(t) <= 60) or \
+                (GROUP_RE.match(t) and len(t) <= 40 and not re.search(r"\d", t) and "," not in t):
+            group = t.rstrip(":").strip()
+            continue
+        out.append([group if group is not None else g, t])
+    return out
+
+
 def parse_recipe(url, text):
     text = strip_noise(text)
     ld = jsonld_recipe(text)
@@ -447,6 +462,7 @@ def parse_recipe(url, text):
     ingredients = parse_items(ing_frag, r'<li\b[^>]*>(.*?)</li>')
     if not ingredients and ld:
         ingredients = [[None, clean(x)] for x in ld.get("recipeIngredient") or [] if clean(x)]
+    ingredients = regroup(ingredients)
 
     meth_frag = section(body, r'<details class="method-tab', r"</details>") or ""
     tips_frag = ""

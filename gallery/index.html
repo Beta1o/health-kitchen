@@ -295,7 +295,8 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 /* ---------- top bar ---------- */
 .top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
-.top-in { max-width: 1480px; margin: 0 auto; padding: 12px 16px; display: flex; gap: 12px; align-items: center; }
+.top-in { max-width: 1480px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.brand-txt small { display: none; }
 .brand { display: flex; align-items: center; gap: 10px; white-space: nowrap; text-decoration: none; color: inherit; }
 .brand .logo { flex: none; border-radius: 11px; transition: transform .35s cubic-bezier(.2,.8,.2,1); }
 .brand:hover .logo { transform: rotate(-8deg) scale(1.06); }
@@ -305,7 +306,7 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .brand h1 span { color: var(--accent); }
 .brand small { color: var(--muted); font-size: .8rem; }
 .search { flex: 1 1 320px; min-width: 220px; position: relative; }
-@media (max-width: 1250px) { .top-in .fav-label { display: none; } }
+@media (max-width: 1560px) { .top-in .fav-label { display: none; } }
 @media (max-width: 1100px) { .view-tabs button { padding: 7px 10px; } }
 .search input { width: 100%; padding-block: 11px; padding-inline: 42px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
 .search svg { position: absolute; inset-inline-start: 14px; top: 50%; transform: translateY(-50%); color: var(--muted); }
@@ -530,7 +531,13 @@ body.reading .about, body.reading .cond-switch { display: none; }
 .cond-switch .sub-switch button { border: 0; padding: 6px 12px; font-size: .84rem; background: none; color: var(--muted); box-shadow: none; }
 .cond-switch .sub-switch button[aria-pressed="true"] { background: var(--surface); color: var(--accent); border: 0; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
 .cond-switch button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); box-shadow: 0 6px 18px color-mix(in srgb, var(--accent) 30%, transparent); }
-.about { max-width: min(1100px, 100%); margin: 0 auto; padding-inline: 16px; padding-block: 34px 60px; display: grid; gap: 36px; }
+.about { max-width: min(1100px, 100%); margin: 0 auto; padding-inline: 16px; padding-block: 34px 60px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; }
+.about-body > section, .about-hero { min-width: 0; }
+.updates { display: grid; gap: 10px; }
+.update { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 16px; display: grid; grid-template-columns: 110px minmax(0, 1fr); gap: 12px; }
+.update time { font-family: var(--font-data); color: var(--accent); font-weight: 600; font-size: .85rem; }
+.update ul { margin: 0; padding-inline-start: 18px; display: grid; gap: 4px; font-size: .92rem; }
+@media (max-width: 560px) { .update { grid-template-columns: minmax(0, 1fr); } }
 .about-hero { display: grid; gap: 14px; }
 .about-hero .eyebrow { color: var(--accent); }
 .about-hero h2 { font-size: clamp(2rem, 4.4vw, 3.4rem); font-weight: 800; line-height: 1.05; letter-spacing: -.03em; }
@@ -784,6 +791,19 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
   .brand small { display: none; }
 }
 @media (max-width: 640px) {
+  .cond-switch { flex-wrap: wrap; overflow: visible; padding-block: 12px 0; }
+  .cond-switch button { padding: 7px 12px; font-size: .85rem; }
+  .sub-switch { flex-basis: 100%; justify-content: center; }
+  .mini-rings { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .mini-rings .ring svg { width: 52px; height: 52px; }
+  .mini-rings .ring .pc { margin-top: -40px; height: 40px; font-size: .72rem; }
+  .tips-grid { grid-auto-flow: column; grid-auto-columns: 82%; grid-template-columns: none; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 6px; }
+  .tip-card { scroll-snap-align: start; }
+  .tools-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .tool { padding: 12px; } .tool span { display: none; }
+  .targets { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .dash { gap: 26px; padding-block: 18px 30px; }
+  .sheet-bar .grp:last-child { overflow-x: auto; scrollbar-width: none; max-width: 70vw; }
   .top-in { flex-wrap: wrap; gap: 8px; padding: 8px 12px; }
   .search { order: 3; flex-basis: 100%; }
   .search input { padding-block: 9px; }
@@ -838,6 +858,7 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" type="search" autocomplete="off">
     </div>
+    <button class="icon-btn round" id="settingsBtn" aria-label="Settings"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
     <button class="icon-btn round" id="themeBtn" aria-label="Theme"></button>
     <div class="langs" role="group" aria-label="Language">
       <button data-l="en" aria-pressed="true" lang="en">EN</button>
@@ -939,11 +960,12 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
 <main class="recipe-page" id="sheet" hidden aria-labelledby="sheetTitle"><div class="sheet-in" id="sheetIn"></div></main>
 <dialog class="panel-dlg" id="planDlg" aria-labelledby="planDlgTitle"><div class="dlg-in" id="planIn"></div></dialog>
 <dialog class="cook" id="cookDlg" aria-labelledby="cookTitle"><div class="cook-in" id="cookIn"></div></dialog>
+<dialog class="panel-dlg" id="setDlg" aria-labelledby="setTitle"><div class="dlg-in" id="setIn"></div></dialog>
 <dialog class="panel-dlg" id="toolDlg" aria-labelledby="toolTitle"><div class="dlg-in" id="toolIn"></div></dialog>
 <dialog class="panel-dlg wide" id="mpDlg" aria-labelledby="mpTitle"><div class="dlg-in" id="mpIn"></div></dialog>
 <dialog class="panel-dlg" id="dayDlg" aria-labelledby="dayDlgTitle"><div class="dlg-in" id="dayIn"></div></dialog>
 
-<script src="data.js?v=60724360"></script>
+<script src="data.js?v=50d691fa"></script>
 <script>
 const DATA = window.HK_DATA || null;
 const R = DATA.recipes;
@@ -951,7 +973,7 @@ const R = DATA.recipes;
 // ---------- interface text ----------
 const UI = {
   en: {
-    navAbout: "About", kidneySub: { hd: "Dialysis", ckd: "CKD, no dialysis", dm: "CKD + diabetes" }, aboutLatest: "Recently updated recipes", conds: { kidney: "Kidney", t2: "Diabetes", bp: "Blood pressure", heart: "Heart", gen: "General" },
+    navAbout: "About", settings: "Settings", setLang: "Language", setTheme: "Theme", setAddr: "Speak to me as", addrM: "Man", addrF: "Woman", setAddrNote: "Changes how Arabic instructions address you.", setData: "My data", clearSaved: "Clear saved recipes", kidneySub: { hd: "Dialysis", ckd: "CKD, no dialysis", dm: "CKD + diabetes" }, aboutLatest: "Latest updates", updates: [["2026-10-02", ["New dashboard with a condition switcher, daily targets, advice and calculators", "Weight tracker, cook mode with timers and metric units", "Recipes from AAKP, Kidney Care UK, My Renal Nutrition and DaVita Saudi Arabia", "Meal plans from 7 days to a full year", "Light and dark themes, sharing and PDF export"]], ["2026-10-01", ["Recipes in English, Spanish and Arabic", "Health plans for kidney disease, diabetes, blood pressure and heart health"]]], conds: { kidney: "Kidney", t2: "Diabetes", bp: "Blood pressure", heart: "Heart", gen: "General" },
     aboutWhat: "What is Health Kitchen?", aboutWhatP: "Health Kitchen brings together recipes from trusted kidney, diabetes and heart-health organisations in one place, in English, Spanish and Arabic. Every recipe shows its nutrition per serving and links to its original source, so you can cook with confidence and share what you find.",
     aboutHow: "How it works", aboutSteps: [["🎯", "Choose your condition", "Kidney, diabetes, blood pressure, heart or general. The dashboard adapts to it."], ["🍽️", "Find recipes that fit", "Filter by diet, nutrients and ingredients, and see each dish's share of your daily amounts."], ["📅", "Plan and cook", "Build meal plans, track your day and weight, and cook step by step with timers."]],
     aboutSources: "Recipe sources", aboutSourcesP: "Each recipe credits and links to the organisation that published it.", aboutShare: "Share Health Kitchen", shareBtn: "Share", shareMsg: "Health Kitchen: recipes for kidney, diabetes and heart health in English, Spanish and Arabic.",
@@ -1014,7 +1036,7 @@ const UI = {
     occasions: "Occasions", without: "Without", saveOnly: "Saved only", servUnit: "servings",
     footer: (n, x) => `${n} recipes from DaVita and leading kidney, diabetes and heart health organisations, in English, Spanish and Arabic. Colour levels per serving: sodium low ≤140 mg, higher >400 mg; potassium low ≤200 mg, higher >400 mg; phosphorus low ≤100 mg, higher >250 mg. They help with sorting only. Follow the advice of your doctor or dietitian.` },
   es: {
-    navAbout: "Acerca de", kidneySub: { hd: "Diálisis", ckd: "ERC sin diálisis", dm: "ERC + diabetes" }, aboutLatest: "Recetas actualizadas recientemente", conds: { kidney: "Riñón", t2: "Diabetes", bp: "Presión arterial", heart: "Corazón", gen: "General" },
+    navAbout: "Acerca de", settings: "Ajustes", setLang: "Idioma", setTheme: "Tema", setAddr: "Háblame como", addrM: "Hombre", addrF: "Mujer", setAddrNote: "Cambia cómo se dirigen a usted las instrucciones en árabe.", setData: "Mis datos", clearSaved: "Borrar recetas guardadas", kidneySub: { hd: "Diálisis", ckd: "ERC sin diálisis", dm: "ERC + diabetes" }, aboutLatest: "Últimas novedades", updates: [["2026-10-02", ["Nuevo panel con selector de condición, metas diarias, consejos y calculadoras", "Registro de peso, modo cocina con temporizadores y unidades métricas", "Recetas de AAKP, Kidney Care UK, My Renal Nutrition y DaVita Arabia Saudita", "Planes de comidas de 7 días a un año", "Temas claro y oscuro, compartir y exportar a PDF"]], ["2026-10-01", ["Recetas en inglés, español y árabe", "Planes de salud para riñón, diabetes, presión arterial y corazón"]]], conds: { kidney: "Riñón", t2: "Diabetes", bp: "Presión arterial", heart: "Corazón", gen: "General" },
     aboutWhat: "¿Qué es Cocina Saludable?", aboutWhatP: "Cocina Saludable reúne en un solo lugar recetas de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Cada receta muestra su nutrición por porción y enlaza a su fuente original, para que cocine con confianza y comparta lo que encuentre.",
     aboutHow: "Cómo funciona", aboutSteps: [["🎯", "Elija su condición", "Riñón, diabetes, presión arterial, corazón o general. El panel se adapta."], ["🍽️", "Encuentre recetas adecuadas", "Filtre por dieta, nutrientes e ingredientes, y vea qué parte de sus cantidades diarias ocupa cada plato."], ["📅", "Planee y cocine", "Cree planes de comidas, registre su día y su peso, y cocine paso a paso con temporizadores."]],
     aboutSources: "Fuentes de las recetas", aboutSourcesP: "Cada receta menciona y enlaza a la organización que la publicó.", aboutShare: "Compartir Cocina Saludable", shareBtn: "Compartir", shareMsg: "Cocina Saludable: recetas para riñón, diabetes y corazón en inglés, español y árabe.",
@@ -1077,7 +1099,7 @@ const UI = {
     occasions: "Ocasiones", without: "Sin", saveOnly: "Solo guardadas", servUnit: "porciones",
     footer: (n, x) => `${n} recetas de DaVita y de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Niveles por porción: sodio bajo ≤140 mg, alto >400 mg; potasio bajo ≤200 mg, alto >400 mg; fósforo bajo ≤100 mg, alto >250 mg. Solo sirven para ordenar. Siga las indicaciones de su médico o dietista.` },
   ar: {
-    navAbout: "عن التطبيق", kidneySub: { hd: "غسيل الكلى", ckd: "مزمن دون غسيل", dm: "مع السكري" }, aboutLatest: "أحدث الوصفات المحدّثة", conds: { kidney: "الكلى", t2: "السكري", bp: "ضغط الدم", heart: "القلب", gen: "عام" },
+    navAbout: "عن التطبيق", settings: "الإعدادات", setLang: "اللغة", setTheme: "المظهر", setAddr: "خاطبني بصيغة", addrM: "رجل", addrF: "امرأة", setAddrNote: "يغيّر صيغة مخاطبتك في التعليمات العربية.", setData: "بياناتي", clearSaved: "مسح الوصفات المحفوظة", kidneySub: { hd: "غسيل الكلى", ckd: "مزمن دون غسيل", dm: "مع السكري" }, aboutLatest: "آخر التحديثات", updates: [["2026-10-02", ["لوحة تحكم جديدة مع اختيار الحالة والأهداف اليومية والنصائح والحاسبات", "متابعة الوزن ووضع الطهي مع المؤقتات والوحدات المترية", "وصفات من AAKP وKidney Care UK وMy Renal Nutrition وDaVita السعودية", "خطط وجبات من 7 أيام حتى سنة كاملة", "المظهر الفاتح والداكن والمشاركة والتصدير إلى PDF"]], ["2026-10-01", ["الوصفات بالعربية والإنجليزية والإسبانية", "خطط صحية لأمراض الكلى والسكري وضغط الدم والقلب"]]], conds: { kidney: "الكلى", t2: "السكري", bp: "ضغط الدم", heart: "القلب", gen: "عام" },
     aboutWhat: "ما هو مطبخ الصحة؟", aboutWhatP: "يجمع مطبخ الصحة في مكان واحد وصفات من مؤسسات موثوقة في صحة الكلى والسكري والقلب، بالعربية والإنجليزية والإسبانية. تعرض كل وصفة قيمها الغذائية لكل حصة وترتبط بمصدرها الأصلي، لتطبخ بثقة وتشارك ما تجده.",
     aboutHow: "كيف يعمل", aboutSteps: [["🎯", "اختر حالتك", "الكلى أو السكري أو ضغط الدم أو القلب أو عام، وتتكيف لوحة التحكم معها."], ["🍽️", "اعثر على الوصفات المناسبة", "صفِّ حسب النظام الغذائي والعناصر الغذائية والمكونات، وشاهد حصة كل طبق من كمياتك اليومية."], ["📅", "خطّط واطبخ", "أنشئ خطط وجبات، وتابع يومك ووزنك، واطبخ خطوة بخطوة مع المؤقتات."]],
     aboutSources: "مصادر الوصفات", aboutSourcesP: "تشير كل وصفة إلى الجهة التي نشرتها مع رابط لها.", aboutShare: "شارك مطبخ الصحة", shareBtn: "مشاركة", shareMsg: "مطبخ الصحة: وصفات لصحة الكلى والسكري والقلب بالعربية والإنجليزية والإسبانية.",
@@ -1190,8 +1212,16 @@ const store = { get(k, d) { try { const v = localStorage.getItem("kk:" + k); ret
 
 let lang = store.get("lang", (navigator.language || "en").slice(0, 2));
 if (!UI[lang]) lang = "en";
-const u = () => UI[lang];
-const tx = r => r.t[lang] || r.t[r.src] || r.t.en || Object.values(r.t)[0];
+const AR_F = {
+  search: "ابحثي عن وصفة أو مكوّن، مثل: دجاج، قرفة، أرز", items: n => `${n} مكوّن · اضغطي للتأشير`, stepsHint: "اضغطي على الخطوة عند إتمامها",
+  planIntro: "اختاري خطتك وأدخلي الكميات اليومية التي حددها لكِ طبيبكِ أو أخصائي التغذية. تُظهر المؤشرات حصة كل وجبة، على اعتبار أن الوجبة ثلث يومكِ. تتحول الحدود إلى الكهرماني ثم الأحمر عند الاقتراب منها، وتمتلئ الأهداف باللون الأخضر.",
+  pickPlan: "لأي حالة تطبخين؟", startTimer: "ابدئي", watch: "شاهدي فيديو الطهي", emptyP: "أزيلي أحد عوامل التصفية أو وسّعي حدود العناصر الغذائية.",
+  dayEmpty: "لا يوجد شيء في خطة اليوم بعد. افتحي وصفة واختاري «أضيفي إلى يومي».", addDay: "أضيفي إلى يومي", convHint: "أدخلي قيمة في أي خانة.",
+  calcNote: "للإرشاد فقط. اطلبي من طبيبكِ أو أخصائي التغذية أهدافكِ الشخصية.", dRecTitle: "أهدافكِ اليومية", dTipsTitle: "نصائح لخطتكِ", plan: "خطتي الصحية",
+  heroTitle: 'طعام يومي <em>مصمم لصحتكِ</em>', mpNone: "لا توجد وصفات كافية ضمن هذه الحدود. وسّعي أحد الحدود في خطتكِ.", mpUseDay: "أضيفي هذا اليوم إلى يومي",
+};
+const u = () => lang === "ar" && addr === "f" ? { ...UI.ar, ...AR_F } : UI[lang];
+const tx = r => (lang === "ar" && addr === "f" && r.t.arf) || r.t[lang] || r.t[r.src] || r.t.en || Object.values(r.t)[0];
 const hayCache = {};
 function hay(r) {
   const c = hayCache[lang] ??= new Map();
@@ -2232,7 +2262,7 @@ function renderAbout() {
     <section><h3>${s.aboutSources}</h3><p class="foot-note" style="margin:0 0 10px">${s.aboutSourcesP}</p><div class="src-list">
       ${Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([name, n]) => { const meta = SOURCES[name] || ["#", {}];
         return `<a class="src" href="${meta[0]}" target="_blank" rel="noopener"><b>${esc(name)}<span>${n.toLocaleString()}</span></b><small>${esc(meta[1][lang] || meta[1].en || "")}</small><u>${meta[0].replace(/^https?:\/\//, "")} ↗</u></a>`; }).join("")}</div></section>
-    <section><h3>${s.aboutLatest}</h3><div class="hscroll" id="aboutLatest"></div></section>
+    <section><h3>${s.aboutLatest}</h3><div class="updates">${s.updates.map(([d, items]) => `<div class="update"><time>${d}</time><ul>${items.map(x => `<li>${x}</li>`).join("")}</ul></div>`).join("")}</div></section>
     <section><h3>${s.aboutShare}</h3><div class="share-row">
       <button class="btn-primary" data-share="native">${s.shareBtn}</button>
       <a class="icon-btn" href="https://wa.me/?text=${enc(msg + " " + url)}" target="_blank" rel="noopener">WhatsApp</a>
@@ -2242,8 +2272,7 @@ function renderAbout() {
       <button class="icon-btn" data-share="copy">${s.copyLink}</button></div>
       <p class="foot-note" style="direction:ltr;text-align:start">${esc(url)}</p></section>
     <section class="disclaimer">${s.disclaimer}</section>`;
-  const latest = R.filter(r => r.modified).sort((a, b) => b.modified.localeCompare(a.modified) || (b.img != null) - (a.img != null)).slice(0, 12);
-  $("#aboutLatest").replaceChildren(...latest.map(miniCard));
+
 }
 async function shareLink(url, title) {
   try { if (navigator.share) { await navigator.share({ title, text: u().shareMsg, url }); return; } } catch (e) { if (e && e.name === "AbortError") return; }
@@ -2362,6 +2391,36 @@ $("#openFilters").addEventListener("click", () => {
 $("#home").addEventListener("click", e => { e.preventDefault(); if (isOpen()) hidePage();
   state.q = ""; state.exclude = ""; state.max = {}; state.hasVideo = state.favOnly = false; for (const k in state.sel) state.sel[k].clear();
   update(); setView("dash"); });
+
+
+// ---------- settings ----------
+let addr = store.get("addr", "m");   // form of address for Arabic text: m / f
+function openSettings() {
+  const s = u(), seg = (name, cur, opts) => `<div class="seg2" role="group">${opts.map(([v, l]) => `<button data-set="${name}" data-v="${v}" aria-pressed="${v === cur}">${l}</button>`).join("")}</div>`;
+  $("#setIn").innerHTML = `<h2 id="setTitle">${s.settings}</h2>
+    <div class="plan-group"><h3>${s.setLang}</h3>${seg("lang", lang, [["en", "English"], ["es", "Español"], ["ar", "العربية"]])}</div>
+    <div class="plan-group"><h3>${s.setTheme}</h3>${seg("theme", theme, [["system", s.themeNames.system.split(": ").pop()], ["light", s.themeNames.light.split(": ").pop()], ["dark", s.themeNames.dark.split(": ").pop()]])}</div>
+    <div class="plan-group"><h3>${s.unitsLabel}</h3>${seg("units", units, [["metric", s.unitsMetric], ["us", s.unitsUS]])}</div>
+    <div class="plan-group"><h3>${s.setAddr}</h3>${seg("addr", addr, [["m", s.addrM], ["f", s.addrF]])}<p class="foot-note" style="margin:0">${s.setAddrNote}</p></div>
+    <div class="plan-group"><h3>${s.plan}</h3><div class="mp-actions"><span class="chip diet">${s.profiles[plan.type]}</span><button class="icon-btn" data-set="plan">${s.planEdit}</button></div></div>
+    <div class="plan-group"><h3>${s.setData}</h3><div class="mp-actions"><button class="icon-btn" data-set="clearDay">${s.clearDay}</button><button class="icon-btn" data-set="clearSaved">${s.clearSaved}</button></div></div>
+    <div class="dlg-foot"><span></span><button class="btn-primary" data-set="close">${s.done}</button></div>`;
+  if (!$("#setDlg").open) $("#setDlg").showModal();
+}
+$("#settingsBtn").addEventListener("click", openSettings);
+$("#setDlg").addEventListener("click", e => {
+  if (e.target === $("#setDlg")) return $("#setDlg").close();
+  const b = e.target.closest("[data-set]"); if (!b) return; const k = b.dataset.set, v = b.dataset.v;
+  if (k === "close") return $("#setDlg").close();
+  if (k === "lang") document.querySelector(`.langs [data-l="${v}"]`).click();
+  if (k === "theme") { theme = v; store.set("theme", theme); applyTheme(); }
+  if (k === "units") { units = v; store.set("units", units); if (current) openRecipe(current.id, false); }
+  if (k === "addr") { addr = v; store.set("addr", addr); applyLang(); render(); if (current) openRecipe(current.id, false); }
+  if (k === "plan") { $("#setDlg").close(); openPlan(); return; }
+  if (k === "clearDay") { day = []; saveDay(); toast(u().done); }
+  if (k === "clearSaved") { favs.clear(); store.set("favs", []); syncNav(); $("#favCount").textContent = 0; toast(u().done); }
+  openSettings();
+});
 
 // ---------- theme ----------
 let theme = store.get("theme", "system");
