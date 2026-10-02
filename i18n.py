@@ -13,7 +13,7 @@ Usage:
   python3 i18n.py build     # (re)create i18n tables from the scraped data
   python3 i18n.py export    # write translation jobs to translations/jobs_N.json
   python3 i18n.py import    # load translations/out_*.json into the i18n tables
-  python3 i18n.py fixes     # apply translations/halal_text_fixes.json (pork/alcohol mentions)
+  python3 i18n.py fixes     # apply translations/policy_text_fixes*.json (pork/alcohol mentions)
   python3 i18n.py status    # coverage per language
 """
 import json
@@ -146,7 +146,7 @@ def import_():
     for f in sorted(TR.glob("out_*.json")):
         for rec in json.loads(f.read_text(encoding="utf-8")):
             if rec["id"] not in live:
-                continue  # removed since translation (e.g. by the halal filter)
+                continue  # removed since translation (e.g. by the ingredient filter)
             for lang, d in rec["translations"].items():
                 exists = db.execute("SELECT source FROM recipe_i18n WHERE recipe_id=? AND lang=?", (rec["id"], lang)).fetchone()
                 if exists and exists[0] == "davita":
@@ -159,16 +159,19 @@ def import_():
 
 
 def apply_fixes():
-    """Apply translations/halal_text_fixes.json: rewrite or delete text that mentions pork or alcohol."""
+    """Apply translations/policy_text_fixes.json: rewrite or delete text that mentions pork or alcohol."""
     db = connect()
-    path = TR / "halal_text_fixes.json"
-    if not path.exists():
-        print("no halal_text_fixes.json"); return
+    pairs = [(r, r.with_name(r.name.replace("review", "fixes"))) for r in sorted(TR.glob("policy_text_review*.json"))]
+    pairs = [(r, f) for r, f in pairs if f.exists()]
+    if not pairs:
+        print("no policy_text_fixes*.json"); return
     # the review file holds the text each fix was written against; a fix only applies while the
     # stored text still equals it, so running this twice (or after renumbering) changes nothing
-    originals = json.loads((TR / "halal_text_review.json").read_text(encoding="utf-8"))
     changed = deleted = 0
-    for fx, orig in zip(json.loads(path.read_text(encoding="utf-8")), originals):
+    items = []
+    for review, fixes in pairs:
+        items += list(zip(json.loads(fixes.read_text(encoding="utf-8")), json.loads(review.read_text(encoding="utf-8"))))
+    for fx, orig in items:
         rid, pos, field = fx["recipe_id"], fx["position"], fx["field"]
         assert (rid, pos, field) == (orig["recipe_id"], orig["position"], orig["field"]), "fixes/review files out of step"
         for lang, new in fx["text"].items():
@@ -200,7 +203,7 @@ def apply_fixes():
             db.executemany(f"INSERT INTO {table} VALUES (?,?,?,?,?)",
                            [(rid, lang, i, g, t) for i, (_, g, t) in enumerate(rows, 1)])
     db.commit()
-    print(f"halal text fixes: {changed} rewritten, {deleted} removed")
+    print(f"policy text fixes: {changed} rewritten, {deleted} removed")
 
 
 def status(db=None):

@@ -1,0 +1,1830 @@
+[
+ {
+  "id": 4428872,
+  "translations": {
+   "es": {
+    "title": "Suflé holandés de manzana",
+    "description": null,
+    "portions": "4",
+    "serving_size": "¼ de la receta",
+    "ingredients": [
+     [
+      null,
+      "4 claras de huevo"
+     ],
+     [
+      null,
+      "½ cucharadita de crémor tártaro"
+     ],
+     [
+      null,
+      "4 yemas de huevo"
+     ],
+     [
+      null,
+      "½ taza de harina de uso general"
+     ],
+     [
+      null,
+      "1 taza de bebida de arroz no fortificada*"
+     ],
+     [
+      null,
+      "1 cucharada de extracto de vainilla"
+     ],
+     [
+      null,
+      "½ taza de manzanas peladas, sin corazón y en rebanadas finas"
+     ],
+     [
+      null,
+      "½ cucharadita de canela"
+     ],
+     [
+      null,
+      "2 cucharaditas de aceite de canola (o aceite en aerosol para cocinar)"
+     ],
+     [
+      null,
+      "½ cucharada de azúcar glas (azúcar impalpable)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 350 °F."
+     ],
+     [
+      null,
+      "En un tazón mediano, con ayuda de una batidora eléctrica, bata las claras de huevo con el crémor tártaro hasta que se formen picos (aproximadamente 3 minutos)."
+     ],
+     [
+      null,
+      "En un segundo tazón, combine las yemas de huevo, la harina, la bebida de arroz y el extracto de vainilla."
+     ],
+     [
+      null,
+      "Espolvoree las rebanadas de manzana con la canela. Incorpore con movimientos envolventes y suaves la mezcla de claras y las rebanadas de manzana a la mezcla del paso 3. Las claras no deben deshacerse en la mezcla, sino mantenerse algo esponjosas."
+     ],
+     [
+      null,
+      "Engrase un molde para pay o una sartén de hierro (o use aceite en aerosol) y vierta en él la mezcla de huevo."
+     ],
+     [
+      null,
+      "Hornee durante unos 20-30 minutos o hasta que el suflé haya subido y tenga un color ligeramente dorado."
+     ],
+     [
+      null,
+      "Decore con azúcar glas antes de servir."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* La bebida de arroz fortificada contiene aditivos de fosfato, por lo que se recomienda el producto no fortificado. Puede encontrarlo en la sección de refrigerados de su supermercado o en el pasillo de productos en polvo o alternativas a la leche. Asegúrese de refrigerarlo después de abrirlo."
+     ],
+     [
+      null,
+      "Consejo: Para realzar esta receta, puede decorar el suflé con más frutas aptas para personas con enfermedad renal, como las bayas. Tenga en cuenta que el análisis de nutrientes no incluye ningún adorno adicional."
+     ],
+     [
+      "Recetas fáciles de proteína en una sola olla: suflés",
+      "Preparar comidas en una sola olla o sartén puede ayudarle a ahorrar tiempo y esfuerzo en la cocina y, a la vez, ofrecer una comida apta para el riñón. Un ejemplo de este tipo de cocina es el suflé. El suflé es un plato horneado que consiste en una base sabrosa a la que se agregan claras de huevo batidas. Puede ser salado o dulce. Al hornearse, las burbujas de aire que se incorporaron al batir las claras se expanden y hacen que suba por encima del borde del molde. Para obtener los mejores resultados, saque los huevos del refrigerador una hora antes de preparar el suflé para que alcancen la temperatura ambiente.\n\nAunque mucha gente evita preparar suflés porque parece un proceso complicado, en realidad es bastante fácil y puede ser todo un gusto. Los suflés pueden servirse como plato principal, acompañados de carnes y verduras, o con fruta como postre saludable. Si sigue una dieta baja en potasio, asegúrese de dar sabor a su suflé o acompañarlo con frutas y verduras más bajas en potasio, como manzanas, bayas, cebollas, puerros, espárragos, maíz, champiñones y pimientos."
+     ]
+    ],
+    "food_choices": [
+     "1 proteína",
+     "1 almidón",
+     "1/2 fruta más baja en potasio"
+    ]
+   },
+   "ar": {
+    "title": "سوفليه التفاح الهولندي",
+    "description": null,
+    "portions": "4",
+    "serving_size": "¼ الوصفة",
+    "ingredients": [
+     [
+      null,
+      "4 بياض بيض"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كريمة الترتار"
+     ],
+     [
+      null,
+      "4 صفار بيض"
+     ],
+     [
+      null,
+      "½ كوب دقيق متعدد الاستخدامات"
+     ],
+     [
+      null,
+      "1 كوب مشروب أرز غير مدعّم*"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خلاصة الفانيليا"
+     ],
+     [
+      null,
+      "½ كوب تفاح مقشر ومنزوع البذور ومقطع إلى شرائح رفيعة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زيت كانولا (أو بخاخ زيت الطهي)"
+     ],
+     [
+      null,
+      "½ ملعقة كبيرة سكر بودرة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا على 350° فهرنهايت (175° مئوية)."
+     ],
+     [
+      null,
+      "في وعاء متوسط، وباستخدام خلاط كهربائي، اخفق بياض البيض مع كريمة الترتار حتى تتكون قمم (نحو 3 دقائق)."
+     ],
+     [
+      null,
+      "في وعاء ثانٍ، اخلط صفار البيض والدقيق ومشروب الأرز وخلاصة الفانيليا."
+     ],
+     [
+      null,
+      "رشّ شرائح التفاح بالقرفة. أضف خليط بياض البيض وشرائح التفاح برفق وبحركة تقليب لطيفة إلى خليط الخطوة 3. يجب ألا يذوب بياض البيض في الخليط بل يبقى هشًا إلى حد ما."
+     ],
+     [
+      null,
+      "ادهن صينية فطائر أو مقلاة حديدية بالزيت (أو استخدم بخاخ الطهي) واسكب فيها خليط البيض."
+     ],
+     [
+      null,
+      "اخبز في الفرن لمدة 20-30 دقيقة تقريبًا أو حتى ينتفخ السوفليه ويصبح لونه ذهبيًا خفيفًا."
+     ],
+     [
+      null,
+      "زيّن بالسكر البودرة قبل التقديم."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* يحتوي مشروب الأرز المدعّم على إضافات الفوسفات، لذا يُنصح بالمنتج غير المدعّم. تجده في قسم المبردات في متجر البقالة أو في الممر الذي يضم المنتجات المجففة أو بدائل الحليب. احرص على حفظه في الثلاجة بعد فتحه."
+     ],
+     [
+      null,
+      "نصيحة: لإضفاء لمسة مميزة على هذه الوصفة، يمكنك تزيين السوفليه بمزيد من الفواكه المناسبة لمرضى الكلى، مثل التوت! يُرجى ملاحظة أن تحليل العناصر الغذائية لا يشمل أي إضافات للتزيين."
+     ],
+     [
+      "وصفات بروتين سهلة في قدر واحد: السوفليه",
+      "يساعد إعداد الوجبات في قدر واحد أو مقلاة واحدة على توفير الوقت والجهد في المطبخ مع تقديم وجبة مناسبة لمرضى الكلى. ومن أمثلة هذا النوع من الطهي السوفليه، وهو طبق مخبوز يتكون من قاعدة غنية بالنكهة تُضاف إلى بياض البيض المخفوق. ويمكن أن يكون مالحًا أو حلوًا. وعند خبزه، تتمدد فقاعات الهواء التي دخلت إلى بياض البيض أثناء الخفق، فيرتفع فوق حافة طبق الخبز. وللحصول على أفضل النتائج، أخرج البيض من الثلاجة قبل ساعة من إعداد السوفليه ليصل إلى درجة حرارة الغرفة.\n\nمع أن كثيرًا من الناس يتجنبون إعداد السوفليه لأنه يبدو معقدًا، فإنه في الحقيقة سهل جدًا ويمكن أن يكون طبقًا شهيًا. ويمكن تقديم السوفليه طبقًا رئيسيًا، أو إلى جانب اللحوم والخضار، أو مع الفاكهة كحلوى صحية. وإذا كنت تتبع نظامًا غذائيًا منخفض البوتاسيوم، فاحرص على تنكيه السوفليه أو تقديمه مع فواكه وخضار أقل في البوتاسيوم، مثل التفاح والتوت والبصل والكراث والهليون والذرة والفطر والفلفل."
+     ]
+    ],
+    "food_choices": [
+     "1 بروتين",
+     "1 نشويات",
+     "1/2 فاكهة أقل في البوتاسيوم"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4435843,
+  "translations": {
+   "es": {
+    "title": "Dip de hierbas del huerto",
+    "description": null,
+    "portions": "8",
+    "serving_size": "1/8 de la receta",
+    "ingredients": [
+     [
+      null,
+      "1 taza de queso crema batido"
+     ],
+     [
+      null,
+      "1 diente de ajo picado finamente"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "1 cucharada de cebollín fresco picado"
+     ],
+     [
+      null,
+      "1 cucharada de albahaca fresca picada"
+     ],
+     [
+      null,
+      "1 cucharada de perejil de hoja plana picado"
+     ],
+     [
+      null,
+      "6 gotas de Tabasco®"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón, combine el queso crema, el ajo y el aceite, y mezcle con una batidora eléctrica hasta obtener una consistencia cremosa."
+     ],
+     [
+      null,
+      "Con una espátula, incorpore el resto de los ingredientes con movimientos envolventes."
+     ],
+     [
+      null,
+      "Pase la mezcla a un tazón para servir, cúbrala con plástico para envolver y refrigérela durante unos 30 minutos."
+     ],
+     [
+      null,
+      "Sirva con verduras cortadas o galletas saladas bajas en sodio."
+     ]
+    ],
+    "hints": [
+     [
+      "Dip de verduras apto para el riñón",
+      "Las verduras son una parte importante de una alimentación saludable. Comer verduras crudas con un sándwich o como bocadillo puede ser una forma fácil de incluirlas en su plan de alimentación. Acompañar las verduras crudas con un dip puede ser divertido y sabroso. Entre las verduras más bajas en potasio que suelen comerse crudas están los espárragos, el brócoli, las zanahorias, la coliflor, el apio, el pepino, los guisantes dulces (chícharos), los pimientos y los rábanos.\n\nLos dips que se compran en el supermercado pueden contener grandes cantidades de sodio y aditivos de fosfato. Para evitarlos, lo mejor es preparar el dip en casa. Experimente con distintos ingredientes para crear su dip favorito. Comience con una base como crema agria o queso crema batido y agregue diversas hierbas y especias para dar sabor. La cebolla o el ajo frescos picados finamente también aportan mucho sabor. Si lo desea, agregue un toque picante con un poco de salsa de chile. Combine sabores hasta encontrar los que más le gusten.\n\nEl yogur natural puede ser una opción más baja en calorías como base del dip, pero contiene más potasio. La crema agria o el queso crema bajos en grasa también pueden reducir las calorías del dip, pero tenga cuidado al comprarlos, ya que con frecuencia contienen aditivos de fosfato. Pregunte a su dietista registrado qué ingredientes para dips son adecuados para usted."
+     ]
+    ],
+    "food_choices": [
+     "2 grasa"
+    ]
+   },
+   "ar": {
+    "title": "غموس أعشاب الحديقة",
+    "description": null,
+    "portions": "8",
+    "serving_size": "⅛ الوصفة",
+    "ingredients": [
+     [
+      null,
+      "1 كوب جبن كريمي مخفوق"
+     ],
+     [
+      null,
+      "1 فص ثوم مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ثوم معمّر طازج مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ريحان طازج مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بقدونس مسطح الأوراق مفروم"
+     ],
+     [
+      null,
+      "6 قطرات Tabasco®"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء، اخلط الجبن الكريمي والثوم والزيت، واخفقها بالخلاط الكهربائي حتى يصبح الخليط كريميًا."
+     ],
+     [
+      null,
+      "باستخدام ملعقة مسطحة (سباتولا)، أضف باقي المكونات إلى الخليط بحركة تقليب لطيفة."
+     ],
+     [
+      null,
+      "انقل الخليط إلى وعاء التقديم، وغطّه بغلاف بلاستيكي، وبرّده في الثلاجة لمدة 30 دقيقة تقريبًا."
+     ],
+     [
+      null,
+      "قدّمه مع خضار مقطعة أو بسكويت مالح (كراكرز) قليل الصوديوم."
+     ]
+    ],
+    "hints": [
+     [
+      "غموس خضار مناسب لمرضى الكلى",
+      "الخضار جزء مهم من النظام الغذائي الصحي. وتناول الخضار النيئة مع شطيرة أو كوجبة خفيفة طريقة سهلة لإضافتها إلى خطتك الغذائية. ويمكن أن يكون تقديم الخضار النيئة مع غموس أمرًا ممتعًا ولذيذًا. ومن الخضار الأقل في البوتاسيوم التي تؤكل نيئة عادةً: الهليون والبروكلي والجزر والقرنبيط والكرفس والخيار والبازلاء السكرية والفلفل والفجل.\n\nقد تحتوي أنواع الغموس الجاهزة في متاجر البقالة على كميات كبيرة من الصوديوم وعلى إضافات الفوسفات. ولتجنبها، من الأفضل تحضير الغموس في المنزل. جرّب مكونات متنوعة لتبتكر الغموس المفضل لديك. ابدأ بقاعدة مثل القشدة الحامضة أو الجبن الكريمي المخفوق، وأضف تشكيلة من الأعشاب والتوابل لإضفاء النكهة. ويمكن للبصل أو الثوم الطازج المفروم ناعمًا أن يضيف نكهة كبيرة أيضًا. وإن رغبت، أضف لمسة حارة بقليل من الصلصة الحارة. نوّع النكهات ونسّق بينها حتى تجد ما تفضله.\n\nيمكن أن يكون الزبادي العادي خيارًا أقل في السعرات الحرارية كقاعدة للغموس، لكنه يحتوي على مزيد من البوتاسيوم. كما يمكن للقشدة الحامضة أو الجبن الكريمي قليلي الدسم أن يخفضا السعرات الحرارية في الغموس، لكن احذر عند شرائهما لأنهما يحتويان غالبًا على إضافات الفوسفات. اسأل اختصاصي التغذية المعتمد عن مكونات الغموس المناسبة لك."
+     ]
+    ],
+    "food_choices": [
+     "2 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4438622,
+  "translations": {
+   "es": {
+    "title": "Bisquets rellenos para el desayuno",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 tazas de harina"
+     ],
+     [
+      null,
+      "1 cucharada de azúcar (o miel)"
+     ],
+     [
+      null,
+      "1/2 cucharadita de bicarbonato de sodio"
+     ],
+     [
+      null,
+      "1 cucharada de jugo de limón"
+     ],
+     [
+      null,
+      "8 cucharadas de mantequilla suavizada (1 barra)"
+     ],
+     [
+      null,
+      "3/4 de taza de leche"
+     ]
+    ],
+    "steps": [
+     [
+      "Relleno",
+      "4 huevos batidos y revueltos, dejándolos un poco húmedos (aproximadamente 1 taza ya cocidos)"
+     ],
+     [
+      "Relleno",
+      "¾ de taza de tocino sin curar, crujiente y picado en trozos grandes (un paquete de 8 onzas o 1¼ taza sin cocinar)"
+     ],
+     [
+      "Relleno",
+      "1 taza de queso cheddar"
+     ],
+     [
+      "Relleno",
+      "¼ de taza de cebollitas de cambray (cebolla verde) en rodajas finas"
+     ],
+     [
+      "Relleno",
+      "Precaliente el horno a 425 °F. En un tazón grande, combine todos los ingredientes secos. Incorpore la mantequilla con un tenedor o un mezclador de masa hasta que queden trozos del tamaño de un guisante o más pequeños. Haga un hueco en el centro de la mezcla y agregue la leche, amasando con los dedos. Justo antes de formar una bola de masa, incorpore el relleno con movimientos suaves. Hornee a 425 °F durante 10-12 minutos o hasta que estén dorados."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بسكويت الإفطار المحشو",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 كوب دقيق"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة سكر (أو عسل)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة بيكربونات الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير ليمون"
+     ],
+     [
+      null,
+      "8 ملاعق كبيرة زبدة طرية (1 قالب)"
+     ],
+     [
+      null,
+      "¾ كوب حليب"
+     ]
+    ],
+    "steps": [
+     [
+      "الحشوة",
+      "4 بيضات مخفوقة ومقلية (مخفوقة في المقلاة) مع تركها طرية قليلًا (نحو 1 كوب بعد الطهي)"
+     ],
+     [
+      "الحشوة",
+      "¾ كوب لحم مقدد (بيكون) غير مُعالَج، مقرمش ومفروم فرمًا خشنًا (عبوة 8 أونصات أو 1¼ كوب قبل الطهي)"
+     ],
+     [
+      "الحشوة",
+      "1 كوب جبن شيدر"
+     ],
+     [
+      "الحشوة",
+      "¼ كوب بصل أخضر مقطع إلى شرائح رفيعة"
+     ],
+     [
+      "الحشوة",
+      "سخّن الفرن مسبقًا على 425° فهرنهايت (220° مئوية). في وعاء كبير، اخلط جميع المكونات الجافة. أضف الزبدة وقطّعها داخل الخليط بشوكة أو بأداة قطع العجين حتى تصبح بحجم حبة البازلاء أو أصغر. اصنع حفرة في وسط الخليط وأضف الحليب واعجن بأصابعك. وقبل تشكيل كرة العجين مباشرة، أضف الحشوة بحركة تقليب خفيفة. اخبز على حرارة 425° فهرنهايت (220° مئوية) لمدة 10-12 دقيقة أو حتى يصبح لونه ذهبيًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 4439578,
+  "translations": {
+   "es": {
+    "title": "Licuado de Nepro® con canela y almendra",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 licuado",
+    "ingredients": [
+     [
+      null,
+      "1 botella de 8 onzas líquidas de Nepro® with Carb Steady sabor Homemade Vanilla"
+     ],
+     [
+      null,
+      "1 cucharadita de azúcar"
+     ],
+     [
+      null,
+      "1 cucharadita de canela"
+     ],
+     [
+      null,
+      "2 gotas de extracto (o esencia) de almendra"
+     ],
+     [
+      null,
+      "1/4 de taza de peras de lata (envasadas en agua), escurridas"
+     ],
+     [
+      null,
+      "2 cubos de hielo"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Coloque el Nepro®, el azúcar, la canela, el extracto de almendra y las peras en una licuadora y licúe hasta obtener una mezcla homogénea."
+     ],
+     [
+      null,
+      "Agregue los cubos de hielo y siga licuando hasta que quede espeso y espumoso."
+     ],
+     [
+      null,
+      "Vierta en un vaso alto y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "El extracto de almendra es un producto puro y natural elaborado con el aceite de almendras amargas. La esencia de almendra se elabora con saborizantes artificiales y es más económica."
+     ],
+     [
+      null,
+      "Nepro® Carb Steady™ es un producto de nutrición especializada diseñado para cubrir las necesidades nutricionales de las personas en diálisis. Es un producto de Abbott Nutrition que puede usarse como refrigerio nutritivo, como suplemento o como única fuente de nutrición."
+     ],
+     [
+      null,
+      "Para un resultado más cremoso, coloque la botella de Nepro® en el congelador al menos 1 hora antes de usarla."
+     ]
+    ],
+    "food_choices": [
+     "2 carne",
+     "3 almidón",
+     "2 grasa"
+    ]
+   },
+   "ar": {
+    "title": "سموذي Nepro® بالقرفة واللوز",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 سموذي",
+    "ingredients": [
+     [
+      null,
+      "زجاجة واحدة سعة 8 أونصات سائلة من Nepro® with Carb Steady بنكهة Homemade Vanilla"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة سكر"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "2 قطرة خلاصة (أو عطر) اللوز"
+     ],
+     [
+      null,
+      "¼ كوب كمثرى معلبة (محفوظة في الماء)، مصفّاة"
+     ],
+     [
+      null,
+      "2 مكعب ثلج"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع Nepro® والسكر والقرفة وخلاصة اللوز والكمثرى في الخلاط واخلطها حتى يصبح المزيج ناعمًا."
+     ],
+     [
+      null,
+      "أضف مكعبات الثلج واستمر في الخلط حتى يصبح المزيج كثيفًا ورغويًا."
+     ],
+     [
+      null,
+      "اسكبه في كوب طويل وقدّمه."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "خلاصة اللوز منتج طبيعي خالص يُصنع من زيت اللوز المر. أما عطر (إسانس) اللوز فيُصنع من منكهات صناعية وهو أقل تكلفة."
+     ],
+     [
+      null,
+      "Nepro® Carb Steady™ منتج غذائي متخصص صُمّم لتلبية الاحتياجات الغذائية للأشخاص الخاضعين لغسيل الكلى. وهو من منتجات Abbott Nutrition ويمكن استخدامه كوجبة خفيفة مغذية أو كمكمل غذائي أو كمصدر وحيد للتغذية."
+     ],
+     [
+      null,
+      "للحصول على قوام أكثر كريمية، ضع زجاجة Nepro® في الفريزر قبل استخدامها بساعة واحدة (1) على الأقل."
+     ]
+    ],
+    "food_choices": [
+     "2 لحوم",
+     "3 نشويات",
+     "2 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4446289,
+  "translations": {
+   "es": {
+    "title": "Omelet de champiñones y arroz",
+    "description": null,
+    "portions": "2",
+    "serving_size": "1/2 omelet",
+    "ingredients": [
+     [
+      null,
+      "1/2 taza de arroz basmati"
+     ],
+     [
+      null,
+      "1 1/2 tazas de agua"
+     ],
+     [
+      null,
+      "1 taza de champiñones rebanados"
+     ],
+     [
+      null,
+      "2 dientes de ajo picados finamente o machacados"
+     ],
+     [
+      null,
+      "4 huevos grandes"
+     ],
+     [
+      null,
+      "1 cucharada de queso parmesano rallado"
+     ],
+     [
+      null,
+      "1 cucharada de margarina sin sal"
+     ],
+     [
+      null,
+      "2 cucharaditas de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "1/2 taza de cebollitas verdes picadas finamente (aproximadamente 2 cebollitas enteras)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Enjuague el arroz con agua fría para eliminar el exceso de almidón. En una olla pequeña, ponga a hervir el agua y agregue el arroz. Baje el fuego a medio y cocine a fuego lento durante 6–7 minutos. Vierta en un colador sobre el fregadero, escurra y enjuague con agua fría."
+     ],
+     [
+      null,
+      "Mientras se cocina el arroz, pique los champiñones y el ajo y resérvelos. Casque los huevos en un tazón y mézclelos con el parmesano."
+     ],
+     [
+      null,
+      "Caliente una sartén antiadherente mediana a fuego medio-alto durante 1 minuto. Agregue la margarina y los champiñones. Después de 3 minutos, agregue el ajo. Fría durante otros 1–2 minutos hasta que los champiñones estén dorados."
+     ],
+     [
+      null,
+      "Baje el fuego a medio-bajo, agregue el arroz, la salsa de soya y las cebollitas verdes, y caliente todo durante 1–2 minutos."
+     ],
+     [
+      null,
+      "Vierta los huevos sobre el arroz y revuelva suavemente la superficie hasta que el omelet comience a cuajar (1 minuto). Tape, apague el fuego y deje reposar un par de minutos para que termine de cocinarse."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Revolver ayuda a que el huevo cuaje porque distribuye el calor. Sin embargo, no revuelva demasiado para no terminar con huevos revueltos."
+     ],
+     [
+      null,
+      "Si tiene arroz sobrante en el refrigerador, esta receta es una excelente manera de aprovecharlo."
+     ],
+     [
+      null,
+      "Use la mitad sobrante del omelet en un sándwich al día siguiente."
+     ]
+    ],
+    "food_choices": [
+     "2 carne",
+     "2 almidón",
+     "1 verdura baja en potasio",
+     "1 grasa"
+    ]
+   },
+   "ar": {
+    "title": "أومليت بالفطر والأرز",
+    "description": null,
+    "portions": "2",
+    "serving_size": "½ أومليت",
+    "ingredients": [
+     [
+      null,
+      "½ كوب أرز بسمتي"
+     ],
+     [
+      null,
+      "1½ كوب ماء"
+     ],
+     [
+      null,
+      "1 كوب فطر مقطع إلى شرائح"
+     ],
+     [
+      null,
+      "2 فص ثوم مفروم ناعمًا أو مهروس"
+     ],
+     [
+      null,
+      "4 بيضات كبيرة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة جبن بارميزان مبشور"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة سمن نباتي (مارجرين) غير مملح"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "½ كوب بصل أخضر مفروم ناعمًا (نحو 2 عود بصل أخضر كامل)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اغسل الأرز تحت الماء البارد لإزالة النشا الزائد. في قدر صغير، اغلِ الماء ثم أضف الأرز. خفّف الحرارة إلى متوسطة واتركه يطهى على نار هادئة لمدة 6–7 دقائق. اسكبه في مصفاة فوق الحوض، وصفّه واشطفه بالماء البارد."
+     ],
+     [
+      null,
+      "أثناء طهي الأرز، افرم الفطر والثوم وضعهما جانبًا. اكسر البيض في وعاء واخلطه مع البارميزان."
+     ],
+     [
+      null,
+      "سخّن مقلاة متوسطة غير لاصقة على نار متوسطة إلى عالية لمدة دقيقة واحدة (1). أضف السمن النباتي ثم الفطر. بعد 3 دقائق، أضف الثوم. واستمر في القلي لمدة 1–2 دقيقة أخرى حتى يتحمّر الفطر."
+     ],
+     [
+      null,
+      "خفّف الحرارة إلى متوسطة إلى منخفضة، وأضف الأرز وصلصة الصويا والبصل الأخضر، وسخّنها جيدًا لمدة 1–2 دقيقة."
+     ],
+     [
+      null,
+      "اسكب البيض فوق الأرز وقلّب السطح برفق حتى يبدأ الأومليت في التماسك (1 دقيقة). غطِّ المقلاة، وأطفئ النار، واتركه بضع دقائق حتى يكتمل نضجه."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "يساعد التقليب على تماسك البيض لأنه يوزع الحرارة. لكن تجنّب الإفراط في التقليب حتى لا ينتهي بك الأمر ببيض مخفوق!"
+     ],
+     [
+      null,
+      "إذا كان لديك أرز متبقٍ في الثلاجة، فهذه الوصفة طريقة رائعة للاستفادة منه!"
+     ],
+     [
+      null,
+      "استخدم النصف المتبقي من الأومليت في شطيرة في اليوم التالي."
+     ]
+    ],
+    "food_choices": [
+     "2 لحوم",
+     "2 نشويات",
+     "1 خضار منخفضة البوتاسيوم",
+     "1 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4446690,
+  "translations": {
+   "es": {
+    "title": "Reconfortante sopa de res y cebada",
+    "description": null,
+    "portions": "12",
+    "serving_size": "1/12 de la receta (1 taza)",
+    "ingredients": [
+     [
+      null,
+      "2 cucharadas de aceite vegetal"
+     ],
+     [
+      null,
+      "1.3 libras de carne de res para guisar, en cubos"
+     ],
+     [
+      null,
+      "4 dientes de ajo picados o machacados"
+     ],
+     [
+      null,
+      "1 ½ taza de cebolla en cubitos (1 grande)"
+     ],
+     [
+      null,
+      "1 cucharadita de tomillo seco"
+     ],
+     [
+      null,
+      "½ cucharadita de semillas de apio"
+     ],
+     [
+      null,
+      "1 cucharadita de estragón"
+     ],
+     [
+      null,
+      "2 cucharadas de pimentón (paprika) húngaro"
+     ],
+     [
+      null,
+      "¾ de taza de apio picado"
+     ],
+     [
+      null,
+      "¾ de taza de zanahorias picadas"
+     ],
+     [
+      null,
+      "¾ de taza de pimientos rojos picados"
+     ],
+     [
+      null,
+      "4 tazas de caldo de res bajo en sodio*"
+     ],
+     [
+      null,
+      "1 taza de agua"
+     ],
+     [
+      null,
+      "½ taza de bulgur"
+     ],
+     [
+      null,
+      "½ taza de cebada perlada"
+     ],
+     [
+      null,
+      "¼ de taza de perejil fresco picado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Seque los cubos de carne con una toalla de papel."
+     ],
+     [
+      null,
+      "Caliente el aceite en una olla gruesa para sopa a fuego alto y dore los cubos de carne por todos lados, unos 5 minutos."
+     ],
+     [
+      null,
+      "Agregue el ajo y la cebolla y siga cocinando otros 5 minutos."
+     ],
+     [
+      null,
+      "Agregue las hierbas, las especias, las verduras, el caldo y el agua, y deje que hierva."
+     ],
+     [
+      null,
+      "Agregue el bulgur y la cebada, baje el fuego al mínimo y tape con una tapa que ajuste bien. Cocine durante aproximadamente 1 hora y 15 minutos o hasta que la carne esté tierna."
+     ],
+     [
+      null,
+      "Si usa una olla de cocción lenta, pase la carne a la olla después del paso 4. Agregue el bulgur y la cebada, seleccione la temperatura baja, tape y cocine durante 4 horas."
+     ],
+     [
+      null,
+      "Agregue ¼ de taza de perejil fresco picado al final de la cocción. ¡Buen provecho!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* Busque caldo bajo en sodio o reducido en sodio que contenga 200 mg de sodio o menos por porción de 1 taza. Evite el caldo bajo en sodio que contenga cloruro de potasio, ya que es muy alto en potasio."
+     ],
+     [
+      null,
+      "Congele la sopa sobrante en porciones para tener una comida rápida cuando tenga poco tiempo."
+     ],
+     [
+      "Consejos para comer fuera de casa cuidando sus riñones",
+      "Comer fuera debería ser un descanso de su rutina habitual. Planificar con anticipación le permite disfrutar de una comida sin estrés y, al mismo tiempo, cumplir con las metas recomendadas de su dieta renal.\n\nEntradas: Piense si realmente necesita la comida adicional. Si elige una entrada, ¿podrá pedir de todos modos el plato principal que se le antoja? Evite las entradas con salsas espesas y limite la cantidad que come.\n\nPlato principal: Al elegir su plato principal, piense en una comida balanceada. Lo ideal es que su comida incluya una porción de proteína del tamaño de la palma de su mano, con guarniciones más bajas en potasio de almidón y verduras. Pida que le sirvan las salsas aparte para evitar calorías y sal adicionales. Si no está seguro de los condimentos que se usan, pida más detalles al mesero.\n\nOpciones dulces: Si todavía no está satisfecho, casi todos los restaurantes tienen un menú de postres para tentar su paladar. Reduzca el potasio de los postres compartiéndolos con sus acompañantes. Si prefiere comerse el postre usted solo, elija sorbete o pastel de ángel con una porción de fruta fresca más baja en potasio.\n\nAlgo para beber: Cualquier tipo de sal o dulce concentrado puede indicarle a su cerebro que tiene sed. Preste atención a las bebidas del menú y elija agua, té, root beer, ginger ale o limonada casera como bebidas bajas en potasio."
+     ]
+    ],
+    "food_choices": [
+     "1 carne",
+     "1 almidón",
+     "1 verdura más alta en potasio"
+    ]
+   },
+   "ar": {
+    "title": "شوربة اللحم البقري والشعير الدافئة",
+    "description": null,
+    "portions": "12",
+    "serving_size": "1/12 الوصفة (1 كوب)",
+    "ingredients": [
+     [
+      null,
+      "2 ملعقة كبيرة زيت نباتي"
+     ],
+     [
+      null,
+      "1.3 رطل لحم بقري للطهي البطيء، مقطع مكعبات"
+     ],
+     [
+      null,
+      "4 فصوص ثوم مفرومة أو مهروسة"
+     ],
+     [
+      null,
+      "1½ كوب بصل مقطع مكعبات صغيرة (1 بصلة كبيرة)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة بذور كرفس"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة طرخون"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة بابريكا مجرية"
+     ],
+     [
+      null,
+      "¾ كوب كرفس مفروم"
+     ],
+     [
+      null,
+      "¾ كوب جزر مفروم"
+     ],
+     [
+      null,
+      "¾ كوب فلفل رومي أحمر مفروم"
+     ],
+     [
+      null,
+      "4 أكواب مرق لحم بقري قليل الصوديوم*"
+     ],
+     [
+      null,
+      "1 كوب ماء"
+     ],
+     [
+      null,
+      "½ كوب برغل"
+     ],
+     [
+      null,
+      "½ كوب شعير مقشور (لؤلؤي)"
+     ],
+     [
+      null,
+      "¼ كوب بقدونس طازج مفروم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "جفف مكعبات اللحم بمنشفة ورقية."
+     ],
+     [
+      null,
+      "سخّن الزيت في قدر شوربة ثقيل على نار عالية، وحمّر مكعبات اللحم من جميع الجهات لمدة 5 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "أضف الثوم والبصل واستمر في الطهي لمدة 5 دقائق أخرى."
+     ],
+     [
+      null,
+      "أضف الأعشاب والتوابل والخضار والمرق والماء، واتركها حتى تغلي."
+     ],
+     [
+      null,
+      "أضف البرغل والشعير، وخفّف الحرارة إلى أدنى درجة، وغطِّ القدر بغطاء محكم. اطهُ لمدة ساعة واحدة (1) و15 دقيقة تقريبًا أو حتى يطرى اللحم."
+     ],
+     [
+      null,
+      "إذا كنت تستخدم قدر الطهي البطيء، فانقل اللحم إليه بعد الخطوة 4. أضف البرغل والشعير واضبط الجهاز على الحرارة المنخفضة، وغطِّه واطهُ لمدة 4 ساعات."
+     ],
+     [
+      null,
+      "أضف ¼ كوب بقدونس طازج مفروم في نهاية وقت الطهي. بالهناء والشفاء."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* اختر مرقًا قليل الصوديوم أو مخفّض الصوديوم يحتوي على 200 ملغ صوديوم أو أقل لكل حصة من 1 كوب. وتجنّب المرق قليل الصوديوم الذي يحتوي على كلوريد البوتاسيوم، فهو مرتفع جدًا في البوتاسيوم."
+     ],
+     [
+      null,
+      "جمّد الشوربة المتبقية في حصص لتحصل على وجبة سريعة عندما يضيق وقتك!"
+     ],
+     [
+      "نصائح لتناول الطعام خارج المنزل بما يناسب مرضى الكلى",
+      "ينبغي أن يكون تناول الطعام خارج المنزل استراحة من روتينك المعتاد. ويتيح لك التخطيط المسبق الاستمتاع بتجربة طعام خالية من التوتر مع الالتزام بأهداف النظام الغذائي الموصى به لمرضى الكلى.\n\nالمقبلات: فكّر فيما إذا كنت تحتاج فعلًا إلى طعام إضافي. وإذا اخترت مقبلات، فهل ستتمكن مع ذلك من طلب الطبق الرئيسي الذي تشتهيه؟ تجنّب المقبلات ذات الصلصات الثقيلة وقلّل الكمية التي تتناولها.\n\nالطبق الرئيسي: عند اختيار طبقك الرئيسي، فكّر في مبدأ الوجبة المتوازنة. فالأمثل أن تتكون وجبتك من حصة بروتين بحجم كف اليد مع أطباق جانبية أقل في البوتاسيوم من النشويات والخضار. واطلب تقديم الصلصات على الجانب لتجنّب السعرات الحرارية والملح الإضافيين. وإذا لم تكن متأكدًا من التوابل المستخدمة، فاطلب من النادل مزيدًا من التفاصيل.\n\nالحلويات: إذا لم تكن قد شبعت بعد، فلدى معظم المطاعم تقريبًا قائمة حلويات تغري ذائقتك. قلّل البوتاسيوم في الحلويات بمشاركتها مع من يرافقك. وإذا فضّلت تناول الحلوى وحدك، فاختر السوربيه أو كعكة الملاك (Angel food cake) مع حصة من الفاكهة الطازجة الأقل في البوتاسيوم.\n\nما تشربه: يمكن لأي نوع من الملح أو الحلويات المركزة أن يرسل إلى دماغك إشارة بالعطش. انتبه إلى المشروبات المدرجة في القائمة، واختر الماء أو الشاي أو الروت بير أو الجنجر إيل أو عصير الليمون المنزلي كمشروبات منخفضة البوتاسيوم."
+     ]
+    ],
+    "food_choices": [
+     "1 لحوم",
+     "1 نشويات",
+     "1 خضار أعلى في البوتاسيوم"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4451881,
+  "translations": {
+   "es": {
+    "title": "Dip de chile y limón con pan pita tostado",
+    "description": null,
+    "portions": "3/4 de taza",
+    "serving_size": "2 totopos de pita con 2 onzas de dip",
+    "ingredients": [
+     [
+      "Dip",
+      "1/2 taza de tofu sedoso (Silken tofu™)"
+     ],
+     [
+      "Dip",
+      "2 cucharadas de mayonesa"
+     ],
+     [
+      "Dip",
+      "1/2 taza de pimientos rojos asados de frasco"
+     ],
+     [
+      "Dip",
+      "1 cucharadita de chile en polvo"
+     ],
+     [
+      "Dip",
+      "1 cucharadita de cebolla en polvo"
+     ],
+     [
+      "Dip",
+      "1 1/2 cucharadas de jugo de limón verde"
+     ],
+     [
+      "Dip",
+      "3 cucharadas de cilantro fresco picado (puede sustituirse por eneldo o perejil frescos)"
+     ],
+     [
+      "Totopos de pita",
+      "4 panes pita griegos grandes, sencillos, de harina blanca (de 6 1/2 pulgadas de diámetro)"
+     ],
+     [
+      "Totopos de pita",
+      "3 cucharadas de aceite de oliva"
+     ],
+     [
+      "Totopos de pita",
+      "1 diente de ajo machacado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno convencional a 300 °F."
+     ],
+     [
+      null,
+      "Para el dip, coloque todos los ingredientes en una licuadora o procesador de alimentos y licúe hasta obtener una mezcla homogénea, unos 30 segundos."
+     ],
+     [
+      null,
+      "Pase a un tazón pequeño, tape y refrigere durante un mínimo de 30 minutos."
+     ],
+     [
+      null,
+      "Mezcle el aceite de oliva con el ajo y unte los panes pita con la mezcla usando una brocha."
+     ],
+     [
+      null,
+      "Corte cada pan pita en 8 triángulos, colóquelos en una bandeja para hornear y tuéstelos durante 20 minutos o hasta que estén crujientes, pero sin dorarse."
+     ],
+     [
+      null,
+      "Acomode el dip y los totopos de pita en un plato y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "El dip combina bien con verduras crudas o como aderezo para untar en sándwiches con carne."
+     ],
+     [
+      null,
+      "Puede guardar los triángulos de pita en una lata hasta por una semana."
+     ]
+    ],
+    "food_choices": [
+     "1 almidón",
+     "1 grasa"
+    ]
+   },
+   "ar": {
+    "title": "غموس الفلفل الحار والليمون الأخضر مع خبز البيتا المحمص",
+    "description": null,
+    "portions": "¾ كوب",
+    "serving_size": "2 رقاقة بيتا مع 2 أونصة غموس",
+    "ingredients": [
+     [
+      "الغموس",
+      "½ كوب توفو حريري (Silken tofu™)"
+     ],
+     [
+      "الغموس",
+      "2 ملعقة كبيرة مايونيز"
+     ],
+     [
+      "الغموس",
+      "½ كوب فلفل رومي أحمر مشوي من برطمان"
+     ],
+     [
+      "الغموس",
+      "1 ملعقة صغيرة مسحوق الفلفل الحار (تشيلي)"
+     ],
+     [
+      "الغموس",
+      "1 ملعقة صغيرة بصل بودرة"
+     ],
+     [
+      "الغموس",
+      "1½ ملعقة كبيرة عصير ليمون أخضر (لايم)"
+     ],
+     [
+      "الغموس",
+      "3 ملاعق كبيرة كزبرة خضراء طازجة مفرومة (يمكن استبدالها بالشبت أو البقدونس الطازج)"
+     ],
+     [
+      "رقائق البيتا",
+      "4 أرغفة بيتا يونانية كبيرة سادة من الدقيق الأبيض (قطرها 6½ بوصة)"
+     ],
+     [
+      "رقائق البيتا",
+      "3 ملاعق كبيرة زيت زيتون"
+     ],
+     [
+      "رقائق البيتا",
+      "1 فص ثوم مهروس"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن التقليدي مسبقًا على 300° فهرنهايت (150° مئوية)."
+     ],
+     [
+      null,
+      "لتحضير الغموس، ضع جميع مكوناته في الخلاط أو محضرة الطعام واخلطها حتى يصبح المزيج ناعمًا، لمدة 30 ثانية تقريبًا."
+     ],
+     [
+      null,
+      "انقله إلى وعاء صغير، وغطّه وبرّده في الثلاجة لمدة 30 دقيقة على الأقل."
+     ],
+     [
+      null,
+      "اخلط زيت الزيتون مع الثوم وادهن به أرغفة البيتا بالفرشاة."
+     ],
+     [
+      null,
+      "قطّع كل رغيف بيتا إلى 8 مثلثات، ثم ضعها على صينية خبز وحمّصها لمدة 20 دقيقة أو حتى تصبح مقرمشة دون أن تتحمّر."
+     ],
+     [
+      null,
+      "رتّب الغموس ورقائق البيتا في طبق وقدّمها."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "يتناسب هذا الغموس مع الخضار النيئة، أو يمكن استخدامه كدهان للشطائر مع اللحم."
+     ],
+     [
+      null,
+      "يمكنك حفظ مثلثات البيتا في علبة معدنية لمدة تصل إلى أسبوع."
+     ]
+    ],
+    "food_choices": [
+     "1 نشويات",
+     "1 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4457544,
+  "translations": {
+   "es": {
+    "title": "Sopa de res y cebada",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "600 g de carne de res para guisar, en cubos (de 3/4 de pulgada)"
+     ],
+     [
+      null,
+      "4 dientes de ajo picados finamente o machacados"
+     ],
+     [
+      null,
+      "1 1/2 taza de cebolla en cubitos (1 grande)"
+     ],
+     [
+      null,
+      "2 cucharadas de aceite vegetal"
+     ],
+     [
+      null,
+      "1 cucharadita de tomillo seco"
+     ],
+     [
+      null,
+      "1/2 cucharadita de semillas de apio (no sal de apio)"
+     ],
+     [
+      null,
+      "1 cucharadita de estragón"
+     ],
+     [
+      null,
+      "2 cucharadas de pimentón (paprika) húngaro"
+     ],
+     [
+      null,
+      "3 tazas de mezcla de verduras congeladas y picadas tipo «spaghetti mix»"
+     ],
+     [
+      null,
+      "4 tazas de caldo de res bajo en sodio"
+     ],
+     [
+      null,
+      "1 taza de agua"
+     ],
+     [
+      null,
+      "1/2 taza de bulgur"
+     ],
+     [
+      null,
+      "1/2 taza de cebada perlada"
+     ],
+     [
+      null,
+      "1/4 de taza de perejil fresco picado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "1. Seque con cuidado los cubos de carne con una toalla de papel."
+     ],
+     [
+      null,
+      "2. Caliente a fuego alto una olla gruesa para sopa de 4 cuartos de galón, agregue el aceite y luego la carne, y dórela bien por todos lados, unos 5 minutos."
+     ],
+     [
+      null,
+      "3. Agregue la cebolla y el ajo y siga cocinando otros 5 minutos."
+     ],
+     [
+      null,
+      "4. Agregue las hierbas, las especias y la mezcla de verduras, luego el caldo y el agua, y deje que hierva."
+     ],
+     [
+      null,
+      "5. Agregue el bulgur y la cebada, baje el fuego al mínimo y tape con una tapa que ajuste bien. Cocine durante aproximadamente 1 hora y 15 minutos (hasta que la carne esté tierna)."
+     ],
+     [
+      null,
+      "6. Si usa una olla de cocción lenta, pase la carne a la olla después del paso 3. Agregue todos los ingredientes, seleccione la temperatura baja, tape y cocine durante 4 horas."
+     ],
+     [
+      null,
+      "7. Para un toque final perfecto, agregue 1/4 de taza de perejil fresco picado al final de la cocción."
+     ],
+     [
+      null,
+      "¡Buen provecho!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شوربة اللحم البقري والشعير",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "600 غرام لحم بقري للطهي البطيء مقطع مكعبات (مكعبات بحجم ¾ بوصة)"
+     ],
+     [
+      null,
+      "4 فصوص ثوم مفرومة ناعمًا أو مهروسة"
+     ],
+     [
+      null,
+      "1½ كوب بصل مقطع مكعبات صغيرة (1 بصلة كبيرة)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة زيت نباتي"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة بذور كرفس (وليس ملح الكرفس)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة طرخون"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة بابريكا مجرية"
+     ],
+     [
+      null,
+      "3 أكواب خليط خضار مجمد ومفروم من نوع «سباغيتي ميكس»"
+     ],
+     [
+      null,
+      "4 أكواب مرق لحم بقري قليل الصوديوم"
+     ],
+     [
+      null,
+      "1 كوب ماء"
+     ],
+     [
+      null,
+      "½ كوب برغل"
+     ],
+     [
+      null,
+      "½ كوب شعير مقشور (لؤلؤي)"
+     ],
+     [
+      null,
+      "¼ كوب بقدونس طازج مفروم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "1. جفف مكعبات اللحم برفق بمنشفة ورقية."
+     ],
+     [
+      null,
+      "2. سخّن قدر شوربة ثقيلًا سعة 4 كوارت على نار عالية، وأضف الزيت ثم اللحم، وحمّره جيدًا من جميع الجهات لمدة 5 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "3. أضف البصل والثوم واستمر في الطهي لمدة 5 دقائق أخرى."
+     ],
+     [
+      null,
+      "4. أضف الأعشاب والتوابل وخليط الخضار، ثم المرق والماء، واتركها حتى تغلي."
+     ],
+     [
+      null,
+      "5. أضف البرغل والشعير، وخفّف الحرارة إلى أدنى درجة، وغطِّ القدر بغطاء محكم. اطهُ لمدة ساعة واحدة (1) و15 دقيقة تقريبًا (حتى يطرى اللحم)."
+     ],
+     [
+      null,
+      "6. إذا كنت تستخدم قدر الطهي البطيء، فانقل اللحم إليه بعد الخطوة 3. أضف جميع المكونات واضبط الجهاز على الحرارة المنخفضة، وغطِّه واطهُ لمدة 4 ساعات."
+     ],
+     [
+      null,
+      "7. للحصول على لمسة نهائية مثالية، أضف ¼ كوب بقدونس طازج مفروم في نهاية وقت الطهي."
+     ],
+     [
+      null,
+      "بالهناء والشفاء."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 4469334,
+  "translations": {
+   "es": {
+    "title": "Asado de res en olla de cocción lenta",
+    "description": null,
+    "portions": "8",
+    "serving_size": "1/8 de la receta",
+    "ingredients": [
+     [
+      null,
+      "4 chalotes enteros, pelados y cortados por la mitad"
+     ],
+     [
+      null,
+      "1 taza de champiñones blancos pequeños, cortados por la mitad"
+     ],
+     [
+      null,
+      "1/2 taza de caldo de res sin sal agregada*"
+     ],
+     [
+      null,
+      "2 cucharadas de fécula de maíz"
+     ],
+     [
+      null,
+      "1/2 cucharadita de romero seco"
+     ],
+     [
+      null,
+      "1/2 cucharadita de tomillo seco"
+     ],
+     [
+      null,
+      "1/2 cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra molida"
+     ],
+     [
+      null,
+      "2 libras de asado de paleta de res (chuck roast)"
+     ],
+     [
+      null,
+      "2 tazas de ejotes (judías verdes) congelados"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ajuste la olla de cocción lenta** a temperatura BAJA (LOW)."
+     ],
+     [
+      null,
+      "Coloque los chalotes y los champiñones en el fondo de la olla. Mezcle el caldo de res con la fécula de maíz y vierta la mezcla sobre las verduras."
+     ],
+     [
+      null,
+      "Mezcle el romero, el tomillo, el ajo en polvo y la pimienta, y frote el asado con esta mezcla. Coloque el asado sobre las verduras y cierre la tapa."
+     ],
+     [
+      null,
+      "Después de 7 1/2 horas, compruebe la cocción. El asado debe estar tan tierno que se deshaga con un tenedor."
+     ],
+     [
+      null,
+      "Agregue los ejotes a la olla y siga cocinando 30 minutos más."
+     ],
+     [
+      null,
+      "Sirva el asado con fideos o arroz."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* Elija el caldo con el menor contenido de sodio, pero tenga en cuenta que los productos bajos en sodio con frecuencia contienen más potasio. Busque cloruro de potasio en la lista de ingredientes de la etiqueta. Puede sustituir el caldo de res por agua, vino o una combinación de ambos."
+     ],
+     [
+      null,
+      "** Si usa el horno: seleccione 350 °F y ase en una cacerola de hierro fundido (Dutch oven) u olla gruesa durante 3 horas (tapada)."
+     ]
+    ],
+    "food_choices": [
+     "3 carne",
+     "2 verdura"
+    ]
+   },
+   "ar": {
+    "title": "لحم مشوي في قدر الطهي البطيء",
+    "description": null,
+    "portions": "8",
+    "serving_size": "⅛ الوصفة",
+    "ingredients": [
+     [
+      null,
+      "4 حبات كراث أندلسي (شالوت) كاملة، مقشرة ومقطعة إلى نصفين"
+     ],
+     [
+      null,
+      "1 كوب فطر أبيض صغير (فطر الزر)، مقطع إلى نصفين"
+     ],
+     [
+      null,
+      "½ كوب مرق لحم بقري بدون ملح مضاف*"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة نشا الذرة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة إكليل الجبل (روزماري) مجفف"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ثوم بودرة"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود مطحون"
+     ],
+     [
+      null,
+      "2 رطل لحم كتف بقري للشوي"
+     ],
+     [
+      null,
+      "2 كوب فاصوليا خضراء مجمدة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اضبط قدر الطهي البطيء** على الحرارة المنخفضة (LOW)."
+     ],
+     [
+      null,
+      "ضع الشالوت والفطر في قاع قدر الطهي البطيء. اخلط مرق اللحم مع نشا الذرة واسكب الخليط فوق الخضار."
+     ],
+     [
+      null,
+      "اخلط إكليل الجبل والزعتر والثوم البودرة والفلفل، وافرك قطعة اللحم بهذا الخليط. ضع اللحم فوق الخضار وأغلق الغطاء."
+     ],
+     [
+      null,
+      "بعد 7½ ساعة، تحقق من نضج اللحم. يجب أن يكون طريًا بحيث تخترقه الشوكة بسهولة."
+     ],
+     [
+      null,
+      "أضف الفاصوليا الخضراء إلى قدر الطهي البطيء واستمر في الطهي لمدة 30 دقيقة إضافية."
+     ],
+     [
+      null,
+      "قدّم اللحم المشوي مع المعكرونة أو الأرز."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* اختر المرق الأقل محتوى من الصوديوم، لكن انتبه إلى أن المنتجات قليلة الصوديوم تحتوي غالبًا على مزيد من البوتاسيوم. ابحث عن كلوريد البوتاسيوم في قائمة المكونات على الملصق. يمكنك استبدال مرق اللحم بالماء أو النبيذ أو بمزيج منهما."
+     ],
+     [
+      null,
+      "** في حال استخدام الفرن: اضبطه على 350° فهرنهايت (175° مئوية) واشوِ اللحم في قدر حديدي (Dutch oven) أو قدر ثقيل لمدة 3 ساعات (مغطى)."
+     ]
+    ],
+    "food_choices": [
+     "3 لحوم",
+     "2 خضار"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4471551,
+  "translations": {
+   "es": {
+    "title": "Res salteada con salsa cremosa de champiñones y chalotes",
+    "description": null,
+    "portions": null,
+    "serving_size": "3 onzas de carne de res, 2 cucharadas de salsa de champiñones y chalotes, 1 taza de pasta",
+    "ingredients": [
+     [
+      null,
+      "¾ de libra de punta de bola de res (round tip) en rebanadas finas"
+     ],
+     [
+      null,
+      "¼ de taza (o aproximadamente 3 grandes) de chalotes rebanados"
+     ],
+     [
+      null,
+      "½ taza de champiñones blancos"
+     ],
+     [
+      null,
+      "½ taza de hongos shiitake"
+     ],
+     [
+      null,
+      "½ taza de crema agria light"
+     ],
+     [
+      null,
+      "2 cucharadas de harina"
+     ],
+     [
+      null,
+      "¼ de taza de aceite de canola"
+     ],
+     [
+      null,
+      "¼ de taza de agua"
+     ],
+     [
+      null,
+      "¼ de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 cucharadita de ajo granulado"
+     ],
+     [
+      null,
+      "1 cucharadita de cebolla en polvo"
+     ],
+     [
+      null,
+      "4 tazas de pasta pappardelle cocida y escurrida"
+     ],
+     [
+      null,
+      "Opcional: un chorrito de vinagre de malta o vinagre de vino tinto"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Corte la carne en rebanadas finas y revuélvala con la harina."
+     ],
+     [
+      null,
+      "Rebane finamente los chalotes y resérvelos."
+     ],
+     [
+      null,
+      "Si no tiene champiñones ya rebanados, rebánelos en un grosor mediano."
+     ],
+     [
+      null,
+      "En una sartén antiadherente mediana o grande, caliente 2 cucharadas de aceite a fuego medio-alto."
+     ],
+     [
+      null,
+      "Coloque con cuidado las rebanadas de carne en la sartén con el aceite caliente, sin amontonarlas, y dórelas ligeramente durante unos 5-8 minutos."
+     ],
+     [
+      null,
+      "Retire la carne de la sartén y resérvela."
+     ],
+     [
+      null,
+      "Agregue las 2 cucharadas restantes de aceite y saltee los champiñones y los chalotes durante 3-5 minutos, hasta que estén translúcidos y ligeramente dorados."
+     ],
+     [
+      null,
+      "Regrese la carne a la sartén y saltéela con la mezcla de champiñones y chalotes."
+     ],
+     [
+      null,
+      "Agregue el ajo y la cebolla en polvo y revuelva durante 2-3 minutos."
+     ],
+     [
+      null,
+      "Agregue ¼ de taza de agua y revuelva."
+     ],
+     [
+      null,
+      "Apague el fuego y agregue la pimienta y la crema agria."
+     ],
+     [
+      null,
+      "Revuelva suavemente."
+     ],
+     [
+      null,
+      "Coloque los fideos en una fuente para servir y cúbralos con la mezcla de carne."
+     ],
+     [
+      null,
+      "Decore con cebollitas verdes o cebollín y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Los valores nutricionales son la suma de los análisis individuales de cada componente."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "لحم بقري سوتيه مع صلصة كريمية بالفطر والشالوت",
+    "description": null,
+    "portions": null,
+    "serving_size": "3 أونصات لحم بقري، و2 ملعقة كبيرة صلصة الفطر والشالوت، و1 كوب معكرونة",
+    "ingredients": [
+     [
+      null,
+      "¾ رطل لحم بقري من طرف الفخذ (round tip) مقطع إلى شرائح رفيعة"
+     ],
+     [
+      null,
+      "¼ كوب (أو نحو 3 حبات كبيرة) شالوت مقطع إلى شرائح"
+     ],
+     [
+      null,
+      "½ كوب فطر أبيض (فطر الزر)"
+     ],
+     [
+      null,
+      "½ كوب فطر شيتاكي"
+     ],
+     [
+      null,
+      "½ كوب قشدة حامضة خفيفة"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة دقيق"
+     ],
+     [
+      null,
+      "¼ كوب زيت كانولا"
+     ],
+     [
+      null,
+      "¼ كوب ماء"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة ثوم محبب"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بصل بودرة"
+     ],
+     [
+      null,
+      "4 أكواب معكرونة بابارديلي مطهوة ومصفّاة"
+     ],
+     [
+      null,
+      "اختياري: رشة من خل الشعير (المالت) أو خل النبيذ الأحمر"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قطّع اللحم إلى شرائح رفيعة وقلّبه في الدقيق."
+     ],
+     [
+      null,
+      "قطّع الشالوت إلى شرائح رفيعة وضعه جانبًا."
+     ],
+     [
+      null,
+      "إذا لم يكن لديك فطر مقطع مسبقًا، فقطّعه إلى شرائح متوسطة السماكة."
+     ],
+     [
+      null,
+      "في مقلاة متوسطة أو كبيرة غير لاصقة، سخّن 2 ملعقة كبيرة من الزيت على نار متوسطة إلى عالية."
+     ],
+     [
+      null,
+      "ضع شرائح اللحم بحذر في المقلاة مع الزيت الساخن دون تكديسها، وحمّرها قليلًا لمدة 5-8 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "ارفع اللحم من المقلاة وضعه جانبًا."
+     ],
+     [
+      null,
+      "أضف الملعقتين الكبيرتين (2) المتبقيتين من الزيت، وقلّب الفطر والشالوت لمدة 3-5 دقائق حتى يصبحا شفافين ويتحمّرا قليلًا."
+     ],
+     [
+      null,
+      "أعد اللحم إلى المقلاة وقلّبه مع خليط الفطر والشالوت."
+     ],
+     [
+      null,
+      "أضف الثوم والبصل البودرة وقلّب الجميع لمدة 2-3 دقائق."
+     ],
+     [
+      null,
+      "أضف ¼ كوب ماء وقلّب."
+     ],
+     [
+      null,
+      "أطفئ النار وأضف الفلفل والقشدة الحامضة."
+     ],
+     [
+      null,
+      "قلّب برفق."
+     ],
+     [
+      null,
+      "ضع المعكرونة في طبق تقديم وغطّها بخليط اللحم."
+     ],
+     [
+      null,
+      "زيّن بالبصل الأخضر أو الثوم المعمّر وقدّم."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "القيم الغذائية هي مجموع التحاليل المنفصلة لكل مكوّن."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ }
+]

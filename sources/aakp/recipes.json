@@ -157,7 +157,7 @@
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed1-anytime-muffins.jpg",
-  "portions": null,
+  "portions": "24 muffins",
   "serving_size": "1 Muffin",
   "category": "Breads",
   "diet": [
@@ -411,15 +411,13 @@
   "image_path": "sources/aakp/images/ed1-chili-lime-dip-with-toasted-pitas.jpg",
   "portions": "3/4 cup",
   "serving_size": "2 Chips with 2 oz Dip",
-  "category": "Soups & Stews",
+  "category": "Appetizers & Snacks",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
    "Diabetes"
   ],
-  "dish": [
-   "Stew"
-  ],
+  "dish": [],
   "cuisine": [],
   "method": [
    "Bake",
@@ -535,7 +533,7 @@
   "source_id": "ed1-cinnamon-almond-nepro-smoothie",
   "url": "https://aakp.org/wp-content/uploads/2022/07/AAKP-Cinnamon-Almond-Nepro-Smoothie-WEB.pdf",
   "lang": "en",
-  "title": "Cinnamon- Almond Nepro Smoothie",
+  "title": "Cinnamon-Almond Nepro Smoothie",
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed1-cinnamon-almond-nepro-smoothie.jpg",
@@ -1289,7 +1287,7 @@
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed1-fantastically-fluffy-pancakes-and-waffles.jpg",
-  "portions": null,
+  "portions": "6 pancake servings or 5 waffle servings",
   "serving_size": "2 Pancakes or 2 Waffles",
   "category": "Breakfast & Brunch",
   "diet": [
@@ -1717,7 +1715,7 @@
   "image_path": "sources/aakp/images/ed1-heavenly-zucchini-pineapple-loaf.jpg",
   "portions": "24",
   "serving_size": "1/24 of recipe",
-  "category": "Vegetables",
+  "category": "Breads",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -1844,11 +1842,11 @@
   "source_id": "ed1-honey-ginger-crackles",
   "url": "https://aakp.org/wp-content/uploads/2022/07/AAKP-Honey-Ginger-Crackles-WEB.pdf",
   "lang": "en",
-  "title": "Honey- Ginger Crackles",
+  "title": "Honey-Ginger Crackles",
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed1-honey-ginger-crackles.jpg",
-  "portions": null,
+  "portions": "2 1/2 dozen cookies",
   "serving_size": "1 Cookie",
   "category": "Desserts",
   "diet": [
@@ -2100,7 +2098,7 @@
   "image_path": "sources/aakp/images/ed1-mini-shrimp-tacos-with-corn-salsa.jpg",
   "portions": "4",
   "serving_size": "3 Mini-cups",
-  "category": "Sauces & Seasonings",
+  "category": "Fish & Seafood",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -2644,7 +2642,7 @@
   "image_path": "sources/aakp/images/ed1-onion-and-noodle-pie.jpg",
   "portions": "6",
   "serving_size": "1/6 of recipe",
-  "category": "Desserts",
+  "category": "Pasta, Rice & Grains",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -4929,9 +4927,7 @@
   "dish": [
    "5 or less ingredients"
   ],
-  "cuisine": [
-   "French"
-  ],
+  "cuisine": [],
   "method": [
    "Bake",
    "Oven"
@@ -5138,13 +5134,13 @@
  {
   "source": "aakp",
   "source_name": "AAKP",
-  "source_id": "ed2-frittata-primaver-a",
+  "source_id": "ed2-frittata-primavera",
   "url": "https://aakp.org/wp-content/uploads/2022/07/AAKP-Frittata-Primavera-WEB.pdf",
   "lang": "en",
-  "title": "Frittata Primaver a",
+  "title": "Frittata Primavera",
   "description": null,
   "image_url": null,
-  "image_path": "sources/aakp/images/ed2-frittata-primaver-a.jpg",
+  "image_path": "sources/aakp/images/ed2-frittata-primavera.jpg",
   "portions": "4",
   "serving_size": "1/4 of recipe",
   "category": "Breakfast & Brunch",
@@ -5803,7 +5799,7 @@
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed2-marinara-meatballs.jpg",
-  "portions": null,
+  "portions": "8 servings or 24 meatballs",
   "serving_size": "3 Meatballs and 1/8 of Sauce",
   "category": "Beef, Lamb & Pork",
   "diet": [
@@ -6217,7 +6213,7 @@
   "image_path": "sources/aakp/images/ed2-spicy-porcini-mushroom-pasta.jpg",
   "portions": "6",
   "serving_size": "1/6 of recipe",
-  "category": "Vegetables",
+  "category": "Pasta, Rice & Grains",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -6756,7 +6752,7 @@
   "image_path": "sources/aakp/images/ed3-chicken-pot-pie.jpg",
   "portions": "6",
   "serving_size": "1/6 of recipe",
-  "category": "Desserts",
+  "category": "Chicken & Turkey",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -7093,7 +7089,7 @@
   "image_path": "sources/aakp/images/ed3-cranberry-crumble-coffee-cake.jpg",
   "portions": "12",
   "serving_size": "1/12 of reci pe",
-  "category": "Beverages",
+  "category": "Desserts",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -8152,7 +8148,7 @@
   "image_path": "sources/aakp/images/ed3-shepherd-s-pie.jpg",
   "portions": "6",
   "serving_size": "1/6 of recipe",
-  "category": "Desserts",
+  "category": "Beef, Lamb & Pork",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -10332,7 +10328,7 @@
   "image_path": "sources/aakp/images/ed4-festive-turkey-breast-with-apple-onion-chutney.jpg",
   "portions": "10",
   "serving_size": "1/10 of recipe",
-  "category": "Sauces & Seasonings",
+  "category": "Chicken & Turkey",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -10452,14 +10448,12 @@
   "image_path": "sources/aakp/images/ed4-fish-cakes-with-corn-remoulade.jpg",
   "portions": "4",
   "serving_size": "2 Fish Cakes",
-  "category": "Desserts",
+  "category": "Fish & Seafood",
   "diet": [
    "Dialysis",
    "Diabetes"
   ],
-  "dish": [
-   "Cake"
-  ],
+  "dish": [],
   "cuisine": [],
   "method": [
    "Bake",
@@ -10608,7 +10602,7 @@
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed4-fresh-berry-cream-puffs.jpg",
-  "portions": null,
+  "portions": "18 puffs",
   "serving_size": "2 Cream Puffs",
   "category": "Desserts",
   "diet": [
@@ -11107,9 +11101,7 @@
    "Dialysis",
    "Diabetes"
   ],
-  "dish": [
-   "Bread"
-  ],
+  "dish": [],
   "cuisine": [],
   "method": [
    "Bake",
@@ -11361,7 +11353,7 @@
   "source_id": "ed4-no-bake-mini-key-lime-pies",
   "url": "https://aakp.org/wp-content/uploads/2022/07/36-Key-Lime-pies-04.pdf",
   "lang": "en",
-  "title": "No-Bake Mini Key Lime Pies",
+  "title": "No-bake Mini Key Lime Pies",
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed4-no-bake-mini-key-lime-pies.jpg",
@@ -11373,7 +11365,9 @@
    "Dialysis",
    "Diabetes"
   ],
-  "dish": [],
+  "dish": [
+   "Pie"
+  ],
   "cuisine": [],
   "method": [
    "Bake"
@@ -12197,7 +12191,7 @@
   "image_path": "sources/aakp/images/ed4-savory-winter-meat-pie.jpg",
   "portions": "8",
   "serving_size": "1/8 of recipe",
-  "category": "Desserts",
+  "category": "Chicken & Turkey",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -13900,7 +13894,7 @@
   "hints": [
    [
     null,
-    "* Count carbohydrates from smoothies as part"
+    "* Count carbohydrates from smoothies as part of total carbohydrate meal or snack goals"
    ],
    [
     "Protein powder in smoothies or snacks",
@@ -13930,7 +13924,7 @@
   "image_path": "sources/aakp/images/ed5-caribbean-chicken-wings.jpg",
   "portions": "4",
   "serving_size": "4 chicken wings",
-  "category": "Vegetables",
+  "category": "Chicken & Turkey",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
@@ -14191,7 +14185,7 @@
   "hints": [
    [
     null,
-    "* The numbers in brackets"
+    "* The numbers in brackets show the amounts when cake is prepared with 2 cups of sugar instead of sugar substitute."
    ],
    [
     "The role of sugar in baking",
@@ -14508,15 +14502,13 @@
   "image_path": "sources/aakp/images/ed5-chili-lime-dip-with-toasted-pitas.jpg",
   "portions": "8",
   "serving_size": "4 Chips + 1½ tbsp Dip",
-  "category": "Soups & Stews",
+  "category": "Appetizers & Snacks",
   "diet": [
    "CKD non-dialysis",
    "Dialysis",
    "Diabetes"
   ],
-  "dish": [
-   "Stew"
-  ],
+  "dish": [],
   "cuisine": [],
   "method": [
    "Bake",
@@ -14936,7 +14928,7 @@
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed5-fantastically-fluffy-pancakes-and-waffles.jpg",
-  "portions": null,
+  "portions": "12 pancakes or 10 waffles",
   "serving_size": "2 Pancakes or 2 Waffles",
   "category": "Breakfast & Brunch",
   "diet": [
@@ -15165,13 +15157,13 @@
  {
   "source": "aakp",
   "source_name": "AAKP",
-  "source_id": "ed5-goat-cheese-rotini-primaver-a",
+  "source_id": "ed5-goat-cheese-rotini-primavera",
   "url": "https://aakp.org/wp-content/uploads/2022/06/13-Goat-Cheese-Rotini-Primavera.pdf",
   "lang": "en",
-  "title": "Goat Cheese Rotini Primaver a",
+  "title": "Goat Cheese Rotini Primavera",
   "description": null,
   "image_url": null,
-  "image_path": "sources/aakp/images/ed5-goat-cheese-rotini-primaver-a.jpg",
+  "image_path": "sources/aakp/images/ed5-goat-cheese-rotini-primavera.jpg",
   "portions": "4",
   "serving_size": "¼ of recipe",
   "category": "Pasta, Rice & Grains",
@@ -17542,7 +17534,6 @@
   ],
   "dish": [],
   "cuisine": [
-   "Indian",
    "Asian"
   ],
   "method": [
@@ -19244,7 +19235,7 @@
   "source_id": "ed6-pineapple-beef-stir-fry",
   "url": "https://aakp.org/wp-content/uploads/2022/04/6-EBMed-RecipeCard-Pineapple-Beef-F.pdf",
   "lang": "en",
-  "title": "Pineapple Beef Stir-Fry",
+  "title": "Pineapple Beef Stir-fry",
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed6-pineapple-beef-stir-fry.jpg",
@@ -21923,7 +21914,7 @@
   "source_id": "ed8-sweet-and-sour-coleslaw",
   "url": "https://aakp.org/wp-content/uploads/2025/03/06-SWEET-AND-SOUR-COLESLAW-WEB-1.pdf",
   "lang": "en",
-  "title": "Sweet and Sour Coleslaw",
+  "title": "Sweet And Sour Coleslaw",
   "description": null,
   "image_url": null,
   "image_path": "sources/aakp/images/ed8-sweet-and-sour-coleslaw.jpg",
@@ -24483,7 +24474,7 @@
   "title": "Atol de Maiz",
   "description": "A Mexican Corn Drink",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-atol-de-maiz.jp2",
+  "image_path": null,
   "portions": "4",
   "serving_size": null,
   "category": "Beverages",
@@ -24579,7 +24570,7 @@
   "title": "Spicy Chicken Dip",
   "description": "Perfect for Game Day",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-spicy-chicken-dip.jp2",
+  "image_path": null,
   "portions": "18",
   "serving_size": null,
   "category": "Appetizers & Snacks",
@@ -24690,7 +24681,7 @@
   "title": "Momos",
   "description": "Nepalese/Tibetan Dumplings",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-momos.jp2",
+  "image_path": null,
   "portions": "40 dumplings",
   "serving_size": "4 dumplings",
   "category": "Appetizers & Snacks",
@@ -24808,7 +24799,7 @@
   "title": "Chicken Tacos",
   "description": "A South American classic",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-chicken-tacos.jp2",
+  "image_path": null,
   "portions": "4",
   "serving_size": null,
   "category": "Chicken & Turkey",
@@ -24916,7 +24907,7 @@
   "title": "Low-Sodium Fish Fry",
   "description": "A Southern Favorite",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-low-sodium-fish-fry.jp2",
+  "image_path": null,
   "portions": "2",
   "serving_size": null,
   "category": "Fish & Seafood",
@@ -25007,7 +24998,7 @@
   "title": "Rice Pulao",
   "description": "A rice and vegetable dish from India",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-rice-pulao.jp2",
+  "image_path": null,
   "portions": "8",
   "serving_size": null,
   "category": "Pasta, Rice & Grains",
@@ -25107,7 +25098,7 @@
   "title": "Low-Phosphorus Pizza",
   "description": "Kid and Kidney Friendly",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-low-phosphorus-pizza.jp2",
+  "image_path": null,
   "portions": "4",
   "serving_size": null,
   "category": "Pizza & Sandwiches",
@@ -25191,7 +25182,7 @@
   "title": "Easy Summer Pasta",
   "description": "Light and Healthy",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-easy-summer-pasta.jp2",
+  "image_path": null,
   "portions": "4",
   "serving_size": null,
   "category": "Pasta, Rice & Grains",
@@ -25287,7 +25278,7 @@
   "title": "Pollo Chiflado",
   "description": "This dish from Panama translates to “Crazy Chicken”",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-pollo-chiflado.jp2",
+  "image_path": null,
   "portions": "6",
   "serving_size": null,
   "category": "Chicken & Turkey",
@@ -25665,7 +25656,7 @@
   "title": "Peas and Rice",
   "description": "Bahamian Style",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-peas-and-rice.jp2",
+  "image_path": null,
   "portions": "8",
   "serving_size": null,
   "category": "Pasta, Rice & Grains",
@@ -25989,7 +25980,7 @@
   "title": "Rainbow Crispy Treats",
   "description": "Fun and Colorful",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-rainbow-crispy-treats.jp2",
+  "image_path": null,
   "portions": "12 squares",
   "serving_size": null,
   "category": "Desserts",
@@ -26085,7 +26076,7 @@
   "title": "Lemon Almond Cheesecake",
   "description": "A Holiday Favorite",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-lemon-almond-cheesecake.jp2",
+  "image_path": null,
   "portions": "15",
   "serving_size": null,
   "category": "Desserts",
@@ -26212,7 +26203,7 @@
   "title": "Grandma’s Blueberry Cupcakes",
   "description": "A Family Tradition",
   "image_url": null,
-  "image_path": "sources/aakp/images/childrens-national-grandma-s-blueberry-cupcakes.jp2",
+  "image_path": null,
   "portions": "18",
   "serving_size": null,
   "category": "Desserts",
@@ -26563,12 +26554,7 @@
     "Preheat oven to 425°F. In large bowl combine all dry ingredients. Cut in butter with a fork or pastry cutter until pea-size or smaller. Make a well in center of mix and knead in milk with fingers. Just before pressing into a dough ball, lightly fold in the filling. Bake at 425°F for 10-12 minutes, or until golden brown."
    ]
   ],
-  "hints": [
-   [
-    null,
-    "Fresenius Medical Care is sponsoring Chef Aaron McCargo, Jr., star of the Food Network show “Big Daddy’s House,” who brings his passion for big, bold flavors and fun family cooking to dialysis patients as part of its Healthy Lifestyles initiative."
-   ]
-  ],
+  "hints": [],
   "food_choices": [],
   "carb_choices": null,
   "video_url": null,
@@ -26650,12 +26636,7 @@
     "Poach the salmon in 2 cups water and 1 teaspoon smoked paprika for 4-6 minutes on medium-high heat, covered (do not boil). Remove and chill for at least 30 minutes. Mix all other ingredients together until smooth. Break salmon into bite size pieces and fold into cream cheese mixture. Chill for 20-30 minutes then serve with celery sticks, corn chips, and carrots or rolled in a leaf of iceberg lettuce."
    ]
   ],
-  "hints": [
-   [
-    null,
-    "Fresenius Medical Care is sponsoring Chef Aaron McCargo, Jr., star of the Food Network show “Big Daddy’s House,” who brings his passion for big, bold flavors and fun family cooking to dialysis patients as part of its Healthy Lifestyles initiative."
-   ]
-  ],
+  "hints": [],
   "food_choices": [],
   "carb_choices": null,
   "video_url": null,
@@ -26675,8 +26656,8 @@
   "image_url": "https://aakp.org/wp-content/uploads/2016/12/sauteed-beef-cream-mushroom-shallot-sauce-recipe-health-spry_ebef6a9aa0b6657bb044673a23150fa8.jpg",
   "image_path": "sources/aakp/images/sauteed-beef-creamy-mushroom-shallot-sauce.jpg",
   "portions": null,
-  "serving_size": null,
-  "category": "Sauces & Seasonings",
+  "serving_size": "3 oz. beef, 2 Tbsp. mushroom/shallot sauce, 1 cup pasta",
+  "category": "Beef, Lamb & Pork",
   "diet": [],
   "dish": [],
   "cuisine": [],
@@ -26684,14 +26665,14 @@
    "Stove Top"
   ],
   "nutrients": {
-   "calories": 298,
-   "protein_g": 20,
-   "carbohydrates_g": 10,
-   "fat_g": 20,
-   "cholesterol_mg": 63,
-   "sodium_mg": 67,
-   "potassium_mg": 430,
-   "phosphorus_mg": 213,
+   "calories": 507,
+   "protein_g": 28,
+   "carbohydrates_g": 49,
+   "fat_g": 22,
+   "cholesterol_mg": 109,
+   "sodium_mg": 73,
+   "potassium_mg": 470,
+   "phosphorus_mg": 325,
    "calcium_mg": null,
    "fiber_g": null,
    "added_sugar_g": null
@@ -26812,12 +26793,10 @@
   "hints": [
    [
     null,
-    "Fresenius Medical Care is sponsoring Chef Aaron McCargo, Jr., star of the Food Network show “Big Daddy’s House’, who brings his passion for big, bold flavors and fun family cooking to dialysis patients as part of its Healthy Lifestyle inititative."
+    "Nutrient values are the sum of the separate analyses given for each component."
    ]
   ],
-  "food_choices": [
-   "1 serving = 3 oz. beef, 2 Tbsp. mushroom/shallot sauce, 1 cup pasta"
-  ],
+  "food_choices": [],
   "carb_choices": null,
   "video_url": null,
   "prep_time": null,
@@ -27141,7 +27120,6 @@
   "diet": [],
   "dish": [],
   "cuisine": [
-   "French",
    "Southern"
   ],
   "method": [
@@ -27669,14 +27647,14 @@
    "Stove Top"
   ],
   "nutrients": {
-   "calories": 122,
-   "protein_g": 19,
-   "carbohydrates_g": 2,
-   "fat_g": 20,
+   "calories": null,
+   "protein_g": 21,
+   "carbohydrates_g": 18,
+   "fat_g": 26,
    "cholesterol_mg": 85,
-   "sodium_mg": 146,
-   "potassium_mg": 264000,
-   "phosphorus_mg": 82,
+   "sodium_mg": 150,
+   "potassium_mg": 264046,
+   "phosphorus_mg": 146,
    "calcium_mg": null,
    "fiber_g": null,
    "added_sugar_g": null
@@ -27745,11 +27723,11 @@
    ],
    [
     null,
-    "Fresenius Medical Care is sponsoring Chef Aaron McCargo, Jr., star of the Food Network show “Big Daddy’s House’, who brings his passion for big, bold flavors and fun family cooking to dialysis patients as part of its Healthy Lifestyle inititative."
+    "*Optional Serving Suggestions: Ingredients can also be served in a lettuce wrap, pressed between a flour tortilla to make a quesadilla, or tossed with spaghetti or rice."
    ],
    [
     null,
-    "*Optional Serving Suggestions: Ingredients can also be served in a lettuce wrap, pressed between a flour tortilla to make a quesadilla, or tossed with spaghetti or rice."
+    "Nutrient values are the sum of the separate analyses given for each component."
    ]
   ],
   "food_choices": [],

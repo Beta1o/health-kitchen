@@ -1,0 +1,1788 @@
+[
+ {
+  "id": 4835082,
+  "translations": {
+   "es": {
+    "title": "Omelet de claras de huevo",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 omelet",
+    "ingredients": [
+     [
+      null,
+      "Aceite en aerosol para cocinar"
+     ],
+     [
+      null,
+      "½ taza de claras de huevo (o 4 claras de huevo)"
+     ],
+     [
+      null,
+      "1 cucharada de cebollín picado"
+     ],
+     [
+      null,
+      "1 cucharada de pimiento rojo picado"
+     ],
+     [
+      null,
+      "1 cucharada de pimiento verde picado"
+     ],
+     [
+      null,
+      "1 pizca de pimienta negra molida, al gusto"
+     ],
+     [
+      null,
+      "1 cucharada de queso cheddar rallado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Rocíe una sartén antiadherente pequeña con aceite en aerosol y caliéntela a fuego medio."
+     ],
+     [
+      null,
+      "Bata las claras y viértalas en la sartén caliente."
+     ],
+     [
+      null,
+      "Espolvoree el cebollín y los pimientos sobre las claras. Agregue la pimienta negra molida. Tape y cocine aproximadamente 3–4 minutos."
+     ],
+     [
+      null,
+      "Agregue el queso, vuelva a tapar y siga cocinando 30 segundos, hasta que el queso se derrita."
+     ],
+     [
+      null,
+      "Doble el omelet por la mitad, deslícelo a un plato y ¡disfrútelo!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "La clara de huevo es una fuente de proteína baja en fósforo, grasa y sodio. También puede preparar esta receta con otras verduras más bajas en potasio. En lugar de huevos enteros, puede usar claras de huevo en la mayoría de las recetas. Encontrará la información de equivalencias en el envase. Por ejemplo, 1 huevo entero grande se puede reemplazar con 3 cucharadas de claras de huevo."
+     ],
+     [
+      "La importancia de controlar el potasio en la enfermedad renal",
+      "Los riñones sanos pueden mantener los niveles de potasio dentro del rango objetivo de 3.6 a 5.2 milimoles por litro. Cuando usted tiene enfermedad renal crónica, su médico revisa con regularidad el nivel de potasio en su sangre. Esto es muy importante porque, cuando la función renal disminuye, es posible que esté consumiendo más potasio del que sus riñones pueden eliminar cada día. Cuando esto ocurre, el potasio empieza a acumularse en la sangre y se le pedirá que reduzca la cantidad de potasio en su alimentación. Cuando el nivel de potasio en la sangre es demasiado alto, la afección se llama hiperpotasemia.\n\nLa hiperpotasemia puede causar debilidad muscular y cambios en el ritmo cardíaco. Si el nivel de potasio en la sangre sigue subiendo, podría llegar a un nivel peligrosamente alto en el que el corazón puede dejar de latir. Es importante que acuda a todas sus citas médicas programadas y que se haga los análisis de sangre en las fechas recomendadas. Así su médico sabrá cuándo indicarle que haga cambios en su alimentación para ayudar a evitar complicaciones.\n\nCuando sea necesario reducir el potasio en su alimentación, hable con su dietista. Le ayudará a hacer cambios para mantener niveles adecuados en la sangre."
+     ]
+    ],
+    "food_choices": [
+     "2 carne",
+     "1 verdura baja en potasio"
+    ]
+   },
+   "ar": {
+    "title": "أومليت بياض البيض",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 أومليت",
+    "ingredients": [
+     [
+      null,
+      "رذاذ زيت للطهي"
+     ],
+     [
+      null,
+      "½ كوب بياض بيض (أو بياض 4 بيضات)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بصل أخضر مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة فلفل رومي أحمر مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة فلفل رومي أخضر مفروم"
+     ],
+     [
+      null,
+      "1 رشة فلفل أسود مطحون حسب الرغبة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة جبن شيدر مبشور"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "رشّ مقلاة صغيرة غير لاصقة برذاذ الزيت وسخّنها على نار متوسطة."
+     ],
+     [
+      null,
+      "اخفق بياض البيض واسكبه في المقلاة الساخنة."
+     ],
+     [
+      null,
+      "انثر البصل الأخضر والفلفل فوق بياض البيض. أضف الفلفل الأسود المطحون. غطِّ المقلاة واطهُ لمدة 3–4 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "أضف الجبن، وأعد الغطاء، واستمر في الطهي لمدة 30 ثانية حتى يذوب الجبن."
+     ],
+     [
+      null,
+      "اطوِ الأومليت إلى نصفين، وانقله إلى الطبق، واستمتع به!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "بياض البيض مصدر للبروتين منخفض الفوسفور والدهون والصوديوم. ويمكنك أيضًا تجربة هذه الوصفة مع خضار أخرى أقل في البوتاسيوم. وبدلًا من استخدام البيض الكامل، يمكنك استخدام بياض البيض في معظم الوصفات. ستجد معلومات التحويل على العبوة. فعلى سبيل المثال، يمكن استبدال 1 بيضة كاملة كبيرة بـ 3 ملاعق كبيرة من بياض البيض."
+     ],
+     [
+      "أهمية التحكم في البوتاسيوم في أمراض الكلى",
+      "تستطيع الكلى السليمة الحفاظ على مستويات البوتاسيوم ضمن النطاق المستهدف من 3.6 إلى 5.2 مليمول لكل لتر. عندما تكون مصابًا بمرض الكلى المزمن، يفحص طبيبك مستوى البوتاسيوم في دمك بانتظام. وهذا مهم جدًا لأنه عندما تتراجع وظائف الكلى، قد تتناول من البوتاسيوم أكثر مما تستطيع كليتاك التخلص منه كل يوم. وعندما يحدث ذلك، يبدأ البوتاسيوم بالتراكم في دمك، وسيُطلب منك تقليل كمية البوتاسيوم في نظامك الغذائي. وعندما يرتفع مستوى البوتاسيوم في الدم أكثر من اللازم، تُسمى هذه الحالة فرط بوتاسيوم الدم.\n\nقد يسبب فرط بوتاسيوم الدم ضعفًا في العضلات وتغيرات في نظم القلب. وإذا استمر مستوى البوتاسيوم في الدم في الارتفاع، فقد يصل إلى مستوى مرتفع بشكل خطير قد يتوقف عنده القلب عن النبض. من المهم أن تلتزم بجميع مواعيدك الطبية المحددة وأن تُجري تحاليل الدم في الأوقات الموصى بها. وبهذه الطريقة سيعرف طبيبك متى يوجهك لإجراء تغييرات على نظامك الغذائي للمساعدة على تجنب المضاعفات.\n\nعندما يصبح من الضروري تقليل البوتاسيوم في نظامك الغذائي، تحدث إلى أخصائي التغذية. سيساعدك على إجراء التغييرات اللازمة للحفاظ على مستويات جيدة في الدم."
+     ]
+    ],
+    "food_choices": [
+     "2 لحوم",
+     "1 خضار منخفضة البوتاسيوم"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4835566,
+  "translations": {
+   "es": {
+    "title": "Magdalenas de limón y mantequilla",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 tazas de harina de trigo común"
+     ],
+     [
+      null,
+      "2 cucharaditas de polvo de hornear"
+     ],
+     [
+      null,
+      "1 cucharadita de ralladura de limón"
+     ],
+     [
+      null,
+      "2 huevos batidos"
+     ],
+     [
+      null,
+      "½ taza de aceite de canola"
+     ],
+     [
+      null,
+      "½ taza de leche de soya"
+     ],
+     [
+      null,
+      "½ taza de sustituto de azúcar (como Splenda®)"
+     ],
+     [
+      null,
+      "1 taza de arándanos azules frescos o congelados"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 375°F. Coloque capacillos de papel en un molde para 12 magdalenas. En un tazón grande, mezcle con un batidor la harina, el polvo de hornear y la ralladura de limón. En otro tazón, bata los huevos, el aceite de canola, la leche de soya y el sustituto de azúcar. Haga un hueco en el centro de los ingredientes secos; vierta en el centro la mezcla de huevo y los arándanos y revuelva solo hasta que todo quede bien integrado. Reparta la masa de manera uniforme en el molde preparado. Hornee de 18 a 20 minutos, hasta que estén ligeramente doradas y al insertar un palillo en el centro de una magdalena salga limpio. Deje enfriar sobre una rejilla."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Intercambios para dieta renal y renal para diabéticos:"
+     ],
+     [
+      null,
+      "1 almidón"
+     ],
+     [
+      null,
+      "½ fruta"
+     ],
+     [
+      null,
+      "2 grasa"
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "كعك مافن بالليمون والزبدة",
+    "description": null,
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 كوب دقيق متعدد الاستخدامات"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة بيكنج بودر"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة برش قشر الليمون"
+     ],
+     [
+      null,
+      "2 بيضة مخفوقة"
+     ],
+     [
+      null,
+      "½ كوب زيت الكانولا"
+     ],
+     [
+      null,
+      "½ كوب حليب الصويا"
+     ],
+     [
+      null,
+      "½ كوب بديل السكر (مثل Splenda®)"
+     ],
+     [
+      null,
+      "1 كوب توت أزرق طازج أو مجمد"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا على 375° فهرنهايت (190° مئوية). ضع قوالب ورقية في صينية مافن من 12 تجويفًا. في وعاء كبير، اخفق الدقيق والبيكنج بودر وبرش قشر الليمون معًا. وفي وعاء آخر، اخفق البيض وزيت الكانولا وحليب الصويا وبديل السكر معًا. اصنع حفرة في وسط المكونات الجافة، واسكب فيها خليط البيض والتوت الأزرق، وقلّب فقط حتى تمتزج المكونات بالتساوي. وزّع العجين بالتساوي في صينية المافن المجهزة. اخبز لمدة 18-20 دقيقة حتى يصبح لونه ذهبيًا فاتحًا ويخرج عود الأسنان نظيفًا عند غرزه في وسط قطعة المافن. اتركه ليبرد على رف شبكي."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "البدائل الغذائية لمرضى الكلى ومرضى الكلى المصابين بالسكري:"
+     ],
+     [
+      null,
+      "1 نشويات"
+     ],
+     [
+      null,
+      "½ فاكهة"
+     ],
+     [
+      null,
+      "2 دهون"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 4836884,
+  "translations": {
+   "es": {
+    "title": "Sopa de carne molida con orzo",
+    "description": null,
+    "portions": "4",
+    "serving_size": "¼ de la receta",
+    "ingredients": [
+     [
+      null,
+      "1 frasco de 12 onzas de pimientos rojos asados"
+     ],
+     [
+      null,
+      "1 cuarto de galón de caldo de res sin sal"
+     ],
+     [
+      null,
+      "½ libra de carne de res molida extra magra (93%)"
+     ],
+     [
+      null,
+      "1 cucharada de ajo picado finamente"
+     ],
+     [
+      null,
+      "½ taza de cebolla picada en cubitos"
+     ],
+     [
+      null,
+      "½ taza de apio picado en cubitos"
+     ],
+     [
+      null,
+      "¼ taza de pasta orzo, cruda"
+     ],
+     [
+      null,
+      "¼ cucharadita de orégano seco"
+     ],
+     [
+      null,
+      "¼ cucharadita de albahaca seca"
+     ],
+     [
+      null,
+      "¼ cucharadita de tomillo seco"
+     ],
+     [
+      null,
+      "¼ cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "2 cucharadas (o menos, al gusto) de vinagre de vino tinto"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Escurra el frasco de pimientos rojos asados. Haga un puré con los pimientos y el caldo de res en un procesador de alimentos o licuadora. Reserve."
+     ],
+     [
+      null,
+      "En una cacerola grande a fuego medio-alto, saltee la carne molida hasta que se dore y esté bien cocida, aproximadamente 8–10 minutos. Escurra la grasa y vuelva a poner la carne en la cacerola."
+     ],
+     [
+      null,
+      "En la misma cacerola, agregue el ajo, la cebolla y el apio. Saltee 2–3 minutos, hasta que suelten su aroma."
+     ],
+     [
+      null,
+      "Agregue el puré de pimiento rojo asado del paso 1. Deje que hierva."
+     ],
+     [
+      null,
+      "Agregue el orzo, el orégano, la albahaca, el tomillo, el ajo en polvo y el vinagre. Cocine a fuego lento aproximadamente 10–15 minutos o hasta que el orzo esté cocido."
+     ],
+     [
+      null,
+      "Sirva de inmediato."
+     ]
+    ],
+    "hints": [
+     [
+      "¿Qué hay que saber sobre la carne molida?",
+      "Cualquier carne que se ha picado finamente en un molino de carne se llama carne molida. La carne de res molida es probablemente el tipo más común que se vende en el supermercado, pero si busca con atención, es probable que también encuentre carne molida de cerdo, pavo, pollo y posiblemente cordero.\n\nTodas las carnes molidas son una excelente fuente de proteína y se pueden agregar a una gran variedad de platillos para aumentar su contenido de proteína cuando sea necesario. Se pueden añadir a sopas y guisos al horno, así como a platillos de arroz o pasta. Si agrega a la carne molida otros ingredientes, como hierbas y verduras picadas, puede preparar sabrosas albóndigas, hamburguesas, un pastel de carne o una empanada de carne.\n\nAl hacer las compras, elija la carne molida con el menor contenido de grasa que se ajuste a su presupuesto. Por ejemplo, la carne de res molida 93% magra y 7% grasa contiene menos grasa y calorías que la carne molida 80% magra y 20% grasa. La opción con menos grasa se considera la más saludable.\n\nEs importante tener en cuenta que la carne molida requiere cuidados especiales de seguridad alimentaria. Si no se cocina lo suficiente, puede causar enfermedades transmitidas por alimentos, así que asegúrese de cocinarla bien antes de comerla."
+     ]
+    ],
+    "food_choices": [
+     "2 carne",
+     "1 almidón",
+     "1 verdura baja en potasio"
+    ]
+   },
+   "ar": {
+    "title": "شوربة اللحم المفروم بالأورزو",
+    "description": null,
+    "portions": "4",
+    "serving_size": "¼ الوصفة",
+    "ingredients": [
+     [
+      null,
+      "1 برطمان 12 أونصة من الفلفل الرومي الأحمر المشوي"
+     ],
+     [
+      null,
+      "1 كوارت مرق لحم بقري غير مملح"
+     ],
+     [
+      null,
+      "½ رطل لحم بقري مفروم قليل الدهن جدًا (93%)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ثوم مفروم ناعمًا"
+     ],
+     [
+      null,
+      "½ كوب بصل مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "½ كوب كرفس مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "¼ كوب معكرونة أورزو غير مطبوخة"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة أوريجانو مجفف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ريحان مجفف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ثوم بودرة"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة (أو أقل حسب الرغبة) خل النبيذ الأحمر"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "صفِّ برطمان الفلفل الأحمر المشوي. اهرس الفلفل مع مرق اللحم في محضرة الطعام أو الخلاط حتى يصبح ناعمًا. ضعه جانبًا."
+     ],
+     [
+      null,
+      "في قدر كبير على نار متوسطة إلى عالية، حمّر اللحم المفروم حتى يكتسب لونًا بنيًا وينضج تمامًا، لمدة 8–10 دقائق تقريبًا. صفِّ الدهون وأعد اللحم إلى القدر."
+     ],
+     [
+      null,
+      "في القدر نفسه، أضف الثوم والبصل والكرفس. قلّبها لمدة 2–3 دقائق حتى تفوح رائحتها."
+     ],
+     [
+      null,
+      "أضف هريس الفلفل الأحمر المشوي من الخطوة 1. اتركه حتى يغلي."
+     ],
+     [
+      null,
+      "أضف الأورزو والأوريجانو والريحان والزعتر والثوم البودرة والخل. اتركه على نار هادئة لمدة 10–15 دقيقة تقريبًا أو حتى ينضج الأورزو."
+     ],
+     [
+      null,
+      "قدّمه فورًا."
+     ]
+    ],
+    "hints": [
+     [
+      "ما الذي يجب معرفته عن اللحم المفروم؟",
+      "يُطلق اسم اللحم المفروم على أي لحم فُرم ناعمًا بآلة فرم اللحم. ولعل لحم البقر المفروم هو أكثر أنواع اللحم المفروم شيوعًا في متجر البقالة، لكنك إذا بحثت جيدًا فمن المرجح أن تجد أيضًا لحم الخنزير والديك الرومي والدجاج المفروم، وربما لحم الضأن كذلك.\n\nجميع أنواع اللحم المفروم مصدر ممتاز للبروتين، ويمكن إضافتها إلى مجموعة واسعة من الأطباق لزيادة محتواها من البروتين عند الحاجة. ويمكن إضافة اللحم المفروم إلى الحساء وأطباق الكسرولة، وكذلك إلى أطباق الأرز أو المعكرونة. وبإضافة مكونات أخرى إلى اللحم المفروم، مثل الأعشاب والخضار المفرومة، يمكنك تحضير كرات لحم شهية أو أقراص لحم أو رغيف لحم أو فطيرة لحم.\n\nعند التسوق، اشترِ اللحم المفروم الأقل دهونًا الذي يناسب ميزانيتك. فعلى سبيل المثال، يحتوي لحم البقر المفروم الذي نسبة اللحم الصافي فيه 93% والدهون 7% على دهون وسعرات حرارية أقل من لحم البقر المفروم الذي نسبة اللحم الصافي فيه 80% والدهون 20%. ويُعد الخيار الأقل دهونًا هو الخيار الصحي الأفضل.\n\nومن المهم الانتباه إلى أن للحم المفروم اعتبارات خاصة تتعلق بسلامة الغذاء. فإذا لم يُطهَ جيدًا قد يسبب أمراضًا منقولة بالغذاء، لذا احرص على طهيه جيدًا قبل تناوله."
+     ]
+    ],
+    "food_choices": [
+     "2 لحوم",
+     "1 نشويات",
+     "1 خضار منخفضة البوتاسيوم"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4840847,
+  "translations": {
+   "es": {
+    "title": "Sopa abundante de pollo con fideos",
+    "description": null,
+    "portions": "12",
+    "serving_size": "1 taza",
+    "ingredients": [
+     [
+      null,
+      "1/4 taza de aceite de oliva"
+     ],
+     [
+      null,
+      "2 pechugas de pollo grandes, en cubos (1 libra en total)"
+     ],
+     [
+      null,
+      "1 taza de cebolla amarilla picada en cubitos"
+     ],
+     [
+      null,
+      "1 taza de apio picado en cubitos"
+     ],
+     [
+      null,
+      "1/2 taza de zanahoria picada en cubitos"
+     ],
+     [
+      null,
+      "1/2 taza de pimiento rojo picado en cubitos"
+     ],
+     [
+      null,
+      "3 tazas de repollo picado"
+     ],
+     [
+      null,
+      "1 taza de pimiento verde picado en cubitos"
+     ],
+     [
+      null,
+      "1 cucharada de ajo picado finamente"
+     ],
+     [
+      null,
+      "1 cucharadita de semillas de cilantro molidas"
+     ],
+     [
+      null,
+      "1 cucharadita de tomillo seco"
+     ],
+     [
+      null,
+      "Pimienta recién molida, al gusto"
+     ],
+     [
+      null,
+      "1 hoja de laurel"
+     ],
+     [
+      null,
+      "3 tazas de caldo de pollo (use un producto sin sal añadida)"
+     ],
+     [
+      null,
+      "4 tazas de agua"
+     ],
+     [
+      null,
+      "2 cucharadas de jugo de limón"
+     ],
+     [
+      null,
+      "1 1/2 tazas de pasta pequeña (por ejemplo, conchitas)"
+     ],
+     [
+      null,
+      "1/4 taza de perejil fresco picado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una olla grande de fondo grueso de 4 cuartos de galón, caliente el aceite a fuego medio-alto durante 1 minuto y agregue la pechuga de pollo para dorarla ligeramente."
+     ],
+     [
+      null,
+      "Agregue todas las verduras y especias y siga cocinando de 8–10 minutos, revolviendo con frecuencia."
+     ],
+     [
+      null,
+      "Agregue el caldo, el agua y el jugo de limón a la mezcla de pollo y verduras."
+     ],
+     [
+      null,
+      "Tape, suba el fuego a alto y deje que hierva (2 minutos). Baje el fuego al mínimo y deje cocinar a fuego lento 20 minutos."
+     ],
+     [
+      null,
+      "Agregue la pasta y termine de cocinar a fuego lento de 5–10 minutos, según el tamaño de la pasta."
+     ],
+     [
+      null,
+      "Antes de servir, espolvoree el perejil fresco por encima y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Congélela en porciones, recaliéntela en el microondas ¡y tendrá una comida abundante en minutos!"
+     ]
+    ],
+    "food_choices": [
+     "1 carne",
+     "1 almidón",
+     "1 verdura"
+    ]
+   },
+   "ar": {
+    "title": "شوربة الدجاج بالمعكرونة الغنية",
+    "description": null,
+    "portions": "12",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "¼ كوب زيت زيتون"
+     ],
+     [
+      null,
+      "2 صدر دجاج كبير، مقطع مكعبات (1 رطل إجمالًا)"
+     ],
+     [
+      null,
+      "1 كوب بصل أصفر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 كوب كرفس مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "½ كوب جزر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "½ كوب فلفل رومي أحمر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "3 كوب ملفوف مفروم"
+     ],
+     [
+      null,
+      "1 كوب فلفل رومي أخضر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ثوم مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بذور كزبرة مطحونة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "فلفل مطحون طازجًا حسب الرغبة"
+     ],
+     [
+      null,
+      "1 ورقة غار"
+     ],
+     [
+      null,
+      "3 كوب مرق دجاج (استخدم منتجًا بدون ملح مضاف)"
+     ],
+     [
+      null,
+      "4 كوب ماء"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة عصير ليمون"
+     ],
+     [
+      null,
+      "1½ كوب معكرونة صغيرة (مثل الأصداف الصغيرة)"
+     ],
+     [
+      null,
+      "¼ كوب بقدونس طازج مفروم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في قدر كبير ثقيل القاع سعته 4 كوارت، سخّن الزيت على نار متوسطة إلى عالية لمدة 1 دقيقة، ثم أضف صدر الدجاج وحمّره قليلًا."
+     ],
+     [
+      null,
+      "أضف جميع الخضار والبهارات واستمر في الطهي لمدة 8–10 دقائق مع التقليب المتكرر."
+     ],
+     [
+      null,
+      "أضف المرق والماء وعصير الليمون إلى خليط الدجاج والخضار."
+     ],
+     [
+      null,
+      "غطِّ القدر، وارفع النار إلى عالية، واتركه حتى يغلي (2 دقيقة). اخفض النار إلى أدنى درجة واتركه على نار هادئة لمدة 20 دقيقة."
+     ],
+     [
+      null,
+      "أضف المعكرونة وأكمل الطهي على نار هادئة لمدة 5–10 دقائق حسب حجم المعكرونة."
+     ],
+     [
+      null,
+      "قبل التقديم، انثر البقدونس الطازج على الوجه وقدّمه."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "جمّده في حصص، وأعد تسخينه في الميكروويف، وستحصل على وجبة مشبعة في دقائق!"
+     ]
+    ],
+    "food_choices": [
+     "1 لحوم",
+     "1 نشويات",
+     "1 خضار"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4846825,
+  "translations": {
+   "es": {
+    "title": "Pastel de naranja en taza",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 pastel en taza",
+    "ingredients": [
+     [
+      null,
+      "3 cucharadas de harina de trigo común"
+     ],
+     [
+      null,
+      "1/8 cucharadita de bicarbonato de sodio"
+     ],
+     [
+      null,
+      "1 cucharada de azúcar granulada"
+     ],
+     [
+      null,
+      "1 cucharadita de ralladura de naranja*"
+     ],
+     [
+      null,
+      "1 ½ cucharadita de aceite de canola"
+     ],
+     [
+      null,
+      "2 cucharadas de leche"
+     ],
+     [
+      null,
+      "1 cucharada de jugo de naranja*"
+     ],
+     [
+      null,
+      "½ cucharadita de extracto de vainilla"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Rocíe el interior de una taza apta para microondas con aceite antiadherente en aerosol."
+     ],
+     [
+      null,
+      "Cierna juntos los primeros cuatro ingredientes secos y colóquelos en la taza."
+     ],
+     [
+      null,
+      "Agregue a los ingredientes secos el aceite, la leche, el jugo de naranja y el extracto de vainilla. Bata hasta que todo esté bien mezclado y sin grumos."
+     ],
+     [
+      null,
+      "Coloque la taza en el microondas y cocine aproximadamente 1 minuto. El pastel debe subir y sentirse firme al tacto. No lo cocine de más."
+     ],
+     [
+      null,
+      "Sirva de inmediato."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* Puede usar ralladura y jugo de limón en su lugar"
+     ],
+     [
+      null,
+      "Nota: Los tiempos de cocción pueden variar según el microondas."
+     ],
+     [
+      "Naranjas y mandarinas",
+      "Es muy común que las personas que siguen una alimentación adecuada para los riñones tengan cuidado con su consumo de potasio. En ese caso, hay varias frutas y verduras que deben consumirse con moderación por su mayor contenido de potasio. La naranja es uno de esos alimentos. Es posible que no pueda comer naranjas frescas ni tomar jugo de naranja, al menos no con regularidad. Una buena alternativa más baja en potasio a la naranja fresca es la mandarina. Una mandarina contiene 146 miligramos de potasio, en comparación con 238 miligramos de potasio en una naranja mediana.\n\nUna mandarina madura se siente firme o ligeramente blanda, pesada para su tamaño y tiene la cáscara de aspecto granulado. La cáscara es muy delgada, por lo que suele ser más fácil de pelar y separar en gajos que una naranja tradicional. Puede disfrutarlas como refrigerio o como postre saludable. Pélelas y sepárelas en gajos para añadir color y sabor a una ensalada de lechuga, de frutas o de pollo. Cuando las mandarinas frescas no estén de temporada, puede comprarlas enlatadas o en vasitos individuales. Elija las que vienen en agua, no en almíbar."
+     ]
+    ],
+    "food_choices": [
+     "2 almidón",
+     "2 grasa"
+    ]
+   },
+   "ar": {
+    "title": "كيك البرتقال في كوب",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 كيكة في كوب",
+    "ingredients": [
+     [
+      null,
+      "3 ملعقة كبيرة دقيق متعدد الاستخدامات"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة بيكربونات الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة سكر محبب"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة برش قشر البرتقال*"
+     ],
+     [
+      null,
+      "1½ ملعقة صغيرة زيت الكانولا"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة حليب"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير برتقال*"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة خلاصة الفانيليا"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "رشّ داخل كوب مناسب للميكروويف برذاذ الطهي غير اللاصق."
+     ],
+     [
+      null,
+      "انخل المكونات الجافة الأربعة الأولى معًا وضعها في الكوب."
+     ],
+     [
+      null,
+      "أضف إلى المكونات الجافة الزيت والحليب وعصير البرتقال وخلاصة الفانيليا. اخفق حتى يمتزج الخليط جيدًا ويخلو من التكتلات."
+     ],
+     [
+      null,
+      "ضع الكوب في الميكروويف واطهُه لمدة 1 دقيقة تقريبًا. يجب أن ترتفع الكيكة وتكون متماسكة عند لمسها. لا تُفرط في طهيها."
+     ],
+     [
+      null,
+      "قدّمها فورًا."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* يمكنك استخدام برش قشر الليمون وعصير الليمون بدلًا من ذلك"
+     ],
+     [
+      null,
+      "ملاحظة: قد تختلف مدة الطهي حسب جهاز الميكروويف."
+     ],
+     [
+      "البرتقال واليوسفي",
+      "من الشائع جدًا أن يحرص من يتبعون نظامًا غذائيًا مناسبًا لمرضى الكلى على مراقبة ما يتناولونه من البوتاسيوم. وفي هذه الحالة، هناك عدد من الفواكه والخضار التي ينبغي تناولها باعتدال بسبب ارتفاع محتواها من البوتاسيوم. والبرتقال من هذه الأطعمة. فقد لا يكون من الممكن تناول البرتقال الطازج أو شرب عصير البرتقال، على الأقل بشكل منتظم. والبديل الجيد الأقل في البوتاسيوم للبرتقال الطازج هو اليوسفي. إذ تحتوي ثمرة يوسفي واحدة على 146 مليغرامًا من البوتاسيوم مقارنة بـ 238 مليغرامًا من البوتاسيوم في برتقالة متوسطة الحجم.\n\nثمرة اليوسفي الناضجة متماسكة إلى طرية قليلًا، وثقيلة بالنسبة لحجمها، وقشرتها ذات ملمس حُبيبي. وقشرتها رقيقة جدًا، لذلك يكون تقشيرها وتقسيمها إلى فصوص أسهل عادةً من البرتقال التقليدي. يمكنك الاستمتاع بها كوجبة خفيفة أو حلوى صحية. قشّرها وقسّمها إلى فصوص وأضفها إلى سلطة الخس أو سلطة الفواكه أو سلطة الدجاج لإضفاء اللون والنكهة. وعندما لا يكون اليوسفي الطازج في موسمه، يمكنك شراؤه معلبًا أو في أكواب فردية. اختر المعبأ في الماء وليس في الشراب السكري."
+     ]
+    ],
+    "food_choices": [
+     "2 نشويات",
+     "2 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4850291,
+  "translations": {
+   "es": {
+    "title": "Omelet de frijoles negros en taza",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 omelet",
+    "ingredients": [
+     [
+      null,
+      "1 cucharadita de aceite de oliva"
+     ],
+     [
+      null,
+      "1/2 taza de claras de huevo pasteurizadas*"
+     ],
+     [
+      null,
+      "1/2 cucharadita de cúrcuma"
+     ],
+     [
+      null,
+      "1 cucharada de bebida de arroz**"
+     ],
+     [
+      null,
+      "1 cucharada de pimiento rojo picado en cubitos"
+     ],
+     [
+      null,
+      "1 cucharada de cebollín en rodajas"
+     ],
+     [
+      null,
+      "1 cucharada de frijoles negros enlatados (sin sal añadida, escurridos y enjuagados)"
+     ],
+     [
+      null,
+      "1 cucharadita de salsa"
+     ],
+     [
+      null,
+      "Cilantro fresco (opcional)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Engrase con aceite el interior de una taza apta para microondas. Agregue las claras de huevo, la cúrcuma, la bebida de arroz, el pimiento rojo y los frijoles. Mezcle con un tenedor."
+     ],
+     [
+      null,
+      "Cocine en el microondas durante 1 minuto. Revuelva y cocine 15 segundos más. Revuelva y cocine otros 15 segundos."
+     ],
+     [
+      null,
+      "Decore con la salsa y el cilantro fresco."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* Si usa claras de huevo frescas, use las claras de 4 huevos grandes"
+     ],
+     [
+      null,
+      "** Evite las bebidas de arroz que digan “enriquecida”"
+     ],
+     [
+      null,
+      "Enrolle el omelet en una tortilla para preparar un burrito de desayuno fácil, o sírvalo con pan tostado."
+     ],
+     [
+      "Empiece bien su día",
+      "Comenzar el día con un desayuno equilibrado es fundamental, sobre todo para las personas con enfermedad renal crónica (ERC). El desayuno puede ayudar a darle la energía y los nutrientes que su cuerpo necesita. Hay muchas opciones de desayuno disponibles, entre ellas alimentos frescos, no perecederos o congelados. El tiempo suele ser decisivo en su elección, ya que no siempre hay suficiente para preparar una comida desde cero cada mañana. Al decidir qué tipo de desayuno podría ser la mejor opción para usted, piense en cuál se adapta mejor a su horario y encaja en su alimentación baja en potasio.\n\nLas opciones frescas pueden ser un omelet con verduras, un vaso de fruta fresca con una porción de yogur griego o avena remojada durante la noche con fruta baja en potasio. Agregue especias para obtener sabores distintos y beneficios para la salud. Puede elegir un alimento no perecedero cuando no sea práctico preparar un desayuno casero o fresco. Considere un panecillo inglés con crema de frutos secos o avena cocida con un poco de fruta baja en potasio. Los alimentos congelados también se pueden incluir con precaución en una alimentación adecuada para los riñones. Algunos alimentos, como un sándwich de desayuno o un waffle congelado, pueden ser altos en sodio o contener aditivos ocultos. Asegúrese de leer las etiquetas para encontrar la opción congelada que mejor le funcione y que se mantenga dentro de sus metas de alimentación."
+     ]
+    ],
+    "food_choices": [
+     "2 proteína magra",
+     "1 verdura baja en potasio"
+    ]
+   },
+   "ar": {
+    "title": "أومليت الفاصوليا السوداء في كوب",
+    "description": null,
+    "portions": "1",
+    "serving_size": "1 أومليت",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة صغيرة زيت زيتون"
+     ],
+     [
+      null,
+      "½ كوب بياض بيض مبستر*"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كركم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة مشروب الأرز**"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة فلفل رومي أحمر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بصل أخضر مقطع شرائح"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة فاصوليا سوداء معلبة (بدون ملح مضاف، مصفاة ومغسولة)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة صلصة سالسا"
+     ],
+     [
+      null,
+      "كزبرة خضراء طازجة (اختياري)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ادهن داخل كوب مناسب للميكروويف بالزيت. أضف بياض البيض والكركم ومشروب الأرز والفلفل الأحمر والفاصوليا. اخلط بالشوكة."
+     ],
+     [
+      null,
+      "اطهُه في الميكروويف لمدة 1 دقيقة. قلّب واطهُه لمدة 15 ثانية إضافية. قلّب واطهُه لمدة 15 ثانية أخرى."
+     ],
+     [
+      null,
+      "زيّنه بصلصة السالسا والكزبرة الخضراء الطازجة."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* عند استخدام بياض بيض طازج، استخدم بياض 4 بيضات كبيرة"
+     ],
+     [
+      null,
+      "** تجنب مشروب الأرز المكتوب عليه “مدعّم”"
+     ],
+     [
+      null,
+      "لُفّ الأومليت في خبز التورتيا لتحضير بوريتو إفطار سهل، أو قدّمه مع الخبز المحمص."
+     ],
+     [
+      "ابدأ يومك بداية جيدة",
+      "إن بدء اليوم بداية صحيحة بوجبة إفطار متوازنة أمر أساسي، خاصة لمن يعانون من مرض الكلى المزمن. فوجبة الإفطار تساعد على تزويد جسمك بالطاقة والعناصر الغذائية التي يحتاجها. وهناك خيارات كثيرة متاحة للإفطار، منها الأطعمة الطازجة، والأطعمة التي تُحفظ على الرف، والأطعمة المجمدة. وكثيرًا ما يلعب الوقت دورًا حاسمًا في اختيارك، إذ لا يتوفر دائمًا وقت كافٍ لتحضير وجبة من البداية كل صباح. وعند تحديد نوع الإفطار الذي قد يكون الأنسب لك، فكّر في الخيار الذي يتلاءم أكثر مع جدولك اليومي ويتوافق مع نظامك الغذائي منخفض البوتاسيوم.\n\nمن الخيارات الطازجة: أومليت بالخضار، أو كوب من الفاكهة الطازجة مع حصة من الزبادي اليوناني، أو شوفان منقوع طوال الليل مع فاكهة منخفضة البوتاسيوم. أضف البهارات للحصول على نكهات مختلفة وفوائد صحية. ويمكنك اختيار طعام يُحفظ على الرف عندما لا يكون تحضير إفطار منزلي أو طازج أمرًا عمليًا. جرّب خبز المافن الإنجليزي مع زبدة المكسرات، أو الشوفان المطبوخ مع قليل من الفاكهة منخفضة البوتاسيوم. ويمكن أيضًا تناول الأطعمة المجمدة بحذر ضمن نظام غذائي مناسب لمرضى الكلى. فبعض الأطعمة، مثل شطيرة الإفطار المجمدة أو الوافل المجمد، قد تكون مرتفعة الصوديوم أو تحتوي على إضافات خفية. احرص على قراءة الملصقات الغذائية لتجد الخيار المجمد الأنسب لك والذي يبقيك ضمن أهدافك الغذائية."
+     ]
+    ],
+    "food_choices": [
+     "2 بروتين قليل الدهون",
+     "1 خضار منخفضة البوتاسيوم"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4859949,
+  "translations": {
+   "es": {
+    "title": "Delicioso pollo asado",
+    "description": null,
+    "portions": "10",
+    "serving_size": "1/10 de la receta",
+    "ingredients": [
+     [
+      null,
+      "1 pollo entero (aproximadamente 3.3 libras)"
+     ],
+     [
+      null,
+      "3 cucharadas de aceite de oliva"
+     ],
+     [
+      null,
+      "1 cucharada de pimentón (paprika)"
+     ],
+     [
+      null,
+      "1 cucharada de semillas de hinojo, molidas o enteras"
+     ],
+     [
+      null,
+      "2 cebollas cortadas en aros gruesos"
+     ],
+     [
+      null,
+      "1 limón cortado por la mitad"
+     ],
+     [
+      null,
+      "3 dientes de ajo con cáscara"
+     ],
+     [
+      null,
+      "Pimienta negra molida, al gusto"
+     ],
+     [
+      null,
+      "Notas"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Coloque la rejilla del horno en el centro y precaliente el horno a 350°F."
+     ],
+     [
+      null,
+      "En un tazón pequeño, mezcle el aceite de oliva con el pimentón y las semillas de hinojo."
+     ],
+     [
+      null,
+      "Extienda las rodajas de cebolla en el fondo de una fuente para asar. Seque el pollo con toallas de papel y colóquelo sobre las cebollas con la pechuga hacia arriba."
+     ],
+     [
+      null,
+      "Frote el pollo por todos lados con las mitades de limón (retire las semillas del limón si es posible). Rellene la cavidad con las mitades de limón y los dientes de ajo."
+     ],
+     [
+      null,
+      "Barnice el pollo generosamente con la mezcla de aceite y especias. Sazone con pimienta negra molida."
+     ],
+     [
+      null,
+      "Ase durante unas 2 horas o hasta que un termómetro insertado en el muslo marque 180°F."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "• Retire la grasa de los jugos de cocción y sirva el jugo restante con el pollo como salsa. • Puede hacer caldo de pollo con los huesos triturados: ponga los huesos en agua, deje que hierva y luego cocine a fuego lento durante 3–4 horas. • Use semillas de hinojo enteras y muela una parte para obtener una mezcla de semillas molidas y enteras. • Para un sabor diferente: reemplace las especias con 1 cucharada de curry en polvo, 1 cucharada de semillas de cilantro o 2 cucharadas de condimento italiano."
+     ],
+     [
+      null,
+      "* Para ERC sin diálisis: reduzca la cantidad de proteína disminuyendo la porción de pollo."
+     ],
+     [
+      "Ventajas de asar su propio pollo",
+      "Cocinar en casa puede ser especialmente útil cuando se sigue una alimentación adecuada para los riñones. Aunque la comida rápida puede parecer práctica, suele ser más cara y más alta en sodio, grasa y aditivos dañinos de potasio y fosfato. Planificar y preparar comidas, como un pollo asado, le permite disfrutar en casa de un platillo económico sin preocuparse por las restricciones de su dieta. Según cuántas personas vayan a comer, un pollo entero asado puede dejarle sobras. Un pollo entero rinde varias porciones de carne que se pueden usar en otras recetas (como sopas, ensaladas y sándwiches), lo que ahorra tiempo y dinero. Al asar su propio pollo, unos pequeños pasos pueden marcar una gran diferencia para obtener una carne jugosa y sabrosa. Empiece por secar el exterior del pollo antes de cocinarlo. Esto ayuda a que se cocine y se dore de manera uniforme. También se recomienda quitar la piel antes de comer el pollo para reducir la grasa. La temperatura también importa. Ya sea a fuego alto o bajo, cocine el pollo hasta que alcance una temperatura interna de al menos 165°F. Experimente con distintos condimentos adecuados para los riñones que tenga en su despensa al preparar el pollo asado. Una mezcla de romero, tomillo, mejorana y orégano ofrece una opción de hierbas suave. Para un sabor más intenso, pruebe una mezcla de pimentón, ajo en polvo, pimienta de cayena y cebolla en polvo. Otra opción es dar al pollo un sabor más dulce combinando hierbas verdes con miel o mermelada de frutas sin azúcar para hacer un glaseado."
+     ]
+    ],
+    "food_choices": [
+     "4 carne",
+     "1 grasa"
+    ]
+   },
+   "ar": {
+    "title": "دجاج مشوي شهي",
+    "description": null,
+    "portions": "10",
+    "serving_size": "1/10 الوصفة",
+    "ingredients": [
+     [
+      null,
+      "1 دجاجة كاملة (حوالي 3.3 رطل)"
+     ],
+     [
+      null,
+      "3 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بابريكا"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بذور شمر مطحونة أو كاملة"
+     ],
+     [
+      null,
+      "2 بصلة مقطعة حلقات سميكة"
+     ],
+     [
+      null,
+      "1 ليمونة مقطوعة نصفين"
+     ],
+     [
+      null,
+      "3 فص ثوم بقشره"
+     ],
+     [
+      null,
+      "فلفل أسود مطحون حسب الرغبة"
+     ],
+     [
+      null,
+      "ملاحظات"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع رف الفرن في المنتصف وسخّن الفرن مسبقًا على 350° فهرنهايت (175° مئوية)."
+     ],
+     [
+      null,
+      "في وعاء صغير، اخلط زيت الزيتون مع البابريكا وبذور الشمر."
+     ],
+     [
+      null,
+      "افرد شرائح البصل في قاع صينية التحمير. جفّف الدجاجة بالمناشف الورقية وضعها فوق البصل بحيث يكون الصدر للأعلى."
+     ],
+     [
+      null,
+      "افرك الدجاجة من جميع الجهات بنصفي الليمونة (أزل بذور الليمون إن أمكن). احشُ تجويف الدجاجة بنصفي الليمونة وفصوص الثوم."
+     ],
+     [
+      null,
+      "ادهن الدجاجة بسخاء بخليط الزيت والبهارات. تبّلها بالفلفل الأسود المطحون."
+     ],
+     [
+      null,
+      "اشوِها في الفرن لمدة ساعتين تقريبًا، أو حتى يسجل ميزان الحرارة المغروس في الفخذ 180° فهرنهايت (80° مئوية)."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "• أزل الدهن عن عصارة الطهي وقدّم العصارة المتبقية مع الدجاج كصلصة. • يمكنك تحضير مرق الدجاج من العظام المكسرة: أضف العظام إلى الماء، واتركها حتى تغلي، ثم اتركها على نار هادئة لمدة 3–4 ساعات. • استخدم بذور الشمر الكاملة واطحن جزءًا منها للحصول على مزيج من البذور المطحونة والكاملة. • لنكهة مختلفة: استبدل البهارات بـ 1 ملعقة كبيرة مسحوق الكاري، أو 1 ملعقة كبيرة بذور الكزبرة، أو 2 ملعقة كبيرة توابل إيطالية."
+     ],
+     [
+      null,
+      "* لمرضى الكلى المزمن غير الخاضعين لغسيل الكلى: قلّل كمية البروتين بتقليل حصة الدجاج."
+     ],
+     [
+      "مزايا تحمير الدجاج في المنزل",
+      "يمكن أن يكون طهي الوجبات في المنزل مفيدًا بشكل خاص عند اتباع نظام غذائي مناسب لمرضى الكلى. فرغم أن الوجبات السريعة قد تبدو مريحة، فإن خياراتها غالبًا ما تكون أغلى ثمنًا وأعلى في الصوديوم والدهون والإضافات الضارة من البوتاسيوم والفوسفات. أما تخطيط الوجبات وتحضيرها، مثل الدجاج المشوي في الفرن، فيتيح لك الاستمتاع بطبق اقتصادي في المنزل دون القلق بشأن قيود نظامك الغذائي. وحسب عدد الأشخاص الذين تقدّم لهم الطعام، قد يتبقى لديك جزء من الدجاجة المشوية الكاملة. فالدجاجة الكاملة توفر عدة حصص من اللحم يمكن استخدامها في وصفات أخرى (مثل الحساء والسلطات والشطائر)، مما يوفر الوقت والمال. وعند شوي الدجاج بنفسك، يمكن لبضع خطوات صغيرة أن تُحدث فرقًا كبيرًا في الحصول على دجاج طري وغني بالنكهة. ابدأ بتجفيف سطح الدجاجة من الخارج قبل الطهي، فهذا يساعدها على النضج واكتساب اللون البني بالتساوي. ويُنصح أيضًا بإزالة الجلد قبل تناول الدجاج للمساعدة على تقليل الدهون. ودرجة الحرارة مهمة كذلك؛ فسواء استخدمت حرارة عالية أو منخفضة، اطهُ الدجاج حتى تصل حرارته الداخلية إلى 165° فهرنهايت (75° مئوية) على الأقل. جرّب توابل مختلفة مناسبة لمرضى الكلى من مطبخك عند تحضير الدجاج المشوي. فمزيج إكليل الجبل والزعتر والمردقوش والأوريجانو يقدّم خيارًا عشبيًا معتدل النكهة. ولنكهة لاذعة، جرّب مزيجًا من البابريكا والثوم البودرة والفلفل الحار (كايين) والبصل البودرة. وكخيار آخر، يمكنك منح الدجاج نكهة أحلى بمزج الأعشاب الخضراء مع العسل أو مربى الفاكهة الخالية من السكر لعمل طبقة تلميع."
+     ]
+    ],
+    "food_choices": [
+     "4 لحوم",
+     "1 دهون"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4872286,
+  "translations": {
+   "es": {
+    "title": "Hamburguesa abierta de pavo ahumada",
+    "description": null,
+    "portions": "2",
+    "serving_size": "1 hamburguesa",
+    "ingredients": [
+     [
+      null,
+      "1/2 libra de carne de pavo molida"
+     ],
+     [
+      null,
+      "1 cucharadita de pimentón ahumado"
+     ],
+     [
+      null,
+      "3 cucharadas de cebolla amarilla finamente picada"
+     ],
+     [
+      null,
+      "1/4 cucharadita de pimienta negra molida"
+     ],
+     [
+      null,
+      "1 clara de huevo"
+     ],
+     [
+      null,
+      "1 cucharadita de queso parmesano"
+     ],
+     [
+      null,
+      "1 cucharadita de aceite de canola"
+     ],
+     [
+      null,
+      "2 rebanadas de pan blanco rústico (o 2 panecillos pequeños) más 1 diente de ajo entero"
+     ],
+     [
+      null,
+      "1 bola de mozzarella bocconcini de 50 g (1.7 onzas), cortada en 4 rebanadas"
+     ],
+     [
+      null,
+      "Lechuga mantecosa (Bibb)"
+     ],
+     [
+      null,
+      "4 tiras de pimiento rojo dulce asado al fuego (se vende en frasco)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el asador del horno (broil) a temperatura baja."
+     ],
+     [
+      null,
+      "Caliente el aceite en una sartén a fuego medio-alto."
+     ],
+     [
+      null,
+      "Combine los primeros 6 ingredientes en un tazón, mezcle suavemente y forme 2 hamburguesas."
+     ],
+     [
+      null,
+      "Dore las hamburguesas y cocínelas 3 minutos por cada lado.*"
+     ],
+     [
+      null,
+      "Coloque el pan en una bandeja para hornear en el centro del horno y tuéstelo ligeramente, volteándolo una vez."
+     ],
+     [
+      null,
+      "Retírelo del horno y frote el pan con el diente de ajo. Reserve el pan."
+     ],
+     [
+      null,
+      "Coloque el pan en una bandeja para hornear y cubra cada rebanada con 2 tiras de pimiento rojo asado y 2 rebanadas de bocconcini. Ase el pan en el asador (broil) durante 2 minutos o hasta que el queso esté bien derretido."
+     ],
+     [
+      null,
+      "Pase el pan a un plato y cubra cada rebanada con 2 hojas de lechuga mantecosa y la hamburguesa caliente."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* Le recomendamos usar un termómetro para carne para asegurarse de que la hamburguesa esté bien cocida. La temperatura interna debe ser de 170°F."
+     ]
+    ],
+    "food_choices": [
+     "1 carne",
+     "1 almidón"
+    ]
+   },
+   "ar": {
+    "title": "برغر الديك الرومي المدخن المفتوح",
+    "description": null,
+    "portions": "2",
+    "serving_size": "1 برغر",
+    "ingredients": [
+     [
+      null,
+      "½ رطل لحم ديك رومي مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بابريكا مدخنة"
+     ],
+     [
+      null,
+      "3 ملعقة كبيرة بصل أصفر مفروم ناعمًا"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود مطحون"
+     ],
+     [
+      null,
+      "1 بياض بيضة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة جبن بارميزان"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زيت الكانولا"
+     ],
+     [
+      null,
+      "2 شريحة خبز أبيض ريفي (أو 2 خبز برغر صغير) بالإضافة إلى 1 فص ثوم كامل"
+     ],
+     [
+      null,
+      "1 كرة موزاريلا بوكونتشيني وزنها 50 غ (1.7 أونصة)، مقطعة إلى 4 شرائح"
+     ],
+     [
+      null,
+      "خس بيب (الخس الزبدي)"
+     ],
+     [
+      null,
+      "4 شريحة فلفل رومي أحمر حلو مشوي على النار (متوفر في برطمانات)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن شواية الفرن العلوية مسبقًا على درجة منخفضة."
+     ],
+     [
+      null,
+      "سخّن الزيت في مقلاة على نار متوسطة إلى عالية."
+     ],
+     [
+      null,
+      "اخلط المكونات الستة الأولى (6) في وعاء، وقلّبها برفق، وشكّل منها 2 قرص برغر."
+     ],
+     [
+      null,
+      "حمّر أقراص البرغر واطهُ كل جانب لمدة 3 دقائق.*"
+     ],
+     [
+      null,
+      "ضع الخبز على صينية خبز في منتصف الفرن وحمّصه قليلًا مع قلبه مرة واحدة."
+     ],
+     [
+      null,
+      "أخرجه من الفرن وافرك الخبز بفص الثوم. ضع الخبز جانبًا."
+     ],
+     [
+      null,
+      "ضع الخبز على صينية خبز وزيّن كل شريحة خبز بـ 2 شريحة من الفلفل الأحمر المشوي و2 شريحة من البوكونتشيني. اشوِ الخبز تحت الشواية العلوية لمدة 2 دقيقة أو حتى يذوب الجبن جيدًا."
+     ],
+     [
+      null,
+      "انقل الخبز إلى طبق وزيّن كل شريحة بـ 2 ورقة من خس بيب ثم قرص البرغر الساخن."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "* ننصحك باستخدام ميزان حرارة اللحم للتأكد من نضج البرغر. يجب أن تكون درجة الحرارة الداخلية 170° فهرنهايت (75° مئوية)."
+     ]
+    ],
+    "food_choices": [
+     "1 لحوم",
+     "1 نشويات"
+    ]
+   }
+  }
+ },
+ {
+  "id": 4872310,
+  "translations": {
+   "es": {
+    "title": "Pulao de arroz",
+    "description": "Un platillo de arroz con verduras originario de la India",
+    "portions": "8",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 cucharadas de aceite de oliva o de canola"
+     ],
+     [
+      null,
+      "1 cucharada de semillas de comino"
+     ],
+     [
+      null,
+      "1 cebolla blanca o morada, picada en cubitos"
+     ],
+     [
+      null,
+      "1 taza de zanahoria picada en cubitos"
+     ],
+     [
+      null,
+      "1 taza de chícharos congelados"
+     ],
+     [
+      null,
+      "2 tazas de arroz basmati, lavado y remojado durante 5 minutos en agua tibia"
+     ],
+     [
+      null,
+      "2½ tazas de agua"
+     ],
+     [
+      null,
+      "1 cucharadita de mantequilla"
+     ],
+     [
+      null,
+      "2 cucharaditas de vinagre"
+     ],
+     [
+      null,
+      "1/8 cucharadita de sal"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una olla grande a fuego medio, combine el aceite, las semillas de comino y la mantequilla. Agregue la cebolla y saltee durante 5 minutos."
+     ],
+     [
+      null,
+      "Agregue las zanahorias y los chícharos a la olla y saltee otros 5-10 minutos, hasta que estén tiernos."
+     ],
+     [
+      null,
+      "Agregue 2½ tazas de agua y 2 tazas de arroz basmati a la olla. Tape la olla y cocine a fuego medio hasta que se evapore toda el agua y el arroz esté cocido. Retire del fuego y deje reposar 5 minutos antes de servir."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بولاو الأرز",
+    "description": "طبق أرز بالخضار من الهند",
+    "portions": "8",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 ملعقة كبيرة زيت زيتون أو زيت كانولا"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بذور كمون"
+     ],
+     [
+      null,
+      "1 بصلة بيضاء أو حمراء مقطعة مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 كوب جزر مقطع مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 كوب بازلاء مجمدة"
+     ],
+     [
+      null,
+      "2 كوب أرز بسمتي، مغسول ومنقوع لمدة 5 دقائق في ماء دافئ"
+     ],
+     [
+      null,
+      "2½ كوب ماء"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زبدة"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة خل"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة ملح"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في قدر كبير على نار متوسطة، ضع الزيت وبذور الكمون والزبدة. أضف البصل وقلّبه لمدة 5 دقائق."
+     ],
+     [
+      null,
+      "أضف الجزر والبازلاء إلى القدر، وقلّبها لمدة 5-10 دقائق أخرى حتى تطرى."
+     ],
+     [
+      null,
+      "أضف 2½ كوب ماء و2 كوب أرز بسمتي إلى القدر. غطِّ القدر واتركه على نار متوسطة حتى يتبخر الماء كله وينضج الأرز. ارفعه عن النار واتركه لمدة 5 دقائق قبل التقديم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 4880625,
+  "translations": {
+   "es": {
+    "title": "Sándwich de bistec con chimichurri",
+    "description": null,
+    "portions": "4",
+    "serving_size": "1/4 de la receta",
+    "ingredients": [
+     [
+      "Chimichurri",
+      "1/4 taza de hojas de perejil"
+     ],
+     [
+      "Chimichurri",
+      "1/4 taza de hojas de cilantro"
+     ],
+     [
+      "Chimichurri",
+      "1/4 cucharadita de orégano seco"
+     ],
+     [
+      "Chimichurri",
+      "1 pizca de hojuelas de chile seco"
+     ],
+     [
+      "Chimichurri",
+      "1 diente de ajo"
+     ],
+     [
+      "Chimichurri",
+      "1 1/2 cucharadita de jugo de limón"
+     ],
+     [
+      "Chimichurri",
+      "1 cucharada de vinagre de vino tinto"
+     ],
+     [
+      "Chimichurri",
+      "1/3 taza de aceite de oliva"
+     ],
+     [
+      "Sándwich",
+      "1 libra de bistec de lomo (strip steak)"
+     ],
+     [
+      "Sándwich",
+      "1 taza de pimientos rojos y anaranjados en tiras"
+     ],
+     [
+      "Sándwich",
+      "1 taza de cebolla morada en rodajas"
+     ],
+     [
+      "Sándwich",
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      "Sándwich",
+      "4 panes ciabatta, cortados por la mitad a lo largo"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Para preparar el chimichurri, ponga todos los ingredientes en una licuadora o procesador de alimentos y hágalos puré. Reserve la mitad de la mezcla para adobar los bistecs y la otra mitad para rociar sobre los sándwiches."
+     ],
+     [
+      null,
+      "Adobe los bistecs en el refrigerador durante al menos una hora. Los bistecs pueden adobarse hasta 24 horas."
+     ],
+     [
+      null,
+      "En una sartén a fuego medio-alto, saltee los pimientos y la cebolla en aceite de oliva hasta que la cebolla se vuelva transparente y los pimientos empiecen a ablandarse. Reserve."
+     ],
+     [
+      null,
+      "Precaliente la parrilla. Cocine los bistecs hasta que alcancen una temperatura interna de 145°F. Déjelos reposar a temperatura ambiente durante 10 minutos antes de cortarlos."
+     ],
+     [
+      null,
+      "Tueste los panes ciabatta."
+     ],
+     [
+      null,
+      "Corte el bistec en tiras delgadas."
+     ],
+     [
+      null,
+      "Para armar los sándwiches, distribuya uniformemente el bistec en tiras sobre los panes ciabatta tostados. Rocíe con chimichurri y cubra con los pimientos y la cebolla."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "El adobo de chimichurri se puede usar con cualquier corte de carne."
+     ],
+     [
+      null,
+      "Esta colorida salsa de la cocina argentina sirve tanto de adobo como de salsa para acompañar todos los cortes de res. Se puede preparar con anticipación y congelar en cubeteras para hielo. Una vez congelados los cubos, póngalos en una bolsa para congelador y guárdelos en el congelador para usarlos más adelante."
+     ],
+     [
+      null,
+      "TENGA EN CUENTA: Esta receta es más alta en potasio y el tamaño de la porción es importante. Consulte con su dietista registrado para saber cómo puede incluir esta receta en su alimentación."
+     ],
+     [
+      "Uso de adobos para dar sabor sin sal",
+      "Reducir el consumo de sodio es un elemento clave de la alimentación para la enfermedad renal crónica. Para lograrlo, a menudo se aconseja reducir o eliminar la sal de la dieta diaria. Esto puede hacer que los alimentos sepan muy distinto de lo que está acostumbrado. Sin sal, la comida puede parecer insípida, ¡pero no se desanime! Usar hierbas, especias y cítricos para preparar adobos caseros es una manera fácil de dar sabor sin sal ni otros condimentos altos en sodio.\n\nLos adobos suelen contener tres ingredientes básicos: aceite, para mantener la humedad del alimento y ligar las especias; un ácido, como vinagre, jugo de limón u otro cítrico, para ablandar; y hierbas y especias para dar sabor. Preparar su propio adobo es una buena idea, porque los adobos comprados suelen ser altos en sodio y potasio.\n\nAgregue las carnes o verduras al adobo y guárdelas en el refrigerador hasta que llegue el momento de cocinarlas. Cuanto más tiempo permanezca el alimento en el adobo, más sabor absorberá.\n\nAdobe los alimentos en un recipiente de vidrio o de plástico, no de metal, ya que el ácido del adobo puede reaccionar con el metal. Saque el alimento del recipiente y deseche el adobo sobrante para evitar la contaminación cruzada, que puede causar intoxicación alimentaria. Si desea agregar adobo a la comida ya cocida, planifique con anticipación y aparte una porción de adobo que no haya estado en contacto con carne cruda."
+     ]
+    ],
+    "food_choices": [
+     "4 carne",
+     "2 almidón",
+     "½ verdura baja en potasio"
+    ]
+   },
+   "ar": {
+    "title": "ساندويتش ستيك بصلصة التشيميتشوري",
+    "description": null,
+    "portions": "4",
+    "serving_size": "¼ الوصفة",
+    "ingredients": [
+     [
+      "تشيميتشوري",
+      "¼ كوب أوراق بقدونس"
+     ],
+     [
+      "تشيميتشوري",
+      "¼ كوب أوراق كزبرة خضراء"
+     ],
+     [
+      "تشيميتشوري",
+      "¼ ملعقة صغيرة أوريجانو مجفف"
+     ],
+     [
+      "تشيميتشوري",
+      "1 رشة رقائق فلفل حار مجفف"
+     ],
+     [
+      "تشيميتشوري",
+      "1 فص ثوم"
+     ],
+     [
+      "تشيميتشوري",
+      "1½ ملعقة صغيرة عصير ليمون"
+     ],
+     [
+      "تشيميتشوري",
+      "1 ملعقة كبيرة خل النبيذ الأحمر"
+     ],
+     [
+      "تشيميتشوري",
+      "⅓ كوب زيت زيتون"
+     ],
+     [
+      "الساندويتش",
+      "1 رطل ستيك ستريب (شريحة لحم الخاصرة)"
+     ],
+     [
+      "الساندويتش",
+      "1 كوب فلفل رومي أحمر وبرتقالي مقطع شرائح"
+     ],
+     [
+      "الساندويتش",
+      "1 كوب بصل أحمر مقطع شرائح"
+     ],
+     [
+      "الساندويتش",
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      "الساندويتش",
+      "4 خبز تشاباتا، مقطوع نصفين بالطول"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "لتحضير التشيميتشوري، ضع جميع المكونات في الخلاط أو محضرة الطعام واهرسها حتى تصبح ناعمة. احتفظ بنصف الخليط لتتبيل الستيك وبالنصف الآخر لرشه على الساندويتشات."
+     ],
+     [
+      null,
+      "تبّل شرائح الستيك في الثلاجة لمدة ساعة واحدة على الأقل. ويمكن ترك الستيك في التتبيلة لمدة تصل إلى 24 ساعة."
+     ],
+     [
+      null,
+      "في مقلاة على نار متوسطة إلى عالية، قلّب الفلفل والبصل في زيت الزيتون حتى يصبح البصل شفافًا ويبدأ الفلفل في الطراوة. ضعه جانبًا."
+     ],
+     [
+      null,
+      "سخّن الشواية مسبقًا. اشوِ الستيك حتى تصل حرارته الداخلية إلى 145° فهرنهايت (65° مئوية). اتركه يرتاح في درجة حرارة الغرفة لمدة 10 دقائق قبل تقطيعه."
+     ],
+     [
+      null,
+      "حمّص خبز التشاباتا."
+     ],
+     [
+      null,
+      "قطّع الستيك إلى شرائح رفيعة."
+     ],
+     [
+      null,
+      "لتجميع الساندويتشات، وزّع شرائح الستيك الرفيعة بالتساوي على خبز التشاباتا المحمص. رشّ عليها التشيميتشوري وضع فوقها الفلفل والبصل."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "يمكن استخدام تتبيلة التشيميتشوري مع أي نوع من قطع اللحم."
+     ],
+     [
+      null,
+      "هذه الصلصة الملونة من المطبخ الأرجنتيني تُستخدم كتتبيلة وكصلصة ترافق جميع قطع اللحم البقري. ويمكن تحضيرها مسبقًا وتجميدها في قوالب مكعبات الثلج. وبعد أن تتجمد المكعبات، ضعها في كيس تجميد واحفظها في الفريزر لاستخدامها لاحقًا."
+     ],
+     [
+      null,
+      "يرجى الانتباه: هذه الوصفة أعلى في البوتاسيوم، وحجم الحصة مهم. استشر أخصائي التغذية المعتمد لمعرفة كيف يمكن إدراج هذه الوصفة في نظامك الغذائي."
+     ],
+     [
+      "استخدام التتبيلات لإضافة النكهة بدون ملح",
+      "يُعد تقليل استهلاك الصوديوم عنصرًا أساسيًا في النظام الغذائي لمرض الكلى المزمن. ولتحقيق ذلك، يُنصح المريض غالبًا بتقليل الملح أو الاستغناء عنه في نظامه الغذائي اليومي. وقد يجعل ذلك مذاق الأطعمة مختلفًا كثيرًا عما اعتدت عليه. فبدون الملح قد يبدو الطعام باهتًا، لكن لا تيأس! فاستخدام الأعشاب والبهارات والحمضيات لتحضير تتبيلات منزلية طريقة سهلة لإضافة النكهة بدون ملح أو غيره من التوابل الغنية بالصوديوم.\n\nتحتوي التتبيلات عادةً على ثلاثة مكونات أساسية: الزيت للحفاظ على رطوبة الطعام وربط البهارات؛ ومادة حمضية مثل الخل أو عصير الليمون أو غيره من الحمضيات لتطرية الطعام؛ والأعشاب والبهارات لإضافة النكهة. ومن الأفضل أن تحضّر التتبيلة بنفسك، لأن التتبيلات الجاهزة غالبًا ما تكون مرتفعة الصوديوم والبوتاسيوم.\n\nأضف اللحوم و/أو الخضار إلى التتبيلة وضعها في الثلاجة إلى أن يحين وقت طهيها. وكلما طالت مدة نقع الطعام في التتبيلة، امتص نكهة أكثر.\n\nتبّل الطعام في وعاء زجاجي أو بلاستيكي، وليس معدنيًا، لأن الحمض الموجود في التتبيلة قد يتفاعل مع المعدن. أخرج الطعام من الوعاء وتخلص من التتبيلة المتبقية لتجنب التلوث المتبادل الذي قد يؤدي إلى التسمم الغذائي. وإذا أردت إضافة التتبيلة إلى الطعام المطبوخ، فخطط مسبقًا واحتفظ بجزء من التتبيلة لم يُضف إليه أي لحم نيء لهذا الغرض."
+     ]
+    ],
+    "food_choices": [
+     "4 لحوم",
+     "2 نشويات",
+     "½ خضار منخفضة البوتاسيوم"
+    ]
+   }
+  }
+ }
+]

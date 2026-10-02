@@ -29,6 +29,7 @@ IMAGES = os.path.join(HERE, "images")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 WORKERS = 1
+OFFLINE = os.environ.get("KCUK_OFFLINE") == "1"   # cache-only run
 MIN_INTERVAL = 3.0   # seconds between live requests (Cloudflare rate-limits bursts with 403/1106)
 _last = [0.0]
 _lock = __import__("threading").Lock()
@@ -49,7 +50,7 @@ def fetch(url, binary=False, use_cache=True):
     if use_cache and not binary and os.path.exists(path):
         with open(path, encoding="utf-8") as f:
             return 200, f.read()
-    if _blocked[0] >= 5:
+    if _blocked[0] >= 5 or (OFFLINE and not binary):
         return 403, None
     delay = 2
     for attempt in range(6):
@@ -169,7 +170,7 @@ CATS = [
     ("Fish & Seafood", r"\b(fish|salmon|tuna|cod|haddock|prawns?|shrimp|mackerel|sardines?|trout|seafood|crab|mussels?|scampi|plaice|pollock|hake|tilapia|sea bass|squid|kedgeree)\b"),
     ("Chicken & Turkey", r"\b(chicken|turkey|duck)\b"),
     ("Beef, Lamb & Pork", r"\b(beef|lamb|pork|sausages?|bacon|ham|mince|steak|meatballs?|gammon|chorizo|bolognese|cottage pie|shepherd'?s pie|keema|burger)\b"),
-    ("Pasta, Rice & Grains", r"\b(pasta|spaghetti|penne|lasagne|lasagna|macaroni|mac|noodles?|rice|risotto|couscous|orzo|tagliatelle|fusilli|linguine|gnocchi|paella|pilau|pilaf|biryani|jollof|quinoa|bulgur|polenta|ravioli|carbonara|arrabbiata|puttanesca|farfalle|rigatoni|fettuccine|congee|barley|grains?)\b"),
+    ("Pasta, Rice & Grains", r"\b(pasta|spaghetti|penne|lasagne|lasagna|macaroni|macaro|mac|noodles?|rice|risotto|couscous|orzo|tagliatelle|fusilli|linguine|gnocchi|paella|pilau|pilaf|biryani|jollof|quinoa|bulgur|polenta|ravioli|carbonara|arrabbiata|puttanesca|farfalle|rigatoni|fettuccine|congee|barley|grains?)\b"),
     ("Appetizers & Snacks", r"\b(snacks?|bites|crisps|popcorn|samosas?|pakoras?|bhajis?|fritters?|spring rolls?|canap[eé]s|nibbles|crackers?|skewers|wings|nuggets|goujons|dippers|starter|appetiser|appetizer|sausage rolls?|vol[- ]au[- ]vents?|tapas|pinwheels?|croquettes?|arancini|tikki|bhaji|chaat|scotch eggs?)\b"),
     ("Vegetables", r"\b(vegetables?|veg|potato(es)?|cauliflower|broccoli|cabbage|carrots?|courgettes?|aubergines?|peppers?|mushrooms?|spinach|beans?|lentils?|chickpeas?|tofu|squash|pumpkin|leeks?|onions?|parsnips?|swede|sweetcorn|corn|peas|greens|chips|wedges|ratatouille|curry|stir[- ]fry|tempeh|halloumi|quiche|tart|bake|roast)\b"),
 ]

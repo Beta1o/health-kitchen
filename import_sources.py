@@ -4,7 +4,7 @@ into davita_recipes.db next to the DaVita recipes, and add davita.sa photos to
 matching DaVita recipes that have none.
 
 Run after scrape_davita.py (which recreates the base tables) and before
-halal_filter.py / i18n.py. Re-runnable: it replaces earlier imports of each source.
+ingredient_filter.py / i18n.py. Re-runnable: it replaces earlier imports of each source.
 
 Usage: python3 import_sources.py
 """
@@ -89,14 +89,19 @@ def main():
             ids[(r["source_id"], r["lang"])] = rid
         primary = {r["source_id"]: ids[(r["source_id"], r["lang"])] for r in recs if not r.get("translation_of")}
 
+        seen_urls = {u for (u,) in db.execute("SELECT url FROM recipes")}
         for r in recs:
             rid = ids[(r["source_id"], r["lang"])]
+            url = r["url"] if r["lang"] == "en" or not r.get("translation_of") else r["url"] + f"#{r['lang']}"
+            if url in seen_urls:   # several recipes in one PDF/page share a URL
+                url = f'{r["url"]}#{r["source_id"]}-{r["lang"]}'
+            seen_urls.add(url)
             canon = primary.get(r.get("translation_of") or r["source_id"], rid)
             cat = r.get("category") if r.get("category") in CATEGORIES else "Vegetables"
             n = r.get("nutrients") or {}
             row = {
                 "id": rid, "site": key, "language": r["lang"], "wp_id": idx_of(rid, off), "slug": r["source_id"],
-                "title": r["title"], "url": r["url"] if r["lang"] == "en" or not r.get("translation_of") else r["url"] + f"#{r['lang']}",
+                "title": r["title"], "url": url,
                 "category": cat, "category_en": cat, "description": r.get("description"),
                 "image_url": r.get("image_url"), "image_path": r.get("image_path") if r.get("image_path") and (HERE / r["image_path"]).exists() else None,
                 "portions": r.get("portions"), "serving_size": r.get("serving_size"),

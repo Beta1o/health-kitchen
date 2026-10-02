@@ -1,125 +1,91 @@
-# Kidney Kitchen: DaVita recipe database and gallery
+<p align="center">
+  <a href="https://beta1o.github.io/health-kitchen/"><img src="assets/logo.svg" width="96" height="96" alt="Health Kitchen logo"></a>
+</p>
 
-This project collects every kidney-friendly recipe published by DaVita (davita.com and espanol.davita.com) into a SQLite database. It removes recipes that are not halal, translates every recipe into English, Spanish and Arabic, and serves them through a searchable gallery.
+<h1 align="center">Health Kitchen</h1>
+
+<p align="center">
+  Recipes for kidney disease, diabetes, high blood pressure and heart health,<br>
+  in <b>English</b>, <b>Español</b> and <b>العربية</b>, with nutrition plans built in.<br><br>
+  <a href="https://beta1o.github.io/health-kitchen/"><b>Open the app →</b></a>
+</p>
+
+---
+
+## What's inside
 
 | | |
 |---|---|
-| Recipes collected | 1,403 (1,258 English pages + 145 Spanish pages, matching the sites' sitemaps 1:1) |
-| Removed as not halal | 187 (pork, pork-derived gelatin, alcohol), listed in `excluded_recipes` |
-| Unique recipes in the gallery | 1,135 (81 Spanish pages are DaVita's own translations of English recipes and are merged with them) |
-| Languages | English, Spanish, Arabic for every recipe. Official DaVita text where it exists, otherwise translated |
+| Recipes in the app | **1,469** unique recipes |
+| Sources | DaVita (davita.com, espanol.davita.com, davita.sa), AAKP, Kidney Care UK, My Renal Nutrition |
+| Languages | English, Spanish and Arabic for every recipe. Official text is used where the source publishes it; the rest is translated |
+| Photos | 774 recipes. Recipes without one get a colour-coded illustrated title card |
+| Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
 
-## Quick start: just open the gallery
+## The app
 
-Open `gallery/index.html` in any modern browser (Chrome, Edge, Firefox, Safari). Double-clicking it works, and no server is needed. Photos load from `gallery/thumbs/`.
+Open `gallery/index.html` in any modern browser, or use the hosted version at **https://beta1o.github.io/health-kitchen/**. It works offline: data, fonts and images all ship with the page.
 
-To serve it on your network instead:
+- **Health plans:** kidney (dialysis, CKD, CKD with diabetes), diabetes, high blood pressure (DASH), heart health and general eating. Each plan tracks the nutrients that matter for it, as limits or goals, using values you can edit.
+- **Recipe cards** show the active plan's key nutrients, coloured by their share of one meal.
+- **Dietitian's view** on each recipe: meters against your plan, the phosphorus-to-protein ratio for kidney plans, and automatic notes.
+- **My day:** add recipes to today's plan and watch the daily rings fill.
+- **Meal plans** for 7, 14, 30, 60, 120 or 365 days, built from the collection to stay within your daily limits.
+- **Search and filters:** search in any language, filter by diet type, category, dish type, cook method, cuisine, number of servings, photo and source, set nutrient limits, or leave out an ingredient.
+- **Cooking aids:** tick off ingredients and steps, save favourites, copy a recipe, export it to PDF, or share a link to it (`#en-r2430`, `#ar-r2430`).
+- **Light and dark themes**, a right-to-left layout for Arabic, and bottom navigation on phones.
 
-```bash
-cd gallery
-python3 -m http.server 8000
-# then open http://localhost:8000
-```
+Nutrition levels and plan amounts are a guide only. Patients should follow the limits their doctor or dietitian gives them.
 
-### What the gallery does
+## Ingredient policy
 
-- **Search** recipe names and ingredients in the selected language. Arabic search ignores diacritics and alef/taa-marbuta variants.
-- **Switch language** between English, Español and عربي at the top. Arabic switches the whole layout to right-to-left.
-- **Refine results by** the same facets DaVita uses: Diet Type, Category, Dish Type, Cook Method, Holiday, Cuisine, Number of Servings and Includes a Recipe Photo. Counts update live as you filter.
-- **Use kidney quick picks** (low sodium, low potassium, low phosphorus, under 300 calories, lower protein), **set nutrient limits** with per-serving sliders, and **leave out an ingredient** (e.g. "tomato, cheese").
-- **Read colour-coded sodium, potassium and phosphorus values** on every card.
-- **Open a recipe** for the image, portions, serving size, diet types, ingredients (tick them off), preparation (tap steps when done), nutrients per serving, kidney and kidney diabetic food choices, carbohydrate choices, helpful hints and the cooking video.
-- **Save recipes**, which are kept in your browser. You can also **copy a recipe** as text and **link to one directly** (`index.html#r2430`).
+Recipes containing pork or pork products, pork-derived gelatin (gelatin, Jell-O, marshmallows) or alcohol (wine, beer, spirits, mirin, cooking wine) are left out. That is **219** recipes: 100 pork, 58 gelatin and 70 alcohol, where a recipe can have more than one reason. Each one is recorded with the exact matching ingredient lines in the `excluded_recipes` table.
 
-## Setup to rebuild or refresh the data
+Wine vinegar, root beer and marshmallow crème are kept. Hints and descriptions that suggested pork or alcohol as a swap or serving idea were rewritten in all three languages (`translations/policy_text_fixes*.json`).
 
-Requirements: Python 3.10+ and internet access.
+## Rebuild the data
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### Pipeline
-
-Run these in order from the project folder:
+Requirements: Python 3.10+, internet access and `pip install -r requirements.txt` (requests, Pillow).
 
 ```bash
-python3 scrape_davita.py     # 1. download recipes, ratings and images -> davita_recipes.db, images/
-python3 halal_filter.py      # 2. remove pork / pork-derived gelatin / alcohol recipes (use --dry-run to review first)
-python3 i18n.py build        # 3. link Spanish pages to their English originals, load official text per language
-python3 i18n.py status       #    shows how many recipes still need a translation per language
-python3 i18n.py export       # 4. (only if something is missing) write translation jobs to translations/jobs_N.json
-#                                 translate them into translations/out_N.json following translations/GUIDE.md,
-#                                 then check each batch: python3 translations/validate.py N
-python3 i18n.py import       # 5. load translations into the database (never overwrites official DaVita text)
-python3 build_gallery.py     # 6. regenerate gallery/
+python3 scrape_davita.py            # 1. DaVita recipes, ratings, photos      -> davita_recipes.db (recreates base tables)
+python3 sources/<key>/scrape.py     # 2. each external source                  -> sources/<key>/recipes.json
+python3 import_sources.py           # 3. load external sources into the database
+python3 ingredient_filter.py        # 4. apply the ingredient policy (--dry-run to review)
+python3 i18n.py build               # 5. link translations, load official text per language
+python3 i18n.py import              # 6. load translations/out_*.json
+python3 i18n.py fixes               # 7. apply text policy fixes (safe to repeat)
+python3 i18n.py status              #    coverage per language
+python3 fonts/fetch_fonts.py        # 8. (once) embed the app fonts
+python3 build_gallery.py            # 9. build gallery/
 ```
 
-`scrape_davita.py` caches every API response and page in `cache/`, so later runs are fast. Delete `cache/` to force a fresh download. Flags: `--no-ratings` and `--no-images`.
+The steps must run in this order, because each one builds on the previous. To translate recipes that are still missing a language, run `python3 i18n.py export`, translate the new `translations/jobs_*.json` files following `translations/GUIDE.md`, check them with `translations/validate.py` and `translations/crosscheck.py`, then repeat steps 6, 7 and 9.
 
-## How the data was collected
+Raw downloads (`cache/`, `images/`, `sources/*/cache`, `sources/*/images`) are not in the repository; the scrapers recreate them.
 
-- **Recipes, nutrients and categories** come from the sites' public WordPress REST API (`/wp-json/wp/v2/dv-recipe` and its taxonomies). robots.txt allows crawling.
-- **Star ratings** come from each recipe page's header, since the API doesn't include them. The Spanish site shows no ratings.
-- **Completeness check:** the database URLs match `dv-recipe-sitemap*.xml` on both sites exactly (1,403 = 1,403), and the English search page itself reports "1258 results found".
-- **Not included:** the 51 DaVita cookbooks, which are downloads behind a DaVita account sign-in.
-
-## Halal filter
-
-`halal_filter.py` checks every ingredient line (English and Spanish), plus titles for unambiguous pork words. It removes recipes containing:
-
-| Reason | Examples | Recipes removed |
-|---|---|---|
-| Pork | pork, bacon, ham, prosciutto, Andouille/pork sausage, chorizo (pork), carnitas, baby back ribs, cerdo, jamón | 79 |
-| Pork-derived gelatin | gelatin, Jell-O gelatin, Knox® gelatin, marshmallows, gelatina, malvaviscos | 55 |
-| Alcohol | wine, cooking wine, sherry, Marsala, beer, rum, brandy, champagne, mirin, Shaoxing wine, vino, jerez | 59 |
-
-Some recipes match more than one reason, so the 187 total is lower than the sum.
-
-Kept, as permissible under the mainstream view: wine vinegar, root beer, marshmallow crème/fluff (no gelatin), turkey bacon, turkey/chicken/beef sausage, and the beef-based "Easy Chorizo". Three kept recipes use **rum or root beer extract** as a flavouring (Vanilla Root Beer Delight, Spiced Eggnog, Zingy Spiced Pears; `SELECT * FROM ingredients WHERE text LIKE '%extract%' AND (text LIKE '%rum%' OR text LIKE '%root beer%')`). Remove them too if you follow the stricter view.
-
-Every removed recipe is kept for review in the `excluded_recipes` table with its reason and the exact ingredient lines that matched.
-
-## Database (`davita_recipes.db`)
+## Database: `davita_recipes.db` (SQLite)
 
 | Table | Contents |
 |---|---|
-| `recipes` | One row per source page: title, url, category, portions, serving size, rating, comments, the 11 nutrients (number columns plus `_raw` text), carbohydrate choices, image url/path, video url/poster/subtitles, raw HTML. `canonical_id` points Spanish translations at their English recipe |
-| `ingredients`, `steps`, `hints`, `food_choices` | Ordered lists per page as scraped, with sub-group labels (e.g. "Dressing") |
+| `recipes` | One row per source page: site, source name, language, URL, category, portions, serving size, 11 nutrients (number and raw text), carbohydrate choices, image, video, times. `canonical_id` links translations of the same recipe |
+| `ingredients`, `steps`, `hints`, `food_choices` | Text per page, as published |
+| `recipe_i18n`, `*_i18n` | Text per recipe and language (`en`/`es`/`ar`). `source` is `davita` for official text and `translated` otherwise |
 | `terms`, `recipe_terms` | Diet type, category, dish type, cuisine, holiday, cooking method |
-| `recipe_i18n`, `ingredients_i18n`, `steps_i18n`, `hints_i18n`, `food_choices_i18n` | Text per canonical recipe and language (`en`/`es`/`ar`). `source` is `davita` (official) or `translated` |
-| `excluded_recipes` | Recipes removed by the halal filter, with reasons |
-| `recipe_overview` (view) | One row per page with diet types and nutrients |
-
-Example queries:
+| `excluded_recipes` | Recipes left out by the ingredient policy, with the reason |
 
 ```sql
--- Arabic version of a recipe
-SELECT title, portions, serving_size FROM recipe_i18n WHERE recipe_id = 2430 AND lang = 'ar';
-SELECT text FROM ingredients_i18n WHERE recipe_id = 2430 AND lang = 'ar' ORDER BY position;
-
--- low sodium, low potassium dialysis recipes
-SELECT title, sodium_mg, potassium_mg FROM recipe_overview
-WHERE diet_types LIKE '%Dialysis%' AND sodium_mg <= 140 AND potassium_mg <= 200;
+SELECT title, portions FROM recipe_i18n WHERE recipe_id = 2430 AND lang = 'ar';
+SELECT text FROM ingredients_i18n WHERE recipe_id = 2430 AND lang = 'es' ORDER BY position;
 ```
 
-## Project files
+## Not included
 
-| File | Purpose |
-|---|---|
-| `scrape_davita.py` | Downloads everything into the database |
-| `halal_filter.py` | Removes non-halal recipes and records why |
-| `i18n.py` | Multilingual tables, translation export/import, coverage status |
-| `terms_i18n.py` | Filter values (categories, diets, ...) in English, Spanish and Arabic |
-| `translations/` | Translation guide, jobs, translated output and validator |
-| `build_gallery.py`, `gallery_template.html` | Builds the gallery |
-| `gallery/` | The built app (`index.html`, thumbnails, packed image chunks, `artifact.html` for publishing) |
-| `images/` | Full-size recipe photos |
-| `cache/` | Raw API responses (safe to delete) |
+- **Mayo Clinic** blocks automated access.
+- **DaVita cookbooks** are behind a sign-in.
+- The **davita.sa cookbook PDFs** are not parsed.
+- **AAKP:** 4 listed recipes link to the wrong PDF on AAKP's own site.
 
-## Notes
+## Credits
 
-- The colour levels in the gallery (sodium, potassium and phosphorus per serving) are a sorting aid only. Patients should follow the limits their dietitian gives them.
-- Recipe content and photos belong to DaVita Inc. This project is for personal and educational use.
+Recipe text, nutrition data and photos belong to their publishers: DaVita Inc., the American Association of Kidney Patients, Kidney Care UK and My Renal Nutrition (Vitaflo). Every recipe links back to its original page. The project code is provided as-is for personal and educational use.

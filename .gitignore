@@ -7,3 +7,4 @@ fonts/cache_*
 __pycache__/
 *.pyc
 .venv/
+gallery/artifact.html

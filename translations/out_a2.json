@@ -1,0 +1,7422 @@
+[
+ {
+  "id": 5439314,
+  "translations": {
+   "es": {
+    "title": "Batido de durazno y frambuesa",
+    "description": "¡Prepare un refrescante batido de durazno y frambuesa, apto para el cuidado de los riñones! Esta receta deliciosa y fácil de hacer es perfecta para darse un gusto saludable y afrutado.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "45 g de duraznos"
+     ],
+     [
+      null,
+      "30 g de frambuesas"
+     ],
+     [
+      null,
+      "125 ml de Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga los duraznos y las frambuesas en la licuadora."
+     ],
+     [
+      null,
+      "Vierta el Renastep en la licuadora con los duraznos y las frambuesas, y licúe hasta obtener una mezcla homogénea."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto. Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سموذي الخوخ والتوت الأحمر",
+    "description": "حضّر سموذي منعشًا بالخوخ والتوت الأحمر مناسبًا لمرضى الكلى! هذه الوصفة اللذيذة والسهلة مثالية لتحلية صحية بنكهة الفاكهة.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "45 غرام خوخ"
+     ],
+     [
+      null,
+      "30 غرام توت أحمر (فرامبواز)"
+     ],
+     [
+      null,
+      "125 مل من Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع الخوخ والتوت الأحمر في الخلاط."
+     ],
+     [
+      null,
+      "اسكب Renastep في الخلاط مع الخوخ والتوت، واخلط حتى يصبح المزيج ناعمًا."
+     ],
+     [
+      null,
+      "قدّمه واستمتع به!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج. صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5445414,
+  "translations": {
+   "es": {
+    "title": "Ensalada de pasta",
+    "description": "Esta ensalada de pasta rápida y sencilla se prepara en 15 minutos con solo cinco ingredientes. Ideal después de un día largo. Aprenda a prepararla.",
+    "portions": "2",
+    "serving_size": "219 g",
+    "ingredients": [
+     [
+      null,
+      "260 g de pasta penne"
+     ],
+     [
+      null,
+      "100 g de pepino, cortado en cubitos"
+     ],
+     [
+      null,
+      "50 g de queso feta, cortado en cubitos"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "1 cucharada de jugo de limón"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Hierva la pasta hasta que esté bien cocida, enjuáguela con agua fría y resérvela para que se enfríe."
+     ],
+     [
+      null,
+      "En un tazón grande, mezcle la pasta, el pepino y el queso feta."
+     ],
+     [
+      null,
+      "Bata el aceite de oliva con el jugo de limón hasta que emulsionen."
+     ],
+     [
+      null,
+      "Vierta el aderezo sobre la mezcla de pasta y revuelva hasta que todo quede bien cubierto."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سلطة المعكرونة",
+    "description": "تُحضَّر سلطة المعكرونة السريعة والبسيطة هذه في 15 دقيقة بخمسة مكونات فقط. مثالية بعد يوم طويل. تعرّف على طريقة تحضيرها.",
+    "portions": "2",
+    "serving_size": "219 غرام",
+    "ingredients": [
+     [
+      null,
+      "260 غرام معكرونة بيني"
+     ],
+     [
+      null,
+      "100 غرام خيار، مقطع إلى مكعبات صغيرة"
+     ],
+     [
+      null,
+      "50 غرام جبن فيتا، مقطع إلى مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير ليمون"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اسلق المعكرونة حتى تنضج تمامًا، ثم اشطفها بالماء البارد واتركها جانبًا لتبرد."
+     ],
+     [
+      null,
+      "في وعاء كبير، اخلط المعكرونة والخيار وجبن الفيتا."
+     ],
+     [
+      null,
+      "اخفق زيت الزيتون مع عصير الليمون حتى يتجانسا."
+     ],
+     [
+      null,
+      "اسكب الصلصة فوق خليط المعكرونة وقلّب حتى يتغطى الخليط جيدًا."
+     ],
+     [
+      null,
+      "قدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5474634,
+  "translations": {
+   "es": {
+    "title": "Albóndigas en salsa boloñesa con poco tomate",
+    "description": "Una versión de albóndigas en salsa boloñesa con poco tomate, que da como resultado un plato básico sabroso y lleno de sabor para quienes siguen una dieta renal. Pruebe prepararla esta noche.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 cucharada de aceite"
+     ],
+     [
+      null,
+      "400 g de carne de res molida"
+     ],
+     [
+      null,
+      "½ cebolla grande, picada"
+     ],
+     [
+      null,
+      "½ cucharadita de nuez moscada molida"
+     ],
+     [
+      null,
+      "1 zanahoria, picada"
+     ],
+     [
+      null,
+      "1 tallo de apio, finamente picado"
+     ],
+     [
+      null,
+      "1 diente de ajo, finamente picado"
+     ],
+     [
+      null,
+      "1 cubito de caldo de pollo o de res reducido en sal, con 200 ml de agua"
+     ],
+     [
+      null,
+      "100 ml de passata (puré de tomate colado)"
+     ],
+     [
+      null,
+      "10 g de albahaca fresca"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 ºC / 160 ºC con ventilador / 350 ºF / gas marca 4."
+     ],
+     [
+      null,
+      "Divida los 400 g de carne molida en 16 albóndigas del mismo tamaño y deles forma con las manos. Luego colóquelas en una bandeja para hornear."
+     ],
+     [
+      null,
+      "Cocine las albóndigas en el horno durante 20 minutos."
+     ],
+     [
+      null,
+      "Caliente el aceite en una sartén y fría la cebolla, la zanahoria y el apio durante 5 minutos. Agregue el ajo y fría un minuto más."
+     ],
+     [
+      null,
+      "Agregue el caldo, la passata, la albahaca y la nuez moscada, y sazone con sal y pimienta al gusto."
+     ],
+     [
+      null,
+      "Cocine a fuego lento durante aproximadamente una hora. Deje la tapa de la olla ligeramente entreabierta para que salga el vapor."
+     ],
+     [
+      null,
+      "Añada la salsa a las albóndigas cocidas. Sirva con pasta y pan de ajo. Esta receta proviene del Kidney Friendly Cookbook (recetario apto para el cuidado de los riñones), elaborado por dietistas y auxiliares de dietética de una unidad renal pediátrica del Reino Unido. Consulte con su dietista o médico si esta receta es adecuada para usted."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "كرات اللحم بصلصة البولونيز قليلة الطماطم",
+    "description": "نسخة من كرات اللحم بصلصة البولونيز بكمية قليلة من الطماطم، تقدّم طبقًا أساسيًا لذيذًا وغنيًا بالنكهة لمن يتّبعون النظام الغذائي الكلوي. جرّب تحضيرها الليلة.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة زيت"
+     ],
+     [
+      null,
+      "400 غرام لحم بقري مفروم"
+     ],
+     [
+      null,
+      "½ بصلة كبيرة، مفرومة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة جوزة الطيب المطحونة"
+     ],
+     [
+      null,
+      "1 جزرة، مفرومة"
+     ],
+     [
+      null,
+      "1 عود كرفس، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 فص ثوم، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 مكعب مرق دجاج أو لحم بقري مخفض الملح، مع 200 مل ماء"
+     ],
+     [
+      null,
+      "100 مل باساتا (صلصة طماطم مصفّاة)"
+     ],
+     [
+      null,
+      "10 غرام ريحان طازج"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 160° مئوية للفرن بمروحة / 350° فهرنهايت / مستوى الغاز 4."
+     ],
+     [
+      null,
+      "قسّم الـ 400 غرام من اللحم المفروم إلى 16 كرة متساوية الحجم وشكّلها بيديك، ثم ضع كرات اللحم في صينية خبز."
+     ],
+     [
+      null,
+      "اطهِ كرات اللحم في الفرن لمدة 20 دقيقة."
+     ],
+     [
+      null,
+      "سخّن الزيت في مقلاة وقلّب فيه البصل والجزر والكرفس لمدة 5 دقائق. أضف الثوم واستمر في القلي لمدة دقيقة إضافية."
+     ],
+     [
+      null,
+      "أضف المرق والباساتا والريحان وجوزة الطيب، وتبّل بالملح والفلفل حسب الرغبة."
+     ],
+     [
+      null,
+      "اترك الصلصة تغلي على نار هادئة لمدة ساعة تقريبًا، مع ترك غطاء القدر مفتوحًا قليلًا ليخرج البخار."
+     ],
+     [
+      null,
+      "أضف الصلصة إلى كرات اللحم المطهوة، وقدّمها مع المعكرونة وخبز الثوم. هذه الوصفة مأخوذة من كتاب Kidney Friendly Cookbook (كتاب طبخ مناسب لمرضى الكلى) الذي أعدّه اختصاصيو التغذية ومساعدو التغذية في وحدة كلى للأطفال في المملكة المتحدة. يُرجى التحقق مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5479210,
+  "translations": {
+   "es": {
+    "title": "Pastel de pescado con masa filo",
+    "description": "Esta sencilla receta de pastel de pescado lleva solo cinco ingredientes y se prepara en apenas 25 minutos. Ideal como plato principal para cuatro personas.",
+    "portions": "4",
+    "serving_size": "226 g",
+    "ingredients": [
+     [
+      null,
+      "300 g de mezcla congelada para pastel de pescado (mezcla de salmón y camarones, descongelada)"
+     ],
+     [
+      null,
+      "400 ml de leche de arroz"
+     ],
+     [
+      null,
+      "50 g de mantequilla (derretida)"
+     ],
+     [
+      null,
+      "1 cucharada de harina"
+     ],
+     [
+      null,
+      "135 g (½ paquete) de masa filo"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 160 °C / 320 °F / gas marca 3."
+     ],
+     [
+      null,
+      "Coloque la mezcla de pescado congelada en una olla grande, cúbrala con la leche de arroz y déjela hervir a fuego lento hasta que el pescado apenas esté cocido."
+     ],
+     [
+      null,
+      "Retire el pescado y póngalo en un tazón; vierta la leche en una jarra y resérvela."
+     ],
+     [
+      null,
+      "Ponga ½ de la mantequilla derretida en una olla, agregue la harina y cocine hasta que se integren."
+     ],
+     [
+      null,
+      "Añada poco a poco la leche a la olla, batiendo para deshacer los grumos, y siga agregando hasta obtener una salsa espesa que cubra el dorso de una cuchara."
+     ],
+     [
+      null,
+      "Vuelva a incorporar la mezcla de pescado a la salsa y viértala en un recipiente redondo para horno."
+     ],
+     [
+      null,
+      "Arrugue la masa filo formando bolitas y colóquelas sobre la mezcla de pescado; asegúrese de cubrir la masa filo con el resto de la mantequilla."
+     ],
+     [
+      null,
+      "Hornee durante 20 minutos o hasta que esté bien dorado."
+     ],
+     [
+      null,
+      "Saque del horno, ¡sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "فطيرة السمك بعجينة الفيلو",
+    "description": "تحتوي وصفة فطيرة السمك البسيطة هذه على خمسة مكونات فقط ولا يستغرق تحضيرها سوى 25 دقيقة. مثالية كوجبة رئيسية لأربعة أشخاص.",
+    "portions": "4",
+    "serving_size": "226 غرام",
+    "ingredients": [
+     [
+      null,
+      "300 غرام خليط مجمّد لفطيرة السمك (خليط سلمون وروبيان، بعد إذابته)"
+     ],
+     [
+      null,
+      "400 مل حليب أرز"
+     ],
+     [
+      null,
+      "50 غرام زبدة (مذوّبة)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة دقيق"
+     ],
+     [
+      null,
+      "135 غرام (½ عبوة) عجينة فيلو"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 160° مئوية / 320° فهرنهايت / مستوى الغاز 3."
+     ],
+     [
+      null,
+      "ضع خليط السمك المجمّد في قدر كبير وغطّه بحليب الأرز، واتركه يغلي على نار هادئة حتى ينضج السمك بالكاد."
+     ],
+     [
+      null,
+      "أخرج السمك وضعه في وعاء، واسكب الحليب في إبريق واتركه جانبًا."
+     ],
+     [
+      null,
+      "ضع ½ كمية الزبدة المذوّبة في قدر وأضف الدقيق، واتركه على النار حتى يتجانس."
+     ],
+     [
+      null,
+      "أضف الحليب إلى القدر تدريجيًا مع الخفق للتخلص من أي كتل، واستمر في الإضافة حتى يصبح الخليط صلصة كثيفة تغطي ظهر الملعقة."
+     ],
+     [
+      null,
+      "أعد خليط السمك إلى الصلصة، ثم اسكبه في طبق فرن دائري."
+     ],
+     [
+      null,
+      "جعّد عجينة الفيلو على شكل كرات وضعها فوق خليط السمك، مع دهن الفيلو بباقي الزبدة."
+     ],
+     [
+      null,
+      "اخبز لمدة 20 دقيقة أو حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      null,
+      "أخرجها من الفرن، وقدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5481420,
+  "translations": {
+   "es": {
+    "title": "Tacos de tofu",
+    "description": "Pruebe estos tacos de tofu llenos de sabor, con tofu sazonado, ingredientes frescos y una salsa cremosa: sabrosos, ricos en proteína y perfectos para una noche de tacos.",
+    "portions": "4",
+    "serving_size": "123 g",
+    "ingredients": [
+     [
+      null,
+      "1 cucharadita de aceite de oliva"
+     ],
+     [
+      null,
+      "60 g de pimiento rojo, en tiras"
+     ],
+     [
+      null,
+      "60 g de cebolla, en rodajas"
+     ],
+     [
+      null,
+      "1 cucharadita de pimentón (paprika)"
+     ],
+     [
+      null,
+      "1 cucharadita de comino molido"
+     ],
+     [
+      null,
+      "1 cucharadita de cilantro molido"
+     ],
+     [
+      null,
+      "½ cucharadita de chile en hojuelas"
+     ],
+     [
+      null,
+      "150 g de tofu, en rebanadas"
+     ],
+     [
+      null,
+      "120 g de minitortillas de harina de trigo"
+     ],
+     [
+      "Para el guacamole de chícharos",
+      "75 g de chícharos, licuados"
+     ],
+     [
+      "Para el guacamole de chícharos",
+      "1 cucharadita de aceite de oliva"
+     ],
+     [
+      "Para el guacamole de chícharos",
+      "1 diente de ajo, rallado"
+     ],
+     [
+      "Para el guacamole de chícharos",
+      "4 g de cilantro fresco, finamente picado"
+     ],
+     [
+      "Para el guacamole de chícharos",
+      "1 cucharadita de jugo de limón verde"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente el aceite en una sartén, agregue el pimiento rojo y la cebolla, y cocine durante 1-2 minutos."
+     ],
+     [
+      null,
+      "Añada el pimentón, el comino, el cilantro molido y el chile en hojuelas, y cocine hasta que el pimiento y la cebolla estén blandos. Luego retire del fuego y páselos a un tazón."
+     ],
+     [
+      null,
+      "Caliente aceite en la misma sartén y fría el tofu hasta que esté dorado por ambos lados."
+     ],
+     [
+      null,
+      "Una vez dorado, retírelo de la sartén y resérvelo."
+     ],
+     [
+      null,
+      "En otro tazón, coloque los chícharos machacados, el aceite de oliva, el ajo, el cilantro y el jugo de limón verde, y mezcle bien."
+     ],
+     [
+      null,
+      "Ponga las tortillas en un plato y coloque encima el pimiento, la cebolla, el tofu y el guacamole de chícharos."
+     ],
+     [
+      null,
+      "Doble la parte inferior de las tortillas y luego doble los lados hacia el centro."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "تاكو التوفو",
+    "description": "جرّب تاكو التوفو المنعش هذا مع فتات التوفو المتبّل والإضافات الطازجة والصلصة الكريمية: غني بالنكهة والبروتين، ومثالي لسهرة التاكو.",
+    "portions": "4",
+    "serving_size": "123 غرام",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة صغيرة زيت زيتون"
+     ],
+     [
+      null,
+      "60 غرام فلفل رومي أحمر، مقطع شرائح"
+     ],
+     [
+      null,
+      "60 غرام بصل، مقطع شرائح"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بابريكا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كمون مطحون"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كزبرة مطحونة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة رقائق الفلفل الحار"
+     ],
+     [
+      null,
+      "150 غرام توفو، مقطع شرائح"
+     ],
+     [
+      null,
+      "120 غرام خبز تورتيا صغير من دقيق القمح"
+     ],
+     [
+      "لغواكامولي البازلاء",
+      "75 غرام بازلاء، مهروسة في الخلاط"
+     ],
+     [
+      "لغواكامولي البازلاء",
+      "1 ملعقة صغيرة زيت زيتون"
+     ],
+     [
+      "لغواكامولي البازلاء",
+      "1 فص ثوم، مبشور"
+     ],
+     [
+      "لغواكامولي البازلاء",
+      "4 غرام كزبرة خضراء، مفرومة ناعمًا"
+     ],
+     [
+      "لغواكامولي البازلاء",
+      "1 ملعقة صغيرة عصير ليمون أخضر (لايم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزيت في مقلاة وأضف الفلفل الرومي الأحمر والبصل، واطهِهما لمدة 1-2 دقيقة."
+     ],
+     [
+      null,
+      "أضف البابريكا والكمون والكزبرة المطحونة ورقائق الفلفل الحار، واطهِ حتى يلين الفلفل والبصل. ثم ارفع المقلاة عن النار وانقل الخليط إلى وعاء."
+     ],
+     [
+      null,
+      "سخّن الزيت في المقلاة نفسها، واقلِ التوفو حتى يصبح ذهبي اللون من الجهتين."
+     ],
+     [
+      null,
+      "عندما يصبح ذهبيًا، أخرجه من المقلاة واتركه جانبًا."
+     ],
+     [
+      null,
+      "في وعاء آخر، ضع البازلاء المهروسة وزيت الزيتون والثوم والكزبرة الخضراء وعصير الليمون الأخضر، واخلطها جيدًا."
+     ],
+     [
+      null,
+      "ضع خبز التورتيا في طبق، ثم وزّع عليه الفلفل والبصل والتوفو وغواكامولي البازلاء."
+     ],
+     [
+      null,
+      "اطوِ الطرف السفلي من التورتيا، ثم اطوِ الجانبين فوقه."
+     ],
+     [
+      null,
+      "قدّمه واستمتع به!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5485658,
+  "translations": {
+   "es": {
+    "title": "Macarrones con queso",
+    "description": "Una variante del clásico de macarrones con queso que lo hace adecuado para quienes siguen una dieta renal. Disfrute de este reconfortante clásico adaptado a la enfermedad renal.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      null,
+      "100 g de pasta macarrones"
+     ],
+     [
+      null,
+      "10 g de margarina vegetal"
+     ],
+     [
+      null,
+      "10 g de harina común"
+     ],
+     [
+      null,
+      "40 g de queso crema untable entero con ajo y finas hierbas"
+     ],
+     [
+      null,
+      "20 g de queso emmental"
+     ],
+     [
+      null,
+      "2 g de mostaza de grano entero"
+     ],
+     [
+      null,
+      "Una pizca de pimienta negra molida"
+     ],
+     [
+      null,
+      "½ cucharadita de nuez moscada molida"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 190 °C / 375 °F / gas marca 4."
+     ],
+     [
+      null,
+      "Ponga los macarrones en una olla con agua hirviendo. Hiérvalos durante 9-10 minutos, revolviendo de vez en cuando."
+     ],
+     [
+      null,
+      "Mientras tanto, ponga la margarina vegetal en una olla y caliéntela a fuego bajo hasta que se derrita."
+     ],
+     [
+      null,
+      "Agregue la harina a la olla y revuelva hasta formar una pasta suave. Cocine a fuego bajo durante aproximadamente 2 minutos."
+     ],
+     [
+      null,
+      "Vierta la mitad del Renastep en la olla y deje que hierva sin revolver."
+     ],
+     [
+      null,
+      "Revuelva hasta que la mezcla quede homogénea y luego bátala con un batidor. Agregue el resto del Renastep y revuelva hasta que todo se integre."
+     ],
+     [
+      null,
+      "Retire del fuego e incorpore el queso crema, el queso emmental, la mostaza de grano entero y la pimienta."
+     ],
+     [
+      null,
+      "Cuando la pasta esté cocida, escúrrala y agréguele la salsa. Revuelva bien hasta que todo se integre."
+     ],
+     [
+      null,
+      "Pase la mezcla a un recipiente apto para horno, espolvoree con la nuez moscada y hornee durante 25 minutos."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "معكرونة بالجبن",
+    "description": "لمسة جديدة على طبق المعكرونة بالجبن الكلاسيكي تجعله مناسبًا لمن يتّبعون النظام الغذائي الكلوي. استمتع بهذا الطبق الكلاسيكي الدافئ مع مراعاة احتياجات مرضى الكلى.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      null,
+      "100 غرام معكرونة مقرونة (ماكروني)"
+     ],
+     [
+      null,
+      "10 غرام سمن نباتي (مارجرين)"
+     ],
+     [
+      null,
+      "10 غرام دقيق عادي"
+     ],
+     [
+      null,
+      "40 غرام جبن كريمي طري كامل الدسم بالثوم والأعشاب"
+     ],
+     [
+      null,
+      "20 غرام جبن إيمنتال"
+     ],
+     [
+      null,
+      "2 غرام خردل بالحبوب الكاملة"
+     ],
+     [
+      null,
+      "رشة فلفل أسود مطحون"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة جوزة الطيب المطحونة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 190° مئوية / 375° فهرنهايت / مستوى الغاز 4."
+     ],
+     [
+      null,
+      "ضع المعكرونة في قدر من الماء المغلي، واسلقها لمدة 9-10 دقائق مع التقليب من حين لآخر."
+     ],
+     [
+      null,
+      "في هذه الأثناء، ضع السمن النباتي في قدر وسخّنه على نار هادئة حتى يذوب."
+     ],
+     [
+      null,
+      "أضف الدقيق إلى القدر وقلّب حتى يتكون معجون ناعم. اطهِه على نار هادئة لمدة دقيقتين تقريبًا."
+     ],
+     [
+      null,
+      "اسكب نصف كمية Renastep في القدر واتركه يغلي دون تقليب."
+     ],
+     [
+      null,
+      "قلّب حتى يتجانس الخليط، ثم اخفقه بالمخفقة. أضف باقي Renastep إلى الخليط وقلّب حتى يمتزج كل شيء."
+     ],
+     [
+      null,
+      "ارفع القدر عن النار وأضف الجبن الكريمي الطري وجبن الإيمنتال والخردل بالحبوب الكاملة والفلفل مع التقليب."
+     ],
+     [
+      null,
+      "عندما تنضج المعكرونة، صفّها وأضف إليها الصلصة، وقلّب جيدًا حتى يمتزج كل شيء."
+     ],
+     [
+      null,
+      "ضع الخليط في طبق مقاوم لحرارة الفرن، ورشّ عليه جوزة الطيب، واخبزه في الفرن لمدة 25 دقيقة."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5492935,
+  "translations": {
+   "es": {
+    "title": "Batido de piña",
+    "description": "Disfrute de un batido de piña apto para la dieta renal. Esta bebida tropical y refrescante es adecuada para el manejo dietético de la enfermedad renal. ¡Pruébela hoy!",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™"
+     ],
+     [
+      null,
+      "90 g de piña en lata, escurrida"
+     ],
+     [
+      null,
+      "1 cucharadita de azúcar"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga todos los ingredientes en la licuadora y licúe hasta obtener una mezcla homogénea."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سموذي الأناناس",
+    "description": "استمتع بسموذي الأناناس المناسب للنظام الغذائي الكلوي. هذا المشروب الاستوائي المنعش مناسب للتدبير الغذائي لأمراض الكلى. جرّبه اليوم!",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™"
+     ],
+     [
+      null,
+      "90 غرام أناناس معلّب، مصفّى"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة سكر"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع جميع المكونات في الخلاط واخلطها حتى يصبح المزيج ناعمًا."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5499172,
+  "translations": {
+   "es": {
+    "title": "Çiğ köfte",
+    "description": "Esta receta de çiğ köfte apta para el cuidado de los riñones, hecha con arroz, pan molido, hierbas y especias, da como resultado un plato vegetal lleno de sabor que se cocina en 15 minutos.",
+    "portions": "5",
+    "serving_size": "122 g",
+    "ingredients": [
+     [
+      null,
+      "100 g de arroz"
+     ],
+     [
+      null,
+      "250 g de pan molido"
+     ],
+     [
+      null,
+      "60 g de cebolla, rallada"
+     ],
+     [
+      null,
+      "15 g de harissa"
+     ],
+     [
+      null,
+      "5 g de ajo"
+     ],
+     [
+      null,
+      "50 ml de aceite de oliva"
+     ],
+     [
+      null,
+      "15 g de puré de tomate"
+     ],
+     [
+      null,
+      "7 g de pasta de chipotle"
+     ],
+     [
+      null,
+      "7 g de chile en hojuelas"
+     ],
+     [
+      null,
+      "1 g de pimienta negra"
+     ],
+     [
+      null,
+      "2 g de comino molido"
+     ],
+     [
+      null,
+      "30 g de cebollín, finamente picado"
+     ],
+     [
+      null,
+      "30 g de perejil, finamente picado"
+     ],
+     [
+      null,
+      "30 ml de jugo de limón"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Hierva el arroz hasta que esté muy blando, escurra el agua y licúelo hasta que quede homogéneo. Páselo a un tazón."
+     ],
+     [
+      null,
+      "Agregue el pan molido al tazón con el arroz y revuelva hasta que se integren bien."
+     ],
+     [
+      null,
+      "Añada a la mezcla la cebolla rallada, la harissa, el ajo, el aceite de oliva, el puré de tomate, la pasta de chipotle, el chile en hojuelas, la pimienta negra y el comino, y amase todo junto."
+     ],
+     [
+      null,
+      "Espolvoree con el cebollín y el perejil, y rocíe con el jugo de limón."
+     ],
+     [
+      null,
+      "Forme 20 bolitas con la mezcla y colóquelas en un plato. ¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "تشي كفتة",
+    "description": "وصفة تشي كفتة المناسبة لمرضى الكلى هذه، المحضّرة بالأرز وفتات الخبز والأعشاب والتوابل، تقدّم طبقًا نباتيًا غنيًا بالنكهة يُطهى في 15 دقيقة.",
+    "portions": "5",
+    "serving_size": "122 غرام",
+    "ingredients": [
+     [
+      null,
+      "100 غرام أرز"
+     ],
+     [
+      null,
+      "250 غرام فتات خبز"
+     ],
+     [
+      null,
+      "60 غرام بصل، مبشور"
+     ],
+     [
+      null,
+      "15 غرام هريسة"
+     ],
+     [
+      null,
+      "5 غرام ثوم"
+     ],
+     [
+      null,
+      "50 مل زيت زيتون"
+     ],
+     [
+      null,
+      "15 غرام معجون طماطم"
+     ],
+     [
+      null,
+      "7 غرام معجون فلفل تشيبوتلي"
+     ],
+     [
+      null,
+      "7 غرام رقائق الفلفل الحار"
+     ],
+     [
+      null,
+      "1 غرام فلفل أسود"
+     ],
+     [
+      null,
+      "2 غرام كمون مطحون"
+     ],
+     [
+      null,
+      "30 غرام بصل أخضر، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "30 غرام بقدونس، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "30 مل عصير ليمون"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اسلق الأرز حتى يصبح طريًا جدًا، ثم صفّه من الماء واخلطه في الخلاط حتى يصبح ناعمًا. ضعه في وعاء."
+     ],
+     [
+      null,
+      "أضف فتات الخبز إلى وعاء الأرز وقلّب حتى يمتزجا جيدًا."
+     ],
+     [
+      null,
+      "أضف إلى الخليط البصل المبشور والهريسة والثوم وزيت الزيتون ومعجون الطماطم ومعجون التشيبوتلي ورقائق الفلفل الحار والفلفل الأسود والكمون، واعجن الجميع معًا."
+     ],
+     [
+      null,
+      "رشّ البصل الأخضر والبقدونس وعصير الليمون على الخليط."
+     ],
+     [
+      null,
+      "شكّل الخليط على هيئة 20 كرة صغيرة وضعها في طبق. قدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5502648,
+  "translations": {
+   "es": {
+    "title": "Borsch",
+    "description": "Aprenda a preparar esta sopa borsch abundante y colorida, hecha con remolacha, col y hierbas frescas: sustanciosa, ligeramente ácida y reconfortante en cada cucharada.",
+    "portions": "6",
+    "serving_size": "313 g",
+    "ingredients": [
+     [
+      null,
+      "1 cucharada de mantequilla"
+     ],
+     [
+      null,
+      "60 g de cebolla, finamente picada"
+     ],
+     [
+      null,
+      "150 g de zanahoria, finamente picada"
+     ],
+     [
+      null,
+      "100 g de apio, finamente picado"
+     ],
+     [
+      null,
+      "200 g de remolacha fresca, en rodajas"
+     ],
+     [
+      null,
+      "2 dientes de ajo, en láminas"
+     ],
+     [
+      null,
+      "2 cubitos de caldo bajos en sal"
+     ],
+     [
+      null,
+      "1 cucharadita de semillas de cilantro"
+     ],
+     [
+      null,
+      "1 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 hoja de laurel"
+     ],
+     [
+      null,
+      "1 lata de frijoles blancos grandes (frijoles de lima), con su líquido"
+     ],
+     [
+      null,
+      "700 ml de agua"
+     ],
+     [
+      null,
+      "El jugo de ½ limón"
+     ],
+     [
+      null,
+      "60 g de crema agria"
+     ],
+     [
+      null,
+      "10 g de eneldo, finamente picado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente la mantequilla en una olla, agregue la cebolla, la zanahoria y el apio, y deje que se ablanden un poco."
+     ],
+     [
+      null,
+      "Añada la remolacha y el ajo, y mézclelos con las demás verduras."
+     ],
+     [
+      null,
+      "Desmorone los cubitos de caldo sobre la mezcla de verduras y luego agregue las semillas de cilantro, la pimienta negra, la hoja de laurel y los frijoles."
+     ],
+     [
+      null,
+      "Cubra con el agua y deje hervir a fuego lento durante 20 minutos."
+     ],
+     [
+      null,
+      "Una vez cocida, licúe la sopa hasta que quede homogénea."
+     ],
+     [
+      null,
+      "Incorpore el jugo de limón y sirva con la crema agria y el eneldo."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "حساء البورشت",
+    "description": "تعلّم طريقة طهي حساء البورشت الشهي والزاهي المحضّر بالشمندر والملفوف والأعشاب الطازجة: غني ولاذع قليلًا ومريح في كل ملعقة.",
+    "portions": "6",
+    "serving_size": "313 غرام",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة زبدة"
+     ],
+     [
+      null,
+      "60 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "150 غرام جزر، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "100 غرام كرفس، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "200 غرام شمندر طازج، مقطع شرائح"
+     ],
+     [
+      null,
+      "2 فصوص ثوم، مقطعة شرائح"
+     ],
+     [
+      null,
+      "2 مكعبات مرق قليلة الملح"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بذور كزبرة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ورقة غار"
+     ],
+     [
+      null,
+      "1 علبة فاصوليا بيضاء كبيرة (فاصوليا ليما) مع سائلها"
+     ],
+     [
+      null,
+      "700 مل ماء"
+     ],
+     [
+      null,
+      "عصير ½ ليمونة"
+     ],
+     [
+      null,
+      "60 غرام قشدة حامضة"
+     ],
+     [
+      null,
+      "10 غرام شبت، مفروم ناعمًا"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزبدة في قدر وأضف البصل والجزر والكرفس، واتركها حتى تلين قليلًا."
+     ],
+     [
+      null,
+      "أضف الشمندر والثوم وقلّبهما مع باقي الخضار."
+     ],
+     [
+      null,
+      "فتّت مكعبات المرق فوق خليط الخضار، ثم أضف بذور الكزبرة والفلفل الأسود وورقة الغار والفاصوليا."
+     ],
+     [
+      null,
+      "غطِّ الخليط بالماء واتركه يغلي على نار هادئة لمدة 20 دقيقة."
+     ],
+     [
+      null,
+      "بعد أن ينضج، اخلطه في الخلاط حتى يصبح ناعمًا."
+     ],
+     [
+      null,
+      "أضف عصير الليمون مع التقليب، وقدّمه مع القشدة الحامضة والشبت."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5545397,
+  "translations": {
+   "es": {
+    "title": "Carne de res a la Stroganoff",
+    "description": "Disfrute de esta receta rápida de carne a la Stroganoff, apta para el cuidado de los riñones, que se prepara en solo 25 minutos; ideal con pasta como plato principal sustancioso.",
+    "portions": "2",
+    "serving_size": "542 g",
+    "ingredients": [
+     [
+      null,
+      "1 cucharadita de aceite de oliva"
+     ],
+     [
+      null,
+      "30 g de cebolla blanca, en rodajas finas"
+     ],
+     [
+      null,
+      "150 g de puerro, en rodajas"
+     ],
+     [
+      null,
+      "1 diente de ajo, finamente picado"
+     ],
+     [
+      null,
+      "100 g de carne de res, en trozos"
+     ],
+     [
+      null,
+      "100 g de frijoles cannellini"
+     ],
+     [
+      null,
+      "1 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 cucharadita de pimentón ahumado"
+     ],
+     [
+      null,
+      "10 g de harina"
+     ],
+     [
+      null,
+      "1 cubito de caldo de res bajo en sal, por ejemplo, Kallo"
+     ],
+     [
+      null,
+      "1 cucharadita de mostaza de Dijon"
+     ],
+     [
+      null,
+      "1 botella de Renastep™"
+     ],
+     [
+      null,
+      "300 ml de agua hirviendo"
+     ],
+     [
+      null,
+      "1 cucharadita de perejil fresco"
+     ],
+     [
+      null,
+      "200 g de pasta tagliatelle, cocida"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente el aceite en una sartén, agregue la cebolla, el puerro y el ajo, y cocine hasta que se ablanden."
+     ],
+     [
+      null,
+      "Añada los trozos de carne, los frijoles cannellini, la pimienta negra y el pimentón ahumado. Cocine durante 2 minutos y luego agregue la harina."
+     ],
+     [
+      null,
+      "En una jarra, ponga el cubito de caldo de res, la mostaza de Dijon, el Renastep y el agua hirviendo, y revuelva hasta que se integren por completo."
+     ],
+     [
+      null,
+      "Vierta el líquido sobre la mezcla y revuelva bien, asegurándose de que todos los jugos de la carne y la harina se integren."
+     ],
+     [
+      null,
+      "Deje hervir a fuego lento durante 10 minutos o hasta que espese."
+     ],
+     [
+      null,
+      "¡Sirva sobre la pasta y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales destinado al manejo dietético de la enfermedad renal. Apto a partir de los 3 años de edad. Debe utilizarse bajo supervisión médica. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "لحم بقري ستروغانوف",
+    "description": "استمتع بوصفة اللحم البقري ستروغانوف السريعة والمناسبة لمرضى الكلى، والتي تُحضَّر في 25 دقيقة فقط، وهي مثالية مع المعكرونة كوجبة رئيسية مشبعة.",
+    "portions": "2",
+    "serving_size": "542 غرام",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة صغيرة زيت زيتون"
+     ],
+     [
+      null,
+      "30 غرام بصل أبيض، مقطع شرائح رفيعة"
+     ],
+     [
+      null,
+      "150 غرام كرّاث، مقطع شرائح"
+     ],
+     [
+      null,
+      "1 فص ثوم، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "100 غرام لحم بقري، مقطع قطعًا"
+     ],
+     [
+      null,
+      "100 غرام فاصوليا كانيليني"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بابريكا مدخّنة"
+     ],
+     [
+      null,
+      "10 غرام دقيق"
+     ],
+     [
+      null,
+      "1 مكعب مرق لحم بقري قليل الملح، مثل Kallo"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خردل ديجون"
+     ],
+     [
+      null,
+      "1 زجاجة Renastep™"
+     ],
+     [
+      null,
+      "300 مل ماء مغلي"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بقدونس طازج"
+     ],
+     [
+      null,
+      "200 غرام معكرونة تالياتيلي، مسلوقة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزيت في مقلاة، وأضف البصل والكرّاث والثوم، واطهِها حتى تلين."
+     ],
+     [
+      null,
+      "أضف قطع اللحم والفاصوليا والفلفل الأسود والبابريكا المدخّنة. اطهِ لمدة 2 دقيقة ثم أضف الدقيق."
+     ],
+     [
+      null,
+      "في إبريق، ضع مكعب مرق اللحم وخردل ديجون وRenastep والماء المغلي، وقلّب حتى يمتزج الجميع تمامًا."
+     ],
+     [
+      null,
+      "اسكب السائل فوق الخليط وقلّب جيدًا للتأكد من امتزاج عصارة اللحم والدقيق."
+     ],
+     [
+      null,
+      "اتركه يغلي على نار هادئة لمدة 10 دقائق أو حتى يتكثف."
+     ],
+     [
+      null,
+      "قدّمه فوق المعكرونة واستمتع به!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة مخصص للتدبير الغذائي لأمراض الكلى. مناسب بدءًا من عمر 3 سنوات. يجب استخدامه تحت إشراف طبي. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5547623,
+  "translations": {
+   "es": {
+    "title": "Börek",
+    "description": "Prepare este börek turco hojaldrado y dorado, relleno de queso o carne, perfecto para el desayuno, como refrigerio o para reuniones: ¡fácil, crujiente y delicioso!",
+    "portions": "6",
+    "serving_size": "143 g",
+    "ingredients": [
+     [
+      null,
+      "300 g de col rizada (kale)"
+     ],
+     [
+      null,
+      "100 g de queso feta"
+     ],
+     [
+      null,
+      "100 g de queso cottage"
+     ],
+     [
+      null,
+      "1 paquete (270 g) de masa filo"
+     ],
+     [
+      null,
+      "50 g de mantequilla, derretida"
+     ],
+     [
+      null,
+      "1 huevo pequeño, batido"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 °C."
+     ],
+     [
+      null,
+      "Sumerja la col rizada en agua hirviendo durante 1 minuto. Luego sáquela y séquela muy bien."
+     ],
+     [
+      null,
+      "Pique finamente la col rizada, mézclela con el queso feta y el queso cottage en un tazón y reserve."
+     ],
+     [
+      null,
+      "Coloque dos láminas de masa filo en la bandeja para hornear, barnícelas con mantequilla y ponga encima otras 2 láminas."
+     ],
+     [
+      null,
+      "Coloque la mezcla de queso y col rizada sobre la masa y extiéndala de manera uniforme por toda la bandeja."
+     ],
+     [
+      null,
+      "Ponga encima el resto de las láminas de masa filo, untando mantequilla entre cada capa."
+     ],
+     [
+      null,
+      "Barnice la capa superior con el huevo y hornee durante 25 minutos o hasta que esté bien dorado."
+     ],
+     [
+      null,
+      "Saque del horno, corte en porciones ¡y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بورك",
+    "description": "اطهِ البورك التركي الذهبي المقرمش المحشو بالجبن الشهي أو اللحم، المثالي للفطور أو كوجبة خفيفة أو للتجمعات: سهل ومقرمش ولذيذ!",
+    "portions": "6",
+    "serving_size": "143 غرام",
+    "ingredients": [
+     [
+      null,
+      "300 غرام كرنب أجعد (كيل)"
+     ],
+     [
+      null,
+      "100 غرام جبن فيتا"
+     ],
+     [
+      null,
+      "100 غرام جبن قريش (كوتاج)"
+     ],
+     [
+      null,
+      "1 عبوة (270 غرام) عجينة فيلو"
+     ],
+     [
+      null,
+      "50 غرام زبدة، مذوّبة"
+     ],
+     [
+      null,
+      "1 بيضة صغيرة، مخفوقة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية."
+     ],
+     [
+      null,
+      "ضع الكرنب الأجعد في ماء مغلي لمدة 1 دقيقة، ثم أخرجه وجفّفه جيدًا."
+     ],
+     [
+      null,
+      "افرم الكرنب ناعمًا واخلطه مع جبن الفيتا وجبن القريش في وعاء، ثم اتركه جانبًا."
+     ],
+     [
+      null,
+      "ضع 2 من رقائق عجينة الفيلو في صينية الخبز، وادهنهما بالزبدة، ثم ضع فوقهما 2 من الرقائق الأخرى."
+     ],
+     [
+      null,
+      "ضع خليط الجبن والكرنب فوق العجينة ووزّعه بالتساوي على كامل الصينية."
+     ],
+     [
+      null,
+      "رصّ باقي رقائق الفيلو فوق الحشوة، مع دهن كل طبقة بالزبدة."
+     ],
+     [
+      null,
+      "ادهن الطبقة العلوية بالبيض واخبز لمدة 25 دقيقة أو حتى يصبح لونه ذهبيًا."
+     ],
+     [
+      null,
+      "أخرجه من الفرن، وقطّعه إلى حصص واستمتع به!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5565148,
+  "translations": {
+   "es": {
+    "title": "Puré de manzana",
+    "description": "Una receta muy rápida y fácil para los primeros alimentos, pensada para que su hijo se acostumbre a los sólidos. Se prepara en solo veinte minutos. Tenga en cuenta que necesitará una licuadora.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 manzanas dulces, por ejemplo, Royal Gala, Pink Lady o Golden Delicious"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Pele las manzanas."
+     ],
+     [
+      null,
+      "Córtelas en trozos pequeños."
+     ],
+     [
+      null,
+      "Ponga la manzana en una olla."
+     ],
+     [
+      null,
+      "Agregue un chorrito de agua y hierva hasta que esté blanda, aproximadamente 10-12 minutos."
+     ],
+     [
+      null,
+      "Una vez fría, licúe la manzana hasta que quede homogénea."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Agregue una pizca de canela para darle más sabor."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "هريس التفاح",
+    "description": "وصفة سريعة وسهلة جدًا من أوائل الأطعمة، مصممة لتعويد طفلك على الأطعمة الصلبة. تُحضَّر في عشرين دقيقة فقط. لاحظ أنك ستحتاج إلى خلاط.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 تفاحات حلوة، مثل Royal Gala أو Pink Lady أو Golden Delicious"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قشّر التفاح."
+     ],
+     [
+      null,
+      "قطّع التفاح إلى قطع صغيرة."
+     ],
+     [
+      null,
+      "ضع التفاح في قدر."
+     ],
+     [
+      null,
+      "أضف قليلًا من الماء واتركه يغلي حتى يلين، لمدة 10-12 دقيقة تقريبًا."
+     ],
+     [
+      null,
+      "بعد أن يبرد، اهرس التفاح في الخلاط حتى يصبح ناعمًا."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "أضف رشة قرفة لنكهة إضافية."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5579900,
+  "translations": {
+   "es": {
+    "title": "Palitos de pescado",
+    "description": "Receta de palitos de pescado crujientes y llenos de sabor. Aprenda a preparar deliciosos palitos de pescado caseros que le encantarán a toda la familia. Aptos para la dieta renal.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "300 g de filete de pescado blanco (bacalao, eglefino, abadejo)"
+     ],
+     [
+      null,
+      "50 g de pan molido (triture 1-2 rebanadas de pan en un procesador de alimentos o rállelas)"
+     ],
+     [
+      null,
+      "1 huevo, batido"
+     ],
+     [
+      null,
+      "50 g de hojuelas de maíz (cornflakes)"
+     ],
+     [
+      null,
+      "120 g de harina común"
+     ],
+     [
+      null,
+      "Aceite para freír"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Corte los filetes de pescado en 8 palitos."
+     ],
+     [
+      null,
+      "Prepare 3 tazones: uno con el huevo batido, 1 con la harina y otro con las hojuelas de maíz y el pan molido."
+     ],
+     [
+      null,
+      "De uno en uno, cubra el pescado crudo con harina, luego páselo por el huevo batido y, por último, cúbralo con las hojuelas de maíz o el pan molido, asegurándose de que todo el pescado quede cubierto de manera uniforme."
+     ],
+     [
+      null,
+      "Con cuidado, llene una sartén con aceite de canola, vegetal o de girasol hasta una profundidad de aproximadamente 1 cm para freír con poco aceite. Caliente el aceite; para comprobar la temperatura, eche una hojuela de maíz: debe chisporrotear lentamente y dorarse suavemente en 20-30 segundos. Si el empanizado se dora demasiado rápido y se quema, el aceite está demasiado caliente."
+     ],
+     [
+      null,
+      "Fría el pescado durante unos 3 minutos por cada lado. Tenga cuidado de no salpicar el aceite caliente."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Sirva con papas fritas de polenta y chícharos."
+     ],
+     [
+      null,
+      "Tenga en cuenta el contenido de potasio de las verduras que sirva como acompañamiento."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أصابع السمك",
+    "description": "وصفة أصابع سمك مقرمشة وغنية بالنكهة. تعلّم كيفية تحضير أصابع سمك منزلية لذيذة ستنال إعجاب العائلة كلها. مناسبة للنظام الغذائي الكلوي.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "300 غرام فيليه سمك أبيض (قد، حدوق، بولوك)"
+     ],
+     [
+      null,
+      "50 غرام فتات خبز (اطحن 1-2 شريحة خبز في محضّرة الطعام أو ابشرها)"
+     ],
+     [
+      null,
+      "1 بيضة، مخفوقة"
+     ],
+     [
+      null,
+      "50 غرام رقائق الذرة (كورن فليكس)"
+     ],
+     [
+      null,
+      "120 غرام دقيق عادي"
+     ],
+     [
+      null,
+      "زيت للقلي"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قطّع فيليه السمك إلى 8 أصابع."
+     ],
+     [
+      null,
+      "جهّز 3 أوعية: وعاء فيه البيض المخفوق، و1 فيه الدقيق، ووعاء فيه رقائق الذرة وفتات الخبز."
+     ],
+     [
+      null,
+      "غطِّ قطع السمك النيئة واحدة تلو الأخرى بالدقيق، ثم اغمسها في البيض المخفوق، وأخيرًا غطّها برقائق الذرة أو فتات الخبز، مع التأكد من تغطية السمك كله بالتساوي."
+     ],
+     [
+      null,
+      "املأ مقلاة بحذر بزيت الكانولا أو الزيت النباتي أو زيت دوار الشمس بعمق 1 سم تقريبًا للقلي السطحي. سخّن الزيت، ولاختبار حرارته أسقط فيه قطعة من رقائق الذرة: يجب أن تطقطق ببطء ويتحول لونها إلى الذهبي تدريجيًا خلال 20-30 ثانية. إذا تحمّر الغلاف بسرعة كبيرة واحترق، فالزيت ساخن جدًا."
+     ],
+     [
+      null,
+      "اقلِ السمك لمدة 3 دقائق تقريبًا لكل جانب، واحرص على ألا يتطاير الزيت الساخن."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "قدّمها مع أصابع البولنتا المقلية والبازلاء."
+     ],
+     [
+      null,
+      "انتبه إلى محتوى البوتاسيوم في أي خضار تُقدَّم مع الطبق."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5587732,
+  "translations": {
+   "es": {
+    "title": "Avena con manzana y compota de arándanos",
+    "description": "Comience el día con una deliciosa avena con manzana, un desayuno nutritivo y sustancioso, apto para la dieta renal y el manejo de la enfermedad renal.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      null,
+      "25 g de hojuelas de avena"
+     ],
+     [
+      null,
+      "½ manzana, pelada y rallada"
+     ],
+     [
+      null,
+      "¼ cucharadita de canela"
+     ],
+     [
+      null,
+      "80 g de arándanos azules congelados"
+     ],
+     [
+      null,
+      "1 cucharadita de agua"
+     ],
+     [
+      null,
+      "1 cucharadita de miel"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mezcle la avena, la manzana rallada, la canela y el Renastep en una olla pequeña."
+     ],
+     [
+      null,
+      "Lleve suavemente a ebullición, revolviendo de vez en cuando; luego baje el fuego y cocine durante 4-5 minutos sin dejar de revolver."
+     ],
+     [
+      null,
+      "Mientras tanto, ponga los arándanos en una olla con 1 cucharadita de agua y la miel, y cocínelos suavemente hasta que se descongelen y estén tiernos, pero sin que pierdan su forma."
+     ],
+     [
+      null,
+      "Sirva la avena en un tazón y cúbrala con los arándanos."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "عصيدة الشوفان بالتفاح مع كومبوت التوت الأزرق",
+    "description": "ابدأ يومك بعصيدة شوفان لذيذة بالتفاح، خيار فطور مغذٍّ ومشبع، مناسب للنظام الغذائي الكلوي وللتعامل مع أمراض الكلى.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      null,
+      "25 غرام رقائق شوفان"
+     ],
+     [
+      null,
+      "½ تفاحة، مقشرة ومبشورة"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "80 غرام توت أزرق مجمّد"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة ماء"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة عسل"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط الشوفان والتفاح المبشور والقرفة وRenastep في قدر صغير."
+     ],
+     [
+      null,
+      "اتركه حتى يغلي بهدوء مع التقليب من حين لآخر، ثم خفّف النار واطهِه لمدة 4-5 دقائق مع التقليب المستمر."
+     ],
+     [
+      null,
+      "في هذه الأثناء، ضع التوت الأزرق في قدر مع 1 ملعقة صغيرة من الماء والعسل، واطهِه برفق حتى يذوب التوت ويصبح طريًا مع احتفاظه بشكله."
+     ],
+     [
+      null,
+      "ضع العصيدة في وعاء بالملعقة، وزيّنها بالتوت الأزرق."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5592322,
+  "translations": {
+   "es": {
+    "title": "Cupcakes de pollitos de Pascua",
+    "description": "Celebre la Pascua con estos adorables cupcakes de pollitos. Estas delicias alegrarán sus festejos y son aptas para la dieta renal.",
+    "portions": "4 cupcakes",
+    "serving_size": "1 cupcake",
+    "ingredients": [
+     [
+      "Cupcakes",
+      "75 g de harina común"
+     ],
+     [
+      "Cupcakes",
+      "3 g de bicarbonato de sodio"
+     ],
+     [
+      "Cupcakes",
+      "1 huevo grande"
+     ],
+     [
+      "Cupcakes",
+      "75 g de azúcar extrafina"
+     ],
+     [
+      "Cupcakes",
+      "3 gotas de extracto puro de vainilla"
+     ],
+     [
+      "Cupcakes",
+      "60 ml de aceite de oliva"
+     ],
+     [
+      "Cupcakes",
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      "Decoración",
+      "100 g de mantequilla sin sal"
+     ],
+     [
+      "Decoración",
+      "150 g de azúcar glas"
+     ],
+     [
+      "Decoración",
+      "60 ml de Renastep (aprox. media botella)"
+     ],
+     [
+      "Decoración",
+      "1 gota de extracto puro de vainilla"
+     ],
+     [
+      "Decoración",
+      "Colorante alimentario amarillo en gel"
+     ],
+     [
+      "Decoración",
+      "15 g de coco rallado"
+     ],
+     [
+      "Decoración",
+      "10 g de chispas de chocolate"
+     ],
+     [
+      "Decoración",
+      "2-3 cerezas confitadas"
+     ]
+    ],
+    "steps": [
+     [
+      "Para preparar los cupcakes",
+      "Precaliente el horno a 180 °C / 160 °C con ventilador / gas marca 4."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "En un tazón, mezcle la harina y el bicarbonato de sodio."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "En otro tazón, bata el huevo, agregue poco a poco el azúcar, el extracto de vainilla y el aceite, y revuelva hasta integrar."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "Añada la mezcla de harina y media botella de Renastep (aprox. 60 ml), y bata."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "Agregue la otra media botella de Renastep a la mezcla y bata."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "Coloque los 4 capacillos para cupcakes de 8 cm de diámetro en un molde para magdalenas y reparta la mezcla de manera uniforme entre ellos."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "Hornee durante 15-20 minutos, hasta que estén dorados."
+     ],
+     [
+      "Para preparar los cupcakes",
+      "Con cuidado, pase los cupcakes a una rejilla para que se enfríen."
+     ],
+     [
+      "Para el betún",
+      "Bata la mantequilla con el azúcar glas en un tazón hasta obtener una crema."
+     ],
+     [
+      "Para el betún",
+      "Añada media botella de Renastep (aprox. 60 ml) y el extracto de vainilla a la crema de mantequilla, y mezcle bien."
+     ],
+     [
+      "Para el betún",
+      "Agregue el colorante hasta obtener el color deseado."
+     ],
+     [
+      "Para decorar",
+      "Con el dorso de una cuchara, extienda el betún de manera uniforme sobre la superficie de los cuatro cupcakes."
+     ],
+     [
+      "Para decorar",
+      "Pase la superficie de los cupcakes por el coco rallado."
+     ],
+     [
+      "Para decorar",
+      "Ponga los «ojos» a cada cupcake con 2 chispas de chocolate."
+     ],
+     [
+      "Para decorar",
+      "Ponga un «pico» a cada cupcake con un trocito de cereza cortado en forma de triángulo. Sus pollitos de Pascua ya están listos."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "كب كيك صيصان عيد الفصح",
+    "description": "احتفل بعيد الفصح مع كب كيك الصيصان الرائع هذا. ستضفي هذه الحلوى المبهجة الفرح على احتفالاتك، وهي مناسبة للنظام الغذائي الكلوي.",
+    "portions": "4 كب كيك",
+    "serving_size": "1 كب كيك",
+    "ingredients": [
+     [
+      "الكب كيك",
+      "75 غرام دقيق عادي"
+     ],
+     [
+      "الكب كيك",
+      "3 غرام بيكربونات الصوديوم"
+     ],
+     [
+      "الكب كيك",
+      "1 بيضة كبيرة"
+     ],
+     [
+      "الكب كيك",
+      "75 غرام سكر ناعم (كاستر)"
+     ],
+     [
+      "الكب كيك",
+      "3 قطرات خلاصة فانيليا نقية"
+     ],
+     [
+      "الكب كيك",
+      "60 مل زيت زيتون"
+     ],
+     [
+      "الكب كيك",
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      "التزيين",
+      "100 غرام زبدة غير مملحة"
+     ],
+     [
+      "التزيين",
+      "150 غرام سكر بودرة"
+     ],
+     [
+      "التزيين",
+      "60 مل من Renastep (نصف زجاجة تقريبًا)"
+     ],
+     [
+      "التزيين",
+      "1 قطرة خلاصة فانيليا نقية"
+     ],
+     [
+      "التزيين",
+      "ملوّن طعام أصفر على شكل جل"
+     ],
+     [
+      "التزيين",
+      "15 غرام جوز هند مبشور"
+     ],
+     [
+      "التزيين",
+      "10 غرام رقائق شوكولاتة"
+     ],
+     [
+      "التزيين",
+      "2-3 حبات كرز مسكّر"
+     ]
+    ],
+    "steps": [
+     [
+      "لتحضير الكب كيك",
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 160° مئوية للفرن بمروحة / مستوى الغاز 4."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "في وعاء، اخلط الدقيق وبيكربونات الصوديوم."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "في وعاء آخر، اخفق البيضة، ثم أضف السكر وخلاصة الفانيليا والزيت تدريجيًا، وقلّب حتى تمتزج المكونات."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "أضف خليط الدقيق ونصف زجاجة من Renastep (60 مل تقريبًا)، واخفق."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "أضف النصف المتبقي من زجاجة Renastep إلى الخليط واخفق."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "ضع 4 قوالب ورقية للكب كيك بقطر 8 سم في صينية المافن، ووزّع خليط الكيك عليها بالتساوي."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "اخبز في الفرن لمدة 15-20 دقيقة حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      "لتحضير الكب كيك",
+      "انقل الكب كيك بحذر إلى رف شبكي ليبرد."
+     ],
+     [
+      "لتحضير الكريمة",
+      "اخفق الزبدة مع السكر البودرة في وعاء حتى يصبح الخليط كريميًا."
+     ],
+     [
+      "لتحضير الكريمة",
+      "أضف نصف زجاجة من Renastep (60 مل تقريبًا) وخلاصة الفانيليا إلى كريمة الزبدة، واخلط جيدًا."
+     ],
+     [
+      "لتحضير الكريمة",
+      "أضف ملوّن الطعام حتى تحصل على اللون المرغوب."
+     ],
+     [
+      "للتزيين",
+      "افرد الكريمة بالتساوي على سطح حبات الكب كيك الأربع باستخدام ظهر الملعقة."
+     ],
+     [
+      "للتزيين",
+      "اغمس سطح الكب كيك في جوز الهند."
+     ],
+     [
+      "للتزيين",
+      "اصنع «العينين» لكل كب كيك باستخدام 2 من رقائق الشوكولاتة."
+     ],
+     [
+      "للتزيين",
+      "اصنع «منقارًا» لكل كب كيك باستخدام شريحة صغيرة من الكرز مقطعة على شكل مثلث. أصبحت صيصان عيد الفصح جاهزة الآن."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5600058,
+  "translations": {
+   "es": {
+    "title": "Batido de granada",
+    "description": "Esta receta rápida y fácil de batido de granada se prepara con Renastep en solo 10 minutos. Es adecuada para personas con enfermedad renal.",
+    "portions": "1 batido",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™"
+     ],
+     [
+      null,
+      "20 g de pera, picada"
+     ],
+     [
+      null,
+      "20 g de frambuesas congeladas"
+     ],
+     [
+      null,
+      "1 cucharadita de jengibre fresco, rallado"
+     ],
+     [
+      null,
+      "15 g de granos de granada"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Vierta el Renastep en la licuadora. Agregue los demás ingredientes y licúe."
+     ],
+     [
+      null,
+      "Sirva en un vaso. Sirva frío."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Si su plan de alimentación lo permite, cambie las frambuesas congeladas por arándanos azules. Sirva sobre cubitos de hielo reutilizables de plástico para obtener una bebida refrescante con menos líquido."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto. Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سموذي الرمان",
+    "description": "تُحضَّر وصفة سموذي الرمان السريعة والسهلة هذه باستخدام Renastep في 10 دقائق فقط، وهي مناسبة لمرضى الكلى.",
+    "portions": "1 سموذي",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™"
+     ],
+     [
+      null,
+      "20 غرام كمثرى، مقطعة"
+     ],
+     [
+      null,
+      "20 غرام توت أحمر (فرامبواز) مجمّد"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زنجبيل طازج، مبشور"
+     ],
+     [
+      null,
+      "15 غرام حبوب رمان"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اسكب Renastep في الخلاط، ثم أضف باقي المكونات واخلطها."
+     ],
+     [
+      null,
+      "اسكبه في كوب وقدّمه باردًا."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "استبدل التوت الأحمر المجمّد بالتوت الأزرق إذا كان مسموحًا لك. قدّمه فوق مكعبات ثلج بلاستيكية قابلة لإعادة الاستخدام لتحصل على مشروب منعش بكمية سوائل أقل."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج. صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5603870,
+  "translations": {
+   "es": {
+    "title": "Baklava",
+    "description": "Aprenda a preparar este delicioso baklava casero con nueces pecanas, avellanas y un almíbar cítrico. Crujiente, con sabor a nuez y dulce: ¡listo en poco más de una hora!",
+    "portions": "12",
+    "serving_size": "71 g",
+    "ingredients": [
+     [
+      null,
+      "100 g de nueces pecanas, picadas"
+     ],
+     [
+      null,
+      "50 g de semillas de calabaza, picadas"
+     ],
+     [
+      null,
+      "50 g de avellanas, picadas"
+     ],
+     [
+      null,
+      "½ cucharadita de canela"
+     ],
+     [
+      null,
+      "½ cucharadita de cardamomo"
+     ],
+     [
+      null,
+      "55 g de miel"
+     ],
+     [
+      null,
+      "1 paquete (270 g) de masa filo"
+     ],
+     [
+      null,
+      "100 g de mantequilla, derretida"
+     ],
+     [
+      null,
+      "125 g de azúcar dorada extrafina (golden caster)"
+     ],
+     [
+      null,
+      "100 ml de agua"
+     ],
+     [
+      null,
+      "1 cucharadita de ralladura de naranja"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 200 ˚C / 180 ˚C con ventilador / gas marca 6."
+     ],
+     [
+      null,
+      "En un tazón, mezcle las nueces pecanas, las semillas de calabaza, las avellanas, la canela y el cardamomo con la miel."
+     ],
+     [
+      null,
+      "Coloque una lámina de masa filo en un molde para hornear de 25x15 cm y barnícela con mantequilla. Repita el proceso hasta usar la mitad del paquete de masa."
+     ],
+     [
+      null,
+      "Extienda la mezcla de nueces de manera uniforme sobre la masa."
+     ],
+     [
+      null,
+      "Coloque la otra mitad de las láminas de filo sobre la mezcla de nueces, siguiendo con el proceso de barnizar y apilar hasta terminar el paquete. Vierta encima la mantequilla que haya sobrado."
+     ],
+     [
+      null,
+      "Corte el baklava en 12 porciones y hornee durante 30 minutos o hasta que esté dorado."
+     ],
+     [
+      null,
+      "Mientras tanto, ponga el azúcar y el agua en una olla con la ralladura de naranja. Lleve el almíbar a ebullición y luego déjelo hervir a fuego lento hasta que tenga la consistencia de una miel líquida."
+     ],
+     [
+      null,
+      "Saque el baklava del horno y vierta todo el almíbar encima de manera uniforme."
+     ],
+     [
+      null,
+      "Deje que se enfríe por completo antes de servir."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بقلاوة",
+    "description": "تعلّم طريقة تحضير هذه البقلاوة المنزلية اللذيذة بالبقان والبندق وقطر بنكهة الحمضيات. مقرمشة وغنية بالمكسرات وحلوة، وجاهزة في ما يزيد قليلًا على ساعة!",
+    "portions": "12",
+    "serving_size": "71 غرام",
+    "ingredients": [
+     [
+      null,
+      "100 غرام جوز البقان، مفروم"
+     ],
+     [
+      null,
+      "50 غرام بذور قرع، مفرومة"
+     ],
+     [
+      null,
+      "50 غرام بندق، مفروم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة هيل"
+     ],
+     [
+      null,
+      "55 غرام عسل"
+     ],
+     [
+      null,
+      "1 عبوة (270 غرام) عجينة فيلو"
+     ],
+     [
+      null,
+      "100 غرام زبدة، مذوّبة"
+     ],
+     [
+      null,
+      "125 غرام سكر ناعم ذهبي"
+     ],
+     [
+      null,
+      "100 مل ماء"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة قشر برتقال مبشور"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 200° مئوية / 180° مئوية للفرن بمروحة / مستوى الغاز 6."
+     ],
+     [
+      null,
+      "في وعاء، اخلط البقان والبذور والبندق المفرومة مع القرفة والهيل والعسل."
+     ],
+     [
+      null,
+      "ضع رقاقة من عجينة الفيلو في صينية خبز مقاس 25x15 سم وادهنها بالزبدة. كرّر العملية حتى تستخدم نصف عبوة العجين."
+     ],
+     [
+      null,
+      "وزّع خليط المكسرات بالتساوي فوق العجين."
+     ],
+     [
+      null,
+      "ضع النصف الآخر من رقائق الفيلو فوق خليط المكسرات، مع الاستمرار في الدهن بالزبدة والرصّ حتى تنتهي العبوة كلها. اسكب أي زبدة متبقية على الوجه."
+     ],
+     [
+      null,
+      "قطّع البقلاوة إلى 12 حصة واخبزها لمدة 30 دقيقة أو حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      null,
+      "في هذه الأثناء، ضع السكر والماء وقشر البرتقال في قدر. اترك القطر حتى يغلي، ثم اتركه على نار هادئة حتى يصبح قوامه مثل العسل السائل."
+     ],
+     [
+      null,
+      "أخرج البقلاوة من الفرن واسكب كل القطر فوقها بالتساوي."
+     ],
+     [
+      null,
+      "اتركها حتى تبرد تمامًا قبل التقديم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5608712,
+  "translations": {
+   "es": {
+    "title": "Sambusas de verduras",
+    "description": "Prepare estas sambusas de verduras crujientes y aptas para el cuidado de los riñones, rellenas de zanahoria, coliflor, chícharos y pimientos especiados, como refrigerio salado. Se cocinan en 20 minutos.",
+    "portions": "4",
+    "serving_size": "83 g",
+    "ingredients": [
+     [
+      null,
+      "40 g de cebolla, finamente picada"
+     ],
+     [
+      null,
+      "1 diente de ajo, picado"
+     ],
+     [
+      null,
+      "3 g de jengibre, picado"
+     ],
+     [
+      null,
+      "1/4 cucharadita de comino"
+     ],
+     [
+      null,
+      "1/2 cucharadita de cilantro molido"
+     ],
+     [
+      null,
+      "50 g de zanahoria, finamente picada"
+     ],
+     [
+      null,
+      "33 g de coliflor, finamente picada"
+     ],
+     [
+      null,
+      "33 g de chícharos"
+     ],
+     [
+      null,
+      "1/2 cucharada de harina"
+     ],
+     [
+      null,
+      "50 g de pimiento verde"
+     ],
+     [
+      null,
+      "1/2 cucharada de agua"
+     ],
+     [
+      null,
+      "80 g de hojas para rollitos primavera"
+     ],
+     [
+      null,
+      "300 ml de aceite para freír con poco aceite"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente aceite en una sartén y fría la cebolla, el ajo y el jengibre hasta que se ablanden."
+     ],
+     [
+      null,
+      "Una vez blandos, agregue el comino, el garam masala y el cilantro molido, y mezcle durante 2 minutos."
+     ],
+     [
+      null,
+      "Luego agregue la zanahoria, la coliflor, el pimiento y los chícharos, revuelva y cocine hasta que estén blandos. Reserve."
+     ],
+     [
+      null,
+      "En un tazón pequeño, mezcle la harina con el agua hasta formar una pasta."
+     ],
+     [
+      null,
+      "Coloque una cucharadita del relleno de verduras sobre 1 hoja para rollito primavera. Doble la hoja sobre el relleno y siga doblando en direcciones opuestas hasta formar un triángulo."
+     ],
+     [
+      null,
+      "Unte un poco de la pasta de harina en la abertura del triángulo y presione para sellar."
+     ],
+     [
+      null,
+      "Caliente suficiente aceite en una sartén para freír con poco aceite (por lo general, ¼ de pulgada de altura en la sartén). Compruebe la temperatura con un trocito de masa: si se dora y burbujea, el aceite está listo."
+     ],
+     [
+      null,
+      "Ponga las sambusas en la sartén y cocínelas por ambos lados hasta que estén doradas; retírelas de la sartén y colóquelas sobre papel de cocina."
+     ],
+     [
+      null,
+      "Cuando se hayan enfriado un poco, ¡sirva y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سمبوسة الخضار",
+    "description": "حضّر هذه السمبوسة المقرمشة بالخضار المناسبة لمرضى الكلى، المحشوة بالجزر والقرنبيط والبازلاء والفلفل المتبّل، لتتناولها كوجبة خفيفة مالحة. تُطهى في 20 دقيقة.",
+    "portions": "4",
+    "serving_size": "83 غرام",
+    "ingredients": [
+     [
+      null,
+      "40 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 فص ثوم، مهروس"
+     ],
+     [
+      null,
+      "3 غرام زنجبيل، مفروم"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة كمون"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كزبرة مطحونة"
+     ],
+     [
+      null,
+      "50 غرام جزر، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "33 غرام قرنبيط، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "33 غرام بازلاء"
+     ],
+     [
+      null,
+      "½ ملعقة كبيرة دقيق"
+     ],
+     [
+      null,
+      "50 غرام فلفل رومي أخضر"
+     ],
+     [
+      null,
+      "½ ملعقة كبيرة ماء"
+     ],
+     [
+      null,
+      "80 غرام رقائق عجينة السبرينغ رول"
+     ],
+     [
+      null,
+      "300 مل زيت للقلي السطحي"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزيت في مقلاة واقلِ البصل والثوم والزنجبيل حتى تلين."
+     ],
+     [
+      null,
+      "عندما تلين، أضف الكمون والغرام ماسالا والكزبرة المطحونة، وقلّب لمدة 2 دقيقة."
+     ],
+     [
+      null,
+      "ثم أضف الجزر والقرنبيط والفلفل والبازلاء، وقلّب واطهِ حتى تلين. اتركها جانبًا."
+     ],
+     [
+      null,
+      "في وعاء صغير، اخلط الدقيق والماء حتى يتكوّن معجون."
+     ],
+     [
+      null,
+      "ضع ملعقة صغيرة من خليط الخضار على 1 رقاقة سبرينغ رول. اطوِ الرقاقة فوق الحشوة واستمر في الطي في اتجاهين متعاكسين حتى يتشكل مثلث."
+     ],
+     [
+      null,
+      "ادهن قليلًا من معجون الدقيق على فتحة المثلث واضغط عليها لإغلاقها."
+     ],
+     [
+      null,
+      "سخّن كمية كافية من الزيت في مقلاة للقلي السطحي (عادةً بارتفاع ¼ بوصة على جانب المقلاة). اختبر حرارة الزيت بقطعة صغيرة من العجين: إذا تحمّرت وظهرت حولها فقاعات، فالزيت جاهز للقلي."
+     ],
+     [
+      null,
+      "ضع السمبوسة في المقلاة واطهِها من الجهتين حتى يصبح لونها ذهبيًا، ثم أخرجها وضعها على ورق المطبخ."
+     ],
+     [
+      null,
+      "بعد أن تبرد قليلًا، قدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5619043,
+  "translations": {
+   "es": {
+    "title": "Arroz bukhari",
+    "description": null,
+    "portions": "4",
+    "serving_size": "105 g",
+    "ingredients": [
+     [
+      null,
+      "15 g de pimiento rojo, picado"
+     ],
+     [
+      null,
+      "15 g de zanahoria, cortada en cubitos finos"
+     ],
+     [
+      null,
+      "1/4 cucharada de aceite vegetal"
+     ],
+     [
+      null,
+      "1/4 cucharadita de clavos de olor"
+     ],
+     [
+      null,
+      "1/4 cucharadita de vainas de cardamomo"
+     ],
+     [
+      null,
+      "8 g de cebolla, finamente picada"
+     ],
+     [
+      null,
+      "3 dientes de ajo, finamente picados"
+     ],
+     [
+      null,
+      "125 g de pollo, cortado en trozos grandes"
+     ],
+     [
+      null,
+      "1/2 cucharadita de canela"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta de Jamaica"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta blanca"
+     ],
+     [
+      null,
+      "1/2 cucharadita de lima seca en polvo (loomi)"
+     ],
+     [
+      null,
+      "1/4 cucharadita de nuez moscada"
+     ],
+     [
+      null,
+      "1/4 cucharadita de cilantro"
+     ],
+     [
+      null,
+      "1/4 cucharadita de comino"
+     ],
+     [
+      null,
+      "160 ml de caldo de verduras (receta aparte)"
+     ],
+     [
+      null,
+      "80 g de arroz basmati"
+     ],
+     [
+      null,
+      "5 g de mantequilla sin sal"
+     ],
+     [
+      null,
+      "1 g de nueces de macadamia"
+     ],
+     [
+      null,
+      "1 g de semillas de calabaza"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 °C / 356 °F / gas marca 4."
+     ],
+     [
+      null,
+      "Ponga la zanahoria y el pimiento rojo en una bandeja para hornear, rocíelos con un poco de aceite y áselos durante 20-30 minutos o hasta que estén blandos."
+     ],
+     [
+      null,
+      "Caliente 1/2 del aceite en una olla y agregue los clavos y las vainas de cardamomo; deje que se tuesten ligeramente."
+     ],
+     [
+      null,
+      "Agregue la cebolla y el ajo, y deje que se ablanden un poco."
+     ],
+     [
+      null,
+      "Una vez blandos, añada los trozos de pollo y deje que se doren ligeramente por todos lados."
+     ],
+     [
+      null,
+      "Cuando estén dorados, agregue la canela, la pimienta de Jamaica, la pimienta blanca, la lima seca en polvo, la nuez moscada, el cilantro y el comino. Revuelva hasta que el pollo quede completamente cubierto con las especias."
+     ],
+     [
+      null,
+      "Saque el pimiento rojo y la zanahoria del horno y póngalos en la licuadora con suficiente caldo para cubrir las verduras y formar un puré ligero."
+     ],
+     [
+      null,
+      "Licúe hasta que quede homogéneo, luego añádalo a la olla con el resto del caldo de verduras, revuelva bien y lleve a ebullición."
+     ],
+     [
+      null,
+      "Cuando hierva, baje el fuego al mínimo y deje cocinar a fuego lento durante 15 minutos."
+     ],
+     [
+      null,
+      "Saque el pollo de la olla y resérvelo."
+     ],
+     [
+      null,
+      "Agregue el arroz y cocine durante 10 minutos o hasta que absorba todo el líquido."
+     ],
+     [
+      null,
+      "Una vez cocido, ponga el arroz en un plato, coloque el pollo encima y reserve."
+     ],
+     [
+      null,
+      "Ponga la mantequilla en una sartén y derrítala; agregue las nueces de macadamia y las semillas de calabaza, y cocine hasta que se doren ligeramente."
+     ],
+     [
+      null,
+      "Vierta la mantequilla y las nueces sobre el arroz, ¡sirva y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "الرز البخاري",
+    "description": null,
+    "portions": "4",
+    "serving_size": "105 غرام",
+    "ingredients": [
+     [
+      null,
+      "15 غرام فلفل رومي أحمر، مفروم"
+     ],
+     [
+      null,
+      "15 غرام جزر، مقطع مكعبات صغيرة جدًا"
+     ],
+     [
+      null,
+      "¼ ملعقة كبيرة زيت نباتي"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة قرنفل"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة حبوب هيل"
+     ],
+     [
+      null,
+      "8 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "3 فصوص ثوم، مفرومة ناعمًا"
+     ],
+     [
+      null,
+      "125 غرام دجاج، مقطع قطعًا كبيرة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة بهار حلو"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أبيض"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة لومي مطحون (ليمون أسود مجفف)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة جوزة الطيب"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة كزبرة"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة كمون"
+     ],
+     [
+      null,
+      "160 مل مرق خضار (وصفة منفصلة)"
+     ],
+     [
+      null,
+      "80 غرام أرز بسمتي"
+     ],
+     [
+      null,
+      "5 غرام زبدة غير مملحة"
+     ],
+     [
+      null,
+      "1 غرام مكاديميا"
+     ],
+     [
+      null,
+      "1 غرام بذور قرع"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 356° فهرنهايت / مستوى الغاز 4."
+     ],
+     [
+      null,
+      "ضع الجزر والفلفل الأحمر في صينية خبز، ورشّ عليهما قليلًا من الزيت، واشوِهما لمدة 20-30 دقيقة أو حتى يلينا."
+     ],
+     [
+      null,
+      "سخّن ½ كمية الزيت في قدر وأضف القرنفل وحبوب الهيل، واتركها تتحمص قليلًا."
+     ],
+     [
+      null,
+      "أضف البصل والثوم واتركهما حتى يلينا قليلًا."
+     ],
+     [
+      null,
+      "بعد أن يلينا، أضف قطع الدجاج واتركها حتى تتحمر قليلًا من جميع الجهات."
+     ],
+     [
+      null,
+      "عندما تتحمر، أضف القرفة والبهار الحلو والفلفل الأبيض واللومي المطحون وجوزة الطيب والكزبرة والكمون، وقلّب حتى يتغطى الدجاج بالتوابل تمامًا."
+     ],
+     [
+      null,
+      "أخرج الفلفل الأحمر والجزر من الفرن وضعهما في الخلاط مع كمية من المرق تكفي لتغطية الخضار وتكوين هريس خفيف."
+     ],
+     [
+      null,
+      "اخلط حتى يصبح ناعمًا، ثم أضفه إلى القدر مع باقي مرق الخضار، وقلّب جيدًا واتركه حتى يغلي."
+     ],
+     [
+      null,
+      "عندما يغلي، خفّف النار إلى هادئة واتركه يُطهى لمدة 15 دقيقة."
+     ],
+     [
+      null,
+      "أخرج الدجاج من القدر واتركه جانبًا."
+     ],
+     [
+      null,
+      "أضف الأرز واطهِه لمدة 10 دقائق أو حتى يمتص السائل تمامًا."
+     ],
+     [
+      null,
+      "بعد أن ينضج، ضع الأرز في طبق وضع الدجاج فوقه، واتركه جانبًا."
+     ],
+     [
+      null,
+      "ضع الزبدة في مقلاة حتى تذوب، وأضف المكاديميا وبذور القرع، واطهِها حتى تتحمر قليلًا."
+     ],
+     [
+      null,
+      "اسكب الزبدة والمكسرات فوق الأرز، وقدّمه واستمتع به."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5621440,
+  "translations": {
+   "es": {
+    "title": "Nuggets de pollo",
+    "description": "Prepare esta versión casera de nuggets de pollo, creada pensando en los pacientes renales. Son muy rápidos de hacer: solo 15 minutos. ¡Pruébelos hoy!",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 pechugas de pollo grandes, cortadas en trozos del tamaño de un bocado"
+     ],
+     [
+      null,
+      "80 g de pan molido (cómprelo ya preparado o ralle un poco de pan)"
+     ],
+     [
+      null,
+      "1 envase pequeño de yogur natural"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga el pan molido en un tazón."
+     ],
+     [
+      null,
+      "Ponga el yogur en otro tazón."
+     ],
+     [
+      null,
+      "Pase los trozos de pollo crudo por el yogur y luego cúbralos con el pan molido."
+     ],
+     [
+      null,
+      "Fríalos en poco aceite (pruebe con aceite de canola o de girasol) durante unos 5 minutos por cada lado, pero vigílelos para que no se quemen."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Agregue 2 cucharaditas de salvia para darles más sabor."
+     ],
+     [
+      null,
+      "Sírvalos con papas fritas de polenta, o picados y mezclados con pasta caliente y una nuez de mantequilla de ajo."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "قطع الدجاج المقرمشة (ناغتس)",
+    "description": "حضّر هذه النسخة المنزلية من قطع الدجاج المقرمشة، المصممة مع مراعاة احتياجات مرضى الكلى. تحضيرها سريع جدًا ولا يستغرق سوى 15 دقيقة. جرّبها اليوم!",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 صدور دجاج كبيرة، مقطعة قطعًا بحجم اللقمة"
+     ],
+     [
+      null,
+      "80 غرام فتات خبز (جاهز أو ابشر بعض الخبز)"
+     ],
+     [
+      null,
+      "1 علبة صغيرة زبادي طبيعي"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع فتات الخبز في وعاء."
+     ],
+     [
+      null,
+      "ضع الزبادي في وعاء آخر."
+     ],
+     [
+      null,
+      "اغمس قطع الدجاج النيئة في الزبادي، ثم غطّها بفتات الخبز."
+     ],
+     [
+      null,
+      "اقلِها قليًا سطحيًا في الزيت (جرّب زيت الكانولا أو زيت دوار الشمس) لمدة 5 دقائق تقريبًا لكل جانب، مع مراقبتها جيدًا حتى لا تحترق!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "أضف 2 ملعقة صغيرة من المريمية لنكهة إضافية."
+     ],
+     [
+      null,
+      "قدّمها مع أصابع البولنتا المقلية، أو قطّعها وأضفها إلى معكرونة ساخنة مع قطعة صغيرة من زبدة الثوم."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5641106,
+  "translations": {
+   "es": {
+    "title": "Muffins de huevo",
+    "description": "Pruebe esta receta de muffins de huevo aptos para el cuidado de los riñones, de My Renal Nutrition, diseñada para personas con enfermedad renal: una opción de comida nutritiva y deliciosa.",
+    "portions": "4",
+    "serving_size": "173 g",
+    "ingredients": [
+     [
+      null,
+      "2 cucharaditas de aceite"
+     ],
+     [
+      null,
+      "75 g de brócoli, finamente picado"
+     ],
+     [
+      null,
+      "75 g de pimiento rojo, finamente picado"
+     ],
+     [
+      null,
+      "1 cucharadita de pimentón (paprika)"
+     ],
+     [
+      null,
+      "1 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "4 huevos"
+     ],
+     [
+      null,
+      "2 botellas de Renastep™"
+     ],
+     [
+      null,
+      "50 g de queso feta, desmoronado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente 1 cucharadita de aceite en una sartén y fría el brócoli y el pimiento con el pimentón y la pimienta negra hasta que estén blandos."
+     ],
+     [
+      null,
+      "Bata los huevos con el Renastep en un tazón hasta que se integren por completo."
+     ],
+     [
+      null,
+      "Reparta la mezcla de huevo de manera uniforme entre los moldes para muffins."
+     ],
+     [
+      null,
+      "Distribuya las verduras cocidas y el queso feta desmoronado de manera uniforme entre los muffins."
+     ],
+     [
+      null,
+      "Hornee durante 15 minutos o hasta que estén bien cocidos, y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales destinado al manejo dietético de la enfermedad renal. Apto a partir de los 3 años de edad. Debe utilizarse bajo supervisión médica. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مافن البيض",
+    "description": "جرّب وصفة مافن البيض المناسبة لمرضى الكلى من My Renal Nutrition، المصممة للأشخاص المصابين بأمراض الكلى، والتي تقدّم خيارًا مغذيًا ولذيذًا للوجبات.",
+    "portions": "4",
+    "serving_size": "173 غرام",
+    "ingredients": [
+     [
+      null,
+      "2 ملعقة صغيرة زيت"
+     ],
+     [
+      null,
+      "75 غرام بروكلي، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "75 غرام فلفل رومي أحمر، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بابريكا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "4 بيضات"
+     ],
+     [
+      null,
+      "2 زجاجة Renastep™"
+     ],
+     [
+      null,
+      "50 غرام جبن فيتا، مفتّت"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن 1 ملعقة صغيرة من الزيت في مقلاة واقلِ البروكلي والفلفل مع البابريكا والفلفل الأسود حتى تلين."
+     ],
+     [
+      null,
+      "اخفق البيض مع Renastep في وعاء حتى يمتزجا تمامًا."
+     ],
+     [
+      null,
+      "وزّع خليط البيض بالتساوي على قوالب المافن."
+     ],
+     [
+      null,
+      "وزّع الخضار المطهوة وجبن الفيتا المفتّت بالتساوي على قوالب المافن."
+     ],
+     [
+      null,
+      "اخبزها لمدة 15 دقيقة أو حتى تنضج تمامًا، ثم قدّمها."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة مخصص للتدبير الغذائي لأمراض الكلى. مناسب بدءًا من عمر 3 سنوات. يجب استخدامه تحت إشراف طبي. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5647740,
+  "translations": {
+   "es": {
+    "title": "Puré de chícharos y calabacita",
+    "description": "Esta receta rinde una porción de alimento apto para la alimentación complementaria del bebé; se prepara en solo 20 minutos y puede tener una consistencia ligera si es necesario.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 calabacita"
+     ],
+     [
+      null,
+      "100 g de chícharos"
+     ],
+     [
+      null,
+      "100 ml de leche materna, fórmula infantil estándar o una fórmula especial baja en potasio y baja en fósforo (según le indique su dietista)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Corte la calabacita en trozos pequeños."
+     ],
+     [
+      null,
+      "Hierva la calabacita durante 5 minutos."
+     ],
+     [
+      null,
+      "Agregue los chícharos congelados y hierva durante 3-4 minutos más."
+     ],
+     [
+      null,
+      "Escurra las verduras y deje que se enfríen."
+     ],
+     [
+      null,
+      "Agregue 100 ml de leche materna, fórmula infantil estándar o una fórmula especial baja en potasio y baja en fósforo (según le indique su dietista)."
+     ],
+     [
+      null,
+      "Use una licuadora para triturar hasta obtener la consistencia de un puré."
+     ],
+     [
+      null,
+      "Si necesita una consistencia más ligera, añada más leche materna, fórmula infantil estándar o la fórmula especial baja en potasio y baja en fósforo."
+     ],
+     [
+      null,
+      "Póngalo en charolas para cubitos de hielo y congélelo, o úselo de inmediato."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "هريس البازلاء والكوسا",
+    "description": "تُعدّ هذه الوصفة حصة واحدة من طعام مناسب لفترة الفطام، ولا يستغرق تحضيرها سوى 20 دقيقة، ويمكن جعل قوامها خفيفًا عند الحاجة.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 حبة كوسا"
+     ],
+     [
+      null,
+      "100 غرام بازلاء"
+     ],
+     [
+      null,
+      "100 مل حليب أم، أو حليب أطفال صناعي عادي، أو تركيبة غذائية خاصة منخفضة البوتاسيوم ومنخفضة الفوسفات (حسب توصية اختصاصي التغذية)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قطّع الكوسا إلى قطع صغيرة."
+     ],
+     [
+      null,
+      "اسلق الكوسا لمدة 5 دقائق."
+     ],
+     [
+      null,
+      "أضف البازلاء المجمّدة واسلقها لمدة 3-4 دقائق إضافية."
+     ],
+     [
+      null,
+      "صفِّ الخضار واتركها حتى تبرد."
+     ],
+     [
+      null,
+      "أضف 100 مل من حليب الأم، أو حليب الأطفال الصناعي العادي، أو التركيبة الغذائية الخاصة منخفضة البوتاسيوم ومنخفضة الفوسفات (حسب توصية اختصاصي التغذية)."
+     ],
+     [
+      null,
+      "استخدم الخلاط لهرس الخليط حتى يصبح بقوام الهريس."
+     ],
+     [
+      null,
+      "أضف المزيد من حليب الأم أو حليب الأطفال الصناعي العادي أو التركيبة الخاصة منخفضة البوتاسيوم ومنخفضة الفوسفات إذا احتجت إلى قوام أخف."
+     ],
+     [
+      null,
+      "ضعه في قوالب مكعبات الثلج وجمّده، أو استخدمه فورًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5648383,
+  "translations": {
+   "es": {
+    "title": "Bebida caliente de invierno",
+    "description": "Manténgase calientito con esta reconfortante bebida de invierno, apta para la dieta renal. Disfrute de la temporada con una bebida caliente que se prepara en un momento.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      null,
+      "½ cucharadita de canela"
+     ],
+     [
+      null,
+      "½ cucharadita de pimienta de Jamaica"
+     ],
+     [
+      null,
+      "½ cucharadita de nuez moscada"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga una olla a fuego medio y agregue todos los ingredientes."
+     ],
+     [
+      null,
+      "Revuelva constantemente para calentar suavemente; no deje que hierva."
+     ],
+     [
+      null,
+      "Retire del fuego y bata con un batidor manual o eléctrico hasta obtener una bebida espumosa."
+     ],
+     [
+      null,
+      "Sirva caliente."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Sirva con galletas adecuadas, como las de jengibre."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مشروب الشتاء الدافئ",
+    "description": "استمتع بالدفء مع وصفة مشروب الشتاء الدافئ المريح هذا، المناسب للنظام الغذائي الكلوي. احتفِ بالموسم مع مشروب ساخن سريع التحضير.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة بهار حلو"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة جوزة الطيب"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع قدرًا على نار متوسطة وأضف جميع المكونات."
+     ],
+     [
+      null,
+      "قلّب باستمرار ليسخن المشروب برفق، ولا تتركه يغلي."
+     ],
+     [
+      null,
+      "ارفعه عن النار واخفقه بمخفقة يدوية أو كهربائية حتى يصبح رغويًا."
+     ],
+     [
+      null,
+      "قدّمه دافئًا."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "قدّمه مع بسكويت مناسب مثل بسكويت الزنجبيل."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5651491,
+  "translations": {
+   "es": {
+    "title": "Batido de arándanos azules",
+    "description": "¡Disfrute de un refrescante batido de arándanos azules apto para el cuidado de los riñones! Esta receta fácil es baja en potasio y llena de sabor: perfecta para darse un gusto saludable y delicioso.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "25 g de arándanos azules"
+     ],
+     [
+      null,
+      "125 ml de Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga los arándanos en la licuadora."
+     ],
+     [
+      null,
+      "Vierta el Renastep en la licuadora con los arándanos y licúe hasta obtener una mezcla homogénea."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto. Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سموذي التوت الأزرق",
+    "description": "استمتع بسموذي منعش بالتوت الأزرق مناسب لمرضى الكلى! هذه الوصفة السهلة منخفضة البوتاسيوم وغنية بالنكهة، ومثالية لتحلية صحية ولذيذة.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "25 غرام توت أزرق"
+     ],
+     [
+      null,
+      "125 مل من Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع التوت الأزرق في الخلاط."
+     ],
+     [
+      null,
+      "اسكب Renastep في الخلاط مع التوت الأزرق واخلط حتى يصبح المزيج ناعمًا."
+     ],
+     [
+      null,
+      "قدّمه واستمتع به!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج. صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5683991,
+  "translations": {
+   "es": {
+    "title": "Pizza fácil de pollo",
+    "description": "Descubra una receta de pizza de pollo fácil y nutritiva, apta para quienes siguen una dieta renal. Pruebe esta deliciosa opción que puede preparar en 15 minutos.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "4 trozos de pan francés, pan pita o tortillas de harina"
+     ],
+     [
+      null,
+      "100 g de pechuga de pollo cocida"
+     ],
+     [
+      null,
+      "100 g de granos de elote en lata (sin sal añadida) o congelados"
+     ],
+     [
+      null,
+      "50 g de pimiento morrón rojo, picado"
+     ],
+     [
+      null,
+      "4 cucharaditas de albahaca fresca picada"
+     ],
+     [
+      null,
+      "1 diente de ajo, picado"
+     ],
+     [
+      null,
+      "50 g de puré de tomate"
+     ],
+     [
+      null,
+      "50 g de queso crema"
+     ],
+     [
+      null,
+      "50 g de queso cheddar"
+     ],
+     [
+      null,
+      "Un chorrito de aceite de oliva"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 ºC / 160 ºC con ventilador / 350 ºF / gas 4. Cubra una bandeja para hornear con papel para hornear y coloque encima el pan francés, el pan pita o las tortillas."
+     ],
+     [
+      null,
+      "Caliente el aceite de oliva en una sartén grande a fuego medio y agregue el elote, el pimiento rojo, el pollo y el ajo. Fría durante 2 minutos más, hasta que todo esté bien caliente y cocido. Retire del fuego e incorpore el puré de tomate."
+     ],
+     [
+      null,
+      "Reparta la mezcla de pollo de manera uniforme entre las bases y cubra con una cucharada de queso crema y queso cheddar rallado."
+     ],
+     [
+      null,
+      "Hornee durante 3-5 minutos o hasta que el queso se derrita y la base esté ligeramente crujiente. Saque del horno y espolvoree cada pizza con la albahaca picada."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Sirva con papas fritas de polenta, arroz o pasta."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بيتزا الدجاج السهلة",
+    "description": "اكتشف وصفة بيتزا دجاج سهلة ومغذية مناسبة لمن يتّبعون النظام الغذائي الكلوي. جرّب هذه الوجبة اللذيذة التي يمكنك تحضيرها في 15 دقيقة.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "4 قطع من الخبز الفرنسي أو خبز البيتا أو خبز التورتيا"
+     ],
+     [
+      null,
+      "100 غرام صدر دجاج مطهو"
+     ],
+     [
+      null,
+      "100 غرام ذرة حلوة معلّبة (دون ملح مضاف) أو مجمّدة"
+     ],
+     [
+      null,
+      "50 غرام فلفل رومي أحمر، مفروم"
+     ],
+     [
+      null,
+      "4 ملاعق صغيرة ريحان طازج مفروم"
+     ],
+     [
+      null,
+      "1 فص ثوم، مفروم"
+     ],
+     [
+      null,
+      "50 غرام معجون طماطم"
+     ],
+     [
+      null,
+      "50 غرام جبن كريمي"
+     ],
+     [
+      null,
+      "50 غرام جبن شيدر"
+     ],
+     [
+      null,
+      "رشة زيت زيتون"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 160° مئوية للفرن بمروحة / 350° فهرنهايت / مستوى الغاز 4. غطِّ صينية الخبز بورق الزبدة، وضع عليها الخبز الفرنسي أو خبز البيتا أو التورتيا."
+     ],
+     [
+      null,
+      "سخّن زيت الزيتون في مقلاة كبيرة على نار متوسطة، ثم أضف الذرة والفلفل الأحمر والدجاج والثوم. اقلِها لمدة 2 دقيقة إضافية حتى تسخن وتنضج تمامًا. ارفعها عن النار وأضف معجون الطماطم مع التقليب."
+     ],
+     [
+      null,
+      "وزّع خليط الدجاج بالتساوي على قواعد الخبز، ثم ضع فوقه قليلًا من الجبن الكريمي وجبن الشيدر المبشور."
+     ],
+     [
+      null,
+      "اخبزها في الفرن لمدة 3-5 دقائق أو حتى يذوب الجبن وتصبح القاعدة مقرمشة قليلًا. أخرجها من الفرن ورشّ الريحان المفروم على كل بيتزا."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "قدّمها مع أصابع البولنتا المقلية أو الأرز أو المعكرونة."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5694153,
+  "translations": {
+   "es": {
+    "title": "Puré de calabaza butternut y brócoli",
+    "description": "Pruebe esta receta para la alimentación complementaria, que puede formar parte de los primeros alimentos de su bebé. ¡Receta paso a paso de puré de calabaza butternut y brócoli!",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "Media calabaza butternut"
+     ],
+     [
+      null,
+      "100 g de brócoli"
+     ],
+     [
+      null,
+      "100 ml de leche materna, fórmula infantil estándar o una fórmula especial baja en potasio y baja en fósforo (según le indique su dietista)"
+     ],
+     [
+      null,
+      "Otras verduras que puede añadir a la calabaza butternut son zanahoria, chícharos o espinacas"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Pele la calabaza butternut, retire las semillas del centro y córtela en trozos pequeños."
+     ],
+     [
+      null,
+      "Corte el brócoli en trozos pequeños."
+     ],
+     [
+      null,
+      "Hierva la calabaza durante aproximadamente 8-10 minutos."
+     ],
+     [
+      null,
+      "Agregue el brócoli y cocine durante 5 minutos más."
+     ],
+     [
+      null,
+      "Escurra el agua y deje que las verduras se enfríen."
+     ],
+     [
+      null,
+      "Agregue 100 ml de leche materna, fórmula infantil estándar o una fórmula especial baja en potasio y baja en fósforo (según le indique su dietista)."
+     ],
+     [
+      null,
+      "Use una licuadora para triturar hasta obtener la consistencia de un puré."
+     ],
+     [
+      null,
+      "Si necesita una consistencia más ligera, añada más leche materna, fórmula infantil estándar o la fórmula especial baja en potasio y baja en fósforo."
+     ],
+     [
+      null,
+      "Póngalo en charolas para cubitos de hielo y congélelo, o úselo de inmediato."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "هريس القرع العسلي والبروكلي",
+    "description": "جرّب وصفة الفطام هذه التي يمكن أن تكون من أوائل أطعمة طفلك. وصفة خطوة بخطوة لهريس القرع العسلي والبروكلي!",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "نصف حبة قرع عسلي (بترنت)"
+     ],
+     [
+      null,
+      "100 غرام بروكلي"
+     ],
+     [
+      null,
+      "100 مل حليب أم، أو حليب أطفال صناعي عادي، أو تركيبة غذائية خاصة منخفضة البوتاسيوم ومنخفضة الفوسفات (حسب توصية اختصاصي التغذية)"
+     ],
+     [
+      null,
+      "من الخضار الأخرى التي يمكنك إضافتها مع القرع العسلي: الجزر أو البازلاء أو السبانخ"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قشّر القرع العسلي، وأزل البذور من وسطه، وقطّعه إلى قطع صغيرة."
+     ],
+     [
+      null,
+      "قطّع البروكلي إلى قطع صغيرة."
+     ],
+     [
+      null,
+      "اسلق القرع العسلي لمدة 8-10 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "أضف البروكلي واتركه يُطهى لمدة 5 دقائق إضافية."
+     ],
+     [
+      null,
+      "صفِّ الماء واترك الخضار حتى تبرد."
+     ],
+     [
+      null,
+      "أضف 100 مل من حليب الأم، أو حليب الأطفال الصناعي العادي، أو التركيبة الغذائية الخاصة منخفضة البوتاسيوم ومنخفضة الفوسفات (حسب توصية اختصاصي التغذية)."
+     ],
+     [
+      null,
+      "استخدم الخلاط لهرس الخليط حتى يصبح بقوام الهريس."
+     ],
+     [
+      null,
+      "أضف المزيد من حليب الأم أو حليب الأطفال الصناعي العادي أو التركيبة الخاصة منخفضة البوتاسيوم ومنخفضة الفوسفات إذا احتجت إلى قوام أخف."
+     ],
+     [
+      null,
+      "ضعه في قوالب مكعبات الثلج وجمّده، أو استخدمه فورًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5703286,
+  "translations": {
+   "es": {
+    "title": "Paleta helada de fresa",
+    "description": "Disfrute de una deliciosa paleta helada de fresa hecha con mermelada de fresa. Este refrescante postre es perfecto para el verano, fácil de preparar y lleno de sabor.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "100 ml de Renastep ™"
+     ],
+     [
+      null,
+      "1½ cucharaditas de mermelada de fresa"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mezcle el Renastep con la mermelada de fresa hasta que se integren por completo."
+     ],
+     [
+      null,
+      "Vierta en moldes para paletas y deje congelar durante 24 horas."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep está destinado al manejo dietético de la enfermedad renal y es apto a partir de los 3 años de edad."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep contiene leche (proteína de la leche) y pescado (aceites de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مثلجات الفراولة على عود",
+    "description": "استمتع بمثلجات الفراولة اللذيذة على عود، المحضّرة بمربى الفراولة. هذه الحلوى المنعشة مثالية للصيف، وسهلة التحضير، وغنية بالنكهة.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "100 مل من Renastep ™"
+     ],
+     [
+      null,
+      "1½ ملعقة صغيرة مربى فراولة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط Renastep مع مربى الفراولة حتى يمتزجا تمامًا."
+     ],
+     [
+      null,
+      "اسكب الخليط في قوالب المثلجات واتركه في الفريزر لمدة 24 ساعة."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep مخصص للتدبير الغذائي لأمراض الكلى ومناسب بدءًا من عمر 3 سنوات."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيوت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5706437,
+  "translations": {
+   "es": {
+    "title": "Estofado",
+    "description": "Esta receta de estofado de cordero en cubos con chirivía y zanahoria, de cocción lenta, lleva pocos ingredientes pero tiene mucho sabor. Ideal para los días en que puede cocinar sin prisa.",
+    "portions": "4",
+    "serving_size": "382 g",
+    "ingredients": [
+     [
+      null,
+      "300 g de cordero en cubos (carne para guisar)"
+     ],
+     [
+      null,
+      "100 g de chirivías, en trozos grandes"
+     ],
+     [
+      null,
+      "100 g de zanahorias, en trozos grandes"
+     ],
+     [
+      null,
+      "1000 ml de caldo de res bajo en sal"
+     ],
+     [
+      null,
+      "2 cucharaditas de salsa inglesa (Worcestershire)"
+     ],
+     [
+      null,
+      "Un poco de aceite"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente el aceite en una olla grande y dore la carne. Cuando la carne empiece a dorarse, agregue las chirivías y las zanahorias, y cocine durante 5 minutos."
+     ],
+     [
+      null,
+      "Vierta 1000 ml de caldo de res bajo en sal y deje que hierva."
+     ],
+     [
+      null,
+      "Cuando hierva, baje el fuego y deje cocinar a fuego lento durante 2 horas o hasta que la carne esté tierna y se deshaga."
+     ],
+     [
+      null,
+      "Añada la salsa inglesa, revuelva bien y sirva."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "¡Sirva con el pan de su elección para mojar en la salsa!"
+     ],
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "يخنة اللحم",
+    "description": "وصفة يخنة لحم الضأن المكعبات مع الجزر الأبيض والجزر، المطهوة ببطء، تحتوي على مكونات قليلة لكن مذاقها غني. مثالية للأيام التي يتسع فيها وقتك للطهي على مهل.",
+    "portions": "4",
+    "serving_size": "382 غرام",
+    "ingredients": [
+     [
+      null,
+      "300 غرام لحم ضأن مقطع مكعبات (لحم للطهي البطيء)"
+     ],
+     [
+      null,
+      "100 غرام جزر أبيض (باستناب)، مقطع قطعًا كبيرة"
+     ],
+     [
+      null,
+      "100 غرام جزر، مقطع قطعًا كبيرة"
+     ],
+     [
+      null,
+      "1000 مل مرق لحم بقري قليل الملح"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة صلصة ورسيسترشاير"
+     ],
+     [
+      null,
+      "قليل من الزيت"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزيت في قدر كبير واترك اللحم حتى يتحمر. عندما يبدأ اللحم بالتحمر، أضف الجزر الأبيض والجزر واطهِها لمدة 5 دقائق."
+     ],
+     [
+      null,
+      "اسكب 1000 مل من مرق اللحم البقري قليل الملح واتركه حتى يغلي."
+     ],
+     [
+      null,
+      "عندما يغلي، خفّف النار واتركه يُطهى على نار هادئة لمدة 2 ساعة أو حتى يصبح اللحم طريًا ويتفكك بسهولة."
+     ],
+     [
+      null,
+      "أضف صلصة ورسيسترشاير وقلّب جيدًا ثم قدّم."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "قدّمها مع الخبز الذي تفضله لتغميسه في الصلصة!"
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5741556,
+  "translations": {
+   "es": {
+    "title": "Pan simit",
+    "description": "Pruebe esta receta de pan simit apta para el cuidado de los riñones: un clásico turco suave, cubierto de ajonjolí, hecho con ingredientes bajos en sodio y perfecto para disfrutar a diario.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      null,
+      "135 g de harina de fuerza blanca para pan (necesitará un poco más de harina para espolvorear)"
+     ],
+     [
+      null,
+      "½ cucharadita de azúcar extrafina"
+     ],
+     [
+      null,
+      "1 cucharadita de levadura seca de acción rápida"
+     ],
+     [
+      null,
+      "10 g de ajonjolí"
+     ],
+     [
+      null,
+      "50 ml de agua"
+     ],
+     [
+      null,
+      "½ cucharada de melaza de granada o jarabe de melaza"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente suavemente el Renastep en una olla a no más de 30 ˚C. Mientras tanto, mezcle la harina y el azúcar en un tazón."
+     ],
+     [
+      null,
+      "Agregue la levadura seca y el Renastep, y mezcle bien hasta formar una masa suave."
+     ],
+     [
+      null,
+      "Ponga la masa sobre una superficie de trabajo limpia espolvoreada con harina. Amase durante 5 minutos, hasta que la masa se sienta elástica."
+     ],
+     [
+      null,
+      "Coloque la masa en un tazón limpio, cúbrala y déjela levar durante una hora, hasta que duplique su tamaño."
+     ],
+     [
+      null,
+      "Caliente el horno a 200 ˚C / 180 ˚C con ventilador / gas marca 6."
+     ],
+     [
+      null,
+      "Tueste el ajonjolí en una sartén sin aceite durante 2-3 minutos, hasta que se dore, y resérvelo."
+     ],
+     [
+      null,
+      "Mezcle la melaza de granada o el jarabe de melaza con los 50 ml de agua en un recipiente poco profundo."
+     ],
+     [
+      null,
+      "Cuando la masa haya levado, extiéndala sobre una superficie limpia y enharinada en forma de cilindro de unos 45 cm de largo y córtela por la mitad."
+     ],
+     [
+      null,
+      "Coloque las dos piezas una junto a otra a lo largo y enróllelas entre sí, sin parar, a lo largo de toda la masa. Corte la trenza en 2 piezas iguales. Barnice ambos lados con el agua de melaza."
+     ],
+     [
+      null,
+      "Vierta el ajonjolí tostado sobre una hoja de papel para hornear y pase cada trenza de masa por las semillas hasta que quede bien cubierta. En una bandeja para hornear, una los extremos de cada trenza para formar dos círculos, cúbralos y déjelos levar otros 10 minutos."
+     ],
+     [
+      null,
+      "Cuando el pan haya levado, descúbralo y hornee durante 15-18 minutos, hasta que esté dorado. Deje enfriar antes de servir."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto. Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "خبز السميط",
+    "description": "جرّب وصفة خبز السميط المناسبة لمرضى الكلى: خبز تركي كلاسيكي طري مغطى بالسمسم، محضّر بمكونات قليلة الصوديوم، ومثالي للاستمتاع به كل يوم.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      null,
+      "135 غرام دقيق خبز أبيض قوي (ستحتاج إلى قليل من الدقيق الإضافي للرشّ)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة سكر ناعم (كاستر)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خميرة جافة سريعة المفعول"
+     ],
+     [
+      null,
+      "10 غرام سمسم"
+     ],
+     [
+      null,
+      "50 مل ماء"
+     ],
+     [
+      null,
+      "½ ملعقة كبيرة دبس رمان أو شراب الدبس"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن Renastep برفق في قدر إلى درجة لا تزيد على 30° مئوية. في هذه الأثناء، اخلط الدقيق والسكر في وعاء."
+     ],
+     [
+      null,
+      "أضف الخميرة الجافة وRenastep، واخلط جيدًا حتى تتكون عجينة طرية."
+     ],
+     [
+      null,
+      "ضع العجينة على سطح عمل نظيف مرشوش بالدقيق، واعجنها لمدة 5 دقائق حتى تصبح مطاطية."
+     ],
+     [
+      null,
+      "ضع العجينة في وعاء نظيف، وغطّها واتركها تتخمر لمدة ساعة حتى يتضاعف حجمها."
+     ],
+     [
+      null,
+      "سخّن الفرن إلى 200° مئوية / 180° مئوية للفرن بمروحة / مستوى الغاز 6."
+     ],
+     [
+      null,
+      "حمّص السمسم في مقلاة جافة لمدة 2-3 دقائق حتى يصبح ذهبيًا، واتركه جانبًا."
+     ],
+     [
+      null,
+      "اخلط دبس الرمان أو شراب الدبس مع 50 مل من الماء في وعاء مسطح."
+     ],
+     [
+      null,
+      "عندما تختمر العجينة، افردها على سطح عمل نظيف مرشوش بالدقيق على شكل أسطوانة طولها 45 سم تقريبًا، ثم اقسمها إلى نصفين."
+     ],
+     [
+      null,
+      "ضع القطعتين جنبًا إلى جنب بالطول، ثم لفّهما حول بعضهما باستمرار على طول العجينة كلها. اقسم الضفيرة إلى 2 قطع متساوية، وادهن الجانبين بماء الدبس."
+     ],
+     [
+      null,
+      "اسكب السمسم المحمص على ورقة زبدة، ودحرج كل ضفيرة في السمسم حتى تتغطى جيدًا. على صينية خبز، صِل طرفي كل ضفيرة لتشكيل دائرتين، ثم غطّهما واتركهما تتخمران لمدة 10 دقائق أخرى."
+     ],
+     [
+      null,
+      "عندما يختمر الخبز، اكشفه واخبزه لمدة 15-18 دقيقة حتى يصبح ذهبي اللون. اتركه ليبرد قبل التقديم."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج. صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5743791,
+  "translations": {
+   "es": {
+    "title": "Arroz con leche",
+    "description": "Prepare este arroz con leche con arroz para postre, leche, crema y canela. Un postre reconfortante y bajo en sodio, adecuado para las dietas de la enfermedad renal.",
+    "portions": "4",
+    "serving_size": "100 g",
+    "ingredients": [
+     [
+      null,
+      "36 g de arroz para postre (de grano corto)"
+     ],
+     [
+      null,
+      "55 ml de leche"
+     ],
+     [
+      null,
+      "55 ml de crema espesa"
+     ],
+     [
+      null,
+      "220 ml de agua"
+     ],
+     [
+      null,
+      "30 g de azúcar extrafina"
+     ],
+     [
+      null,
+      "1/2 cucharadita de extracto de vainilla"
+     ],
+     [
+      null,
+      "1/2 cucharadita de canela"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente una olla a fuego medio y agregue el arroz, la leche, la crema, el agua y el azúcar. Mezcle bien hasta integrar."
+     ],
+     [
+      null,
+      "Deje hervir suavemente a fuego lento durante 1 hora, revolviendo con regularidad para que no se pegue ni se queme."
+     ],
+     [
+      null,
+      "Cuando el arroz esté cocido, incorpore la esencia de vainilla y la canela."
+     ],
+     [
+      null,
+      "Deje cocinar durante 10 minutos más."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أرز بالحليب",
+    "description": "اطهِ هذا الأرز بالحليب المحضّر بأرز الحلويات والحليب والقشدة والقرفة. حلوى دافئة ومريحة قليلة الصوديوم، مناسبة للأنظمة الغذائية لمرضى الكلى.",
+    "portions": "4",
+    "serving_size": "100 غرام",
+    "ingredients": [
+     [
+      null,
+      "36 غرام أرز للحلويات (قصير الحبة)"
+     ],
+     [
+      null,
+      "55 مل حليب"
+     ],
+     [
+      null,
+      "55 مل قشدة ثقيلة (دبل كريم)"
+     ],
+     [
+      null,
+      "220 مل ماء"
+     ],
+     [
+      null,
+      "30 غرام سكر ناعم (كاستر)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة خلاصة فانيليا"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن قدرًا على نار متوسطة وأضف الأرز والحليب والقشدة والماء والسكر، واخلط جيدًا حتى تمتزج المكونات."
+     ],
+     [
+      null,
+      "اتركه يغلي بهدوء على نار هادئة لمدة 1 ساعة، مع التقليب بانتظام حتى لا يلتصق أو يحترق."
+     ],
+     [
+      null,
+      "عندما ينضج الأرز، أضف خلاصة الفانيليا والقرفة مع التقليب."
+     ],
+     [
+      null,
+      "اتركه على النار لمدة 10 دقائق إضافية."
+     ],
+     [
+      null,
+      "قدّمه واستمتع به!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5745564,
+  "translations": {
+   "es": {
+    "title": "Sopa de orzo",
+    "description": "Esta sabrosa sopa de orzo se prepara en solo 15 minutos con un puñado de ingredientes, lo que la convierte en una excelente opción para el almuerzo o una cena rápida.",
+    "portions": "3",
+    "serving_size": "230 g",
+    "ingredients": [
+     [
+      null,
+      "120 g de orzo"
+     ],
+     [
+      null,
+      "400 ml de caldo de verduras bajo en sal"
+     ],
+     [
+      null,
+      "100 g de chícharos"
+     ],
+     [
+      null,
+      "El jugo de ½ limón"
+     ],
+     [
+      null,
+      "50 g de queso cheddar"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga el orzo en una olla, agregue 400 ml de caldo de verduras bajo en sal y lleve a ebullición. Cocine hasta que el orzo esté blando."
+     ],
+     [
+      null,
+      "Apague el fuego y agregue los chícharos al orzo. Deje que se cocinen hasta que estén bien calientes."
+     ],
+     [
+      null,
+      "Incorpore el jugo de limón y el queso cheddar, y revuelva hasta que el queso se derrita."
+     ],
+     [
+      null,
+      "Sirva y disfrute."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شوربة لسان العصفور (أورزو)",
+    "description": "لا يستغرق تحضير شوربة لسان العصفور اللذيذة هذه سوى 15 دقيقة، وتحتاج إلى عدد قليل من المكونات، ما يجعلها خيارًا رائعًا للغداء أو لعشاء سريع.",
+    "portions": "3",
+    "serving_size": "230 غرام",
+    "ingredients": [
+     [
+      null,
+      "120 غرام معكرونة لسان العصفور (أورزو)"
+     ],
+     [
+      null,
+      "400 مل مرق خضار قليل الملح"
+     ],
+     [
+      null,
+      "100 غرام بازلاء"
+     ],
+     [
+      null,
+      "عصير ½ ليمونة"
+     ],
+     [
+      null,
+      "50 غرام جبن شيدر"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع لسان العصفور في قدر، وأضف 400 مل من مرق الخضار قليل الملح، واتركه حتى يغلي. اطهِه حتى يلين."
+     ],
+     [
+      null,
+      "أطفئ النار وأضف البازلاء إلى لسان العصفور، واتركها حتى تسخن تمامًا."
+     ],
+     [
+      null,
+      "أضف عصير الليمون وجبن الشيدر وقلّب حتى يذوب الجبن."
+     ],
+     [
+      null,
+      "قدّمها واستمتع بها."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5746836,
+  "translations": {
+   "es": {
+    "title": "Tikki de papa y sagú (alu sabudana tikki)",
+    "description": "Esta receta de alu sabudana tikki, apta para el cuidado de los riñones, se prepara con sagú, papa y especias suaves para obtener un refrigerio bajo en sodio. Se cocina en solo 20 minutos.",
+    "portions": "1",
+    "serving_size": "117 g",
+    "ingredients": [
+     [
+      null,
+      "50 g de sagú (sabudana)"
+     ],
+     [
+      null,
+      "50 g de papa, en trozos grandes"
+     ],
+     [
+      null,
+      "1/2 cucharadita de jengibre, picado"
+     ],
+     [
+      null,
+      "1/2 cucharadita de ajo, picado"
+     ],
+     [
+      null,
+      "1/2 cucharadita de cúrcuma"
+     ],
+     [
+      null,
+      "1/2 cucharadita de chile en polvo"
+     ],
+     [
+      null,
+      "1 cucharadita de fécula de maíz"
+     ],
+     [
+      null,
+      "1 cucharadita de aceite"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Lave el sagú (2-3 veces) y déjelo en remojo durante 6-7 horas o toda la noche. Una vez remojado, escúrralo y enjuáguelo de nuevo."
+     ],
+     [
+      null,
+      "Hierva las papas durante 10 minutos, escúrralas y rállelas. Mezcle el sagú con la papa rallada y reserve."
+     ],
+     [
+      null,
+      "Agregue a la mezcla el jengibre, el ajo, la cúrcuma y el chile en polvo (opcional)."
+     ],
+     [
+      null,
+      "Añada 1 cucharadita de arrurruz o fécula de maíz y mezcle todo bien hasta formar una masa suave."
+     ],
+     [
+      null,
+      "Engrásese las manos con aceite y forme tikkis (tortitas) del tamaño de una bola."
+     ],
+     [
+      null,
+      "Fríalos en poco aceite caliente. Cocínelos a fuego bajo hasta que estén dorados."
+     ],
+     [
+      null,
+      "Deles la vuelta y cocínelos por ambos lados."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "تيكي البطاطس والساغو (آلو سابودانا تيكي)",
+    "description": "وصفة آلو سابودانا تيكي المناسبة لمرضى الكلى هذه محضّرة من الساغو والبطاطس والتوابل الخفيفة، لتقدّم وجبة خفيفة قليلة الصوديوم. لا يستغرق طهيها سوى 20 دقيقة.",
+    "portions": "1",
+    "serving_size": "117 غرام",
+    "ingredients": [
+     [
+      null,
+      "50 غرام ساغو (سابودانا)"
+     ],
+     [
+      null,
+      "50 غرام بطاطس، مقطعة قطعًا كبيرة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة زنجبيل، مفروم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ثوم، مفروم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كركم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة مسحوق الفلفل الحار"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة نشا الذرة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زيت"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اغسل الساغو (2-3 مرات) وانقعه لمدة 6-7 ساعات أو طوال الليل. بعد النقع، صفّه واشطفه مرة أخرى."
+     ],
+     [
+      null,
+      "اسلق البطاطس لمدة 10 دقائق، ثم صفّها وابشرها. اخلط الساغو مع البطاطس المبشورة واتركه جانبًا."
+     ],
+     [
+      null,
+      "أضف إلى الخليط الزنجبيل والثوم والكركم ومسحوق الفلفل الحار (اختياري)."
+     ],
+     [
+      null,
+      "أضف 1 ملعقة صغيرة من نشا الأروروت أو نشا الذرة، واخلط الجميع جيدًا حتى تتكون عجينة طرية."
+     ],
+     [
+      null,
+      "ادهن يديك بالزيت وشكّل أقراص التيكي بحجم الكرة."
+     ],
+     [
+      null,
+      "اقلِها قليًا سطحيًا في زيت ساخن، واتركها على نار هادئة حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      null,
+      "اقلبها واطهِها من الجهتين."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5748807,
+  "translations": {
+   "es": {
+    "title": "Shahi paneer",
+    "description": "Aprenda a preparar este cremoso shahi paneer, un plato especiado, sustancioso y lleno de sabor, con salsa de anacardo y tomate; perfecto con naan o arroz, y hecho con Renastep.",
+    "portions": "2",
+    "serving_size": "231 g",
+    "ingredients": [
+     [
+      null,
+      "½ cucharada de aceite vegetal"
+     ],
+     [
+      null,
+      "5 g de almendras"
+     ],
+     [
+      null,
+      "10 g de anacardos (nueces de la India)"
+     ],
+     [
+      null,
+      "1 cucharadita de vainas de cardamomo"
+     ],
+     [
+      null,
+      "2 g de jengibre, rallado"
+     ],
+     [
+      null,
+      "1 diente de ajo, rallado"
+     ],
+     [
+      null,
+      "½ chile verde, sin semillas, partido por la mitad"
+     ],
+     [
+      null,
+      "75 g de cebolla, en rodajas"
+     ],
+     [
+      null,
+      "100 ml de agua"
+     ],
+     [
+      null,
+      "½ cucharadita de comino molido"
+     ],
+     [
+      null,
+      "½ raja de canela"
+     ],
+     [
+      null,
+      "1 cucharadita de clavos de olor secos"
+     ],
+     [
+      null,
+      "1 cucharadita de garam masala"
+     ],
+     [
+      null,
+      "½ cucharadita de cúrcuma"
+     ],
+     [
+      null,
+      "125 g de queso paneer"
+     ],
+     [
+      null,
+      "125 ml de Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente el aceite en una sartén, agregue las almendras, los anacardos y las vainas de cardamomo, fríalos hasta que se doren y retírelos de la sartén."
+     ],
+     [
+      null,
+      "Añada el jengibre, el ajo, el chile verde y la cebolla, y cocine hasta que se ablanden."
+     ],
+     [
+      null,
+      "Ponga todo en la licuadora y licúe hasta obtener una pasta homogénea; puede agregar un poco de agua para lograr una consistencia más suave."
+     ],
+     [
+      null,
+      "En la misma sartén, caliente aceite y agregue las semillas de comino, la raja de canela y los clavos, y deje que chisporroteen durante 30 segundos."
+     ],
+     [
+      null,
+      "Luego agregue el garam masala, la cúrcuma y la pasta de nueces, y cocine durante 3-4 minutos."
+     ],
+     [
+      null,
+      "Añada el agua y deje hervir durante unos 10 minutos."
+     ],
+     [
+      null,
+      "Agregue el Renastep y deje que se caliente bien."
+     ],
+     [
+      null,
+      "Una vez caliente, añada el paneer, cocine durante 1 minuto y apague el fuego."
+     ],
+     [
+      null,
+      "Sirva con arroz y disfrute."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales destinado al manejo dietético de la enfermedad renal. Apto a partir de los 3 años de edad. Debe utilizarse bajo supervisión médica. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شاهي بانير",
+    "description": "تعلّم طريقة تحضير طبق شاهي بانير الكريمي، وهو طبق متبّل غني بالنكهة بصلصة الكاجو والطماطم، مثالي مع خبز النان أو الأرز، ومحضّر باستخدام Renastep.",
+    "portions": "2",
+    "serving_size": "231 غرام",
+    "ingredients": [
+     [
+      null,
+      "½ ملعقة كبيرة زيت نباتي"
+     ],
+     [
+      null,
+      "5 غرام لوز"
+     ],
+     [
+      null,
+      "10 غرام كاجو"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة حبوب هيل"
+     ],
+     [
+      null,
+      "2 غرام زنجبيل، مبشور"
+     ],
+     [
+      null,
+      "1 فص ثوم، مبشور"
+     ],
+     [
+      null,
+      "½ فلفلة خضراء حارة، منزوعة البذور ومقسومة إلى نصفين"
+     ],
+     [
+      null,
+      "75 غرام بصل، مقطع شرائح"
+     ],
+     [
+      null,
+      "100 مل ماء"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كمون مطحون"
+     ],
+     [
+      null,
+      "½ عود قرفة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة قرنفل مجفف"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة غرام ماسالا"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كركم"
+     ],
+     [
+      null,
+      "125 غرام جبن بانير"
+     ],
+     [
+      null,
+      "125 مل من Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الزيت في مقلاة وأضف اللوز والكاجو وحبوب الهيل، واقلِها حتى يصبح لونها ذهبيًا، ثم أخرجها من المقلاة."
+     ],
+     [
+      null,
+      "أضف الزنجبيل والثوم والفلفل الأخضر الحار والبصل، واطهِها حتى تلين."
+     ],
+     [
+      null,
+      "ضع كل المكونات في الخلاط واخلطها حتى تتكون عجينة ناعمة، ويمكن إضافة قليل من الماء للحصول على قوام أنعم."
+     ],
+     [
+      null,
+      "في المقلاة نفسها، سخّن الزيت وأضف بذور الكمون وعود القرفة والقرنفل، واتركها تطقطق لمدة 30 ثانية."
+     ],
+     [
+      null,
+      "ثم أضف الغرام ماسالا والكركم وعجينة المكسرات، واطهِها لمدة 3-4 دقائق."
+     ],
+     [
+      null,
+      "أضف الماء واتركه يغلي لمدة 10 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "أضف Renastep واتركه حتى يسخن تمامًا."
+     ],
+     [
+      null,
+      "بعد أن يسخن، أضف جبن البانير واطهِه لمدة 1 دقيقة، ثم أطفئ النار."
+     ],
+     [
+      null,
+      "قدّمه مع الأرز واستمتع به."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة مخصص للتدبير الغذائي لأمراض الكلى. مناسب بدءًا من عمر 3 سنوات. يجب استخدامه تحت إشراف طبي. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5763741,
+  "translations": {
+   "es": {
+    "title": "Paleta helada estilo piña colada",
+    "description": "Refrescante paleta helada estilo piña colada: un postre tropical que combina los sabores del coco y la piña para un postre de verano delicioso, fresco y cremoso.",
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "75 ml de Renastep™"
+     ],
+     [
+      null,
+      "15 g de piña en lata (licuada o picada finamente)"
+     ],
+     [
+      null,
+      "15 ml de leche de coco"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Pique finamente o licúe la piña."
+     ],
+     [
+      null,
+      "Vierta la leche de coco y el Renastep en una jarra."
+     ],
+     [
+      null,
+      "Agregue la piña a la jarra, mezcle y vierta en el molde para paletas."
+     ],
+     [
+      null,
+      "Deje congelar durante 24 horas."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep está destinado al manejo dietético de la enfermedad renal y es apto a partir de los 3 años de edad. Renastep contiene leche (proteína de la leche) y pescado (aceites de atún)."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مثلجات على عود بنكهة البينا كولادا",
+    "description": "مثلجات منعشة على عود بنكهة البينا كولادا: حلوى استوائية تمزج نكهتي جوز الهند والأناناس في حلوى صيفية لذيذة وباردة وكريمية.",
+    "portions": null,
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "75 مل من Renastep™"
+     ],
+     [
+      null,
+      "15 غرام أناناس معلّب (مهروس في الخلاط أو مقطع مكعبات صغيرة جدًا)"
+     ],
+     [
+      null,
+      "15 مل حليب جوز الهند"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قطّع الأناناس مكعبات صغيرة جدًا أو اهرسه في الخلاط."
+     ],
+     [
+      null,
+      "اسكب حليب جوز الهند وRenastep في إبريق."
+     ],
+     [
+      null,
+      "أضف الأناناس إلى الإبريق، واخلط ثم اسكب الخليط في قالب المثلجات."
+     ],
+     [
+      null,
+      "اتركه في الفريزر لمدة 24 ساعة."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep مخصص للتدبير الغذائي لأمراض الكلى ومناسب بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيوت التونة)."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5766147,
+  "translations": {
+   "es": {
+    "title": "Muhalabieh (pudín de leche con agua de rosas)",
+    "description": null,
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      null,
+      "125 ml de agua"
+     ],
+     [
+      null,
+      "50 g de azúcar"
+     ],
+     [
+      null,
+      "16 g de fécula de maíz"
+     ],
+     [
+      null,
+      "½ - 1 cucharadita de agua de rosas (al gusto)"
+     ],
+     [
+      null,
+      "8 g de pistaches, finamente picados (para servir)"
+     ],
+     [
+      null,
+      "Pétalos de rosa (para servir)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Vierta el Renastep y el agua en una olla y caliente a fuego bajo a medio."
+     ],
+     [
+      null,
+      "Agregue el azúcar, la fécula de maíz y el agua de rosas, y bata sin parar durante 3-4 minutos, hasta que la mezcla empiece a espesar."
+     ],
+     [
+      null,
+      "Retire del fuego (seguirá espesando al enfriarse)."
+     ],
+     [
+      null,
+      "Forre un tazón con película plástica y vierta la mezcla."
+     ],
+     [
+      null,
+      "Deje que la mezcla se enfríe a temperatura ambiente durante 30 minutos; luego pásela al refrigerador y enfríe durante 2-3 horas o, si es posible, toda la noche."
+     ],
+     [
+      null,
+      "Una vez fría, despegue la película plástica y desmolde el pudín sobre un plato."
+     ],
+     [
+      null,
+      "Sirva decorado con los pistaches (si su dieta lo permite) y los pétalos de rosa."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Puede sustituir el agua por Renastep. Use un cuchillo tibio para alisar la superficie del pudín antes de servir."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep está destinado al manejo dietético de la enfermedad renal y es apto a partir de los 3 años de edad."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep contiene leche (proteína de la leche) y pescado (aceites de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مهلبية",
+    "description": null,
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      null,
+      "125 مل ماء"
+     ],
+     [
+      null,
+      "50 غرام سكر"
+     ],
+     [
+      null,
+      "16 غرام نشا الذرة"
+     ],
+     [
+      null,
+      "½ - 1 ملعقة صغيرة ماء ورد (حسب الرغبة)"
+     ],
+     [
+      null,
+      "8 غرام فستق حلبي، مفروم ناعمًا (للتقديم)"
+     ],
+     [
+      null,
+      "بتلات ورد (للتقديم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اسكب Renastep والماء في قدر وسخّنهما على نار هادئة إلى متوسطة."
+     ],
+     [
+      null,
+      "أضف السكر ونشا الذرة وماء الورد، واخفق باستمرار لمدة 3-4 دقائق حتى يبدأ الخليط بالتكاثف."
+     ],
+     [
+      null,
+      "ارفع القدر عن النار (سيستمر الخليط في التكاثف عند تبريده)."
+     ],
+     [
+      null,
+      "بطّن وعاءً بغلاف بلاستيكي واسكب فيه الخليط."
+     ],
+     [
+      null,
+      "اترك الخليط يبرد في درجة حرارة الغرفة لمدة 30 دقيقة، ثم انقله إلى الثلاجة وبرّده لمدة 2-3 ساعات أو طوال الليل إن أمكن."
+     ],
+     [
+      null,
+      "بعد أن يبرد، افصل الغلاف البلاستيكي عن الحواف، واقلب المهلبية على طبق."
+     ],
+     [
+      null,
+      "قدّمها مزيّنة بالفستق الحلبي (إذا كان مسموحًا لك) وبتلات الورد."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "يمكن استبدال الماء بـ Renastep. استخدم سكينًا دافئة لتنعيم سطح المهلبية قبل التقديم."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep مخصص للتدبير الغذائي لأمراض الكلى ومناسب بدءًا من عمر 3 سنوات."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيوت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5780219,
+  "translations": {
+   "es": {
+    "title": "Papas en gajos con doble cocción y alioli",
+    "description": null,
+    "portions": "4",
+    "serving_size": "97 g",
+    "ingredients": [
+     [
+      "Para los gajos",
+      "350 g de papas de piel roja, peladas y cortadas en gajos"
+     ],
+     [
+      "Para los gajos",
+      "1.5 L de agua (para hervir)"
+     ],
+     [
+      "Para los gajos",
+      "1 cucharada de aceite vegetal"
+     ],
+     [
+      "Para los gajos",
+      "1 cucharadita de hierbas mixtas"
+     ],
+     [
+      "Para los gajos",
+      "½ cucharadita de pimienta negra"
+     ],
+     [
+      "Para el alioli",
+      "1 cucharada de mayonesa"
+     ],
+     [
+      "Para el alioli",
+      "1 diente de ajo pequeño, picado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Hierva las papas en abundante agua durante 10 minutos; esto ayuda a que la papa pierda parte de su potasio."
+     ],
+     [
+      null,
+      "Deseche el agua."
+     ],
+     [
+      null,
+      "Ahora hierva las papas en agua limpia durante 10 minutos más y, una vez cocidas, vuelva a desechar el agua. Esto reduce aún más el contenido de potasio."
+     ],
+     [
+      null,
+      "Asegúrese siempre de desechar el agua. No debe usarse para salsas ni para cocinar otros ingredientes."
+     ],
+     [
+      null,
+      "Una vez escurridos, coloque los gajos en una bandeja para hornear y rocíelos con el aceite vegetal, las hierbas mixtas y la pimienta negra."
+     ],
+     [
+      null,
+      "Hornee durante 20 – 25 minutos o hasta que estén dorados."
+     ],
+     [
+      null,
+      "Mientras se hornean, mezcle la mayonesa y el ajo hasta que se integren bien, póngalos en un tazón pequeño y reserve."
+     ],
+     [
+      null,
+      "Una vez cocidos, sirva los gajos de inmediato con el alioli, ¡y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أصابع البطاطس المسلوقة مرتين مع صلصة الأيولي",
+    "description": null,
+    "portions": "4",
+    "serving_size": "97 غرام",
+    "ingredients": [
+     [
+      "لأصابع البطاطس",
+      "350 غرام بطاطس حمراء القشرة، مقشرة ومقطعة أصابع سميكة (ودجز)"
+     ],
+     [
+      "لأصابع البطاطس",
+      "1.5 لتر ماء (للسلق)"
+     ],
+     [
+      "لأصابع البطاطس",
+      "1 ملعقة كبيرة زيت نباتي"
+     ],
+     [
+      "لأصابع البطاطس",
+      "1 ملعقة صغيرة أعشاب مشكلة"
+     ],
+     [
+      "لأصابع البطاطس",
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      "لصلصة الأيولي",
+      "1 ملعقة كبيرة مايونيز"
+     ],
+     [
+      "لصلصة الأيولي",
+      "1 فص ثوم صغير، مهروس"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اسلق البطاطس في كمية كبيرة من الماء لمدة 10 دقائق، فهذا يساعد البطاطس على فقدان جزء من البوتاسيوم."
+     ],
+     [
+      null,
+      "تخلّص من الماء."
+     ],
+     [
+      null,
+      "اسلق البطاطس الآن في ماء جديد لمدة 10 دقائق إضافية، ثم تخلّص من الماء مرة أخرى بعد أن تنضج البطاطس. هذا يقلل محتوى البوتاسيوم أكثر."
+     ],
+     [
+      null,
+      "احرص دائمًا على التخلص من الماء، ولا تستخدمه في الصلصات أو في طهي مكونات أخرى."
+     ],
+     [
+      null,
+      "بعد التصفية، ضع أصابع البطاطس في صينية خبز، ورشّ عليها الزيت النباتي والأعشاب المشكلة والفلفل الأسود."
+     ],
+     [
+      null,
+      "اخبزها لمدة 20 – 25 دقيقة أو حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      null,
+      "أثناء الخبز، اخلط المايونيز والثوم حتى يمتزجا جيدًا، ثم ضع الصلصة في وعاء صغير واتركها جانبًا."
+     ],
+     [
+      null,
+      "بعد أن تنضج، قدّم أصابع البطاطس فورًا مع صلصة الأيولي واستمتع بها!"
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5804641,
+  "translations": {
+   "es": {
+    "title": "Pierogi (empanadillas polacas)",
+    "description": "Descubra cómo preparar nuestra versión de los pierogi, las irresistibles empanadillas polacas, para quienes siguen una dieta renal. Esta receta se cocina en 20 minutos y rinde 4 porciones.",
+    "portions": "4 porciones, 3 empanadillas por porción",
+    "serving_size": null,
+    "ingredients": [
+     [
+      "Masa",
+      "150 g de harina común"
+     ],
+     [
+      "Masa",
+      "1 huevo grande"
+     ],
+     [
+      "Masa",
+      "15 g de mantequilla sin sal, derretida"
+     ],
+     [
+      "Masa",
+      "2 cucharadas de agua hirviendo"
+     ],
+     [
+      "Salsa",
+      "125 ml de Renastep"
+     ],
+     [
+      "Salsa",
+      "50 g de queso crema"
+     ],
+     [
+      "Salsa",
+      "½ cucharadita de hierbas mixtas"
+     ],
+     [
+      "Salsa",
+      "½ cucharadita de ajo en polvo"
+     ],
+     [
+      "Relleno",
+      "2 cucharadas de aceite de oliva"
+     ],
+     [
+      "Relleno",
+      "2 dientes de ajo, picados"
+     ],
+     [
+      "Relleno",
+      "40 g de cebolla, finamente picada"
+     ],
+     [
+      "Relleno",
+      "100 g de carne de res molida"
+     ],
+     [
+      "Relleno",
+      "90 g de zanahoria, rallada"
+     ],
+     [
+      "Relleno",
+      "¼ cucharadita de pimienta negra molida"
+     ],
+     [
+      "Relleno",
+      "½ cucharadita de orégano"
+     ]
+    ],
+    "steps": [
+     [
+      "Para preparar la masa",
+      "Ponga la harina en un tazón y haga un hueco en el centro. Agregue el huevo, la mantequilla derretida y el agua caliente."
+     ],
+     [
+      "Para preparar la masa",
+      "Mezcle hasta formar una masa."
+     ],
+     [
+      "Para preparar la masa",
+      "Pásela a una tabla y amásela hasta que esté lisa. Forme una bola, cúbrala y déjela reposar durante 20 minutos."
+     ],
+     [
+      "Para preparar el relleno",
+      "Caliente 1 cucharada del aceite en una sartén a fuego medio y agregue el ajo picado y la cebolla picada. Fría hasta que la cebolla esté transparente."
+     ],
+     [
+      "Para preparar el relleno",
+      "Añada la carne molida y fríala hasta que se dore."
+     ],
+     [
+      "Para preparar el relleno",
+      "Agregue la zanahoria rallada, la pimienta negra y el orégano, y cocine durante 3 minutos más."
+     ],
+     [
+      "Armado",
+      "Extienda la masa en un círculo de 10 pulgadas (25 cm) a 11 pulgadas (28 cm). Corte 12 círculos en la masa con un cortador de galletas redondo de 3 pulgadas (8 cm)."
+     ],
+     [
+      "Armado",
+      "Ponga una cucharadita colmada del relleno en el centro de cada círculo de masa. Doble, estire y presione los bordes para formar una empanadilla en forma de media luna."
+     ],
+     [
+      "Armado",
+      "En una olla grande con agua hirviendo, ponga con cuidado dos o tres empanadillas. Los pierogi flotarán cuando estén listos. Retírelos con una espumadera y colóquelos sobre papel de cocina."
+     ],
+     [
+      "Armado",
+      "Una vez hervidos, fría ligeramente los pierogi en la 1 cucharada restante de aceite de oliva a fuego medio. Fríalos durante 3 minutos por cada lado, hasta que estén crujientes y dorados."
+     ],
+     [
+      "Salsa cremosa de queso",
+      "En una olla a fuego bajo, ponga el Renastep, el queso crema, las hierbas mixtas y el ajo en polvo, y revuelva hasta integrar."
+     ],
+     [
+      "Salsa cremosa de queso",
+      "Cocine a fuego lento durante 3 minutos, hasta que espese (no deje que hierva)."
+     ],
+     [
+      "Salsa cremosa de queso",
+      "Reparta la salsa de queso sobre las 4 porciones de pierogi."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún)."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بيروغي (فطائر بولندية مسلوقة)",
+    "description": "اكتشف طريقة تحضير نسختنا من البيروغي، الفطائر البولندية الشهية، لمن يتّبعون النظام الغذائي الكلوي. تُطهى هذه الوصفة في 20 دقيقة وتكفي 4 حصص.",
+    "portions": "4 حصص، 3 فطائر في كل حصة",
+    "serving_size": null,
+    "ingredients": [
+     [
+      "العجينة",
+      "150 غرام دقيق عادي"
+     ],
+     [
+      "العجينة",
+      "1 بيضة كبيرة"
+     ],
+     [
+      "العجينة",
+      "15 غرام زبدة غير مملحة، مذوّبة"
+     ],
+     [
+      "العجينة",
+      "2 ملعقة كبيرة ماء مغلي"
+     ],
+     [
+      "الصلصة",
+      "125 مل من Renastep"
+     ],
+     [
+      "الصلصة",
+      "50 غرام جبن كريمي"
+     ],
+     [
+      "الصلصة",
+      "½ ملعقة صغيرة أعشاب مشكلة"
+     ],
+     [
+      "الصلصة",
+      "½ ملعقة صغيرة ثوم بودرة"
+     ],
+     [
+      "الحشوة",
+      "2 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      "الحشوة",
+      "2 فصوص ثوم، مهروسة"
+     ],
+     [
+      "الحشوة",
+      "40 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      "الحشوة",
+      "100 غرام لحم بقري مفروم"
+     ],
+     [
+      "الحشوة",
+      "90 غرام جزر، مبشور"
+     ],
+     [
+      "الحشوة",
+      "¼ ملعقة صغيرة فلفل أسود مطحون"
+     ],
+     [
+      "الحشوة",
+      "½ ملعقة صغيرة أوريغانو"
+     ]
+    ],
+    "steps": [
+     [
+      "لتحضير العجينة",
+      "ضع الدقيق في وعاء واصنع حفرة في وسطه. أضف البيضة والزبدة المذوّبة والماء الساخن."
+     ],
+     [
+      "لتحضير العجينة",
+      "اخلط حتى تتكون عجينة."
+     ],
+     [
+      "لتحضير العجينة",
+      "انقل العجينة إلى لوح واعجنها حتى تصبح ناعمة. شكّلها على هيئة كرة، وغطّها واتركها جانبًا لمدة 20 دقيقة."
+     ],
+     [
+      "لتحضير الحشوة",
+      "سخّن 1 ملعقة كبيرة من الزيت في مقلاة على نار متوسطة، وأضف الثوم المهروس والبصل المفروم. اقلِهما حتى يصبح البصل شفافًا."
+     ],
+     [
+      "لتحضير الحشوة",
+      "أضف اللحم المفروم واقلِه حتى يتحمر."
+     ],
+     [
+      "لتحضير الحشوة",
+      "أضف الجزر المبشور والفلفل الأسود والأوريغانو، واطهِ لمدة 3 دقائق إضافية."
+     ],
+     [
+      "التجميع",
+      "افرد العجينة على شكل دائرة قطرها من 10 بوصات (25 سم) إلى 11 بوصة (28 سم). اقطع 12 دائرة من العجينة باستخدام قطّاعة بسكويت دائرية قطرها 3 بوصات (8 سم)."
+     ],
+     [
+      "التجميع",
+      "ضع ملعقة صغيرة ممتلئة من الحشوة في وسط كل دائرة عجين. اطوِها ومدّدها واضغط على الأطراف لتشكيل فطيرة على شكل هلال."
+     ],
+     [
+      "التجميع",
+      "في قدر كبير من الماء المغلي، ضع فطيرتين أو ثلاثًا بحذر. ستطفو البيروغي على السطح عندما تنضج. أخرجها بمغرفة مثقوبة وضعها على ورق المطبخ."
+     ],
+     [
+      "التجميع",
+      "بعد السلق، اقلِ البيروغي قليًا خفيفًا في ما تبقى من زيت الزيتون (1 ملعقة كبيرة) على نار متوسطة، لمدة 3 دقائق لكل جانب حتى تصبح مقرمشة وذهبية اللون."
+     ],
+     [
+      "صلصة الجبن الكريمية",
+      "في قدر على نار هادئة، أضف Renastep والجبن الكريمي والأعشاب المشكلة والثوم البودرة، وقلّب حتى تمتزج."
+     ],
+     [
+      "صلصة الجبن الكريمية",
+      "اتركها على نار هادئة لمدة 3 دقائق حتى تتكثف (لا تتركها تغلي)."
+     ],
+     [
+      "صلصة الجبن الكريمية",
+      "وزّع صلصة الجبن على حصص البيروغي الـ 4."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة)."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5827557,
+  "translations": {
+   "es": {
+    "title": "Galletas de jengibre",
+    "description": "Pruebe a hornear nuestra deliciosa receta de galletas especiadas de jengibre, perfecta para quienes aman un dulce cálido y lleno de sabor. Esta receta fácil rinde 18 galletas.",
+    "portions": "18",
+    "serving_size": "1 galleta (43 g)",
+    "ingredients": [
+     [
+      null,
+      "100 g de mantequilla sin sal, a temperatura ambiente"
+     ],
+     [
+      null,
+      "175 g de azúcar morena suave"
+     ],
+     [
+      null,
+      "120 ml de jarabe dorado (golden syrup)"
+     ],
+     [
+      null,
+      "350 g de harina común"
+     ],
+     [
+      null,
+      "15 g de jengibre molido"
+     ],
+     [
+      null,
+      "5 g de bicarbonato de sodio"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 °C / 160 °C con ventilador / 350 °F / gas 4."
+     ],
+     [
+      null,
+      "En un tazón grande, bata la mantequilla con el azúcar hasta obtener una crema."
+     ],
+     [
+      null,
+      "Agregue el jarabe dorado y los ingredientes secos, y bata para integrar."
+     ],
+     [
+      null,
+      "Una vez que todo esté integrado, forme bolitas con las manos (¡asegúrese de que estén limpias!), procurando que todas tengan el mismo tamaño."
+     ],
+     [
+      null,
+      "Colóquelas a 3 cm de distancia en una bandeja para hornear engrasada y aplánelas ligeramente con un tenedor."
+     ],
+     [
+      null,
+      "Hornee durante 15 minutos o hasta que estén doradas."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بسكويت الزنجبيل",
+    "description": "جرّب خبز وصفة بسكويت الزنجبيل اللذيذ والمتبّل، المثالي لكل من يحب الحلويات الدافئة الغنية بالنكهة. تكفي هذه الوصفة السهلة لتحضير 18 قطعة بسكويت.",
+    "portions": "18",
+    "serving_size": "1 قطعة بسكويت (43 غرام)",
+    "ingredients": [
+     [
+      null,
+      "100 غرام زبدة غير مملحة، بدرجة حرارة الغرفة"
+     ],
+     [
+      null,
+      "175 غرام سكر بني طري"
+     ],
+     [
+      null,
+      "120 مل شراب السكر الذهبي (غولدن سيرب)"
+     ],
+     [
+      null,
+      "350 غرام دقيق عادي"
+     ],
+     [
+      null,
+      "15 غرام زنجبيل مطحون"
+     ],
+     [
+      null,
+      "5 غرام بيكربونات الصوديوم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 160° مئوية للفرن بمروحة / 350° فهرنهايت / مستوى الغاز 4."
+     ],
+     [
+      null,
+      "في وعاء كبير، اخفق الزبدة مع السكر حتى يصبح الخليط كريميًا."
+     ],
+     [
+      null,
+      "أضف شراب السكر الذهبي والمكونات الجافة، واخفق حتى تمتزج."
+     ],
+     [
+      null,
+      "بعد أن يمتزج كل شيء، شكّل الخليط بيديك (تأكد من أنهما نظيفتان!) على هيئة كرات صغيرة متساوية الحجم."
+     ],
+     [
+      null,
+      "رصّها على صينية خبز مدهونة بالزيت مع ترك مسافة 3 سم بينها، واضغط عليها برفق بالشوكة."
+     ],
+     [
+      null,
+      "اخبزها في الفرن لمدة 15 دقيقة أو حتى يصبح لونها ذهبيًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5828545,
+  "translations": {
+   "es": {
+    "title": "Hünkar beğendi",
+    "description": "Prepare esta receta de hünkar beğendi apta para el cuidado de los riñones, con tierno pavo en salsa de tomate servido sobre un cremoso puré de berenjena asada, para lograr una comida deliciosa.",
+    "portions": "2",
+    "serving_size": "504 g",
+    "ingredients": [
+     [
+      null,
+      "200 g de berenjena, en trozos"
+     ],
+     [
+      null,
+      "20 g de aceite de oliva"
+     ],
+     [
+      null,
+      "10 g de harina blanca"
+     ],
+     [
+      null,
+      "125 ml de Renastep™"
+     ],
+     [
+      null,
+      "1 g de pimienta negra"
+     ],
+     [
+      null,
+      "1 g de nuez moscada"
+     ],
+     [
+      null,
+      "30 g de aceite vegetal"
+     ],
+     [
+      null,
+      "200 g de pechuga de pavo, en trozos pequeños"
+     ],
+     [
+      null,
+      "50 g de cebolla, en rodajas finas"
+     ],
+     [
+      null,
+      "20 g de pimiento verde, en tiras finas"
+     ],
+     [
+      null,
+      "50 g de pimiento rojo, en tiras finas"
+     ],
+     [
+      null,
+      "50 g de tomate, rallado"
+     ],
+     [
+      null,
+      "250 ml de agua"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga las berenjenas bajo el gratinador (asador) del horno bien caliente y deje que se tuesten por todos lados; retírelas y deje que se enfríen."
+     ],
+     [
+      null,
+      "Una vez frías, quíteles la piel tostada y reserve."
+     ],
+     [
+      null,
+      "Caliente el aceite y la harina en una olla y revuelva hasta formar una pasta."
+     ],
+     [
+      null,
+      "Agregue las berenjenas asadas a la olla y, cuando estén calientes, macháquelas hasta formar una pasta homogénea."
+     ],
+     [
+      null,
+      "Baje el fuego y agregue poco a poco el Renastep, la pimienta negra y la nuez moscada, revolviendo bien hasta integrar."
+     ],
+     [
+      null,
+      "Deje cocinar durante 2 minutos más y reserve."
+     ],
+     [
+      null,
+      "En otra sartén, caliente aceite y agregue los trozos de pavo. Deje que se cocinen hasta que se doren."
+     ],
+     [
+      null,
+      "Añada la cebolla y los pimientos a la carne, y cocine hasta que se ablanden."
+     ],
+     [
+      null,
+      "Agregue el tomate rallado y el agua adicional, y deje cocinar hasta que la salsa se reduzca y la carne esté bien cocida."
+     ],
+     [
+      null,
+      "Sirva sobre el puré de berenjena asada."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "هونكار بيندي",
+    "description": "اطهِ وصفة هونكار بيندي المناسبة لمرضى الكلى، المكوّنة من لحم ديك رومي طري بصلصة الطماطم يُقدَّم فوق هريس كريمي من الباذنجان المشوي، لتحصل على وجبة لذيذة.",
+    "portions": "2",
+    "serving_size": "504 غرام",
+    "ingredients": [
+     [
+      null,
+      "200 غرام باذنجان، مقطع قطعًا"
+     ],
+     [
+      null,
+      "20 غرام زيت زيتون"
+     ],
+     [
+      null,
+      "10 غرام دقيق أبيض"
+     ],
+     [
+      null,
+      "125 مل من Renastep™"
+     ],
+     [
+      null,
+      "1 غرام فلفل أسود"
+     ],
+     [
+      null,
+      "1 غرام جوزة الطيب"
+     ],
+     [
+      null,
+      "30 غرام زيت نباتي"
+     ],
+     [
+      null,
+      "200 غرام صدر ديك رومي، مقطع قطعًا صغيرة"
+     ],
+     [
+      null,
+      "50 غرام بصل، مقطع شرائح رفيعة"
+     ],
+     [
+      null,
+      "20 غرام فلفل رومي أخضر، مقطع شرائح رفيعة"
+     ],
+     [
+      null,
+      "50 غرام فلفل رومي أحمر، مقطع شرائح رفيعة"
+     ],
+     [
+      null,
+      "50 غرام طماطم، مبشورة"
+     ],
+     [
+      null,
+      "250 مل ماء"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع الباذنجان تحت شواية الفرن الساخنة واتركه حتى يتفحم من جميع الجهات، ثم أخرجه واتركه حتى يبرد."
+     ],
+     [
+      null,
+      "بعد أن يبرد، قشّر جلد الباذنجان المتفحم واتركه جانبًا."
+     ],
+     [
+      null,
+      "سخّن الزيت والدقيق في قدر وقلّب حتى يتكون معجون."
+     ],
+     [
+      null,
+      "أضف الباذنجان المشوي إلى القدر، وعندما يسخن اهرسه حتى يصبح عجينة ناعمة."
+     ],
+     [
+      null,
+      "خفّف النار وأضف Renastep والفلفل الأسود وجوزة الطيب تدريجيًا إلى الخليط، وقلّب جيدًا حتى يمتزج."
+     ],
+     [
+      null,
+      "اتركه على النار لمدة 2 دقيقة إضافية، ثم اتركه جانبًا."
+     ],
+     [
+      null,
+      "في مقلاة أخرى، سخّن الزيت وأضف قطع الديك الرومي، واتركها تُطهى حتى تتحمر."
+     ],
+     [
+      null,
+      "أضف البصل والفلفل إلى اللحم واطهِها حتى تلين."
+     ],
+     [
+      null,
+      "أضف الطماطم المبشورة والماء الإضافي، واتركها تُطهى حتى تتكثف الصلصة وينضج اللحم تمامًا."
+     ],
+     [
+      null,
+      "قدّمه فوق هريس الباذنجان المشوي."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5886497,
+  "translations": {
+   "es": {
+    "title": "Sopa de pimiento rojo asado",
+    "description": "Aprenda a preparar esta sopa ahumada de pimiento rojo asado, licuada hasta quedar suave, con hierbas y crema: sustanciosa, colorida y reconfortante en cada cucharada caliente.",
+    "portions": "3",
+    "serving_size": "280 ml",
+    "ingredients": [
+     [
+      null,
+      "200 g de pimiento rojo, picado"
+     ],
+     [
+      null,
+      "75 g de cebolla, picada"
+     ],
+     [
+      null,
+      "100 g de camote, picado"
+     ],
+     [
+      null,
+      "10 g de ajo, picado"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "2 cucharaditas de pimentón (paprika)"
+     ],
+     [
+      null,
+      "1 cucharadita de chile en hojuelas"
+     ],
+     [
+      null,
+      "1 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "200 ml de agua hirviendo"
+     ],
+     [
+      null,
+      "1 cubito de caldo bajo en sal"
+     ],
+     [
+      null,
+      "125 ml de Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 200 °C."
+     ],
+     [
+      null,
+      "Ponga el pimiento rojo, la cebolla y el camote en una bandeja para hornear junto con el ajo."
+     ],
+     [
+      null,
+      "Rocíe con el aceite de oliva, luego agregue el pimentón, el chile en hojuelas y la pimienta negra, y mezcle bien hasta que las verduras queden cubiertas de manera uniforme."
+     ],
+     [
+      null,
+      "Ase en el horno durante 35 minutos o hasta que estén blandas."
+     ],
+     [
+      null,
+      "Una vez cocidas, póngalas en una olla con el caldo bajo en sal y el Renastep, y cocine a fuego medio hasta que todo esté bien caliente."
+     ],
+     [
+      null,
+      "Cuando esté caliente, licúe hasta que quede homogénea, ¡sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales destinado al manejo dietético de la enfermedad renal. Apto a partir de los 3 años de edad. Debe utilizarse bajo supervisión médica. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شوربة الفلفل الأحمر المشوي",
+    "description": "تعلّم طريقة تحضير شوربة الفلفل الأحمر المشوي ذات النكهة المدخّنة، المخلوطة حتى تصبح ناعمة مع الأعشاب والكريمة: غنية وزاهية ومريحة في كل ملعقة دافئة.",
+    "portions": "3",
+    "serving_size": "280 مل",
+    "ingredients": [
+     [
+      null,
+      "200 غرام فلفل رومي أحمر، مقطع"
+     ],
+     [
+      null,
+      "75 غرام بصل، مقطع"
+     ],
+     [
+      null,
+      "100 غرام بطاطا حلوة، مقطعة"
+     ],
+     [
+      null,
+      "10 غرام ثوم، مفروم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة بابريكا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة رقائق الفلفل الحار"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "200 مل ماء مغلي"
+     ],
+     [
+      null,
+      "1 مكعب مرق قليل الملح"
+     ],
+     [
+      null,
+      "125 مل من Renastep™"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 200° مئوية."
+     ],
+     [
+      null,
+      "ضع الفلفل الأحمر والبصل والبطاطا الحلوة في صينية خبز مع الثوم."
+     ],
+     [
+      null,
+      "رشّ زيت الزيتون على الخضار، ثم أضف البابريكا ورقائق الفلفل الحار والفلفل الأسود، وقلّب جيدًا حتى تتغطى الخضار بالتساوي."
+     ],
+     [
+      null,
+      "اشوِها في الفرن لمدة 35 دقيقة أو حتى تلين."
+     ],
+     [
+      null,
+      "بعد أن تنضج، ضعها في قدر مع المرق قليل الملح وRenastep، واطهِها على نار متوسطة حتى تسخن تمامًا."
+     ],
+     [
+      null,
+      "عندما تسخن، اخلطها في الخلاط حتى تصبح ناعمة، ثم قدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة مخصص للتدبير الغذائي لأمراض الكلى. مناسب بدءًا من عمر 3 سنوات. يجب استخدامه تحت إشراف طبي. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5913532,
+  "translations": {
+   "es": {
+    "title": "Burrito bowl",
+    "description": "Esta receta de burrito bowl con tofu, pimiento, harissa, chícharos y cebolla fue creada para personas con enfermedad renal. Ideal para una comida de fin de semana.",
+    "portions": "2",
+    "serving_size": "243 g",
+    "ingredients": [
+     [
+      null,
+      "120 g de arroz"
+     ],
+     [
+      null,
+      "100 g de tofu, en cubos"
+     ],
+     [
+      null,
+      "15 g de fécula de maíz"
+     ],
+     [
+      null,
+      "1 cucharadita de cilantro molido"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "1 diente de ajo, finamente picado"
+     ],
+     [
+      null,
+      "1 cucharadita de pasta de harissa"
+     ],
+     [
+      null,
+      "60 g de frijoles negros, escurridos y enjuagados"
+     ],
+     [
+      null,
+      "El jugo de 1 limón verde"
+     ],
+     [
+      null,
+      "30 g de pimiento rojo, picado"
+     ],
+     [
+      null,
+      "20 g de cebolla, finamente picada"
+     ],
+     [
+      null,
+      "5 g de cilantro fresco, finamente picado (reserve un poco para decorar)"
+     ],
+     [
+      null,
+      "75 g de chícharos"
+     ],
+     [
+      null,
+      "30 g de yogur de coco"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente agua en una olla. Cuando hierva, agregue el arroz, cocine durante 10 minutos y reserve."
+     ],
+     [
+      null,
+      "Ponga el tofu, la fécula de maíz y el cilantro molido en un tazón. Revuelva hasta que el tofu quede bien cubierto con la fécula."
+     ],
+     [
+      null,
+      "Caliente un poco de aceite en una sartén y agregue el tofu cubierto. Cocine hasta que esté dorado por todos lados y reserve."
+     ],
+     [
+      null,
+      "Caliente aceite en una sartén y agregue el ajo, la harissa, los frijoles negros y ½ del jugo de limón verde. Fría hasta que esté caliente y reserve."
+     ],
+     [
+      null,
+      "Para el pico de gallo, ponga el pimiento rojo, la cebolla y el cilantro fresco en un tazón pequeño. Revuelva bien y reserve."
+     ],
+     [
+      null,
+      "En la licuadora, ponga los chícharos, el jugo de limón verde y el aceite de oliva, y licúe hasta integrar, pero conservando algo de textura."
+     ],
+     [
+      null,
+      "Sirva el arroz en un tazón y cúbralo con el tofu, los frijoles negros, el pico de gallo, el guacamole de chícharos y el yogur de coco. ¡Espolvoree con cilantro y sirva!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales destinado al manejo dietético de la enfermedad renal. Apto a partir de los 3 años de edad. Debe utilizarse bajo supervisión médica. Renastep contiene leche (proteína de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "وعاء البوريتو",
+    "description": "صُممت وصفة وعاء البوريتو هذه، المحضّرة بالتوفو والفلفل والهريسة والبازلاء والبصل، لمرضى الكلى. مثالية لوجبة نهاية الأسبوع.",
+    "portions": "2",
+    "serving_size": "243 غرام",
+    "ingredients": [
+     [
+      null,
+      "120 غرام أرز"
+     ],
+     [
+      null,
+      "100 غرام توفو، مقطع مكعبات"
+     ],
+     [
+      null,
+      "15 غرام نشا الذرة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كزبرة مطحونة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 فص ثوم، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة معجون هريسة"
+     ],
+     [
+      null,
+      "60 غرام فاصوليا سوداء، مصفّاة ومشطوفة"
+     ],
+     [
+      null,
+      "عصير 1 ليمونة خضراء (لايم)"
+     ],
+     [
+      null,
+      "30 غرام فلفل رومي أحمر، مفروم"
+     ],
+     [
+      null,
+      "20 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "5 غرام كزبرة خضراء، مفرومة ناعمًا (احتفظ بقليل منها للتزيين)"
+     ],
+     [
+      null,
+      "75 غرام بازلاء"
+     ],
+     [
+      null,
+      "30 غرام زبادي جوز الهند"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الماء في قدر، وعندما يغلي أضف الأرز واطهِه لمدة 10 دقائق، ثم اتركه جانبًا."
+     ],
+     [
+      null,
+      "ضع التوفو ونشا الذرة والكزبرة المطحونة في وعاء، وقلّب حتى يتغطى التوفو جيدًا بالنشا."
+     ],
+     [
+      null,
+      "سخّن كمية قليلة من الزيت في مقلاة وأضف التوفو المغطى بالنشا. اطهِه حتى يصبح ذهبي اللون من جميع الجهات، ثم اتركه جانبًا."
+     ],
+     [
+      null,
+      "سخّن الزيت في مقلاة وأضف الثوم والهريسة والفاصوليا السوداء و½ عصير الليمون الأخضر. اقلِها حتى تسخن ثم اتركها جانبًا."
+     ],
+     [
+      null,
+      "لتحضير صلصة بيكو دي غايو، ضع الفلفل الأحمر والبصل والكزبرة الخضراء في وعاء صغير، وقلّب جيدًا واتركها جانبًا."
+     ],
+     [
+      null,
+      "في الخلاط، ضع البازلاء وعصير الليمون الأخضر وزيت الزيتون، واخلط حتى تمتزج مع الاحتفاظ ببعض القوام."
+     ],
+     [
+      null,
+      "ضع الأرز في وعاء التقديم، ووزّع فوقه التوفو والفاصوليا السوداء وصلصة بيكو دي غايو وغواكامولي البازلاء وزبادي جوز الهند. رشّ الكزبرة الخضراء وقدّمه!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة مخصص للتدبير الغذائي لأمراض الكلى. مناسب بدءًا من عمر 3 سنوات. يجب استخدامه تحت إشراف طبي. يحتوي Renastep على الحليب (بروتين الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5919422,
+  "translations": {
+   "es": {
+    "title": "Risotto de verduras",
+    "description": "Pruebe nuestra sabrosa receta de risotto de verduras, diseñada especialmente para la dieta renal. Disfrute de una comida deliciosa y nutritiva que responde a sus necesidades dietéticas médicas. ¡Prepárela hoy!",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "160 g de chícharos congelados"
+     ],
+     [
+      null,
+      "2 cucharadas de perejil fresco"
+     ],
+     [
+      null,
+      "Una pizca de pimienta molida"
+     ],
+     [
+      null,
+      "4 cucharadas de aceite de oliva"
+     ],
+     [
+      null,
+      "75 g de queso parmesano, finamente rallado"
+     ],
+     [
+      null,
+      "1 cubito de caldo de verduras reducido en sal"
+     ],
+     [
+      null,
+      "1 cebolla pequeña, en cubitos"
+     ],
+     [
+      null,
+      "1 diente de ajo, machacado"
+     ],
+     [
+      null,
+      "100 g de brócoli"
+     ],
+     [
+      null,
+      "100 g de calabacita"
+     ],
+     [
+      null,
+      "350 g de arroz arborio o arroz para risotto"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Si usa chícharos: póngalos en una olla con agua y hiérvalos durante 5 minutos; luego escúrralos. Si usa brócoli: quite el tallo grueso y deséchelo. Corte los floretes de manera uniforme, hiérvalos en una olla con agua durante 5 minutos y escúrralos. Si usa calabacita: corte los extremos de la calabacita y deséchelos. Rebánela, hiérvala en una olla con agua durante 5 minutos y escúrrala."
+     ],
+     [
+      null,
+      "Caliente el aceite en una olla grande, agregue la cebolla y el ajo, y cocine a fuego medio durante 5 minutos o hasta que la cebolla esté blanda."
+     ],
+     [
+      null,
+      "Retire la olla del fuego y agregue el arroz, revolviendo hasta que quede cubierto de aceite."
+     ],
+     [
+      null,
+      "En una jarra, vierta 850 ml de agua hirviendo sobre el cubito de caldo y revuelva hasta que se disuelva."
+     ],
+     [
+      null,
+      "Con un cucharón, agregue un cucharón de caldo a la mezcla de arroz y vuelva a poner la olla al fuego. Revuelva suavemente el arroz hasta que haya absorbido casi todo el líquido. Cada vez que se absorba el caldo, agregue otro cucharón."
+     ],
+     [
+      null,
+      "Unos 15 minutos después de haber agregado el primer caldo, incorpore las verduras precocidas. Siga agregando cucharones de caldo y revolviendo, hasta que el arroz esté cremoso y apenas tierno."
+     ],
+     [
+      null,
+      "Retire la olla del fuego y tápela. Déjela reposar 3 minutos y luego incorpore el perejil, el parmesano y 2 pizcas de pimienta."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "ريزوتو الخضار",
+    "description": "جرّب وصفتنا الشهية لريزوتو الخضار، المصممة خصيصًا للنظام الغذائي الكلوي. استمتع بوجبة لذيذة ومغذية تلبي احتياجاتك الغذائية الطبية. اطهِها اليوم!",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "160 غرام بازلاء مجمّدة"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة بقدونس طازج"
+     ],
+     [
+      null,
+      "رشة فلفل مطحون"
+     ],
+     [
+      null,
+      "4 ملاعق كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "75 غرام جبن بارميزان، مبشور ناعمًا"
+     ],
+     [
+      null,
+      "1 مكعب مرق خضار مخفض الملح"
+     ],
+     [
+      null,
+      "1 بصلة صغيرة، مقطعة مكعبات صغيرة"
+     ],
+     [
+      null,
+      "1 فص ثوم، مهروس"
+     ],
+     [
+      null,
+      "100 غرام بروكلي"
+     ],
+     [
+      null,
+      "100 غرام كوسا"
+     ],
+     [
+      null,
+      "350 غرام أرز أربوريو أو أرز ريزوتو"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "إذا كنت تستخدم البازلاء: ضعها في قدر من الماء واسلقها لمدة 5 دقائق، ثم صفّها. إذا كنت تستخدم البروكلي: أزل الساق السميكة وتخلّص منها، وقطّع الزهيرات بالتساوي واسلقها في قدر من الماء لمدة 5 دقائق ثم صفّها. إذا كنت تستخدم الكوسا: اقطع طرفي الكوسا وتخلّص منهما، ثم قطّعها شرائح واسلقها في قدر من الماء لمدة 5 دقائق ثم صفّها."
+     ],
+     [
+      null,
+      "سخّن الزيت في قدر كبير وأضف البصل والثوم، واطهِهما على نار متوسطة لمدة 5 دقائق أو حتى يلين البصل."
+     ],
+     [
+      null,
+      "ارفع القدر عن النار وأضف الأرز، وقلّب حتى يتغطى الأرز بالزيت."
+     ],
+     [
+      null,
+      "في إبريق، أضف 850 مل من الماء المغلي إلى مكعب المرق وقلّب حتى يذوب."
+     ],
+     [
+      null,
+      "باستخدام المغرفة، أضف مغرفة واحدة من المرق إلى خليط الأرز، وأعد القدر إلى النار. قلّب الأرز برفق حتى يمتص معظم السائل. وكلما امتُص المرق، أضف مغرفة أخرى."
+     ],
+     [
+      null,
+      "بعد نحو 15 دقيقة من إضافة أول دفعة من المرق، أضف الخضار المسلوقة مسبقًا مع التقليب. استمر في إضافة المرق بالمغرفة والتقليب حتى يصبح الأرز كريميًا وطريًا بالكاد."
+     ],
+     [
+      null,
+      "ارفع القدر عن النار وغطّه بالغطاء، واتركه لمدة 3 دقائق، ثم أضف البقدونس والبارميزان و2 رشة من الفلفل مع التقليب."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5933503,
+  "translations": {
+   "es": {
+    "title": "Muffins de queso",
+    "description": "Estos deliciosos muffins salados son una excelente manera de incluir Renastep en su almuerzo. Se hacen con solo unos pocos ingredientes y se preparan en apenas 10 minutos.",
+    "portions": "6",
+    "serving_size": "105 g",
+    "ingredients": [
+     [
+      null,
+      "50 ml de aceite de oliva"
+     ],
+     [
+      null,
+      "2 botellas de Renastep™"
+     ],
+     [
+      null,
+      "1 huevo grande"
+     ],
+     [
+      null,
+      "200 g de harina común"
+     ],
+     [
+      null,
+      "75 g de queso cheddar, rallado"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 180 °C / 356 °F / gas marca 4."
+     ],
+     [
+      null,
+      "Mezcle el aceite de oliva y el Renastep en una jarra y reserve."
+     ],
+     [
+      null,
+      "Bata bien el huevo hasta que esté pálido y esponjoso."
+     ],
+     [
+      null,
+      "Ponga la harina en un tazón e incorpore la mezcla de aceite de oliva y Renastep; una vez integrada por completo, incorpore suavemente el huevo batido con movimientos envolventes."
+     ],
+     [
+      null,
+      "Incorpore el queso cheddar rallado con movimientos envolventes y reserve."
+     ],
+     [
+      null,
+      "Reparta la mezcla en partes iguales entre 6 capacillos para muffins y hornee durante 25 minutos o hasta que estén dorados y bien cocidos."
+     ],
+     [
+      null,
+      "Deje enfriar, ¡sirva y disfrute!"
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Consulte siempre con su dietista o médico si esta receta es adecuada para usted."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica. Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche (proteínas de la leche) y pescado (aceite de atún). Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutritics. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "مافن الجبن",
+    "description": "يُعدّ هذا المافن المالح الشهي طريقة رائعة لإدخال Renastep في وجبة غدائك. يُحضَّر بمكونات قليلة فقط، ولا يستغرق تحضيره سوى 10 دقائق.",
+    "portions": "6",
+    "serving_size": "105 غرام",
+    "ingredients": [
+     [
+      null,
+      "50 مل زيت زيتون"
+     ],
+     [
+      null,
+      "2 زجاجة Renastep™"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة"
+     ],
+     [
+      null,
+      "200 غرام دقيق عادي"
+     ],
+     [
+      null,
+      "75 غرام جبن شيدر، مبشور"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 180° مئوية / 356° فهرنهايت / مستوى الغاز 4."
+     ],
+     [
+      null,
+      "اخلط زيت الزيتون وRenastep في إبريق واتركه جانبًا."
+     ],
+     [
+      null,
+      "اخفق البيضة جيدًا حتى يفتح لونها وتصبح منتفخة."
+     ],
+     [
+      null,
+      "ضع الدقيق في وعاء وأضف إليه خليط زيت الزيتون وRenastep مع الخلط، وعندما يمتزج تمامًا أضف البيض المخفوق برفق بحركة التقليب اللطيف."
+     ],
+     [
+      null,
+      "أضف جبن الشيدر المبشور برفق بحركة التقليب اللطيف، واترك الخليط جانبًا."
+     ],
+     [
+      null,
+      "وزّع الخليط بالتساوي على 6 قوالب ورقية للمافن، واخبزه لمدة 25 دقيقة أو حتى يصبح ذهبي اللون وينضج تمامًا."
+     ],
+     [
+      null,
+      "اتركه ليبرد، ثم قدّمه واستمتع به!"
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "تحقق دائمًا مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي. Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب (بروتينات الحليب) والسمك (زيت التونة). صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutritics لتحليل النظام الغذائي. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5947095,
+  "translations": {
+   "es": {
+    "title": "Pizza árbol de Navidad (base y cubierta)",
+    "description": "Póngase en ambiente navideño con esta pizza en forma de árbol de Navidad, apta para la dieta renal y hecha con Renastep. ¡Prepare esta receta y vea qué tan colorida le queda!",
+    "portions": "1 árbol",
+    "serving_size": null,
+    "ingredients": [
+     [
+      "Para la base",
+      "125 ml de Renastep™ (1 botella)"
+     ],
+     [
+      "Para la base",
+      "2 g de levadura"
+     ],
+     [
+      "Para la base",
+      "150 g de harina (y un poco más para espolvorear)"
+     ],
+     [
+      "Para la base",
+      "20 g de azúcar extrafina"
+     ],
+     [
+      "Para la base",
+      "1 cucharadita de aceite vegetal"
+     ],
+     [
+      "Para la cubierta",
+      "10 g de albahaca fresca"
+     ],
+     [
+      "Para la cubierta",
+      "5 ml de aceite"
+     ],
+     [
+      "Para la cubierta",
+      "1/2 diente de ajo"
+     ],
+     [
+      "Para la cubierta",
+      "1 cucharadita (5 g) de pimiento rojo, en tiras finas"
+     ],
+     [
+      "Para la cubierta",
+      "1 cucharadita (5 g) de pimiento verde, en tiras finas"
+     ],
+     [
+      "Para la cubierta",
+      "3 g de cebolla morada, en rodajas"
+     ],
+     [
+      "Para la cubierta",
+      "10 g de queso Violife estilo mozzarella, rallado"
+     ],
+     [
+      "Para la cubierta",
+      "5 g de zanahoria"
+     ]
+    ],
+    "steps": [
+     [
+      "Para la base",
+      "Precaliente el horno a 200 °C / 180 °C con ventilador / gas marca 6."
+     ],
+     [
+      "Para la base",
+      "Ponga el Renastep y la levadura en un tazón y revuelva hasta integrar."
+     ],
+     [
+      "Para la base",
+      "Agregue la harina, el azúcar y el aceite a la mezcla de Renastep y levadura, y mezcle con las manos hasta formar una masa. Amase durante 2 minutos."
+     ],
+     [
+      "Para la base",
+      "Deje que la masa leve durante 60 minutos en un lugar cálido."
+     ],
+     [
+      "Para la base",
+      "Espolvoree ligeramente con harina una superficie de trabajo limpia y extienda la bola de masa en un rectángulo de 22 cm de largo y 13 cm de ancho. Con un cuchillo, corte una línea diagonal desde el centro del borde superior del rectángulo hasta las esquinas inferiores izquierda y derecha para formar un triángulo."
+     ],
+     [
+      "Para la base",
+      "Coloque el triángulo en una bandeja para hornear forrada con papel para hornear. Use la masa sobrante para hacer un pequeño tronco en la parte inferior del triángulo; péguelo al árbol con una gota de aceite."
+     ],
+     [
+      "Para la cubierta",
+      "Para hacer el pesto, licúe la albahaca, el aceite y el ajo en un tazón con una licuadora de inmersión."
+     ],
+     [
+      "Para la cubierta",
+      "Tome la base de pizza y cubra el árbol con el pesto, extendiéndolo con el dorso de una cuchara. Deje un borde sin cubrir alrededor."
+     ],
+     [
+      "Para la cubierta",
+      "Coloque el pimiento en tiras y la cebolla morada sobre el árbol en filas, simulando guirnaldas."
+     ],
+     [
+      "Para la cubierta",
+      "Espolvoree el queso Violife estilo mozzarella sobre la pizza."
+     ],
+     [
+      "Para la cubierta",
+      "Para hacer una estrella, corte una zanahoria grande a lo largo en una rebanada delgada, recorte una estrella y colóquela en la punta del árbol."
+     ],
+     [
+      "Para la cubierta",
+      "Hornee la base con la cubierta a 200 °C / 180 °C con ventilador / gas marca 6 durante aproximadamente 15 minutos. Sirva caliente."
+     ]
+    ],
+    "hints": [
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento para usos médicos especiales y debe utilizarse bajo supervisión médica."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Renastep es un alimento listo para usar destinado al manejo dietético de la enfermedad renal a partir de los 3 años de edad. Renastep contiene leche y pescado. Consulte la etiqueta para obtener información sobre alérgenos y otros datos del producto."
+     ],
+     [
+      "Nota sobre Renastep",
+      "Esta receta ha sido diseñada específicamente para el manejo dietético de la enfermedad renal y se analizó con el software de análisis dietético Nutrimen."
+     ]
+    ],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بيتزا شجرة عيد الميلاد (العجينة والإضافات)",
+    "description": "عِش أجواء الأعياد مع بيتزا شجرة عيد الميلاد المناسبة للنظام الغذائي الكلوي والمحضّرة باستخدام Renastep. جرّب هذه الوصفة لترى كم يمكن أن تكون بيتزاك ملونة!",
+    "portions": "1 شجرة",
+    "serving_size": null,
+    "ingredients": [
+     [
+      "للعجينة",
+      "125 مل من Renastep™ (1 زجاجة)"
+     ],
+     [
+      "للعجينة",
+      "2 غرام خميرة"
+     ],
+     [
+      "للعجينة",
+      "150 غرام دقيق (مع كمية إضافية للرشّ)"
+     ],
+     [
+      "للعجينة",
+      "20 غرام سكر ناعم (كاستر)"
+     ],
+     [
+      "للعجينة",
+      "1 ملعقة صغيرة زيت نباتي"
+     ],
+     [
+      "للإضافات",
+      "10 غرام ريحان طازج"
+     ],
+     [
+      "للإضافات",
+      "5 مل زيت"
+     ],
+     [
+      "للإضافات",
+      "½ فص ثوم"
+     ],
+     [
+      "للإضافات",
+      "1 ملعقة صغيرة (5 غرام) فلفل رومي أحمر، مقطع شرائح رفيعة"
+     ],
+     [
+      "للإضافات",
+      "1 ملعقة صغيرة (5 غرام) فلفل رومي أخضر، مقطع شرائح رفيعة"
+     ],
+     [
+      "للإضافات",
+      "3 غرام بصل أحمر، مقطع شرائح"
+     ],
+     [
+      "للإضافات",
+      "10 غرام جبن Violife على طريقة الموزاريلا، مبشور"
+     ],
+     [
+      "للإضافات",
+      "5 غرام جزر"
+     ]
+    ],
+    "steps": [
+     [
+      "للعجينة",
+      "سخّن الفرن مسبقًا إلى 200° مئوية / 180° مئوية للفرن بمروحة / مستوى الغاز 6."
+     ],
+     [
+      "للعجينة",
+      "ضع Renastep والخميرة في وعاء خلط، وقلّب حتى يمتزجا."
+     ],
+     [
+      "للعجينة",
+      "أضف الدقيق والسكر والزيت إلى خليط Renastep والخميرة، واخلط باليد حتى تتكون عجينة. اعجنها لمدة 2 دقيقة."
+     ],
+     [
+      "للعجينة",
+      "اترك العجينة لتتخمر لمدة 60 دقيقة في مكان دافئ."
+     ],
+     [
+      "للعجينة",
+      "رشّ قليلًا من الدقيق على سطح عمل نظيف، وافرد كرة العجين على شكل مستطيل طوله 22 سم وعرضه 13 سم. باستخدام سكين، اقطع خطًا مائلًا من منتصف الضلع العلوي للمستطيل إلى الزاويتين السفليتين اليسرى واليمنى لتشكيل مثلث."
+     ],
+     [
+      "للعجينة",
+      "ضع المثلث على صينية خبز مبطنة بورق الزبدة. استخدم العجين المتبقي لصنع جذع شجرة صغير أسفل المثلث، وألصقه بالشجرة بقطرة من الزيت."
+     ],
+     [
+      "للإضافات",
+      "لتحضير صلصة البيستو، اخلط الريحان والزيت والثوم معًا في وعاء باستخدام الخلاط اليدوي."
+     ],
+     [
+      "للإضافات",
+      "خذ قاعدة البيتزا وغطِّ الشجرة بالبيستو، وافردها بظهر الملعقة مع ترك حافة حول الأطراف."
+     ],
+     [
+      "للإضافات",
+      "رصّ شرائح الفلفل والبصل الأحمر على الشجرة في صفوف لتبدو كزينة الشجرة اللامعة."
+     ],
+     [
+      "للإضافات",
+      "رشّ جبن Violife على طريقة الموزاريلا فوق البيتزا."
+     ],
+     [
+      "للإضافات",
+      "لصنع النجمة، قطّع جزرة كبيرة بالطول للحصول على شريحة رفيعة، ثم قصّ منها شكل نجمة وضعها في أعلى الشجرة."
+     ],
+     [
+      "للإضافات",
+      "اخبز القاعدة مع الإضافات في الفرن على حرارة 200° مئوية / 180° مئوية للفرن بمروحة / مستوى الغاز 6 لمدة 15 دقيقة تقريبًا. قدّمها دافئة."
+     ]
+    ],
+    "hints": [
+     [
+      "ملاحظة حول Renastep",
+      "Renastep غذاء لأغراض طبية خاصة ويجب استخدامه تحت إشراف طبي."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "Renastep تركيبة غذائية جاهزة للاستخدام مخصصة للتدبير الغذائي لأمراض الكلى بدءًا من عمر 3 سنوات. يحتوي Renastep على الحليب والسمك. راجع الملصق للاطلاع على معلومات مسببات الحساسية وغيرها من معلومات المنتج."
+     ],
+     [
+      "ملاحظة حول Renastep",
+      "صُممت هذه الوصفة خصيصًا للتدبير الغذائي لأمراض الكلى، وحُلّلت باستخدام برنامج Nutrimen لتحليل النظام الغذائي."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5966316,
+  "translations": {
+   "es": {
+    "title": "Papas fritas de polenta",
+    "description": "Este refrigerio frito, fácil de preparar, fue creado para que los pacientes renales puedan disfrutar de una alternativa a las papas fritas baja en potasio. Cocine junto con el chef Neil.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "50 g de polenta"
+     ],
+     [
+      null,
+      "200 ml de caldo de pollo o de verduras reducido en sal, o agua"
+     ],
+     [
+      null,
+      "1 cucharada de queso parmesano (opcional)"
+     ],
+     [
+      null,
+      "2 cucharadas de aceite de girasol"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Lleve el caldo a ebullición en una olla y agregue la polenta en forma de chorro continuo. Cocine durante 5 minutos sin dejar de revolver (tenga cuidado, ya que la polenta burbujea con fuerza)."
+     ],
+     [
+      null,
+      "Retire del fuego e incorpore el parmesano (si lo usa)."
+     ],
+     [
+      null,
+      "Con una cuchara, pase la mezcla a la bandeja y aplánela con el dorso de la cuchara de madera hasta formar un rectángulo grande de unos 5-10 mm de grosor (según qué tan gruesas quiera las papas). Deje enfriar durante 10-15 minutos."
+     ],
+     [
+      null,
+      "Ponga los bastones en una bandeja para hornear y barnícelos con aceite. Hornee a temperatura media (180 ºC) durante 15 minutos, hasta que estén dorados. Otra opción es freírlos en poco aceite, dorándolos ligera y uniformemente por los 4 lados. ¡Sirva caliente y disfrute! Esta receta proviene del Kidney Friendly Cookbook (recetario apto para el cuidado de los riñones), elaborado por dietistas y auxiliares de dietética de una unidad renal pediátrica del Reino Unido. Consulte con su dietista o médico si esta receta es adecuada para usted."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أصابع البولنتا المقلية",
+    "description": "صُممت هذه الوجبة الخفيفة المقلية السهلة التحضير ليتمكن مرضى الكلى من الاستمتاع ببديل منخفض البوتاسيوم للبطاطس المقلية. اطبخها مع الشيف نيل.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "50 غرام بولنتا (سميد الذرة)"
+     ],
+     [
+      null,
+      "200 مل مرق دجاج أو خضار مخفض الملح، أو ماء"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة جبن بارميزان (اختياري)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة زيت دوار الشمس"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اترك المرق يغلي في قدر، ثم أضف البولنتا على شكل خيط متواصل. اطهِها لمدة 5 دقائق مع التقليب المستمر (احذر لأن البولنتا تفور بقوة)."
+     ],
+     [
+      null,
+      "ارفع القدر عن النار وأضف البارميزان مع التقليب (إذا كنت تستخدمه)."
+     ],
+     [
+      null,
+      "انقل الخليط بالملعقة إلى الصينية، وافرده بظهر الملعقة الخشبية على شكل مستطيل كبير بسماكة 5-10 مم تقريبًا (حسب سماكة الأصابع التي تريدها!). اتركه ليبرد لمدة 10-15 دقيقة."
+     ],
+     [
+      null,
+      "ضع الأصابع في صينية خبز وادهنها بالزيت. اخبزها في الفرن على حرارة متوسطة (180° مئوية) لمدة 15 دقيقة حتى يصبح لونها ذهبيًا. أو يمكنك قليها قليًا سطحيًا في الزيت، مع تحميرها بخفة وبالتساوي من جوانبها الـ 4. قدّمها ساخنة واستمتع بها! هذه الوصفة مأخوذة من كتاب Kidney Friendly Cookbook (كتاب طبخ مناسب لمرضى الكلى) الذي أعدّه اختصاصيو التغذية ومساعدو التغذية في وحدة كلى للأطفال في المملكة المتحدة. يُرجى التحقق مع اختصاصي التغذية أو طبيبك من أن هذه الوصفة مناسبة لك."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 5989032,
+  "translations": {
+   "es": {
+    "title": "Bialys",
+    "description": "Aprenda a preparar estos bialys suaves y esponjosos, aptos para el cuidado de los riñones, bajos en sodio y con un contenido equilibrado de proteína: un refrigerio salado perfecto y lleno de sabor.",
+    "portions": "8",
+    "serving_size": "117 g",
+    "ingredients": [
+     [
+      null,
+      "500 g de harina de fuerza para pan"
+     ],
+     [
+      null,
+      "1 cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "7 g de levadura instantánea"
+     ],
+     [
+      null,
+      "300 ml de agua tibia"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "100 g de cebolla, finamente picada"
+     ],
+     [
+      null,
+      "2 dientes de ajo, picados"
+     ],
+     [
+      null,
+      "1 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "2 cucharaditas de semillas de amapola"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mezcle la harina, el ajo en polvo y la levadura en un tazón."
+     ],
+     [
+      null,
+      "Haga un hueco en el centro, vierta el agua tibia y revuelva hasta formar una masa."
+     ],
+     [
+      null,
+      "Amase durante 5 minutos o hasta que esté lisa; luego póngala en un tazón ligeramente engrasado, cúbrala y déjela levar durante 1 hora."
+     ],
+     [
+      null,
+      "Mientras tanto, caliente el aceite en una sartén, agregue la cebolla, el ajo y la pimienta negra, y deje que se ablanden durante 5 minutos."
+     ],
+     [
+      null,
+      "Incorpore las semillas de amapola, retire la sartén del fuego y reserve."
+     ],
+     [
+      null,
+      "Una vez que haya levado, divida la masa en 8 porciones iguales y deles forma de bola."
+     ],
+     [
+      null,
+      "Presione el centro de cada bola para hacer una hendidura. Levántela y gírela lentamente entre las manos para que la masa del centro se adelgace, con cuidado de no romper el centro."
+     ],
+     [
+      null,
+      "Repita este proceso con las 8 bolas."
+     ],
+     [
+      null,
+      "Coloque todos los bialys en una bandeja para hornear y reparta el relleno de manera uniforme en el centro de cada uno."
+     ],
+     [
+      null,
+      "Hornee durante 20 minutos o hasta que estén dorados."
+     ],
+     [
+      null,
+      "¡Sirva y disfrute!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "خبز البياليس",
+    "description": "تعلّم طريقة تحضير خبز البياليس الطري والمطاطي المناسب لمرضى الكلى، القليل الصوديوم والمتوازن في البروتين: وجبة خفيفة مالحة مثالية وغنية بالنكهة.",
+    "portions": "8",
+    "serving_size": "117 غرام",
+    "ingredients": [
+     [
+      null,
+      "500 غرام دقيق خبز قوي"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة ثوم بودرة"
+     ],
+     [
+      null,
+      "7 غرام خميرة فورية"
+     ],
+     [
+      null,
+      "300 مل ماء دافئ"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "100 غرام بصل، مفروم ناعمًا"
+     ],
+     [
+      null,
+      "2 فصوص ثوم، مهروسة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة بذور خشخاش"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط الدقيق والثوم البودرة والخميرة في وعاء."
+     ],
+     [
+      null,
+      "اصنع حفرة في الوسط واسكب فيها الماء الدافئ، وقلّب حتى تتكون عجينة."
+     ],
+     [
+      null,
+      "اعجن العجينة لمدة 5 دقائق أو حتى تصبح ناعمة، ثم ضعها في وعاء مدهون بقليل من الزيت، وغطّها واتركها تتخمر لمدة 1 ساعة."
+     ],
+     [
+      null,
+      "في هذه الأثناء، سخّن الزيت في مقلاة وأضف البصل والثوم والفلفل الأسود، واتركها حتى تلين لمدة 5 دقائق."
+     ],
+     [
+      null,
+      "أضف بذور الخشخاش مع التقليب، ثم ارفع المقلاة عن النار واتركها جانبًا."
+     ],
+     [
+      null,
+      "بعد أن تختمر العجينة، قسّمها إلى 8 أجزاء متساوية وشكّلها على هيئة كرات."
+     ],
+     [
+      null,
+      "اضغط على وسط كل كرة لعمل تجويف، ثم ارفعها وأدرها ببطء بين يديك حتى تصبح العجينة في الوسط أرق، مع الحرص على ألا يتمزق الوسط."
+     ],
+     [
+      null,
+      "كرّر هذه الخطوات مع الكرات الـ 8 كلها."
+     ],
+     [
+      null,
+      "ضع جميع أقراص البياليس في صينية خبز، ووزّع الحشوة بالتساوي في وسط كل منها."
+     ],
+     [
+      null,
+      "اخبزها لمدة 20 دقيقة أو حتى يصبح لونها ذهبيًا."
+     ],
+     [
+      null,
+      "قدّمها واستمتع بها!"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ }
+]

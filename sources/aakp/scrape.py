@@ -12,12 +12,14 @@ Only requests + stdlib: PDFs are parsed with a small built-in PDF text extractor
 Re-runnable: raw pages/PDFs are cached under sources/aakp/cache/.
 Usage: python3 scrape.py [--fetch-only]
 """
+import difflib
 import hashlib
 import html as htmlmod
 import json
 import math
 import os
 import re
+import struct
 import sys
 import time
 import zlib
@@ -863,6 +865,7 @@ def _run_content(pdf, data, res, ctm, pno, spans, images, font_cache, depth):
                             images.append({"page": pno, "w": xd.get("Width"), "h": xd.get("Height"),
                                            "filter": filt, "cs": str(cs), "ref": ref.num,
                                            "disp_w": abs(ctm[0]), "disp_h": abs(ctm[3]),
+                                           "decode": pdf.resolve(xd.get("Decode")),
                                            "raw": xd.get("_raw_stream") if filt in ("DCTDecode", "DCT") else None})
             elif op == "BI":
                 # inline image: skip to EI
@@ -1405,6 +1408,9 @@ def parse_times(text):
             continue
         if re.match(r"^[A-Z ]+:\s*\d", p):
             res["extra"].append(p)
+            continue
+        if re.match(r"^\d[\d /]*\s+[A-Za-z]", p) and not re.search(r"minute|hour", p, re.I) and not res["portions"]:
+            res["portions"] = p.lower()
     return res
 
 
@@ -1428,8 +1434,10 @@ def parse_pdf_recipe(data):
     tlines = []
     for p in pages:
         for L in by_page[p]:
-            if re.search(r"\b(PREPARATION|PREP|COOKING|BAKING|SERVINGS?|MAKES|SOAKING|RESTING|CHILLING|FREEZING)\s*:?\s*\d|"
-                         r"\bSERVINGS?:|\bMAKES\b", L.text) and L.text.upper() == L.text:
+            if (re.search(r"\b(PREPARATION|PREP|COOKING|BAKING|SERVINGS?|MAKES|SOAKING|RESTING|CHILLING|FREEZING)\s*:?\s*\d|"
+                          r"\bSERVINGS?:|\bMAKES\b", L.text) or
+                re.match(r"^\d[\d /]*\s+[A-Z][A-Z0-9 -]+$", L.text) and not re.search(r"MINUTE|HOUR", L.text)) \
+                    and L.text.upper() == L.text and len(L.text) < 120:
                 tlines.append(" | ".join(t for _, _, _, t in line_segments(L.spans)))
         if tlines:
             break
@@ -1524,9 +1532,18 @@ def parse_pdf_recipe(data):
             if nt:
                 rec["hints"].append([None, nt])
         # starred footnotes under the nutrients ("*Can be lower with soaking", "* 1/2 serving if not main meal")
-        for L in by_page[p]:
-            if L.y < ny and L.text.startswith("*") and L.size <= 6 and not FOOTER_RE.search(L.text):
-                rec["hints"].append([None, L.text])
+        small = [x for x in strip_footer(spans_by_page[p]) if x["y"] < ny and x["size"] <= 6]
+        for L in group_lines(small):
+            if L.text.startswith("*"):
+                fx, fy = L.x, L.y
+                cont = [x for x in small if x["y"] < fy - 1 and fx - 1 <= x["x"] < fx + 160]
+                txt, last = L.text, fy
+                for C in group_lines(cont):
+                    if C.text.startswith("*") or last - C.y > 12:
+                        break
+                    txt = join_wrapped(txt, C.text)
+                    last = C.y
+                rec["hints"].append([None, fix_text(txt)])
     else:
         rec["nutrients"] = {k: None for k in NUTR_KEYS}
 
@@ -1626,7 +1643,7 @@ class BlockParser(HTMLParser):
         self.buf.append(data)
 
 
-ATTRIB_RE = re.compile(r"originally appeared|copyright|all rights reserved|reprinted|courtesy of|^source:|"
+ATTRIB_RE = re.compile(r"originally appeared|copyright|all rights reserved|reprinted|courtesy of|^source:|sponsor|"
                        r"contributed by|contibuted by|^kidney friendly recipes$", re.I)
 HTML_HINT_RE = re.compile(r"^(suggestions?|tips?|notes?|helpful hints?|for those with|variation|leaching)", re.I)
 
@@ -1679,6 +1696,10 @@ def parse_html_post(url, page):
                 if m2:
                     rec["portions"] = m2.group(2)
                 continue
+            m2 = re.match(r"^1 serving\s*=\s*(.+)$", t, re.I)
+            if m2:
+                rec["serving_size"] = m2.group(1).strip()
+                continue
             m2 = re.match(r"^renal(?: and renal diabetic)? exchanges?\s*:\s*(.+)$", t, re.I)
             if m2:
                 rec["food_choices"] = [x.strip() for x in re.split(r"\s*\+\s*", m2.group(1)) if x.strip()]
@@ -1724,7 +1745,16 @@ def parse_html_post(url, page):
     norm = re.sub(r"\bmilligrams?\b", "mg", raw, flags=re.I)
     norm = re.sub(r"\bgrams?\b", "g", norm, flags=re.I)
     norm = re.sub(r"(\d)\s*calories\b", r"\1 kcal", norm, flags=re.I)
-    rec["nutrients"] = parse_nutrients(norm.replace("; ", "\n"))
+    sections = re.split(r"(?i)nutrient analysis\s*:[^;]*;", norm)
+    sections = [x for x in sections if x.strip(" ;")]
+    if len(sections) > 1:
+        # analysis given per component (e.g. "Beef Mixture" + "Pasta"): the serving is their sum
+        parts = [parse_nutrients(x.replace("; ", "\n")) for x in sections]
+        rec["nutrients"] = {k: (round(sum(p[k] for p in parts), 2) if all(p[k] is not None for p in parts) else None)
+                            for k in NUTR_KEYS}
+        rec["hints"].append([None, "Nutrient values are the sum of the separate analyses given for each component."])
+    else:
+        rec["nutrients"] = parse_nutrients(norm.replace("; ", "\n"))
     rec["steps"] = [s for s in rec["steps"] if s[1]]
     return rec
 
@@ -1863,32 +1893,32 @@ def parse_cookbook(data):
 # Classification helpers
 # ---------------------------------------------------------------------------
 DISH_TYPE_RULES = [  # checked in order; first match wins
-    ("Beverages", r"smoothie|\bdrink\b|mocktail|coffee|lemonade|\btea\b|\batol\b|punch|shake|beverage|nepro"),
-    ("Desserts", r"\bcakes?\b|cupcake|cookie|crackles|custard|key lime|fruit pie|tiramisu|sorbet|sherbet|granita|"
+    ("Desserts", r"(?<!fish )\bcakes?\b|cupcake|cookie|crackles|custard|key lime|tiramisu|sorbet|sherbet|granita|"
                  r"ice cream|cheesecake|crumble|cobbler|crostata|cream puff|pudding|parfait|eton mess|semifreddo|"
                  r"lemon square|crispy treats|mango lime cream|cinnamon cream|grilled pineapple|bundle|brownie|"
-                 r"\bpie\b(?!.*(meat|shepherd|pot|noodle|onion))|dessert|souffl"),
+                 r"^(?!.*(meat|shepherd|pot pie|noodle|onion|chicken|turkey)).*\bpies?\b|dessert|souffl"),
+    ("Beverages", r"smoothie|\bdrink\b|mocktail|coffee|lemonade|\btea\b|\batol\b|punch|shake|beverage|nepro"),
     ("Breakfast & Brunch", r"pancake|waffle|omelet|omelette|frittata|quiche|oatmeal|\boats\b|french toast|breakfast|"
                            r"strata|shakshuka|baked eggs|egg white|biscuits"),
-    ("Soups & Stews", r"\bsoup\b|\bstew\b|\bchili\b|margog"),
+    ("Soups & Stews", r"\bsoup\b|\bstew\b|\bchili\b(?!-lime)|margog"),
     ("Salads & Dressings", r"salad|slaw"),
-    ("Sauces & Seasonings", r"\bsauce\b|dressing|seasoning|spice mix|mayonnaise|chutney|salsa"),
+    ("Sauces & Seasonings", r"^(?!.*\bwith\b).*(\bsauce\b|dressing|seasoning|spice mix|mayonnaise|chutney|salsa)"),
     ("Appetizers & Snacks", r"\bdip\b|rillettes|spring rolls|snack|bites|cucumber cups|momos|dumpling|crisps|chips|"
                             r"spread"),
     ("Pizza & Sandwiches", r"pizza|sandwich|burger|slider|\bwraps?\b|pockets|grilled cheese|sloppy joe|crab rolls|"
                            r"english muffin|souvlaki"),
+    ("Breads", r"muffin|\bloaf\b|bread|scone|biscuit|bagel"),
 ]
 MAIN_RULES = [
-    ("Fish & Seafood", r"fish|salmon|tuna|shrimp|crab|tilapia|\bcod\b|seafood|scallop|prawn"),
+    ("Fish & Seafood", r"\bfish|salmon|tuna|shrimp|\bcrab|tilapia|\bcod\b|seafood|scallop|prawn"),
     ("Chicken & Turkey", r"chicken|turkey|poultry|pollo"),
-    ("Beef, Lamb & Pork", r"beef|steak|pork|lamb|meatloaf|meat loaf|meatball|ribs|kofta|sausage|hamburger|"
-                          r"short rib|carne|veal"),
+    ("Beef, Lamb & Pork", r"\bbeef|steak|\bpork|\blamb\b|meatloaf|meat loaf|meatball|\bribs\b|kofta|sausage|"
+                          r"hamburger|short rib|carne|\bveal"),
     ("Pasta, Rice & Grains", r"pasta|penne|rotini|linguin|farfalle|orzo|couscous|risotto|\brice\b|noodle|barley|"
-                             r"bulgur|pilaf|pulao|lasagna|quinoa|vermicelli|spaghetti|macaroni|grain|buddha"),
-    ("Breads", r"muffin|\bloaf\b|bread|scone|biscuit|bagel|roll\b"),
-    ("Vegetables", r"vegetable|tofu|eggplant|pepper|zucchini|cabbage|bean|lentil|chickpea|fries|mushroom|"
-                   r"cauliflower|chop suey|mock meat|potato|asparagus|squash|carrot"),
+                             r"bulgur|pilaf|pulao|lasagna|quinoa|vermicelli|spaghetti|macaroni|\bgrains?\b|buddha"),
 ]
+VEG_RULE = (r"\b(vegetables?|vegetarian|tofu|eggplant|peppers?|zucchini|cabbage|beans?|lentils?|chickpeas?|fries|"
+            r"mushrooms?|cauliflower|chop suey|mock meat|potato(es)?|asparagus|squash|carrots?|burrito|enchiladas?)\b")
 
 
 def classify(title, ingredients):
@@ -1903,6 +1933,8 @@ def classify(title, ingredients):
             best = (m.start(), cat)
     if best:
         return best[1]
+    if re.search(VEG_RULE, t):
+        return "Vegetables"
     ing = " ".join(x for _, x in ingredients).lower()
     for cat, rx in MAIN_RULES[:3]:
         if re.search(rx, ing):
@@ -1922,7 +1954,7 @@ CUISINE_RULES = [
     ("Greek", r"greek|souvlaki|tzatziki"),
     ("Middle Eastern", r"middle east|kofta|shakshuka|harissa|margog|hummus|falafel"),
     ("Mediterranean", r"mediterranean|provencal|provençal"),
-    ("French", r"french|provencal|provençal|rillettes|souffl|crostata|cr[eè]me|quiche"),
+    ("French", r"provencal|provençal|rillettes|souffl|quiche"),
     ("Caribbean", r"caribbean|bahamian|jerk"),
     ("South American", r"peruvian|south american|solterito"),
     ("Southern", r"southern|kentucky|creole|cajun"),
@@ -1940,8 +1972,10 @@ def infer_cuisine(text):
     for c, rx in CUISINE_RULES:
         if c in ALLOWED_CUISINE and re.search(rx, t) and c not in out:
             out.append(c)
-    if "thai" in t and "Asian" not in out:
-        out.append("Asian")
+    if re.search(r"\bthai\b", t):
+        out = [c for c in out if c != "Indian"]
+        if "Asian" not in out:
+            out.append("Asian")
     return out
 
 
@@ -1973,9 +2007,10 @@ def infer_method(steps_text, title):
 def infer_dish(title, category, ingredients, steps_text):
     t = title.lower()
     out = []
-    pairs = [("Soup", r"\bsoup\b"), ("Stew", r"\bstew\b|chili"), ("Stir-fry", r"stir.?fry"),
-             ("Cookies", r"cookie|crackles"), ("Cake", r"\bcake|cupcake|cheesecake"), ("Pie", r"\bpie\b|tart\b"),
-             ("Muffin", r"muffin"), ("Bread", r"\bbread\b|\bloaf\b|biscuit"), ("Candy", r"candy|fudge")]
+    pairs = [("Soup", r"\bsoup\b"), ("Stew", r"\bstew\b|\bchili\b(?!-lime)"), ("Stir-fry", r"stir.?fry"),
+             ("Cookies", r"cookie|crackles"), ("Cake", r"(?<!fish )\bcakes?\b|cupcake|cheesecake"),
+             ("Pie", r"\bpies?\b|tart\b"), ("Muffin", r"muffin"),
+             ("Bread", r"\bbread\b(?! pudding)|\bloaf\b|biscuit"), ("Candy", r"candy|fudge")]
     for d, rx in pairs:
         if re.search(rx, t):
             out.append(d)
@@ -2060,6 +2095,180 @@ def titles_match(a, b):
 # ---------------------------------------------------------------------------
 # Images
 # ---------------------------------------------------------------------------
+
+
+def invert_jpeg_coefficients(data):
+    """Losslessly negate every DCT coefficient of a baseline JPEG (all components).
+    Used for CMYK/YCCK photos embedded in PDFs without the Adobe inversion: after this,
+    viewers that apply the Adobe CMYK convention show the right colours. Returns None if unsupported."""
+    pos = 2
+    out = bytearray(data[:2])
+    huff = {}
+    comps = {}
+    order = []
+    dri = 0
+    while pos < len(data):
+        if data[pos] != 0xFF:
+            return None
+        m = data[pos + 1]
+        if m == 0xD9:
+            out += data[pos:pos + 2]
+            break
+        L = struct.unpack(">H", data[pos + 2:pos + 4])[0]
+        seg = data[pos:pos + 2 + L]
+        if m in (0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+            return None  # only baseline huffman supported
+        if m == 0xC0:
+            nc = seg[9]
+            height, width = struct.unpack(">HH", seg[5:9])
+            order = []
+            for k in range(nc):
+                cid, hv, tq = seg[10 + 3 * k], seg[11 + 3 * k], seg[12 + 3 * k]
+                comps[cid] = (hv >> 4, hv & 15)
+                order.append(cid)
+        elif m == 0xC4:
+            q = 4
+            while q < len(seg):
+                tc_th = seg[q]
+                counts = seg[q + 1:q + 17]
+                n = sum(counts)
+                syms = seg[q + 17:q + 17 + n]
+                # 16-bit lookup: value -> (length, symbol)
+                lut = [None] * 65536
+                code, k = 0, 0
+                for ln in range(1, 17):
+                    for _ in range(counts[ln - 1]):
+                        base = code << (16 - ln)
+                        for v in range(base, base + (1 << (16 - ln))):
+                            lut[v] = (ln, syms[k])
+                        k += 1
+                        code += 1
+                    code <<= 1
+                huff[(tc_th >> 4, tc_th & 15)] = lut
+                q += 17 + n
+        elif m == 0xDD:
+            dri = struct.unpack(">H", seg[4:6])[0]
+        elif m == 0xDA:
+            ns = seg[4]
+            scomp = []
+            for k in range(ns):
+                cid, t = seg[5 + 2 * k], seg[6 + 2 * k]
+                scomp.append((cid, t >> 4, t & 15))
+            if seg[5 + 2 * ns] != 0 or seg[6 + 2 * ns] != 63 or seg[7 + 2 * ns] != 0:
+                return None
+            out += seg
+            pos += 2 + L
+            # entropy-coded data up to next non-RST marker
+            end = pos
+            while True:
+                end = data.find(b"\xff", end)
+                if end < 0:
+                    return None
+                nb = data[end + 1]
+                if nb == 0x00 or 0xD0 <= nb <= 0xD7:
+                    end += 2
+                    continue
+                break
+            ecs = data[pos:end]
+            try:
+                res = _transcode_scan(ecs, scomp, comps, huff, dri, width, height)
+            except (IndexError, KeyError, TypeError):
+                return None
+            if res is None:
+                return None
+            out += res
+            pos = end
+            continue
+        out += seg
+        pos += 2 + L
+    return bytes(out)
+
+
+def _transcode_scan(ecs, scomp, comps, huff, dri, width, height):
+    # split into restart intervals
+    parts = []
+    i, start = 0, 0
+    while True:
+        j = ecs.find(b"\xff", i)
+        if j < 0:
+            parts.append((ecs[start:], None))
+            break
+        nb = ecs[j + 1]
+        if 0xD0 <= nb <= 0xD7:
+            parts.append((ecs[start:j], ecs[j:j + 2]))
+            start = i = j + 2
+        else:
+            i = j + 2
+    hmax = max(comps[c][0] for c, _, _ in scomp)
+    vmax = max(comps[c][1] for c, _, _ in scomp)
+    blocks = []
+    for cid, td, ta in scomp:
+        h, v = comps[cid]
+        blocks += [(huff[(0, td)], huff[(1, ta)])] * (h * v)
+    total = -(-width // (8 * hmax)) * -(-height // (8 * vmax))
+    out = bytearray()
+    done = 0
+    for seg, marker in parts:
+        n_mcu = min(dri, total - done) if (dri and marker is not None) else total - done
+        done += n_mcu
+        raw = seg.replace(b"\xff\x00", b"\xff")
+        nbits = len(raw) * 8
+        buf = raw + b"\x00\x00\x00\x00"
+        pos = 0
+        acc, accn = 0, 0
+        ob = bytearray()
+        for _ in range(n_mcu):
+            for dct, act in blocks:
+                # DC
+                p = pos >> 3
+                peek = ((buf[p] << 16 | buf[p + 1] << 8 | buf[p + 2]) >> (8 - (pos & 7))) & 0xFFFF
+                e = dct[peek]
+                if e is None:
+                    return None
+                ln, s = e
+                acc = (acc << ln) | (peek >> (16 - ln)); accn += ln
+                pos += ln
+                if s:
+                    p = pos >> 3
+                    val = ((buf[p] << 16 | buf[p + 1] << 8 | buf[p + 2]) >> (24 - s - (pos & 7))) & ((1 << s) - 1)
+                    acc = (acc << s) | (val ^ ((1 << s) - 1)); accn += s
+                    pos += s
+                k = 1
+                while k < 64:
+                    p = pos >> 3
+                    peek = ((buf[p] << 16 | buf[p + 1] << 8 | buf[p + 2]) >> (8 - (pos & 7))) & 0xFFFF
+                    e = act[peek]
+                    if e is None:
+                        return None
+                    ln, rs = e
+                    acc = (acc << ln) | (peek >> (16 - ln)); accn += ln
+                    pos += ln
+                    r, s = rs >> 4, rs & 15
+                    if s == 0:
+                        if r == 15:
+                            k += 16
+                            continue
+                        break  # EOB
+                    k += r
+                    p = pos >> 3
+                    val = ((buf[p] << 16 | buf[p + 1] << 8 | buf[p + 2]) >> (24 - s - (pos & 7))) & ((1 << s) - 1)
+                    acc = (acc << s) | (val ^ ((1 << s) - 1)); accn += s
+                    pos += s
+                    k += 1
+                while accn >= 8:
+                    accn -= 8
+                    ob.append((acc >> accn) & 0xFF)
+                acc &= (1 << accn) - 1
+            if pos > nbits:
+                return None
+        if accn:
+            ob.append(((acc << (8 - accn)) | ((1 << (8 - accn)) - 1)) & 0xFF)
+        out += bytes(ob).replace(b"\xff", b"\xff\x00")
+        if marker:
+            out += marker
+    return bytes(out)
+
+
 def save_bytes(path, data):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path + ".tmp", "wb") as f:
@@ -2090,6 +2299,7 @@ def main(argv):
     os.makedirs(CACHE, exist_ok=True)
     os.makedirs(IMAGES, exist_ok=True)
     recipes, skipped, notes = [], [], []
+    jp2_saved = []
 
     # ---- inventory
     editions, landing_links = list_editions()
@@ -2152,8 +2362,7 @@ def main(argv):
             pdf_title = smart_title(rec["title_pdf"] or "") if rec["title_pdf"] else None
             chosen = titles[0]
             if pdf_title and len(titles) > 1:
-                matches = [t for t in titles if titles_match(t, pdf_title)]
-                chosen = matches[0] if matches else titles[0]
+                chosen = max(titles, key=lambda t: difflib.SequenceMatcher(None, t.lower(), pdf_title.lower()).ratio())
             for t in titles:
                 if t is not chosen:
                     skipped.append({"title": t, "url": u, "edition": n,
@@ -2164,6 +2373,9 @@ def main(argv):
                                 "reason": "PDF has no extractable ingredients/steps"})
                 continue
             title = pdf_title if pdf_title and len(re.findall(r"[A-Za-z]", pdf_title)) >= 3 else chosen
+            if re.sub(r"\W", "", title).lower() == re.sub(r"\W", "", chosen).lower():
+                title = chosen   # same words; the listing has cleaner spacing than the PDF's display type
+            title = re.sub(r"(\w)- (\w)", r"\1-\2", title)
             r = empty_record()
             r["source_id"] = "ed%d-%s" % (n, slugify(title))
             r["url"] = u
@@ -2185,7 +2397,16 @@ def main(argv):
             if im and im.get("raw"):
                 dest = os.path.join(IMAGES, r["source_id"] + ".jpg")
                 if not os.path.exists(dest):
-                    save_bytes(dest, im["raw"])
+                    raw = im["raw"]
+                    if im.get("cs") == "DeviceCMYK" and not im.get("decode"):
+                        # PDF stores plain (non-inverted) CMYK/YCCK, but the JPEG carries an Adobe marker, so
+                        # viewers would invert it: negate the DCT coefficients losslessly to compensate.
+                        fixed = invert_jpeg_coefficients(raw)
+                        if fixed:
+                            raw = fixed
+                        else:
+                            notes.append("CMYK photo left as-is for %s" % r["source_id"])
+                    save_bytes(dest, raw)
                 r["image_path"] = "sources/%s/images/%s.jpg" % (KEY, r["source_id"])
                 r["_image_cs"] = im.get("cs")
             r["_edition"] = n
@@ -2233,6 +2454,7 @@ def main(argv):
         # embedded cookbook photos are JPEG 2000; extract raw bytes as .jp2
         cbdata = fetch(COOKBOOK_URL, binary=True)
         cbpdf = None
+        jp2_saved = []
         for r in recipes:
             ims = r.pop("_cookbook_images", None)
             if not ims:
@@ -2247,7 +2469,7 @@ def main(argv):
                 dest = os.path.join(IMAGES, r["source_id"] + ext)
                 if not os.path.exists(dest):
                     save_bytes(dest, raw)
-                r["image_path"] = "sources/%s/images/%s%s" % (KEY, r["source_id"], ext)
+                jp2_saved.append(r["source_id"])   # not browser-viewable, so image_path stays null
 
     # ---- HTML recipe posts
     for u, t in posts:
@@ -2334,11 +2556,13 @@ def main(argv):
         "parsed with a built-in stdlib PDF text extractor (no pdftotext available). Same-titled recipes in different "
         "editions are separate PDFs with their own analyses and are kept as separate records (source_id prefixed "
         "edN-). Photos: recipe-card photos are the JPEGs embedded in each PDF (image_url null, image_path set; %d "
-        "of them are CMYK JPEGs); cookbook photos are embedded JPEG 2000 and saved as .jp2 (not displayable in most "
-        "browsers); HTML posts use the WordPress featured image. Diet comes from the ticked 'Diet Types' boxes "
+        "of them are CMYK JPEGs whose DCT coefficients were negated losslessly so that viewers applying the Adobe CMYK "
+        "convention show correct colours); the %d Children's National cookbook photos are embedded JPEG 2000: they "
+        "are saved as images/<source_id>.jp2 for reference but image_path is left null because browsers cannot show "
+        "them; HTML posts use the WordPress featured image. Diet comes from the ticked 'Diet Types' boxes "
         "(Transplant has no matching diet value and is omitted). %s"
         % (claimed_total, listed_pdf_entries, cookbook_count, len(posts), listed_pdf_entries, cookbook_count,
-           len(posts), cmyk, " ".join(notes))
+           len(posts), cmyk, len(jp2_saved), " ".join(notes))
     )
     report = {"listed": listed, "scraped": len(recipes), "with_image": with_img, "with_nutrients": with_nut,
               "skipped": len(skipped), "notes": note.strip()}

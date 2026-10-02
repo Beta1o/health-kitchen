@@ -1,4 +1,6 @@
 <title>Health Kitchen</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJIZWFsdGggS2l0Y2hlbiI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTYiIGZpbGw9IiMyZjZiMmEiLz4KICA8cGF0aCBkPSJNMzIgMzNDMjIuNSAyOS41IDE4LjUgMjAuNSAyMy41IDEzLjVDMjggMTUuNSAzMS41IDIxIDMyIDMzWiIgZmlsbD0iI2M5ZWNiNCIvPgogIDxwYXRoIGQ9Ik0zMiAzM0M0MS41IDI5LjUgNDUuNSAyMC41IDQwLjUgMTMuNUMzNiAxNS41IDMyLjUgMjEgMzIgMzNaIiBmaWxsPSIjOGZkMTdhIi8+CiAgPHBhdGggZD0iTTExIDM0LjVINTNDNTMgNDYuNCA0My42IDU1IDMyIDU1UzExIDQ2LjQgMTEgMzQuNVoiIGZpbGw9IiNmZmZmZmYiLz4KICA8cGF0aCBkPSJNMjAgNDEuNUg0NCIgc3Ryb2tlPSIjMmY2YjJhIiBzdHJva2Utd2lkdGg9IjIuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBvcGFjaXR5PSIuMjUiLz4KICA8Y2lyY2xlIGN4PSI0NyIgY3k9IjE3IiByPSIzLjIiIGZpbGw9IiNlNTk3YzQiLz4KPC9zdmc+Cg==">
+<script>try { const t = localStorage.getItem("kk:theme"); if (t && t !== '"system"') document.documentElement.dataset.theme = JSON.parse(t); } catch (e) {}</script>
 <style>/*__FONTS__*/</style>
 <style>
 /* Layout: sticky search bar with language switch, "Refine results" rail of collapsible facets (drawer on phones), photo-led card grid, recipe opens as a full sheet. RTL for Arabic. */
@@ -50,7 +52,11 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--bg) 88%, transparent);
   backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
 .top-in { max-width: 1480px; margin: 0 auto; padding: 12px 16px; display: flex; gap: 12px; align-items: center; }
-.brand { display: flex; align-items: baseline; gap: 10px; white-space: nowrap; }
+.brand { display: flex; align-items: center; gap: 10px; white-space: nowrap; text-decoration: none; color: inherit; }
+.brand .logo { flex: none; border-radius: 11px; transition: transform .35s cubic-bezier(.2,.8,.2,1); }
+.brand:hover .logo { transform: rotate(-8deg) scale(1.06); }
+.brand-txt { display: flex; align-items: baseline; gap: 10px; }
+@media (max-width: 980px) { .brand-txt small { display: none; } }
 .brand h1 { font-size: 1.45rem; font-weight: 800; }
 .brand h1 span { color: var(--accent); }
 .brand small { color: var(--muted); font-size: .8rem; }
@@ -134,6 +140,7 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .mineral { border-radius: 8px; padding: 5px 7px; display: grid; }
 .mineral span { font-size: .66rem; font-weight: 700; letter-spacing: .04em; opacity: .9; }
 .mineral b { font-family: var(--font-data); font-weight: 600; font-size: .86rem; }
+.mineral b small { font-size: .62rem; font-weight: 500; opacity: .8; }
 .lv-lo { background: var(--lo-bg); color: var(--lo); }
 .lv-mid { background: var(--mid-bg); color: var(--mid); }
 .lv-hi { background: var(--hi-bg); color: var(--hi); }
@@ -381,20 +388,45 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
 .day-item .t small { display: block; font-weight: 400; color: var(--muted); font-family: var(--font-data); font-size: .76rem; direction: ltr; text-align: start; }
 .scrim { position: fixed; inset: 0; background: rgba(8,16,18,.5); z-index: 35; }
 
+.icon-btn.round { width: 40px; height: 40px; padding: 0; justify-content: center; flex: none; }
+.bottom-nav { display: none; }
+.nav-count { position: absolute; top: 4px; inset-inline-end: calc(50% - 22px); min-width: 17px; height: 17px; border-radius: 99px; background: var(--plum); color: #fff; font-size: .65rem; display: grid; place-items: center; padding: 0 4px; font-family: var(--font-data); }
+.nav-count:empty { display: none; }
 /* ---------- responsive ---------- */
 @media (max-width: 980px) {
   .wrap { grid-template-columns: minmax(0, 1fr); }
   .rail { position: fixed; top: 0; bottom: 0; inset-inline-start: 0; width: min(340px, 88vw); max-height: none; z-index: 40; background: var(--bg); padding: 18px 16px calc(80px + env(safe-area-inset-bottom, 0px)); padding-top: calc(18px + env(safe-area-inset-top, 0px)); transform: translateX(-105%); transition: transform .2s ease; box-shadow: var(--shadow); }
   [dir="rtl"] .rail { transform: translateX(105%); }
   .rail.open, [dir="rtl"] .rail.open { transform: none; }
+  body.drawer-open { overflow: hidden; }
   .only-narrow { display: inline-flex; }
   .cols { grid-template-columns: minmax(0, 1fr); }
   .brand small { display: none; }
 }
 @media (max-width: 640px) {
-  .top-in { flex-wrap: wrap; }
+  .top-in { flex-wrap: wrap; gap: 8px; padding: 8px 12px; }
   .search { order: 3; flex-basis: 100%; }
+  .search input { padding-block: 9px; }
   .brand { margin-inline-end: auto; }
+  .brand .logo { width: 32px; height: 32px; }
+  .brand h1 { font-size: 1.2rem; }
+  #openFilters, #openPlans, #openDay, #favOnly { display: none; }
+  .langs button { padding: 7px 9px; font-size: .8rem; }
+  .cats { padding: 2px 12px 10px; }
+  .bottom-nav { display: grid; grid-template-columns: repeat(5, 1fr); position: fixed; inset-inline: 0; bottom: 0; z-index: 30;
+    background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(12px); border-top: 1px solid var(--line);
+    padding-bottom: env(safe-area-inset-bottom, 0px); }
+  .bottom-nav button { position: relative; border: 0; background: none; display: grid; justify-items: center; gap: 2px; padding: 8px 2px 7px; font-size: .66rem; color: var(--muted); cursor: pointer; }
+  .bottom-nav button.on { color: var(--accent); }
+  body { padding-bottom: calc(64px + env(safe-area-inset-bottom, 0px)); }
+  .toast, .celebrate { bottom: calc(80px + env(safe-area-inset-bottom, 0px)); }
+  .sheet-bar { flex-wrap: nowrap; padding: 8px 10px; gap: 6px; border-radius: 12px; }
+  .sheet-bar .grp { flex-wrap: nowrap; gap: 5px; }
+  .sheet-bar .icon-btn { padding: 0; width: 38px; height: 38px; justify-content: center; }
+  .sheet-bar .icon-btn .lbl { display: none; }
+  .sheet-bar [data-act="close"] { width: auto; padding: 0 12px; }
+  .sheet-bar [data-act="close"] .lbl { display: inline; }
+  .recipe-page { padding-inline: 10px; }
   .fav-label { display: none; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
   .card-body h3 { font-size: .95rem; }
@@ -411,11 +443,20 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
     <button class="icon-btn only-narrow" id="openFilters">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M7 12h10M10 18h4"/></svg> <span data-i="filters"></span>
     </button>
-    <div class="brand"><h1 id="brand"></h1><small id="tagline"></small></div>
+    <a class="brand" href="#" id="home" aria-label="Health Kitchen"><svg class="logo" width="38" height="38" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Health Kitchen">
+  <rect width="64" height="64" rx="16" fill="#2f6b2a"/>
+  <path d="M32 33C22.5 29.5 18.5 20.5 23.5 13.5C28 15.5 31.5 21 32 33Z" fill="#c9ecb4"/>
+  <path d="M32 33C41.5 29.5 45.5 20.5 40.5 13.5C36 15.5 32.5 21 32 33Z" fill="#8fd17a"/>
+  <path d="M11 34.5H53C53 46.4 43.6 55 32 55S11 46.4 11 34.5Z" fill="#ffffff"/>
+  <path d="M20 41.5H44" stroke="#2f6b2a" stroke-width="2.6" stroke-linecap="round" opacity=".25"/>
+  <circle cx="47" cy="17" r="3.2" fill="#e597c4"/>
+</svg>
+<span class="brand-txt"><h1 id="brand"></h1><small id="tagline"></small></span></a>
     <div class="search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
       <input id="q" type="search" autocomplete="off">
     </div>
+    <button class="icon-btn round" id="themeBtn" aria-label="Theme"></button>
     <div class="langs" role="group" aria-label="Language">
       <button data-l="en" aria-pressed="true" lang="en">EN</button>
       <button data-l="es" aria-pressed="false" lang="es">ES</button>
@@ -488,6 +529,13 @@ dialog.panel-dlg.wide { width: min(980px, 100%); }
   </main>
 </div>
 <footer class="site" id="footer"></footer>
+<nav class="bottom-nav" aria-label="Main">
+  <button data-proxy="#home"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11 12 4l9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"/></svg><span data-i="navHome"></span></button>
+  <button data-proxy="#openFilters"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M7 12h10M10 18h4"/></svg><span data-i="filters"></span></button>
+  <button data-proxy="#openPlans"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19V5M4 19h16M8 15l3-4 3 2 4-6"/></svg><span data-i="mealPlans"></span></button>
+  <button data-proxy="#openDay"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg><span data-i="myDay"></span><b class="nav-count" id="navDay"></b></button>
+  <button data-proxy="#favOnly"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-4.4-9.3-9C1.2 8.8 3.2 5 6.8 5c2 0 3.4 1.1 5.2 3 1.8-1.9 3.2-3 5.2-3 3.6 0 5.6 3.8 4.1 7-2.3 4.6-9.3 9-9.3 9z"/></svg><span data-i="saved"></span><b class="nav-count" id="navFav"></b></button>
+</nav>
 
 <main class="recipe-page" id="sheet" hidden aria-labelledby="sheetTitle"><div class="sheet-in" id="sheetIn"></div></main>
 <dialog class="panel-dlg" id="planDlg" aria-labelledby="planDlgTitle"><div class="dlg-in" id="planIn"></div></dialog>
@@ -507,7 +555,7 @@ const UI = {
     heroEyebrow: "Kidney · diabetes · blood pressure · heart", heroTitle: 'Everyday food, <em>made for your health</em>',
     heroLede: n => `${n} recipes from DaVita and leading health charities, with full nutrition per serving. Choose a plan for kidney disease, diabetes, blood pressure or heart health and see how every dish fits your day.`,
     statRecipes: "recipes", statPhotos: "with photos", statVideos: "cooking videos", statSources: "sources", featured: "Featured",
-    legendLo: "Low", legendMid: "Moderate", legendHi: "Higher", source: "Source", allDone: "All steps done. Enjoy your meal!",
+    legendLo: "Low", legendMid: "Moderate", legendHi: "Higher", legendMeal: "share of one meal", navHome: "Home", themeNames: { system: "Theme: system", dark: "Theme: dark", light: "Theme: light" }, source: "Source", allDone: "All steps done. Enjoy your meal!",
     plan: "My health plan", planEdit: "Edit amounts", profiles: { hd: "Kidney: dialysis", ckd: "Kidney: CKD, not on dialysis", dm: "Kidney: CKD with diabetes", t2: "Diabetes", bp: "High blood pressure", heart: "Heart health", gen: "General healthy eating" },
     planIntro: "Pick your plan and enter the daily amounts your doctor or dietitian gave you. Recipe meters show each serving's share of one meal, counted as a third of your day. Limits turn amber and red as you near them; goals fill green.",
     weight: "Body weight", perKg: "Protein per kg of body weight", daily: "Daily amounts", carbsOff: "leave empty to not track",
@@ -540,7 +588,7 @@ const UI = {
     portions: "Portions", serving: "Serving size", dietTypes: "Diet types", ing: "Ingredients", prep: "Preparation", hints: "Helpful hints",
     nut: "Nutrients per serving", choices: "Kidney and kidney diabetic food choices", carb: "Carbohydrate choices", by: "Submitted by",
     items: n => `${n} items · tap to tick off`, stepsHint: "tap a step when it's done", watch: "Watch the cooking video", watchSub: "Opens the video in a new tab",
-    translated: "Translated from the original DaVita recipe", officialEs: "Official DaVita Spanish version",
+    translated: src => `Translated from the original ${src} recipe`, officialEs: "Official DaVita Spanish version",
     occasions: "Occasions", without: "Without", saveOnly: "Saved only", servUnit: "servings",
     footer: (n, x) => `${n} recipes from DaVita and leading kidney, diabetes and heart health organisations, in English, Spanish and Arabic. Colour levels per serving: sodium low ≤140 mg, higher >400 mg; potassium low ≤200 mg, higher >400 mg; phosphorus low ≤100 mg, higher >250 mg. They help with sorting only. Follow the advice of your doctor or dietitian.` },
   es: {
@@ -550,7 +598,7 @@ const UI = {
     heroEyebrow: "Riñón · diabetes · presión arterial · corazón", heroTitle: 'Comida de todos los días, <em>pensada para su salud</em>',
     heroLede: n => `${n} recetas de DaVita y organizaciones de salud reconocidas, con nutrición completa por porción. Elija un plan para enfermedad renal, diabetes, presión arterial o corazón y vea cómo encaja cada plato en su día.`,
     statRecipes: "recetas", statPhotos: "con foto", statVideos: "videos de cocina", statSources: "fuentes", featured: "Destacada",
-    legendLo: "Bajo", legendMid: "Moderado", legendHi: "Alto", source: "Fuente", allDone: "¡Todos los pasos listos! Buen provecho.",
+    legendLo: "Bajo", legendMid: "Moderado", legendHi: "Alto", legendMeal: "parte de una comida", navHome: "Inicio", themeNames: { system: "Tema: sistema", dark: "Tema: oscuro", light: "Tema: claro" }, source: "Fuente", allDone: "¡Todos los pasos listos! Buen provecho.",
     plan: "Mi plan de salud", planEdit: "Editar cantidades", profiles: { hd: "Riñón: diálisis", ckd: "Riñón: ERC sin diálisis", dm: "Riñón: ERC con diabetes", t2: "Diabetes", bp: "Presión arterial alta", heart: "Salud del corazón", gen: "Alimentación saludable general" },
     planIntro: "Elija su plan e ingrese las cantidades diarias que le dio su médico o dietista. Los medidores muestran qué parte de una comida ocupa cada porción, contando una comida como un tercio del día. Los límites se vuelven ámbar y rojo al acercarse; las metas se llenan en verde.",
     weight: "Peso corporal", perKg: "Proteína por kg de peso", daily: "Cantidades diarias", carbsOff: "deje vacío para no medir",
@@ -583,7 +631,7 @@ const UI = {
     portions: "Porciones", serving: "Tamaño de la porción", dietTypes: "Tipos de dieta", ing: "Ingredientes", prep: "Preparación", hints: "Consejos útiles",
     nut: "Nutrientes por porción", choices: "Opciones de alimentos para personas con enfermedad renal y diabetes", carb: "Opciones de carbohidratos", by: "Enviada por",
     items: n => `${n} ingredientes · toque para marcar`, stepsHint: "toque un paso al terminarlo", watch: "Ver el video de cocina", watchSub: "Abre el video en una pestaña nueva",
-    translated: "Traducida de la receta original de DaVita", officialEs: "Versión oficial en español de DaVita",
+    translated: src => `Traducida de la receta original de ${src}`, officialEs: "Versión oficial en español de DaVita",
     occasions: "Ocasiones", without: "Sin", saveOnly: "Solo guardadas", servUnit: "porciones",
     footer: (n, x) => `${n} recetas de DaVita y de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Niveles por porción: sodio bajo ≤140 mg, alto >400 mg; potasio bajo ≤200 mg, alto >400 mg; fósforo bajo ≤100 mg, alto >250 mg. Solo sirven para ordenar. Siga las indicaciones de su médico o dietista.` },
   ar: {
@@ -593,7 +641,7 @@ const UI = {
     heroEyebrow: "الكلى · السكري · ضغط الدم · القلب", heroTitle: 'طعام يومي <em>مصمم لصحتك</em>',
     heroLede: n => `${n} وصفة من DaVita وجمعيات صحية رائدة، مع القيم الغذائية الكاملة لكل حصة. اختر خطة لأمراض الكلى أو السكري أو ضغط الدم أو صحة القلب وشاهد كيف يناسب كل طبق يومك.`,
     statRecipes: "وصفة", statPhotos: "بالصور", statVideos: "فيديو طهي", statSources: "مصادر", featured: "مختارة",
-    legendLo: "منخفض", legendMid: "متوسط", legendHi: "مرتفع", source: "المصدر", allDone: "أنهيت كل الخطوات. بالهناء والشفاء!",
+    legendLo: "منخفض", legendMid: "متوسط", legendHi: "مرتفع", legendMeal: "حصة الوجبة الواحدة", navHome: "الرئيسية", themeNames: { system: "المظهر: حسب النظام", dark: "المظهر: داكن", light: "المظهر: فاتح" }, source: "المصدر", allDone: "أنهيت كل الخطوات. بالهناء والشفاء!",
     plan: "خطتي الصحية", planEdit: "تعديل الكميات", profiles: { hd: "الكلى: غسيل الكلى", ckd: "الكلى: مرض مزمن دون غسيل", dm: "الكلى: مع السكري", t2: "السكري", bp: "ارتفاع ضغط الدم", heart: "صحة القلب", gen: "أكل صحي عام" },
     planIntro: "اختر خطتك وأدخل الكميات اليومية التي حددها لك طبيبك أو أخصائي التغذية. تُظهر المؤشرات حصة كل وجبة، على اعتبار أن الوجبة ثلث يومك. تتحول الحدود إلى الكهرماني ثم الأحمر عند الاقتراب منها، وتمتلئ الأهداف باللون الأخضر.",
     weight: "وزن الجسم", perKg: "البروتين لكل كغ من الوزن", daily: "الكميات اليومية", carbsOff: "اتركه فارغًا لعدم المتابعة",
@@ -626,7 +674,7 @@ const UI = {
     portions: "عدد الحصص", serving: "حجم الحصة", dietTypes: "أنواع النظام الغذائي", ing: "المكونات", prep: "طريقة التحضير", hints: "نصائح مفيدة",
     nut: "العناصر الغذائية لكل حصة", choices: "بدائل الأطعمة لمرضى الكلى ومرضى الكلى المصابين بالسكري", carb: "حصص الكربوهيدرات", by: "مقدّمة من",
     items: n => `${n} مكوّن · اضغط للتأشير`, stepsHint: "اضغط على الخطوة عند إتمامها", watch: "شاهد فيديو الطهي", watchSub: "يفتح الفيديو في نافذة جديدة",
-    translated: "مترجمة عن وصفة DaVita الأصلية", officialEs: "",
+    translated: src => `مترجمة عن وصفة ${src} الأصلية`, officialEs: "",
     occasions: "المناسبات", without: "بدون", saveOnly: "المحفوظة فقط", servUnit: "حصص",
     footer: (n, x) => `${n} وصفة من DaVita ومؤسسات رائدة في صحة الكلى والسكري والقلب، بالإنجليزية والإسبانية والعربية. مستويات الألوان لكل حصة: الصوديوم منخفض ≤140 ملغ ومرتفع >400 ملغ؛ البوتاسيوم منخفض ≤200 ملغ ومرتفع >400 ملغ؛ الفوسفور منخفض ≤100 ملغ ومرتفع >250 ملغ. هي للترتيب فقط، واتبع إرشادات طبيبك أو أخصائي التغذية.` },
 };
@@ -749,9 +797,10 @@ const heart = `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" strok
 function card(r) {
   const t = tx(r), el = document.createElement("article");
   el.className = "card"; el.tabIndex = 0; el.dataset.id = r.id; el.setAttribute("aria-label", t.title);
-  const mins = [["sodium_mg",0],["potassium_mg",1],["phosphorus_mg",2]].map(([k,i]) => {
-    const v = r.n[IDX[k]], g = v == null ? 0 : Math.min(100, v / LEVELS[k][1] * 100);
-    return `<div class="mineral lv-${level(k,v)}"><span>${u().minerals[i]}</span><b>${fmt(v)}</b><div class="gauge"><i style="inline-size:${g}%"></i></div></div>`; }).join("");
+  const mins = cardMetrics().map(([k, daily, goal, unit, li]) => {
+    const v = r.n[IDX[k]], pc = v == null ? 0 : v / (daily / 3) * 100;
+    const cls = v == null ? "na" : goal ? (pc >= 33 ? "lo" : "na") : pctLevel(pc);
+    return `<div class="mineral lv-${cls}"><span>${u().nutr[li]}</span><b>${fmt(v)}<small> ${unit}</small></b><div class="gauge"><i style="inline-size:${Math.min(100, pc)}%"></i></div></div>`; }).join("");
   el.innerHTML = `<div class="thumb">${placeholder(r)}${r.img != null ? `<img alt="" decoding="async">` : ""}
       <div class="badges">${r.video ? `<span class="badge">▶ ${u().video}</span>` : ""}${r.sourceName && r.sourceName !== "DaVita" ? `<span class="badge src-badge">${esc(r.sourceName)}</span>` : ""}</div>
       <button class="fav" aria-label="${u().save}" aria-pressed="${favs.has(r.id)}">${heart}</button></div>
@@ -850,6 +899,7 @@ function syncUI() {
   $("#favOnly").setAttribute("aria-pressed", String(state.favOnly));
   $("#favCount").textContent = favs.size;
   $("#sort").value = state.sort;
+  if (typeof syncNav === "function") syncNav();
 }
 function update() { state.shown = 48; render(true); }
 
@@ -875,7 +925,7 @@ function openRecipe(id, push = true) {
     const lv = keyRows.has(k) ? level(k, v) : null;
     return `<tr class="${lv ? "key" : ""}"><td>${L[i]}${lv && lv !== "na" ? `<span class="lvl lv-${lv}">${s.lvl[lv]}</span>` : ""}</td><td>${fmt(v)}${v != null && U[i] ? " " + U[i] : ""}</td></tr>`; }).join("");
   const srcUrl = lang === "es" && r.urlEs ? r.urlEs : r.url;
-  const note = t.tr ? `<div class="tr-note">🌐 ${s.translated}</div>` : (lang === "es" && r.src === "en" && s.officialEs ? `<div class="tr-note">✓ ${s.officialEs}</div>` : "");
+  const note = t.tr ? `<div class="tr-note">🌐 ${s.translated(r.sourceName || "DaVita")}</div>` : (lang === "es" && r.src === "en" && s.officialEs ? `<div class="tr-note">✓ ${s.officialEs}</div>` : "");
   const videoHtml = r.video ? `<section class="panel"><h3>${s.video}</h3>
       <div class="video" id="vidWrap"><video controls preload="none" playsinline src="${esc(r.video)}">${r.vtt ? `<track kind="subtitles" srclang="en" label="English" src="${esc(r.vtt)}">` : ""}</video></div>
       <a class="video-link" href="${esc(r.video)}" target="_blank" rel="noopener"><span class="play">▶</span><span><b>${s.watch}</b><br><span class="foot-note">${s.watchSub}</span></span></a>
@@ -883,14 +933,14 @@ function openRecipe(id, push = true) {
   const tagRow = (label, vals) => vals.length ? `<div><div class="eyebrow" style="margin-bottom:6px">${label}</div><div class="chips">${vals.map(x => `<span class="chip">${esc(term(x))}</span>`).join("")}</div></div>` : "";
   $("#sheetIn").innerHTML = `
     <div class="sheet-bar">
-      <div class="grp"><button class="icon-btn" data-act="close">${lang === "ar" ? "→" : "←"} ${s.back}</button></div>
+      <div class="grp"><button class="icon-btn" data-act="close">${lang === "ar" ? "→" : "←"} <span class="lbl">${s.back}</span></button></div>
       <div class="grp">
         <button class="icon-btn" data-act="prev" aria-label="${s.prev}">${lang === "ar" ? "›" : "‹"}</button>
         <button class="icon-btn" data-act="next" aria-label="${s.next}">${lang === "ar" ? "‹" : "›"}</button>
-        <button class="icon-btn" data-act="fav" aria-pressed="${favs.has(r.id)}">${heart}<span>${favs.has(r.id) ? s.savedBtn : s.save}</span></button>
-        <button class="icon-btn" data-act="copy">${s.copy}</button>
-        ${window.top === window ? `<button class="icon-btn" data-act="pdf">⤓ PDF</button>` : ""}
-        <a class="icon-btn" href="${esc(srcUrl)}" target="_blank" rel="noopener">${esc(r.sourceName || "DaVita")} ↗</a>
+        <button class="icon-btn" data-act="fav" aria-pressed="${favs.has(r.id)}" aria-label="${s.save}">${heart}<span class="lbl">${favs.has(r.id) ? s.savedBtn : s.save}</span></button>
+        <button class="icon-btn" data-act="copy" aria-label="${s.copy}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg><span class="lbl">${s.copy}</span></button>
+        ${window.top === window ? `<button class="icon-btn" data-act="pdf" aria-label="PDF"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v12m0 0-4-4m4 4 4-4M5 21h14"/></svg><span class="lbl">PDF</span></button>` : ""}
+        <a class="icon-btn" href="${esc(srcUrl)}" target="_blank" rel="noopener" aria-label="${esc(r.sourceName || "DaVita")}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg><span class="lbl">${esc(r.sourceName || "DaVita")}</span></a>
       </div>
     </div>
     <div class="hero ${r.img != null ? "" : "nophoto"}">${placeholder(r)}${r.img != null ? `<img class="backdrop" alt="" aria-hidden="true"><img class="photo" alt="${esc(t.title)}">` : ""}</div>
@@ -982,7 +1032,7 @@ function fallbackCopy(txt) { const ta = document.createElement("textarea"); ta.v
   try { document.execCommand("copy"); toast(u().copied); } catch { toast(u().copyFail); } ta.remove(); }
 function toast(msg) { const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
   const host = [...document.querySelectorAll("dialog[open]")].pop() || document.body; host.append(t); setTimeout(() => t.remove(), 1800); }
-function toggleFav(id) { favs.has(id) ? favs.delete(id) : favs.add(id); store.set("favs", [...favs]); $("#favCount").textContent = favs.size; }
+function toggleFav(id) { favs.has(id) ? favs.delete(id) : favs.add(id); store.set("favs", [...favs]); $("#favCount").textContent = favs.size; syncNav(); }
 
 
 // ---------- kidney plan (profile) ----------
@@ -1016,7 +1066,9 @@ function fitScore(r) {   // largest share of a meal's budget among the limits (g
   return worst;
 }
 const SORT_OK = v => (v in SORTS ? v : "az");
-function savePlan() { store.set("plan", plan); mpCache = null; if ($("#mpDlg").open) renderMealPlan(); renderPlanCard(); if (state.sort === "fit") render(); if (current) openRecipe(current.id, false); if ($("#dayDlg").open) renderDay(); }
+// the three nutrients shown on cards: the plan's limits first, then its goals
+function cardMetrics() { const t = planTargets().filter(x => x[0] !== "protein_g"); return [...t.filter(x => !x[2]), ...t.filter(x => x[2])].slice(0, 3); }
+function savePlan() { store.set("plan", plan); mpCache = null; if ($("#mpDlg").open) renderMealPlan(); renderPlanCard(); render(); renderHero(); if (current) openRecipe(current.id, false); if ($("#dayDlg").open) renderDay(); }
 function renderPlanCard() {
   $("#planType").innerHTML = Object.entries(u().profiles).map(([k, l]) => `<option value="${k}" ${k === plan.type ? "selected" : ""}>${l}</option>`).join("");
   const t = planTargets(), N = u().nutr;
@@ -1105,7 +1157,7 @@ $("#editPlan").addEventListener("click", openPlan);
 
 // ---------- my day (planner) ----------
 let day = store.get("day", []);   // [{id, servings}]
-function saveDay() { store.set("day", day); $("#dayCount").textContent = day.length; if ($("#dayDlg").open) renderDay(); }
+function saveDay() { store.set("day", day); $("#dayCount").textContent = day.length; syncNav(); if ($("#dayDlg").open) renderDay(); }
 function renderDay() {
   const s = u(), N = s.nutr;
   const items = day.map(d => ({ ...d, r: byId.get(d.id) })).filter(d => d.r);
@@ -1151,7 +1203,7 @@ function renderHero() {
   $("#stats").innerHTML = stats.map(([n, l]) => `<div class="stat"><b data-n="${n}">${n.toLocaleString()}</b><span>${l}</span></div>`).join("");
   $("#stats").querySelectorAll("b").forEach(b => countUp(b, +b.dataset.n));
   $("#legend").innerHTML = [["lo", s.legendLo], ["mid", s.legendMid], ["hi", s.legendHi]].map(([k, l]) => `<span class="lv-${k}">● ${l}</span>`).join("") +
-    `<span class="lv-na">${s.minerals.join(" · ")}</span>`;
+    `<span class="lv-na">${cardMetrics().map(m => s.nutr[m[4]]).join(" · ")} · ${s.legendMeal}</span>`;
   drawSlides();
 }
 function drawSlides() {
@@ -1161,7 +1213,7 @@ function drawSlides() {
     const r = FEATURED[(slideAt + k) % FEATURED.length], el = document.createElement("div");
     el.className = `slide s${k}`; el.dataset.id = r.id;
     el.innerHTML = `<img alt="">${k === 0 ? `<div class="slide-cap"><small>${u().featured} · ${esc(term(r.cat))}</small><b>${esc(tx(r).title)}</b>
-      <div class="chips">${[["sodium_mg",0],["potassium_mg",1],["phosphorus_mg",2]].map(([key,i]) => `<span>${u().minerals[i]} ${fmt(r.n[IDX[key]])} mg</span>`).join("")}</div></div>` : ""}`;
+      <div class="chips">${cardMetrics().map(([key, , , unit, li]) => `<span>${u().nutr[li]} ${fmt(r.n[IDX[key]])} ${unit}</span>`).join("")}</div></div>` : ""}`;
     const im = el.querySelector("img"); im.onerror = () => { im.onerror = null; setImg(im, r); }; im.src = `photos/${r.id}.webp`; stage.prepend(el);
   });
   $("#dots").innerHTML = FEATURED.slice(0, 6).map((_, i) => `<button aria-label="${i + 1}" aria-current="${i === slideAt % 6}"></button>`).join("");
@@ -1309,7 +1361,7 @@ $("#active").addEventListener("click", e => { const k = e.target.dataset.rm; if 
   update(); });
 document.querySelector(".langs").addEventListener("click", e => { const b = e.target.closest("button"); if (!b || b.dataset.l === lang) return;
   lang = b.dataset.l; store.set("lang", lang); applyLang(); render(); if (current) openRecipe(current.id, false);
-  if ($("#dayDlg").open) renderDay(); if ($("#planDlg").open) openPlan(); if ($("#mpDlg").open) renderMealPlan(); });
+  if ($("#dayDlg").open) renderDay(); if ($("#planDlg").open) openPlan(); if ($("#mpDlg").open) renderMealPlan(); applyTheme(); });
 $("#moreBtn").addEventListener("click", () => { const from = state.shown; state.shown += 48;
   $("#grid").append(...results.slice(from, state.shown).map((r, i) => { const c = card(r); c.style.setProperty("--i", Math.min(i, 16)); return c; }));
   $("#moreBtn").hidden = results.length <= state.shown; $("#moreBtn").textContent = u().moreBtn(results.length - state.shown); });
@@ -1325,15 +1377,37 @@ document.addEventListener("keydown", e => {
   if (isOpen()) { if (e.key === "Escape") return closeRecipe(); const f = lang === "ar" ? -1 : 1; if (e.key === "ArrowRight") step(f); if (e.key === "ArrowLeft") step(-f); return; }
   if (e.key === "/" && document.activeElement !== $("#q")) { e.preventDefault(); $("#q").focus(); }
 });
-function drawer(open) { $("#rail").classList.toggle("open", open); document.querySelector(".scrim")?.remove();
+function drawer(open) { $("#rail").classList.toggle("open", open); document.body.classList.toggle("drawer-open", open); document.querySelector(".scrim")?.remove();
   if (open) { const s = document.createElement("div"); s.className = "scrim"; s.onclick = () => drawer(false); document.body.append(s); } }
-$("#openFilters").addEventListener("click", () => drawer(true));
+$("#openFilters").addEventListener("click", () => {
+  if (isOpen()) { hidePage(); history.replaceState(null, "", `#${lang}`); }   // the filter rail lives in the list view
+  drawer(true);
+});
+$("#home").addEventListener("click", e => { e.preventDefault(); if (isOpen()) hidePage();
+  state.q = ""; state.exclude = ""; state.max = {}; state.hasVideo = state.favOnly = false; for (const k in state.sel) state.sel[k].clear();
+  history.replaceState(null, "", `#${lang}`); update(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+
+// ---------- theme ----------
+let theme = store.get("theme", "system");
+const THEME_ICON = { system: `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>`,
+  dark: `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>`,
+  light: `<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>` };
+function applyTheme() {
+  if (theme === "system") delete document.documentElement.dataset.theme; else document.documentElement.dataset.theme = theme;
+  $("#themeBtn").innerHTML = THEME_ICON[theme]; $("#themeBtn").title = $("#themeBtn").ariaLabel = u().themeNames[theme];
+}
+$("#themeBtn").addEventListener("click", () => { theme = { system: "dark", dark: "light", light: "system" }[theme]; store.set("theme", theme); applyTheme(); });
+// bottom navigation (phones) forwards to the header controls
+document.querySelector(".bottom-nav").addEventListener("click", e => { const b = e.target.closest("[data-proxy]"); if (b) $(b.dataset.proxy).click(); });
+function syncNav() { $("#navDay").textContent = day.length || ""; $("#navFav").textContent = favs.size || "";
+  document.querySelector('.bottom-nav [data-proxy="#favOnly"]').classList.toggle("on", state.favOnly); }
 
 // ---------- start ----------
 const hm = location.hash.match(/^#(?:(en|es|ar)-?)?(?:r(\d+))?$/) || [];
 if (hm[1]) lang = hm[1];
 state.sort = SORT_OK(state.sort);
 applyLang();
+applyTheme();
 $("#dayCount").textContent = day.length;
 render();
 if (hm[2]) openRecipe(+hm[2], false);
