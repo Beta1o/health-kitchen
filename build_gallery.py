@@ -12,8 +12,10 @@ Outputs:
 Usage: python3 build_gallery.py
 """
 import base64
+import hashlib
 import json
 import os
+import shutil
 import re
 import sqlite3
 from pathlib import Path
@@ -130,10 +132,7 @@ def main():
         if image_row and (HERE / image_row["image_path"]).exists():
             data = make_thumb(HERE / image_row["image_path"], THUMBS / f"{rid}.webp")
             make_photo(HERE / image_row["image_path"], PHOTOS / f"{rid}.webp")
-            chunk[str(rid)] = "data:image/webp;base64," + base64.b64encode(data).decode()
-            img = chunk_no
-            if len(chunk) >= CHUNK_SIZE:
-                flush()
+            img = 0   # has a photo: thumbs/<id>.webp and photos/<id>.webp
         t = {lang: text(rid, lang) for lang in LANGS}
         src = r["language"]
         cat = r["category_en"]
@@ -152,10 +151,9 @@ def main():
             "modified": (r["date_modified"] or "")[:10],
             "t": {k: v for k, v in t.items() if v},
         })
-    flush()
-    for old in CHUNKS.glob("chunk-*.json"):   # chunks left over from a bigger earlier build
-        if int(old.stem.split("-")[1]) >= chunk_no:
-            old.unlink()
+    # thumbnails are served one file per recipe now; the old packed chunks are no longer used
+    if CHUNKS.exists():
+        shutil.rmtree(CHUNKS)
 
     # cuisines: one "American", "Latin American" for South America, and Middle Eastern split by country
     rename = {"Native American": "American", "Southern": "American", "South American": "Latin American"}
@@ -197,7 +195,6 @@ def main():
 
     # split text by language: core data keeps English (or the source text) and a list of available
     # languages; every other language goes to text/<lang>.js, loaded only when the reader picks it
-    import hashlib, shutil
     TEXT = OUT / "text"; TEXT.mkdir(exist_ok=True)
     per_lang = {}
     for rec in recipes:
@@ -218,12 +215,14 @@ def main():
         shutil.copy(f, UIDIR / f.name)
         vers["ui_" + f.stem] = hashlib.md5(f.read_bytes()).hexdigest()[:8]
 
-    vers["img"] = hashlib.md5("".join(sorted(f"{p.name}{p.stat().st_size}" for p in CHUNKS.glob("chunk-*.json"))).encode()).hexdigest()[:8]
     payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers,
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    fonts = (HERE / "fonts" / "fonts.css").read_text(encoding="utf-8")  # built by fonts/fetch_fonts.py
-    tpl = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", fonts)
+    # fonts (built by fonts/fetch_fonts.py) go in their own cached file instead of inside every page load
+    fonts = (HERE / "fonts" / "fonts.css").read_text(encoding="utf-8")
+    (OUT / "fonts.css").write_text(fonts, encoding="utf-8")
+    fver = hashlib.md5(fonts.encode()).hexdigest()[:8]
+    tpl = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", "")
     (OUT / "data.js").write_text("window.HK_DATA=" + data + ";", encoding="utf-8")
     ver = hashlib.md5(data.encode()).hexdigest()[:8]
     # hosted accounts (Supabase): the project URL and the public anon key, from supabase.json (both are safe to publish)
@@ -236,6 +235,9 @@ def main():
     body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+            '<meta name="description" content="Health Kitchen: thousands of recipes for kidney disease, diabetes, blood pressure and heart health, '
+            'in 9 languages, with nutrition per serving, portions sized to your plan and meal plans.">\n'
+            f'<link rel="preload" href="fonts.css?v={fver}" as="style">\n<link rel="stylesheet" href="fonts.css?v={fver}">\n'
             '</head>\n<body>\n' + body + '\n</body>\n</html>\n')
     (OUT / "index.html").write_text(page, encoding="utf-8")
     cover = {lang: sum(1 for x in recipes if lang in x["L"]) for lang in LANGS}

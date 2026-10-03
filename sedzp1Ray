@@ -1,13 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Health Kitchen: thousands of recipes for kidney disease, diabetes, blood pressure and heart health, in 9 languages, with nutrition per serving, portions sized to your plan and meal plans.">
-<link rel="preload" href="fonts.css?v=45d2d686" as="style">
-<link rel="stylesheet" href="fonts.css?v=45d2d686">
-</head>
-<body>
 <title>Health Kitchen</title>
 <link rel="icon" type="image/svg+xml" href="logo.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
@@ -21,7 +11,7 @@ window.addEventListener("load", () => setTimeout(hideSplash, 300));
 setTimeout(hideSplash, 8000);
 </script>
 <script>try { const t = localStorage.getItem("kk:theme"); if (t && t !== '"system"') document.documentElement.dataset.theme = JSON.parse(t); } catch (e) {}</script>
-<style></style>
+<style>/*__FONTS__*/</style>
 <style>
 /* Layout: sticky search bar with language switch, "Refine results" rail of collapsible facets (drawer on phones), photo-led card grid, recipe opens as a full sheet. RTL for Arabic. */
 :root {
@@ -892,9 +882,9 @@ body.reading .site-foot { display: none; }
 <dialog class="panel-dlg wide" id="mpDlg" aria-labelledby="mpTitle"><div class="dlg-in" id="mpIn"></div></dialog>
 <dialog class="panel-dlg" id="dayDlg" aria-labelledby="dayDlgTitle"><div class="dlg-in" id="dayIn"></div></dialog>
 
-<script src="data.js?v=5afd61f2"></script>
+<!--__DATA_SCRIPT__-->
 <script>
-const DATA = window.HK_DATA || null;
+const DATA = window.HK_DATA || /*__DATA__*/null;
 const R = DATA.recipes;
 
 // ---------- interface text ----------
@@ -2774,22 +2764,22 @@ async function loadAdminDb(msg = "") {
     <p class="foot-note" style="margin:0" dir="ltr">${esc(d.version.split(" on ")[0])} · <bdi>${esc(d.url)}</bdi></p>
     <p class="foot-note" style="margin:0">${s.dbSupported}: ${esc(d.supported.join(", "))}</p>
     <div class="plan-group"><h3>🔗 ${s.dbConnectTitle}</h3><p class="foot-note" style="margin:0">${s.dbConnectNote}</p>
-      <form id="dbcForm" onsubmit="return false" autocomplete="off"><div class="form-grid">
+      <div class="form-grid">
         <label class="field">${s.dbHost}<input id="dbcHost" dir="ltr" placeholder="db.xxxx.supabase.co" autocomplete="off"></label>
         <label class="field">${s.dbPort}<input id="dbcPort" dir="ltr" type="number" value="5432"></label>
         <label class="field">${s.dbName}<input id="dbcDb" dir="ltr" value="postgres"></label>
         <label class="field">${s.dbUser}<input id="dbcUser" dir="ltr" value="postgres" autocomplete="off"></label>
         <label class="field">${s.password}<input id="dbcPw" type="password" dir="ltr" autocomplete="new-password"></label>
       </div>
-      <details><summary class="foot-note">${s.dbOrUrl}</summary><label class="field">${s.dbConnectUrl}<input id="dbConnUrl" type="password" dir="ltr" placeholder="postgresql://postgres:password@db.xxxx.supabase.co:5432/postgres" autocomplete="off"></label></details></form>
+      <details><summary class="foot-note">${s.dbOrUrl}</summary><label class="field">${s.dbConnectUrl}<input id="dbConnUrl" type="password" dir="ltr" placeholder="postgresql://postgres:password@db.xxxx.supabase.co:5432/postgres" autocomplete="off"></label></details>
       <label class="check"><input type="checkbox" id="dbCopy" checked> ${s.dbCopy}</label>
       <div class="mp-actions"><button class="btn-primary" data-db="connect">🔐 ${s.dbConnectBtn}</button></div>
       <p class="foot-note" style="margin:0">${d.encrypted ? "🔒 " + s.dbEncrypted : ""}</p></div>
     <details class="set-sec"><summary><span>${s.dbChange}</span>${chev}</summary><div class="set-body"><p class="foot-note" style="margin:0">${s.dbChangeNote}</p>
-      <form onsubmit="return false" autocomplete="off"><label class="field">${s.dbApiUrl}<input id="dbUrl" dir="ltr" placeholder="postgresql://hk_api:password@host:5432/health_kitchen" autocomplete="off"></label>
+      <label class="field">${s.dbApiUrl}<input id="dbUrl" dir="ltr" placeholder="postgresql://hk_api:password@host:5432/health_kitchen" autocomplete="off"></label>
       <div class="mp-actions"><button class="icon-btn" data-db="test">🔌 ${s.dbTest}</button><button class="btn-primary" data-db="switch">${s.dbSwitch}</button></div>
       <label class="field">${s.dbOwnerUrl}<input id="dbOwnerUrl" dir="ltr" placeholder="postgresql://owner:password@host:5432/health_kitchen" autocomplete="off"></label>
-      <div class="mp-actions"><button class="icon-btn" data-db="setup">🧱 ${s.dbSetup}</button></div></form></div></details>
+      <div class="mp-actions"><button class="icon-btn" data-db="setup">🧱 ${s.dbSetup}</button></div></div></details>
       <div class="auth-err" id="dbMsg" style="color:${msg.startsWith("✓") ? "var(--accent)" : "var(--hi)"}">${esc(msg)}</div></div>`;
 }
 let adminUsers = [], adminQ = "", subFilter = "pending", adminTab = store.get("adminTab", "overview");
@@ -3378,6 +3368,3 @@ hideSplash();
 initAuth();
 })();
 </script>
-
-</body>
-</html>

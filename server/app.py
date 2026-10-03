@@ -63,6 +63,23 @@ DEFAULT_CONFIG = {"defaults": {"lang": "", "theme": "", "units": "", "plan": ""}
 app = FastAPI(title="Health Kitchen API")
 # the app may also be opened from another local port (e.g. a plain file server); allow those pages to call the API
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
+from fastapi.middleware.gzip import GZipMiddleware  # noqa: E402
+app.add_middleware(GZipMiddleware, minimum_size=1000)
+
+
+@app.middleware("http")
+async def cache_headers(request, call_next):
+    resp = await call_next(request)
+    p, q = request.url.path, request.url.query
+    if p.startswith("/api/"):
+        resp.headers["Cache-Control"] = "no-store"
+    elif q.startswith("v=") or p.startswith(("/fonts/", "/thumbs/", "/photos/")) or p.endswith((".png", ".svg", ".webp")):
+        resp.headers["Cache-Control"] = "public, max-age=31536000, immutable" if q.startswith("v=") else "public, max-age=604800"
+    elif p in ("/", "/index.html"):
+        resp.headers["Cache-Control"] = "no-cache"
+    return resp
+
+
 app.add_middleware(CORSMiddleware, allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?$",
                    allow_methods=["*"], allow_headers=["*"])
 
@@ -424,7 +441,12 @@ COPY_TABLES = [("admin_emails", "email"), ("users", "id"), ("user_state", "user_
 
 
 class Connect(BaseModel):
-    url: str = Field(min_length=12, max_length=500)   # owner / admin connection string (e.g. Supabase "postgres" user)
+    url: str = Field(default="", max_length=500)   # owner / admin connection string, or the separate fields below
+    host: str = Field(default="", max_length=255)
+    port: int = 5432
+    database: str = Field(default="postgres", max_length=100)
+    user: str = Field(default="postgres", max_length=100)
+    password: str = Field(default="", max_length=200)
     copy_data: bool = True
 
 
@@ -432,8 +454,12 @@ class Connect(BaseModel):
 def database_connect(body: Connect, user=Depends(admin)):
     """One step: set up the tables on the new database, create the restricted app user with a random password,
     copy the current accounts and data, then switch. The connection details are stored encrypted."""
-    check_url(body.url)
     from urllib.parse import urlsplit, urlunsplit, quote
+    if not body.url:
+        if not (body.host and body.password):
+            raise HTTPException(400, "Enter the host and the database password (or a full connection string)")
+        body.url = f"postgresql://{quote(body.user, safe='')}:{quote(body.password, safe='')}@{body.host}:{body.port}/{quote(body.database, safe='')}?sslmode=require"
+    check_url(body.url)
     api_pw = secrets.token_urlsafe(24)
     copied = {}
     try:

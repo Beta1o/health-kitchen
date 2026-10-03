@@ -1,0 +1,93 @@
+{
+ "kabsa-chicken": {
+  "file": "sources/saudi/images/kabsa-chicken.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kabsa.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Kabsa.jpg",
+  "author": "Basel15 at en.wikipedia",
+  "license": "Public domain"
+ },
+ "kabsa-meat": {
+  "file": "sources/saudi/images/kabsa-meat.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kabsa_(6486384335).jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kabsa_%286486384335%29.jpg",
+  "author": "Sammy Six",
+  "license": "CC BY 2.0"
+ },
+ "mandi-chicken": {
+  "file": "sources/saudi/images/mandi-chicken.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%86%D8%AF%D9%8A_%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/%D9%85%D9%86%D8%AF%D9%8A_%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC.jpg",
+  "author": "تالا",
+  "license": "CC BY-SA 4.0"
+ },
+ "mandi-fish": {
+  "file": "sources/saudi/images/mandi-fish.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fish_Mandi_01.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fish_Mandi_01.jpg",
+  "author": "Syed Aiyaz Uddin",
+  "license": "CC BY-SA 4.0"
+ },
+ "mandi-meat": {
+  "file": "sources/saudi/images/mandi-meat.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mandi.PNG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mandi.PNG",
+  "author": "w:user:Bamakhrama",
+  "license": "CC BY-SA 3.0"
+ },
+ "mandi-goat": {
+  "file": "sources/saudi/images/mandi-goat.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mandi.PNG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mandi.PNG",
+  "author": "w:user:Bamakhrama",
+  "license": "CC BY-SA 3.0"
+ },
+ "haneeth": {
+  "file": "sources/saudi/images/haneeth.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lamb_haneeth_at_Marib_restaurant,_Springfield,_Virginia.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Lamb_haneeth_at_Marib_restaurant%2C_Springfield%2C_Virginia.jpg",
+  "author": "Ser Amantio di Nicolao",
+  "license": "CC BY-SA 4.0"
+ },
+ "hareis": {
+  "file": "sources/saudi/images/hareis.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Harees.JPG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Harees.JPG",
+  "author": "Miansari66",
+  "license": "CC0"
+ },
+ "hareesa-hasawi": {
+  "file": "sources/saudi/images/hareesa-hasawi.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Al_fanar_harees_(7797136886).jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Al_fanar_harees_%287797136886%29.jpg",
+  "author": "Krista",
+  "license": "CC BY 2.0"
+ },
+ "jareesh": {
+  "file": "sources/saudi/images/jareesh.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%B4.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%B4.jpg",
+  "author": "Tmogarry",
+  "license": "CC BY-SA 4.0"
+ },
+ "dagoos": {
+  "file": "sources/saudi/images/dagoos.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Dakkous.JPG",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dakkous.JPG",
+  "author": "Miansari66",
+  "license": "CC0"
+ },
+ "maqluba-chicken": {
+  "file": "sources/saudi/images/maqluba-chicken.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC_%D8%A8%D8%A7%D9%84%D8%A8%D8%A7%D8%B0%D9%86%D8%AC%D8%A7%D9%86.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC_%D8%A8%D8%A7%D9%84%D8%A8%D8%A7%D8%B0%D9%86%D8%AC%D8%A7%D9%86.jpg",
+  "author": "هتلر بغداد",
+  "license": "CC0"
+ },
+ "muqashqash": {
+  "file": "sources/saudi/images/muqashqash.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%A8%D9%82_%D8%A7%D9%84%D9%85%D9%82%D8%B4%D9%88%D8%B4_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%D8%B7%D8%A8%D9%82_%D8%A7%D9%84%D9%85%D9%82%D8%B4%D9%88%D8%B4_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A.jpg",
+  "author": "هيئة فنون الطهي في السعودية",
+  "license": "CC BY-SA 4.0"
+ }
+}
