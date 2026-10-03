@@ -27,9 +27,13 @@ from pydantic import BaseModel, Field
 
 HERE = Path(__file__).resolve().parent
 GALLERY = HERE.parent / "gallery"
-DB_URL = os.environ.get("HK_DB_URL", "postgresql://hk_api:hk_api_dev_pw@127.0.0.1:5440/health_kitchen")
+CONFIG_FILE = HERE / "config.json"   # written by the Admin page (database connection); not in git
+_file_cfg = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
+DB_URL = _file_cfg.get("db_url") or os.environ.get("HK_DB_URL", "postgresql://hk_api:hk_api_dev_pw@127.0.0.1:5440/health_kitchen")
 SESSION_DAYS = 30
 pool = ConnectionPool(DB_URL, min_size=1, max_size=8, open=True)
+DEFAULT_CONFIG = {"defaults": {"lang": "", "theme": "", "units": "", "plan": ""}, "allow_signups": True, "session_days": 30,
+                  "announcement": {"active": False, "level": "info", "text": {}}, "hidden_sources": [], "hidden_langs": []}
 app = FastAPI(title="Health Kitchen API")
 # the app may also be opened from another local port (e.g. a plain file server); allow those pages to call the API
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
@@ -100,9 +104,17 @@ class Login(BaseModel):
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 
+def app_config(c) -> dict:
+    cfg = json.loads(json.dumps(DEFAULT_CONFIG))
+    for row in c.execute("SELECT key, value FROM hk.app_config").fetchall():
+        cfg[row["key"]] = row["value"]
+    return cfg
+
+
 def new_session(c, uid):
     tok = secrets.token_urlsafe(32)
-    c.execute("SELECT hk.start_session(%s, %s, %s)", (uid, token_hash(tok), SESSION_DAYS))
+    days = int(app_config(c).get("session_days") or SESSION_DAYS)
+    c.execute("SELECT hk.start_session(%s, %s, %s)", (uid, token_hash(tok), max(1, min(days, 365))))
     return tok
 
 
@@ -111,6 +123,8 @@ def signup(body: SignUp):
     if not EMAIL_RE.match(body.email):
         raise HTTPException(400, "Enter a valid email address")
     with as_user() as c:
+        if not app_config(c).get("allow_signups", True):
+            raise HTTPException(403, "New sign-ups are closed")
         try:
             row = c.execute("SELECT * FROM hk.create_user(%s, %s, %s)",
                             (body.email.strip(), hash_password(body.password), body.name.strip())).fetchone()
@@ -266,6 +280,113 @@ def admin_delete(uid: str, user=Depends(admin)):
     with as_user(user["id"], "admin") as c:
         c.execute("DELETE FROM hk.users WHERE id = %s", (uid,))
     return {"ok": True}
+
+
+# ---------- app settings and database (Admin page) ----------
+@app.get("/api/config")
+def public_config():
+    with as_user() as c:
+        cfg = app_config(c)
+    return {k: cfg[k] for k in ("defaults", "allow_signups", "announcement", "hidden_sources", "hidden_langs")}
+
+
+@app.get("/api/admin/config")
+def get_config(user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        return app_config(c)
+
+
+@app.put("/api/admin/config")
+def put_config(body: dict, user=Depends(admin)):
+    allowed = set(DEFAULT_CONFIG)
+    with as_user(user["id"], "admin") as c:
+        for k, v in body.items():
+            if k not in allowed:
+                raise HTTPException(400, f"Unknown setting: {k}")
+            if k == "session_days" and not (isinstance(v, int) and 1 <= v <= 365):
+                raise HTTPException(400, "Session length must be 1 to 365 days")
+            c.execute("""INSERT INTO hk.app_config (key, value, updated_at) VALUES (%s, %s, now())
+                         ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value, updated_at = now()""", (k, json.dumps(v)))
+    return {"ok": True}
+
+
+def mask_url(url: str) -> str:
+    return re.sub(r"//([^:/@]+):[^@]*@", r"//\1:•••@", url)
+
+
+def db_info(conn) -> dict:
+    conn.row_factory = dict_row
+    r = conn.execute("""SELECT current_database() AS database, current_user AS "user", inet_server_addr()::text AS host,
+                        inet_server_port() AS port, version() AS version, pg_size_pretty(pg_database_size(current_database())) AS size""").fetchone()
+    r["schema_ready"] = conn.execute("SELECT to_regclass('hk.users') IS NOT NULL AS ok").fetchone()["ok"]
+    return r
+
+
+@app.get("/api/admin/database")
+def database_status(user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        info = db_info(c)
+        counts = {t: c.execute(f"SELECT count(*) AS n FROM hk.{t}").fetchone()["n"] for t in ("users", "user_state", "weights", "submissions")}
+    return {**info, "url": mask_url(DB_URL), "counts": counts, "pool": {"min": pool.min_size, "max": pool.max_size},
+            "supported": ["PostgreSQL 13+ (local, Docker, Supabase, Neon, AWS RDS, Azure, Google Cloud SQL)"]}
+
+
+class DbUrl(BaseModel):
+    url: str = Field(min_length=12, max_length=500)
+
+
+def check_url(url: str):
+    if not re.match(r"^postgres(ql)?://", url):
+        raise HTTPException(400, "Only PostgreSQL connection URLs are supported (postgresql://user:password@host:port/database)")
+
+
+@app.post("/api/admin/database/test")
+def database_test(body: DbUrl, user=Depends(admin)):
+    check_url(body.url)
+    try:
+        with psycopg.connect(body.url, connect_timeout=8) as conn:
+            info = db_info(conn)
+    except Exception as e:  # noqa: BLE001
+        raise HTTPException(400, f"Could not connect: {str(e).splitlines()[0][:200]}")
+    return info
+
+
+@app.post("/api/admin/database/setup")
+def database_setup(body: DbUrl, user=Depends(admin)):
+    """Create the Health Kitchen tables, security rules and functions on a database (needs an owner/admin URL)."""
+    check_url(body.url)
+    try:
+        with psycopg.connect(body.url, connect_timeout=8, autocommit=True) as conn:
+            conn.execute((HERE / "schema.sql").read_text())
+            info = db_info(conn)
+    except Exception as e:  # noqa: BLE001
+        raise HTTPException(400, f"Setup failed: {str(e).splitlines()[0][:200]}")
+    return info
+
+
+@app.put("/api/admin/database")
+def database_switch(body: DbUrl, user=Depends(admin)):
+    """Point the server at another database (the API user's URL). The current admin must exist there to keep access."""
+    global pool, DB_URL
+    check_url(body.url)
+    try:
+        with psycopg.connect(body.url, connect_timeout=8) as conn:
+            info = db_info(conn)
+            if not info["schema_ready"]:
+                raise HTTPException(400, "Tables are missing on that database. Run 'Set up tables' first.")
+    except HTTPException:
+        raise
+    except Exception as e:  # noqa: BLE001
+        raise HTTPException(400, f"Could not connect: {str(e).splitlines()[0][:200]}")
+    old = pool
+    pool = ConnectionPool(body.url, min_size=1, max_size=8, open=True)
+    DB_URL = body.url
+    cfg = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
+    cfg["db_url"] = body.url
+    CONFIG_FILE.write_text(json.dumps(cfg, indent=1))
+    os.chmod(CONFIG_FILE, 0o600)
+    old.close()
+    return {"ok": True, "url": mask_url(body.url)}
 
 
 # ---------- community recipes (published after an admin approves them) ----------

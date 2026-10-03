@@ -204,3 +204,13 @@ $$ SELECT s.id, s.recipe, split_part(u.name, ' ', 1), s.reviewed_at FROM hk.subm
    WHERE s.status = 'approved' ORDER BY s.reviewed_at $$;
 GRANT EXECUTE ON FUNCTION hk.approved_recipes() TO hk_api;
 REVOKE EXECUTE ON FUNCTION hk.approved_recipes() FROM PUBLIC;
+
+-- ---------- v5: app settings managed from the Admin page ----------
+CREATE TABLE IF NOT EXISTS hk.app_config (key text PRIMARY KEY, value jsonb NOT NULL, updated_at timestamptz NOT NULL DEFAULT now());
+ALTER TABLE hk.app_config ENABLE ROW LEVEL SECURITY;
+ALTER TABLE hk.app_config FORCE ROW LEVEL SECURITY;
+DROP POLICY IF EXISTS config_read ON hk.app_config;
+CREATE POLICY config_read ON hk.app_config FOR SELECT USING (true);
+DROP POLICY IF EXISTS config_write ON hk.app_config;
+CREATE POLICY config_write ON hk.app_config FOR ALL USING (hk.is_admin()) WITH CHECK (hk.is_admin());
+GRANT SELECT, INSERT, UPDATE, DELETE ON hk.app_config TO hk_api;

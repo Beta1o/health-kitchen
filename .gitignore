@@ -15,3 +15,4 @@ sources/saudi/work_*/
 translations/catfix/h/
 nutrition/usda.db
 nutrition/sr.zip
+server/config.json

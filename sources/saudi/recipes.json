@@ -35282,5 +35282,4155 @@
   "cook_time": "PT25M",
   "total_time": "PT2H",
   "translation_of": "luqaimat-qar"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "bulool-makhamir",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13066-1.html",
+  "lang": "ar",
+  "title": "بلول المخامير",
+  "description": "المخامير قطع عجين صغيرة مختمرة من نجد تُغمس في البلول، وهو شراب دافئ من الماء والقرفة واللومي والسكر مع قليل من السمن. في هذه النسخة تُخبز المخامير في الفرن بدقيق نصفه بر بدل قليها في الزيت، ويُخفَّض سكر البلول إلى أقل من النصف ويُستبدل الزبد بقليل من السمن.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "5–6 قطع مخامير صغيرة مع البلول (حوالي 110 غ)",
+  "category": "Desserts",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven",
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 272,
+   "protein_g": 8.2,
+   "carbohydrates_g": 48.5,
+   "fat_g": 5.8,
+   "cholesterol_mg": 36,
+   "sodium_mg": 159,
+   "potassium_mg": 189,
+   "phosphorus_mg": 171,
+   "calcium_mg": 85,
+   "fiber_g": 4.5,
+   "added_sugar_g": 8.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "عجينة",
+    "150 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "عجينة",
+    "150 غ دقيق أبيض"
+   ],
+   [
+    "عجينة",
+    "2 ملعقة كبيرة حليب بودرة خالي الدسم (15 غ)"
+   ],
+   [
+    "عجينة",
+    "1 بيضة (50 غ)"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة صغيرة خميرة فورية (5 غ)"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة صغيرة سكر (5 غ)"
+   ],
+   [
+    "عجينة",
+    "½ ملعقة صغيرة بيكنج باودر (2 غ)"
+   ],
+   [
+    "عجينة",
+    "¼ ملعقة صغيرة ملح (1 غ)"
+   ],
+   [
+    "عجينة",
+    "2 ملعقة صغيرة زيت زيتون (10 مل) للعجينة + 1 ملعقة صغيرة (5 مل) للصينية"
+   ],
+   [
+    "عجينة",
+    "حوالي 170 مل ماء دافئ"
+   ],
+   [
+    "البلول",
+    "600 مل ماء"
+   ],
+   [
+    "البلول",
+    "1½ ملعقة كبيرة قرفة مطحونة (10 غ)"
+   ],
+   [
+    "البلول",
+    "3 حبات لومي (ليمون أسود) مثقوبة"
+   ],
+   [
+    "البلول",
+    "3 ملاعق كبيرة سكر (45 غ)"
+   ],
+   [
+    "البلول",
+    "2 ملعقة صغيرة سمن (10 غ)"
+   ],
+   [
+    "البلول",
+    "رشة ملح (0.5 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين والحليب البودرة والخميرة والسكر والبيكنج باودر والملح في وعاء."
+   ],
+   [
+    null,
+    "أضف البيضة وزيت العجينة، ثم الماء الدافئ تدريجياً، واعجن 8 دقائق حتى تحصل على عجينة طرية لا تلتصق باليد."
+   ],
+   [
+    null,
+    "غطِّ العجينة واتركها في مكان دافئ ساعة حتى يتضاعف حجمها."
+   ],
+   [
+    null,
+    "سخّن الفرن على 200°م وادهن صينية بزيت الصينية أو بطّنها بورق الزبدة."
+   ],
+   [
+    null,
+    "افرد العجينة بسمك 1 سم وقطّعها دوائر صغيرة بقطر 4 سم (أو كوّرها كرات صغيرة)، ورصّها في الصينية واتركها 10 دقائق ترتاح."
+   ],
+   [
+    null,
+    "اخبز المخامير 12–15 دقيقة حتى تنتفخ ويصبح لونها ذهبياً، مع تشغيل الشواية العلوية في آخر دقيقتين إن رغبت."
+   ],
+   [
+    null,
+    "للبلول: ضع الماء على النار وأضف القرفة واللومي والسكر والملح وحرّك حتى يذوب السكر."
+   ],
+   [
+    null,
+    "أضف السمن واترك البلول يغلي على نار هادئة 15 دقيقة، ثم ارفع اللومي واسكب البلول في صحن عميق."
+   ],
+   [
+    null,
+    "قدّم المخامير دافئة بجانب البلول الساخن لتُغمس فيه قطعة قطعة، أو صبّ البلول فوقها قبل التقديم مباشرة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: المخامير مخبوزة في الفرن لا مقلية، ونصف الدقيق بر كامل، وسكر البلول 45 غ بدل حوالي 150 غ، وملعقتان صغيرتان سمن بدل 50 غ زبدة، وملح البلول رشة بدل ملعقتين."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر والحليب البودرة يرفعان الفوسفور قليلاً؛ يمكن استخدام الدقيق الأبيض كله والاستغناء عن الحليب البودرة، مع الالتزام بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 48 غ كربوهيدرات؛ اغمس المخامير في البلول غمساً خفيفاً بدل نقعها، واكتفِ بثلاث قطع مع قهوة عربية بلا سكر."
+   ],
+   [
+    null,
+    "مناسبة لـ: صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موقع صحة وهنا، موقع محتويات"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H15M",
+  "cook_time": "PT30M",
+  "total_time": "PT1H45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "bulool-makhamir-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13066-1.html",
+  "lang": "en",
+  "title": "Bulool Al-Makhamir",
+  "description": "Makhamir are small pieces of risen dough from Najd that are dipped in bulool, a warm syrup of water, cinnamon, dried lime (loomi) and sugar with a little ghee. Here the makhamir are baked instead of fried, half the flour is whole wheat, the bulool sugar is cut by more than half and the butter is swapped for a little ghee.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "5–6 small makhamir with bulool (about 110 g)",
+  "category": "Desserts",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven",
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 272,
+   "protein_g": 8.2,
+   "carbohydrates_g": 48.5,
+   "fat_g": 5.8,
+   "cholesterol_mg": 36,
+   "sodium_mg": 159,
+   "potassium_mg": 189,
+   "phosphorus_mg": 171,
+   "calcium_mg": 85,
+   "fiber_g": 4.5,
+   "added_sugar_g": 8.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "Dough",
+    "150 g whole-wheat flour"
+   ],
+   [
+    "Dough",
+    "150 g white flour"
+   ],
+   [
+    "Dough",
+    "2 tbsp skimmed milk powder (15 g)"
+   ],
+   [
+    "Dough",
+    "1 egg (50 g)"
+   ],
+   [
+    "Dough",
+    "1 tsp instant yeast (5 g)"
+   ],
+   [
+    "Dough",
+    "1 tsp sugar (5 g)"
+   ],
+   [
+    "Dough",
+    "½ tsp baking powder (2 g)"
+   ],
+   [
+    "Dough",
+    "¼ tsp salt (1 g)"
+   ],
+   [
+    "Dough",
+    "2 tsp olive oil (10 ml) for the dough + 1 tsp (5 ml) for the tray"
+   ],
+   [
+    "Dough",
+    "about 170 ml warm water"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "600 ml water"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "1½ tbsp ground cinnamon (10 g)"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "3 dried limes (loomi), pierced"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "3 tbsp sugar (45 g)"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "2 tsp ghee (10 g)"
+   ],
+   [
+    "Bulool (spiced syrup)",
+    "a pinch of salt (0.5 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours, the milk powder, yeast, sugar, baking powder and salt in a bowl."
+   ],
+   [
+    null,
+    "Add the egg and the dough oil, then the warm water little by little, and knead for 8 minutes to a soft dough that does not stick to your hands."
+   ],
+   [
+    null,
+    "Cover the dough and leave it in a warm place for 1 hour until doubled."
+   ],
+   [
+    null,
+    "Heat the oven to 200 °C and oil a baking tray with the tray oil or line it with baking paper."
+   ],
+   [
+    null,
+    "Roll the dough 1 cm thick and cut small 4 cm rounds (or roll small balls), set them on the tray and rest them for 10 minutes."
+   ],
+   [
+    null,
+    "Bake the makhamir for 12–15 minutes until puffed and golden, using the top grill for the last 2 minutes if you like."
+   ],
+   [
+    null,
+    "For the bulool: put the water on the heat, add the cinnamon, dried limes, sugar and salt and stir until the sugar dissolves."
+   ],
+   [
+    null,
+    "Add the ghee and simmer the bulool gently for 15 minutes, then lift out the dried limes and pour the bulool into a deep dish."
+   ],
+   [
+    null,
+    "Serve the warm makhamir next to the hot bulool so each piece can be dipped, or pour the bulool over them just before serving."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: the makhamir are baked, not fried; half the flour is whole wheat; the bulool uses 45 g sugar instead of about 150 g, 2 tsp ghee instead of 50 g butter, and a pinch of salt instead of 2 tsp."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour and milk powder add some phosphorus; you can use all white flour and leave out the milk powder, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 48 g carbohydrate; dip the makhamir lightly rather than soaking them, and have 3 pieces with unsweetened Arabic coffee."
+   ],
+   [
+    null,
+    "Suitable for: heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sahha wa Hana, Mhtwyat"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H15M",
+  "cook_time": "PT30M",
+  "total_time": "PT1H45M",
+  "translation_of": "bulool-makhamir"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "sahlab",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15013-1.html",
+  "lang": "ar",
+  "title": "السحلب الحجازي",
+  "description": "السحلب الحجازي مشروب شتوي من مكة وجدة والمدينة، يُطبخ فيه الحليب مع ماء الزنجبيل والهيل ويُكثّف بدقيق الأرز ويُعطّر بماء الورد ويُزيّن باللوز. هنا يُستخدم حليب قليل الدسم بدل الحليب البودرة كامل الدسم، مع نصف كمية السكر المعتادة وكمية لوز أقل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "كوب دافئ (200 مل)",
+  "category": "Beverages",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 147,
+   "protein_g": 6.3,
+   "carbohydrates_g": 21.9,
+   "fat_g": 4.1,
+   "cholesterol_mg": 7,
+   "sodium_mg": 62,
+   "potassium_mg": 260,
+   "phosphorus_mg": 164,
+   "calcium_mg": 188,
+   "fiber_g": 0.9,
+   "added_sugar_g": 6.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "800 مل حليب قليل الدسم 1%"
+   ],
+   [
+    null,
+    "400 مل ماء"
+   ],
+   [
+    null,
+    "15 غ زنجبيل طازج مبشور"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة هيل مطحون (1 غ) + ½ ملعقة صغيرة للتزيين"
+   ],
+   [
+    null,
+    "50 غ دقيق أرز (أرز مصري مطحون ناعماً)"
+   ],
+   [
+    null,
+    "3 ملاعق كبيرة سكر (40 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة ماء ورد"
+   ],
+   [
+    null,
+    "30 غ لوز مقشر، مطحون نصفه ومجروش نصفه"
+   ],
+   [
+    null,
+    "رشة قرفة أو زنجبيل مطحون للتزيين"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اغلِ الماء مع الزنجبيل المبشور والهيل على نار متوسطة 15–20 دقيقة، ثم صفِّه واحتفظ بماء الزنجبيل."
+   ],
+   [
+    null,
+    "في قدر آخر اخلط الحليب البارد مع دقيق الأرز والسكر بالمضرب حتى لا يبقى أي تكتل."
+   ],
+   [
+    null,
+    "أضف ماء الزنجبيل وضع القدر على نار هادئة مع التحريك المستمر حتى يغلي ويبدأ بالتكثف، حوالي 8–10 دقائق."
+   ],
+   [
+    null,
+    "أضف اللوز المطحون وماء الورد وحرّك دقيقتين أخريين حتى يصبح القوام كريمياً."
+   ],
+   [
+    null,
+    "صبّه في أكواب دافئة وزيّنه باللوز المجروش ورشة قرفة أو زنجبيل وقدّمه ساخناً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: حليب سائل قليل الدسم بدل الحليب البودرة كامل الدسم، و40 غ سكر بدل حوالي 100 غ، و30 غ لوز بدل حوالي 140 غ."
+   ],
+   [
+    null,
+    "إن توفّر لديك مسحوق السحلب الأصلي (جذور الأوركيد) من العطار فاستخدم ملعقة كبيرة منه بدل دقيق الأرز، وذرّه تدريجياً على الحليب الساخن مع التحريك حتى لا يتكتل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الحليب واللوز من مصادر الفوسفور والبوتاسيوم؛ يمكن استبدال نصف الحليب بماء أو بحليب نباتي غير مدعّم بالفوسفات، والاكتفاء بنصف كوب."
+   ],
+   [
+    null,
+    "لمرضى السكري: الكوب فيه حوالي 22 غ كربوهيدرات؛ قلّل السكر إلى ملعقة كبيرة أو استخدم محلّياً بلا سعرات، واشربه مع وجبة لا وحده."
+   ],
+   [
+    null,
+    "مناسبة لـ: صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، موقع صحة وهنا"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "sahlab-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15013-1.html",
+  "lang": "en",
+  "title": "Hijazi Sahlab",
+  "description": "Hijazi sahlab is a winter drink from Makkah, Jeddah and Madinah: milk cooked with ginger water and cardamom, thickened with ground rice, scented with rose water and topped with almonds. This version uses low-fat milk instead of full-fat milk powder, half the usual sugar and fewer almonds.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 warm mug (200 ml)",
+  "category": "Beverages",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 147,
+   "protein_g": 6.3,
+   "carbohydrates_g": 21.9,
+   "fat_g": 4.1,
+   "cholesterol_mg": 7,
+   "sodium_mg": 62,
+   "potassium_mg": 260,
+   "phosphorus_mg": 164,
+   "calcium_mg": 188,
+   "fiber_g": 0.9,
+   "added_sugar_g": 6.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "800 ml low-fat (1%) milk"
+   ],
+   [
+    null,
+    "400 ml water"
+   ],
+   [
+    null,
+    "15 g fresh ginger, grated"
+   ],
+   [
+    null,
+    "½ tsp ground cardamom (1 g) + ½ tsp to garnish"
+   ],
+   [
+    null,
+    "50 g rice flour (finely ground Egyptian rice)"
+   ],
+   [
+    null,
+    "3 tbsp sugar (40 g)"
+   ],
+   [
+    null,
+    "1 tbsp rose water"
+   ],
+   [
+    null,
+    "30 g blanched almonds, half ground and half chopped"
+   ],
+   [
+    null,
+    "a pinch of ground cinnamon or ginger to garnish"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Boil the water with the grated ginger and cardamom over medium heat for 15–20 minutes, then strain and keep the ginger water."
+   ],
+   [
+    null,
+    "In another pan whisk the cold milk with the rice flour and sugar until there are no lumps."
+   ],
+   [
+    null,
+    "Add the ginger water and cook over low heat, stirring all the time, until it boils and starts to thicken, about 8–10 minutes."
+   ],
+   [
+    null,
+    "Add the ground almonds and rose water and stir for 2 more minutes until creamy."
+   ],
+   [
+    null,
+    "Pour into warm mugs, top with the chopped almonds and a pinch of cinnamon or ginger and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: liquid low-fat milk instead of full-fat milk powder, 40 g sugar instead of about 100 g, and 30 g almonds instead of about 140 g."
+   ],
+   [
+    null,
+    "If you can get pure salep powder (orchid root) from a spice seller, use 1 tbsp of it instead of the rice flour and sprinkle it slowly over the hot milk while whisking so it does not form lumps."
+   ],
+   [
+    null,
+    "Kidney tip: milk and almonds are sources of phosphorus and potassium; you can replace half the milk with water or a plant milk without added phosphate, and keep to half a mug."
+   ],
+   [
+    null,
+    "Diabetes tip: one mug has about 22 g carbohydrate; cut the sugar to 1 tbsp or use a zero-calorie sweetener, and drink it with a meal rather than on its own."
+   ],
+   [
+    null,
+    "Suitable for: heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Sahha wa Hana"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "translation_of": "sahlab"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "shampain",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-12919-1.html",
+  "lang": "ar",
+  "title": "مشروب التفاح الفوار بالنعناع",
+  "description": "مشروب ضيافة سعودي بارد بلا كحول، يُخلط فيه عصير التفاح مع الماء الفوار وشرائح التفاح والبرتقال والليمون وأغصان النعناع، وعُرف في الفنادق والمناسبات منذ السبعينيات. هنا يُستخدم عصير تفاح بلا سكر مضاف بنسبة الثلث فقط، مع ماء فوار بدل المشروبات الغازية المحلّاة ومشروبات الشعير المنكّهة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "كأس (250 مل)",
+  "category": "Beverages",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Quick",
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "No Cooking"
+  ],
+  "nutrients": {
+   "calories": 57,
+   "protein_g": 0.4,
+   "carbohydrates_g": 14.4,
+   "fat_g": 0.2,
+   "cholesterol_mg": 0,
+   "sodium_mg": 4,
+   "potassium_mg": 149,
+   "phosphorus_mg": 12,
+   "calcium_mg": 19,
+   "fiber_g": 1.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "400 مل عصير تفاح طبيعي بلا سكر مضاف، مبرّد"
+   ],
+   [
+    null,
+    "800 مل ماء فوار (صودا) غير محلّى، مبرّد"
+   ],
+   [
+    null,
+    "1 تفاحة حمراء أو خضراء (150 غ) مقطعة شرائح رفيعة بقشرها"
+   ],
+   [
+    null,
+    "1 برتقالة (130 غ) مقطعة شرائح بقشرها"
+   ],
+   [
+    null,
+    "½ ليمونة (30 غ) مقطعة شرائح"
+   ],
+   [
+    null,
+    "حزمة صغيرة نعناع طازج بأغصانه (10 غ)"
+   ],
+   [
+    null,
+    "مكعبات ثلج"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ضع شرائح التفاح والبرتقال والليمون وأغصان النعناع في إبريق كبير، واضغط النعناع قليلاً بالملعقة ليفوح."
+   ],
+   [
+    null,
+    "أضف عصير التفاح وحرّك برفق، وضع الإبريق في الثلاجة 30 دقيقة حتى تتشرب النكهات."
+   ],
+   [
+    null,
+    "قبل التقديم مباشرة أضف الماء الفوار المبرّد والثلج وحرّك حركة خفيفة حتى لا تذهب الفقاعات."
+   ],
+   [
+    null,
+    "صبّه في كؤوس مع بعض شرائح الفاكهة وورق النعناع وقدّمه فوراً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: عصير تفاح بلا سكر مضاف بنسبة الثلث فقط، وماء فوار غير محلّى بدل المشروبات الغازية ومشروبات الشعير المنكّهة المحلّاة؛ فلا سكر مضاف في الكأس."
+   ],
+   [
+    null,
+    "لمرضى الكلى: البرتقال وعصير التفاح يحتويان على البوتاسيوم؛ لحمية قليلة البوتاسيوم استغنِ عن البرتقال وزد شرائح التفاح والليمون، واكتفِ بكأس واحدة، واحسب الكمية ضمن سوائل اليوم."
+   ],
+   [
+    null,
+    "لمرضى السكري: الكأس فيها حوالي 14 غ كربوهيدرات من سكر الفاكهة؛ يمكن جعل العصير ربع الإبريق فقط وزيادة الماء الفوار."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين، نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، شركة راوخ للعصائر (قصة المشروب)، موقع Chocolates & Chai"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "shampain-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-12919-1.html",
+  "lang": "en",
+  "title": "Sparkling Apple and Mint Drink",
+  "description": "A cold, alcohol-free Saudi hospitality drink of apple juice mixed with sparkling water, slices of apple, orange and lemon and sprigs of mint, served in hotels and at gatherings since the 1970s. This version uses unsweetened apple juice for only a third of the jug and plain sparkling water instead of sweet fizzy drinks and flavoured malt drinks.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 glass (250 ml)",
+  "category": "Beverages",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Quick",
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "No Cooking"
+  ],
+  "nutrients": {
+   "calories": 57,
+   "protein_g": 0.4,
+   "carbohydrates_g": 14.4,
+   "fat_g": 0.2,
+   "cholesterol_mg": 0,
+   "sodium_mg": 4,
+   "potassium_mg": 149,
+   "phosphorus_mg": 12,
+   "calcium_mg": 19,
+   "fiber_g": 1.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "400 ml unsweetened apple juice, chilled"
+   ],
+   [
+    null,
+    "800 ml plain sparkling water (soda water), chilled"
+   ],
+   [
+    null,
+    "1 red or green apple (150 g), thinly sliced with the peel"
+   ],
+   [
+    null,
+    "1 orange (130 g), sliced with the peel"
+   ],
+   [
+    null,
+    "½ lemon (30 g), sliced"
+   ],
+   [
+    null,
+    "a small bunch of fresh mint sprigs (10 g)"
+   ],
+   [
+    null,
+    "ice cubes"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Put the apple, orange and lemon slices and the mint sprigs in a large jug and press the mint lightly with a spoon to release its aroma."
+   ],
+   [
+    null,
+    "Add the apple juice, stir gently and chill the jug for 30 minutes so the flavours infuse."
+   ],
+   [
+    null,
+    "Just before serving add the chilled sparkling water and ice and stir very gently so the bubbles stay."
+   ],
+   [
+    null,
+    "Pour into glasses with some fruit slices and mint leaves and serve at once."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: unsweetened apple juice for only a third of the jug, and plain sparkling water instead of sweet fizzy drinks and sweetened flavoured malt drinks, so there is no added sugar in the glass."
+   ],
+   [
+    null,
+    "Kidney tip: orange and apple juice contain potassium; for a low-potassium diet leave out the orange and use more apple and lemon slices, keep to one glass and count it in your daily fluid allowance."
+   ],
+   [
+    null,
+    "Diabetes tip: one glass has about 14 g carbohydrate from fruit sugar; you can make the juice only a quarter of the jug and add more sparkling water."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians, a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Rauch Fruchtsäfte (story of the drink), Chocolates & Chai"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "translation_of": "shampain"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "dibyaza",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-9839-1.html",
+  "lang": "ar",
+  "title": "الدبيازة الحجازية",
+  "description": "الدبيازة حلوى مكية حجازية تُقدَّم على فطور صباح عيد الفطر، تُطبخ فيها عجينة المشمش (قمر الدين) مع الهيل والقرفة والقرنفل حتى تثخن كالمربى، ثم تُضاف إليها الفواكه المجففة المنقوعة والمكسرات. في هذه النسخة لا يُضاف سكر فوق حلاوة قمر الدين والفواكه، ويُقلَّل السمن إلى 2½ ملعقة صغيرة للقدر كله (حوالي 1 غ للحصة)، مع كمية مكسرات معتدلة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "صحن صغير (حوالي 80 غ)",
+  "category": "Desserts",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 152,
+   "protein_g": 2.3,
+   "carbohydrates_g": 29.9,
+   "fat_g": 4.1,
+   "cholesterol_mg": 3,
+   "sodium_mg": 4,
+   "potassium_mg": 407,
+   "phosphorus_mg": 55,
+   "calcium_mg": 35,
+   "fiber_g": 3.4,
+   "added_sugar_g": 3.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 غ قمر الدين (عجينة المشمش) مقطع قطعاً صغيرة"
+   ],
+   [
+    null,
+    "700 مل ماء ساخن لنقع قمر الدين"
+   ],
+   [
+    null,
+    "100 غ مشمش مجفف"
+   ],
+   [
+    null,
+    "80 غ تين مجفف مقطع أرباعاً"
+   ],
+   [
+    null,
+    "80 غ تمر منزوع النوى مقطع أنصافاً"
+   ],
+   [
+    null,
+    "40 غ زبيب"
+   ],
+   [
+    null,
+    "30 غ لوز مقشر"
+   ],
+   [
+    null,
+    "20 غ فستق حلبي مقشر"
+   ],
+   [
+    null,
+    "15 غ صنوبر"
+   ],
+   [
+    null,
+    "2½ ملعقة صغيرة سمن (12 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة هيل حب مرضوض"
+   ],
+   [
+    null,
+    "2 عود قرفة"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة قرنفل (مسمار)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "انقع قمر الدين في الماء الساخن ساعة على الأقل حتى يلين، وانقع المشمش والتين والزبيب في ماء ساخن آخر 30 دقيقة ثم صفّها."
+   ],
+   [
+    null,
+    "انقع اللوز والفستق في ماء مغلي 10 دقائق ثم قشّرهما، وحمّص الصنوبر في مقلاة جافة حتى يتذهب."
+   ],
+   [
+    null,
+    "اهرس قمر الدين بماء نقعه بالملعقة أو بالخلاط حتى يصبح سائلاً متجانساً."
+   ],
+   [
+    null,
+    "ذوّب السمن في قدر وأضف الهيل والقرفة والقرنفل وقلّبها دقيقة حتى تفوح."
+   ],
+   [
+    null,
+    "أضف خليط قمر الدين واتركه يغلي ثم خفّف النار واطبخه 15–20 دقيقة مع التحريك حتى يثخن قليلاً."
+   ],
+   [
+    null,
+    "أضف المشمش والتين والزبيب والتمر واطبخ 10–15 دقيقة أخرى على نار هادئة مع التحريك حتى يصبح القوام كثيفاً كالمربى الطري."
+   ],
+   [
+    null,
+    "أطفئ النار وأضف اللوز والفستق والصنوبر وقلّب، ثم ارفع أعواد القرفة."
+   ],
+   [
+    null,
+    "قدّمها دافئة أو باردة في صحون صغيرة، وتُحفظ في علبة محكمة في الثلاجة حتى أسبوعين."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لا سكر مضاف فوق قمر الدين (الوصفة التقليدية فيها حوالي 3 أكواب سكر)، و12 غ سمن بدل كوبين، ومكسرات بكمية معتدلة، وحصة صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الفواكه المجففة (المشمش والتين والتمر والزبيب) والمكسرات غنية جداً بالبوتاسيوم؛ اكتفِ بملعقتين كبيرتين في المناسبة، وتجنّبها إن كانت حميتك قليلة البوتاسيوم."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 30 غ كربوهيدرات معظمها سكر الفاكهة؛ تناول نصف حصة مع بيضة أو جبن قليل الدسم في فطور العيد بدل تناولها وحدها."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين، نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (دبيازة)، ويكيبيديا الإنجليزية (المطبخ السعودي)"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT45M",
+  "total_time": "PT2H15M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "dibyaza-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-9839-1.html",
+  "lang": "en",
+  "title": "Hijazi Dibyaza",
+  "description": "Dibyaza is a Makkah (Hijazi) sweet served at breakfast on the morning of Eid al-Fitr: apricot paste (qamar al-din) is cooked with cardamom, cinnamon and cloves until thick like jam, then soaked dried fruit and nuts are added. This version adds no sugar beyond the sweetness of the apricot paste and fruit, uses 2½ tsp ghee for the whole pot (about 1 g per portion) and a moderate amount of nuts.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "1 small dish (about 80 g)",
+  "category": "Desserts",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 152,
+   "protein_g": 2.3,
+   "carbohydrates_g": 29.9,
+   "fat_g": 4.1,
+   "cholesterol_mg": 3,
+   "sodium_mg": 4,
+   "potassium_mg": 407,
+   "phosphorus_mg": 55,
+   "calcium_mg": 35,
+   "fiber_g": 3.4,
+   "added_sugar_g": 3.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 g qamar al-din (apricot paste), cut into small pieces"
+   ],
+   [
+    null,
+    "700 ml hot water to soak the qamar al-din"
+   ],
+   [
+    null,
+    "100 g dried apricots"
+   ],
+   [
+    null,
+    "80 g dried figs, quartered"
+   ],
+   [
+    null,
+    "80 g pitted dates, halved"
+   ],
+   [
+    null,
+    "40 g raisins"
+   ],
+   [
+    null,
+    "30 g blanched almonds"
+   ],
+   [
+    null,
+    "20 g shelled pistachios"
+   ],
+   [
+    null,
+    "15 g pine nuts"
+   ],
+   [
+    null,
+    "2½ tsp ghee (12 g)"
+   ],
+   [
+    null,
+    "1 tsp cardamom pods, lightly crushed"
+   ],
+   [
+    null,
+    "2 cinnamon sticks"
+   ],
+   [
+    null,
+    "½ tsp cloves"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Soak the qamar al-din in the hot water for at least 1 hour until soft, and soak the apricots, figs and raisins in more hot water for 30 minutes, then drain them."
+   ],
+   [
+    null,
+    "Soak the almonds and pistachios in boiling water for 10 minutes and slip off the skins; toast the pine nuts in a dry pan until golden."
+   ],
+   [
+    null,
+    "Mash the qamar al-din with its soaking water with a spoon or blender until smooth and liquid."
+   ],
+   [
+    null,
+    "Melt the ghee in a pot, add the cardamom, cinnamon and cloves and stir for 1 minute until fragrant."
+   ],
+   [
+    null,
+    "Add the qamar al-din mixture, bring to the boil, then lower the heat and cook for 15–20 minutes, stirring, until it thickens a little."
+   ],
+   [
+    null,
+    "Add the apricots, figs, raisins and dates and cook gently for another 10–15 minutes, stirring, until thick like a soft jam."
+   ],
+   [
+    null,
+    "Turn off the heat, stir in the almonds, pistachios and pine nuts and remove the cinnamon sticks."
+   ],
+   [
+    null,
+    "Serve warm or cold in small dishes; it keeps in a sealed box in the fridge for up to 2 weeks."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: no sugar added beyond the qamar al-din (the traditional recipe uses about 3 glasses of sugar), 12 g ghee instead of 2 glasses, a moderate amount of nuts, and a small portion."
+   ],
+   [
+    null,
+    "Kidney tip: dried fruit (apricots, figs, dates, raisins) and nuts are very high in potassium; keep to 2 tablespoons on the day, and avoid it if you are on a low-potassium diet."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 30 g carbohydrate, mostly fruit sugar; have half a portion with an egg or low-fat cheese at the Eid breakfast rather than on its own."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians, a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Dibyaza), English Wikipedia (Saudi Arabian cuisine)"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT45M",
+  "total_time": "PT2H15M",
+  "translation_of": "dibyaza"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "dagga-madiniya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-6172-1.html",
+  "lang": "ar",
+  "title": "الدقة المدينية",
+  "description": "الدقة المدينية خلطة توابل من المدينة المنورة من الكزبرة الناشفة والكمون والفلفل الأسود المحمّصة مع السمسم وملح الليمون والورد المديني، تُرش على الزبادي والبيض والسلطة وتُقدَّم على سفر الإفطار في رمضان. هذه كمية منزلية صغيرة بملح أقل بكثير من المعتاد، ونسبة أعلى من السمسم والتوابل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "25",
+  "serving_size": "1 ملعقة كبيرة (حوالي 9 غ)",
+  "category": "Sauces & Seasonings",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 35,
+   "protein_g": 1.3,
+   "carbohydrates_g": 3.9,
+   "fat_g": 2.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 51,
+   "potassium_mg": 98,
+   "phosphorus_mg": 43,
+   "calcium_mg": 73,
+   "fiber_g": 2.3,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "100 غ حب كزبرة ناشفة"
+   ],
+   [
+    null,
+    "40 غ حب كمون"
+   ],
+   [
+    null,
+    "10 غ فلفل أسود حب"
+   ],
+   [
+    null,
+    "70 غ سمسم"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة ملح الليمون (حمض الستريك، 4 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة ورد مديني مجفف (5 غ)، اختياري"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "حمّص حب الكزبرة في مقلاة جافة على نار هادئة 5–6 دقائق مع التقليب حتى يتغير لونه قليلاً وتفوح رائحته، ثم انقله إلى صحن."
+   ],
+   [
+    null,
+    "حمّص الكمون في نفس المقلاة 2–3 دقائق فقط حتى تفوح رائحته، ثم السمسم حتى يتذهب، واترك الجميع يبرد."
+   ],
+   [
+    null,
+    "اطحن الكزبرة والكمون والفلفل الأسود والورد المجفف وملح الليمون والملح في مطحنة التوابل طحناً ناعماً."
+   ],
+   [
+    null,
+    "أضف السمسم المحمص كاملاً إلى المسحوق واخلط جيداً."
+   ],
+   [
+    null,
+    "احفظ الدقة في برطمان محكم في مكان بارد وجاف حتى 3 أشهر، وقدّم ملعقة كبيرة منها فوق الزبادي قليل الدسم أو البيض أو السلطة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: الملح 3 غ لكامل الخلطة (حوالي 1.4%) بدل ملح الطعام والملح الكمراني اللذين يصلان إلى نحو 5% في الوصفة التقليدية؛ ونكهة ملح الليمون والتوابل المحمصة تعوّض الملوحة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: السمسم والكمون يحتويان على الفوسفور والبوتاسيوم؛ ملعقة كبيرة واحدة مقبولة، وانتبه لما تُقدّم معه، فالزبادي من مصادر الفوسفور، فاجعل كميته نصف علبة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الدقة نفسها قليلة الكربوهيدرات (حوالي 4 غ للملعقة)؛ قدّمها مع البيض أو الخضار والسلطة لنكهة قوية بلا سكر."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين، نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موقع موضوع، متجر توابل7"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "dagga-madiniya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-6172-1.html",
+  "lang": "en",
+  "title": "Madina Dagga (Spice Blend)",
+  "description": "Madina dagga is a spice blend from Al-Madinah of toasted coriander seed, cumin and black pepper with sesame, citric acid and dried Madina roses, sprinkled on yoghurt, eggs and salad and served at Ramadan iftar spreads. This is a small home batch with far less salt than usual and a higher share of sesame and spices.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "25",
+  "serving_size": "1 tbsp (about 9 g)",
+  "category": "Sauces & Seasonings",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian",
+   "Gluten-free"
+  ],
+  "dish": [
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 35,
+   "protein_g": 1.3,
+   "carbohydrates_g": 3.9,
+   "fat_g": 2.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 51,
+   "potassium_mg": 98,
+   "phosphorus_mg": 43,
+   "calcium_mg": 73,
+   "fiber_g": 2.3,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "100 g coriander seeds"
+   ],
+   [
+    null,
+    "40 g cumin seeds"
+   ],
+   [
+    null,
+    "10 g black peppercorns"
+   ],
+   [
+    null,
+    "70 g sesame seeds"
+   ],
+   [
+    null,
+    "½ tsp salt (3 g)"
+   ],
+   [
+    null,
+    "1 tsp lemon salt (citric acid, 4 g)"
+   ],
+   [
+    null,
+    "1 tbsp dried Madina rose petals (5 g), optional"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Toast the coriander seeds in a dry pan over low heat for 5–6 minutes, stirring, until they darken slightly and smell fragrant, then tip onto a plate."
+   ],
+   [
+    null,
+    "Toast the cumin in the same pan for just 2–3 minutes until fragrant, then the sesame until golden, and let everything cool."
+   ],
+   [
+    null,
+    "Grind the coriander, cumin, black pepper, dried rose, citric acid and salt to a fine powder in a spice grinder."
+   ],
+   [
+    null,
+    "Stir the whole toasted sesame into the powder and mix well."
+   ],
+   [
+    null,
+    "Keep the dagga in a sealed jar in a cool, dry place for up to 3 months; serve 1 tbsp over low-fat yoghurt, eggs or salad."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: 3 g salt for the whole batch (about 1.4%) instead of table salt plus kamrani salt at around 5% in the traditional blend; the sour citric acid and toasted spices make up for the salt."
+   ],
+   [
+    null,
+    "Kidney tip: sesame and cumin contain phosphorus and potassium; one tablespoon is fine, but watch what you serve it with: yoghurt is a source of phosphorus, so keep it to half a pot."
+   ],
+   [
+    null,
+    "Diabetes tip: the dagga itself is low in carbohydrate (about 4 g per tablespoon); serve it with eggs, vegetables and salad for strong flavour without sugar."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians, a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Mawdoo3, Tawabel7 spice shop"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "translation_of": "dagga-madiniya"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "zirbyan",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-5620-1.html",
+  "lang": "ar",
+  "title": "زربيان حجازي باللحم",
+  "description": "الزربيان طبق أرز أصله من عدن واليمن واستقر في مكة وجدة منذ زمن طويل، يُتبّل فيه اللحم والبطاطس بالزبادي والبصل والثوم والتوابل ثم يُطبخ ويُغطّى بالأرز المسلوق ويُعطّر بالزعفران. في هذه النسخة لحم فخذ قليل الدهن وزبادي قليل الدسم وتوابل بدل مكعب المرق وبهارات الكاري الجاهزة، مع ملح محدود وأرز بسمتي بكمية معتدلة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 450 غ)",
+  "category": "Pasta, Rice & Grains",
+  "diet": [
+   "Gluten-free"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 555,
+   "protein_g": 39.9,
+   "carbohydrates_g": 65.8,
+   "fat_g": 14.0,
+   "cholesterol_mg": 99,
+   "sodium_mg": 625,
+   "potassium_mg": 1088,
+   "phosphorus_mg": 497,
+   "calcium_mg": 170,
+   "fiber_g": 4.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "اللحم والتتبيلة",
+    "600 غ لحم فخذ غنم قليل الدهن مقطع مكعبات، منزوع الدهن الظاهر"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "300 غ بطاطس (2 متوسطة) مقشرة ومقطعة أنصافاً"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "200 غ زبادي قليل الدسم"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "2 بصلة متوسطة (220 غ): نصف بصلة مبشورة للتتبيلة والباقي شرائح رفيعة"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "4 فصوص ثوم (15 غ) مهروسة"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "10 غ زنجبيل طازج مبشور"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "1 ملعقة كبيرة خل (10 مل)"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "1 ملعقة صغيرة كزبرة مطحونة + 1 ملعقة صغيرة كمون مطحون"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "½ ملعقة صغيرة كركم + ½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "½ ملعقة صغيرة هيل مطحون + ½ ملعقة صغيرة قرفة مطحونة"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "2 ملعقة كبيرة زيت زيتون (25 مل)"
+   ],
+   [
+    "اللحم والتتبيلة",
+    "¾ ملعقة صغيرة ملح (4 غ)"
+   ],
+   [
+    "الأرز",
+    "200 غ أرز بسمتي (حوالي 600 غ مطبوخاً)"
+   ],
+   [
+    "الأرز",
+    "3 حبات هيل + 3 حبات قرنفل + عود قرفة + ورقة غار"
+   ],
+   [
+    "الأرز",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "الأرز",
+    "رشة زعفران منقوعة في 2 ملعقة كبيرة ماء ورد أو ماء دافئ"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "قشّر البطاطس وقطّعها أنصافاً، وانقعها في ماء ساخن ساعة ثم اسلقها في ماء جديد 5 دقائق وصفّها (لتقليل البوتاسيوم)."
+   ],
+   [
+    null,
+    "اخلط الزبادي مع البصل المبشور والثوم والزنجبيل والخل والتوابل المطحونة ونصف الملح، وتبّل بها اللحم ساعة على الأقل."
+   ],
+   [
+    null,
+    "سخّن زيت الزيتون في قدر ثقيل وحمّر شرائح البصل على نار متوسطة حتى تذبل وتأخذ لوناً بنياً ذهبياً، ثم ارفع نصفها للتزيين."
+   ],
+   [
+    null,
+    "ارفع قطع اللحم من التتبيلة وأضفها إلى القدر وقلّبها 10 دقائق حتى تتحمر، ثم أضف التتبيلة و250 مل ماء ساخن وباقي الملح."
+   ],
+   [
+    null,
+    "غطِّ القدر واطبخ اللحم على نار هادئة 50–60 دقيقة حتى ينضج، وأضف البطاطس فوق اللحم في آخر 20 دقيقة. يجب أن يبقى قليل من الصلصة الكثيفة."
+   ],
+   [
+    null,
+    "في هذه الأثناء اغسل الأرز وانقعه 20 دقيقة، ثم اسلقه في ماء مغلي مع الهيل والقرنفل والقرفة وورق الغار ورشة الملح 6–7 دقائق حتى ينضج نصف نضج، وصفّه."
+   ],
+   [
+    null,
+    "وزّع الأرز فوق اللحم والبطاطس، ورشّ عليه الزعفران المنقوع والبصل المحمر المتبقي."
+   ],
+   [
+    null,
+    "غطِّ القدر بإحكام واتركه على نار هادئة جداً 15–20 دقيقة حتى ينضج الأرز."
+   ],
+   [
+    null,
+    "قلّب الطبقات برفق عند التقديم وقدّمه مع سلطة خضراء أو سلطة خيار بالزبادي قليل الدسم."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لا مكعب مرق ولا بهارات كاري جاهزة مملحة، وملح الطبق كله 5 غ، ولحم قليل الدهن، وزبادي قليل الدسم، وملعقتان كبيرتان زيت فقط بدل كمية كبيرة لتحمير البصل، و150 غ أرز مطبوخ للحصة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: البطاطس واللحم والزبادي من مصادر البوتاسيوم والفوسفور؛ انقع البطاطس واسلقها كما في الخطوة الأولى أو استبدلها بالقرع أو الكوسا، والتزم بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 66 غ كربوهيدرات من الأرز والبطاطس؛ يمكن استبدال نصف البطاطس بالكوسا أو الجزر، أو خلط الأرز بنسبة من الأرز البني، وابدأ بطبق السلطة."
+   ],
+   [
+    null,
+    "مناسبة لـ: نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (زربيان)، مطبخ سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H50M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "zirbyan-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-5620-1.html",
+  "lang": "en",
+  "title": "Hijazi Lamb Zirbyan",
+  "description": "Zirbyan is a rice dish from Aden and Yemen that has long been at home in Makkah and Jeddah: meat and potatoes are marinated in yoghurt, onion, garlic and spices, cooked, then covered with parboiled rice and scented with saffron. This version uses lean leg of lamb, low-fat yoghurt and whole spices instead of a stock cube and ready curry spice, with limited salt and a moderate amount of basmati rice.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 450 g)",
+  "category": "Pasta, Rice & Grains",
+  "diet": [
+   "Gluten-free"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 555,
+   "protein_g": 39.9,
+   "carbohydrates_g": 65.8,
+   "fat_g": 14.0,
+   "cholesterol_mg": 99,
+   "sodium_mg": 625,
+   "potassium_mg": 1088,
+   "phosphorus_mg": 497,
+   "calcium_mg": 170,
+   "fiber_g": 4.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "Meat and marinade",
+    "600 g lean leg of lamb, cubed, visible fat trimmed"
+   ],
+   [
+    "Meat and marinade",
+    "300 g potatoes (2 medium), peeled and halved"
+   ],
+   [
+    "Meat and marinade",
+    "200 g low-fat yoghurt"
+   ],
+   [
+    "Meat and marinade",
+    "2 medium onions (220 g): half an onion grated for the marinade, the rest thinly sliced"
+   ],
+   [
+    "Meat and marinade",
+    "4 garlic cloves (15 g), crushed"
+   ],
+   [
+    "Meat and marinade",
+    "10 g fresh ginger, grated"
+   ],
+   [
+    "Meat and marinade",
+    "1 tbsp vinegar (10 ml)"
+   ],
+   [
+    "Meat and marinade",
+    "1 tsp ground coriander + 1 tsp ground cumin"
+   ],
+   [
+    "Meat and marinade",
+    "½ tsp turmeric + ½ tsp black pepper"
+   ],
+   [
+    "Meat and marinade",
+    "½ tsp ground cardamom + ½ tsp ground cinnamon"
+   ],
+   [
+    "Meat and marinade",
+    "2 tbsp olive oil (25 ml)"
+   ],
+   [
+    "Meat and marinade",
+    "¾ tsp salt (4 g)"
+   ],
+   [
+    "Rice",
+    "200 g basmati rice (about 600 g cooked)"
+   ],
+   [
+    "Rice",
+    "3 cardamom pods + 3 cloves + 1 cinnamon stick + 1 bay leaf"
+   ],
+   [
+    "Rice",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "Rice",
+    "a pinch of saffron soaked in 2 tbsp rose water or warm water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Peel and halve the potatoes, soak them in hot water for 1 hour, then boil them in fresh water for 5 minutes and drain (this lowers the potassium)."
+   ],
+   [
+    null,
+    "Mix the yoghurt with the grated onion, garlic, ginger, vinegar, ground spices and half the salt, and marinate the meat in it for at least 1 hour."
+   ],
+   [
+    null,
+    "Heat the olive oil in a heavy pot and cook the sliced onion over medium heat until soft and golden brown; lift out half for the topping."
+   ],
+   [
+    null,
+    "Lift the meat out of the marinade, add it to the pot and stir for 10 minutes until browned, then add the marinade, 250 ml hot water and the rest of the salt."
+   ],
+   [
+    null,
+    "Cover and simmer for 50–60 minutes until the meat is tender, laying the potatoes on top of the meat for the last 20 minutes. A little thick sauce should remain."
+   ],
+   [
+    null,
+    "Meanwhile wash the rice and soak it for 20 minutes, then boil it in water with the cardamom, cloves, cinnamon, bay leaf and the pinch of salt for 6–7 minutes until half cooked, and drain."
+   ],
+   [
+    null,
+    "Spread the rice over the meat and potatoes and sprinkle with the soaked saffron and the remaining browned onion."
+   ],
+   [
+    null,
+    "Cover the pot tightly and leave on very low heat for 15–20 minutes until the rice is done."
+   ],
+   [
+    null,
+    "Fold the layers gently when serving and serve with a green salad or a cucumber and low-fat yoghurt salad."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: no stock cube and no salty ready curry spice, 5 g salt for the whole pot, lean meat, low-fat yoghurt, only 2 tbsp oil instead of a lot for frying the onions, and 150 g cooked rice per portion."
+   ],
+   [
+    null,
+    "Kidney tip: potatoes, meat and yoghurt are sources of potassium and phosphorus; soak and boil the potatoes as in step 1 or swap them for pumpkin or courgette, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 66 g carbohydrate from rice and potatoes; you can swap half the potatoes for courgette or carrot or mix in some brown rice, and start with the salad."
+   ],
+   [
+    null,
+    "Suitable for: a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Zurbian), Sayidaty Kitchen"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H50M",
+  "translation_of": "zirbyan"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "aysh-lahm",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16393-1.html",
+  "lang": "ar",
+  "title": "عيش باللحم الحجازي",
+  "description": "العيش باللحم (العيش أبو اللحم) من أشهر أكلات مكة والحجاز: عجينة خميرة معطرة بحبة البركة والشمر تُفرد في صينية وتُغطّى بلحم مفروم مطبوخ مع الكراث وصلصة الطحينة والخل، ثم تُزيّن بالطماطم والسمسم وتُخبز. هنا نصف الدقيق بر كامل، واللحم مفروم قليل الدهن، والطحينة والزيت بكميات أقل بكثير، والملح محدود بلا مكعبات مرق.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "ربع الصينية (حوالي 320 غ)",
+  "category": "Pizza & Sandwiches",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 614,
+   "protein_g": 40.9,
+   "carbohydrates_g": 69.9,
+   "fat_g": 19.7,
+   "cholesterol_mg": 124,
+   "sodium_mg": 514,
+   "potassium_mg": 886,
+   "phosphorus_mg": 570,
+   "calcium_mg": 134,
+   "fiber_g": 8.1,
+   "added_sugar_g": 1.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "عجينة",
+    "150 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "عجينة",
+    "150 غ دقيق أبيض"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة صغيرة خميرة فورية (5 غ)"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة صغيرة سكر (5 غ)"
+   ],
+   [
+    "عجينة",
+    "¼ ملعقة صغيرة ملح (1.5 غ)"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة صغيرة حبة البركة + ½ ملعقة صغيرة شمر مجروش"
+   ],
+   [
+    "عجينة",
+    "1 ملعقة كبيرة زيت زيتون (15 مل) للعجينة + 1 ملعقة صغيرة (5 مل) للصينية"
+   ],
+   [
+    "عجينة",
+    "حوالي 190 مل ماء دافئ"
+   ],
+   [
+    "الحشوة",
+    "500 غ لحم بقر مفروم قليل الدهن (5% دهن)"
+   ],
+   [
+    "الحشوة",
+    "1 بصلة متوسطة (110 غ) مفرومة ناعماً"
+   ],
+   [
+    "الحشوة",
+    "1 حزمة كراث (150 غ) مفرومة ناعماً"
+   ],
+   [
+    "الحشوة",
+    "2½ ملعقة كبيرة طحينة (40 غ)"
+   ],
+   [
+    "الحشوة",
+    "2 ملعقة كبيرة خل (30 مل) + 3 ملاعق كبيرة ماء"
+   ],
+   [
+    "الحشوة",
+    "1 فص ثوم (5 غ) مهروس"
+   ],
+   [
+    "الحشوة",
+    "1 ملعقة صغيرة كمون + ¼ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    "الحشوة",
+    "½ ملعقة صغيرة ملح (2.5 غ)"
+   ],
+   [
+    "الحشوة",
+    "1 بيضة (50 غ) مخفوقة للوجه"
+   ],
+   [
+    "الحشوة",
+    "1 طماطم كبيرة (120 غ) مقطعة شرائح"
+   ],
+   [
+    "الحشوة",
+    "1 ملعقة صغيرة سمسم (5 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين والخميرة والسكر والملح وحبة البركة والشمر، ثم أضف زيت العجينة والماء الدافئ تدريجياً واعجن 8–10 دقائق حتى تصبح العجينة طرية ومرنة. غطّها واتركها تختمر 45 دقيقة."
+   ],
+   [
+    null,
+    "اطبخ البصل مع اللحم المفروم في مقلاة غير لاصقة بلا زيت على نار متوسطة، مع تفكيك اللحم بالملعقة، حتى يجف ماؤه ويتغير لونه، حوالي 10 دقائق. أضف الكمون والفلفل الأسود وباقي الملح."
+   ],
+   [
+    null,
+    "اخفق الطحينة مع الخل والماء والثوم حتى تصبح صلصة كريمية، ثم اخلطها مع اللحم المطبوخ والكراث المفروم."
+   ],
+   [
+    null,
+    "سخّن الفرن على 200°م وادهن صينية دائرية قطرها 30 سم بزيت الصينية."
+   ],
+   [
+    null,
+    "افرد العجينة في الصينية وارفع أطرافها قليلاً، ثم وزّع عليها خليط اللحم مع ترك 2 سم من الحواف."
+   ],
+   [
+    null,
+    "اثنِ الحواف قليلاً فوق الحشوة وادهنها بالبيض المخفوق، وصبّ باقي البيض فوق الحشوة، ثم رصّ شرائح الطماطم ورشّ السمسم."
+   ],
+   [
+    null,
+    "اترك الصينية 10 دقائق ترتاح، ثم اخبزها على الرف الأوسط 25–30 دقيقة حتى يتحمر الأسفل والأطراف، وحمّر الوجه في آخر دقيقتين."
+   ],
+   [
+    null,
+    "اتركها 5 دقائق ثم قطّعها أربعاً وقدّمها مع سلطة خضراء أو جرجير."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: نصف الدقيق بر كامل، ولحم مفروم 5% دهن مطبوخ بلا زيت، و40 غ طحينة بدل ¾ كوب، و20 مل زيت فقط بدل نصف كوب في العجينة، وملح 4 غ للصينية كلها بدل الملح الكثير ومكعب المرق."
+   ],
+   [
+    null,
+    "لمرضى الكلى: اللحم والطحينة ودقيق البر من مصادر الفوسفور، والطماطم والكراث فيهما بوتاسيوم؛ يمكن استخدام الدقيق الأبيض كله وتقليل اللحم إلى 350 غ مع زيادة الكراث، والالتزام بربع صينية."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 70 غ كربوهيدرات؛ قسّم الصينية إلى ست قطع وتناول قطعة مع صحن سلطة كبير."
+   ],
+   [
+    null,
+    "يُفضّل تناوله باعتدال وفي مناسبات لمرضى الكلى والسكري والقلب، مع الالتزام بحصة واحدة."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، موقع موسوعتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H",
+  "cook_time": "PT35M",
+  "total_time": "PT1H35M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "aysh-lahm-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16393-1.html",
+  "lang": "en",
+  "title": "Hijazi Aysh Bil-Lahm (Meat Bread)",
+  "description": "Aysh bil-lahm (aysh abu al-lahm) is one of the best-known dishes of Makkah and the Hijaz: a yeast dough flavoured with nigella and fennel is spread in a tray and covered with minced meat cooked with leeks and a tahini and vinegar sauce, then topped with tomato and sesame and baked. Here half the flour is whole wheat, the mince is lean, tahini and oil are cut well down, and salt is limited with no stock cubes.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "a quarter of the tray (about 320 g)",
+  "category": "Pizza & Sandwiches",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 614,
+   "protein_g": 40.9,
+   "carbohydrates_g": 69.9,
+   "fat_g": 19.7,
+   "cholesterol_mg": 124,
+   "sodium_mg": 514,
+   "potassium_mg": 886,
+   "phosphorus_mg": 570,
+   "calcium_mg": 134,
+   "fiber_g": 8.1,
+   "added_sugar_g": 1.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "Dough",
+    "150 g whole-wheat flour"
+   ],
+   [
+    "Dough",
+    "150 g white flour"
+   ],
+   [
+    "Dough",
+    "1 tsp instant yeast (5 g)"
+   ],
+   [
+    "Dough",
+    "1 tsp sugar (5 g)"
+   ],
+   [
+    "Dough",
+    "¼ tsp salt (1.5 g)"
+   ],
+   [
+    "Dough",
+    "1 tsp nigella seeds + ½ tsp crushed fennel seeds"
+   ],
+   [
+    "Dough",
+    "1 tbsp olive oil (15 ml) for the dough + 1 tsp (5 ml) for the tray"
+   ],
+   [
+    "Dough",
+    "about 190 ml warm water"
+   ],
+   [
+    "Filling",
+    "500 g lean minced beef (5% fat)"
+   ],
+   [
+    "Filling",
+    "1 medium onion (110 g), finely chopped"
+   ],
+   [
+    "Filling",
+    "1 bunch leeks (150 g), finely chopped"
+   ],
+   [
+    "Filling",
+    "2½ tbsp tahini (40 g)"
+   ],
+   [
+    "Filling",
+    "2 tbsp vinegar (30 ml) + 3 tbsp water"
+   ],
+   [
+    "Filling",
+    "1 garlic clove (5 g), crushed"
+   ],
+   [
+    "Filling",
+    "1 tsp cumin + ¼ tsp black pepper"
+   ],
+   [
+    "Filling",
+    "½ tsp salt (2.5 g)"
+   ],
+   [
+    "Filling",
+    "1 egg (50 g), beaten, for the top"
+   ],
+   [
+    "Filling",
+    "1 large tomato (120 g), sliced"
+   ],
+   [
+    "Filling",
+    "1 tsp sesame seeds (5 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the yeast, sugar, salt, nigella and fennel, then add the dough oil and the warm water little by little and knead for 8–10 minutes until soft and elastic. Cover and leave to rise for 45 minutes."
+   ],
+   [
+    null,
+    "Cook the onion and minced beef in a non-stick pan without oil over medium heat, breaking up the meat with a spoon, until the liquid has evaporated and the meat has changed colour, about 10 minutes. Add the cumin, black pepper and the filling salt."
+   ],
+   [
+    null,
+    "Whisk the tahini with the vinegar, water and garlic to a creamy sauce, then mix it with the cooked meat and the chopped leeks."
+   ],
+   [
+    null,
+    "Heat the oven to 200 °C and oil a 30 cm round tray with the tray oil."
+   ],
+   [
+    null,
+    "Press the dough into the tray, raising the edges a little, and spread the meat mixture over it, leaving a 2 cm border."
+   ],
+   [
+    null,
+    "Fold the border slightly over the filling and brush it with beaten egg, pour the rest of the egg over the filling, then lay the tomato slices on top and sprinkle with sesame."
+   ],
+   [
+    null,
+    "Rest the tray for 10 minutes, then bake on the middle shelf for 25–30 minutes until the base and edges are browned, browning the top for the last 2 minutes."
+   ],
+   [
+    null,
+    "Leave for 5 minutes, cut into four and serve with a green salad or rocket."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: half the flour is whole wheat, 5%-fat mince cooked without oil, 40 g tahini instead of ¾ of a glass, only 20 ml oil instead of half a glass in the dough, and 4 g salt for the whole tray instead of plenty of salt and a stock cube."
+   ],
+   [
+    null,
+    "Kidney tip: meat, tahini and whole-wheat flour are sources of phosphorus, and tomato and leeks contain potassium; you can use all white flour and cut the meat to 350 g with more leeks, and keep to a quarter of the tray."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 70 g carbohydrate; cut the tray into six pieces instead and have one piece with a large plate of salad."
+   ],
+   [
+    null,
+    "Best kept as an occasional dish for kidney, diabetes and heart diets; keep to one serving."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Maw9i3i"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H",
+  "cook_time": "PT35M",
+  "total_time": "PT1H35M",
+  "translation_of": "aysh-lahm"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "sulat-lahm",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13252-1.html",
+  "lang": "ar",
+  "title": "سلات لحم حجازي",
+  "description": "السلات طبق حجازي شعبي من المدينة المنورة ومكة: قطع لحم ضأن تُطهى ببطء مع البصل والثوم والكمون والفلفل الأسود حتى يثقل مرقها، وتُقدَّم مع خبز رقيق. في هذه النسخة يُستخدم لحم فخذ قليل الدهن بدل قطع الشحم والسمن، مع ملعقتين صغيرتين من زيت الزيتون، وملح قليل، وخبز بر وسلطة خضراء.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق لحم بالمرق مع خبز وسلطة (حوالي 380 غ)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [
+   "Diabetes"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 343,
+   "protein_g": 32.3,
+   "carbohydrates_g": 34.2,
+   "fat_g": 9.2,
+   "cholesterol_mg": 83,
+   "sodium_mg": 624,
+   "potassium_mg": 773,
+   "phosphorus_mg": 374,
+   "calcium_mg": 60,
+   "fiber_g": 4.6,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للسلات",
+    "520 غ لحم فخذ ضأن قليل الدهن منزوع العظم، مقطع مكعبات صغيرة ومنزوع الدهن الظاهر"
+   ],
+   [
+    "للسلات",
+    "2 ملعقة صغيرة زيت زيتون (10 مل)"
+   ],
+   [
+    "للسلات",
+    "1 بصلة متوسطة مبشورة أو مفرومة ناعماً (150 غ)"
+   ],
+   [
+    "للسلات",
+    "200 غ بصل صغير (حبات صغيرة كاملة مقشرة)"
+   ],
+   [
+    "للسلات",
+    "6 فصوص ثوم مفرومة (30 غ)"
+   ],
+   [
+    "للسلات",
+    "1–2 فلفل أخضر حار مفروم (15 غ)، حسب الرغبة"
+   ],
+   [
+    "للسلات",
+    "1 ملعقة صغيرة كمون مطحون، ½ ملعقة صغيرة فلفل أسود، ½ ملعقة صغيرة كركم (هرد)، 1 ملعقة صغيرة بهارات مشكلة (بزار)"
+   ],
+   [
+    "للسلات",
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    "للسلات",
+    "حوالي 700 مل ماء مغلي"
+   ],
+   [
+    "للتقديم",
+    "4 أرغفة صغيرة من خبز البر الرقيق (140 غ)"
+   ],
+   [
+    "للتقديم",
+    "2 حبة خيار (200 غ) و1 حبة طماطم (150 غ) مقطعة"
+   ],
+   [
+    "للتقديم",
+    "عصير ½ ليمونة (20 مل) ورشة ملح صغيرة (1 غ) للسلطة"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن الزيت في قدر غير لاصق على نار متوسطة إلى عالية، وأضف البصل المبشور وقلّبه 4–5 دقائق حتى يذبل ويتحمر قليلاً."
+   ],
+   [
+    null,
+    "أضف الثوم والفلفل الأخضر وقلّب دقيقة، ثم أضف الكمون والفلفل الأسود والكركم والبهارات وقلّب نصف دقيقة حتى تفوح رائحتها."
+   ],
+   [
+    null,
+    "أضف قطع اللحم وقلّبها على نار عالية حتى يتغير لونها ويجف ماؤها تقريباً (حوالي 10 دقائق)."
+   ],
+   [
+    null,
+    "أضف الماء المغلي والبصل الصغير، وغطِّ القدر وخفّف النار واتركه ينضج ببطء ساعة إلى ساعة وربع، مع التحريك أحياناً، حتى يطرى اللحم ويثقل المرق ويقلّ."
+   ],
+   [
+    null,
+    "أضف الملح في آخر الطهي وتذوّق، وإذا بقي المرق خفيفاً ارفع الغطاء واتركه 10 دقائق أخرى."
+   ],
+   [
+    null,
+    "اخلط الخيار والطماطم مع الليمون ورشة الملح، وقدّم السلات ساخناً مع الخبز الرقيق والسلطة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم فخذ قليل الدهن بدل إذابة قطع الشحم، ملعقتان صغيرتان من زيت الزيتون للقدر كله، ملح قليل يضاف في النهاية، وخبز بر مع سلطة خضراء."
+   ],
+   [
+    null,
+    "لمرضى الكلى: اللحم والطماطم فيهما فوسفور وبوتاسيوم؛ التزم بحصة لحم 90–100 غ مطبوخ، وقلّل المرق المسكوب على الخبز، ويمكن استبدال الطماطم بخيار إضافي."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 34 غ كربوهيدرات معظمها من الخبز؛ اكتفِ برغيف صغير واحد وأكثِر من السلطة."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT1H50M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "sulat-lahm-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13252-1.html",
+  "lang": "en",
+  "title": "Hijazi Sulat Lahm",
+  "description": "Sulat is a popular Hijazi dish from Medina and Makkah: lamb pieces slowly cooked with onion, garlic, cumin and black pepper until the sauce thickens, served with thin bread. This version uses lean lamb leg instead of rendered fat and ghee, two teaspoons of olive oil, little salt, whole-wheat bread and a fresh salad.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate of meat in sauce with bread and salad (about 380 g)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [
+   "Diabetes"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 343,
+   "protein_g": 32.3,
+   "carbohydrates_g": 34.2,
+   "fat_g": 9.2,
+   "cholesterol_mg": 83,
+   "sodium_mg": 624,
+   "potassium_mg": 773,
+   "phosphorus_mg": 374,
+   "calcium_mg": 60,
+   "fiber_g": 4.6,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the sulat",
+    "520 g lean boneless lamb leg, cut into small cubes, visible fat trimmed"
+   ],
+   [
+    "For the sulat",
+    "2 tsp olive oil (10 ml)"
+   ],
+   [
+    "For the sulat",
+    "1 medium onion, grated or finely chopped (150 g)"
+   ],
+   [
+    "For the sulat",
+    "200 g small onions (whole baby onions, peeled)"
+   ],
+   [
+    "For the sulat",
+    "6 garlic cloves, minced (30 g)"
+   ],
+   [
+    "For the sulat",
+    "1–2 hot green chillies, chopped (15 g), to taste"
+   ],
+   [
+    "For the sulat",
+    "1 tsp ground cumin, ½ tsp black pepper, ½ tsp turmeric (hurd), 1 tsp mixed spices (bezar)"
+   ],
+   [
+    "For the sulat",
+    "½ tsp salt (3 g)"
+   ],
+   [
+    "For the sulat",
+    "about 700 ml boiling water"
+   ],
+   [
+    "To serve",
+    "4 small thin whole-wheat flatbreads (140 g)"
+   ],
+   [
+    "To serve",
+    "2 cucumbers (200 g) and 1 tomato (150 g), diced"
+   ],
+   [
+    "To serve",
+    "juice of ½ lemon (20 ml) and a small pinch of salt (1 g) for the salad"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the oil in a non-stick pot over medium-high heat, add the grated onion and stir for 4–5 minutes until soft and lightly golden."
+   ],
+   [
+    null,
+    "Add the garlic and green chilli and stir for 1 minute, then add the cumin, black pepper, turmeric and spices and stir for 30 seconds until fragrant."
+   ],
+   [
+    null,
+    "Add the lamb and stir over high heat until it changes colour and its juices have almost evaporated (about 10 minutes)."
+   ],
+   [
+    null,
+    "Add the boiling water and the small onions, cover, lower the heat and simmer gently for 1–1¼ hours, stirring now and then, until the meat is tender and the sauce has reduced and thickened."
+   ],
+   [
+    null,
+    "Add the salt at the end and taste; if the sauce is still thin, uncover and cook 10 more minutes."
+   ],
+   [
+    null,
+    "Toss the cucumber and tomato with the lemon juice and pinch of salt, and serve the sulat hot with the thin bread and salad."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean lamb leg instead of rendering pieces of fat, 2 tsp olive oil for the whole pot, little salt added at the end, and whole-wheat bread with a fresh salad."
+   ],
+   [
+    null,
+    "Kidney tip: meat and tomato contain phosphorus and potassium; keep to 90–100 g cooked meat, spoon less sauce onto the bread, and you can replace the tomato with extra cucumber."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 34 g carbohydrate, mostly from the bread; keep to one small flatbread and fill up on salad."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT1H50M",
+  "translation_of": "sulat-lahm"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "buff-hijazi",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13854-1.html",
+  "lang": "ar",
+  "title": "البف الحجازي",
+  "description": "البف طبق جانبي قديم من المدينة المنورة ومكة وجدة: عجينة رقيقة محشوة باللحم المفروم والبيض المسلوق والبقدونس، تُقطع مربعات وتُقلى عادة في زيت غزير وتقدَّم في رمضان. هنا تُخبز القطع في الفرن مع دهن خفيف بزيت الزيتون، وتُعد العجينة بنصف دقيق بر وملح قليل، والحشوة بلحم قليل الدهن.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "3 قطع (حوالي 190 غ)",
+  "category": "Appetizers & Snacks",
+  "diet": [
+   "Diabetes"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 411,
+   "protein_g": 26.8,
+   "carbohydrates_g": 48.5,
+   "fat_g": 12.2,
+   "cholesterol_mg": 140,
+   "sodium_mg": 478,
+   "potassium_mg": 518,
+   "phosphorus_mg": 351,
+   "calcium_mg": 51,
+   "fiber_g": 4.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "120 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "120 غ دقيق أبيض"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للعجينة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعجينة",
+    "حوالي 130 مل ماء للعجن"
+   ],
+   [
+    "للحشوة",
+    "300 غ لحم مفروم قليل الدهن جداً (5% دهن)"
+   ],
+   [
+    "للحشوة",
+    "1 بصلة متوسطة مفرومة ناعماً (150 غ)"
+   ],
+   [
+    "للحشوة",
+    "½ ملعقة صغيرة فلفل أسود، ½ ملعقة صغيرة هيل مطحون، ½ ملعقة صغيرة كمون"
+   ],
+   [
+    "للحشوة",
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    "للحشوة",
+    "½ حزمة بقدونس مفروم (20 غ)"
+   ],
+   [
+    "للحشوة",
+    "2 بيضة مسلوقة مفرومة (100 غ)"
+   ],
+   [
+    "للدهن",
+    "1 ملعقة صغيرة زيت زيتون (5 مل)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين مع الملح والزيت، وأضف الماء تدريجياً واعجن حتى تحصل على عجينة متماسكة قاسية قليلاً، ثم غطّها واتركها ترتاح ساعة."
+   ],
+   [
+    null,
+    "ضع اللحم في مقلاة غير لاصقة على نار متوسطة وقلّبه مع تفتيته حتى يجف ماؤه، ثم أضف البصل وقلّب 5 دقائق حتى يذبل."
+   ],
+   [
+    null,
+    "أضف البهارات والملح وقلّب دقيقة، ثم ارفعه عن النار واتركه يبرد وأضف البقدونس والبيض المسلوق المفروم."
+   ],
+   [
+    null,
+    "سخّن الفرن على 200°م وجهّز صينية مبطنة بورق الخبز."
+   ],
+   [
+    null,
+    "قسّم العجينة نصفين، وافرد النصف الأول مستطيلاً رقيقاً (حوالي 30×20 سم) ووزّع عليه الحشوة بطبقة خفيفة، ثم افرد النصف الثاني وغطِّ به الحشوة."
+   ],
+   [
+    null,
+    "قطّع العجينة 12 مربعاً، واضغط على أطراف كل مربع بالشوكة لإغلاقه جيداً، ثم رصّها في الصينية وادهنها بالفرشاة بالزيت."
+   ],
+   [
+    null,
+    "اخبزها 20–25 دقيقة حتى تنتفخ وتتحمر، وقدّمها ساخنة مع سلطة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: الخَبز في الفرن بدل القلي في الزيت الغزير، نصف الدقيق بر كامل، لحم مفروم قليل الدهن جداً، وبدون كاسترد أو نشا، وملح محدود."
+   ],
+   [
+    null,
+    "لمرضى الكلى: اللحم وصفار البيض فيهما فوسفور؛ يمكن استخدام بيضة واحدة مع بياض بيضة ثانية، والاكتفاء بقطعتين مع سلطة خيار وخس."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة (3 قطع) فيها حوالي 49 غ كربوهيدرات؛ تناول قطعتين مع طبق سلطة كبير أو شوربة خضار."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (المطبخ السعودي: البف المديني)، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "buff-hijazi-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13854-1.html",
+  "lang": "en",
+  "title": "Hijazi Buff",
+  "description": "Buff is an old side dish from Medina, Makkah and Jeddah: a thin dough filled with minced meat, boiled egg and parsley, cut into squares and usually deep-fried, often served in Ramadan. Here the squares are baked with a light brush of olive oil, the dough is half whole-wheat with little salt, and the filling uses extra-lean meat.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "3 pieces (about 190 g)",
+  "category": "Appetizers & Snacks",
+  "diet": [
+   "Diabetes"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 411,
+   "protein_g": 26.8,
+   "carbohydrates_g": 48.5,
+   "fat_g": 12.2,
+   "cholesterol_mg": 140,
+   "sodium_mg": 478,
+   "potassium_mg": 518,
+   "phosphorus_mg": 351,
+   "calcium_mg": 51,
+   "fiber_g": 4.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "120 g whole-wheat flour"
+   ],
+   [
+    "For the dough",
+    "120 g white flour"
+   ],
+   [
+    "For the dough",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For the dough",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "For the dough",
+    "about 130 ml water for kneading"
+   ],
+   [
+    "For the filling",
+    "300 g extra-lean minced beef (5% fat)"
+   ],
+   [
+    "For the filling",
+    "1 medium onion, finely chopped (150 g)"
+   ],
+   [
+    "For the filling",
+    "½ tsp black pepper, ½ tsp ground cardamom, ½ tsp cumin"
+   ],
+   [
+    "For the filling",
+    "½ tsp salt (3 g)"
+   ],
+   [
+    "For the filling",
+    "½ bunch parsley, chopped (20 g)"
+   ],
+   [
+    "For the filling",
+    "2 hard-boiled eggs, chopped (100 g)"
+   ],
+   [
+    "For brushing",
+    "1 tsp olive oil (5 ml)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the salt and oil, add the water little by little and knead to a firm, slightly stiff dough; cover and rest for 1 hour."
+   ],
+   [
+    null,
+    "Put the meat in a non-stick pan over medium heat and stir, breaking it up, until its juices evaporate; add the onion and stir for 5 minutes until soft."
+   ],
+   [
+    null,
+    "Add the spices and salt and stir for 1 minute, then take off the heat, let it cool and mix in the parsley and chopped egg."
+   ],
+   [
+    null,
+    "Heat the oven to 200 °C and line a tray with baking paper."
+   ],
+   [
+    null,
+    "Divide the dough in two, roll the first half into a thin rectangle (about 30×20 cm) and spread the filling over it in a thin layer, then roll out the second half and lay it on top."
+   ],
+   [
+    null,
+    "Cut into 12 squares, press the edges of each square with a fork to seal, place them on the tray and brush with the oil."
+   ],
+   [
+    null,
+    "Bake for 20–25 minutes until puffed and golden, and serve hot with salad."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: baked instead of deep-fried, half whole-wheat flour, extra-lean minced meat, no custard powder or starch, and limited salt."
+   ],
+   [
+    null,
+    "Kidney tip: meat and egg yolk contain phosphorus; you can use 1 whole egg plus 1 egg white, and keep to 2 pieces with a cucumber and lettuce salad."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion (3 pieces) has about 49 g carbohydrate; have 2 pieces with a large salad or vegetable soup."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Saudi cuisine: Madini buff), Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H45M",
+  "translation_of": "buff-hijazi"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "jamriyya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4518-1.html",
+  "lang": "ar",
+  "title": "جمرية باللحم",
+  "description": "الجمرية خبز من دقيق البر يُخبز على الجمر في البر، وفي نسخة نجد والشمال يُفتّ ويُسقى بمرق اللحم ويُوضع اللحم في وسطه على طريقة الثريد. هنا يُخبز القرص في الفرن أو على الجمر داخل القصدير، ويُطهى المرق بلحم قليل الدهن وخضار كثيرة ومرق منزلي بدون مكعبات، مع ملعقتين صغيرتين من السمن فقط.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق فتيت مع اللحم والمرق (حوالي 450 غ)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [
+   "Heart Healthy"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 471,
+   "protein_g": 36.3,
+   "carbohydrates_g": 62.8,
+   "fat_g": 10.1,
+   "cholesterol_mg": 84,
+   "sodium_mg": 597,
+   "potassium_mg": 1080,
+   "phosphorus_mg": 548,
+   "calcium_mg": 71,
+   "fiber_g": 10.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للجمرية",
+    "280 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للجمرية",
+    "1 ملعقة صغيرة خميرة فورية (3 غ)"
+   ],
+   [
+    "للجمرية",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للجمرية",
+    "حوالي 190 مل ماء دافئ"
+   ],
+   [
+    "للمرق",
+    "480 غ لحم ضأن قليل الدهن منزوع العظم (فخذ أو كتف)، مقطع ومنزوع الدهن الظاهر"
+   ],
+   [
+    "للمرق",
+    "2 ملعقة صغيرة سمن (10 غ)"
+   ],
+   [
+    "للمرق",
+    "1 بصلة متوسطة مفرومة (150 غ)"
+   ],
+   [
+    "للمرق",
+    "2 فص ثوم مفروم (10 غ)"
+   ],
+   [
+    "للمرق",
+    "2 حبة طماطم مقطعة (200 غ)"
+   ],
+   [
+    "للمرق",
+    "1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    "للمرق",
+    "1 جزرة كبيرة مقطعة (150 غ) و2 كوسة مقطعة (200 غ)"
+   ],
+   [
+    "للمرق",
+    "1 ملعقة صغيرة بهارات مشكلة (بزار)، ½ ملعقة صغيرة كركم، 1 لومي (ليمون أسود) مثقوب، 3 حبات هيل"
+   ],
+   [
+    "للمرق",
+    "⅔ ملعقة صغيرة ملح (4 غ)"
+   ],
+   [
+    "للمرق",
+    "حوالي 1.2 لتر ماء"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيق مع الخميرة والملح، وأضف الماء الدافئ تدريجياً واعجن حتى تحصل على عجينة لينة، ثم غطّها واتركها تتخمر ساعة."
+   ],
+   [
+    null,
+    "في هذه الأثناء سخّن السمن في قدر، وأضف البصل وقلّبه حتى يذبل، ثم أضف الثوم واللحم وقلّب حتى يتغير لون اللحم."
+   ],
+   [
+    null,
+    "أضف الطماطم ومعجون الطماطم والبهارات واللومي والهيل، ثم الماء، وغطِّ القدر واتركه ينضج على نار هادئة ساعة وربع تقريباً، مع إزالة الرغوة."
+   ],
+   [
+    null,
+    "أضف الجزر والكوسة في آخر 25 دقيقة، ثم الملح في النهاية."
+   ],
+   [
+    null,
+    "سخّن الفرن على 230°م، وافرد العجينة بيديك قرصاً سميكاً على ورق قصدير مرشوش بقليل من الدقيق، واخبزه 20–25 دقيقة مع قلبه حتى ينضج ويتحمر. (في البر يوضع القرص في القصدير على الجمر ويُغطى ببعض الجمرات.)"
+   ],
+   [
+    null,
+    "اترك الجمرية تبرد قليلاً ثم فتّها قطعاً صغيرة في قدر أو صحن عميق."
+   ],
+   [
+    null,
+    "اسكب المرق على الفتيت تدريجياً واضغطه بالمغرفة حتى يتشرب، ثم ضعه في صحن التقديم ورصّ اللحم والخضار في الوسط وقدّمه ساخناً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم قليل الدهن منزوع الدهن الظاهر، سمن قليل (ملعقة صغيرة لكل حصتين)، مرق منزلي بدون مكعبات، خضار أكثر في المرق، وخبز بر كامل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر والطماطم والمرق فيها بوتاسيوم وفوسفور؛ استبدل نصف دقيق البر بدقيق أبيض، وقلّل المرق المسكوب، والتزم بحصة لحم 90–100 غ."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 63 غ كربوهيدرات من خبز البر الكامل؛ يمكن تقليل الفتيت إلى ثلثي الحصة وتقديمه مع سلطة خضراء كبيرة."
+   ],
+   [
+    null,
+    "مناسبة لـ: صحة القلب وضغط الدم."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد السعودية (الجمرية)، ويكيبيديا العربية (ثريد)"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H50M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "jamriyya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4518-1.html",
+  "lang": "en",
+  "title": "Jamriyya with Meat",
+  "description": "Jamriyya is a whole-wheat bread baked on embers in the desert; in the Najdi and northern version it is crumbled, soaked with meat broth and topped with the meat, in the style of thareed. Here the bread is baked in the oven or in foil on embers, and the broth is made with lean meat, plenty of vegetables and no stock cubes, with only two teaspoons of ghee.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate of soaked bread with meat and broth (about 450 g)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [
+   "Heart Healthy"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 471,
+   "protein_g": 36.3,
+   "carbohydrates_g": 62.8,
+   "fat_g": 10.1,
+   "cholesterol_mg": 84,
+   "sodium_mg": 597,
+   "potassium_mg": 1080,
+   "phosphorus_mg": 548,
+   "calcium_mg": 71,
+   "fiber_g": 10.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the jamriyya",
+    "280 g whole-wheat flour"
+   ],
+   [
+    "For the jamriyya",
+    "1 tsp instant yeast (3 g)"
+   ],
+   [
+    "For the jamriyya",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "For the jamriyya",
+    "about 190 ml warm water"
+   ],
+   [
+    "For the broth",
+    "480 g lean boneless lamb (leg or shoulder), cut up, visible fat trimmed"
+   ],
+   [
+    "For the broth",
+    "2 tsp ghee (10 g)"
+   ],
+   [
+    "For the broth",
+    "1 medium onion, chopped (150 g)"
+   ],
+   [
+    "For the broth",
+    "2 garlic cloves, minced (10 g)"
+   ],
+   [
+    "For the broth",
+    "2 tomatoes, chopped (200 g)"
+   ],
+   [
+    "For the broth",
+    "1 tbsp no-salt-added tomato paste (15 g)"
+   ],
+   [
+    "For the broth",
+    "1 large carrot, sliced (150 g) and 2 courgettes, sliced (200 g)"
+   ],
+   [
+    "For the broth",
+    "1 tsp mixed spices (bezar), ½ tsp turmeric, 1 dried black lime (loomi), pierced, 3 cardamom pods"
+   ],
+   [
+    "For the broth",
+    "⅔ tsp salt (4 g)"
+   ],
+   [
+    "For the broth",
+    "about 1.2 l water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix the flour with the yeast and salt, add the warm water little by little and knead to a soft dough; cover and leave to rise for 1 hour."
+   ],
+   [
+    null,
+    "Meanwhile heat the ghee in a pot, add the onion and stir until soft, then add the garlic and meat and stir until the meat changes colour."
+   ],
+   [
+    null,
+    "Add the tomatoes, tomato paste, spices, black lime and cardamom, then the water; cover and simmer gently for about 1¼ hours, skimming off the foam."
+   ],
+   [
+    null,
+    "Add the carrot and courgettes for the last 25 minutes, then the salt at the end."
+   ],
+   [
+    null,
+    "Heat the oven to 230 °C, press the dough by hand into a thick round on a sheet of foil lightly dusted with flour, and bake for 20–25 minutes, turning once, until cooked and browned. (Outdoors the round is set in foil on the embers and covered with a few hot coals.)"
+   ],
+   [
+    null,
+    "Let the jamriyya cool a little, then break it into small pieces in a pot or deep dish."
+   ],
+   [
+    null,
+    "Pour the broth over the pieces a little at a time and press with the ladle until soaked, then move it to the serving dish, arrange the meat and vegetables in the centre and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean meat with visible fat trimmed, little ghee (1 tsp per 2 portions), homemade broth with no stock cubes, more vegetables in the broth, and whole-wheat bread."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour, tomato and broth contain potassium and phosphorus; swap half the whole-wheat flour for white flour, pour less broth, and keep to 90–100 g cooked meat."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 63 g carbohydrate from whole-wheat bread; you can cut the bread to two-thirds of a portion and serve it with a large green salad."
+   ],
+   [
+    null,
+    "Suitable for: heart health and blood pressure."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad Saudi Arabia (jamriyya), Arabic Wikipedia (thareed)"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H50M",
+  "translation_of": "jamriyya"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "qasdeer-chicken",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4175-1.html",
+  "lang": "ar",
+  "title": "قصدير الدجاج",
+  "description": "قصدير الدجاج طبق منزلي وبرّي شائع: قطع دجاج مع البصل والطماطم والفلفل والخضار المشكلة والحمص تُتبَّل وتُغلق في ورق القصدير وتُطهى على النار أو الجمر حتى تنضج في عصارتها. هنا يُستخدم دجاج منزوع الجلد ومرق منزلي بدل مكعب المرق، مع ملعقة زيت زيتون واحدة وملح قليل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق دجاج بالخضار (حوالي 400 غ)",
+  "category": "Chicken & Turkey",
+  "diet": [
+   "Diabetes",
+   "Gluten-free"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 325,
+   "protein_g": 37.2,
+   "carbohydrates_g": 22.4,
+   "fat_g": 10.1,
+   "cholesterol_mg": 125,
+   "sodium_mg": 708,
+   "potassium_mg": 843,
+   "phosphorus_mg": 395,
+   "calcium_mg": 62,
+   "fiber_g": 6.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 غ صدر دجاج منزوع الجلد، مقطع قطعاً كبيرة"
+   ],
+   [
+    null,
+    "300 غ أفخاذ دجاج منزوعة الجلد والعظم، مقطعة"
+   ],
+   [
+    null,
+    "1 بصلة متوسطة مقطعة شرائح (150 غ)"
+   ],
+   [
+    null,
+    "2 حبة طماطم مقطعة (200 غ)"
+   ],
+   [
+    null,
+    "1 فلفل أخضر حلو مقطع (150 غ)"
+   ],
+   [
+    null,
+    "250 غ خضار مشكلة مجمدة (بازلاء وجزر)"
+   ],
+   [
+    null,
+    "120 غ حمص معلب مصفى ومغسول جيداً"
+   ],
+   [
+    null,
+    "2 فص ثوم مفروم (10 غ)"
+   ],
+   [
+    null,
+    "عصير ليمونة (30 مل)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة كاري، 1 ملعقة صغيرة بهارات مشكلة (بزار)، ½ ملعقة صغيرة كركم، ½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "⅘ ملعقة صغيرة ملح (5 غ)"
+   ],
+   [
+    null,
+    "120 مل مرق دجاج منزلي بدون ملح أو ماء ساخن"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "في وعاء كبير اخلط الدجاج مع البصل والطماطم والفلفل والخضار المجمدة والحمص والثوم."
+   ],
+   [
+    null,
+    "اخلط الليمون والزيت والبهارات والملح مع المرق، واسكبه على الدجاج والخضار وقلّب جيداً حتى تتوزع التتبيلة."
+   ],
+   [
+    null,
+    "افرش ورقتين من القصدير متعامدتين في قدر عريض أو صينية، وضع الخليط في الوسط ثم أغلق القصدير بإحكام من كل الجهات حتى لا يتسرب البخار."
+   ],
+   [
+    null,
+    "اطهِ القصدير في القدر على نار هادئة 50–60 دقيقة (أو في الفرن على 200°م لمدة 45–50 دقيقة، أو على الجمر)، حتى ينضج الدجاج تماماً."
+   ],
+   [
+    null,
+    "افتح القصدير بحذر لتجنب البخار، وتأكد أن الدجاج نضج من الداخل، ثم قدّمه ساخناً مع سلطة أو كمية صغيرة من الأرز البسمتي أو الخبز."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: بدون مكعب ماجي (مرق منزلي بدون ملح وبهارات بدلاً منه)، دجاج منزوع الجلد، ملعقة زيت واحدة للقدر كله، وحمص معلب مغسول لتقليل الصوديوم."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الحمص والطماطم والبازلاء فيها بوتاسيوم وفوسفور؛ يمكن حذف الحمص أو تقليله إلى النصف، واستبدال الطماطم بالكوسة أو الملفوف، والتزم بحصة دجاج 90–120 غ."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 22 غ كربوهيدرات فقط؛ إذا قدّمته مع الأرز فاكتفِ بنصف كوب أرز بسمتي (حوالي 75 غ مطبوخ) مع سلطة."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد السعودية، مطبخ سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H",
+  "total_time": "PT1H20M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "qasdeer-chicken-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4175-1.html",
+  "lang": "en",
+  "title": "Chicken in Foil",
+  "description": "Chicken in foil (qasdeer) is a popular home and camping dish: chicken pieces with onion, tomato, peppers, mixed vegetables and chickpeas are seasoned, sealed in foil and cooked on the stove or embers until tender in their own juices. Here the chicken is skinless, homemade unsalted stock replaces the stock cube, and only one spoon of olive oil and little salt are used.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate of chicken and vegetables (about 400 g)",
+  "category": "Chicken & Turkey",
+  "diet": [
+   "Diabetes",
+   "Gluten-free"
+  ],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 325,
+   "protein_g": 37.2,
+   "carbohydrates_g": 22.4,
+   "fat_g": 10.1,
+   "cholesterol_mg": 125,
+   "sodium_mg": 708,
+   "potassium_mg": 843,
+   "phosphorus_mg": 395,
+   "calcium_mg": 62,
+   "fiber_g": 6.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 g skinless chicken breast, cut into large pieces"
+   ],
+   [
+    null,
+    "300 g skinless boneless chicken thighs, cut up"
+   ],
+   [
+    null,
+    "1 medium onion, sliced (150 g)"
+   ],
+   [
+    null,
+    "2 tomatoes, chopped (200 g)"
+   ],
+   [
+    null,
+    "1 green bell pepper, chopped (150 g)"
+   ],
+   [
+    null,
+    "250 g frozen mixed vegetables (peas and carrots)"
+   ],
+   [
+    null,
+    "120 g canned chickpeas, drained and well rinsed"
+   ],
+   [
+    null,
+    "2 garlic cloves, minced (10 g)"
+   ],
+   [
+    null,
+    "juice of 1 lemon (30 ml)"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    null,
+    "1 tsp curry powder, 1 tsp mixed spices (bezar), ½ tsp turmeric, ½ tsp black pepper"
+   ],
+   [
+    null,
+    "⅘ tsp salt (5 g)"
+   ],
+   [
+    null,
+    "120 ml homemade unsalted chicken stock or hot water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "In a large bowl mix the chicken with the onion, tomatoes, pepper, frozen vegetables, chickpeas and garlic."
+   ],
+   [
+    null,
+    "Whisk the lemon juice, oil, spices and salt into the stock, pour it over the chicken and vegetables and toss well to coat."
+   ],
+   [
+    null,
+    "Lay two sheets of foil crosswise in a wide pot or tray, pile the mixture in the centre and seal the foil tightly on all sides so no steam escapes."
+   ],
+   [
+    null,
+    "Cook the parcel in the pot over low heat for 50–60 minutes (or in the oven at 200 °C for 45–50 minutes, or on embers) until the chicken is fully cooked."
+   ],
+   [
+    null,
+    "Open the foil carefully to avoid the steam, check the chicken is cooked through, and serve hot with salad or a small amount of basmati rice or bread."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: no Maggi cube (homemade unsalted stock and spices instead), skinless chicken, one spoon of oil for the whole dish, and rinsed canned chickpeas to cut sodium."
+   ],
+   [
+    null,
+    "Kidney tip: chickpeas, tomato and peas contain potassium and phosphorus; you can leave out or halve the chickpeas, swap the tomato for courgette or cabbage, and keep to 90–120 g chicken."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has only about 22 g carbohydrate; if serving with rice, keep to about 75 g cooked basmati rice with salad."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad Saudi Arabia, Sayidaty Kitchen"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H",
+  "total_time": "PT1H20M",
+  "translation_of": "qasdeer-chicken"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "jibniyya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-3877-1.html",
+  "lang": "ar",
+  "title": "الجبنية",
+  "description": "الجبنية من الحلويات الشعبية في المطبخ السعودي: عجينة خميرة طرية معجونة بالجبن والحليب المبخر، تُقطع دوائر وتُقلى ثم تُسقى بالشيرة أو العسل وتُزيَّن بالفستق أو اللوز. في هذه النسخة تُخبز الدوائر في الفرن، ويُستخدم جبن كريمي قليل الدسم وحليب مبخر خالي الدسم ونصف دقيق بر، مع دهن خفيف بالعسل بدل الشيرة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "قطعة واحدة (حوالي 45 غ)",
+  "category": "Desserts",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 133,
+   "protein_g": 4.4,
+   "carbohydrates_g": 20.9,
+   "fat_g": 3.9,
+   "cholesterol_mg": 6,
+   "sodium_mg": 76,
+   "potassium_mg": 125,
+   "phosphorus_mg": 92,
+   "calcium_mg": 51,
+   "fiber_g": 1.6,
+   "added_sugar_g": 3.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "125 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "125 غ دقيق أبيض"
+   ],
+   [
+    "للعجينة",
+    "120 غ جبن كريمي قليل الدسم"
+   ],
+   [
+    "للعجينة",
+    "120 مل حليب مبخر خالي الدسم"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة صغيرة خميرة فورية (5 غ)"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة صغيرة سكر (5 غ)"
+   ],
+   [
+    "للعجينة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعجينة",
+    "حوالي 60 مل ماء دافئ"
+   ],
+   [
+    "للدهن والتزيين",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للدهن والتزيين",
+    "2 ملعقة كبيرة عسل (40 غ) مخفف بملعقة كبيرة ماء دافئ"
+   ],
+   [
+    "للدهن والتزيين",
+    "2 ملعقة كبيرة فستق مطحون (15 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين مع الخميرة والسكر والملح، ثم أضف الجبن الكريمي والحليب المبخر واعجن، وأضف الماء تدريجياً حتى تحصل على عجينة لينة متماسكة لا تلتصق باليد."
+   ],
+   [
+    null,
+    "غطِّ العجينة واتركها تتخمر ساعة أو حتى يتضاعف حجمها."
+   ],
+   [
+    null,
+    "رشّ الطاولة بقليل من الدقيق، وافرد العجينة بالنشابة بسُمك ½ سم تقريباً، ثم قطّعها 12 دائرة بكأس أو قطّاعة."
+   ],
+   [
+    null,
+    "رصّ الدوائر في صينية مبطنة بورق الخبز، وادهنها بالزيت بالفرشاة واتركها 15 دقيقة لتنتفخ، وسخّن الفرن على 200°م."
+   ],
+   [
+    null,
+    "اخبز الدوائر 12–15 دقيقة حتى تنتفخ وتتحمر."
+   ],
+   [
+    null,
+    "ادهنها وهي ساخنة بالعسل المخفف، ورشّ عليها الفستق وقدّمها دافئة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: الخَبز بدل القلي، جبن كريمي قليل الدسم بدل الجبن كامل الدسم، حليب مبخر خالي الدسم، نصف الدقيق بر كامل، و40 غ عسل للدفعة كلها بدل كوب الشيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الجبن والحليب المبخر والفستق فيها فوسفور؛ اكتفِ بقطعة واحدة، ويمكن حذف الفستق واستخدام دقيق أبيض فقط."
+   ],
+   [
+    null,
+    "لمرضى السكري: القطعة فيها حوالي 21 غ كربوهيدرات؛ تناول قطعة واحدة بدون دهن العسل مع قهوة عربية أو شاي بدون سكر."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (المطبخ السعودي)، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT15M",
+  "total_time": "PT1H35M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "jibniyya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-3877-1.html",
+  "lang": "en",
+  "title": "Jibniyya",
+  "description": "Jibniyya is a popular sweet of the Saudi kitchen: a soft yeast dough kneaded with cheese and evaporated milk, cut into rounds, fried and soaked in syrup or honey, then topped with pistachios or almonds. In this version the rounds are baked, with low-fat cream cheese, fat-free evaporated milk and half whole-wheat flour, and a light glaze of honey instead of syrup.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "1 piece (about 45 g)",
+  "category": "Desserts",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 133,
+   "protein_g": 4.4,
+   "carbohydrates_g": 20.9,
+   "fat_g": 3.9,
+   "cholesterol_mg": 6,
+   "sodium_mg": 76,
+   "potassium_mg": 125,
+   "phosphorus_mg": 92,
+   "calcium_mg": 51,
+   "fiber_g": 1.6,
+   "added_sugar_g": 3.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "125 g whole-wheat flour"
+   ],
+   [
+    "For the dough",
+    "125 g white flour"
+   ],
+   [
+    "For the dough",
+    "120 g low-fat cream cheese"
+   ],
+   [
+    "For the dough",
+    "120 ml fat-free evaporated milk"
+   ],
+   [
+    "For the dough",
+    "1 tsp instant yeast (5 g)"
+   ],
+   [
+    "For the dough",
+    "1 tsp sugar (5 g)"
+   ],
+   [
+    "For the dough",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "For the dough",
+    "about 60 ml warm water"
+   ],
+   [
+    "For brushing and topping",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For brushing and topping",
+    "2 tbsp honey (40 g) thinned with 1 tbsp warm water"
+   ],
+   [
+    "For brushing and topping",
+    "2 tbsp ground pistachios (15 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the yeast, sugar and salt, then add the cream cheese and evaporated milk and knead, adding the water little by little, to a soft, smooth dough that does not stick to your hands."
+   ],
+   [
+    null,
+    "Cover the dough and leave to rise for 1 hour or until doubled."
+   ],
+   [
+    null,
+    "Dust the worktop with a little flour, roll the dough about ½ cm thick and cut 12 rounds with a glass or cutter."
+   ],
+   [
+    null,
+    "Place the rounds on a tray lined with baking paper, brush with the oil and leave for 15 minutes to puff; heat the oven to 200 °C."
+   ],
+   [
+    null,
+    "Bake the rounds for 12–15 minutes until puffed and golden."
+   ],
+   [
+    null,
+    "Brush them while hot with the thinned honey, sprinkle with pistachios and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: baked instead of fried, low-fat cream cheese instead of full-fat cheese, fat-free evaporated milk, half whole-wheat flour, and 40 g honey for the whole batch instead of a glass of syrup."
+   ],
+   [
+    null,
+    "Kidney tip: cheese, evaporated milk and pistachios contain phosphorus; keep to one piece, and you can skip the pistachios and use only white flour."
+   ],
+   [
+    null,
+    "Diabetes tip: one piece has about 21 g carbohydrate; have one piece without the honey glaze, with Arabic coffee or unsweetened tea."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Saudi cuisine), Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT15M",
+  "total_time": "PT1H35M",
+  "translation_of": "jibniyya"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "aqit",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15468-1.html",
+  "lang": "ar",
+  "title": "الأقط",
+  "description": "الأقط (ويُسمّى أيضاً البقل أو الجميد أو المضير) من طعام البادية في نجد والشمال: لبن الغنم أو الماعز يُسخّن حتى يتجبّن، ثم يُصفّى ويُملّح ويُشكّل كرات صغيرة تُجفَّف في الشمس، ويؤكل مع التمر والقهوة أو الشاي. هنا يُصنع من لبن قليل الدسم مع ملح قليل جداً، لأن الأقط التقليدي يكون مالحاً كثيراً.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "10",
+  "serving_size": "حبتان صغيرتان (حوالي 25 غ)",
+  "category": "Appetizers & Snacks",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Gluten-free"
+  ],
+  "dish": [
+   "5 or less ingredients",
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 32,
+   "protein_g": 5.6,
+   "carbohydrates_g": 2.0,
+   "fat_g": 0.2,
+   "cholesterol_mg": 3,
+   "sodium_mg": 97,
+   "potassium_mg": 78,
+   "phosphorus_mg": 74,
+   "calcium_mg": 60,
+   "fiber_g": 0.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 لتر لبن قليل الدسم (لبن غنم أو ماعز أو بقر)"
+   ],
+   [
+    null,
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اترك اللبن خارج الثلاجة بضع ساعات إذا رغبت في طعم أكثر حموضة."
+   ],
+   [
+    null,
+    "ضع اللبن في قدر على نار هادئة جداً بدون غليان، وحرّكه برفق من وقت لآخر حتى يتجبّن وينفصل المصل الأصفر عن الخثارة (30–45 دقيقة)."
+   ],
+   [
+    null,
+    "صفِّ الخثارة في قطعة شاش أو مصفاة ناعمة وتخلّص من المصل، ثم أعدها إلى قدر نظيف على نار هادئة مع التحريك المستمر حتى تجف معظم سوائلها ولا تلتصق."
+   ],
+   [
+    null,
+    "أضف الملح واخلط، واتركها تبرد حتى يسهل تشكيلها."
+   ],
+   [
+    null,
+    "شكّلها كرات صغيرة أو أقراصاً بحجم حبة الجوز (حوالي 20 حبة)، ورصّها على شاش أو منشفة نظيفة لتمتص الرطوبة."
+   ],
+   [
+    null,
+    "غطّها بشاش خفيف واتركها في الشمس أو في مكان جاف جيد التهوية يوماً إلى يومين حتى تجف وتتماسك، ثم احفظها في علبة محكمة في الثلاجة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لبن قليل الدسم، وملح قليل جداً (حوالي 0.2 غ للحصة) بدل الكمية الكبيرة المستخدمة للحفظ الطويل، لذلك يُحفظ في الثلاجة ويؤكل خلال أسبوعين."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الأقط غني بالبروتين والفوسفور مثل باقي منتجات الألبان؛ اكتفِ بحبة أو حبتين في اليوم، وتجنب الأقط التجاري المالح."
+   ],
+   [
+    null,
+    "لمرضى السكري: الأقط قليل الكربوهيدرات جداً (حوالي 2 غ للحصة)؛ قدّمه مع تمرة واحدة فقط أو مع خيار بدل كمية كبيرة من التمر."
+   ],
+   [
+    null,
+    "مناسبة لـ: مرضى السكري، صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، نظام خالٍ من الغلوتين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (أقط)، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT26H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "aqit-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15468-1.html",
+  "lang": "en",
+  "title": "Aqit (Dried Laban Curd)",
+  "description": "Aqit (also called baql, jameed or madeer) is Bedouin food from Najd and the north: sheep or goat laban is heated until it curdles, then strained, salted, shaped into small balls and dried in the sun, and eaten with dates and coffee or tea. Here it is made from low-fat laban with very little salt, because traditional aqit is very salty.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "10",
+  "serving_size": "2 small balls (about 25 g)",
+  "category": "Appetizers & Snacks",
+  "diet": [
+   "Diabetes",
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Gluten-free"
+  ],
+  "dish": [
+   "5 or less ingredients",
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 32,
+   "protein_g": 5.6,
+   "carbohydrates_g": 2.0,
+   "fat_g": 0.2,
+   "cholesterol_mg": 3,
+   "sodium_mg": 97,
+   "potassium_mg": 78,
+   "phosphorus_mg": 74,
+   "calcium_mg": 60,
+   "fiber_g": 0.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 l low-fat laban (sheep, goat or cow)"
+   ],
+   [
+    null,
+    "⅓ tsp salt (2 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Leave the laban out of the fridge for a few hours if you like a sourer taste."
+   ],
+   [
+    null,
+    "Put the laban in a pot over very low heat without boiling, stirring gently now and then, until it curdles and the yellow whey separates from the curd (30–45 minutes)."
+   ],
+   [
+    null,
+    "Strain the curd through muslin or a fine sieve and discard the whey, then return the curd to a clean pot over low heat, stirring constantly, until most of the liquid has evaporated and it no longer sticks."
+   ],
+   [
+    null,
+    "Mix in the salt and let it cool until easy to shape."
+   ],
+   [
+    null,
+    "Shape into small balls or discs the size of a walnut (about 20 pieces) and lay them on muslin or a clean towel to absorb moisture."
+   ],
+   [
+    null,
+    "Cover with light muslin and leave in the sun or a dry, airy place for 1–2 days until firm and dry, then keep in an airtight box in the fridge."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: low-fat laban and very little salt (about 0.2 g per portion) instead of the large amount used for long storage, so keep it in the fridge and eat it within two weeks."
+   ],
+   [
+    null,
+    "Kidney tip: aqit is rich in protein and phosphorus like other dairy foods; keep to 1–2 pieces a day and avoid salty shop-bought aqit."
+   ],
+   [
+    null,
+    "Diabetes tip: aqit is very low in carbohydrate (about 2 g per portion); serve it with just one date or with cucumber rather than many dates."
+   ],
+   [
+    null,
+    "Suitable for: people with diabetes, heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, a gluten-free diet."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Aqit), Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT26H",
+  "translation_of": "aqit"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "tawa-qasimiya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10711-1.html",
+  "lang": "ar",
+  "title": "التاوة القصيمية",
+  "description": "التاوة (الطاوة أو المنافيخ) فطور شتوي تقليدي من القصيم ونجد: أقراص صغيرة من عجينة البر المختمرة بحبة البركة تنتفخ عند طهيها، وتقدَّم مع العسل أو دبس التمر والشاي أو الحليب. هنا تُخبز الأقراص في فرن حار أو مقلاة غير لاصقة بدل القلي في الزيت الغزير، مع لبن قليل الدسم ونصف كمية السكر وكمية عسل محدودة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "قرصان صغيران مع العسل (حوالي 75 غ)",
+  "category": "Breakfast & Brunch",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 204,
+   "protein_g": 6.5,
+   "carbohydrates_g": 37.1,
+   "fat_g": 4.2,
+   "cholesterol_mg": 24,
+   "sodium_mg": 144,
+   "potassium_mg": 162,
+   "phosphorus_mg": 142,
+   "calcium_mg": 44,
+   "fiber_g": 3.2,
+   "added_sugar_g": 8.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "200 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "100 غ دقيق أبيض"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة كبيرة سكر (15 غ)"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة خميرة فورية (6 غ)"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة حبة البركة (حبة سوداء)"
+   ],
+   [
+    "للعجينة",
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ],
+   [
+    "للعجينة",
+    "1 بيضة (50 غ)"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة زيت زيتون (10 مل)"
+   ],
+   [
+    "للعجينة",
+    "200 مل لبن قليل الدسم دافئ"
+   ],
+   [
+    "للدهن والتقديم",
+    "2 ملعقة صغيرة زيت زيتون (10 مل)"
+   ],
+   [
+    "للدهن والتقديم",
+    "3 ملاعق كبيرة عسل (60 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين مع السكر والخميرة وحبة البركة والملح."
+   ],
+   [
+    null,
+    "أضف البيضة والزيت واللبن الدافئ واعجن حتى تحصل على عجينة متماسكة لينة، وأضف ملعقة ماء إذا لزم، ثم غطّها واتركها تتخمر ساعة."
+   ],
+   [
+    null,
+    "سخّن الفرن على 240°م مع صينية حديد أو حجر خبز بداخله."
+   ],
+   [
+    null,
+    "قسّم العجينة 16 كرة صغيرة، وافرد كل كرة بيدك قرصاً رقيقاً بقطر 10 سم تقريباً."
+   ],
+   [
+    null,
+    "ادهن الأقراص بخفة بالزيت بالفرشاة، واخبزها على الصينية الساخنة 5–6 دقائق حتى تنتفخ وتتحمر، مع قلبها في المنتصف. (يمكن طهيها في مقلاة غير لاصقة مغطاة على نار متوسطة دقيقتين لكل جهة.)"
+   ],
+   [
+    null,
+    "رصّ الأقراص في صحن، واسكب عليها العسل وقدّمها ساخنة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: خَبز أو طهي في مقلاة غير لاصقة بدل القلي، ثلثا الدقيق بر كامل، لبن قليل الدسم، نصف السكر المعتاد في العجينة، وعسل محدود (حوالي ملعقتين صغيرتين للحصة)."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر واللبن فيهما فوسفور وبوتاسيوم؛ يمكن استخدام دقيق أبيض أكثر، والاكتفاء بقرصين."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة (قرصان) فيها حوالي 37 غ كربوهيدرات؛ استغنِ عن العسل وقدّمها مع بيضة مسلوقة أو لبنة قليلة الدسم وخيار."
+   ],
+   [
+    null,
+    "مناسبة لـ: صحة القلب وضغط الدم، مرضى الكلى غير المحتاجين للغسيل، مرضى غسيل الكلى، النباتيين."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية (المطبخ السعودي: الطاوة)، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen",
+  "source_id": "tawa-qasimiya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10711-1.html",
+  "lang": "en",
+  "title": "Qassimi Tawa",
+  "description": "Tawa (also taawa or manafeekh) is a traditional winter breakfast from Qassim and Najd: small rounds of risen whole-wheat dough with nigella seeds that puff up as they cook, served with honey or date syrup and tea or milk. Here the rounds are baked in a hot oven or a non-stick pan instead of deep-fried, with low-fat laban, half the sugar and a measured amount of honey.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "2 small rounds with honey (about 75 g)",
+  "category": "Breakfast & Brunch",
+  "diet": [
+   "Heart Healthy",
+   "CKD non-dialysis",
+   "Dialysis",
+   "Lower Potassium",
+   "Vegetarian"
+  ],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 204,
+   "protein_g": 6.5,
+   "carbohydrates_g": 37.1,
+   "fat_g": 4.2,
+   "cholesterol_mg": 24,
+   "sodium_mg": 144,
+   "potassium_mg": 162,
+   "phosphorus_mg": 142,
+   "calcium_mg": 44,
+   "fiber_g": 3.2,
+   "added_sugar_g": 8.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "200 g whole-wheat flour"
+   ],
+   [
+    "For the dough",
+    "100 g white flour"
+   ],
+   [
+    "For the dough",
+    "1 tbsp sugar (15 g)"
+   ],
+   [
+    "For the dough",
+    "2 tsp instant yeast (6 g)"
+   ],
+   [
+    "For the dough",
+    "2 tsp nigella seeds (black seed)"
+   ],
+   [
+    "For the dough",
+    "⅓ tsp salt (2 g)"
+   ],
+   [
+    "For the dough",
+    "1 egg (50 g)"
+   ],
+   [
+    "For the dough",
+    "2 tsp olive oil (10 ml)"
+   ],
+   [
+    "For the dough",
+    "200 ml warm low-fat laban"
+   ],
+   [
+    "For brushing and serving",
+    "2 tsp olive oil (10 ml)"
+   ],
+   [
+    "For brushing and serving",
+    "3 tbsp honey (60 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the sugar, yeast, nigella seeds and salt."
+   ],
+   [
+    null,
+    "Add the egg, oil and warm laban and knead to a soft, smooth dough, adding a spoon of water if needed; cover and leave to rise for 1 hour."
+   ],
+   [
+    null,
+    "Heat the oven to 240 °C with a cast-iron tray or baking stone inside."
+   ],
+   [
+    null,
+    "Divide the dough into 16 small balls and press each one by hand into a thin round about 10 cm wide."
+   ],
+   [
+    null,
+    "Brush the rounds lightly with oil and bake on the hot tray for 5–6 minutes, turning halfway, until puffed and golden. (You can also cook them in a covered non-stick pan over medium heat for 2 minutes per side.)"
+   ],
+   [
+    null,
+    "Stack the rounds on a plate, pour the honey over and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: baked or pan-cooked instead of deep-fried, two-thirds whole-wheat flour, low-fat laban, half the usual sugar in the dough, and limited honey (about 2 tsp per portion)."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour and laban contain phosphorus and potassium; you can use more white flour and keep to 2 rounds."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion (2 rounds) has about 37 g carbohydrate; skip the honey and serve with a boiled egg or low-fat labneh and cucumber."
+   ],
+   [
+    null,
+    "Suitable for: heart health and blood pressure, kidney disease (not on dialysis), people on dialysis, vegetarians."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia (Saudi cuisine: tawa), Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H20M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H45M",
+  "translation_of": "tawa-qasimiya"
  }
 ]
