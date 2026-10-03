@@ -1,0 +1,29 @@
+[
+ {
+  "recipe_id": 2496,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ar": "الحلّة خبز بسيط بالخميرة يُقدَّم في يوم السبت وفي الأعياد اليهودية. جرّب خبز الحلّة السماوي من إعداد Maryam، فهو لذيذ لدرجة أنه يستحق اسمه السماوي بلا شك.",
+   "en": "Challah is a simple yeast bread served on the Sabbath and Jewish holidays. Try this classic challah from Maryam.",
+   "es": "La jalá es un pan sencillo de levadura que se sirve en el Sabbat y en las festividades judías. Pruebe la jalá celestial de Maryam. Es tan buena que sin duda hace honor a su nombre celestial.",
+   "fr": "Le challah est un pain levé simple servi lors du Shabbat et des fêtes juives. Essayez ce challah classique de Maryam.",
+   "hi": "चैला (हल्ला) एक सादी खमीर वाली ब्रेड है जो सब्बाथ और यहूदी त्योहारों पर परोसी जाती है। मरियम की यह क्लासिक चैला आज़माएँ।",
+   "id": "Challah adalah roti ragi sederhana yang disajikan pada hari Sabat dan hari raya Yahudi. Cobalah challah klasik dari Maryam ini.",
+   "ur": "ہالہ ایک سادہ خمیری روٹی ہے جو سبت اور یہودی تہواروں پر پیش کی جاتی ہے۔ مریم کا یہ کلاسک ہالہ آزمائیں۔"
+  }
+ },
+ {
+  "recipe_id": 7379443,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ar": "الكوغل طبق يهودي تقليدي. يُحضَّر عادةً بالمعكرونة ويكون حلوًا، لكن هناك أيضًا نسخ مالحة تُحضَّر بالبطاطس أو الجزر. وهو غداء أو عشاء خفيف ممتاز عند تقديمه مع السلطة، ويمكن تناوله ساخنًا أو باردًا.",
+   "en": "Kugel is a traditional Jewish dish. It's usually made with noodles and is sweet, but savoury versions are also made, with potatoes or carrots. It makes an excellent light lunch or supper served with salad and can be eaten hot or cold.",
+   "es": "El kugel es un plato tradicional judío. Suele prepararse con fideos y es dulce, pero también hay versiones saladas, con papas o zanahorias. Es un excelente almuerzo o cena ligera servido con ensalada y puede comerse caliente o frío.",
+   "fr": "Le kugel est un plat traditionnel juif. Il est généralement préparé avec des nouilles et sucré, mais il existe aussi des versions salées, avec des pommes de terre ou des carottes. Il constitue un excellent déjeuner ou dîner léger servi avec une salade, et peut se manger chaud ou froid.",
+   "hi": "कुगेल एक पारंपरिक यहूदी व्यंजन है। यह आमतौर पर नूडल्स से बनता है और मीठा होता है, लेकिन आलू या गाजर के साथ नमकीन संस्करण भी बनाए जाते हैं। सलाद के साथ परोसने पर यह एक बेहतरीन हल्का दोपहर या रात का भोजन बनता है और इसे गरम या ठंडा दोनों तरह खाया जा सकता है।",
+   "ur": "کوگل ایک روایتی یہودی ڈش ہے۔ یہ عموماً نوڈلز سے بنتی ہے اور میٹھی ہوتی ہے، لیکن آلو یا گاجر کے ساتھ نمکین ورژن بھی بنائے جاتے ہیں۔ سلاد کے ساتھ پیش کرنے پر یہ ایک بہترین ہلکا دوپہر یا رات کا کھانا ہے اور اسے گرم یا ٹھنڈا کھایا جا سکتا ہے۔"
+  }
+ }
+]

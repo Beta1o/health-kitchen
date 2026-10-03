@@ -1,0 +1,29 @@
+[
+ {
+  "recipe_id": 2496,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Challah is a soft, braided yeast bread, traditional in Eastern European baking. Try this classic challah from Maryam.",
+   "ar": "الحلّة خبز طري مضفور بالخميرة، تقليدي في مخبوزات أوروبا الشرقية. جرّب خبز الحلّة السماوي من إعداد Maryam، فهو لذيذ لدرجة أنه يستحق اسمه السماوي بلا شك.",
+   "es": "La jalá es un pan de levadura suave y trenzado, tradicional de la repostería de Europa del Este. Pruebe la jalá celestial de Maryam. Es tan buena que sin duda hace honor a su nombre celestial.",
+   "fr": "Le challah est un pain levé moelleux et tressé, traditionnel de la boulangerie d'Europe de l'Est. Essayez ce challah classique de Maryam.",
+   "hi": "चैला (हल्ला) एक मुलायम, गुंथी हुई खमीर वाली ब्रेड है, जो पूर्वी यूरोपीय बेकिंग में पारंपरिक है। मरियम की यह क्लासिक चैला आज़माएँ।",
+   "id": "Challah adalah roti ragi lembut berkepang, tradisional dalam kue Eropa Timur. Cobalah challah klasik dari Maryam ini.",
+   "ur": "ہالہ ایک نرم، گندھی ہوئی خمیری روٹی ہے جو مشرقی یورپ کی بیکنگ میں روایتی ہے۔ مریم کا یہ کلاسک ہالہ آزمائیں۔"
+  }
+ },
+ {
+  "recipe_id": 7379443,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Kugel is a traditional Eastern European baked dish. It's usually made with noodles and is sweet, but savoury versions are also made, with potatoes or carrots. It makes an excellent light lunch or supper served with salad and can be eaten hot or cold.",
+   "ar": "الكوغل طبق مخبوز تقليدي من أوروبا الشرقية. يُحضَّر عادةً بالمعكرونة ويكون حلوًا، لكن هناك أيضًا نسخ مالحة تُحضَّر بالبطاطس أو الجزر. وهو غداء أو عشاء خفيف ممتاز عند تقديمه مع السلطة، ويمكن تناوله ساخنًا أو باردًا.",
+   "es": "El kugel es un plato horneado tradicional de Europa del Este. Suele prepararse con fideos y es dulce, pero también hay versiones saladas, con papas o zanahorias. Es un excelente almuerzo o cena ligera servido con ensalada y puede comerse caliente o frío.",
+   "fr": "Le kugel est un plat cuit au four traditionnel d'Europe de l'Est. Il est généralement préparé avec des nouilles et sucré, mais il existe aussi des versions salées, avec des pommes de terre ou des carottes. Il constitue un excellent déjeuner ou dîner léger servi avec une salade, et peut se manger chaud ou froid.",
+   "hi": "कुगेल पूर्वी यूरोप का एक पारंपरिक बेक किया हुआ व्यंजन है। यह आमतौर पर नूडल्स से बनता है और मीठा होता है, लेकिन आलू या गाजर के साथ नमकीन संस्करण भी बनाए जाते हैं। सलाद के साथ परोसने पर यह एक बेहतरीन हल्का दोपहर या रात का भोजन बनता है और इसे गरम या ठंडा दोनों तरह खाया जा सकता है।",
+   "ur": "کوگل مشرقی یورپ کی ایک روایتی بیک کی ہوئی ڈش ہے۔ یہ عموماً نوڈلز سے بنتی ہے اور میٹھی ہوتی ہے، لیکن آلو یا گاجر کے ساتھ نمکین ورژن بھی بنائے جاتے ہیں۔ سلاد کے ساتھ پیش کرنے پر یہ ایک بہترین ہلکا دوپہر یا رات کا کھانا ہے اور اسے گرم یا ٹھنڈا کھایا جا سکتا ہے۔"
+  }
+ }
+]

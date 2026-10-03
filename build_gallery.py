@@ -156,7 +156,7 @@ def main():
         shutil.rmtree(CHUNKS)
 
     # cuisines: one "American", "Latin American" for South America, and Middle Eastern split by country
-    rename = {"Native American": "American", "Southern": "American", "South American": "Latin American", "Latin": "Latin American", "Venezuelan": "Latin American", "North Africa": "North African"}
+    rename = {"Native American": "American", "Southern": "American", "South American": "Latin American", "Latin": "Latin American", "Venezuelan": "Latin American", "North Africa": "North African", "Jewish": "Eastern European"}
     by_dish = json.loads((HERE / "translations" / "cuisine_me.json").read_text(encoding="utf-8"))
     for rec in recipes:
         cu = {rename.get(c, c) for c in rec["cuisine"]}
@@ -232,7 +232,12 @@ def main():
         c = json.loads(sbcfg.read_text(encoding="utf-8"))
         if c.get("url") and c.get("anonKey"):
             sbjs = "<script>window.HK_SUPABASE=" + json.dumps({"url": c["url"], "anonKey": c["anonKey"]}) + ";</script>"
-    body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
+    # start downloading the reader's language files together with data.js (they are needed before the first paint)
+    early = ("<script>(function(){try{var V=" + json.dumps({k: v for k, v in vers.items()}) + ",g=function(k){return JSON.parse(localStorage.getItem(k)||'null')},"
+             "l=g('kk:lang')||((g('kk:cfgCache')||{}).defaults||{}).lang||(navigator.language||'en').slice(0,2);"
+             "[['text/',l],['ui/','ui_'+l]].concat(l==='ar'?[['text/','arf']]:[]).forEach(function(p){var n=p[0]==='ui/'?l:p[1],v=V[p[1]];if(!v)return;var e=document.createElement('link');"
+             "e.rel='preload';e.as='script';e.href=p[0]+n+'.js?v='+v;document.head.appendChild(e)})}catch(e){}})();</script>")
+    body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + early + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             '<meta name="description" content="Health Kitchen: thousands of recipes for kidney disease, diabetes, blood pressure and heart health, '
