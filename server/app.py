@@ -13,14 +13,15 @@ import json
 import os
 import re
 import secrets
+import time
 from contextlib import contextmanager
 from datetime import date
 from pathlib import Path
 
 import psycopg
 import psycopg.sql
-from fastapi import Depends, FastAPI, Header, HTTPException
-from fastapi.responses import FileResponse
+from fastapi import Depends, FastAPI, Header, HTTPException, Request
+from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from psycopg.rows import dict_row
 from psycopg_pool import ConnectionPool
@@ -59,12 +60,29 @@ DB_URL = (_fernet().decrypt(_enc.encode()).decode() if _enc else None) or os.env
 SESSION_DAYS = 30
 pool = ConnectionPool(DB_URL, min_size=1, max_size=8, open=True)
 DEFAULT_CONFIG = {"defaults": {"lang": "", "theme": "", "units": "", "plan": ""}, "allow_signups": True, "session_days": 30,
-                  "announcement": {"active": False, "level": "info", "text": {}}, "hidden_sources": [], "hidden_langs": [], "access": {}}
+                  "announcement": {"active": False, "level": "info", "text": {}}, "hidden_sources": [], "hidden_langs": [], "access": {}, "idle_minutes": 60}
 app = FastAPI(title="Health Kitchen API")
 # the app may also be opened from another local port (e.g. a plain file server); allow those pages to call the API
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
 from fastapi.middleware.gzip import GZipMiddleware  # noqa: E402
 app.add_middleware(GZipMiddleware, minimum_size=1000)
+
+# ---------- security: headers on every response, request size limit ----------
+SEC_HEADERS = {"X-Content-Type-Options": "nosniff", "X-Frame-Options": "DENY", "Referrer-Policy": "strict-origin-when-cross-origin",
+               "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=()",
+               "Cross-Origin-Opener-Policy": "same-origin", "Cross-Origin-Resource-Policy": "same-site"}
+MAX_BODY = 2_000_000
+
+
+@app.middleware("http")
+async def security_headers(request, call_next):
+    size = request.headers.get("content-length", "")
+    if size.isdigit() and int(size) > MAX_BODY:
+        return JSONResponse({"detail": "Request too large"}, status_code=413)
+    resp = await call_next(request)
+    for k, v in SEC_HEADERS.items():
+        resp.headers.setdefault(k, v)
+    return resp
 
 
 @app.middleware("http")
@@ -132,6 +150,47 @@ def admin(user=Depends(current)):
     return user
 
 
+# ---------- sign-in protection: failed attempts per email and per address, password rule, audit log ----------
+FAILS: dict[str, list[float]] = {}
+LOCK_WINDOW, MAX_PER_EMAIL, MAX_PER_IP = 900, 5, 30
+
+
+def client_ip(request: Request) -> str:
+    return request.client.host if request.client else ""
+
+
+def throttle_check(*keys_limits):
+    now = time.time()
+    for key, limit in keys_limits:
+        recent = [t for t in FAILS.get(key, []) if now - t < LOCK_WINDOW]
+        FAILS[key] = recent
+        if len(recent) >= limit:
+            mins = int((LOCK_WINDOW - (now - recent[0])) / 60) + 1
+            raise HTTPException(429, f"Too many failed attempts. Try again in {mins} minutes.")
+
+
+def throttle_fail(*keys):
+    for key in keys:
+        FAILS.setdefault(key, []).append(time.time())
+
+
+COMMON_PW = re.compile(r"^(password|passw0rd|qwerty|letmein|welcome|admin|iloveyou|abc123|monkey|dragon|football|baseball|sunshine|"
+                       r"princess|master|123123|111111|000000|1q2w3e|qazwsx|zaq12wsx)", re.I)
+
+
+def check_new_password(pw: str, email: str = ""):
+    """At least 10 characters with letters and numbers; not a common password or the email name."""
+    name = email.split("@")[0].lower()
+    if (len(pw) < 10 or not re.search(r"[A-Za-z\u0600-\u06FF]", pw) or not re.search(r"\d", pw) or COMMON_PW.match(pw)
+            or re.fullmatch(r"\d+|(.)\1+", pw) or (len(name) > 3 and name in pw.lower())):
+        raise HTTPException(400, "Use at least 10 characters with letters and numbers, and avoid common passwords.")
+
+
+def audit(c, actor, action: str, target: str = "", detail: dict | None = None, ip: str = ""):
+    c.execute("INSERT INTO hk.audit_log (actor, action, target, detail, ip) VALUES (%s, %s, %s, %s, %s)",
+              (actor, action, str(target), json.dumps(detail or {}), ip))
+
+
 # ---------- auth ----------
 class SignUp(BaseModel):
     email: str = Field(max_length=200)
@@ -162,9 +221,11 @@ def new_session(c, uid):
 
 
 @app.post("/api/signup")
-def signup(body: SignUp):
+def signup(body: SignUp, request: Request):
     if not EMAIL_RE.match(body.email):
         raise HTTPException(400, "Enter a valid email address")
+    throttle_check(("ip:" + client_ip(request), MAX_PER_IP))
+    check_new_password(body.password, body.email)
     with as_user() as c:
         if not app_config(c).get("allow_signups", True):
             raise HTTPException(403, "New sign-ups are closed")
@@ -180,11 +241,20 @@ def signup(body: SignUp):
 
 
 @app.post("/api/login")
-def login(body: Login):
+def login(body: Login, request: Request):
+    ip, em = client_ip(request), body.email.strip().lower()
+    throttle_check(("email:" + em, MAX_PER_EMAIL), ("ip:" + ip, MAX_PER_IP))
     with as_user() as c:
         row = c.execute("SELECT * FROM hk.login_lookup(%s)", (body.email.strip(),)).fetchone()
-        if not row or not check_password(body.password, row["password_hash"]):
-            raise HTTPException(401, "Email or password is incorrect")
+        failed = not row or not check_password(body.password, row["password_hash"])
+    if failed:
+        throttle_fail("email:" + em, "ip:" + ip)
+        if len(FAILS.get("email:" + em, [])) == MAX_PER_EMAIL:
+            with as_user() as c:   # its own transaction, so the entry is kept although the request fails
+                audit(c, row["id"] if row else None, "login_locked", em, {"attempts": MAX_PER_EMAIL}, ip)
+        raise HTTPException(401, "Email or password is incorrect")
+    with as_user() as c:
+        FAILS.pop("email:" + em, None)
         if row["disabled"]:
             raise HTTPException(403, "This account is disabled")
         tok = new_session(c, row["id"])
@@ -281,8 +351,10 @@ class NewPassword(BaseModel):
 
 
 @app.put("/api/admin/users/{uid}/password")
-def admin_password(uid: str, body: NewPassword, user=Depends(admin)):
+def admin_password(uid: str, body: NewPassword, request: Request, user=Depends(admin)):
+    check_new_password(body.password)
     with as_user(user["id"], "admin") as c:
+        audit(c, user["id"], "password_reset", uid, ip=client_ip(request))
         c.execute("UPDATE hk.users SET password_hash = %s WHERE id = %s", (hash_password(body.password), uid))
         if uid != str(user["id"]):
             c.execute("SELECT hk.end_user_sessions(%s)", (uid,))
@@ -299,6 +371,7 @@ def admin_disable(uid: str, body: Active, user=Depends(admin)):
         raise HTTPException(400, "You can't disable your own account")
     with as_user(user["id"], "admin") as c:
         c.execute("UPDATE hk.users SET disabled = %s WHERE id = %s", (body.disabled, uid))
+        audit(c, user["id"], "user_disabled" if body.disabled else "user_enabled", uid)
         if body.disabled:
             c.execute("SELECT hk.end_user_sessions(%s)", (uid,))
     return {"ok": True}
@@ -315,6 +388,7 @@ def admin_role(uid: str, body: RoleBody, user=Depends(admin)):
         raise HTTPException(400, "You can't change your own role")
     with as_user(user["id"], "admin") as c:
         row = c.execute("UPDATE hk.users SET role = %s WHERE id = %s RETURNING role", (body.role, uid)).fetchone()
+        audit(c, user["id"], "role_changed", uid, {"role": body.role})
     if not row:
         raise HTTPException(404, "No such user")
     return {"ok": True, "role": row["role"]}
@@ -337,7 +411,9 @@ def admin_delete(uid: str, user=Depends(admin)):
     if uid == str(user["id"]):
         raise HTTPException(400, "You can't delete your own account here")
     with as_user(user["id"], "admin") as c:
+        email = (c.execute("SELECT email FROM hk.users WHERE id = %s", (uid,)).fetchone() or {}).get("email", "")
         c.execute("DELETE FROM hk.users WHERE id = %s", (uid,))
+        audit(c, user["id"], "user_deleted", uid, {"email": email})
     return {"ok": True}
 
 
@@ -346,7 +422,7 @@ def admin_delete(uid: str, user=Depends(admin)):
 def public_config():
     with as_user() as c:
         cfg = app_config(c)
-    return {k: cfg[k] for k in ("defaults", "allow_signups", "announcement", "hidden_sources", "hidden_langs", "access")}
+    return {k: cfg[k] for k in ("defaults", "allow_signups", "announcement", "hidden_sources", "hidden_langs", "access", "idle_minutes")}
 
 
 @app.get("/api/admin/config")
@@ -362,11 +438,24 @@ def put_config(body: dict, user=Depends(admin)):
         for k, v in body.items():
             if k not in allowed:
                 raise HTTPException(400, f"Unknown setting: {k}")
+            if k == "idle_minutes" and not (isinstance(v, int) and 0 <= v <= 1440):
+                raise HTTPException(400, "Idle sign-out must be 0 to 1440 minutes")
             if k == "session_days" and not (isinstance(v, int) and 1 <= v <= 365):
                 raise HTTPException(400, "Session length must be 1 to 365 days")
             c.execute("""INSERT INTO hk.app_config (key, value, updated_at) VALUES (%s, %s, now())
                          ON CONFLICT (key) DO UPDATE SET value = EXCLUDED.value, updated_at = now()""", (k, json.dumps(v)))
+        audit(c, user["id"], "settings_changed", ",".join(sorted(body)))
     return {"ok": True}
+
+
+@app.get("/api/admin/audit")
+def admin_audit(user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        rows = c.execute("""SELECT a.at, a.action, a.target, a.detail, a.ip, coalesce(u.email, '') AS actor_email,
+                                   coalesce(t.email, a.target) AS target_label
+                            FROM hk.audit_log a LEFT JOIN hk.users u ON u.id = a.actor
+                            LEFT JOIN hk.users t ON t.id::text = a.target ORDER BY a.id DESC LIMIT 200""").fetchall()
+    return {"items": rows}
 
 
 def mask_url(url: str) -> str:

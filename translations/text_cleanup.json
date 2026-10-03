@@ -1,0 +1,50 @@
+{
+ "_note": "Applied by build_gallery.py to every recipe text (title, description, ingredients, steps, hints) of each language, in order. Each rule: [regex, replacement]; case-insensitive.",
+ "en": [
+  [" are traditionally served during Hanukkah", " are a classic Eastern European dish"], [", traditionally served during Hanukkah,", ","],
+  ["^.*Passover.*$", "Farfel is coarsely crumbled unsalted crackers."],
+  ["matzo cracker", "unsalted cracker"], ["matzo farfel", "crushed unsalted crackers (farfel)"], ["\\bmatzo\\b", "unsalted cracker"],
+  ["\\bJewish\\b", "Eastern European"], ["\\bkosher\\b", "coarse"]
+ ],
+ "es": [
+  [" se sirven tradicionalmente durante Janucá", " son un plato clásico de Europa del Este"], [", que tradicionalmente se sirven durante Janucá,", ","],
+  ["^.*Pascua judía.*$", "El farfel son galletas sin sal desmenuzadas en trozos gruesos."],
+  ["que se sirve en el Sabbat y en las festividades judías", "suave y trenzado, tradicional de la repostería de Europa del Este"],
+  ["galletas matzá", "galletas sin sal"], ["farfel de matzá", "galletas sin sal trituradas (farfel)"], ["\\bmatzá\\b", "galleta sin sal"],
+  ["\\bjudío\\b", "de Europa del Este"], ["\\bkosher\\b", "gruesa"]
+ ],
+ "ar": [
+  [" تقليديًا خلال عيد الحانوكا", " تقليديًا في أوروبا الشرقية"], ["، التي تُقدّم تقليديًا خلال عيد الحانوكا،", ""],
+  ["^.*الفصح اليهودي.*$", "الفارفل بسكويت غير مملح مفتت إلى قطع خشنة."],
+  ["يُقدَّم في يوم السبت وفي الأعياد اليهودية", "طري ومضفور، تقليدي في مخبوزات أوروبا الشرقية"],
+  ["بسكويت ماتزا", "بسكويت غير مملح"], ["فارفل الماتزا \\(فتات خبز الماتزا\\)", "فتات بسكويت غير مملح (فارفل)"], ["فارفل الماتزا", "فتات بسكويت غير مملح (فارفل)"], ["الماتزا", "البسكويت غير المملح"], ["ماتزا", "بسكويت غير مملح"],
+  ["طبق يهودي تقليدي", "طبق تقليدي من أوروبا الشرقية"],
+  ["ملح الكوشر", "الملح الخشن"], ["ملح كوشر", "ملح خشن"], ["الكوشر", "الخشن"], ["كوشر", "خشن"]
+ ],
+ "fr": [
+  [" sont traditionnellement servies pendant Hanoukka", " sont un plat classique d'Europe de l'Est"], [", traditionnellement servis pendant Hanoukka,", ","],
+  ["^.*produits de la Pâque.*$", "Le farfel est fait de craquelins non salés grossièrement émiettés."],
+  ["craquelins de matzo", "craquelins non salés"], ["farfel de matzo", "craquelins non salés émiettés (farfel)"], ["\\bmatzo\\b", "craquelin non salé"],
+  ["plat traditionnel juif", "plat traditionnel d'Europe de l'Est"], ["\\bsel (casher|kasher|kosher)\\b", "gros sel"], ["\\b(casher|kasher|kosher)\\b", "gros"]
+ ],
+ "ur": [
+  ["، جو روایتی طور پر ہنوکا کے دوران پیش کیے جاتے ہیں،", ""],
+  ["^.*پاس اوور.*$", "فارفل بغیر نمک کے کریکرز کا موٹا چورا ہوتا ہے۔"],
+  ["ماتزو فارفل", "بغیر نمک کے کریکرز کا چورا (فارفل)"], ["ماتزو", "بغیر نمک کا کریکر"],
+  ["روایتی یہودی ڈش", "مشرقی یورپ کی روایتی ڈش"], ["کوشر", "موٹا"]
+ ],
+ "hi": [
+  [", जो परंपरागत रूप से हनुक्का के दौरान परोसे जाते हैं,", ""],
+  ["^.*पासओवर.*$", "फ़ारफ़ेल बिना नमक वाले क्रैकर का दरदरा चूरा है।"],
+  ["मत्ज़ो क्रैकर्स", "बिना नमक वाले क्रैकर्स"], ["मत्ज़ो फ़ारफ़ेल", "बिना नमक वाले क्रैकर का चूरा (फ़ारफ़ेल)"], ["मत्ज़ो", "बिना नमक वाला क्रैकर"],
+  ["पारंपरिक यहूदी व्यंजन", "पूर्वी यूरोप का पारंपरिक व्यंजन"], ["कोशर|कोषेर|कोशेर", "मोटा"]
+ ],
+ "id": [
+  [" secara tradisional disajikan selama Hanukkah", " adalah hidangan klasik Eropa Timur"], [", yang secara tradisional disajikan selama Hanukkah,", ","],
+  ["^.*produk Paskah.*$", "Farfel adalah biskuit tawar yang dihancurkan kasar."],
+  ["biskuit matzo", "biskuit tawar"], ["matzo farfel", "remahan biskuit tawar (farfel)"], ["\\bmatzo\\b", "biskuit tawar"],
+  ["\\bYahudi\\b", "Eropa Timur"], ["\\bkosher\\b", "kasar"]
+ ],
+ "bn": [["কোশার|কোশের", "মোটা"], ["ইহুদি", "পূর্ব ইউরোপীয়"]],
+ "tl": [["\\bkosher\\b", "magaspang"], ["\\bHudyo\\b", "Silangang Europa"]]
+}

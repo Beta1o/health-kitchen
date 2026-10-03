@@ -193,6 +193,24 @@ def main():
     if missing:
         print("warning: no translation for", missing)
 
+    # wording cleanup in every language (translations/text_cleanup.json), also for later translation imports
+    rules = {l: [(re.compile(p, re.I | re.M), r) for p, r in v] for l, v in json.loads((HERE / "translations" / "text_cleanup.json").read_text(encoding="utf-8")).items() if not l.startswith("_")}
+    def clean(v, rl):
+        if isinstance(v, str):
+            for rx, rp in rl:
+                v = rx.sub(rp, v)
+            return re.sub(r"\s{2,}", " ", v).strip() if v else v
+        if isinstance(v, list):
+            return [clean(x, rl) for x in v]
+        if isinstance(v, dict):
+            return {k: clean(x, rl) for k, x in v.items()}
+        return v
+    for rec in recipes:
+        for l in list(rec["t"]):
+            rl = rules.get("ar" if l == "arf" else l)
+            if rl:
+                rec["t"][l] = clean(rec["t"][l], rl)
+
     import shopping   # needs every language's ingredient lines, so before the split below
     shop, shop_rep = shopping.build(recipes, [l for l in LANGS if l != "en"])
     # split text by language: core data keeps English (or the source text) and a list of available
@@ -246,7 +264,22 @@ def main():
              "[['text/',l],['ui/','ui_'+l]].concat(l==='ar'?[['text/','arf']]:[]).forEach(function(p){var n=p[0]==='ui/'?l:p[1],v=V[p[1]];if(!v)return;var e=document.createElement('link');"
              "e.rel='preload';e.as='script';e.href=p[0]+n+'.js?v='+v;document.head.appendChild(e)})}catch(e){}})();</script>")
     body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + early + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
+    # security: Content-Security-Policy (only this build's own inline scripts run, by hash; no third-party scripts),
+    # referrer policy; the sign-in library is served from this site (vendor/), not a CDN
+    VEND = OUT / "vendor"; VEND.mkdir(exist_ok=True)
+    for f in (HERE / "vendor").glob("*.js"):
+        shutil.copy(f, VEND / f.name)
+    inline = re.findall(r"<script>(.*?)</script>", body, re.S)
+    hashes = " ".join("'sha256-" + base64.b64encode(hashlib.sha256(x.encode("utf-8")).digest()).decode() + "'" for x in inline)
+    sb_host = json.loads(sbcfg.read_text(encoding="utf-8")).get("url", "").replace("https://", "") if sbcfg.exists() else ""
+    connect = " ".join(filter(None, ["'self'", sb_host and f"https://{sb_host} wss://{sb_host}",
+                                     "http://localhost:8099 http://localhost:8100 http://127.0.0.1:8099 http://127.0.0.1:8100"]))
+    csp = (f"default-src 'self'; script-src 'self' {hashes}; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; "
+           f"font-src 'self' data:; connect-src {connect}; media-src 'self' https:; frame-src 'none'; object-src 'none'; "
+           "base-uri 'self'; form-action 'self'; worker-src 'self'; manifest-src 'self'")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+            f'<meta http-equiv="Content-Security-Policy" content="{csp}">\n'
+            '<meta name="referrer" content="strict-origin-when-cross-origin">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             '<meta name="description" content="Health Kitchen: thousands of recipes for kidney disease, diabetes, blood pressure and heart health, '
             'in 9 languages, with nutrition per serving, portions sized to your plan and meal plans.">\n'

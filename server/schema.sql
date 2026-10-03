@@ -169,8 +169,9 @@ ALTER TABLE hk.users ADD CONSTRAINT users_role_check CHECK (role IN ('user', 'su
 CREATE OR REPLACE FUNCTION hk.enforce_role() RETURNS trigger LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
 BEGIN
   IF EXISTS (SELECT 1 FROM hk.admin_emails a WHERE a.email = NEW.email) THEN NEW.role := 'admin';
-  ELSIF TG_OP = 'INSERT' OR NEW.role NOT IN ('user', 'supervisor') THEN NEW.role := 'user';
+  ELSIF TG_OP = 'INSERT' THEN NEW.role := 'user';
   ELSIF NEW.role IS DISTINCT FROM OLD.role AND NOT hk.is_admin() THEN NEW.role := OLD.role;
+  ELSIF NEW.role NOT IN ('user', 'supervisor') THEN NEW.role := 'user';
   END IF;
   RETURN NEW;
 END $$;
@@ -219,3 +220,22 @@ CREATE POLICY config_read ON hk.app_config FOR SELECT USING (true);
 DROP POLICY IF EXISTS config_write ON hk.app_config;
 CREATE POLICY config_write ON hk.app_config FOR ALL USING (hk.is_admin()) WITH CHECK (hk.is_admin());
 GRANT SELECT, INSERT, UPDATE, DELETE ON hk.app_config TO hk_api;
+
+-- ---------- v7: audit log of admin and security events (append-only; admins read it) ----------
+CREATE TABLE IF NOT EXISTS hk.audit_log (
+    id      bigserial PRIMARY KEY,
+    at      timestamptz NOT NULL DEFAULT now(),
+    actor   uuid,
+    action  text NOT NULL,
+    target  text NOT NULL DEFAULT '',
+    detail  jsonb NOT NULL DEFAULT '{}',
+    ip      text NOT NULL DEFAULT ''
+);
+ALTER TABLE hk.audit_log ENABLE ROW LEVEL SECURITY;
+ALTER TABLE hk.audit_log FORCE ROW LEVEL SECURITY;
+DROP POLICY IF EXISTS audit_read ON hk.audit_log;
+CREATE POLICY audit_read ON hk.audit_log FOR SELECT USING (hk.is_admin());
+DROP POLICY IF EXISTS audit_add ON hk.audit_log;
+CREATE POLICY audit_add ON hk.audit_log FOR INSERT WITH CHECK (true);
+GRANT SELECT, INSERT ON hk.audit_log TO hk_api;          -- no UPDATE or DELETE: entries cannot be changed
+GRANT USAGE ON SEQUENCE hk.audit_log_id_seq TO hk_api;

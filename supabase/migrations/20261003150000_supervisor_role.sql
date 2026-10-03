@@ -8,10 +8,10 @@ create or replace function public.protect_profile() returns trigger language plp
 begin
   if exists (select 1 from admin_emails a where a.email = new.email) then
     new.role := 'admin';
-  elsif new.role not in ('user', 'supervisor') then
-    new.role := 'user';
   elsif new.role is distinct from old.role and not public.is_admin() then
     new.role := old.role;
+  elsif new.role not in ('user', 'supervisor') then
+    new.role := 'user';
   end if;
   if not public.is_admin() then
     new.email := old.email; new.disabled := old.disabled; new.created_at := old.created_at;
