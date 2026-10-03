@@ -1239,7 +1239,22 @@ const isF = () => (plan.sex || "f") === "f";
 const u = () => lang === "ar" && isF() ? { ...UI.en, ...UI.ar, ...AR_F } : { ...UI.en, ...(UI[lang] || {}) };
 // language files: text/<lang>.js (recipe text) and ui/<lang>.js (interface), loaded on demand
 const langLoaded = { en: true };
-window.HK_TEXT = (l, map) => { for (const id in map) { const r = byIdEarly.get(+id); if (r) r.t[l] = map[id]; } langLoaded[l] = true; };
+window.HK_TEXT = (l, map) => { for (const id in map) { const r = byIdEarly.get(+id); if (r) r.t[l] = { steps: [], hints: [], ...map[id] }; } langLoaded[l] = true; };
+// steps and tips arrive after the first screen (text/<lang>.d.js); a recipe page waits for them
+const detailLoaded = {}, detailJobs = {};
+window.HK_TEXTD = (l, map) => {
+  for (const id in map) { const r = byIdEarly.get(+id); if (!r) continue; const d = map[id];
+    if (l === "arf") { if (r.t.ar) r.t.arf = { ...r.t.ar, steps: d.s, hints: d.h }; }
+    else if (r.t[l]) { r.t[l].steps = d.s; r.t[l].hints = d.h; } }
+  detailLoaded[l] = true;
+};
+const detailLangs = () => [...new Set([lang, ...(lang === "ar" ? ["arf"] : []), "en", ...new Set(DATA.recipes.map(r => Object.keys(r.t)[0]))])];
+function loadDetails(langs = detailLangs()) {
+  const v = DATA.vers || {};
+  return Promise.all(langs.filter(l => v[l + ".d"] && !detailLoaded[l] && (l !== "arf" || langLoaded.ar))
+    .map(l => detailJobs[l] ||= loadScript(`text/${l}.d.js?v=${v[l + ".d"]}`).catch(() => { delete detailJobs[l]; })));
+}
+const detailsReady = () => detailLangs().every(l => detailLoaded[l] || !(DATA.vers || {})[l + ".d"] || (l === "arf" && !langLoaded.ar));
 const byIdEarly = new Map(DATA.recipes.map(r => [r.id, r]));
 const loadScript = src => new Promise((res, rej) => { const el = document.createElement("script"); el.src = src; el.onload = res; el.onerror = rej; document.head.append(el); });
 const FONT_LANGS = { hi: "fonts/hi.css", bn: "fonts/bn.css" };
@@ -1257,7 +1272,7 @@ async function ensureLang(l) {
   }
   try { await Promise.all(jobs); } catch (e) { console.warn("language load failed", l, e); }
 }
-const tx = r => (lang === "ar" && isF() && r.t.arf) || r.t[lang] || r.t[r.src] || r.t.en || Object.values(r.t)[0];
+const tx = r => (lang === "ar" && isF() && r.t.arf?.title && r.t.arf) || r.t[lang] || r.t[r.src] || r.t.en || Object.values(r.t)[0];
 const hayCache = {};
 function hay(r) {
   const c = hayCache[lang] ??= new Map();
@@ -1585,6 +1600,8 @@ function groupedList(items, renderItem, tag, cls) {
   return open ? html + `</${tag}>` : html;
 }
 function openRecipe(id, push = true) {
+  if (!detailsReady() && id < 10_000_000) {   // community recipes carry their own steps
+    document.body.classList.add("loading-lang"); loadDetails().then(() => { document.body.classList.remove("loading-lang"); openRecipe(id, push); }); return; }
   if (view !== "recipes") setView("recipes", false);
   if (!isOpen()) listScroll = window.scrollY;
   const r = byId.get(id); if (!r) return;
@@ -3607,6 +3624,7 @@ async function switchLang(l) {
   if ($("#dayDlg").open) renderDay(); if ($("#planDlg").open) openPlan(); if ($("#mpDlg").open) renderMealPlan(); applyTheme();
   if (view === "dash") renderDash();
   if (view === "account") renderAccount(); if (view === "admin") renderAdmin(); if (view === "shop") renderShop();
+  loadDetails().then(() => { if (typeof renderToday === "function") renderToday(); });
 }
 
 $("#moreBtn").addEventListener("click", () => { const from = state.shown; state.shown += 48;
@@ -3833,5 +3851,6 @@ if (hm[3]) openRecipe(+hm[3], false);
 startSlides();
 hideSplash();
 initAuth();
+loadDetails().then(() => renderToday());   // steps and tips, after the first screen
 })();
 </script>

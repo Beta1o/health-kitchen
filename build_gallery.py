@@ -216,19 +216,32 @@ def main():
     # split text by language: core data keeps English (or the source text) and a list of available
     # languages; every other language goes to text/<lang>.js, loaded only when the reader picks it
     TEXT = OUT / "text"; TEXT.mkdir(exist_ok=True)
-    per_lang = {}
+    # steps and tips (about half of the text) go to text/<lang>.d.js, loaded after the first screen; the feminine
+    # Arabic text differs from Arabic only there, so it has no main file
+    per_lang, detail = {}, {}
     for rec in recipes:
         rec["L"] = sorted(k for k in rec["t"] if k != "arf")
         keep = "en" if "en" in rec["t"] else rec["src"]
+        core = None
         for k, v in list(rec["t"].items()):
-            if k != keep:
+            detail.setdefault(k, {})[rec["id"]] = {"s": v.get("steps") or [], "h": v.get("hints") or []}
+            v = {kk: vv for kk, vv in v.items() if kk not in ("steps", "hints")}
+            if k == keep:
+                core = v
+            elif k != "arf":
                 per_lang.setdefault(k, {})[rec["id"]] = v
-        rec["t"] = {keep: rec["t"][keep]}
+        rec["t"] = {keep: core}
     vers = {}
+    for f in TEXT.glob("*.js"):   # files of an earlier layout
+        f.unlink()
     for k, m in per_lang.items():
         js = json.dumps(m, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
         vers[k] = hashlib.md5(js.encode()).hexdigest()[:8]
         (TEXT / f"{k}.js").write_text(f"HK_TEXT({json.dumps(k)},{js});", encoding="utf-8")
+    for k, m in detail.items():
+        js = json.dumps(m, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+        vers[k + ".d"] = hashlib.md5(js.encode()).hexdigest()[:8]
+        (TEXT / f"{k}.d.js").write_text(f"HK_TEXTD({json.dumps(k)},{js});", encoding="utf-8")
     # interface strings for added languages (translations/ui/<lang>.js)
     UIDIR = OUT / "ui"; UIDIR.mkdir(exist_ok=True)
     for f in (HERE / "translations" / "ui").glob("*.js"):
@@ -261,7 +274,7 @@ def main():
     # start downloading the reader's language files together with data.js (they are needed before the first paint)
     early = ("<script>(function(){try{var V=" + json.dumps({k: v for k, v in vers.items()}) + ",g=function(k){return JSON.parse(localStorage.getItem(k)||'null')},"
              "l=g('kk:lang')||((g('kk:cfgCache')||{}).defaults||{}).lang||(navigator.language||'en').slice(0,2);"
-             "[['text/',l],['ui/','ui_'+l]].concat(l==='ar'?[['text/','arf']]:[]).forEach(function(p){var n=p[0]==='ui/'?l:p[1],v=V[p[1]];if(!v)return;var e=document.createElement('link');"
+             "[['text/',l],['ui/','ui_'+l]].forEach(function(p){var n=p[0]==='ui/'?l:p[1],v=V[p[1]];if(!v)return;var e=document.createElement('link');"
              "e.rel='preload';e.as='script';e.href=p[0]+n+'.js?v='+v;document.head.appendChild(e)})}catch(e){}})();</script>")
     body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + early + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     # security: Content-Security-Policy (only this build's own inline scripts run, by hash; no third-party scripts),
