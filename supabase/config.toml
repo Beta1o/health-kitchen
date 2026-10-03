@@ -1,0 +1,7 @@
+# Supabase project settings used by the Supabase CLI / GitHub integration.
+# Database changes live in supabase/migrations and are applied in order.
+project_id = "health-kitchen"
+
+[auth]
+site_url = "https://beta1o.github.io/health-kitchen/"
+additional_redirect_urls = ["http://localhost:8099/", "https://beta1o.github.io/health-kitchen/"]

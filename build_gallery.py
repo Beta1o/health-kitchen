@@ -220,7 +220,14 @@ def main():
     tpl = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", fonts)
     (OUT / "data.js").write_text("window.HK_DATA=" + data + ";", encoding="utf-8")
     ver = hashlib.md5(data.encode()).hexdigest()[:8]
-    body = tpl.replace("<!--__DATA_SCRIPT__-->", f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
+    # hosted accounts (Supabase): the project URL and the public anon key, from supabase.json (both are safe to publish)
+    sbcfg = HERE / "supabase.json"
+    sbjs = ""
+    if sbcfg.exists():
+        c = json.loads(sbcfg.read_text(encoding="utf-8"))
+        if c.get("url") and c.get("anonKey"):
+            sbjs = "<script>window.HK_SUPABASE=" + json.dumps({"url": c["url"], "anonKey": c["anonKey"]}) + ";</script>"
+    body = tpl.replace("<!--__DATA_SCRIPT__-->", sbjs + f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             '</head>\n<body>\n' + body + '\n</body>\n</html>\n')
