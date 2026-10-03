@@ -1,0 +1,40 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 300,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 400,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste nsa"
+  },
+  {
+   "fdc": 170005,
+   "g": 40,
+   "name": "spring onions"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt"
+  }
+ ]
+}

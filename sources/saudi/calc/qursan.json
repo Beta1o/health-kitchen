@@ -1,0 +1,75 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole-wheat flour (qursan bread)"
+  },
+  {
+   "fdc": 174313,
+   "g": 560,
+   "name": "lean lamb leg, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil 1.5 tbsp"
+  },
+  {
+   "fdc": 170000,
+   "g": 250,
+   "name": "onions (broth 150 + layers 100)"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 20,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 169291,
+   "g": 150,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 169228,
+   "g": 150,
+   "name": "eggplant"
+  },
+  {
+   "fdc": 170489,
+   "g": 200,
+   "name": "pumpkin"
+  },
+  {
+   "fdc": 169961,
+   "g": 100,
+   "name": "green beans"
+  },
+  {
+   "fdc": 170497,
+   "g": 20,
+   "name": "green chillies"
+  },
+  {
+   "fdc": 170005,
+   "g": 20,
+   "name": "spring onion"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt (bread 1 + broth 3)"
+  }
+ ]
+}

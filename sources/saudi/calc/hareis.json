@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168890,
+   "g": 240,
+   "name": "whole wheat grain"
+  },
+  {
+   "fdc": 171816,
+   "g": 600,
+   "name": "lean beef top round raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 30,
+   "name": "tomato paste nsa"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 9,
+   "name": "ghee"
+  },
+  {
+   "fdc": 170000,
+   "g": 100,
+   "name": "onions"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  }
+ ]
+}

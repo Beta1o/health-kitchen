@@ -1,0 +1,95 @@
+[
+ {
+  "id": "kabda",
+  "ar": "الكبدة",
+  "en": "Saudi Liver (Kabda)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18056-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18466-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10674-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10284-1.html"
+  ]
+ },
+ {
+  "id": "fatta-janubiya",
+  "ar": "الفتة الجنوبية بالسمن والعسل",
+  "en": "Southern Fatta with Ghee and Honey",
+  "region": "Southern",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19428-1.html"
+  ]
+ },
+ {
+  "id": "fatit-qasimi",
+  "ar": "الفتيت القصيمي",
+  "en": "Qassimi Fatit",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18463-1.html"
+  ]
+ },
+ {
+  "id": "truffle",
+  "ar": "طبخ الفقع (الكمأ)",
+  "en": "Cooked Truffles (Faqa)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17662-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17333-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13236-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11453-1.html"
+  ]
+ },
+ {
+  "id": "hamam-truffle",
+  "ar": "محشي الحمام بالكمأ",
+  "en": "Pigeon Stuffed with Truffles",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17337-1.html"
+  ]
+ },
+ {
+  "id": "kabli",
+  "ar": "الرز الكابلي الحجازي",
+  "en": "Hijazi Kabli Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15486-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14601-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3231-1.html"
+  ]
+ },
+ {
+  "id": "bukhari-rice",
+  "ar": "الرز البخاري",
+  "en": "Bukhari Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13881-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10282-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8417-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3218-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16519-1.html"
+  ]
+ },
+ {
+  "id": "mantu",
+  "ar": "المنتو",
+  "en": "Hijazi Mantu",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16246-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13735-1.html"
+  ]
+ }
+]

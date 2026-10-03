@@ -1,0 +1,65 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171464,
+   "g": 300,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 173627,
+   "g": 250,
+   "name": "chicken thigh, skinless, raw"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 169291,
+   "g": 150,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

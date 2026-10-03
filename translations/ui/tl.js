@@ -251,3 +251,60 @@ Object.assign(UI.tl, { signInNeeded: "Mag-sign in para makita ang iyong account:
 UI.tl.profiles = { none: "Walang plano (lahat ng resipe)", ...UI.tl.profiles }; UI.tl.conds = { ...UI.tl.conds, none: "Lahat ng resipe" };
 
 Object.assign(TERMS_X.tl, {"Latin American": "Latin Amerikano", "Saudi": "Saudi", "Emirati": "Emirati", "Bahraini": "Bahraini", "Lebanese": "Lebanese", "Turkish": "Turko", "Moroccan": "Moroccan", "Tunisian": "Tunisian", "Egyptian": "Egyptian", "Persian": "Persian", "Afghan": "Afghan"});
+
+Object.assign(UI.tl, {
+  tabOverview: "Pangkalahatang-ideya",
+  tabProfile: "Aking impormasyon",
+  tabHealth: "Kalusugan at mga layunin",
+  tabFood: "Mga gustong pagkain",
+  tabWeight: "Timbang",
+  stKcal14: "Calories, nakaraang 14 araw",
+  stGoal: "Progreso ng layunin sa timbang",
+  stGoalDone: "Naabot na ang layunin, magaling!",
+  stNoData: "Wala pang kasaysayan. Magdagdag ng mga pagkain sa Aking araw at lalabas ito rito.",
+  weightLog: "Talaan ng timbang",
+  stGoalLeft: n => `${n} kg na lang`,
+  memberSince: d => `Miyembro mula ${d}`
+});
+
+Object.assign(UI.tl, { mpCuisines: "Mga lutuin", mpAllCuisines: "Lahat ng lutuin", mpCuisNote: "Ang mga pagkain ay mula sa mga lutuing pinili mo; kung walang mapili, kahit anong lutuin ang gagamitin." });
+
+Object.assign(UI.tl, { noServer: "Walang account sa kopyang ito ng app. Buksan ito mula sa Health Kitchen server para magparehistro at subaybayan ang iyong mga plano at impormasyon." });
+
+Object.assign(UI.tl, {
+  "tabMyRecipes": "Mga recipe ko",
+  "subNew": "Magbahagi ng recipe",
+  "subIntro": "Sinusuri ng aming team ang mga recipe na ibinabahagi ninyo (dami, yunit at sangkap) bago ito makita ng iba.",
+  "subTitle": "Pangalan ng recipe",
+  "subDesc": "Maikling paglalarawan",
+  "subCat": "Kategorya",
+  "subCuisine": "Lutuin",
+  "subServings": "Dami ng serving",
+  "subServing": "Laki ng serving (hal. 1 plato, 250 g)",
+  "subIng": "Mga sangkap",
+  "subQty": "Dami",
+  "subItem": "Sangkap",
+  "subAddIng": "+ Magdagdag ng sangkap",
+  "subSteps": "Mga hakbang",
+  "subAddStep": "+ Magdagdag ng hakbang",
+  "subHints": "Mga tip (isa kada linya)",
+  "subNut": "Nutrisyon kada serving (opsyonal)",
+  "subSend": "Ipadala para suriin",
+  "subSent": "Naipadala para suriin. Makikita ninyo ang resulta sa Mga recipe ko.",
+  "subMine": "Mga naibahagi kong recipe",
+  "subNone": "Wala pa kayong naibabahaging recipe.",
+  "stPending": "Naghihintay ng pagsusuri",
+  "stApproved": "Nailathala",
+  "stRejected": "Hindi naaprubahan",
+  "subNote": "Tala ng tagasuri",
+  "subDelete": "Burahin",
+  "subErr": "Magdagdag ng pangalan, kategorya, kahit isang sangkap na may dami at yunit, at isang hakbang.",
+  "adSubs": "Mga isinumiteng recipe",
+  "adApprove": "Aprubahan at ilathala",
+  "adReject": "Huwag aprubahan",
+  "adNotePh": "Tala para sa may-akda (hal. pakilagay ang dami sa gramo)",
+  "adNoSubs": "Walang recipe rito.",
+  "community": "Komunidad"
+});
+
+Object.assign(UI.tl, { meal: "Uri ng pagkain", mealTypes: {"main": "Pangunahing ulam", "breakfast": "Almusal", "starter": "Pampagana", "side": "Side dish", "snack": "Meryenda", "dessert": "Panghimagas", "drink": "Inumin", "condiment": "Sawsawan o pampalasa"}, fitCond: "Ito ay sawsawan o pampalasa, hindi pagkain nang mag-isa: isang serving ang kasama ng pagkain at kasama ang nutrients nito sa pagkaing iyon." });

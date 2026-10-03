@@ -1,0 +1,85 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 600,
+   "name": "lamb lean, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 120,
+   "name": "onion (meat)"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato (meat)"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion (rice)"
+  },
+  {
+   "fdc": 170457,
+   "g": 100,
+   "name": "tomato (rice)"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  },
+  {
+   "fdc": 169228,
+   "g": 250,
+   "name": "eggplant"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "small onions (topping)"
+  },
+  {
+   "fdc": 170000,
+   "g": 100,
+   "name": "onion (kashna)"
+  },
+  {
+   "fdc": 168165,
+   "g": 20,
+   "name": "raisins"
+  },
+  {
+   "fdc": 173412,
+   "g": 9,
+   "name": "ghee"
+  },
+  {
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  }
+ ]
+}

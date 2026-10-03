@@ -1,0 +1,11 @@
+import sys;sys.path.insert(0,'/mnt/c/WSL/davita/translations/tes1')
+from h import *
+X=[]
+X.append(r(9518496,"Puré saludable de coliflor","¡Un puré de coliflor cremoso, con ajo, lleno de sabor e increíblemente satisfactorio!","4 porciones","1 porción",
+["6-8 tazas de floretes de coliflor (aprox. 1 coliflor grande)","3-4 dientes de ajo (pelados)","sal + pimienta (al gusto)"],
+["Ponga los floretes de coliflor y los dientes de ajo en una olla mediana. Cubra con agua y agregue 1 cucharada de sal. Deje que hierva y cocine de 8 a 10 minutos, o hasta que los floretes estén tiernos al pincharlos con un tenedor.","Use una espumadera para pasar la coliflor y el ajo cocidos al procesador de alimentos, y reserve el agua de cocción. Comience a procesar la coliflor y agregue 2-4 cucharadas del agua de cocción, según sea necesario, hasta que el puré esté suave y cremoso.","Una vez que esté suave a su gusto, puede desechar el agua de cocción sobrante. Pruebe el puré y agregue sal y pimienta, a su gusto."],[],[]))
+X.append(r(9523666,"Mantequilla de cacahuate casera con Vitamix","Preparar mantequilla de cacahuate casera nunca ha sido más fácil que con su Vitamix, ¡y esta receta usa solo 1 ingrediente: CACAHUATES (maníes)!","2 tazas","1 cda.",
+["2-4 tazas de cacahuates (maníes) tostados sin sal","⅛-1/4 cucharadita de sal marina, opcional"],
+["Ponga los cacahuates y la sal marina opcional, si la usa, en su Vitamix. Licúe a velocidad alta, usando el empujador para presionar los cacahuates hacia abajo mientras licúa, hasta lograr una consistencia suave. Los cacahuates pasarán rápidamente de cacahuates enteros a trozos molidos y luego a mantequilla de cacahuate cremosa.","Guarde en un frasco o recipiente sellado limpio."],
+["Para preparar mantequilla de cacahuate en el Vitamix, no use menos de 2 tazas de cacahuates. Necesitará cierto volumen para que se licúe bien. Si desea preparar más de 4 tazas a la vez, le sugiero hacer varias tandas. Si usa cacahuates con sal, omita la sal marina adicional. He mantenido mi mantequilla de cacahuate en un frasco sellado a temperatura ambiente hasta por 2 semanas. Puede refrigerarla por más tiempo, pero puede endurecerse ligeramente. El sabor no se verá afectado."],[]))
+save(8,X)

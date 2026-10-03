@@ -1,0 +1,86 @@
+[
+ {
+  "id": "yaghmish",
+  "ar": "اليغمش",
+  "en": "Yaghmish",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17244-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10892-1.html"
+  ]
+ },
+ {
+  "id": "mabshoor",
+  "ar": "المبشور الحجازي",
+  "en": "Hijazi Mabshoor",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17239-1.html"
+  ]
+ },
+ {
+  "id": "rajla",
+  "ar": "الرجلة الحجازية",
+  "en": "Hijazi Purslane Stew",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17238-1.html"
+  ]
+ },
+ {
+  "id": "saqdana",
+  "ar": "حلي السقدانة",
+  "en": "Saqdana Dessert",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17237-1.html"
+  ]
+ },
+ {
+  "id": "kamouniya",
+  "ar": "الكمونية",
+  "en": "Kamouniya",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18304-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11264-1.html"
+  ]
+ },
+ {
+  "id": "madoos",
+  "ar": "المعدوس",
+  "en": "Ma'doos",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18589-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16481-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11776-1.html"
+  ]
+ },
+ {
+  "id": "muarraq",
+  "ar": "معرق لحم",
+  "en": "Hijazi Meat Mu'arraq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19266-1.html"
+  ]
+ },
+ {
+  "id": "haysa-madina",
+  "ar": "حيسة المدينة بالتمر",
+  "en": "Madina Date Haysa",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19075-1.html"
+  ]
+ }
+]

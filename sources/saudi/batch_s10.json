@@ -1,0 +1,83 @@
+[
+ {
+  "id": "hasawi-rice",
+  "ar": "الرز الحساوي",
+  "en": "Hasawi Rice",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10893-1.html"
+  ]
+ },
+ {
+  "id": "tamman-hail",
+  "ar": "رز تمن حائل",
+  "en": "Hail Tamman Rice",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14560-1.html"
+  ]
+ },
+ {
+  "id": "dajaj-musabbak",
+  "ar": "دجاج مسبك بالخضار",
+  "en": "Chicken Musabbak with Vegetables",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15471-1.html"
+  ]
+ },
+ {
+  "id": "hamsa-dajaj",
+  "ar": "حمسة الدجاج",
+  "en": "Chicken Hamsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15458-1.html"
+  ]
+ },
+ {
+  "id": "shakshouka",
+  "ar": "الشكشوكة السعودية",
+  "en": "Saudi Shakshouka",
+  "region": "",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15427-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15425-1.html"
+  ]
+ },
+ {
+  "id": "idam-khudar",
+  "ar": "إيدام خضار مشكل",
+  "en": "Mixed Vegetable Idam",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15426-1.html"
+  ]
+ },
+ {
+  "id": "fattoush",
+  "ar": "فتوش",
+  "en": "Fattoush",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14488-1.html"
+  ]
+ },
+ {
+  "id": "mutabbal",
+  "ar": "المتبل",
+  "en": "Mutabbal",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4172-1.html"
+  ]
+ }
+]

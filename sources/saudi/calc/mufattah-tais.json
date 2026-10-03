@@ -1,0 +1,75 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 175303,
+   "g": 600,
+   "name": "lean goat meat on the bone (edible weight), raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  },
+  {
+   "fdc": 168409,
+   "g": 200,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "salad tomatoes"
+  },
+  {
+   "fdc": 169387,
+   "g": 60,
+   "name": "rocket"
+  },
+  {
+   "fdc": 169247,
+   "g": 60,
+   "name": "romaine lettuce"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  }
+ ]
+}

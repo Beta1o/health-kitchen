@@ -1,0 +1,97 @@
+[
+ {
+  "id": "muqashqash",
+  "ar": "المقشوش الحايلي",
+  "en": "Muqashqash Hail",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18821-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16350-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14558-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10868-1.html"
+  ]
+ },
+ {
+  "id": "thareed",
+  "ar": "الثريد",
+  "en": "Thareed",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18548-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4842-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10281-1.html"
+  ]
+ },
+ {
+  "id": "thareeda-hail",
+  "ar": "ثريدة حايل المبصلة",
+  "en": "Hail Onion Thareeda (Mubassala)",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17527-1.html"
+  ]
+ },
+ {
+  "id": "mufalaq",
+  "ar": "مفلق الأحساء",
+  "en": "Hasawi Mufalaq",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3800-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17075-1.html"
+  ]
+ },
+ {
+  "id": "fareek",
+  "ar": "الفريك",
+  "en": "Fareek",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17539-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17199-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10698-1.html"
+  ]
+ },
+ {
+  "id": "fool-qallaba",
+  "ar": "فول قلابة",
+  "en": "Fool Qallaba",
+  "region": "",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17716-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16694-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15859-1.html"
+  ]
+ },
+ {
+  "id": "fool",
+  "ar": "الفول المدمس",
+  "en": "Fool Mudammas",
+  "region": "Hijazi",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17241-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16684-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14900-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16685-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15203-1.html"
+  ]
+ },
+ {
+  "id": "baleela",
+  "ar": "البليلة",
+  "en": "Baleela",
+  "region": "Hijazi",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17277-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16848-1.html"
+  ]
+ }
+]

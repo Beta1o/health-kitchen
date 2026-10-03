@@ -1,0 +1,88 @@
+[
+ {
+  "id": "mutabbaq",
+  "ar": "المطبق السعودي",
+  "en": "Saudi Mutabbaq",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11110-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6237-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14914-1.html"
+  ]
+ },
+ {
+  "id": "samboosa",
+  "ar": "السمبوسك الفرني",
+  "en": "Baked Samboosa",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10877-1.html"
+  ]
+ },
+ {
+  "id": "mukhtoum-bamia",
+  "ar": "مختوم البامية باللبن",
+  "en": "Okra with Yogurt (Mukhtoum)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14989-1.html"
+  ]
+ },
+ {
+  "id": "bamia-lahm",
+  "ar": "بامية باللحم",
+  "en": "Okra with Meat",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12972-1.html"
+  ]
+ },
+ {
+  "id": "mulukhiyah",
+  "ar": "الملوخية السعودية",
+  "en": "Saudi Molokhia",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14248-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4178-1.html"
+  ]
+ },
+ {
+  "id": "musaqqaa",
+  "ar": "المسقعة",
+  "en": "Musaqqaa",
+  "region": "Hijazi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14555-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12970-1.html"
+  ]
+ },
+ {
+  "id": "ashouriya",
+  "ar": "العاشورية الحجازية",
+  "en": "Hijazi Ashouriya",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16799-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11792-1.html"
+  ]
+ },
+ {
+  "id": "qawzi",
+  "ar": "القوزي",
+  "en": "Qozi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16634-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5754-1.html"
+  ]
+ }
+]

@@ -1,0 +1,70 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 120,
+   "name": "white flour"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil in dough+rolling 1 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt dough"
+  },
+  {
+   "fdc": 171790,
+   "g": 250,
+   "name": "lean ground beef 95%"
+  },
+  {
+   "fdc": 170000,
+   "g": 100,
+   "name": "onion"
+  },
+  {
+   "fdc": 169246,
+   "g": 100,
+   "name": "leek"
+  },
+  {
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato"
+  },
+  {
+   "fdc": 171287,
+   "g": 150,
+   "name": "3 eggs"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt filling"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil griddle 1 tsp"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  }
+ ]
+}

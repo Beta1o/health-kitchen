@@ -58,7 +58,7 @@ python3 -m venv ~/.venvs/hk && ~/.venvs/hk/bin/pip install "psycopg[binary]" psy
 
 # run (starts PostgreSQL if needed, then the server)
 HK_DB_URL=postgresql://hk_api:choose-a-password@127.0.0.1:5440/health_kitchen server/run.sh
-# open http://localhost:8100
+# open http://localhost:8099  (one port: the app, accounts, admin and API)
 ```
 
 - **The first account you create becomes the admin.** Admins can promote other users or remove accounts from the Admin page (Account → Admin).

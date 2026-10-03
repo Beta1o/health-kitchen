@@ -1,0 +1,90 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 180,
+   "name": "whole-wheat flour (bread)"
+  },
+  {
+   "fdc": 168936,
+   "g": 60,
+   "name": "white flour (bread)"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 170150,
+   "g": 5,
+   "name": "sesame seeds"
+  },
+  {
+   "fdc": 174307,
+   "g": 520,
+   "name": "lean lamb, trimmed, cubed, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169961,
+   "g": 150,
+   "name": "green beans"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrots"
+  },
+  {
+   "fdc": 170026,
+   "g": 120,
+   "name": "potato (leached)"
+  },
+  {
+   "fdc": 170427,
+   "g": 80,
+   "name": "green pepper"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 15,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt (stew 3.5 + bread 1.5)"
+  }
+ ]
+}

@@ -20,7 +20,8 @@ DB = HERE / "davita_recipes.db"
 SRC = HERE / "sources"
 # id ranges keep ids stable and unique per source
 OFFSETS = {"davita_sa": 2_000_000, "kidneycareuk": 3_000_000, "aakp": 4_000_000, "myrenalnutrition": 5_000_000,
-           "diabetesfoodhub": 6_000_000, "diabetesuk": 7_000_000}
+           "diabetesfoodhub": 6_000_000, "diabetesuk": 7_000_000,
+           "saudi": 8_000_000, "thishealthykitchen": 9_000_000}
 TAX = {"diet": "diet_type", "dish": "dish_type", "cuisine": "cuisine", "method": "cooking_method"}
 NUTRIENTS = ["calories", "protein_g", "carbohydrates_g", "fat_g", "cholesterol_mg", "sodium_mg",
              "potassium_mg", "phosphorus_mg", "calcium_mg", "fiber_g", "added_sugar_g"]

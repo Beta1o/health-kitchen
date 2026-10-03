@@ -1,0 +1,2246 @@
+[
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "kebab-mero",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14965-1.html",
+  "lang": "ar",
+  "title": "كباب الميرو الصحي",
+  "description": "كباب الميرو أكلة شعبية من مكة المكرمة في الحجاز: كرات صغيرة من اللحم المفروم ودقيق الدخن والبصل والبهارات تُقلى عادةً في زيت غزير وتُقدّم مع سلطة الطحينة. في هذه النسخة استُخدم لحم مفروم قليل الدهن، وتُخبز الكرات في الفرن أو القلاية الهوائية بدل القلي، وقُلّل الملح والطحينة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "حوالي 10 كرات صغيرة مع السلطة (300 غ)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 341,
+   "protein_g": 32.2,
+   "carbohydrates_g": 19.3,
+   "fat_g": 14.8,
+   "cholesterol_mg": 124,
+   "sodium_mg": 501,
+   "potassium_mg": 710,
+   "phosphorus_mg": 400,
+   "calcium_mg": 73,
+   "fiber_g": 2.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للكباب",
+    "500 غ لحم بقري مفروم قليل الدهن (5% دهن)"
+   ],
+   [
+    "للكباب",
+    "60 غ دقيق دخن"
+   ],
+   [
+    "للكباب",
+    "1 بصلة متوسطة مبشورة ومصفاة (100 غ)"
+   ],
+   [
+    "للكباب",
+    "2 فص ثوم مهروس (10 غ)"
+   ],
+   [
+    "للكباب",
+    "1 بيضة (50 غ)"
+   ],
+   [
+    "للكباب",
+    "1 ملعقة صغيرة كمون مطحون"
+   ],
+   [
+    "للكباب",
+    "1 ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    "للكباب",
+    "½ ملعقة صغيرة كزبرة مطحونة و¼ ملعقة صغيرة هيل مطحون"
+   ],
+   [
+    "للكباب",
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    "للكباب",
+    "2 ملعقة صغيرة زيت زيتون للدهن (10 غ)"
+   ],
+   [
+    "لسلطة الطحينة",
+    "2 ملعقة كبيرة طحينة (30 غ)"
+   ],
+   [
+    "لسلطة الطحينة",
+    "4 ملاعق صغيرة عصير ليمون (20 غ) و2 ملعقة صغيرة خل (10 غ)"
+   ],
+   [
+    "لسلطة الطحينة",
+    "1 خيارة مقطعة مكعبات (150 غ)"
+   ],
+   [
+    "لسلطة الطحينة",
+    "1 طماطم مقطعة مكعبات (150 غ)"
+   ],
+   [
+    "لسلطة الطحينة",
+    "رشة ملح (1 غ) وكمون وفلفل أسود"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن الفرن على 220°م وبطّن صينية بورق الزبدة وادهنه بنصف الزيت."
+   ],
+   [
+    null,
+    "اعجن اللحم مع دقيق الدخن والبصل والثوم والبيضة والبهارات والملح جيداً حتى يتماسك الخليط."
+   ],
+   [
+    null,
+    "شكّل الخليط بيدين مبللتين كرات صغيرة بحجم حبة الجوز (حوالي 40 كرة) وصفّها على الصينية."
+   ],
+   [
+    null,
+    "ادهن الكرات بباقي الزيت واخبزها 12–15 دقيقة مع تقليبها مرة حتى تتحمر من الخارج وتبقى طرية من الداخل، أو اطهها في القلاية الهوائية على 200°م 10–12 دقيقة."
+   ],
+   [
+    null,
+    "للسلطة: اخفق الطحينة مع الليمون والخل وقليل من الماء حتى تصبح صلصة خفيفة، ثم أضف الملح والكمون والفلفل والخيار والطماطم."
+   ],
+   [
+    null,
+    "قدّم الكباب ساخناً مع سلطة الطحينة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم مفروم قليل الدهن، خبز أو قلي هوائي بدل القلي الغزير، بدون مرقة جاهزة، وملح وطحينة أقل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: اللحم والطحينة ودقيق الدخن فيها فوسفور، والطماطم فيها بوتاسيوم؛ التزم بحصة واحدة (10 كرات) ويمكن استبدال الطماطم بمزيد من الخيار."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 19 غ كربوهيدرات فقط؛ قدّمها مع سلطة خضراء ونصف رغيف بر بدل الأرز الأبيض."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مجلة هي، السياحة العربية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "kebab-mero-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14965-1.html",
+  "lang": "en",
+  "title": "Healthy Kebab Mero",
+  "description": "Kebab mero is a popular street dish from Makkah in the Hijaz: small balls of minced meat, millet flour, onion and spices, usually deep-fried and served with tahini salad. This version uses extra-lean mince, bakes or air-fries the balls instead of frying them, and uses less salt and tahini.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "about 10 small balls with salad (300 g)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 341,
+   "protein_g": 32.2,
+   "carbohydrates_g": 19.3,
+   "fat_g": 14.8,
+   "cholesterol_mg": 124,
+   "sodium_mg": 501,
+   "potassium_mg": 710,
+   "phosphorus_mg": 400,
+   "calcium_mg": 73,
+   "fiber_g": 2.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the kebab",
+    "500 g extra-lean minced beef (5% fat)"
+   ],
+   [
+    "For the kebab",
+    "60 g millet flour"
+   ],
+   [
+    "For the kebab",
+    "1 medium onion, grated and squeezed (100 g)"
+   ],
+   [
+    "For the kebab",
+    "2 garlic cloves, crushed (10 g)"
+   ],
+   [
+    "For the kebab",
+    "1 egg (50 g)"
+   ],
+   [
+    "For the kebab",
+    "1 tsp ground cumin"
+   ],
+   [
+    "For the kebab",
+    "1 tsp black pepper"
+   ],
+   [
+    "For the kebab",
+    "½ tsp ground coriander and ¼ tsp ground cardamom"
+   ],
+   [
+    "For the kebab",
+    "½ tsp salt (3 g)"
+   ],
+   [
+    "For the kebab",
+    "2 tsp olive oil for brushing (10 g)"
+   ],
+   [
+    "For the tahini salad",
+    "2 tbsp tahini (30 g)"
+   ],
+   [
+    "For the tahini salad",
+    "4 tsp lemon juice (20 g) and 2 tsp vinegar (10 g)"
+   ],
+   [
+    "For the tahini salad",
+    "1 cucumber, diced (150 g)"
+   ],
+   [
+    "For the tahini salad",
+    "1 tomato, diced (150 g)"
+   ],
+   [
+    "For the tahini salad",
+    "1 pinch salt (1 g), cumin and black pepper"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the oven to 220 °C, line a tray with baking paper and brush it with half the oil."
+   ],
+   [
+    null,
+    "Knead the meat with the millet flour, onion, garlic, egg, spices and salt until the mixture holds together."
+   ],
+   [
+    null,
+    "With wet hands, roll the mixture into small walnut-sized balls (about 40) and set them on the tray."
+   ],
+   [
+    null,
+    "Brush the balls with the rest of the oil and bake for 12–15 minutes, turning once, until browned outside and still juicy inside, or air-fry at 200 °C for 10–12 minutes."
+   ],
+   [
+    null,
+    "For the salad: whisk the tahini with the lemon juice, vinegar and a little water to a thin sauce, then add the salt, cumin, pepper, cucumber and tomato."
+   ],
+   [
+    null,
+    "Serve the kebab hot with the tahini salad."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: extra-lean mince, baking or air-frying instead of deep frying, no stock cubes, and less salt and tahini."
+   ],
+   [
+    null,
+    "Kidney tip: the meat, tahini and millet flour contain phosphorus and the tomato adds potassium; keep to one portion (10 balls) and you can replace the tomato with more cucumber."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has only about 19 g carbohydrate; serve it with green salad and half a wholemeal flatbread instead of white rice."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Hia Magazine, Al Sayaha Al Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "translation_of": "kebab-mero"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "sayadiyeh",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14791-1.html",
+  "lang": "ar",
+  "title": "صيادية السمك الحجازية الصحية",
+  "description": "الصيادية طبق ساحلي حجازي مشهور في جدة وينبع: سمك يُطهى في مرق متبّل بالبصل المحمّر والبهارات الصحيحة، ثم يُطبخ الأرز في المرق نفسه فيأخذ لونه البني. في هذه النسخة يُسلق السمك في المرق بدل قليه، ويُحمّر البصل بقليل من الزيت والماء، وبدون مرقة جاهزة، مع كمية أرز معتدلة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 400 غ)",
+  "category": "Fish & Seafood",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 490,
+   "protein_g": 34.3,
+   "carbohydrates_g": 52.6,
+   "fat_g": 15.0,
+   "cholesterol_mg": 114,
+   "sodium_mg": 584,
+   "potassium_mg": 1013,
+   "phosphorus_mg": 410,
+   "calcium_mg": 64,
+   "fiber_g": 3.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للسمك والمرق",
+    "600 غ شرائح سمك كنعد منظفة بدون عظم"
+   ],
+   [
+    "للسمك والمرق",
+    "4 بصلات كبيرة مقطعة شرائح (400 غ)"
+   ],
+   [
+    "للسمك والمرق",
+    "4 ملاعق صغيرة زيت زيتون (20 غ)"
+   ],
+   [
+    "للسمك والمرق",
+    "2 فص ثوم (10 غ)"
+   ],
+   [
+    "للسمك والمرق",
+    "1 طماطم مبشورة (150 غ) و1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    "للسمك والمرق",
+    "2 لومي (ليمون أسود) مثقوب، 5 حبات هيل، 4 حبات قرنفل، عود قرفة، ورقة غار"
+   ],
+   [
+    "للسمك والمرق",
+    "1 ملعقة صغيرة كمون، ½ ملعقة صغيرة كركم، ½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    "للسمك والمرق",
+    "1 ملعقة كبيرة عصير ليمون (15 غ)"
+   ],
+   [
+    "للسمك والمرق",
+    "1 لتر ماء"
+   ],
+   [
+    "للأرز",
+    "200 غ أرز بسمتي مغسول ومنقوع 20 دقيقة"
+   ],
+   [
+    "للأرز",
+    "¾ ملعقة صغيرة ملح (5 غ) للمرق والأرز معاً"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "تبّل السمك بالليمون ونصف الكمون والفلفل واتركه جانباً."
+   ],
+   [
+    null,
+    "حمّر البصل في القدر مع الزيت على نار متوسطة 20–25 دقيقة، وأضف ملعقة ماء كلما بدأ يلتصق، حتى يصبح بنياً غامقاً دون أن يحترق."
+   ],
+   [
+    null,
+    "اخلط البصل المحمّر مع الثوم والطماطم وقليل من الماء في الخلاط حتى يصبح ناعماً، وأعده إلى القدر مع معجون الطماطم والبهارات الصحيحة والكركم وباقي الكمون والفلفل."
+   ],
+   [
+    null,
+    "أضف الماء ونصف الملح واتركه يغلي 10 دقائق، ثم ضع السمك واتركه على نار هادئة 8–10 دقائق حتى ينضج."
+   ],
+   [
+    null,
+    "ارفع السمك إلى صينية مكشوفة وضعه في فرن على 180°م 10 دقائق ليتحمر وجهه قليلاً قبل التقديم."
+   ],
+   [
+    null,
+    "صفِّ المرق وقِس منه 450 مل وأعده إلى القدر، وأضف الأرز المصفى وباقي الملح، واتركه يغلي ثم غطّه واطبخه على نار هادئة جداً 20 دقيقة حتى ينضج."
+   ],
+   [
+    null,
+    "اغرف الأرز البني في طبق التقديم وضع السمك فوقه، وقدّمه مع سلطة خضراء وشرائح ليمون."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: السمك يُسلق في المرق بدل القلي، البصل يُحمّر بأربع ملاعق صغيرة زيت فقط، بدون مكعبات مرق، وحصة الأرز 50 غ نيئاً للشخص."
+   ],
+   [
+    null,
+    "لمرضى الكلى: السمك والطماطم يرفعان البوتاسيوم والفوسفور (حوالي 1000 مغ بوتاسيوم للحصة)؛ استبدل الطماطم بقليل من الخل، وكُل 100 غ سمك فقط إذا نصحك الطبيب بتقليل البروتين أو البوتاسيوم."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 53 غ كربوهيدرات؛ يمكن خلط نصف الأرز بأرز بني (يحتاج ماء ووقتاً أكثر)، واملأ نصف الطبق بالسلطة."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوك إنستا، موضوع"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT60M",
+  "total_time": "PT1H30M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "sayadiyeh-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14791-1.html",
+  "lang": "en",
+  "title": "Healthy Hijazi Fish Sayadiyeh",
+  "description": "Sayadiyeh is a well-known coastal dish from Jeddah and Yanbu in the Hijaz: fish cooked in a broth flavoured with browned onions and whole spices, then rice cooked in the same broth so it turns brown. This version poaches the fish instead of frying it, browns the onions with little oil and splashes of water, skips stock cubes and keeps the rice portion moderate.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 400 g)",
+  "category": "Fish & Seafood",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 490,
+   "protein_g": 34.3,
+   "carbohydrates_g": 52.6,
+   "fat_g": 15.0,
+   "cholesterol_mg": 114,
+   "sodium_mg": 584,
+   "potassium_mg": 1013,
+   "phosphorus_mg": 410,
+   "calcium_mg": 64,
+   "fiber_g": 3.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the fish and broth",
+    "600 g kingfish (kanad) steaks, cleaned, boneless"
+   ],
+   [
+    "For the fish and broth",
+    "4 large onions, sliced (400 g)"
+   ],
+   [
+    "For the fish and broth",
+    "4 tsp olive oil (20 g)"
+   ],
+   [
+    "For the fish and broth",
+    "2 garlic cloves (10 g)"
+   ],
+   [
+    "For the fish and broth",
+    "1 tomato, grated (150 g) and 1 tbsp no-salt tomato paste (15 g)"
+   ],
+   [
+    "For the fish and broth",
+    "2 dried limes (loomi), pierced, 5 cardamom pods, 4 cloves, 1 cinnamon stick, 1 bay leaf"
+   ],
+   [
+    "For the fish and broth",
+    "1 tsp cumin, ½ tsp turmeric, ½ tsp black pepper"
+   ],
+   [
+    "For the fish and broth",
+    "1 tbsp lemon juice (15 g)"
+   ],
+   [
+    "For the fish and broth",
+    "1 l water"
+   ],
+   [
+    "For the rice",
+    "200 g basmati rice, washed and soaked 20 minutes"
+   ],
+   [
+    "For the rice",
+    "¾ tsp salt (5 g) for broth and rice together"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Season the fish with the lemon juice and half the cumin and pepper and set aside."
+   ],
+   [
+    null,
+    "Brown the onions in the pot with the oil over medium heat for 20–25 minutes, adding a spoon of water whenever they stick, until deep brown but not burnt."
+   ],
+   [
+    null,
+    "Blend the browned onions with the garlic, tomato and a little water until smooth, then return to the pot with the tomato paste, whole spices, turmeric and the rest of the cumin and pepper."
+   ],
+   [
+    null,
+    "Add the water and half the salt, boil for 10 minutes, then add the fish and simmer gently for 8–10 minutes until just cooked."
+   ],
+   [
+    null,
+    "Lift the fish onto a tray and put it, uncovered, in a 180 °C oven for 10 minutes before serving so the top colours a little."
+   ],
+   [
+    null,
+    "Strain the broth, measure 450 ml back into the pot, add the drained rice and the rest of the salt, bring to the boil, then cover and cook on very low heat for 20 minutes until tender."
+   ],
+   [
+    null,
+    "Spoon the brown rice onto a platter, set the fish on top and serve with green salad and lemon wedges."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: the fish is poached in the broth instead of fried, the onions are browned in just 4 tsp oil, there are no stock cubes, and the rice is 50 g raw per person."
+   ],
+   [
+    null,
+    "Kidney tip: the fish and tomato raise potassium and phosphorus (about 1000 mg potassium per portion); swap the tomato for a little vinegar, and eat only 100 g fish if your doctor limits protein or potassium."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 53 g carbohydrate; you can make half the rice brown rice (it needs more water and time), and fill half the plate with salad."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookinsta, Mawdoo3"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT60M",
+  "total_time": "PT1H30M",
+  "translation_of": "sayadiyeh"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-habb",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16477-1.html",
+  "lang": "ar",
+  "title": "شوربة الحب الحجازية الصحية",
+  "description": "شوربة الحب من أشهر أطباق سفرة رمضان في مكة وجدة: حب القمح الأبيض يُطبخ طويلاً مع صرة بهارات ثم يُضاف إليه اللحم وعصير الطماطم. في هذه النسخة لحم هبر قليل الدهن، بدون مكعبات مرق، وملح وسمن أقل، والحب كامل غني بالألياف.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "طبق شوربة (حوالي 350 مل)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 229,
+   "protein_g": 19.6,
+   "carbohydrates_g": 26.5,
+   "fat_g": 5.5,
+   "cholesterol_mg": 52,
+   "sodium_mg": 441,
+   "potassium_mg": 560,
+   "phosphorus_mg": 270,
+   "calcium_mg": 27,
+   "fiber_g": 4.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "170 غ حب قمح أبيض كامل مغسول ومنقوع 6 ساعات"
+   ],
+   [
+    null,
+    "450 غ لحم غنم هبر (فخذ) منزوع الدهن، مقطع قطعاً صغيرة"
+   ],
+   [
+    null,
+    "1 بصلة مفرومة (120 غ)"
+   ],
+   [
+    null,
+    "400 غ طماطم معصورة (عصير طازج)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    null,
+    "2 ملعقة صغيرة سمن (9 غ)"
+   ],
+   [
+    null,
+    "صرة بهارات: عود قرفة، 4 حبات هيل، 3 حبات قرنفل، قطعة خولنجان، 1 لومي، ورقة غار، قليل من الشيبة"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة كمون و½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة ملح (6 غ)"
+   ],
+   [
+    null,
+    "2.5 لتر ماء (يُضاف تدريجياً)"
+   ],
+   [
+    null,
+    "حفنة كزبرة خضراء مفرومة (10 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ضع الحب المصفى في قدر مع 2 لتر ماء وصرة البهارات، واتركه يغلي ثم خفّف النار واطبخه ساعتين مع إضافة الماء كلما نقص."
+   ],
+   [
+    null,
+    "في مقلاة، شوِّح البصل في السمن حتى يذبل، ثم أضف اللحم وقلّبه حتى يتغير لونه."
+   ],
+   [
+    null,
+    "عندما ينضج الحب وينفتح، اضربه قليلاً بالخلاط اليدوي ليتماسك القوام، ثم أضف اللحم والبصل وعصير الطماطم والمعجون."
+   ],
+   [
+    null,
+    "أضف الكمون والفلفل والملح، واتركه على نار هادئة ساعة أخرى مع التحريك كل فترة حتى لا يلتصق، حتى ينضج اللحم."
+   ],
+   [
+    null,
+    "أخرج صرة البهارات، وعدّل القوام بقليل من الماء الساخن، ورش الكزبرة وقدّمها ساخنة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم هبر بدل اللحم بالعظم والدهن، بدون مكعبات مرق، وسمن قليل وملح أقل من النصف؛ النسخة البيضاء تُعمل بنفس الطريقة مع حليب قليل الدسم بدل الطماطم."
+   ],
+   [
+    null,
+    "لمرضى الكلى: حب القمح الكامل واللحم فيهما فوسفور، والطماطم بوتاسيوم؛ اكتفِ بطبق واحد، ويمكن تقليل الطماطم إلى النصف."
+   ],
+   [
+    null,
+    "لمرضى السكري: الطبق فيه حوالي 27 غ كربوهيدرات مع 5 غ ألياف؛ إذا أكلت الشوربة فقلّل الأرز أو الخبز في الوجبة نفسها."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، البيان، ويب طب"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT3H",
+  "total_time": "PT3H15M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-habb-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16477-1.html",
+  "lang": "en",
+  "title": "Healthy Hijazi Habb Soup",
+  "description": "Habb soup is one of the best-known Ramadan soups of Makkah and Jeddah: whole white wheat grains simmered for a long time with a bag of whole spices, then cooked with meat and fresh tomato juice. This version uses lean meat, no stock cubes, less salt and ghee, and the fibre-rich whole grain.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 bowl (about 350 ml)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 229,
+   "protein_g": 19.6,
+   "carbohydrates_g": 26.5,
+   "fat_g": 5.5,
+   "cholesterol_mg": 52,
+   "sodium_mg": 441,
+   "potassium_mg": 560,
+   "phosphorus_mg": 270,
+   "calcium_mg": 27,
+   "fiber_g": 4.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "170 g whole white wheat grains (habb), washed and soaked 6 hours"
+   ],
+   [
+    null,
+    "450 g lean lamb leg, trimmed of fat, cut in small pieces"
+   ],
+   [
+    null,
+    "1 onion, chopped (120 g)"
+   ],
+   [
+    null,
+    "400 g tomatoes, blended to fresh juice"
+   ],
+   [
+    null,
+    "1 tbsp no-salt tomato paste (15 g)"
+   ],
+   [
+    null,
+    "2 tsp ghee (9 g)"
+   ],
+   [
+    null,
+    "Spice bag: 1 cinnamon stick, 4 cardamom pods, 3 cloves, 1 piece galangal, 1 dried lime (loomi), 1 bay leaf, a little sheeba (lichen spice)"
+   ],
+   [
+    null,
+    "½ tsp cumin and ½ tsp black pepper"
+   ],
+   [
+    null,
+    "1 tsp salt (6 g)"
+   ],
+   [
+    null,
+    "2.5 l water (added gradually)"
+   ],
+   [
+    null,
+    "1 small handful fresh coriander, chopped (10 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Put the drained wheat in a pot with 2 l water and the spice bag, bring to the boil, then lower the heat and cook for 2 hours, adding water whenever it runs low."
+   ],
+   [
+    null,
+    "In a pan, soften the onion in the ghee, then add the meat and stir until it changes colour."
+   ],
+   [
+    null,
+    "When the wheat is soft and split, pulse it briefly with a hand blender to thicken, then add the meat and onion, tomato juice and paste."
+   ],
+   [
+    null,
+    "Add the cumin, pepper and salt and simmer for another hour, stirring now and then so it does not stick, until the meat is tender."
+   ],
+   [
+    null,
+    "Remove the spice bag, adjust the thickness with a little hot water, sprinkle with coriander and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean meat instead of fatty meat on the bone, no stock cubes, a little ghee and less than half the usual salt; the white version is made the same way with low-fat milk instead of tomato."
+   ],
+   [
+    null,
+    "Kidney tip: whole wheat and meat contain phosphorus and the tomato adds potassium; keep to one bowl, and you can halve the tomato."
+   ],
+   [
+    null,
+    "Diabetes tip: one bowl has about 27 g carbohydrate with 5 g fibre; if you have the soup, cut down on rice or bread in the same meal."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Al Bayan, WebTeb"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT3H",
+  "total_time": "PT3H15M",
+  "translation_of": "shorbat-habb"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-adas",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10669-1.html",
+  "lang": "ar",
+  "title": "شوربة العدس السعودية الصحية",
+  "description": "شوربة العدس على الطريقة السعودية تُطبخ مع كشنة البصل والثوم والفلفل والبهارات وخضار مثل القرع والجزر، ثم تُخلط ناعمة، وهي من شوربات رمضان والشتاء. في هذه النسخة زيت زيتون بدل الزبدة، وماء أو مرق خضار منزلي بدون ملح، وخضار أكثر وبطاطس أقل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "طبق شوربة (حوالي 350 مل)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 214,
+   "protein_g": 10.5,
+   "carbohydrates_g": 35.7,
+   "fat_g": 4.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 412,
+   "potassium_mg": 670,
+   "phosphorus_mg": 163,
+   "calcium_mg": 49,
+   "fiber_g": 6.2,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "220 غ عدس أحمر مغسول ومصفى"
+   ],
+   [
+    null,
+    "4 ملاعق صغيرة زيت زيتون (20 غ)"
+   ],
+   [
+    null,
+    "1 بصلة مفرومة (120 غ)"
+   ],
+   [
+    null,
+    "2 فص ثوم مفروم (10 غ)"
+   ],
+   [
+    null,
+    "2 فلفل أخضر حار (20 غ)"
+   ],
+   [
+    null,
+    "½ فلفل رومي أخضر (80 غ)"
+   ],
+   [
+    null,
+    "250 غ قرع مقطع"
+   ],
+   [
+    null,
+    "2 جزر مقطع (150 غ)"
+   ],
+   [
+    null,
+    "1 طماطم (150 غ)"
+   ],
+   [
+    null,
+    "1 بطاطس صغيرة مقشرة ومنقوعة (100 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة كمون، 1 ملعقة صغيرة بزار، 1 ملعقة صغيرة حب كزبرة"
+   ],
+   [
+    null,
+    "1.5 لتر ماء أو مرق خضار منزلي بدون ملح"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة ملح (6 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة عصير ليمون (15 غ) للتقديم"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "قطّع البطاطس مكعبات صغيرة وانقعها في ماء دافئ ساعتين، ثم اسلقها 5 دقائق في ماء كثير وتخلّص من الماء."
+   ],
+   [
+    null,
+    "سخّن الزيت في قدر الضغط وشوِّح الثوم ثم البصل والفلفل الحار والرومي حتى يذبل."
+   ],
+   [
+    null,
+    "أضف البهارات وحب الكزبرة، ثم العدس، وقلّبه على نار هادئة 5 دقائق."
+   ],
+   [
+    null,
+    "أضف القرع والجزر والطماطم والبطاطس والمرق والملح، وأغلق القدر واطبخه 20–25 دقيقة على نار متوسطة (أو 40 دقيقة في قدر عادي)."
+   ],
+   [
+    null,
+    "أخرج الفلفل الحار إذا رغبت، واخلط الشوربة في الخلاط حتى تنعم، وعدّل القوام بماء ساخن."
+   ],
+   [
+    null,
+    "قدّمها ساخنة مع عصرة ليمون."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: زيت زيتون بدل الزبدة، ماء أو مرق خضار منزلي بدون ملح بدل المرق الجاهز، وقرع وجزر أكثر مع بطاطس قليلة منقوعة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: العدس والبطاطس والطماطم مصادر بوتاسيوم وفوسفور؛ انقع البطاطس واسلقها كما في الخطوة الأولى أو استبدلها بقرع، واكتفِ بطبق واحد."
+   ],
+   [
+    null,
+    "لمرضى السكري: الطبق فيه حوالي 36 غ كربوهيدرات و6 غ ألياف؛ قدّمه مع سلطة وقلّل الخبز معه."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، موضوع"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-adas-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10669-1.html",
+  "lang": "en",
+  "title": "Healthy Saudi Lentil Soup",
+  "description": "Saudi-style lentil soup is cooked with a base of onion, garlic, peppers and spices plus vegetables such as pumpkin and carrot, then blended smooth; it is a Ramadan and winter favourite. This version uses olive oil instead of butter, water or unsalted vegetable stock, more vegetables and less potato.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 bowl (about 350 ml)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 214,
+   "protein_g": 10.5,
+   "carbohydrates_g": 35.7,
+   "fat_g": 4.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 412,
+   "potassium_mg": 670,
+   "phosphorus_mg": 163,
+   "calcium_mg": 49,
+   "fiber_g": 6.2,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "220 g red lentils, washed and drained"
+   ],
+   [
+    null,
+    "4 tsp olive oil (20 g)"
+   ],
+   [
+    null,
+    "1 onion, chopped (120 g)"
+   ],
+   [
+    null,
+    "2 garlic cloves, chopped (10 g)"
+   ],
+   [
+    null,
+    "2 green chillies (20 g)"
+   ],
+   [
+    null,
+    "½ green bell pepper (80 g)"
+   ],
+   [
+    null,
+    "250 g pumpkin, diced"
+   ],
+   [
+    null,
+    "2 carrots, diced (150 g)"
+   ],
+   [
+    null,
+    "1 tomato (150 g)"
+   ],
+   [
+    null,
+    "1 small potato, peeled and leached (100 g)"
+   ],
+   [
+    null,
+    "1 tsp cumin, 1 tsp bezar (Saudi spice mix), 1 tsp coriander seeds"
+   ],
+   [
+    null,
+    "1.5 l water or unsalted homemade vegetable stock"
+   ],
+   [
+    null,
+    "1 tsp salt (6 g)"
+   ],
+   [
+    null,
+    "1 tbsp lemon juice (15 g) to serve"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Dice the potato small, soak it in warm water for 2 hours, then boil it for 5 minutes in plenty of water and drain."
+   ],
+   [
+    null,
+    "Heat the oil in a pressure cooker and soften the garlic, then the onion, chillies and bell pepper."
+   ],
+   [
+    null,
+    "Add the spices and coriander seeds, then the lentils, and stir over low heat for 5 minutes."
+   ],
+   [
+    null,
+    "Add the pumpkin, carrots, tomato, potato, stock and salt, close the cooker and cook for 20–25 minutes on medium heat (or 40 minutes in an ordinary pot)."
+   ],
+   [
+    null,
+    "Take out the chillies if you like, blend the soup until smooth and adjust the thickness with hot water."
+   ],
+   [
+    null,
+    "Serve hot with a squeeze of lemon."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: olive oil instead of butter, water or unsalted homemade vegetable stock instead of ready stock, and more pumpkin and carrot with only a little leached potato."
+   ],
+   [
+    null,
+    "Kidney tip: lentils, potato and tomato are sources of potassium and phosphorus; leach the potato as in the first step or replace it with pumpkin, and keep to one bowl."
+   ],
+   [
+    null,
+    "Diabetes tip: one bowl has about 36 g carbohydrate and 6 g fibre; serve it with salad and go easy on bread."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Mawdoo3"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT1H",
+  "translation_of": "shorbat-adas"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-malfouf",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-3787-1.html",
+  "lang": "ar",
+  "title": "شوربة الملفوف الصحية",
+  "description": "شوربة الملفوف شوربة منزلية خفيفة في المطبخ السعودي، يُطبخ فيها الملفوف مع الشبت والثوم والطماطم والبصل الأخضر وقطع الدجاج، وتُحمّض قليلاً بالخل. في هذه النسخة صدر دجاج طازج بدل الدجاج المدخن المالح، وسكر أقل بكثير، وملح محدود.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق شوربة (حوالي 400 مل)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 177,
+   "protein_g": 17.1,
+   "carbohydrates_g": 18.4,
+   "fat_g": 4.5,
+   "cholesterol_mg": 44,
+   "sodium_mg": 549,
+   "potassium_mg": 701,
+   "phosphorus_mg": 202,
+   "calcium_mg": 98,
+   "fiber_g": 5.4,
+   "added_sugar_g": 0.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "600 غ ملفوف أخضر مقطع شرائح عريضة"
+   ],
+   [
+    null,
+    "240 غ صدر دجاج بدون جلد مقطع مكعبات"
+   ],
+   [
+    null,
+    "2 ملعقة صغيرة زيت زيتون (10 غ)"
+   ],
+   [
+    null,
+    "1 بصلة صغيرة مفرومة (100 غ)"
+   ],
+   [
+    null,
+    "3 فصوص ثوم مهروس (10 غ)"
+   ],
+   [
+    null,
+    "حزمة صغيرة بصل أخضر مقطع حلقات (60 غ)"
+   ],
+   [
+    null,
+    "حزمة صغيرة شبت مفروم (15 غ)"
+   ],
+   [
+    null,
+    "1 طماطم مبشورة (150 غ) و1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    null,
+    "رشة سكر (3 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة دقيق (12 غ) مذوّب في 100 مل ماء"
+   ],
+   [
+    null,
+    "2 ملعقة كبيرة خل أبيض (30 غ)"
+   ],
+   [
+    null,
+    "¾ ملعقة صغيرة ملح (5 غ) و½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "1.2 لتر ماء"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن الزيت في قدر وشوِّح البصل والثوم دقيقتين، ثم أضف الدجاج وقلّبه حتى يبيض."
+   ],
+   [
+    null,
+    "أضف الملفوف والماء واتركه يغلي حتى يذبل الملفوف."
+   ],
+   [
+    null,
+    "أضف الطماطم والمعجون والبصل الأخضر والشبت والسكر والملح والفلفل، واتركه على نار هادئة 30 دقيقة."
+   ],
+   [
+    null,
+    "أضف خليط الدقيق والخل مع التحريك واتركه 5 دقائق حتى يتماسك القوام قليلاً."
+   ],
+   [
+    null,
+    "قدّمها ساخنة؛ طعمها حامض خفيف."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: صدر دجاج طازج بدل الدجاج المدخن الغني بالملح، رشة سكر بدل ملعقة كاملة، وزيت قليل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطبق فيه حوالي 700 مغ بوتاسيوم من الملفوف والطماطم والشبت والدجاج؛ يمكن الاستغناء عن الطماطم الطازجة والشبت لتقليله، وقلّل الدجاج إلى 40 غ للحصة إذا طُلب منك تقليل البروتين."
+   ],
+   [
+    null,
+    "لمرضى السكري: الطبق فيه حوالي 18 غ كربوهيدرات فقط ومشبع بالألياف؛ قدّمه مع شريحة خبز بر بدل الخبز الفرنسي الأبيض."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويب طب، مطبخ سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shorbat-malfouf-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-3787-1.html",
+  "lang": "en",
+  "title": "Healthy Cabbage Soup",
+  "description": "Cabbage soup is a light home soup in the Saudi kitchen: cabbage cooked with dill, garlic, tomato, spring onions and pieces of chicken, finished slightly sour with vinegar. This version uses fresh chicken breast instead of salty smoked chicken, far less sugar and a limited amount of salt.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 bowl (about 400 ml)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Soup"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 177,
+   "protein_g": 17.1,
+   "carbohydrates_g": 18.4,
+   "fat_g": 4.5,
+   "cholesterol_mg": 44,
+   "sodium_mg": 549,
+   "potassium_mg": 701,
+   "phosphorus_mg": 202,
+   "calcium_mg": 98,
+   "fiber_g": 5.4,
+   "added_sugar_g": 0.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "600 g green cabbage, cut in wide strips"
+   ],
+   [
+    null,
+    "240 g skinless chicken breast, diced"
+   ],
+   [
+    null,
+    "2 tsp olive oil (10 g)"
+   ],
+   [
+    null,
+    "1 small onion, chopped (100 g)"
+   ],
+   [
+    null,
+    "3 garlic cloves, crushed (10 g)"
+   ],
+   [
+    null,
+    "1 small bunch spring onions, sliced (60 g)"
+   ],
+   [
+    null,
+    "1 small bunch dill, chopped (15 g)"
+   ],
+   [
+    null,
+    "1 tomato, grated (150 g) and 1 tbsp no-salt tomato paste (15 g)"
+   ],
+   [
+    null,
+    "1 pinch sugar (3 g)"
+   ],
+   [
+    null,
+    "1 tbsp flour (12 g) mixed with 100 ml water"
+   ],
+   [
+    null,
+    "2 tbsp white vinegar (30 g)"
+   ],
+   [
+    null,
+    "¾ tsp salt (5 g) and ½ tsp black pepper"
+   ],
+   [
+    null,
+    "1.2 l water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the oil in a pot and soften the onion and garlic for 2 minutes, then add the chicken and stir until it turns white."
+   ],
+   [
+    null,
+    "Add the cabbage and water and bring to the boil until the cabbage wilts."
+   ],
+   [
+    null,
+    "Add the tomato, paste, spring onions, dill, sugar, salt and pepper and simmer for 30 minutes."
+   ],
+   [
+    null,
+    "Stir in the flour mixture and the vinegar and cook for 5 minutes until slightly thickened."
+   ],
+   [
+    null,
+    "Serve hot; it should taste lightly sour."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: fresh chicken breast instead of salty smoked chicken, a pinch of sugar instead of a full spoon, and little oil."
+   ],
+   [
+    null,
+    "Kidney tip: one bowl has about 700 mg potassium from the cabbage, tomato, dill and chicken; you can leave out the fresh tomato and dill to lower it, and cut the chicken to 40 g per portion if you need less protein."
+   ],
+   [
+    null,
+    "Diabetes tip: one bowl has only about 18 g carbohydrate and plenty of fibre; serve it with a slice of wholemeal bread instead of white baguette."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, WebTeb, Sayidaty Kitchen"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": "shorbat-malfouf"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mahshi-waraq",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16356-1.html",
+  "lang": "ar",
+  "title": "محشي ورق العنب الحامض الصحي",
+  "description": "محشي ورق العنب الحامض على الطريقة السعودية: ورق عنب محشو بالأرز والطماطم والبصل والأعشاب، يُطبخ ببطء في تسقية من الليمون ودبس الرمان وزيت الزيتون. في هذه النسخة ورق طازج أو مجمد بدل المخلل المالح، وزيت أقل بكثير، وبدون سكر أو مكعبات مرق.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "حوالي 8 أصابع (220 غ)",
+  "category": "Vegetables",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 271,
+   "protein_g": 6.4,
+   "carbohydrates_g": 49.1,
+   "fat_g": 6.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 404,
+   "potassium_mg": 473,
+   "phosphorus_mg": 115,
+   "calcium_mg": 190,
+   "fiber_g": 6.5,
+   "added_sugar_g": 2.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للحشوة",
+    "250 غ ورق عنب طازج أو مجمد (حوالي 50 ورقة) مسلوق دقيقة"
+   ],
+   [
+    "للحشوة",
+    "240 غ أرز مصري مغسول ومنقوع 30 دقيقة ومصفى"
+   ],
+   [
+    "للحشوة",
+    "1 بصلة كبيرة مفرومة ناعماً (150 غ)"
+   ],
+   [
+    "للحشوة",
+    "3 فصوص ثوم (15 غ)"
+   ],
+   [
+    "للحشوة",
+    "2 طماطم مفرومة ناعماً (200 غ)"
+   ],
+   [
+    "للحشوة",
+    "30 غ بقدونس، 20 غ كزبرة، 10 غ نعناع، 10 غ شبت، كلها مفرومة"
+   ],
+   [
+    "للحشوة",
+    "1 ملعقة صغيرة كمون، ½ ملعقة صغيرة كركم، ½ ملعقة صغيرة بهارات مشكلة"
+   ],
+   [
+    "للحشوة",
+    "1 ملعقة كبيرة زيت زيتون (15 غ)"
+   ],
+   [
+    "للحشوة",
+    "1 فلفل أخضر حار (اختياري)"
+   ],
+   [
+    "للتسقية",
+    "1 بصلة صغيرة حلقات (50 غ) و1 طماطم شرائح (100 غ) لتبطين القدر"
+   ],
+   [
+    "للتسقية",
+    "2 ملعقة كبيرة دبس رمان (30 غ)"
+   ],
+   [
+    "للتسقية",
+    "4 ملاعق كبيرة عصير ليمون (60 غ)"
+   ],
+   [
+    "للتسقية",
+    "1 طماطم مبشورة (100 غ)"
+   ],
+   [
+    "للتسقية",
+    "1 ملعقة كبيرة زيت زيتون (15 غ)"
+   ],
+   [
+    "للتسقية",
+    "1 ملعقة صغيرة ملح (6 غ)"
+   ],
+   [
+    "للتسقية",
+    "600 مل ماء مغلي"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "شوِّح البصل والثوم والفلفل الحار في ملعقة الزيت حتى يذبل، ثم أضف الطماطم المفرومة واتركها دقيقتين."
+   ],
+   [
+    null,
+    "أضف الأرز والبهارات وقلّب 3 دقائق، ثم أطفئ النار وأضف الأعشاب وقلّب حتى تتجانس الحشوة."
+   ],
+   [
+    null,
+    "بطّن قاع القدر بحلقات البصل وشرائح الطماطم وبضع ورقات عنب."
+   ],
+   [
+    null,
+    "افرد كل ورقة والجهة اللامعة للأسفل، وضع ملعقة كبيرة من الحشوة، ثم اطوِ الجانبين ولفّها بإحكام، ورصّها متلاصقة في القدر."
+   ],
+   [
+    null,
+    "اخلط مكونات التسقية واسكبها فوق الورق حتى تغطيه، وضع فوقه طبقاً مقلوباً ليبقى مضغوطاً."
+   ],
+   [
+    null,
+    "اطبخه على نار عالية 10 دقائق، ثم على نار هادئة جداً ساعة ونصف إلى ساعتين حتى ينضج الأرز والورق."
+   ],
+   [
+    null,
+    "اتركه في القدر حتى يبرد تماماً، ثم اقلبه في طبق التقديم وزيّنه بحبات الرمان."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: ورق عنب طازج أو مجمد بدل المخلل (المخلل غني جداً بالملح؛ إذا استخدمته فانقعه في ماء ساخن وغيّر الماء مرتين ولا تضف ملحاً)، ملعقتا زيت بدل كمية كبيرة، وبدون سكر ومرقة جاهزة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: ورق العنب غني بالكالسيوم وفيه بوتاسيوم متوسط، والطماطم والأعشاب ترفع البوتاسيوم؛ اكتفِ بثمانية أصابع، ويمكن تقليل الطماطم في التسقية."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 49 غ كربوهيدرات من الأرز؛ قدّمها مع لبن قليل الدسم أو سلطة واجعلها بديلاً عن الأرز في الوجبة لا إضافة له."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، كوكباد"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT2H",
+  "total_time": "PT2H45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mahshi-waraq-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16356-1.html",
+  "lang": "en",
+  "title": "Healthy Tangy Stuffed Grape Leaves",
+  "description": "Saudi-style tangy stuffed grape leaves: vine leaves filled with rice, tomato, onion and herbs, slowly cooked in a sauce of lemon, pomegranate molasses and olive oil. This version uses fresh or frozen leaves instead of salty brined ones, far less oil, and no sugar or stock cubes.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "about 8 rolls (220 g)",
+  "category": "Vegetables",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 271,
+   "protein_g": 6.4,
+   "carbohydrates_g": 49.1,
+   "fat_g": 6.4,
+   "cholesterol_mg": 0,
+   "sodium_mg": 404,
+   "potassium_mg": 473,
+   "phosphorus_mg": 115,
+   "calcium_mg": 190,
+   "fiber_g": 6.5,
+   "added_sugar_g": 2.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the filling",
+    "250 g fresh or frozen grape leaves (about 50 leaves), blanched 1 minute"
+   ],
+   [
+    "For the filling",
+    "240 g short-grain (Egyptian) rice, washed, soaked 30 minutes and drained"
+   ],
+   [
+    "For the filling",
+    "1 large onion, finely chopped (150 g)"
+   ],
+   [
+    "For the filling",
+    "3 garlic cloves (15 g)"
+   ],
+   [
+    "For the filling",
+    "2 tomatoes, finely chopped (200 g)"
+   ],
+   [
+    "For the filling",
+    "30 g parsley, 20 g coriander, 10 g mint and 10 g dill, all chopped"
+   ],
+   [
+    "For the filling",
+    "1 tsp cumin, ½ tsp turmeric, ½ tsp mixed spice"
+   ],
+   [
+    "For the filling",
+    "1 tbsp olive oil (15 g)"
+   ],
+   [
+    "For the filling",
+    "1 green chilli (optional)"
+   ],
+   [
+    "For the cooking liquid",
+    "1 small onion in rings (50 g) and 1 tomato in slices (100 g) to line the pot"
+   ],
+   [
+    "For the cooking liquid",
+    "2 tbsp pomegranate molasses (30 g)"
+   ],
+   [
+    "For the cooking liquid",
+    "4 tbsp lemon juice (60 g)"
+   ],
+   [
+    "For the cooking liquid",
+    "1 tomato, grated (100 g)"
+   ],
+   [
+    "For the cooking liquid",
+    "1 tbsp olive oil (15 g)"
+   ],
+   [
+    "For the cooking liquid",
+    "1 tsp salt (6 g)"
+   ],
+   [
+    "For the cooking liquid",
+    "600 ml boiling water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Soften the onion, garlic and chilli in the tablespoon of oil, then add the chopped tomatoes and cook for 2 minutes."
+   ],
+   [
+    null,
+    "Add the rice and spices and stir for 3 minutes, then turn off the heat, add the herbs and mix well."
+   ],
+   [
+    null,
+    "Line the bottom of the pot with the onion rings, tomato slices and a few grape leaves."
+   ],
+   [
+    null,
+    "Lay each leaf shiny side down, put a heaped tablespoon of filling on it, fold in the sides and roll tightly, then pack the rolls close together in the pot."
+   ],
+   [
+    null,
+    "Mix the cooking-liquid ingredients, pour over the rolls to cover them, and weigh them down with an upside-down plate."
+   ],
+   [
+    null,
+    "Cook on high heat for 10 minutes, then on very low heat for 1½ to 2 hours until the rice and leaves are tender."
+   ],
+   [
+    null,
+    "Leave it in the pot to cool completely, then turn it out onto a serving plate and garnish with pomegranate seeds."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: fresh or frozen leaves instead of brined ones (brined leaves are very salty; if you use them, soak in hot water, change the water twice and add no salt), 2 tbsp oil instead of a large amount, and no sugar or stock cubes."
+   ],
+   [
+    null,
+    "Kidney tip: grape leaves are rich in calcium with moderate potassium, and tomato and herbs add more potassium; keep to 8 rolls and you can use less tomato in the cooking liquid."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 49 g carbohydrate from the rice; serve it with low-fat laban or salad and have it instead of rice in that meal, not as well as rice."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Cookpad"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT2H",
+  "total_time": "PT2H45M",
+  "translation_of": "mahshi-waraq"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "aseeda-tamr",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16314-1.html",
+  "lang": "ar",
+  "title": "عصيدة التمر (المحلّى) الصحية",
+  "description": "عصيدة التمر أو المحلّى حلى نجدي شتوي من دقيق البر والتمر المطبوخين طويلاً مع الفلفل الأسود والبهارات حتى يصبح القوام ناعماً ولزجاً، ويُقدّم بالسمن. في هذه النسخة نحو نصف كمية التمر التقليدية بالنسبة للدقيق، وسمن قليل بدل الزبدة، وحصة صغيرة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "طبق صغير (حوالي 150 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 180,
+   "protein_g": 3.4,
+   "carbohydrates_g": 41.6,
+   "fat_g": 1.7,
+   "cholesterol_mg": 3,
+   "sodium_mg": 50,
+   "potassium_mg": 314,
+   "phosphorus_mg": 90,
+   "calcium_mg": 21,
+   "fiber_g": 5.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 غ تمر منزوع النوى"
+   ],
+   [
+    null,
+    "150 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    null,
+    "1 لتر ماء (نصفه ساخن)"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة هيل مطحون و½ ملعقة صغيرة قرفة و¼ ملعقة صغيرة زنجبيل مطحون"
+   ],
+   [
+    null,
+    "رشة ملح (1 غ)"
+   ],
+   [
+    null,
+    "2 ملعقة صغيرة سمن (9 غ) للتقديم"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "انقع التمر في نصف الماء الساخن 15 دقيقة ثم اخلطه بالخلاط حتى ينعم."
+   ],
+   [
+    null,
+    "حمّص الدقيق في قدر سميك على نار متوسطة مع التحريك حتى يتغير لونه قليلاً وتظهر رائحته."
+   ],
+   [
+    null,
+    "أضف خليط التمر وباقي الماء والبهارات والملح تدريجياً مع الخفق حتى لا يتكتل."
+   ],
+   [
+    null,
+    "اتركه على نار هادئة ساعة على الأقل، وحرّكه كل 10–15 دقيقة حتى ينضج الدقيق ويصبح القوام ناعماً ولامعاً."
+   ],
+   [
+    null,
+    "وزّعه في 8 أطباق صغيرة، ورش عليه قليلاً من الفلفل الأسود وربع ملعقة صغيرة سمن لكل طبق، وقدّمه دافئاً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: نحو نصف كمية التمر التقليدية بالنسبة للدقيق (300 غ تمر لكل 150 غ دقيق)، بدون سكر مضاف، وسمن قليل بدل الزبدة، وحصة صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: التمر ودقيق البر فيهما بوتاسيوم وفوسفور (حوالي 310 مغ بوتاسيوم للحصة)؛ اكتفِ بطبق صغير ولا تضف المكسرات."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 42 غ كربوهيدرات معظمها من التمر؛ احسبها ضمن نشويات الوجبة وكُلها بعد وجبة فيها بروتين وخضار."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد، سطور"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H15M",
+  "total_time": "PT1H35M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "aseeda-tamr-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-16314-1.html",
+  "lang": "en",
+  "title": "Healthy Date Aseeda (Muhalla)",
+  "description": "Date aseeda, also called muhalla, is a Najdi winter sweet of whole-wheat flour and dates slowly cooked with black pepper and warm spices until smooth and sticky, then served with ghee. This version uses about half the traditional amount of dates per gram of flour, a little ghee instead of butter, and a small portion.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "1 small bowl (about 150 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 180,
+   "protein_g": 3.4,
+   "carbohydrates_g": 41.6,
+   "fat_g": 1.7,
+   "cholesterol_mg": 3,
+   "sodium_mg": 50,
+   "potassium_mg": 314,
+   "phosphorus_mg": 90,
+   "calcium_mg": 21,
+   "fiber_g": 5.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 g pitted dates"
+   ],
+   [
+    null,
+    "150 g whole-wheat (burr) flour"
+   ],
+   [
+    null,
+    "1 l water (half of it hot)"
+   ],
+   [
+    null,
+    "½ tsp black pepper"
+   ],
+   [
+    null,
+    "½ tsp ground cardamom, ½ tsp cinnamon and ¼ tsp ground ginger"
+   ],
+   [
+    null,
+    "1 pinch salt (1 g)"
+   ],
+   [
+    null,
+    "2 tsp ghee (9 g) to serve"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Soak the dates in half the water (hot) for 15 minutes, then blend until smooth."
+   ],
+   [
+    null,
+    "Toast the flour in a heavy pot over medium heat, stirring, until it colours slightly and smells nutty."
+   ],
+   [
+    null,
+    "Gradually whisk in the date mixture, the rest of the water, the spices and the salt so no lumps form."
+   ],
+   [
+    null,
+    "Cook on low heat for at least 1 hour, stirring every 10–15 minutes, until the flour is cooked and the mixture is smooth and glossy."
+   ],
+   [
+    null,
+    "Divide into 8 small bowls, sprinkle with a little black pepper and drizzle about ¼ tsp ghee on each, and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: about half the traditional dates per gram of flour (300 g dates to 150 g flour), no added sugar, a little ghee instead of butter, and a small portion."
+   ],
+   [
+    null,
+    "Kidney tip: dates and whole-wheat flour contain potassium and phosphorus (about 310 mg potassium per portion); keep to one small bowl and skip the nuts."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 42 g carbohydrate, mostly from the dates; count it as part of the meal's carbs and have it after a meal with protein and vegetables."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad, Sotor"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT1H15M",
+  "total_time": "PT1H35M",
+  "translation_of": "aseeda-tamr"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "aseeda-janubiya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-7618-1.html",
+  "lang": "ar",
+  "title": "العصيدة الجنوبية بالمرق الصحية",
+  "description": "العصيدة الجنوبية طبق شعبي من جنوب المملكة (عسير وجازان والباحة): عجينة كثيفة من دقيق البر تُعصد في ماء مغلي بعصا خشبية، وتُقدّم ساخنة مع مرق اللحم. في هذه النسخة لحم هبر منزوع الدهن، خضار أكثر في المرق، وملح وسمن أقل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 450 غ مع المرق)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 446,
+   "protein_g": 36.5,
+   "carbohydrates_g": 54.1,
+   "fat_g": 10.7,
+   "cholesterol_mg": 92,
+   "sodium_mg": 600,
+   "potassium_mg": 1006,
+   "phosphorus_mg": 521,
+   "calcium_mg": 64,
+   "fiber_g": 9.1,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للمرق",
+    "520 غ لحم غنم هبر (فخذ أو كتف) منزوع الدهن، قطع كبيرة"
+   ],
+   [
+    "للمرق",
+    "1 بصلة كبيرة شرائح (150 غ)"
+   ],
+   [
+    "للمرق",
+    "1 فص ثوم (5 غ)"
+   ],
+   [
+    "للمرق",
+    "1 فلفل أخضر حار (15 غ)"
+   ],
+   [
+    "للمرق",
+    "2 جزر (150 غ) و1 كوسة كبيرة (200 غ) مقطعة قطعاً كبيرة"
+   ],
+   [
+    "للمرق",
+    "1 طماطم (150 غ)"
+   ],
+   [
+    "للمرق",
+    "عود قرفة، 4 حبات هيل، ورقة غار، ½ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    "للمرق",
+    "½ ملعقة صغيرة ملح (4 غ)"
+   ],
+   [
+    "للمرق",
+    "1.5 لتر ماء"
+   ],
+   [
+    "للعصيدة",
+    "240 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعصيدة",
+    "300 مل ماء"
+   ],
+   [
+    "للعصيدة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعصيدة",
+    "2½ ملعقة صغيرة سمن (12 غ)"
+   ],
+   [
+    "للعصيدة",
+    "للرش: فلفل أحمر مجفف مطحون وكمون ورشة ثوم بودرة"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ضع اللحم في قدر مع الماء والبصل والثوم والفلفل الحار والبهارات الصحيحة، واتركه يغلي وأزل الرغوة."
+   ],
+   [
+    null,
+    "خفّف النار وغطّ القدر واطبخه ساعة ونصف حتى يقارب النضج، ثم أضف الجزر والكوسة والطماطم والملح واطبخه 20 دقيقة أخرى."
+   ],
+   [
+    null,
+    "للعصيدة: اغلِ 300 مل ماء مع رشة الملح في قدر غير لاصق، ثم أضف الدقيق دفعة واحدة وحرّكه بسرعة بعصا أو ملعقة خشبية حتى يصبح كتلة واحدة."
+   ],
+   [
+    null,
+    "أضف 100 مل من المرق الساخن تدريجياً واستمر في العصد (الطي والضغط من الأسفل للأعلى) على نار هادئة 10 دقائق حتى تصبح ناعمة ومتماسكة."
+   ],
+   [
+    null,
+    "شكّلها في أطباق التقديم واعمل حفرة في الوسط وضع فيها قليلاً من السمن."
+   ],
+   [
+    null,
+    "قدّمها فوراً مع اللحم والخضار والمرق، ورش البهارات على المرق حسب الرغبة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم هبر بدل الأضلاع والكتف الدهني، خضار في المرق، وسمن وملح أقل؛ النسخة التي تُقدّم بالعسل والسمن تبقى للمناسبات وبكمية صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر واللحم فيهما فوسفور (حوالي 520 مغ للحصة) والمرق يحمل البوتاسيوم؛ اشرب قليلاً من المرق، ويمكن عمل العصيدة بنصف دقيق أبيض لتقليل الفوسفور."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 54 غ كربوهيدرات مع 9 غ ألياف من البر؛ قدّمها مع سلطة خضراء وتجنّب إضافة العسل."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويب طب، فود تو مينتس"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT2H15M",
+  "total_time": "PT2H30M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "aseeda-janubiya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-7618-1.html",
+  "lang": "en",
+  "title": "Healthy Southern Aseeda with Marag",
+  "description": "Southern aseeda is a traditional dish from the south of Saudi Arabia (Asir, Jazan and Al Baha): a thick whole-wheat dough beaten into boiling water with a wooden stick and served hot with meat broth (marag). This version uses lean trimmed lamb, more vegetables in the broth, and less salt and ghee.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 450 g with broth)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 446,
+   "protein_g": 36.5,
+   "carbohydrates_g": 54.1,
+   "fat_g": 10.7,
+   "cholesterol_mg": 92,
+   "sodium_mg": 600,
+   "potassium_mg": 1006,
+   "phosphorus_mg": 521,
+   "calcium_mg": 64,
+   "fiber_g": 9.1,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the marag",
+    "520 g lean lamb (leg or shoulder), trimmed, in large pieces"
+   ],
+   [
+    "For the marag",
+    "1 large onion, sliced (150 g)"
+   ],
+   [
+    "For the marag",
+    "1 garlic clove (5 g)"
+   ],
+   [
+    "For the marag",
+    "1 green chilli (15 g)"
+   ],
+   [
+    "For the marag",
+    "2 carrots (150 g) and 1 large zucchini (200 g), in large pieces"
+   ],
+   [
+    "For the marag",
+    "1 tomato (150 g)"
+   ],
+   [
+    "For the marag",
+    "1 cinnamon stick, 4 cardamom pods, 1 bay leaf, ½ tsp black pepper"
+   ],
+   [
+    "For the marag",
+    "½ tsp salt (4 g)"
+   ],
+   [
+    "For the marag",
+    "1.5 l water"
+   ],
+   [
+    "For the aseeda",
+    "240 g whole-wheat (burr) flour"
+   ],
+   [
+    "For the aseeda",
+    "300 ml water"
+   ],
+   [
+    "For the aseeda",
+    "1 pinch salt (1 g)"
+   ],
+   [
+    "For the aseeda",
+    "2½ tsp ghee (12 g)"
+   ],
+   [
+    "For the aseeda",
+    "To sprinkle: ground dried red chilli, cumin and a pinch of garlic powder"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Put the meat in a pot with the water, onion, garlic, chilli and whole spices, bring to the boil and skim off the foam."
+   ],
+   [
+    null,
+    "Lower the heat, cover and cook for 1½ hours until nearly tender, then add the carrots, zucchini, tomato and salt and cook for 20 minutes more."
+   ],
+   [
+    null,
+    "For the aseeda: boil the 300 ml water with the pinch of salt in a non-stick pot, add the flour all at once and stir fast with a wooden stick or spoon until it forms one mass."
+   ],
+   [
+    null,
+    "Add 100 ml of the hot broth gradually and keep beating (folding and pressing from the bottom up) on low heat for 10 minutes until smooth and firm."
+   ],
+   [
+    null,
+    "Shape it in serving bowls, make a well in the centre and put a little ghee in it."
+   ],
+   [
+    null,
+    "Serve at once with the meat, vegetables and broth, and sprinkle the spices over the broth to taste."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean meat instead of fatty ribs and shoulder, vegetables in the broth, and less ghee and salt; the honey-and-ghee version is best kept for occasions and small amounts."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour and meat contain phosphorus (about 520 mg per portion) and the broth carries potassium; drink only a little broth, and you can make the aseeda with half white flour to lower phosphorus."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 54 g carbohydrate with 9 g fibre from the whole wheat; serve it with green salad and avoid adding honey."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, WebTeb, Food2mins"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT2H15M",
+  "total_time": "PT2H30M",
+  "translation_of": "aseeda-janubiya"
+ }
+]

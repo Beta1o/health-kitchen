@@ -1,0 +1,47 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 170872,
+   "g": 309,
+   "name": "1% milk 300 ml"
+  },
+  {
+   "fdc": 175043,
+   "g": 4,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 169655,
+   "g": 10,
+   "name": "sugar 2 tsp",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil 2 tsp (batter + pan)"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 169640,
+   "g": 30,
+   "name": "honey to serve",
+   "added_sugar": true
+  }
+ ]
+}

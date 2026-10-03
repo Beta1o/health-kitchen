@@ -1,0 +1,21 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 169736,
+   "g": 200,
+   "name": "vermicelli, dry"
+  },
+  {
+   "fdc": 171314,
+   "g": 15,
+   "name": "ghee"
+  },
+  {
+   "fdc": 169655,
+   "g": 40,
+   "name": "sugar",
+   "added_sugar": true
+  }
+ ]
+}

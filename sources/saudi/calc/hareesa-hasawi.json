@@ -1,0 +1,35 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168890,
+   "g": 240,
+   "name": "whole wheat grain"
+  },
+  {
+   "fdc": 171077,
+   "g": 300,
+   "name": "chicken breast raw"
+  },
+  {
+   "fdc": 173627,
+   "g": 300,
+   "name": "chicken thigh meat raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 18,
+   "name": "ghee"
+  }
+ ]
+}

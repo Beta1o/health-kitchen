@@ -1,0 +1,45 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168890,
+   "g": 300,
+   "name": "whole wheat grain"
+  },
+  {
+   "fdc": 168936,
+   "g": 70,
+   "name": "flour"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions"
+  },
+  {
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley"
+  },
+  {
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander leaves"
+  },
+  {
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  }
+ ]
+}

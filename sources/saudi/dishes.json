@@ -1,0 +1,1577 @@
+[
+ {
+  "id": "kabsa-chicken",
+  "ar": "كبسة الدجاج",
+  "en": "Chicken Kabsa",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17962-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17431-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16618-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16398-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14580-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13870-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11031-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4081-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14312-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-meat",
+  "ar": "كبسة اللحم",
+  "en": "Meat Kabsa (Red)",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17433-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14623-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13722-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13719-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4809-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4369-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4176-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13868-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13863-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4510-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11454-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hashi",
+  "ar": "كبسة لحم الحاشي البيضاء",
+  "en": "White Camel Meat Kabsa",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17519-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15933-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14643-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14311-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hasawi",
+  "ar": "الكبسة الحساوية",
+  "en": "Hasawi Meat Kabsa",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15476-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-fish",
+  "ar": "كبسة السمك",
+  "en": "Fish Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14790-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3788-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-vegetable",
+  "ar": "كبسة الخضار",
+  "en": "Vegetable Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17233-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hamam",
+  "ar": "كبسة الحمام",
+  "en": "Pigeon Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10676-1.html"
+  ]
+ },
+ {
+  "id": "madghoot-meat",
+  "ar": "مضغوط اللحم",
+  "en": "Meat Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17604-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15628-1.html"
+  ]
+ },
+ {
+  "id": "madghoot-chicken",
+  "ar": "مضغوط الدجاج",
+  "en": "Chicken Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14315-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2926-1.html"
+  ]
+ },
+ {
+  "id": "madghoot-faqa",
+  "ar": "مضغوط الفقع",
+  "en": "Truffle Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17325-1.html"
+  ]
+ },
+ {
+  "id": "mandi-chicken",
+  "ar": "مندي الدجاج",
+  "en": "Chicken Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15893-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15744-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15025-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14317-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10709-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4164-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4160-1.html"
+  ]
+ },
+ {
+  "id": "mandi-meat",
+  "ar": "مندي اللحم",
+  "en": "Meat Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17959-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15023-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13871-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4162-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4370-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4170-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4163-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5016-1.html"
+  ]
+ },
+ {
+  "id": "mandi-goat",
+  "ar": "مندي التيس",
+  "en": "Goat Mandi",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15609-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10670-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10672-1.html"
+  ]
+ },
+ {
+  "id": "mandi-fish",
+  "ar": "مندي السمك",
+  "en": "Fish Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15027-1.html"
+  ]
+ },
+ {
+  "id": "haneeth",
+  "ar": "حنيذ اللحم",
+  "en": "Haneeth Lamb",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12842-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7046-1.html"
+  ]
+ },
+ {
+  "id": "mufattah-tais",
+  "ar": "مفطح التيس",
+  "en": "Stuffed Whole Goat (Mufattah)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-2670-1.html"
+  ]
+ },
+ {
+  "id": "madhbi-hail",
+  "ar": "المضبي الحائلي",
+  "en": "Hail Madhbi (Stone-Grilled Meat)",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4060-1.html"
+  ]
+ },
+ {
+  "id": "hail-dhabiha",
+  "ar": "ذبيحة أهل حائل",
+  "en": "Hail Whole Lamb",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14667-1.html"
+  ]
+ },
+ {
+  "id": "madfoona-meat",
+  "ar": "مدفونة اللحم",
+  "en": "Meat Madfoona",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14894-1.html"
+  ]
+ },
+ {
+  "id": "madfoona-chicken",
+  "ar": "مدفونة الدجاج",
+  "en": "Chicken Madfoona",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14316-1.html"
+  ]
+ },
+ {
+  "id": "majbous-meat",
+  "ar": "المجبوس باللحم",
+  "en": "Meat Majbous",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16805-1.html"
+  ]
+ },
+ {
+  "id": "majbous-fish",
+  "ar": "مجبوس السمك",
+  "en": "Fish Majbous",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12982-1.html"
+  ]
+ },
+ {
+  "id": "maqluba-chicken",
+  "ar": "مقلوبة الدجاج",
+  "en": "Chicken Maqluba",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14318-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15939-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15445-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14051-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10675-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4505-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4504-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4442-1.html"
+  ]
+ },
+ {
+  "id": "maqluba-fish",
+  "ar": "مقلوبة السمك",
+  "en": "Fish Maqluba",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4644-1.html"
+  ]
+ },
+ {
+  "id": "muqalqal-meat",
+  "ar": "مقلقل اللحم",
+  "en": "Meat Muqalqal",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12917-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12347-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3802-1.html"
+  ]
+ },
+ {
+  "id": "muqalqal-chicken",
+  "ar": "مقلقل الدجاج",
+  "en": "Chicken Muqalqal",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10673-1.html"
+  ]
+ },
+ {
+  "id": "marqooq",
+  "ar": "المرقوق",
+  "en": "Marqooq",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16338-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7926-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7849-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12510-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7325-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12675-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18540-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17836-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14638-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14566-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10696-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5291-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4366-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4091-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11074-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11019-1.html"
+  ]
+ },
+ {
+  "id": "marqooq-chicken",
+  "ar": "المرقوق بالدجاج",
+  "en": "Chicken Marqooq",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10706-1.html"
+  ]
+ },
+ {
+  "id": "marqooq-faqa",
+  "ar": "مرقوق الفقع",
+  "en": "Truffle Marqooq",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17294-1.html"
+  ]
+ },
+ {
+  "id": "mutazeez",
+  "ar": "المطازيز",
+  "en": "Mutazeez",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10806-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18164-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17704-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10805-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10697-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6673-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4159-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4093-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10714-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2933-1.html"
+  ]
+ },
+ {
+  "id": "qursan",
+  "ar": "القرصان",
+  "en": "Qursan",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18547-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18545-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17901-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15791-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14582-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14049-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10702-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10701-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7435-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10705-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4210-1.html"
+  ]
+ },
+ {
+  "id": "jareesh",
+  "ar": "الجريش",
+  "en": "Jareesh",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16298-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16107-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15793-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15519-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15511-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14904-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14557-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12969-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12676-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11790-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11759-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11136-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7922-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7064-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5067-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4467-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4174-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2708-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4440-1.html"
+  ]
+ },
+ {
+  "id": "jareesh-shrimp",
+  "ar": "جريش الربيان",
+  "en": "Shrimp Jareesh",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13860-1.html"
+  ]
+ },
+ {
+  "id": "jareesh-soup",
+  "ar": "شوربة الجريش",
+  "en": "Jareesh Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12978-1.html"
+  ]
+ },
+ {
+  "id": "saleeq",
+  "ar": "السليق",
+  "en": "Saleeq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16290-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16289-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14563-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12920-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10733-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10732-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10731-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10668-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8066-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4082-1.html"
+  ]
+ },
+ {
+  "id": "saleeq-chicken",
+  "ar": "السليق بالدجاج",
+  "en": "Chicken Saleeq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15720-1.html"
+  ]
+ },
+ {
+  "id": "madrouba-hasawi",
+  "ar": "المضروبة الحساوية",
+  "en": "Hasawi Madrouba (Saliqiya)",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10507-1.html"
+  ]
+ },
+ {
+  "id": "musabeeb",
+  "ar": "المصابيب",
+  "en": "Musabeeb",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18054-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17200-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14569-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14466-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13065-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12983-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5452-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4368-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3544-1.html"
+  ]
+ },
+ {
+  "id": "musabeeb-sweet",
+  "ar": "المصابيب الحلوة",
+  "en": "Sweet Musabeeb",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15636-1.html"
+  ]
+ },
+ {
+  "id": "marasee",
+  "ar": "المراصيع",
+  "en": "Marasee'",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14345-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13224-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10699-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8760-1.html"
+  ]
+ },
+ {
+  "id": "maraheef",
+  "ar": "مراهيف القصيم",
+  "en": "Maraheef",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10700-1.html"
+  ]
+ },
+ {
+  "id": "qishd",
+  "ar": "القشد",
+  "en": "Qishd (Clotted Cream)",
+  "region": "Qassimi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10906-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18162-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17902-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17201-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16353-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10899-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10280-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10693-1.html"
+  ]
+ },
+ {
+  "id": "kubayba-hail",
+  "ar": "كبيبة حائل",
+  "en": "Kubayba Hail",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17813-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14594-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13398-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-9992-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5859-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5758-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4090-1.html"
+  ]
+ },
+ {
+  "id": "kishna",
+  "ar": "الكشنة",
+  "en": "Kishna Sauce",
+  "region": "Najdi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5781-1.html"
+  ]
+ },
+ {
+  "id": "dagoos",
+  "ar": "الدقوس",
+  "en": "Dagoos Tomato Sauce",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11766-1.html"
+  ]
+ },
+ {
+  "id": "hareis",
+  "ar": "الهريس",
+  "en": "Hareis",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17530-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16340-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8113-1.html"
+  ]
+ },
+ {
+  "id": "hareesa-hasawi",
+  "ar": "الهريسة الحساوية",
+  "en": "Hasawi Hareesa",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12936-1.html"
+  ]
+ },
+ {
+  "id": "kubba-hasawi",
+  "ar": "الكبة الحساوية",
+  "en": "Hasawi Kubba",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7628-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18864-1.html"
+  ]
+ },
+ {
+  "id": "muqashqash",
+  "ar": "المقشوش الحايلي",
+  "en": "Muqashqash Hail",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18821-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16350-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14558-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10868-1.html"
+  ]
+ },
+ {
+  "id": "thareed",
+  "ar": "الثريد",
+  "en": "Thareed",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18548-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4842-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10281-1.html"
+  ]
+ },
+ {
+  "id": "thareeda-hail",
+  "ar": "ثريدة حايل المبصلة",
+  "en": "Hail Onion Thareeda (Mubassala)",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17527-1.html"
+  ]
+ },
+ {
+  "id": "mufalaq",
+  "ar": "مفلق الأحساء",
+  "en": "Hasawi Mufalaq",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3800-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17075-1.html"
+  ]
+ },
+ {
+  "id": "fareek",
+  "ar": "الفريك",
+  "en": "Fareek",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17539-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17199-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10698-1.html"
+  ]
+ },
+ {
+  "id": "fool-qallaba",
+  "ar": "فول قلابة",
+  "en": "Fool Qallaba",
+  "region": "",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17716-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16694-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15859-1.html"
+  ]
+ },
+ {
+  "id": "fool",
+  "ar": "الفول المدمس",
+  "en": "Fool Mudammas",
+  "region": "Hijazi",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17241-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16684-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14900-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16685-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15203-1.html"
+  ]
+ },
+ {
+  "id": "baleela",
+  "ar": "البليلة",
+  "en": "Baleela",
+  "region": "Hijazi",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17277-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16848-1.html"
+  ]
+ },
+ {
+  "id": "yaghmish",
+  "ar": "اليغمش",
+  "en": "Yaghmish",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17244-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10892-1.html"
+  ]
+ },
+ {
+  "id": "mabshoor",
+  "ar": "المبشور الحجازي",
+  "en": "Hijazi Mabshoor",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17239-1.html"
+  ]
+ },
+ {
+  "id": "rajla",
+  "ar": "الرجلة الحجازية",
+  "en": "Hijazi Purslane Stew",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17238-1.html"
+  ]
+ },
+ {
+  "id": "saqdana",
+  "ar": "حلي السقدانة",
+  "en": "Saqdana Dessert",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17237-1.html"
+  ]
+ },
+ {
+  "id": "kamouniya",
+  "ar": "الكمونية",
+  "en": "Kamouniya",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18304-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11264-1.html"
+  ]
+ },
+ {
+  "id": "madoos",
+  "ar": "المعدوس",
+  "en": "Ma'doos",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18589-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16481-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11776-1.html"
+  ]
+ },
+ {
+  "id": "muarraq",
+  "ar": "معرق لحم",
+  "en": "Hijazi Meat Mu'arraq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19266-1.html"
+  ]
+ },
+ {
+  "id": "haysa-madina",
+  "ar": "حيسة المدينة بالتمر",
+  "en": "Madina Date Haysa",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19075-1.html"
+  ]
+ },
+ {
+  "id": "haysiya-jazan",
+  "ar": "الحيسية الجيزانية",
+  "en": "Jazani Haysiya",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10309-1.html"
+  ]
+ },
+ {
+  "id": "saudi-coffee",
+  "ar": "القهوة السعودية",
+  "en": "Saudi Coffee",
+  "region": "",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5936-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18931-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18929-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4101-1.html"
+  ]
+ },
+ {
+  "id": "daghabees",
+  "ar": "الدغابيس",
+  "en": "Daghabees",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11405-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18922-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3930-1.html"
+  ]
+ },
+ {
+  "id": "kleeja",
+  "ar": "الكليجا",
+  "en": "Kleeja",
+  "region": "Qassimi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16396-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18865-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18881-1.html"
+  ]
+ },
+ {
+  "id": "lahoh",
+  "ar": "اللحوح الحجازي",
+  "en": "Hijazi Lahoh",
+  "region": "Hijazi",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10888-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18733-1.html"
+  ]
+ },
+ {
+  "id": "khanfaroosh",
+  "ar": "خنفروش قطيفي",
+  "en": "Qatifi Khanfaroosh",
+  "region": "Qatifi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18595-1.html"
+  ]
+ },
+ {
+  "id": "mahmous",
+  "ar": "المحموص القطيفي",
+  "en": "Qatifi Mahmous",
+  "region": "Qatifi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18818-1.html"
+  ]
+ },
+ {
+  "id": "kawari",
+  "ar": "الكوارع",
+  "en": "Kawari' (Sheep Trotters)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15513-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15522-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15515-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4516-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4161-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10713-1.html"
+  ]
+ },
+ {
+  "id": "kabda",
+  "ar": "الكبدة",
+  "en": "Saudi Liver (Kabda)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18056-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18466-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10674-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10284-1.html"
+  ]
+ },
+ {
+  "id": "fatta-janubiya",
+  "ar": "الفتة الجنوبية بالسمن والعسل",
+  "en": "Southern Fatta with Ghee and Honey",
+  "region": "Southern",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-19428-1.html"
+  ]
+ },
+ {
+  "id": "fatit-qasimi",
+  "ar": "الفتيت القصيمي",
+  "en": "Qassimi Fatit",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18463-1.html"
+  ]
+ },
+ {
+  "id": "truffle",
+  "ar": "طبخ الفقع (الكمأ)",
+  "en": "Cooked Truffles (Faqa)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17662-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17333-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13236-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11453-1.html"
+  ]
+ },
+ {
+  "id": "hamam-truffle",
+  "ar": "محشي الحمام بالكمأ",
+  "en": "Pigeon Stuffed with Truffles",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17337-1.html"
+  ]
+ },
+ {
+  "id": "kabli",
+  "ar": "الرز الكابلي الحجازي",
+  "en": "Hijazi Kabli Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15486-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14601-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3231-1.html"
+  ]
+ },
+ {
+  "id": "bukhari-rice",
+  "ar": "الرز البخاري",
+  "en": "Bukhari Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13881-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10282-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8417-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3218-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16519-1.html"
+  ]
+ },
+ {
+  "id": "mantu",
+  "ar": "المنتو",
+  "en": "Hijazi Mantu",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16246-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13735-1.html"
+  ]
+ },
+ {
+  "id": "hasawi-rice",
+  "ar": "الرز الحساوي",
+  "en": "Hasawi Rice",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10893-1.html"
+  ]
+ },
+ {
+  "id": "tamman-hail",
+  "ar": "رز تمن حائل",
+  "en": "Hail Tamman Rice",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14560-1.html"
+  ]
+ },
+ {
+  "id": "dajaj-musabbak",
+  "ar": "دجاج مسبك بالخضار",
+  "en": "Chicken Musabbak with Vegetables",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15471-1.html"
+  ]
+ },
+ {
+  "id": "hamsa-dajaj",
+  "ar": "حمسة الدجاج",
+  "en": "Chicken Hamsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15458-1.html"
+  ]
+ },
+ {
+  "id": "shakshouka",
+  "ar": "الشكشوكة السعودية",
+  "en": "Saudi Shakshouka",
+  "region": "",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15427-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15425-1.html"
+  ]
+ },
+ {
+  "id": "idam-khudar",
+  "ar": "إيدام خضار مشكل",
+  "en": "Mixed Vegetable Idam",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15426-1.html"
+  ]
+ },
+ {
+  "id": "fattoush",
+  "ar": "فتوش",
+  "en": "Fattoush",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14488-1.html"
+  ]
+ },
+ {
+  "id": "mutabbal",
+  "ar": "المتبل",
+  "en": "Mutabbal",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4172-1.html"
+  ]
+ },
+ {
+  "id": "mutabbaq",
+  "ar": "المطبق السعودي",
+  "en": "Saudi Mutabbaq",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11110-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6237-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14914-1.html"
+  ]
+ },
+ {
+  "id": "samboosa",
+  "ar": "السمبوسك الفرني",
+  "en": "Baked Samboosa",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10877-1.html"
+  ]
+ },
+ {
+  "id": "mukhtoum-bamia",
+  "ar": "مختوم البامية باللبن",
+  "en": "Okra with Yogurt (Mukhtoum)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14989-1.html"
+  ]
+ },
+ {
+  "id": "bamia-lahm",
+  "ar": "بامية باللحم",
+  "en": "Okra with Meat",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12972-1.html"
+  ]
+ },
+ {
+  "id": "mulukhiyah",
+  "ar": "الملوخية السعودية",
+  "en": "Saudi Molokhia",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14248-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4178-1.html"
+  ]
+ },
+ {
+  "id": "musaqqaa",
+  "ar": "المسقعة",
+  "en": "Musaqqaa",
+  "region": "Hijazi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14555-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12970-1.html"
+  ]
+ },
+ {
+  "id": "ashouriya",
+  "ar": "العاشورية الحجازية",
+  "en": "Hijazi Ashouriya",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16799-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11792-1.html"
+  ]
+ },
+ {
+  "id": "qawzi",
+  "ar": "القوزي",
+  "en": "Qozi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16634-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5754-1.html"
+  ]
+ },
+ {
+  "id": "kebab-mero",
+  "ar": "كباب الميرو",
+  "en": "Kebab Mero",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14965-1.html"
+  ]
+ },
+ {
+  "id": "sayadiyeh",
+  "ar": "الصيادية",
+  "en": "Sayadiyeh Fish and Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14791-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4089-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-habb",
+  "ar": "شوربة الحب",
+  "en": "Habb Soup",
+  "region": "Hijazi",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16477-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14970-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3801-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-adas",
+  "ar": "شوربة العدس",
+  "en": "Lentil Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10669-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-malfouf",
+  "ar": "شوربة الملفوف",
+  "en": "Cabbage Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3787-1.html"
+  ]
+ },
+ {
+  "id": "mahshi-waraq",
+  "ar": "محشي ورق عنب",
+  "en": "Stuffed Grape Leaves",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16356-1.html"
+  ]
+ },
+ {
+  "id": "aseeda-tamr",
+  "ar": "عصيدة التمر",
+  "en": "Date Aseeda",
+  "region": "Najdi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16314-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10434-1.html"
+  ]
+ },
+ {
+  "id": "aseeda-janubiya",
+  "ar": "العصيدة الجنوبية",
+  "en": "Southern Aseeda",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7618-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5429-1.html"
+  ]
+ },
+ {
+  "id": "areeka",
+  "ar": "العريكة الجنوبية",
+  "en": "Southern Areeka",
+  "region": "Southern",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17903-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10322-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7613-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3546-1.html"
+  ]
+ },
+ {
+  "id": "khubza-janub",
+  "ar": "خبزة الجنوب مع المرق والإيدام",
+  "en": "Southern Bread with Broth",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14584-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5297-1.html"
+  ]
+ },
+ {
+  "id": "mathriya",
+  "ar": "المثرية",
+  "en": "Mathriya",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13525-1.html"
+  ]
+ },
+ {
+  "id": "marsa-jazan",
+  "ar": "المرسة الجيزانية",
+  "en": "Jazani Marsa",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10311-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15869-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7608-1.html"
+  ]
+ },
+ {
+  "id": "maghash-jazan",
+  "ar": "المغش الجيزاني",
+  "en": "Jazani Maghash",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10310-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6061-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4515-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15870-1.html"
+  ]
+ },
+ {
+  "id": "jazani-potato",
+  "ar": "بطاطس جيزاني",
+  "en": "Jazani Potatoes with Sauces",
+  "region": "Jazan",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17562-1.html"
+  ]
+ },
+ {
+  "id": "saj-bread",
+  "ar": "رغفان الصاج",
+  "en": "Saj Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17521-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14662-1.html"
+  ]
+ },
+ {
+  "id": "tannour-bread",
+  "ar": "خبز التنور",
+  "en": "Tannour Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13225-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4173-1.html"
+  ]
+ },
+ {
+  "id": "qurs-mulla",
+  "ar": "قرص المله",
+  "en": "Qurs Al-Mulla Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15456-1.html"
+  ]
+ },
+ {
+  "id": "mubassal-hasawi",
+  "ar": "المبصل الحساوي",
+  "en": "Hasawi Mubassal Bread",
+  "region": "Hasawi",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11109-1.html"
+  ]
+ },
+ {
+  "id": "muhalla",
+  "ar": "المحلى",
+  "en": "Muhalla (Date Sweet)",
+  "region": "Najdi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14351-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14656-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11762-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10288-1.html"
+  ]
+ },
+ {
+  "id": "maasoub",
+  "ar": "المعصوب",
+  "en": "Ma'soub",
+  "region": "Hijazi",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7085-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14644-1.html"
+  ]
+ },
+ {
+  "id": "hunaini",
+  "ar": "الحنيني",
+  "en": "Hunaini",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10287-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3541-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3475-1.html"
+  ]
+ },
+ {
+  "id": "halawa-labaniya",
+  "ar": "حلاوة لبنية حجازية",
+  "en": "Hijazi Halawa Labaniya",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13740-1.html"
+  ]
+ },
+ {
+  "id": "shaieriya-halwa",
+  "ar": "الشعيرية الحلوة",
+  "en": "Sweet Vermicelli",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13041-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11058-1.html"
+  ]
+ },
+ {
+  "id": "luqaimat-qar",
+  "ar": "لقيمات القرع",
+  "en": "Pumpkin Luqaimat",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4757-1.html"
+  ]
+ },
+ {
+  "id": "bulool-makhamir",
+  "ar": "بلول المخامير",
+  "en": "Bulool Al-Makhamir",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13066-1.html"
+  ]
+ },
+ {
+  "id": "sahlab",
+  "ar": "السحلب الحجازي",
+  "en": "Hijazi Sahlab",
+  "region": "Hijazi",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15013-1.html"
+  ]
+ },
+ {
+  "id": "shampain",
+  "ar": "مشروب شامبين",
+  "en": "Saudi Champagne Drink",
+  "region": "",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12919-1.html"
+  ]
+ },
+ {
+  "id": "lemon-hasawi",
+  "ar": "عصير الليمون الحساوي",
+  "en": "Hasawi Lemon Juice",
+  "region": "Hasawi",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-8942-1.html"
+  ]
+ },
+ {
+  "id": "dibyaza",
+  "ar": "الدبيازة الحجازية",
+  "en": "Hijazi Dibyaza",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-9839-1.html"
+  ]
+ },
+ {
+  "id": "dagga-madiniya",
+  "ar": "الدقة المدينية",
+  "en": "Madina Dagga",
+  "region": "Hijazi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-6172-1.html"
+  ]
+ },
+ {
+  "id": "zirbyan",
+  "ar": "زربيان حجازي",
+  "en": "Hijazi Zirbyan",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5620-1.html"
+  ]
+ },
+ {
+  "id": "aysh-lahm",
+  "ar": "عيش باللحم الحجازي",
+  "en": "Hijazi Aysh Bil-Lahm",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16393-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14990-1.html"
+  ]
+ },
+ {
+  "id": "sulat-lahm",
+  "ar": "سلات لحم حجازي",
+  "en": "Hijazi Sulat Lahm",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13252-1.html"
+  ]
+ },
+ {
+  "id": "buff-hijazi",
+  "ar": "البف الحجازي",
+  "en": "Hijazi Buff",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13854-1.html"
+  ]
+ },
+ {
+  "id": "jamriyya",
+  "ar": "جمرية باللحم",
+  "en": "Jamriyya Meat",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4518-1.html"
+  ]
+ },
+ {
+  "id": "qasdeer-chicken",
+  "ar": "قصدير الدجاج",
+  "en": "Chicken in Foil",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4175-1.html"
+  ]
+ },
+ {
+  "id": "jibniyya",
+  "ar": "الجبنية",
+  "en": "Jibniyya",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3877-1.html"
+  ]
+ },
+ {
+  "id": "aqit",
+  "ar": "الأقط",
+  "en": "Aqit (Dried Goat Cheese)",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15468-1.html"
+  ]
+ },
+ {
+  "id": "tawa-qasimiya",
+  "ar": "التاوة القصيمية",
+  "en": "Qassimi Tawa",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10711-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10780-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4098-1.html"
+  ]
+ },
+ {
+  "id": "shraghif",
+  "ar": "الشراغيف",
+  "en": "Shraghif",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10712-1.html"
+  ]
+ }
+]

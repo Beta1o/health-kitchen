@@ -1,0 +1,75 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171077,
+   "g": 500,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 174256,
+   "g": 40,
+   "name": "mung beans, dry"
+  },
+  {
+   "fdc": 169991,
+   "g": 250,
+   "name": "swiss chard"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169230,
+   "g": 8,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170416,
+   "g": 20,
+   "name": "parsley"
+  },
+  {
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt"
+  }
+ ]
+}

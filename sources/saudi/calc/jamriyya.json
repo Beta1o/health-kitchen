@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 280,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 174313,
+   "g": 480,
+   "name": "lean lamb leg/shoulder, raw (boneless)"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrots"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 171314,
+   "g": 10,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt (bread 1 + marag 4)"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 150,
+   "name": "white flour"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 169655,
+   "g": 5,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171413,
+   "g": 18,
+   "name": "olive oil 20 ml (dough 15 + tray 5)"
+  },
+  {
+   "fdc": 171790,
+   "g": 500,
+   "name": "lean minced beef 95%"
+  },
+  {
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "fdc": 169246,
+   "g": 150,
+   "name": "leeks"
+  },
+  {
+   "fdc": 170189,
+   "g": 40,
+   "name": "tahini"
+  },
+  {
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar"
+  },
+  {
+   "fdc": 169230,
+   "g": 5,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin"
+  },
+  {
+   "fdc": 170931,
+   "g": 1,
+   "name": "black pepper"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato"
+  },
+  {
+   "fdc": 170151,
+   "g": 5,
+   "name": "sesame"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt (dough 1.5 + filling 2.5)"
+  }
+ ]
+}

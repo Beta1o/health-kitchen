@@ -1,0 +1,1100 @@
+[
+ {
+  "key": 0,
+  "recipe_id": 1751,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 1,
+  "recipe_id": 1751,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 2,
+  "recipe_id": 1751,
+  "field": "hints",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 3,
+  "recipe_id": 1751,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 4,
+  "recipe_id": 1751,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 5,
+  "recipe_id": 1751,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 6,
+  "recipe_id": 1819,
+  "field": "ingredients",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "1 علبة صغيرة خليط بودنغ الفانيليا Jell-O® Cook & Serve",
+   "en": "1 small box Cook & Serve Jell-O® vanilla pudding mix",
+   "es": "1 caja pequeña de mezcla para pudín de vainilla Jell-O® Cook & Serve",
+   "fr": "1 petite boîte de préparation pour pouding à la vanille Jell-O® à cuire et servir",
+   "hi": "1 छोटा डिब्बा Cook & Serve Jell-O® वनीला पुडिंग मिक्स",
+   "id": "1 kotak kecil adonan puding vanila Cook & Serve Jell-O®",
+   "ur": "1 چھوٹا ڈبہ Cook & Serve Jell-O® ونیلا پڈنگ مکس"
+  },
+  "text": {
+   "ar": "1 علبة صغيرة خليط بودنغ الفانيليا Cook & Serve",
+   "en": "1 small box Cook & Serve vanilla pudding mix",
+   "es": "1 caja pequeña de mezcla para pudín de vainilla Cook & Serve",
+   "fr": "1 petite boîte de préparation pour pouding à la vanille à cuire et servir",
+   "hi": "1 छोटा डिब्बा Cook & Serve वनीला पुडिंग मिक्स",
+   "id": "1 kotak kecil adonan puding vanila Cook & Serve",
+   "ur": "1 چھوٹا ڈبہ Cook & Serve ونیلا پڈنگ مکس"
+  },
+  "reason": "drop Jell-O brand name from pudding mix (no gelatin)"
+ },
+ {
+  "key": 7,
+  "recipe_id": 1874,
+  "field": "ingredients",
+  "position": 6,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 8,
+  "recipe_id": 1874,
+  "field": "steps",
+  "position": 3,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 9,
+  "recipe_id": 2013,
+  "field": "ingredients",
+  "position": 13,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 10,
+  "recipe_id": 2038,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "chorizo made with beef"
+ },
+ {
+  "key": 11,
+  "recipe_id": 2038,
+  "field": "hints",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "chorizo made with beef"
+ },
+ {
+  "key": 12,
+  "recipe_id": 2038,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "chorizo made with beef"
+ },
+ {
+  "key": 13,
+  "recipe_id": 2038,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "chorizo made with beef"
+ },
+ {
+  "key": 14,
+  "recipe_id": 2080,
+  "field": "hints",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "vinegar types only"
+ },
+ {
+  "key": 15,
+  "recipe_id": 2198,
+  "field": "hints",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "Winesap apples"
+ },
+ {
+  "key": 16,
+  "recipe_id": 2274,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "Winesap apples"
+ },
+ {
+  "key": 17,
+  "recipe_id": 2334,
+  "field": "description",
+  "position": 0,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 18,
+  "recipe_id": 2334,
+  "field": "hints",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 19,
+  "recipe_id": 2334,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 20,
+  "recipe_id": 2334,
+  "field": "steps",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 21,
+  "recipe_id": 2357,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "white wine vinegar"
+ },
+ {
+  "key": 22,
+  "recipe_id": 2426,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red grapes (fruit)"
+ },
+ {
+  "key": 23,
+  "recipe_id": 2498,
+  "field": "hints",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 24,
+  "recipe_id": 2498,
+  "field": "ingredients",
+  "position": 7,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 25,
+  "recipe_id": 2498,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer is fine"
+ },
+ {
+  "key": 26,
+  "recipe_id": 2511,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "grapes (fruit)"
+ },
+ {
+  "key": 27,
+  "recipe_id": 2516,
+  "field": "ingredients",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "ar": "2 علبة خليط بودينغ كريمة الموز Jell-O Cook and Serve® (علب سعة 3.5 أونصة)",
+   "en": "2 boxes Jell-O Cook and Serve® banana cream pudding mix (3.5 ounce boxes)",
+   "es": "2 cajas de mezcla para budín de crema de plátano Jell-O Cook and Serve® (cajas de 3.5 onzas)",
+   "fr": "2 boîtes de préparation pour pouding à la crème de banane Jell-O Cook and Serve® (boîtes de 3.5 onces)",
+   "hi": "2 डिब्बे Jell-O Cook and Serve® बनाना क्रीम पुडिंग मिक्स (3.5 औंस के डिब्बे)",
+   "id": "2 kotak campuran puding krim pisang Jell-O Cook and Serve® (kotak 3.5 ons)",
+   "ur": "2 ڈبے Jell-O Cook and Serve® بنانا کریم پڈنگ مکس (3.5 اونس کے ڈبے)"
+  },
+  "text": {
+   "ar": "2 علبة خليط بودينغ كريمة الموز Cook and Serve® (علب سعة 3.5 أونصة)",
+   "en": "2 boxes Cook and Serve® banana cream pudding mix (3.5 ounce boxes)",
+   "es": "2 cajas de mezcla para budín de crema de plátano Cook and Serve® (cajas de 3.5 onzas)",
+   "fr": "2 boîtes de préparation pour pouding à la crème de banane Cook and Serve® (boîtes de 3.5 onces)",
+   "hi": "2 डिब्बे Cook and Serve® बनाना क्रीम पुडिंग मिक्स (3.5 औंस के डिब्बे)",
+   "id": "2 kotak campuran puding krim pisang Cook and Serve® (kotak 3.5 ons)",
+   "ur": "2 ڈبے Cook and Serve® بنانا کریم پڈنگ مکس (3.5 اونس کے ڈبے)"
+  },
+  "reason": "drop Jell-O brand name from pudding mix (no gelatin)"
+ },
+ {
+  "key": 28,
+  "recipe_id": 2529,
+  "field": "hints",
+  "position": 4,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 29,
+  "recipe_id": 2529,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 30,
+  "recipe_id": 2529,
+  "field": "steps",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 31,
+  "recipe_id": 2631,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 32,
+  "recipe_id": 2631,
+  "field": "ingredients",
+  "position": 11,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 33,
+  "recipe_id": 2631,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 34,
+  "recipe_id": 2631,
+  "field": "steps",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 35,
+  "recipe_id": 2707,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "es": "Esta salsa de arándanos rojos en gelatina es un excelente recordatorio de que no hay que esperar al Día de Acción de Gracias para acompañar un platillo con salsa de arándanos rojos apta para personas con enfermedad renal."
+  },
+  "text": {
+   "es": "Esta salsa de arándanos rojos en jalea es un excelente recordatorio de que no hay que esperar al Día de Acción de Gracias para acompañar un platillo con salsa de arándanos rojos apta para personas con enfermedad renal."
+  },
+  "reason": "jellied cranberry sauce has no gelatin; es wording changed"
+ },
+ {
+  "key": 36,
+  "recipe_id": 2707,
+  "field": "title",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "es": "Salsa de arándanos rojos en gelatina"
+  },
+  "text": {
+   "es": "Salsa de arándanos rojos en jalea"
+  },
+  "reason": "jellied cranberry sauce has no gelatin; es wording changed"
+ },
+ {
+  "key": 37,
+  "recipe_id": 2865,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 38,
+  "recipe_id": 2876,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow cream"
+ },
+ {
+  "key": 39,
+  "recipe_id": 2919,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 40,
+  "recipe_id": 2924,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 41,
+  "recipe_id": 2994,
+  "field": "ingredients",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 42,
+  "recipe_id": 3003,
+  "field": "ingredients",
+  "position": 9,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 43,
+  "recipe_id": 3006,
+  "field": "ingredients",
+  "position": 7,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 44,
+  "recipe_id": 3011,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "grapes (fruit)"
+ },
+ {
+  "key": 45,
+  "recipe_id": 3019,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "porcupine (porc-epic), beef"
+ },
+ {
+  "key": 46,
+  "recipe_id": 3023,
+  "field": "ingredients",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 47,
+  "recipe_id": 3049,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 48,
+  "recipe_id": 3049,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 49,
+  "recipe_id": 3049,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 50,
+  "recipe_id": 3049,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 51,
+  "recipe_id": 3049,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 52,
+  "recipe_id": 3051,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 53,
+  "recipe_id": 3053,
+  "field": "ingredients",
+  "position": 15,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 54,
+  "recipe_id": 3065,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 55,
+  "recipe_id": 3139,
+  "field": "ingredients",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 56,
+  "recipe_id": 3141,
+  "field": "hints",
+  "position": 4,
+  "action": "rewrite",
+  "orig": {
+   "ar": "كريمة الترتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو منتج ثانوي لصناعة النبيذ. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة الترتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن محتوى الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio de los alimentos será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique, un sous-produit de la vinification. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la levure chimique contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus faible.",
+   "hi": "क्रीम ऑफ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है, जो वाइन बनाने का एक उप-उत्पाद है। एक छोटे चम्मच में 495 mg पोटैशियम होता है। फॉस्फोरस युक्त बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ टार्टर का उपयोग करते समय ध्यान रखें कि भोजन में पोटैशियम की मात्रा अधिक होगी लेकिन फॉस्फोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam asam kalium dari asam tartarat, yang merupakan produk sampingan pembuatan anggur. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar dengan soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfor jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹرک ایسڈ کا پوٹاشیم تیزابی نمک ہے، جو شراب بنانے کا ایک ضمنی پیداوار ہے۔ ایک چائے کے چمچ میں 495 ملی گرام پوٹاشیم ہوتا ہے۔ فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کرتے وقت یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "text": {
+   "ar": "كريمة الترتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة الترتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن محتوى الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio de los alimentos será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la levure chimique contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus faible.",
+   "hi": "क्रीम ऑफ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है। एक छोटे चम्मच में 495 mg पोटैशियम होता है। फॉस्फोरस युक्त बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ टार्टर का उपयोग करते समय ध्यान रखें कि भोजन में पोटैशियम की मात्रा अधिक होगी लेकिन फॉस्फोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam asam kalium dari asam tartarat. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar dengan soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfor jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹرک ایسڈ کا پوٹاشیم تیزابی نمک ہے۔ ایک چائے کے چمچ میں 495 ملی گرام پوٹاشیم ہوتا ہے۔ فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کرتے وقت یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "reason": "drop wine-making story"
+ },
+ {
+  "key": 57,
+  "recipe_id": 3143,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 58,
+  "recipe_id": 3204,
+  "field": "ingredients",
+  "position": 11,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 59,
+  "recipe_id": 3210,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "كريمة التارتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو ناتج ثانوي من صناعة النبيذ. تحتوي ملعقة صغيرة واحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة التارتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى الطعام من البوتاسيوم سيكون أعلى، لكن الفوسفور أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique, un sous-produit de la vinification. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la levure chimique contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus basse.",
+   "hi": "क्रीम ऑफ़ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है, जो वाइन बनाने का उप-उत्पाद है। एक छोटे चम्मच में 495 mg पोटैशियम होता है। फ़ॉस्फ़ोरस वाले बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ़ टार्टर इस्तेमाल करते समय ध्यान रखें कि खाने में पोटैशियम ज़्यादा होगा, लेकिन फ़ॉस्फ़ोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam kalium asam dari asam tartarat, yang merupakan produk sampingan pembuatan anggur. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar bersama soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfor jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹرک ایسڈ کا پوٹاشیم تیزابی نمک ہے، جو شراب بنانے کا ایک ضمنی پیداوار ہے۔ ایک چائے کے چمچ میں 495 ملی گرام پوٹاشیم ہوتا ہے۔ فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کرتے وقت یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "text": {
+   "ar": "كريمة التارتار هي ملح البوتاسيوم الحمضي لحمض الطرطريك. تحتوي ملعقة صغيرة واحدة على 495 ملغ من البوتاسيوم. عند استخدام كريمة التارتار مع بيكربونات الصوديوم بديلًا عن البيكنج باودر المحتوي على الفوسفور، انتبه إلى أن محتوى الطعام من البوتاسيوم سيكون أعلى، لكن الفوسفور أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico. Una cucharadita contiene 495 mg de potasio. Cuando use crémor tártaro con bicarbonato de sodio para reemplazar el polvo de hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la levure chimique contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus basse.",
+   "hi": "क्रीम ऑफ़ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है। एक छोटे चम्मच में 495 mg पोटैशियम होता है। फ़ॉस्फ़ोरस वाले बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ़ टार्टर इस्तेमाल करते समय ध्यान रखें कि खाने में पोटैशियम ज़्यादा होगा, लेकिन फ़ॉस्फ़ोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam kalium asam dari asam tartarat. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar bersama soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfor jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹرک ایسڈ کا پوٹاشیم تیزابی نمک ہے۔ ایک چائے کے چمچ میں 495 ملی گرام پوٹاشیم ہوتا ہے۔ فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کرتے وقت یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "reason": "drop wine-making story"
+ },
+ {
+  "key": 60,
+  "recipe_id": 3281,
+  "field": "hints",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 61,
+  "recipe_id": 3294,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 62,
+  "recipe_id": 3294,
+  "field": "hints",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 63,
+  "recipe_id": 3294,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 64,
+  "recipe_id": 3294,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 65,
+  "recipe_id": 3294,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 66,
+  "recipe_id": 3294,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 67,
+  "recipe_id": 3294,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "root beer/extract is fine"
+ },
+ {
+  "key": 68,
+  "recipe_id": 3318,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "grapes (fruit)"
+ },
+ {
+  "key": 69,
+  "recipe_id": 3318,
+  "field": "steps",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "grapes (fruit)"
+ },
+ {
+  "key": 70,
+  "recipe_id": 3381,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 71,
+  "recipe_id": 3460,
+  "field": "ingredients",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "خليط بودنج الفانيليا سريع التحضير Jell-O® (5.1 أونصة)",
+   "en": "Jell-O® Instant Vanilla Pudding mix (5.1-ounces)",
+   "es": "Mezcla para pudín instantáneo de vainilla Jell-O® (5.1 onzas)",
+   "fr": "1 sachet de préparation pour pouding instantané à la vanille Jell-O® (5.1 onces)",
+   "hi": "Jell-O® इंस्टेंट वैनिला पुडिंग मिक्स (5.1 औंस)",
+   "id": "Campuran puding instan vanila Jell-O® (5.1 ons)",
+   "ur": "Jell-O® انسٹنٹ وینیلا پڈنگ مکس (5.1 اونس)"
+  },
+  "text": {
+   "ar": "خليط بودنج الفانيليا سريع التحضير (5.1 أونصة)",
+   "en": "Instant Vanilla Pudding mix (5.1-ounces)",
+   "es": "Mezcla para pudín instantáneo de vainilla (5.1 onzas)",
+   "fr": "1 sachet de préparation pour pouding instantané à la vanille (5.1 onces)",
+   "hi": "इंस्टेंट वैनिला पुडिंग मिक्स (5.1 औंस)",
+   "id": "Campuran puding instan vanila (5.1 ons)",
+   "ur": "انسٹنٹ وینیلا پڈنگ مکس (5.1 اونس)"
+  },
+  "reason": "drop Jell-O brand name from pudding mix (no gelatin)"
+ },
+ {
+  "key": 72,
+  "recipe_id": 3638,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "يمكن استبدال خلاصة الروم بـ 2 ملعقة كبيرة من الروم إذا رغبت. استشر طبيبك دائمًا قبل إدراج الكحول في نظامك الغذائي.",
+   "en": "Rum extract may be replaced with 2 tablespoons rum, if desired. Always check with your doctor before including alcohol in your diet.",
+   "es": "Si lo desea, puede reemplazar el extracto de ron con 2 cucharadas de ron. Siempre consulte a su médico antes de incluir alcohol en su dieta.",
+   "fr": "Vous pouvez remplacer l'extrait de rhum par 2 cuillères à soupe de rhum, si vous le souhaitez. Consultez toujours votre médecin avant d'inclure de l'alcool dans votre alimentation.",
+   "hi": "चाहें तो रम एक्सट्रैक्ट की जगह 2 बड़े चम्मच रम डाली जा सकती है। अपने आहार में शराब शामिल करने से पहले हमेशा अपने डॉक्टर से पूछें।",
+   "id": "Ekstrak rum dapat diganti dengan 2 sendok makan rum, jika diinginkan. Selalu konsultasikan dengan dokter Anda sebelum memasukkan alkohol ke dalam diet Anda.",
+   "ur": "چاہیں تو رم ایکسٹریکٹ کی جگہ 2 کھانے کے چمچ رم استعمال کی جا سکتی ہے۔ اپنی خوراک میں الکحل شامل کرنے سے پہلے ہمیشہ اپنے ڈاکٹر سے پوچھیں۔"
+  },
+  "text": {
+   "ar": null,
+   "en": null,
+   "es": null,
+   "fr": null,
+   "hi": null,
+   "id": null,
+   "ur": null
+  },
+  "reason": "hint only about swapping in rum/alcohol"
+ },
+ {
+  "key": 73,
+  "recipe_id": 3638,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rum extract is fine"
+ },
+ {
+  "key": 74,
+  "recipe_id": 3638,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rum extract is fine"
+ },
+ {
+  "key": 75,
+  "recipe_id": 3681,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 76,
+  "recipe_id": 3762,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rum extract is fine"
+ },
+ {
+  "key": 77,
+  "recipe_id": 3762,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rum extract is fine"
+ },
+ {
+  "key": 78,
+  "recipe_id": 3824,
+  "field": "ingredients",
+  "position": 7,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow fluff"
+ },
+ {
+  "key": 79,
+  "recipe_id": 3824,
+  "field": "steps",
+  "position": 4,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses marshmallow fluff"
+ },
+ {
+  "key": 80,
+  "recipe_id": 3846,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 81,
+  "recipe_id": 3919,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "كريمة الترتر هي ملح البوتاسيوم الحمضي لحمض الطرطريك، وهو منتج ثانوي من صناعة النبيذ. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ بوتاسيوم. عند استخدام كريمة الترتر مع بيكربونات الصوديوم بديلًا عن مسحوق الخبز المحتوي على الفوسفور، اعلم أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid, which is a by-product of wine making. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico, un subproducto de la elaboración del vino. Una cucharadita contiene 495 mg de potasio. Al usar crémor tártaro con bicarbonato de sodio para reemplazar el polvo para hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique, un sous-produit de la fabrication du vin. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la poudre à pâte contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus faible.",
+   "hi": "क्रीम ऑफ़ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है, जो शराब बनाने का उप-उत्पाद है। एक छोटे चम्मच में 495 मिग्रा पोटैशियम होता है। फॉस्फोरस वाले बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ़ टार्टर का उपयोग करते समय ध्यान रखें कि भोजन में पोटैशियम की मात्रा अधिक होगी लेकिन फॉस्फोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam asam kalium dari asam tartarat, yang merupakan produk sampingan pembuatan anggur. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar bersama soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfornya jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹارک ایسڈ کا پوٹاشیم ایسڈ نمک ہے، جو شراب بنانے کا ضمنی نتیجہ ہے۔ ایک چائے کے چمچ میں 495 mg پوٹاشیم ہوتا ہے۔ جب فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کیا جائے تو یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "text": {
+   "ar": "كريمة الترتر هي ملح البوتاسيوم الحمضي لحمض الطرطريك. تحتوي الملعقة الصغيرة الواحدة على 495 ملغ بوتاسيوم. عند استخدام كريمة الترتر مع بيكربونات الصوديوم بديلًا عن مسحوق الخبز المحتوي على الفوسفور، اعلم أن محتوى البوتاسيوم في الطعام سيكون أعلى، لكن الفوسفور سيكون أقل بكثير.",
+   "en": "Cream of tartar is the potassium acid salt of tartaric acid. One teaspoon contains 495 mg potassium. When using cream of tartar with baking soda to replace phosphorus-containing baking powder, be aware the potassium content of food will be higher but phosphorus is much lower.",
+   "es": "El crémor tártaro es la sal ácida de potasio del ácido tartárico. Una cucharadita contiene 495 mg de potasio. Al usar crémor tártaro con bicarbonato de sodio para reemplazar el polvo para hornear que contiene fósforo, tenga en cuenta que el contenido de potasio del alimento será mayor, pero el de fósforo será mucho menor.",
+   "fr": "La crème de tartre est le sel acide de potassium de l'acide tartrique. Une cuillère à café contient 495 mg de potassium. Lorsque vous utilisez de la crème de tartre avec du bicarbonate de soude pour remplacer la poudre à pâte contenant du phosphore, sachez que la teneur en potassium de l'aliment sera plus élevée, mais que celle en phosphore sera beaucoup plus faible.",
+   "hi": "क्रीम ऑफ़ टार्टर टार्टरिक एसिड का पोटैशियम एसिड नमक है। एक छोटे चम्मच में 495 मिग्रा पोटैशियम होता है। फॉस्फोरस वाले बेकिंग पाउडर की जगह बेकिंग सोडा के साथ क्रीम ऑफ़ टार्टर का उपयोग करते समय ध्यान रखें कि भोजन में पोटैशियम की मात्रा अधिक होगी लेकिन फॉस्फोरस बहुत कम होगा।",
+   "id": "Cream of tartar adalah garam asam kalium dari asam tartarat. Satu sendok teh mengandung 495 mg kalium. Saat menggunakan cream of tartar bersama soda kue untuk menggantikan baking powder yang mengandung fosfor, perlu diketahui bahwa kandungan kalium makanan akan lebih tinggi tetapi fosfornya jauh lebih rendah.",
+   "ur": "کریم آف ٹارٹر ٹارٹارک ایسڈ کا پوٹاشیم ایسڈ نمک ہے۔ ایک چائے کے چمچ میں 495 mg پوٹاشیم ہوتا ہے۔ جب فاسفورس والے بیکنگ پاؤڈر کی جگہ بیکنگ سوڈا کے ساتھ کریم آف ٹارٹر استعمال کیا جائے تو یاد رکھیں کہ کھانے میں پوٹاشیم کی مقدار زیادہ ہوگی لیکن فاسفورس بہت کم ہوگا۔"
+  },
+  "reason": "drop wine-making story"
+ },
+ {
+  "key": 82,
+  "recipe_id": 3924,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "grapes (fruit)"
+ },
+ {
+  "key": 83,
+  "recipe_id": 54947,
+  "field": "ingredients",
+  "position": 9,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 84,
+  "recipe_id": 54951,
+  "field": "ingredients",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 85,
+  "recipe_id": 3121590,
+  "field": "ingredients",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "vine tomato"
+ },
+ {
+  "key": 86,
+  "recipe_id": 3825469,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar"
+ },
+ {
+  "key": 87,
+  "recipe_id": 4035847,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "ar": "تناول الكمية المناسبة من البروتين مع مرض الكلى المزمن مهم للحفاظ على صحة جيدة. كثير من الأشخاص الذين يعانون من ضعف وظائف الكلى يعانون أيضًا من مشكلات في القلب، وينبغي لهم اتباع نظام غذائي صحي للقلب قليل الدهون والكوليسترول. ويمكن أن يساعدك أخصائي تغذية معتمد في تحديد احتياجاتك الخاصة من البروتين وأفضل مصادره لصحتك. إذا كان عليك اتباع نظام غذائي صحي للقلب، فاستخدم لحمًا بقريًا مفرومًا قليل الدهن جدًا. ويمكنك أيضًا التفكير في بدائل أخرى، فمن مصادر البروتين النباتي التوفو المفتت أو أقراص البرغر النباتية. ويمكن للكمون والثوم والفلفل الأسود أن تضفي نكهة ممتازة على هذه الخيارات. اقرأ ملصقات المنتجات واختر الأقل صوديومًا وبوتاسيومًا. كما أن الدجاج والديك الرومي ولحم الخنزير المفروم خيارات جيدة للبروتين. والريحان والثوم والمريمية والزعتر والسعتر البري المجفف ليست إلا بعض التوابل التي تضيف نكهة منخفضة الصوديوم والبوتاسيوم. اختر لحمًا مفرومًا طازجًا بلا ملح مضاف وقليل الدهن كخيار صحي.",
+   "en": "Consuming the right amount of protein with chronic kidney disease is important to maintaining good health. Many people with reduced kidney function also have heart problems and should follow a heart-healthy diet, which is low in fat and cholesterol. Working with a registered dietitian can help determine your specific protein needs and the best choices of protein for your health. If you are supposed to follow a heart-healthy diet, use extra lean ground beef. You may also consider other substitutions. Plant-based protein sources include ground tofu or vegetable burgers. Cumin, garlic and black pepper can add excellent flavor to these choices. Read product labels and select those lowest in sodium and potassium. Ground chicken, turkey and pork are also good protein options. Basil, garlic, sage, thyme and dried savory are just a few spices for adding low-sodium and low-potassium flavor. Choose fresh ground meat without added salt and low in fat as a healthy option.",
+   "es": "Consumir la cantidad adecuada de proteína cuando se tiene enfermedad renal crónica es importante para mantener una buena salud. Muchas personas con función renal reducida también tienen problemas cardíacos y deben seguir una dieta saludable para el corazón, baja en grasa y colesterol. Trabajar con un dietista registrado puede ayudar a determinar sus necesidades específicas de proteína y las mejores opciones de proteína para su salud. Si debe seguir una dieta saludable para el corazón, use carne de res molida extramagra. También puede considerar otros sustitutos. Entre las fuentes de proteína vegetal están el tofu desmoronado o las hamburguesas vegetales. El comino, el ajo y la pimienta negra pueden dar un excelente sabor a estas opciones. Lea las etiquetas de los productos y elija los más bajos en sodio y potasio. El pollo, el pavo y el cerdo molidos también son buenas opciones de proteína. La albahaca, el ajo, la salvia, el tomillo y la ajedrea seca son solo algunas de las especias que aportan sabor bajo en sodio y potasio. Elija carne molida fresca, sin sal añadida y baja en grasa, como opción saludable.",
+   "fr": "Consommer la bonne quantité de protéines en présence d'une maladie rénale chronique est important pour maintenir une bonne santé. De nombreuses personnes ayant une fonction rénale réduite ont aussi des problèmes cardiaques et devraient suivre une alimentation bonne pour le cœur, faible en gras et en cholestérol. Travailler avec un diététiste agréé peut aider à déterminer vos besoins précis en protéines et les meilleurs choix de protéines pour votre santé. Si vous devez suivre une alimentation bonne pour le cœur, utilisez du bœuf haché extra-maigre. Vous pouvez aussi envisager d'autres substitutions. Les sources de protéines végétales comprennent le tofu émietté ou les hamburgers aux légumes. Le cumin, l'ail et le poivre noir peuvent ajouter une excellente saveur à ces choix. Lisez les étiquettes des produits et choisissez ceux qui contiennent le moins de sodium et de potassium. Le poulet, la dinde et le porc hachés sont aussi de bonnes options de protéines. Le basilic, l'ail, la sauge, le thym et la sarriette séchée ne sont que quelques épices pour ajouter de la saveur avec peu de sodium et de potassium. Choisissez de la viande hachée fraîche sans sel ajouté et faible en gras comme option saine.",
+   "hi": "क्रोनिक किडनी रोग में सही मात्रा में प्रोटीन खाना अच्छे स्वास्थ्य को बनाए रखने के लिए महत्वपूर्ण है। किडनी की कार्यक्षमता घटी हुई कई लोगों को हृदय की समस्याएँ भी होती हैं और उन्हें हृदय-स्वस्थ आहार लेना चाहिए, जिसमें वसा और कोलेस्ट्रॉल कम हो। पंजीकृत आहार विशेषज्ञ के साथ काम करने से आपकी विशिष्ट प्रोटीन आवश्यकताओं और आपके स्वास्थ्य के लिए प्रोटीन के सर्वोत्तम विकल्पों को तय करने में मदद मिल सकती है। यदि आपको हृदय-स्वस्थ आहार लेना है, तो अतिरिक्त दुबला बीफ़ कीमा उपयोग करें। आप अन्य विकल्पों पर भी विचार कर सकते हैं। पौधे-आधारित प्रोटीन स्रोतों में पिसा हुआ टोफ़ू या सब्ज़ी बर्गर शामिल हैं। जीरा, लहसुन और काली मिर्च इन विकल्पों में उत्कृष्ट स्वाद जोड़ सकते हैं। उत्पाद के लेबल पढ़ें और सोडियम और पोटैशियम में सबसे कम वाले चुनें। चिकन, टर्की और सूअर का कीमा भी अच्छे प्रोटीन विकल्प हैं। तुलसी, लहसुन, सेज, थाइम और सूखी सेवरी कम सोडियम और कम पोटैशियम वाला स्वाद जोड़ने के लिए कुछ ही मसाले हैं। एक सेहतमंद विकल्प के रूप में बिना अतिरिक्त नमक वाला और कम वसा वाला ताज़ा कीमा चुनें।",
+   "id": "Mengonsumsi jumlah protein yang tepat pada penyakit ginjal kronis penting untuk menjaga kesehatan yang baik. Banyak orang dengan fungsi ginjal yang menurun juga memiliki masalah jantung dan harus mengikuti diet sehat jantung, yaitu rendah lemak dan kolesterol. Bekerja sama dengan ahli gizi terdaftar dapat membantu menentukan kebutuhan protein spesifik Anda dan pilihan protein terbaik bagi kesehatan Anda. Jika Anda seharusnya mengikuti diet sehat jantung, gunakan daging sapi giling ekstra rendah lemak. Anda juga dapat mempertimbangkan pengganti lainnya. Sumber protein nabati termasuk tahu giling atau burger sayuran. Jintan, bawang putih, dan lada hitam dapat menambah rasa yang sangat baik pada pilihan ini. Bacalah label produk dan pilih yang paling rendah natrium dan kalium. Ayam giling, kalkun, dan babi juga merupakan pilihan protein yang baik. Kemangi, bawang putih, sage, timi, dan savory kering hanyalah beberapa rempah untuk menambah rasa rendah natrium dan rendah kalium. Pilih daging giling segar tanpa tambahan garam dan rendah lemak sebagai pilihan yang sehat.",
+   "ur": "دائمی گردوں کی بیماری میں صحیح مقدار میں پروٹین لینا اچھی صحت برقرار رکھنے کے لیے ضروری ہے۔ گردوں کے کم کام کرنے والے بہت سے لوگوں کو دل کے مسائل بھی ہوتے ہیں اور انہیں دل کے لیے صحت بخش غذا پر عمل کرنا چاہیے، جو چکنائی اور کولیسٹرول میں کم ہوتی ہے۔ رجسٹرڈ غذائی ماہر کے ساتھ کام کرنے سے آپ کی مخصوص پروٹین کی ضروریات اور آپ کی صحت کے لیے پروٹین کے بہترین انتخاب کا تعین کرنے میں مدد مل سکتی ہے۔ اگر آپ کو دل کے لیے صحت بخش غذا پر عمل کرنا ہے تو انتہائی کم چکنائی والا گائے کا قیمہ استعمال کریں۔ آپ دیگر متبادل پر بھی غور کر سکتے ہیں۔ پودوں پر مبنی پروٹین کے ذرائع میں پسا ہوا ٹوفو یا سبزیوں کے برگر شامل ہیں۔ زیرہ، لہسن اور کالی مرچ ان انتخابات میں بہترین ذائقہ شامل کر سکتے ہیں۔ مصنوعات کے لیبل پڑھیں اور سوڈیم اور پوٹاشیم میں سب سے کم والے منتخب کریں۔ مرغی، ٹرکی اور سور کا قیمہ بھی پروٹین کے اچھے اختیارات ہیں۔ تلسی، لہسن، سیج، تھائم اور خشک سیوری کم سوڈیم اور کم پوٹاشیم ذائقہ شامل کرنے کے لیے چند مسالے ہیں۔ صحت بخش آپشن کے طور پر بغیر اضافی نمک والا اور کم چکنائی والا تازہ قیمہ منتخب کریں۔"
+  },
+  "text": {
+   "ar": "تناول الكمية المناسبة من البروتين مع مرض الكلى المزمن مهم للحفاظ على صحة جيدة. كثير من الأشخاص الذين يعانون من ضعف وظائف الكلى يعانون أيضًا من مشكلات في القلب، وينبغي لهم اتباع نظام غذائي صحي للقلب قليل الدهون والكوليسترول. ويمكن أن يساعدك أخصائي تغذية معتمد في تحديد احتياجاتك الخاصة من البروتين وأفضل مصادره لصحتك. إذا كان عليك اتباع نظام غذائي صحي للقلب، فاستخدم لحمًا بقريًا مفرومًا قليل الدهن جدًا. ويمكنك أيضًا التفكير في بدائل أخرى، فمن مصادر البروتين النباتي التوفو المفتت أو أقراص البرغر النباتية. ويمكن للكمون والثوم والفلفل الأسود أن تضفي نكهة ممتازة على هذه الخيارات. اقرأ ملصقات المنتجات واختر الأقل صوديومًا وبوتاسيومًا. كما أن الدجاج والديك الرومي المفروم خيارات جيدة للبروتين. والريحان والثوم والمريمية والزعتر والسعتر البري المجفف ليست إلا بعض التوابل التي تضيف نكهة منخفضة الصوديوم والبوتاسيوم. اختر لحمًا مفرومًا طازجًا بلا ملح مضاف وقليل الدهن كخيار صحي.",
+   "en": "Consuming the right amount of protein with chronic kidney disease is important to maintaining good health. Many people with reduced kidney function also have heart problems and should follow a heart-healthy diet, which is low in fat and cholesterol. Working with a registered dietitian can help determine your specific protein needs and the best choices of protein for your health. If you are supposed to follow a heart-healthy diet, use extra lean ground beef. You may also consider other substitutions. Plant-based protein sources include ground tofu or vegetable burgers. Cumin, garlic and black pepper can add excellent flavor to these choices. Read product labels and select those lowest in sodium and potassium. Ground chicken and turkey are also good protein options. Basil, garlic, sage, thyme and dried savory are just a few spices for adding low-sodium and low-potassium flavor. Choose fresh ground meat without added salt and low in fat as a healthy option.",
+   "es": "Consumir la cantidad adecuada de proteína cuando se tiene enfermedad renal crónica es importante para mantener una buena salud. Muchas personas con función renal reducida también tienen problemas cardíacos y deben seguir una dieta saludable para el corazón, baja en grasa y colesterol. Trabajar con un dietista registrado puede ayudar a determinar sus necesidades específicas de proteína y las mejores opciones de proteína para su salud. Si debe seguir una dieta saludable para el corazón, use carne de res molida extramagra. También puede considerar otros sustitutos. Entre las fuentes de proteína vegetal están el tofu desmoronado o las hamburguesas vegetales. El comino, el ajo y la pimienta negra pueden dar un excelente sabor a estas opciones. Lea las etiquetas de los productos y elija los más bajos en sodio y potasio. El pollo y el pavo molidos también son buenas opciones de proteína. La albahaca, el ajo, la salvia, el tomillo y la ajedrea seca son solo algunas de las especias que aportan sabor bajo en sodio y potasio. Elija carne molida fresca, sin sal añadida y baja en grasa, como opción saludable.",
+   "fr": "Consommer la bonne quantité de protéines en présence d'une maladie rénale chronique est important pour maintenir une bonne santé. De nombreuses personnes ayant une fonction rénale réduite ont aussi des problèmes cardiaques et devraient suivre une alimentation bonne pour le cœur, faible en gras et en cholestérol. Travailler avec un diététiste agréé peut aider à déterminer vos besoins précis en protéines et les meilleurs choix de protéines pour votre santé. Si vous devez suivre une alimentation bonne pour le cœur, utilisez du bœuf haché extra-maigre. Vous pouvez aussi envisager d'autres substitutions. Les sources de protéines végétales comprennent le tofu émietté ou les hamburgers aux légumes. Le cumin, l'ail et le poivre noir peuvent ajouter une excellente saveur à ces choix. Lisez les étiquettes des produits et choisissez ceux qui contiennent le moins de sodium et de potassium. Le poulet et la dinde hachés sont aussi de bonnes options de protéines. Le basilic, l'ail, la sauge, le thym et la sarriette séchée ne sont que quelques épices pour ajouter de la saveur avec peu de sodium et de potassium. Choisissez de la viande hachée fraîche sans sel ajouté et faible en gras comme option saine.",
+   "hi": "क्रोनिक किडनी रोग में सही मात्रा में प्रोटीन खाना अच्छे स्वास्थ्य को बनाए रखने के लिए महत्वपूर्ण है। किडनी की कार्यक्षमता घटी हुई कई लोगों को हृदय की समस्याएँ भी होती हैं और उन्हें हृदय-स्वस्थ आहार लेना चाहिए, जिसमें वसा और कोलेस्ट्रॉल कम हो। पंजीकृत आहार विशेषज्ञ के साथ काम करने से आपकी विशिष्ट प्रोटीन आवश्यकताओं और आपके स्वास्थ्य के लिए प्रोटीन के सर्वोत्तम विकल्पों को तय करने में मदद मिल सकती है। यदि आपको हृदय-स्वस्थ आहार लेना है, तो अतिरिक्त दुबला बीफ़ कीमा उपयोग करें। आप अन्य विकल्पों पर भी विचार कर सकते हैं। पौधे-आधारित प्रोटीन स्रोतों में पिसा हुआ टोफ़ू या सब्ज़ी बर्गर शामिल हैं। जीरा, लहसुन और काली मिर्च इन विकल्पों में उत्कृष्ट स्वाद जोड़ सकते हैं। उत्पाद के लेबल पढ़ें और सोडियम और पोटैशियम में सबसे कम वाले चुनें। चिकन और टर्की का कीमा भी अच्छे प्रोटीन विकल्प हैं। तुलसी, लहसुन, सेज, थाइम और सूखी सेवरी कम सोडियम और कम पोटैशियम वाला स्वाद जोड़ने के लिए कुछ ही मसाले हैं। एक सेहतमंद विकल्प के रूप में बिना अतिरिक्त नमक वाला और कम वसा वाला ताज़ा कीमा चुनें।",
+   "id": "Mengonsumsi jumlah protein yang tepat pada penyakit ginjal kronis penting untuk menjaga kesehatan yang baik. Banyak orang dengan fungsi ginjal yang menurun juga memiliki masalah jantung dan harus mengikuti diet sehat jantung, yaitu rendah lemak dan kolesterol. Bekerja sama dengan ahli gizi terdaftar dapat membantu menentukan kebutuhan protein spesifik Anda dan pilihan protein terbaik bagi kesehatan Anda. Jika Anda seharusnya mengikuti diet sehat jantung, gunakan daging sapi giling ekstra rendah lemak. Anda juga dapat mempertimbangkan pengganti lainnya. Sumber protein nabati termasuk tahu giling atau burger sayuran. Jintan, bawang putih, dan lada hitam dapat menambah rasa yang sangat baik pada pilihan ini. Bacalah label produk dan pilih yang paling rendah natrium dan kalium. Ayam dan kalkun giling juga merupakan pilihan protein yang baik. Kemangi, bawang putih, sage, timi, dan savory kering hanyalah beberapa rempah untuk menambah rasa rendah natrium dan rendah kalium. Pilih daging giling segar tanpa tambahan garam dan rendah lemak sebagai pilihan yang sehat.",
+   "ur": "دائمی گردوں کی بیماری میں صحیح مقدار میں پروٹین لینا اچھی صحت برقرار رکھنے کے لیے ضروری ہے۔ گردوں کے کم کام کرنے والے بہت سے لوگوں کو دل کے مسائل بھی ہوتے ہیں اور انہیں دل کے لیے صحت بخش غذا پر عمل کرنا چاہیے، جو چکنائی اور کولیسٹرول میں کم ہوتی ہے۔ رجسٹرڈ غذائی ماہر کے ساتھ کام کرنے سے آپ کی مخصوص پروٹین کی ضروریات اور آپ کی صحت کے لیے پروٹین کے بہترین انتخاب کا تعین کرنے میں مدد مل سکتی ہے۔ اگر آپ کو دل کے لیے صحت بخش غذا پر عمل کرنا ہے تو انتہائی کم چکنائی والا گائے کا قیمہ استعمال کریں۔ آپ دیگر متبادل پر بھی غور کر سکتے ہیں۔ پودوں پر مبنی پروٹین کے ذرائع میں پسا ہوا ٹوفو یا سبزیوں کے برگر شامل ہیں۔ زیرہ، لہسن اور کالی مرچ ان انتخابات میں بہترین ذائقہ شامل کر سکتے ہیں۔ مصنوعات کے لیبل پڑھیں اور سوڈیم اور پوٹاشیم میں سب سے کم والے منتخب کریں۔ مرغی اور ٹرکی کا قیمہ بھی پروٹین کے اچھے اختیارات ہیں۔ تلسی، لہسن، سیج، تھائم اور خشک سیوری کم سوڈیم اور کم پوٹاشیم ذائقہ شامل کرنے کے لیے چند مسالے ہیں۔ صحت بخش آپشن کے طور پر بغیر اضافی نمک والا اور کم چکنائی والا تازہ قیمہ منتخب کریں۔"
+  },
+  "reason": "pork listed as an option"
+ },
+ {
+  "key": 88,
+  "recipe_id": 4051226,
+  "field": "hints",
+  "position": 3,
+  "action": "rewrite",
+  "orig": {
+   "ar": "مع مرض الكلى المزمن، تكون كمية البروتين في نظامك الغذائي مهمة. فتناوله بانتظام ضروري لدعم نمو الجسم وصحته العامة. ويمكن أن يساعدك لقاء أخصائي تغذية الكلى في تحديد كمية البروتين التي تحتاجها بناءً على كفاءة عمل كليتيك. وتُعد القطع المختلفة من لحم البقر والسمك والدجاج ولحم الخنزير خيارات ممتازة من البروتين الحيواني يمكن إدراجها في نظامك الغذائي. وإذا كانت الوصفة التي اخترتها تتضمن طبقًا رئيسيًا مغلفًا بالفتات، فانتبه إلى مكونات التغليف لتجنب الملح والبوتاسيوم غير الضروريين الموجودين عادةً في فتات الخبز المنكّه.\n\nعند اختيار الأطعمة الجاهزة، انتبه إلى قائمة المكونات على الملصقات بحثًا عن التوابل المضافة التي قد تكون غنية بالبوتاسيوم. ويمكن أن تساعدك نسب القيمة اليومية على ملصق الحقائق الغذائية في التعرف على الأطعمة التي تحتوي على بوتاسيوم مضاف. ومع التغييرات المقبلة في الملصقات، تشير نسبة القيمة اليومية التي تزيد على 9% إلى أن الطعام يحتوي على 300 ملليغرام أو أكثر من البوتاسيوم في الحصة الواحدة. وإذا كنت تفضل تحضير طبق مغلف بالفتات في المنزل، ففكّر في استخدام فتات خبز غير متبل أو رقائق ذرة مطحونة أو بسكويت مالح غير مملح مجروش لإضافة النكهة.",
+   "en": "With chronic kidney disease, the amount of protein in your diet is important. Regular intake is necessary to support your body’s growth and overall health. Meeting with a renal dietitian can be helpful to determine the amount of protein you need based on how your kidneys are functioning. Different cuts of beef, fish, chicken and pork are all excellent selections of animal protein that can be incorporated into your diet. If your recipe choice includes an entrée with breading, consider the ingredients of the breading to avoid unnecessary salt and potassium commonly found in flavored bread crumbs.\n\nWhen choosing items that are pre-prepared, pay attention to ingredient lists on labels for added seasonings that may be high in potassium. Percent daily values on the nutrition facts label can help you identify foods that contain added potassium. With future label changes, a percent daily value over 9% indicates the food item has 300 or more milligrams of potassium per serving. If your preference is making a breaded entrée at home, consider using unseasoned breadcrumbs, crushed cornflakes or crunched, unsalted crackers for flavor.",
+   "es": "Con la enfermedad renal crónica, la cantidad de proteína en su dieta es importante. Un consumo regular es necesario para el crecimiento y la salud general del cuerpo. Reunirse con un dietista renal puede ayudarle a determinar la cantidad de proteína que necesita según el funcionamiento de sus riñones. Los distintos cortes de res, pescado, pollo y cerdo son excelentes opciones de proteína animal que puede incluir en su dieta. Si la receta que elige incluye un plato fuerte empanizado, revise los ingredientes del empanizado para evitar la sal y el potasio innecesarios que suelen tener los panes rallados con sabor.\n\nAl elegir productos preparados, preste atención a la lista de ingredientes de las etiquetas para detectar condimentos añadidos que puedan ser altos en potasio. Los porcentajes de valor diario de la etiqueta de información nutricional pueden ayudarle a identificar alimentos con potasio añadido. Con los próximos cambios en las etiquetas, un porcentaje de valor diario superior al 9 % indica que el alimento tiene 300 miligramos de potasio o más por porción. Si prefiere preparar un plato empanizado en casa, considere usar pan rallado sin condimentar, hojuelas de maíz trituradas o galletas saladas sin sal trituradas para dar sabor.",
+   "fr": "En cas de maladie rénale chronique, la quantité de protéines dans votre alimentation est importante. Un apport régulier est nécessaire pour soutenir la croissance et la santé générale de votre corps. Un diététicien spécialisé en néphrologie peut vous aider à déterminer la quantité de protéines dont vous avez besoin selon le fonctionnement de vos reins. Les différentes coupes de bœuf, de poisson, de poulet et de porc sont d'excellents choix de protéines animales à intégrer à votre alimentation. Si votre recette comprend un plat principal pané, tenez compte des ingrédients de la panure afin d'éviter le sel et le potassium inutiles que l'on trouve couramment dans les chapelures aromatisées.\n\nLorsque vous choisissez des produits préparés, lisez attentivement la liste des ingrédients pour repérer les assaisonnements ajoutés qui peuvent être riches en potassium. Le pourcentage de la valeur quotidienne sur le tableau de la valeur nutritive peut vous aider à repérer les aliments contenant du potassium ajouté. Avec les prochaines modifications des étiquettes, un pourcentage de la valeur quotidienne supérieur à 9 % indique que l'aliment contient 300 milligrammes de potassium ou plus par portion. Si vous préférez préparer un plat pané à la maison, pensez à utiliser de la chapelure nature, des corn flakes écrasés ou des craquelins non salés émiettés pour donner du goût.",
+   "hi": "क्रॉनिक किडनी डिज़ीज़ में आपके आहार में प्रोटीन की मात्रा महत्वपूर्ण होती है। शरीर की वृद्धि और समग्र स्वास्थ्य के लिए नियमित सेवन आवश्यक है। आपकी किडनी कितनी अच्छी तरह काम कर रही है, इसके आधार पर आपको कितना प्रोटीन चाहिए, यह तय करने में रीनल डाइटीशियन से मिलना सहायक हो सकता है। बीफ़, मछली, चिकन और पोर्क के अलग-अलग हिस्से पशु प्रोटीन के उत्कृष्ट विकल्प हैं जिन्हें आपके आहार में शामिल किया जा सकता है। यदि आपकी रेसिपी में ब्रेडिंग वाला मुख्य व्यंजन शामिल है, तो ब्रेडिंग की सामग्री पर ध्यान दें ताकि फ्लेवर वाले ब्रेड क्रम्ब्स में आमतौर पर पाए जाने वाले अनावश्यक नमक और पोटैशियम से बचा जा सके।\n\nजब आप पहले से तैयार चीज़ें चुनें, तो लेबल पर सामग्री की सूची में डाले गए उन मसालों पर ध्यान दें जिनमें पोटैशियम अधिक हो सकता है। न्यूट्रिशन फैक्ट्स लेबल पर प्रतिशत दैनिक मान (Percent Daily Value) से आप उन खाद्य पदार्थों की पहचान कर सकते हैं जिनमें पोटैशियम मिलाया गया है। भविष्य में लेबल में बदलाव के साथ, 9% से अधिक का प्रतिशत दैनिक मान बताता है कि उस खाद्य पदार्थ की प्रति सर्विंग में 300 या अधिक मिलीग्राम पोटैशियम है। यदि आप घर पर ब्रेडिंग वाला मुख्य व्यंजन बनाना पसंद करते हैं, तो स्वाद के लिए बिना मसाले वाले ब्रेड क्रम्ब्स, कुचले हुए कॉर्नफ्लेक्स या कुचले हुए बिना नमक वाले क्रैकर्स इस्तेमाल करने पर विचार करें।",
+   "id": "Pada penyakit ginjal kronis, jumlah protein dalam pola makan Anda sangat penting. Asupan yang teratur diperlukan untuk menunjang pertumbuhan dan kesehatan tubuh secara keseluruhan. Bertemu dengan ahli gizi ginjal dapat membantu menentukan jumlah protein yang Anda butuhkan berdasarkan fungsi ginjal Anda. Berbagai potongan daging sapi, ikan, ayam, dan babi semuanya merupakan pilihan protein hewani yang sangat baik yang dapat dimasukkan ke dalam pola makan Anda. Jika pilihan resep Anda mencakup hidangan utama dengan pelapis tepung, perhatikan bahan-bahan pelapisnya untuk menghindari garam dan kalium yang tidak perlu, yang umumnya terdapat pada tepung roti berbumbu.\n\nSaat memilih produk yang sudah jadi, perhatikan daftar bahan pada label untuk mengetahui adanya bumbu tambahan yang mungkin tinggi kalium. Persentase nilai harian pada label informasi nilai gizi dapat membantu Anda mengenali makanan yang mengandung kalium tambahan. Dengan perubahan label di masa mendatang, persentase nilai harian di atas 9% menunjukkan bahwa makanan tersebut mengandung 300 miligram kalium atau lebih per porsi. Jika Anda lebih suka membuat hidangan berlapis tepung sendiri di rumah, pertimbangkan untuk menggunakan tepung roti tanpa bumbu, remahan cornflakes, atau remahan biskuit asin tanpa garam untuk menambah rasa.",
+   "ur": "دائمی گردوں کی بیماری میں، آپ کی غذا میں پروٹین کی مقدار اہم ہے۔ آپ کے جسم کی نشوونما اور مجموعی صحت کو سہارا دینے کے لیے باقاعدہ مقدار ضروری ہے۔ رینل غذائی ماہر سے ملنا یہ طے کرنے میں مددگار ہو سکتا ہے کہ آپ کے گردے کیسے کام کر رہے ہیں اس کی بنیاد پر آپ کو کتنے پروٹین کی ضرورت ہے۔ گائے کے گوشت، مچھلی، مرغی اور سور کے گوشت کے مختلف ٹکڑے سب جانوروں کے پروٹین کے بہترین انتخابات ہیں جنہیں آپ کی غذا میں شامل کیا جا سکتا ہے۔ اگر آپ کی ترکیب کے انتخاب میں بریڈنگ والی مرکزی ڈش شامل ہے تو ذائقہ دار بریڈ کرمبز میں عام طور پر پائے جانے والے غیر ضروری نمک اور پوٹاشیم سے بچنے کے لیے بریڈنگ کے اجزا پر غور کریں۔\n\nپہلے سے تیار اشیا منتخب کرتے وقت لیبلز پر اجزا کی فہرستوں پر دھیان دیں کہ آیا اضافی مسالے ہیں جن میں پوٹاشیم زیادہ ہو سکتا ہے۔ غذائی حقائق کے لیبل پر فیصد روزانہ قدریں آپ کو ان غذاؤں کی شناخت کرنے میں مدد دے سکتی ہیں جن میں اضافی پوٹاشیم ہے۔ مستقبل میں لیبل کی تبدیلیوں کے ساتھ، 9% سے زیادہ فیصد روزانہ قدر کا مطلب ہے کہ غذائی چیز میں فی سرونگ 300 ملی گرام یا اس سے زیادہ پوٹاشیم ہے۔ اگر آپ کی ترجیح گھر پر بریڈنگ والی مرکزی ڈش بنانا ہے تو ذائقے کے لیے بغیر مسالے کے بریڈ کرمبز، کچلے ہوئے کارن فلیکس یا کرچ کیے ہوئے بغیر نمک کے کریکرز استعمال کرنے پر غور کریں۔"
+  },
+  "text": {
+   "ar": "مع مرض الكلى المزمن، تكون كمية البروتين في نظامك الغذائي مهمة. فتناوله بانتظام ضروري لدعم نمو الجسم وصحته العامة. ويمكن أن يساعدك لقاء أخصائي تغذية الكلى في تحديد كمية البروتين التي تحتاجها بناءً على كفاءة عمل كليتيك. وتُعد القطع المختلفة من لحم البقر والسمك والدجاج خيارات ممتازة من البروتين الحيواني يمكن إدراجها في نظامك الغذائي. وإذا كانت الوصفة التي اخترتها تتضمن طبقًا رئيسيًا مغلفًا بالفتات، فانتبه إلى مكونات التغليف لتجنب الملح والبوتاسيوم غير الضروريين الموجودين عادةً في فتات الخبز المنكّه.\n\nعند اختيار الأطعمة الجاهزة، انتبه إلى قائمة المكونات على الملصقات بحثًا عن التوابل المضافة التي قد تكون غنية بالبوتاسيوم. ويمكن أن تساعدك نسب القيمة اليومية على ملصق الحقائق الغذائية في التعرف على الأطعمة التي تحتوي على بوتاسيوم مضاف. ومع التغييرات المقبلة في الملصقات، تشير نسبة القيمة اليومية التي تزيد على 9% إلى أن الطعام يحتوي على 300 ملليغرام أو أكثر من البوتاسيوم في الحصة الواحدة. وإذا كنت تفضل تحضير طبق مغلف بالفتات في المنزل، ففكّر في استخدام فتات خبز غير متبل أو رقائق ذرة مطحونة أو بسكويت مالح غير مملح مجروش لإضافة النكهة.",
+   "en": "With chronic kidney disease, the amount of protein in your diet is important. Regular intake is necessary to support your body’s growth and overall health. Meeting with a renal dietitian can be helpful to determine the amount of protein you need based on how your kidneys are functioning. Different cuts of beef, fish and chicken are all excellent selections of animal protein that can be incorporated into your diet. If your recipe choice includes an entrée with breading, consider the ingredients of the breading to avoid unnecessary salt and potassium commonly found in flavored bread crumbs.\n\nWhen choosing items that are pre-prepared, pay attention to ingredient lists on labels for added seasonings that may be high in potassium. Percent daily values on the nutrition facts label can help you identify foods that contain added potassium. With future label changes, a percent daily value over 9% indicates the food item has 300 or more milligrams of potassium per serving. If your preference is making a breaded entrée at home, consider using unseasoned breadcrumbs, crushed cornflakes or crunched, unsalted crackers for flavor.",
+   "es": "Con la enfermedad renal crónica, la cantidad de proteína en su dieta es importante. Un consumo regular es necesario para el crecimiento y la salud general del cuerpo. Reunirse con un dietista renal puede ayudarle a determinar la cantidad de proteína que necesita según el funcionamiento de sus riñones. Los distintos cortes de res, pescado y pollo son excelentes opciones de proteína animal que puede incluir en su dieta. Si la receta que elige incluye un plato fuerte empanizado, revise los ingredientes del empanizado para evitar la sal y el potasio innecesarios que suelen tener los panes rallados con sabor.\n\nAl elegir productos preparados, preste atención a la lista de ingredientes de las etiquetas para detectar condimentos añadidos que puedan ser altos en potasio. Los porcentajes de valor diario de la etiqueta de información nutricional pueden ayudarle a identificar alimentos con potasio añadido. Con los próximos cambios en las etiquetas, un porcentaje de valor diario superior al 9 % indica que el alimento tiene 300 miligramos de potasio o más por porción. Si prefiere preparar un plato empanizado en casa, considere usar pan rallado sin condimentar, hojuelas de maíz trituradas o galletas saladas sin sal trituradas para dar sabor.",
+   "fr": "En cas de maladie rénale chronique, la quantité de protéines dans votre alimentation est importante. Un apport régulier est nécessaire pour soutenir la croissance et la santé générale de votre corps. Un diététicien spécialisé en néphrologie peut vous aider à déterminer la quantité de protéines dont vous avez besoin selon le fonctionnement de vos reins. Les différentes coupes de bœuf, de poisson et de poulet sont d'excellents choix de protéines animales à intégrer à votre alimentation. Si votre recette comprend un plat principal pané, tenez compte des ingrédients de la panure afin d'éviter le sel et le potassium inutiles que l'on trouve couramment dans les chapelures aromatisées.\n\nLorsque vous choisissez des produits préparés, lisez attentivement la liste des ingrédients pour repérer les assaisonnements ajoutés qui peuvent être riches en potassium. Le pourcentage de la valeur quotidienne sur le tableau de la valeur nutritive peut vous aider à repérer les aliments contenant du potassium ajouté. Avec les prochaines modifications des étiquettes, un pourcentage de la valeur quotidienne supérieur à 9 % indique que l'aliment contient 300 milligrammes de potassium ou plus par portion. Si vous préférez préparer un plat pané à la maison, pensez à utiliser de la chapelure nature, des corn flakes écrasés ou des craquelins non salés émiettés pour donner du goût.",
+   "hi": "क्रॉनिक किडनी डिज़ीज़ में आपके आहार में प्रोटीन की मात्रा महत्वपूर्ण होती है। शरीर की वृद्धि और समग्र स्वास्थ्य के लिए नियमित सेवन आवश्यक है। आपकी किडनी कितनी अच्छी तरह काम कर रही है, इसके आधार पर आपको कितना प्रोटीन चाहिए, यह तय करने में रीनल डाइटीशियन से मिलना सहायक हो सकता है। बीफ़, मछली और चिकन के अलग-अलग हिस्से पशु प्रोटीन के उत्कृष्ट विकल्प हैं जिन्हें आपके आहार में शामिल किया जा सकता है। यदि आपकी रेसिपी में ब्रेडिंग वाला मुख्य व्यंजन शामिल है, तो ब्रेडिंग की सामग्री पर ध्यान दें ताकि फ्लेवर वाले ब्रेड क्रम्ब्स में आमतौर पर पाए जाने वाले अनावश्यक नमक और पोटैशियम से बचा जा सके।\n\nजब आप पहले से तैयार चीज़ें चुनें, तो लेबल पर सामग्री की सूची में डाले गए उन मसालों पर ध्यान दें जिनमें पोटैशियम अधिक हो सकता है। न्यूट्रिशन फैक्ट्स लेबल पर प्रतिशत दैनिक मान (Percent Daily Value) से आप उन खाद्य पदार्थों की पहचान कर सकते हैं जिनमें पोटैशियम मिलाया गया है। भविष्य में लेबल में बदलाव के साथ, 9% से अधिक का प्रतिशत दैनिक मान बताता है कि उस खाद्य पदार्थ की प्रति सर्विंग में 300 या अधिक मिलीग्राम पोटैशियम है। यदि आप घर पर ब्रेडिंग वाला मुख्य व्यंजन बनाना पसंद करते हैं, तो स्वाद के लिए बिना मसाले वाले ब्रेड क्रम्ब्स, कुचले हुए कॉर्नफ्लेक्स या कुचले हुए बिना नमक वाले क्रैकर्स इस्तेमाल करने पर विचार करें।",
+   "id": "Pada penyakit ginjal kronis, jumlah protein dalam pola makan Anda sangat penting. Asupan yang teratur diperlukan untuk menunjang pertumbuhan dan kesehatan tubuh secara keseluruhan. Bertemu dengan ahli gizi ginjal dapat membantu menentukan jumlah protein yang Anda butuhkan berdasarkan fungsi ginjal Anda. Berbagai potongan daging sapi, ikan, dan ayam semuanya merupakan pilihan protein hewani yang sangat baik yang dapat dimasukkan ke dalam pola makan Anda. Jika pilihan resep Anda mencakup hidangan utama dengan pelapis tepung, perhatikan bahan-bahan pelapisnya untuk menghindari garam dan kalium yang tidak perlu, yang umumnya terdapat pada tepung roti berbumbu.\n\nSaat memilih produk yang sudah jadi, perhatikan daftar bahan pada label untuk mengetahui adanya bumbu tambahan yang mungkin tinggi kalium. Persentase nilai harian pada label informasi nilai gizi dapat membantu Anda mengenali makanan yang mengandung kalium tambahan. Dengan perubahan label di masa mendatang, persentase nilai harian di atas 9% menunjukkan bahwa makanan tersebut mengandung 300 miligram kalium atau lebih per porsi. Jika Anda lebih suka membuat hidangan berlapis tepung sendiri di rumah, pertimbangkan untuk menggunakan tepung roti tanpa bumbu, remahan cornflakes, atau remahan biskuit asin tanpa garam untuk menambah rasa.",
+   "ur": "دائمی گردوں کی بیماری میں، آپ کی غذا میں پروٹین کی مقدار اہم ہے۔ آپ کے جسم کی نشوونما اور مجموعی صحت کو سہارا دینے کے لیے باقاعدہ مقدار ضروری ہے۔ رینل غذائی ماہر سے ملنا یہ طے کرنے میں مددگار ہو سکتا ہے کہ آپ کے گردے کیسے کام کر رہے ہیں اس کی بنیاد پر آپ کو کتنے پروٹین کی ضرورت ہے۔ گائے کے گوشت، مچھلی اور مرغی کے مختلف ٹکڑے سب جانوروں کے پروٹین کے بہترین انتخابات ہیں جنہیں آپ کی غذا میں شامل کیا جا سکتا ہے۔ اگر آپ کی ترکیب کے انتخاب میں بریڈنگ والی مرکزی ڈش شامل ہے تو ذائقہ دار بریڈ کرمبز میں عام طور پر پائے جانے والے غیر ضروری نمک اور پوٹاشیم سے بچنے کے لیے بریڈنگ کے اجزا پر غور کریں۔\n\nپہلے سے تیار اشیا منتخب کرتے وقت لیبلز پر اجزا کی فہرستوں پر دھیان دیں کہ آیا اضافی مسالے ہیں جن میں پوٹاشیم زیادہ ہو سکتا ہے۔ غذائی حقائق کے لیبل پر فیصد روزانہ قدریں آپ کو ان غذاؤں کی شناخت کرنے میں مدد دے سکتی ہیں جن میں اضافی پوٹاشیم ہے۔ مستقبل میں لیبل کی تبدیلیوں کے ساتھ، 9% سے زیادہ فیصد روزانہ قدر کا مطلب ہے کہ غذائی چیز میں فی سرونگ 300 ملی گرام یا اس سے زیادہ پوٹاشیم ہے۔ اگر آپ کی ترجیح گھر پر بریڈنگ والی مرکزی ڈش بنانا ہے تو ذائقے کے لیے بغیر مسالے کے بریڈ کرمبز، کچلے ہوئے کارن فلیکس یا کرچ کیے ہوئے بغیر نمک کے کریکرز استعمال کرنے پر غور کریں۔"
+  },
+  "reason": "pork listed as an option"
+ },
+ {
+  "key": 89,
+  "recipe_id": 4053424,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "ar": "قد يكون التكيّف مع النظام الغذائي لمرضى الكلى مهمة صعبة. فمع قيود الصوديوم أو البوتاسيوم أو الفوسفور أو البروتين، قد يصبح العثور على وجبات شهية أمرًا مرهقًا. تعاون مع أخصائي تغذية الكلى لإدخال أطعمة متنوعة في نظامك الغذائي. فتغيير المكونات أو أحجام الحصص يمكن أن يجعل الوصفة أكثر ملاءمة لمرضى الكلى ويتيح لك تناول بعض أطباقك المفضلة. البيتزا من أكثر 5 وجبات تناولًا بانتظام في الولايات المتحدة، لكنها للأسف غالبًا ما تُحضّر بمكونات غنية بالصوديوم والبوتاسيوم والفوسفور. وبدلًا من استبعاد البيتزا كليًا، جرّب التعديلات التالية لتتناسب مع أهداف نظامك الغذائي. • خطّط مسبقًا وحضّر عجينتك بنفسك للحد من الإضافات غير الضرورية. • بدلًا من الصلصات الحمراء المصنوعة من الطماطم الغنية بالبوتاسيوم، جرّب صلصة ألفريدو خفيفة أو قاعدة من زيت الزيتون أو صلصة الفلفل الأحمر المشوي. • استبدل اللحوم المالحة مثل الببروني ولحم الخنزير المقدد (الهام) والبيكون بلحم ديك رومي أو لحم بقري مفروم أقل دهونًا. • استخدم كميات أقل من الجبن. • أضف خضارًا منخفضة البوتاسيوم مثل الفلفل الرومي الأخضر أو الفطر أو البصل. • أكمل نكهة البيتزا بتوابل خالية من الصوديوم والبوتاسيوم مثل بذور الشمر أو رقائق الفلفل الأحمر أو خلطة التوابل الإيطالية.",
+   "en": "Adjusting to a kidney diet can be a difficult task. With sodium, potassium, phosphorus and/or protein restrictions, trying to find meals that are appetizing may become overwhelming. Work with your renal dietitian to incorporate a variety of different foods into your diet. A change of ingredients or portion sizes can make a recipe more kidney-friendly and will allow you to eat some of your favorite dishes. Pizza is one of the top 5 regularly eaten meals in the United States. Unfortunately, this food is often made with ingredients high in sodium, potassium and phosphorus. Rather than excluding pizza entirely, try the following modifications to allow pizza to fit within your kidney diet goals. • Plan ahead and make your own crust to limit unnecessary additives. • Instead of high-potassium red sauces made with tomatoes try a lite Alfredo sauce, olive oil base or roasted red pepper sauce. • Replace salty meats such as pepperoni, ham and bacon with lower-fat ground turkey or beef. • Use smaller portions of cheese. • Top with low-potassium vegetables such as green bell peppers, mushrooms or onions. • Finish off pizza flavor with sodium and potassium-free seasonings such as fennel seed, red pepper flakes or Italian seasoning.",
+   "es": "Adaptarse a una dieta para los riñones puede ser difícil. Con restricciones de sodio, potasio, fósforo o proteína, encontrar comidas apetitosas puede volverse abrumador. Trabaje con su dietista renal para incorporar una variedad de alimentos a su dieta. Cambiar ingredientes o tamaños de porción puede hacer que una receta sea más adecuada para los riñones y le permitirá comer algunos de sus platillos favoritos. La pizza es una de las 5 comidas más consumidas en Estados Unidos. Por desgracia, suele prepararse con ingredientes altos en sodio, potasio y fósforo. En lugar de eliminar la pizza por completo, pruebe las siguientes modificaciones para que encaje en las metas de su dieta para los riñones. • Planifique con anticipación y haga su propia masa para limitar aditivos innecesarios. • En lugar de salsas rojas de tomate, altas en potasio, pruebe una salsa Alfredo ligera, una base de aceite de oliva o una salsa de pimiento rojo asado. • Sustituya las carnes saladas, como el pepperoni, el jamón y el tocino, por pavo o res molidos más bajos en grasa. • Use porciones más pequeñas de queso. • Agregue verduras bajas en potasio, como pimiento verde, champiñones o cebolla. • Termine de dar sabor a la pizza con condimentos sin sodio ni potasio, como semillas de hinojo, hojuelas de chile rojo o sazonador italiano.",
+   "fr": "S'adapter à une alimentation pour les reins peut être difficile. Avec des restrictions en sodium, en potassium, en phosphore et/ou en protéines, trouver des repas appétissants peut devenir décourageant. Travaillez avec votre diététicien spécialisé en néphrologie pour intégrer une variété d'aliments à votre alimentation. Un changement d'ingrédients ou de taille des portions peut rendre une recette plus adaptée aux reins et vous permettre de manger certains de vos plats préférés. La pizza fait partie des 5 repas les plus consommés régulièrement aux États-Unis. Malheureusement, elle est souvent préparée avec des ingrédients riches en sodium, en potassium et en phosphore. Plutôt que d'exclure complètement la pizza, essayez les modifications suivantes pour qu'elle s'intègre à vos objectifs alimentaires pour les reins. • Planifiez à l'avance et préparez votre propre pâte pour limiter les additifs inutiles. • Au lieu des sauces rouges à base de tomates, riches en potassium, essayez une sauce Alfredo allégée, une base d'huile d'olive ou une sauce au poivron rouge rôti. • Remplacez les viandes salées comme le pepperoni, le jambon et le bacon par de la dinde ou du bœuf hachés moins gras. • Utilisez de plus petites quantités de fromage. • Garnissez de légumes pauvres en potassium comme les poivrons verts, les champignons ou les oignons. • Terminez en relevant la pizza avec des assaisonnements sans sodium ni potassium comme les graines de fenouil, les flocons de piment rouge ou l'assaisonnement italien.",
+   "hi": "किडनी आहार के अनुसार ढलना कठिन काम हो सकता है। सोडियम, पोटैशियम, फॉस्फोरस और/या प्रोटीन की पाबंदियों के साथ स्वादिष्ट भोजन खोजना भारी लग सकता है। अपने आहार में अलग-अलग तरह के खाद्य पदार्थ शामिल करने के लिए अपने रीनल डाइटीशियन के साथ काम करें। सामग्री या मात्रा में बदलाव से रेसिपी अधिक किडनी के अनुकूल बन सकती है और आप अपने कुछ पसंदीदा व्यंजन खा सकेंगे। पिज़्ज़ा अमेरिका में नियमित रूप से खाए जाने वाले शीर्ष 5 भोजनों में से एक है। दुर्भाग्य से, यह अक्सर सोडियम, पोटैशियम और फॉस्फोरस की अधिकता वाली सामग्री से बनता है। पिज़्ज़ा को पूरी तरह छोड़ने के बजाय, इन बदलावों को आज़माएँ ताकि पिज़्ज़ा आपके किडनी आहार लक्ष्यों में फिट हो सके। • पहले से योजना बनाएँ और अनावश्यक योजकों को सीमित करने के लिए अपना क्रस्ट खुद बनाएँ। • टमाटर से बने अधिक पोटैशियम वाले लाल सॉस के बजाय हल्का अल्फ्रेडो सॉस, ऑलिव ऑयल बेस या भुनी लाल शिमला मिर्च का सॉस आज़माएँ। • पेपरोनी, हैम और बेकन जैसे नमकीन मांस की जगह कम वसा वाला ग्राउंड टर्की या बीफ़ इस्तेमाल करें। • चीज़ की कम मात्रा लें। • हरी शिमला मिर्च, मशरूम या प्याज़ जैसी कम पोटैशियम वाली सब्जियाँ ऊपर डालें। • पिज़्ज़ा के स्वाद को सोडियम और पोटैशियम रहित मसालों, जैसे सौंफ, लाल मिर्च के फ़्लेक्स या इटैलियन सीज़निंग से पूरा करें।",
+   "id": "Menyesuaikan diri dengan pola makan ginjal bisa jadi sulit. Dengan pembatasan natrium, kalium, fosfor, dan/atau protein, mencari hidangan yang menggugah selera bisa terasa membebani. Bekerjalah sama dengan ahli gizi ginjal Anda untuk memasukkan berbagai makanan ke dalam pola makan Anda. Perubahan bahan atau ukuran porsi dapat membuat resep lebih ramah ginjal dan memungkinkan Anda menikmati beberapa hidangan favorit. Pizza adalah salah satu dari 5 hidangan yang paling sering dimakan di Amerika Serikat. Sayangnya, makanan ini sering dibuat dengan bahan yang tinggi natrium, kalium, dan fosfor. Daripada menghindari pizza sepenuhnya, cobalah modifikasi berikut agar pizza sesuai dengan sasaran pola makan ginjal Anda. • Rencanakan sebelumnya dan buat sendiri adonan dasarnya untuk membatasi bahan tambahan yang tidak perlu. • Sebagai pengganti saus merah berbahan tomat yang tinggi kalium, cobalah saus Alfredo ringan, dasar minyak zaitun, atau saus paprika merah panggang. • Ganti daging asin seperti pepperoni, ham, dan bacon dengan daging kalkun atau sapi giling yang lebih rendah lemak. • Gunakan keju dalam porsi lebih kecil. • Taburi dengan sayuran rendah kalium seperti paprika hijau, jamur, atau bawang bombai. • Sempurnakan rasa pizza dengan bumbu bebas natrium dan kalium seperti biji adas, serpihan cabai merah, atau bumbu Italia.",
+   "ur": "گردوں کی غذا کے مطابق ڈھلنا ایک مشکل کام ہو سکتا ہے۔ سوڈیم، پوٹاشیم، فاسفورس اور/یا پروٹین کی پابندیوں کے ساتھ، بھوک بڑھانے والے کھانے تلاش کرنا مشکل لگ سکتا ہے۔ اپنی غذا میں مختلف غذاؤں کی ایک قسم شامل کرنے کے لیے اپنے رینل غذائی ماہر کے ساتھ کام کریں۔ اجزا یا حصوں کی مقدار میں تبدیلی ترکیب کو گردوں کے لیے زیادہ موزوں بنا سکتی ہے اور آپ کو اپنی پسندیدہ ڈشز میں سے کچھ کھانے کی اجازت دے گی۔ پیزا ریاستہائے متحدہ میں باقاعدگی سے کھائے جانے والے پہلے 5 کھانوں میں سے ایک ہے۔ بدقسمتی سے، یہ غذا اکثر سوڈیم، پوٹاشیم اور فاسفورس میں زیادہ اجزا سے بنائی جاتی ہے۔ پیزا کو مکمل طور پر خارج کرنے کی بجائے، درج ذیل تبدیلیاں آزمائیں تاکہ پیزا آپ کے گردوں کی غذا کے اہداف میں فٹ ہو سکے۔ • پہلے سے منصوبہ بندی کریں اور غیر ضروری اضافی اجزا کو محدود کرنے کے لیے اپنا کرسٹ خود بنائیں۔ • ٹماٹر سے بنی زیادہ پوٹاشیم والی سرخ ساسز کی بجائے ہلکی الفریڈو ساس، زیتون کے تیل کی بنیاد یا بھنی ہوئی سرخ شملہ مرچ کی ساس آزمائیں۔ • پیپرونی، ہیم اور بیکن جیسے نمکین گوشت کی جگہ کم چکنائی والا ٹرکی یا گائے کا قیمہ استعمال کریں۔ • پنیر کے چھوٹے حصے استعمال کریں۔ • ہری شملہ مرچ، مشروم یا پیاز جیسی کم پوٹاشیم والی سبزیاں اوپر ڈالیں۔ • پیزا کا ذائقہ سوڈیم اور پوٹاشیم سے پاک مسالوں جیسے سونف کے بیج، لال مرچ کے فلیکس یا اطالوی مسالے سے مکمل کریں۔"
+  },
+  "text": {
+   "ar": "قد يكون التكيّف مع النظام الغذائي لمرضى الكلى مهمة صعبة. فمع قيود الصوديوم أو البوتاسيوم أو الفوسفور أو البروتين، قد يصبح العثور على وجبات شهية أمرًا مرهقًا. تعاون مع أخصائي تغذية الكلى لإدخال أطعمة متنوعة في نظامك الغذائي. فتغيير المكونات أو أحجام الحصص يمكن أن يجعل الوصفة أكثر ملاءمة لمرضى الكلى ويتيح لك تناول بعض أطباقك المفضلة. البيتزا من أكثر 5 وجبات تناولًا بانتظام في الولايات المتحدة، لكنها للأسف غالبًا ما تُحضّر بمكونات غنية بالصوديوم والبوتاسيوم والفوسفور. وبدلًا من استبعاد البيتزا كليًا، جرّب التعديلات التالية لتتناسب مع أهداف نظامك الغذائي. • خطّط مسبقًا وحضّر عجينتك بنفسك للحد من الإضافات غير الضرورية. • بدلًا من الصلصات الحمراء المصنوعة من الطماطم الغنية بالبوتاسيوم، جرّب صلصة ألفريدو خفيفة أو قاعدة من زيت الزيتون أو صلصة الفلفل الأحمر المشوي. • استبدل اللحوم المصنّعة المالحة بلحم ديك رومي أو لحم بقري مفروم أقل دهونًا. • استخدم كميات أقل من الجبن. • أضف خضارًا منخفضة البوتاسيوم مثل الفلفل الرومي الأخضر أو الفطر أو البصل. • أكمل نكهة البيتزا بتوابل خالية من الصوديوم والبوتاسيوم مثل بذور الشمر أو رقائق الفلفل الأحمر أو خلطة التوابل الإيطالية.",
+   "en": "Adjusting to a kidney diet can be a difficult task. With sodium, potassium, phosphorus and/or protein restrictions, trying to find meals that are appetizing may become overwhelming. Work with your renal dietitian to incorporate a variety of different foods into your diet. A change of ingredients or portion sizes can make a recipe more kidney-friendly and will allow you to eat some of your favorite dishes. Pizza is one of the top 5 regularly eaten meals in the United States. Unfortunately, this food is often made with ingredients high in sodium, potassium and phosphorus. Rather than excluding pizza entirely, try the following modifications to allow pizza to fit within your kidney diet goals. • Plan ahead and make your own crust to limit unnecessary additives. • Instead of high-potassium red sauces made with tomatoes try a lite Alfredo sauce, olive oil base or roasted red pepper sauce. • Replace salty processed meats with lower-fat ground turkey or beef. • Use smaller portions of cheese. • Top with low-potassium vegetables such as green bell peppers, mushrooms or onions. • Finish off pizza flavor with sodium and potassium-free seasonings such as fennel seed, red pepper flakes or Italian seasoning.",
+   "es": "Adaptarse a una dieta para los riñones puede ser difícil. Con restricciones de sodio, potasio, fósforo o proteína, encontrar comidas apetitosas puede volverse abrumador. Trabaje con su dietista renal para incorporar una variedad de alimentos a su dieta. Cambiar ingredientes o tamaños de porción puede hacer que una receta sea más adecuada para los riñones y le permitirá comer algunos de sus platillos favoritos. La pizza es una de las 5 comidas más consumidas en Estados Unidos. Por desgracia, suele prepararse con ingredientes altos en sodio, potasio y fósforo. En lugar de eliminar la pizza por completo, pruebe las siguientes modificaciones para que encaje en las metas de su dieta para los riñones. • Planifique con anticipación y haga su propia masa para limitar aditivos innecesarios. • En lugar de salsas rojas de tomate, altas en potasio, pruebe una salsa Alfredo ligera, una base de aceite de oliva o una salsa de pimiento rojo asado. • Sustituya las carnes procesadas saladas por pavo o res molidos más bajos en grasa. • Use porciones más pequeñas de queso. • Agregue verduras bajas en potasio, como pimiento verde, champiñones o cebolla. • Termine de dar sabor a la pizza con condimentos sin sodio ni potasio, como semillas de hinojo, hojuelas de chile rojo o sazonador italiano.",
+   "fr": "S'adapter à une alimentation pour les reins peut être difficile. Avec des restrictions en sodium, en potassium, en phosphore et/ou en protéines, trouver des repas appétissants peut devenir décourageant. Travaillez avec votre diététicien spécialisé en néphrologie pour intégrer une variété d'aliments à votre alimentation. Un changement d'ingrédients ou de taille des portions peut rendre une recette plus adaptée aux reins et vous permettre de manger certains de vos plats préférés. La pizza fait partie des 5 repas les plus consommés régulièrement aux États-Unis. Malheureusement, elle est souvent préparée avec des ingrédients riches en sodium, en potassium et en phosphore. Plutôt que d'exclure complètement la pizza, essayez les modifications suivantes pour qu'elle s'intègre à vos objectifs alimentaires pour les reins. • Planifiez à l'avance et préparez votre propre pâte pour limiter les additifs inutiles. • Au lieu des sauces rouges à base de tomates, riches en potassium, essayez une sauce Alfredo allégée, une base d'huile d'olive ou une sauce au poivron rouge rôti. • Remplacez les viandes transformées salées par de la dinde ou du bœuf hachés moins gras. • Utilisez de plus petites quantités de fromage. • Garnissez de légumes pauvres en potassium comme les poivrons verts, les champignons ou les oignons. • Terminez en relevant la pizza avec des assaisonnements sans sodium ni potassium comme les graines de fenouil, les flocons de piment rouge ou l'assaisonnement italien.",
+   "hi": "किडनी आहार के अनुसार ढलना कठिन काम हो सकता है। सोडियम, पोटैशियम, फॉस्फोरस और/या प्रोटीन की पाबंदियों के साथ स्वादिष्ट भोजन खोजना भारी लग सकता है। अपने आहार में अलग-अलग तरह के खाद्य पदार्थ शामिल करने के लिए अपने रीनल डाइटीशियन के साथ काम करें। सामग्री या मात्रा में बदलाव से रेसिपी अधिक किडनी के अनुकूल बन सकती है और आप अपने कुछ पसंदीदा व्यंजन खा सकेंगे। पिज़्ज़ा अमेरिका में नियमित रूप से खाए जाने वाले शीर्ष 5 भोजनों में से एक है। दुर्भाग्य से, यह अक्सर सोडियम, पोटैशियम और फॉस्फोरस की अधिकता वाली सामग्री से बनता है। पिज़्ज़ा को पूरी तरह छोड़ने के बजाय, इन बदलावों को आज़माएँ ताकि पिज़्ज़ा आपके किडनी आहार लक्ष्यों में फिट हो सके। • पहले से योजना बनाएँ और अनावश्यक योजकों को सीमित करने के लिए अपना क्रस्ट खुद बनाएँ। • टमाटर से बने अधिक पोटैशियम वाले लाल सॉस के बजाय हल्का अल्फ्रेडो सॉस, ऑलिव ऑयल बेस या भुनी लाल शिमला मिर्च का सॉस आज़माएँ। • नमकीन प्रोसेस्ड मांस की जगह कम वसा वाला ग्राउंड टर्की या बीफ़ इस्तेमाल करें। • चीज़ की कम मात्रा लें। • हरी शिमला मिर्च, मशरूम या प्याज़ जैसी कम पोटैशियम वाली सब्जियाँ ऊपर डालें। • पिज़्ज़ा के स्वाद को सोडियम और पोटैशियम रहित मसालों, जैसे सौंफ, लाल मिर्च के फ़्लेक्स या इटैलियन सीज़निंग से पूरा करें।",
+   "id": "Menyesuaikan diri dengan pola makan ginjal bisa jadi sulit. Dengan pembatasan natrium, kalium, fosfor, dan/atau protein, mencari hidangan yang menggugah selera bisa terasa membebani. Bekerjalah sama dengan ahli gizi ginjal Anda untuk memasukkan berbagai makanan ke dalam pola makan Anda. Perubahan bahan atau ukuran porsi dapat membuat resep lebih ramah ginjal dan memungkinkan Anda menikmati beberapa hidangan favorit. Pizza adalah salah satu dari 5 hidangan yang paling sering dimakan di Amerika Serikat. Sayangnya, makanan ini sering dibuat dengan bahan yang tinggi natrium, kalium, dan fosfor. Daripada menghindari pizza sepenuhnya, cobalah modifikasi berikut agar pizza sesuai dengan sasaran pola makan ginjal Anda. • Rencanakan sebelumnya dan buat sendiri adonan dasarnya untuk membatasi bahan tambahan yang tidak perlu. • Sebagai pengganti saus merah berbahan tomat yang tinggi kalium, cobalah saus Alfredo ringan, dasar minyak zaitun, atau saus paprika merah panggang. • Ganti daging olahan yang asin dengan daging kalkun atau sapi giling yang lebih rendah lemak. • Gunakan keju dalam porsi lebih kecil. • Taburi dengan sayuran rendah kalium seperti paprika hijau, jamur, atau bawang bombai. • Sempurnakan rasa pizza dengan bumbu bebas natrium dan kalium seperti biji adas, serpihan cabai merah, atau bumbu Italia.",
+   "ur": "گردوں کی غذا کے مطابق ڈھلنا ایک مشکل کام ہو سکتا ہے۔ سوڈیم، پوٹاشیم، فاسفورس اور/یا پروٹین کی پابندیوں کے ساتھ، بھوک بڑھانے والے کھانے تلاش کرنا مشکل لگ سکتا ہے۔ اپنی غذا میں مختلف غذاؤں کی ایک قسم شامل کرنے کے لیے اپنے رینل غذائی ماہر کے ساتھ کام کریں۔ اجزا یا حصوں کی مقدار میں تبدیلی ترکیب کو گردوں کے لیے زیادہ موزوں بنا سکتی ہے اور آپ کو اپنی پسندیدہ ڈشز میں سے کچھ کھانے کی اجازت دے گی۔ پیزا ریاستہائے متحدہ میں باقاعدگی سے کھائے جانے والے پہلے 5 کھانوں میں سے ایک ہے۔ بدقسمتی سے، یہ غذا اکثر سوڈیم، پوٹاشیم اور فاسفورس میں زیادہ اجزا سے بنائی جاتی ہے۔ پیزا کو مکمل طور پر خارج کرنے کی بجائے، درج ذیل تبدیلیاں آزمائیں تاکہ پیزا آپ کے گردوں کی غذا کے اہداف میں فٹ ہو سکے۔ • پہلے سے منصوبہ بندی کریں اور غیر ضروری اضافی اجزا کو محدود کرنے کے لیے اپنا کرسٹ خود بنائیں۔ • ٹماٹر سے بنی زیادہ پوٹاشیم والی سرخ ساسز کی بجائے ہلکی الفریڈو ساس، زیتون کے تیل کی بنیاد یا بھنی ہوئی سرخ شملہ مرچ کی ساس آزمائیں۔ • نمکین پروسیسڈ گوشت کی جگہ کم چکنائی والا ٹرکی یا گائے کا قیمہ استعمال کریں۔ • پنیر کے چھوٹے حصے استعمال کریں۔ • ہری شملہ مرچ، مشروم یا پیاز جیسی کم پوٹاشیم والی سبزیاں اوپر ڈالیں۔ • پیزا کا ذائقہ سوڈیم اور پوٹاشیم سے پاک مسالوں جیسے سونف کے بیج، لال مرچ کے فلیکس یا اطالوی مسالے سے مکمل کریں۔"
+  },
+  "reason": "pork products named as things to replace"
+ },
+ {
+  "key": 90,
+  "recipe_id": 4071327,
+  "field": "ingredients",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 91,
+  "recipe_id": 4091479,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 92,
+  "recipe_id": 4091479,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ }
+]

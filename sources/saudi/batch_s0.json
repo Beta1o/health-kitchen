@@ -1,0 +1,105 @@
+[
+ {
+  "id": "kabsa-chicken",
+  "ar": "كبسة الدجاج",
+  "en": "Chicken Kabsa",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17962-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17431-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16618-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16398-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14580-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13870-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11031-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4081-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14312-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-meat",
+  "ar": "كبسة اللحم",
+  "en": "Meat Kabsa (Red)",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17433-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14623-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13722-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13719-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4809-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4369-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4176-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13868-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13863-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4510-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11454-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hashi",
+  "ar": "كبسة لحم الحاشي البيضاء",
+  "en": "White Camel Meat Kabsa",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17519-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15933-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14643-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14311-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hasawi",
+  "ar": "الكبسة الحساوية",
+  "en": "Hasawi Meat Kabsa",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15476-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-fish",
+  "ar": "كبسة السمك",
+  "en": "Fish Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14790-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3788-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-vegetable",
+  "ar": "كبسة الخضار",
+  "en": "Vegetable Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17233-1.html"
+  ]
+ },
+ {
+  "id": "kabsa-hamam",
+  "ar": "كبسة الحمام",
+  "en": "Pigeon Kabsa",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10676-1.html"
+  ]
+ },
+ {
+  "id": "madghoot-meat",
+  "ar": "مضغوط اللحم",
+  "en": "Meat Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17604-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15628-1.html"
+  ]
+ }
+]

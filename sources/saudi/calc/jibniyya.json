@@ -1,0 +1,57 @@
+{
+ "servings": 12,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 125,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 125,
+   "name": "white flour"
+  },
+  {
+   "fdc": 169079,
+   "g": 120,
+   "name": "low-fat cream cheese"
+  },
+  {
+   "fdc": 170878,
+   "g": 120,
+   "name": "evaporated skimmed milk"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 169655,
+   "g": 5,
+   "name": "sugar for the yeast",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171413,
+   "g": 15,
+   "name": "olive oil for brushing"
+  },
+  {
+   "fdc": 169640,
+   "g": 40,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "fdc": 170184,
+   "g": 15,
+   "name": "pistachios"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  }
+ ]
+}

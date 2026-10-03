@@ -1,0 +1,95 @@
+[
+ {
+  "id": "haysiya-jazan",
+  "ar": "الحيسية الجيزانية",
+  "en": "Jazani Haysiya",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10309-1.html"
+  ]
+ },
+ {
+  "id": "saudi-coffee",
+  "ar": "القهوة السعودية",
+  "en": "Saudi Coffee",
+  "region": "",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5936-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18931-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18929-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4101-1.html"
+  ]
+ },
+ {
+  "id": "daghabees",
+  "ar": "الدغابيس",
+  "en": "Daghabees",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11405-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18922-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3930-1.html"
+  ]
+ },
+ {
+  "id": "kleeja",
+  "ar": "الكليجا",
+  "en": "Kleeja",
+  "region": "Qassimi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16396-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18865-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18881-1.html"
+  ]
+ },
+ {
+  "id": "lahoh",
+  "ar": "اللحوح الحجازي",
+  "en": "Hijazi Lahoh",
+  "region": "Hijazi",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10888-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18733-1.html"
+  ]
+ },
+ {
+  "id": "khanfaroosh",
+  "ar": "خنفروش قطيفي",
+  "en": "Qatifi Khanfaroosh",
+  "region": "Qatifi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18595-1.html"
+  ]
+ },
+ {
+  "id": "mahmous",
+  "ar": "المحموص القطيفي",
+  "en": "Qatifi Mahmous",
+  "region": "Qatifi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18818-1.html"
+  ]
+ },
+ {
+  "id": "kawari",
+  "ar": "الكوارع",
+  "en": "Kawari' (Sheep Trotters)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15513-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15522-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15515-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4516-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4161-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10713-1.html"
+  ]
+ }
+]

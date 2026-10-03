@@ -1,0 +1,90 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 173627,
+   "g": 300,
+   "name": "chicken thigh meat, skinless, raw"
+  },
+  {
+   "fdc": 171077,
+   "g": 300,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 168877,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 14,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 30,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 170427,
+   "g": 120,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170497,
+   "g": 20,
+   "name": "green chilies"
+  },
+  {
+   "fdc": 170567,
+   "g": 15,
+   "name": "almonds"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 170922,
+   "g": 2,
+   "name": "coriander, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "fdc": 170931,
+   "g": 1,
+   "name": "black pepper"
+  }
+ ]
+}

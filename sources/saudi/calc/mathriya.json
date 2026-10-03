@@ -1,0 +1,26 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 12,
+   "name": "ghee 2.5 tsp"
+  },
+  {
+   "fdc": 169640,
+   "g": 28,
+   "name": "honey 4 tsp",
+   "added_sugar": true
+  }
+ ]
+}

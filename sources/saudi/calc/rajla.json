@@ -1,0 +1,50 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171077,
+   "g": 500,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 169274,
+   "g": 400,
+   "name": "purslane, raw"
+  },
+  {
+   "fdc": 172420,
+   "g": 100,
+   "name": "yellow lentils, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 20,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomato"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

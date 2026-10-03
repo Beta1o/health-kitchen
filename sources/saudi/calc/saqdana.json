@@ -1,0 +1,21 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 169717,
+   "g": 100,
+   "name": "sago pearls (tapioca pearl dry as proxy)"
+  },
+  {
+   "fdc": 170872,
+   "g": 800,
+   "name": "low-fat 1% milk"
+  },
+  {
+   "fdc": 169655,
+   "g": 60,
+   "name": "sugar",
+   "added_sugar": true
+  }
+ ]
+}

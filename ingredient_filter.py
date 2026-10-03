@@ -9,6 +9,7 @@ decision can be reviewed.
 Usage: python3 ingredient_filter.py            # remove and record
        python3 ingredient_filter.py --dry-run  # only report
 """
+import json
 import re
 import sqlite3
 import sys
@@ -59,6 +60,8 @@ def main():
     db.execute("""CREATE TABLE IF NOT EXISTS excluded_recipes (
         id INTEGER PRIMARY KEY, title TEXT, url TEXT, language TEXT, category TEXT,
         reasons TEXT, matched_lines TEXT)""")
+    pe = Path(__file__).resolve().parent / "translations" / "policy_exclude.json"
+    reviewed = json.loads(pe.read_text(encoding="utf-8")) if pe.exists() else {}
     flagged = []
     for rid, title, url, lang, cat in db.execute(
             "SELECT id, title, url, language, category_en FROM recipes"):
@@ -69,6 +72,8 @@ def main():
             hits = [("pork", f"title: {title}")]
         if hits:
             flagged.append((rid, title, url, lang, cat, sorted({h[0] for h in hits}), [h[1] for h in hits]))
+        elif str(rid) in reviewed:   # reviewed by hand (translations/policy_exclude.json), e.g. bacon in a step
+            flagged.append((rid, title, url, lang, cat, [reviewed[str(rid)]["reason"]], [reviewed[str(rid)]["line"]]))
 
     by_reason = {}
     for f in flagged:

@@ -1,0 +1,85 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 600,
+   "name": "lean lamb leg raw"
+  },
+  {
+   "fdc": 168877,
+   "g": 170,
+   "name": "basmati rice raw"
+  },
+  {
+   "fdc": 169738,
+   "g": 40,
+   "name": "whole-wheat spaghetti dry"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot for stock"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 171314,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 170567,
+   "g": 20,
+   "name": "almonds toasted"
+  },
+  {
+   "fdc": 168165,
+   "g": 20,
+   "name": "raisins"
+  },
+  {
+   "fdc": 171287,
+   "g": 100,
+   "name": "2 eggs"
+  },
+  {
+   "fdc": 170457,
+   "g": 100,
+   "name": "tomato"
+  },
+  {
+   "fdc": 168409,
+   "g": 100,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

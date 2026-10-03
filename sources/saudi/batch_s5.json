@@ -1,0 +1,98 @@
+[
+ {
+  "id": "maraheef",
+  "ar": "مراهيف القصيم",
+  "en": "Maraheef",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10700-1.html"
+  ]
+ },
+ {
+  "id": "qishd",
+  "ar": "القشد",
+  "en": "Qishd (Clotted Cream)",
+  "region": "Qassimi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10906-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18162-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17902-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17201-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16353-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10899-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10280-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10693-1.html"
+  ]
+ },
+ {
+  "id": "kubayba-hail",
+  "ar": "كبيبة حائل",
+  "en": "Kubayba Hail",
+  "region": "Hail",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17813-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14594-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13398-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-9992-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5859-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5758-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4090-1.html"
+  ]
+ },
+ {
+  "id": "kishna",
+  "ar": "الكشنة",
+  "en": "Kishna Sauce",
+  "region": "Najdi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5781-1.html"
+  ]
+ },
+ {
+  "id": "dagoos",
+  "ar": "الدقوس",
+  "en": "Dagoos Tomato Sauce",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11766-1.html"
+  ]
+ },
+ {
+  "id": "hareis",
+  "ar": "الهريس",
+  "en": "Hareis",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17530-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16340-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8113-1.html"
+  ]
+ },
+ {
+  "id": "hareesa-hasawi",
+  "ar": "الهريسة الحساوية",
+  "en": "Hasawi Hareesa",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12936-1.html"
+  ]
+ },
+ {
+  "id": "kubba-hasawi",
+  "ar": "الكبة الحساوية",
+  "en": "Hasawi Kubba",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7628-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18864-1.html"
+  ]
+ }
+]

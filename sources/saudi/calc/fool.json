@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 175205,
+   "g": 250,
+   "name": "dried small fava beans"
+  },
+  {
+   "fdc": 174284,
+   "g": 40,
+   "name": "red lentils"
+  },
+  {
+   "fdc": 171726,
+   "g": 10,
+   "name": "1 date"
+  },
+  {
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini 2 tbsp"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomato (dakous)"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 169997,
+   "g": 15,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 170497,
+   "g": 10,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  }
+ ]
+}

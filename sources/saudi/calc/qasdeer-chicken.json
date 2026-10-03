@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171077,
+   "g": 300,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 173627,
+   "g": 300,
+   "name": "chicken thigh, skinless boneless, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170427,
+   "g": 150,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170425,
+   "g": 250,
+   "name": "frozen peas and carrots"
+  },
+  {
+   "fdc": 173801,
+   "g": 120,
+   "name": "canned chickpeas, rinsed"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 171413,
+   "g": 15,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt"
+  }
+ ]
+}

@@ -1,0 +1,1964 @@
+[
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "qurs-mulla",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15456-1.html",
+  "lang": "ar",
+  "title": "قرص المله",
+  "description": "قرص المله أو قرص الجمر خبز بدوي سعودي قديم من دقيق البر والماء والملح، يُدفن في الرماد والجمر حتى ينضج ثم يُفتّ ويُسقى بالسمن. في هذه النسخة المنزلية يُخبز القرص في الفرن أو في قدر حديدي مغطى، مع كمية سمن محدودة وقليل من العسل بدل السكر.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "قطعة قرص مفتوتة مع السمن (حوالي 85 غ)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Budget",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 221,
+   "protein_g": 6.6,
+   "carbohydrates_g": 40.1,
+   "fat_g": 5.2,
+   "cholesterol_mg": 12,
+   "sodium_mg": 195,
+   "potassium_mg": 184,
+   "phosphorus_mg": 179,
+   "calcium_mg": 17,
+   "fiber_g": 5.4,
+   "added_sugar_g": 4.1
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    null,
+    "200 مل ماء دافئ تقريباً"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    null,
+    "5 ملاعق صغيرة سمن بلدي (24 غ)"
+   ],
+   [
+    null,
+    "1½ ملعقة كبيرة عسل (30 غ) للتقديم، اختياري"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيق بالملح وأضف الماء تدريجياً واعجن 8–10 دقائق حتى تحصل على عجينة متماسكة لا تلتصق باليد، ثم غطّها واتركها ترتاح 15 دقيقة."
+   ],
+   [
+    null,
+    "سخّن الفرن على 230°م مع صينية حديد أو حجر خبز بداخله لمدة 20 دقيقة على الأقل."
+   ],
+   [
+    null,
+    "افرد العجينة بيديك قرصاً سميكاً بقطر 22–25 سم وسُمك 2 سم تقريباً، واثقبه بالشوكة."
+   ],
+   [
+    null,
+    "ضع القرص على الصينية الساخنة واخبزه 35–40 دقيقة مع قلبه في المنتصف حتى يتحمر من الجهتين ويصدر صوتاً أجوف عند النقر عليه. (في البر يُدفن في الرماد والجمر حوالي ساعة كما هو تقليدياً، ثم يُنفض جيداً.)"
+   ],
+   [
+    null,
+    "انفض القرص من أي قشور محروقة، ثم فتّه وهو ساخن بيديك أو قطّعه بالسكين قطعاً صغيرة في صحن التقديم."
+   ],
+   [
+    null,
+    "ذوّب السمن واسكبه على الفتيت مع التقليب، ثم رشّ العسل إن رغبت وقدّمه دافئاً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر كامل، ملح محدود (½ غ للحصة)، سمن أقل بكثير من المعتاد (أقل من ملعقة صغيرة للحصة)، وعسل قليل اختياري بدل السكر."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر الكامل فيه فوسفور وبوتاسيوم أكثر من الدقيق الأبيض؛ يمكن استبدال نصفه بدقيق أبيض، والالتزام بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 40 غ كربوهيدرات؛ استغنِ عن العسل وقدّمه مع لبن قليل الدسم أو بيضة مسلوقة وسلطة."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، جريدة الوطن السعودية، مجلة الخليج"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "qurs-mulla-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15456-1.html",
+  "lang": "en",
+  "title": "Qurs Al-Mulla Bread",
+  "description": "Qurs al-mulla, also called qurs al-jamr, is an old Bedouin Saudi bread of whole-wheat flour, water and salt, buried in hot ash and embers until cooked, then crumbled and dressed with ghee. This home version bakes the loaf in the oven or a covered cast-iron pot, uses a measured amount of ghee and a little honey instead of sugar.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 portion of crumbled bread with ghee (about 85 g)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Budget",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 221,
+   "protein_g": 6.6,
+   "carbohydrates_g": 40.1,
+   "fat_g": 5.2,
+   "cholesterol_mg": 12,
+   "sodium_mg": 195,
+   "potassium_mg": 184,
+   "phosphorus_mg": 179,
+   "calcium_mg": 17,
+   "fiber_g": 5.4,
+   "added_sugar_g": 4.1
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "300 g whole-wheat flour"
+   ],
+   [
+    null,
+    "about 200 ml warm water"
+   ],
+   [
+    null,
+    "½ tsp salt (3 g)"
+   ],
+   [
+    null,
+    "5 tsp ghee (24 g)"
+   ],
+   [
+    null,
+    "1½ tbsp honey (30 g) to serve, optional"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix the flour with the salt, add the water little by little and knead for 8–10 minutes to a firm dough that does not stick to your hands; cover and rest for 15 minutes."
+   ],
+   [
+    null,
+    "Heat the oven to 230 °C with a cast-iron tray or baking stone inside for at least 20 minutes."
+   ],
+   [
+    null,
+    "Press the dough by hand into a thick round about 22–25 cm wide and 2 cm thick and prick it with a fork."
+   ],
+   [
+    null,
+    "Put the round on the hot tray and bake for 35–40 minutes, turning it halfway, until browned on both sides and hollow-sounding when tapped. (Outdoors it is traditionally buried in ash and embers for about an hour, then brushed clean.)"
+   ],
+   [
+    null,
+    "Brush off any burnt crust, then crumble the hot bread by hand or cut it into small pieces in the serving dish."
+   ],
+   [
+    null,
+    "Melt the ghee and pour it over the crumbs while tossing, drizzle with honey if you like and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat flour, limited salt (½ g per portion), far less ghee than usual (under 1 tsp per portion), and a little optional honey instead of sugar."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour has more phosphorus and potassium than white flour; you can swap half of it for white flour and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 40 g carbohydrate; skip the honey and serve it with low-fat laban or a boiled egg and salad."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Al Watan (Saudi newspaper), Al Khaleej magazine"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": "qurs-mulla"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mubassal-hasawi",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-11109-1.html",
+  "lang": "ar",
+  "title": "المبصل الحساوي",
+  "description": "المبصل (ويُسمّى أيضاً المدبس والمراصيع) خبز شعبي من الأحساء في المنطقة الشرقية: عجينة لينة من دقيق البر والبصل الأخضر والبهارات تُصبّ أقراصاً في المقلاة وتُسقى بدبس التمر. هنا تُطهى الأقراص بقليل من زيت الزيتون في مقلاة غير لاصقة، مع ملح قليل وكمية دبس محدودة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "قرصان مع الدبس (حوالي 150 غ)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 348,
+   "protein_g": 11.1,
+   "carbohydrates_g": 64.2,
+   "fat_g": 7.8,
+   "cholesterol_mg": 46,
+   "sodium_mg": 218,
+   "potassium_mg": 489,
+   "phosphorus_mg": 283,
+   "calcium_mg": 83,
+   "fiber_g": 9.5,
+   "added_sugar_g": 6.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "240 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "100 غ بصل أخضر مقطع ناعماً"
+   ],
+   [
+    "للعجينة",
+    "1 بصلة صغيرة مفرومة ناعماً (70 غ)"
+   ],
+   [
+    "للعجينة",
+    "6 حبات تمر منزوعة النوى (50 غ) منقوعة في 100 مل ماء حار"
+   ],
+   [
+    "للعجينة",
+    "1 بيضة (50 غ)"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة صغيرة بهارات مشكلة (بزار) و½ ملعقة صغيرة قرفة مطحونة"
+   ],
+   [
+    "للعجينة",
+    "رشة زعفران منقوعة في ملعقة كبيرة ماء"
+   ],
+   [
+    "للعجينة",
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ],
+   [
+    "للعجينة",
+    "حوالي 200 مل ماء للعجن"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة سمسم (10 غ)"
+   ],
+   [
+    "للطهي والتقديم",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للطهي والتقديم",
+    "2 ملعقة كبيرة دبس تمر (40 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اهرس التمر المنقوع بالشوكة مع ماء النقع حتى يصبح عجينة ناعمة."
+   ],
+   [
+    null,
+    "في وعاء كبير اخلط الدقيق والبهارات والقرفة والملح والسمسم، ثم أضف البصل الأخضر والبصل والتمر المهروس والبيضة والزعفران."
+   ],
+   [
+    null,
+    "أضف الماء تدريجياً مع الخلط حتى تحصل على عجينة لينة سميكة قريبة من قوام عجينة اللقيمات، ثم اتركها ترتاح 10 دقائق."
+   ],
+   [
+    null,
+    "سخّن مقلاة غير لاصقة على نار متوسطة وادهنها بقليل من الزيت بالفرشاة."
+   ],
+   [
+    null,
+    "صُبّ مغرفة صغيرة من العجينة وافردها بظهر الملعقة قرصاً بقطر 12 سم تقريباً، واتركها 2–3 دقائق حتى تتحمر من الأسفل ثم اقلبها لتتحمر من الجهة الثانية. كرّر مع باقي العجينة لتحصل على 8 أقراص، وادهن المقلاة بالفرشاة بين كل دفعة."
+   ],
+   [
+    null,
+    "قطّع الأقراص حسب الرغبة ورشّ عليها الدبس وقدّمها ساخنة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر كامل، طهي بفرشاة زيت زيتون بدل الزيت الغزير، ملح قليل بدون بهارات مملحة، ونصف كمية الدبس المعتادة تقريباً."
+   ],
+   [
+    null,
+    "لمرضى الكلى: التمر والدبس ودقيق البر فيها بوتاسيوم وفوسفور؛ يمكن الاكتفاء بقرص واحد واستبدال نصف الدقيق بدقيق أبيض وتقليل الدبس."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة (قرصان) فيها حوالي 64 غ كربوهيدرات؛ تناول قرصاً واحداً مع بيضة أو لبنة قليلة الدسم وخيار، واستغنِ عن الدبس أو اكتفِ بملعقة صغيرة."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mubassal-hasawi-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-11109-1.html",
+  "lang": "en",
+  "title": "Hasawi Mubassal Bread",
+  "description": "Mubassal (also called mudabbas or marasee') is a traditional bread from Al-Ahsa in the Eastern Province: a soft batter of whole-wheat flour, spring onion and spices, cooked in rounds in a pan and drizzled with date syrup. Here the rounds are cooked in a non-stick pan with a brush of olive oil, with little salt and a measured amount of date syrup.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "2 rounds with date syrup (about 150 g)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 348,
+   "protein_g": 11.1,
+   "carbohydrates_g": 64.2,
+   "fat_g": 7.8,
+   "cholesterol_mg": 46,
+   "sodium_mg": 218,
+   "potassium_mg": 489,
+   "phosphorus_mg": 283,
+   "calcium_mg": 83,
+   "fiber_g": 9.5,
+   "added_sugar_g": 6.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the batter",
+    "240 g whole-wheat flour"
+   ],
+   [
+    "For the batter",
+    "100 g spring onions, finely sliced"
+   ],
+   [
+    "For the batter",
+    "1 small onion, finely chopped (70 g)"
+   ],
+   [
+    "For the batter",
+    "6 pitted dates (50 g), soaked in 100 ml hot water"
+   ],
+   [
+    "For the batter",
+    "1 egg (50 g)"
+   ],
+   [
+    "For the batter",
+    "1 tsp mixed spices (bezar) and ½ tsp ground cinnamon"
+   ],
+   [
+    "For the batter",
+    "a pinch of saffron soaked in 1 tbsp water"
+   ],
+   [
+    "For the batter",
+    "⅓ tsp salt (2 g)"
+   ],
+   [
+    "For the batter",
+    "about 200 ml water for mixing"
+   ],
+   [
+    "For the batter",
+    "2 tsp sesame seeds (10 g)"
+   ],
+   [
+    "For cooking and serving",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For cooking and serving",
+    "2 tbsp date syrup (40 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mash the soaked dates with a fork in their soaking water to a smooth paste."
+   ],
+   [
+    null,
+    "In a large bowl mix the flour, spices, cinnamon, salt and sesame, then add the spring onion, onion, mashed dates, egg and saffron."
+   ],
+   [
+    null,
+    "Add the water gradually while mixing to a thick, soft batter similar to luqaimat batter, then let it rest for 10 minutes."
+   ],
+   [
+    null,
+    "Heat a non-stick pan over medium heat and brush it lightly with oil."
+   ],
+   [
+    null,
+    "Pour in a small ladle of batter and spread it with the back of the spoon into a round about 12 cm wide; cook for 2–3 minutes until browned underneath, then flip and brown the other side. Repeat with the rest of the batter to make 8 rounds, brushing the pan with oil between batches."
+   ],
+   [
+    null,
+    "Cut the rounds as you like, drizzle with the date syrup and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat flour, a brush of olive oil instead of plenty of oil, little salt and no salted seasoning mixes, and about half the usual date syrup."
+   ],
+   [
+    null,
+    "Kidney tip: dates, date syrup and whole-wheat flour contain potassium and phosphorus; you can eat one round, swap half the flour for white flour and use less syrup."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion (2 rounds) has about 64 g carbohydrate; have one round with an egg or low-fat labneh and cucumber, and skip the syrup or use just 1 tsp."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "translation_of": "mubassal-hasawi"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "muhalla",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14351-1.html",
+  "lang": "ar",
+  "title": "المحلى",
+  "description": "المحلى أو عصيدة التمر حلى شتوي نجدي يُطبخ فيه تمر الخلاص المذاب مع دقيق البر على نار هادئة مدة طويلة، ويُقدّم بالسمن والفلفل الأسود مع القهوة. في هذه النسخة نسبة الدقيق أعلى والتمر أقل، والزبدة الكثيرة استُبدلت بقليل من السمن، والحصة صغيرة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "طبق صغير (حوالي 120 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Budget",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 210,
+   "protein_g": 3.5,
+   "carbohydrates_g": 46.3,
+   "fat_g": 3.1,
+   "cholesterol_mg": 8,
+   "sodium_mg": 50,
+   "potassium_mg": 355,
+   "phosphorus_mg": 94,
+   "calcium_mg": 24,
+   "fiber_g": 5.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "350 غ تمر خلاص منزوع النوى"
+   ],
+   [
+    null,
+    "1.2 لتر ماء"
+   ],
+   [
+    null,
+    "150 غ دقيق بر (قمح كامل) منخول"
+   ],
+   [
+    null,
+    "4 ملاعق صغيرة سمن بلدي (20 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة فلفل أسود مطحون"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة قرفة مطحونة"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة ليمون أسود (لومي) مطحون"
+   ],
+   [
+    null,
+    "رشة ملح (1 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "انقع التمر في 500 مل من الماء المغلي 10 دقائق، ثم اخلطه في الخلاط مع باقي الماء حتى يصبح سائلاً ناعماً."
+   ],
+   [
+    null,
+    "اسكب خليط التمر في قدر ثقيل القاعدة وأضف الدقيق تدريجياً مع الخفق بمضرب يدوي حتى لا يتكتل، ثم أضف الملح ونصف الفلفل والقرفة."
+   ],
+   [
+    null,
+    "ضع القدر على نار متوسطة وحرّك باستمرار 15–20 دقيقة حتى يغلي الخليط ويثقل."
+   ],
+   [
+    null,
+    "أضف نصف السمن، وغطِّ القدر واتركه على نار هادئة جداً ساعة إلى ساعة وربع مع التحريك كل 10–15 دقيقة حتى يصبح متماسكاً ولامعاً ولونه غامقاً."
+   ],
+   [
+    null,
+    "اسكب المحلى في صحن التقديم، وذوّب باقي السمن مع الليمون الأسود وباقي الفلفل والقرفة واسكبه على الوجه، وقدّمه دافئاً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: تمر أقل ونسبة دقيق بر كامل أعلى، بدون سكر مضاف، سمن أقل بكثير من الزبدة المعتادة، وحصة صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: التمر غني بالبوتاسيوم؛ التزم بنصف حصة (60 غ) إن كان البوتاسيوم مقيداً عندك، واستشر أخصائي التغذية."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 46 غ كربوهيدرات من سكر التمر؛ اعتبرها جزءاً من وجبتك لا إضافة لها، ويفضّل تناول نصف حصة بعد وجبة فيها بروتين وخضار."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موقع قصيمي نت، صحيفة البلاد"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT1H45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "muhalla-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14351-1.html",
+  "lang": "en",
+  "title": "Muhalla (Date Sweet)",
+  "description": "Muhalla, or date aseeda, is a Najdi winter sweet in which melted khalas dates are slowly cooked with whole-wheat flour, then served with ghee and black pepper alongside Arabic coffee. This version uses a higher share of flour and fewer dates, swaps the large amount of butter for a little ghee, and keeps the portion small.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "1 small bowl (about 120 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Budget",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 210,
+   "protein_g": 3.5,
+   "carbohydrates_g": 46.3,
+   "fat_g": 3.1,
+   "cholesterol_mg": 8,
+   "sodium_mg": 50,
+   "potassium_mg": 355,
+   "phosphorus_mg": 94,
+   "calcium_mg": 24,
+   "fiber_g": 5.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "350 g pitted khalas dates"
+   ],
+   [
+    null,
+    "1.2 l water"
+   ],
+   [
+    null,
+    "150 g whole-wheat flour, sifted"
+   ],
+   [
+    null,
+    "4 tsp ghee (20 g)"
+   ],
+   [
+    null,
+    "1 tsp ground black pepper"
+   ],
+   [
+    null,
+    "1 tsp ground cinnamon"
+   ],
+   [
+    null,
+    "½ tsp ground black lime (loomi)"
+   ],
+   [
+    null,
+    "a pinch of salt (1 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Soak the dates in 500 ml of boiling water for 10 minutes, then blend them with the rest of the water until smooth and liquid."
+   ],
+   [
+    null,
+    "Pour the date mixture into a heavy pot and add the flour gradually while whisking so no lumps form, then add the salt and half the pepper and cinnamon."
+   ],
+   [
+    null,
+    "Cook over medium heat, stirring constantly, for 15–20 minutes until it boils and thickens."
+   ],
+   [
+    null,
+    "Add half the ghee, cover and leave on very low heat for 1 hour to 1 hour 15 minutes, stirring every 10–15 minutes, until thick, glossy and dark."
+   ],
+   [
+    null,
+    "Spoon the muhalla into a serving dish; melt the remaining ghee with the black lime and the rest of the pepper and cinnamon, pour it over the top and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: fewer dates and a higher share of whole-wheat flour, no added sugar, much less fat than the usual butter, and a small portion."
+   ],
+   [
+    null,
+    "Kidney tip: dates are rich in potassium; keep to half a portion (60 g) if your potassium is restricted, and ask your dietitian."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 46 g carbohydrate from date sugar; count it as part of your meal, not an extra, and preferably have half a portion after a meal with protein and vegetables."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Qassimy.com, Al Bilad newspaper"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT1H45M",
+  "translation_of": "muhalla"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "maasoub",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-7085-1.html",
+  "lang": "ar",
+  "title": "المعصوب",
+  "description": "المعصوب فطور حجازي شهير من مكة وجدة والمدينة: خبز بر مفروم يُقلّب مع الموز والسمن ويُزيّن بالقشطة والعسل. في هذه النسخة يُصنع الخبز من دقيق البر الكامل، ويُستخدم سمن قليل وقشطة خفيفة وتمر وموز للتحلية مع ملعقة عسل صغيرة فقط.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 200 غ)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 346,
+   "protein_g": 8.2,
+   "carbohydrates_g": 65.3,
+   "fat_g": 8.4,
+   "cholesterol_mg": 22,
+   "sodium_mg": 103,
+   "potassium_mg": 535,
+   "phosphorus_mg": 212,
+   "calcium_mg": 32,
+   "fiber_g": 8.3,
+   "added_sugar_g": 4.1
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "لخبز البر",
+    "200 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "لخبز البر",
+    "1 ملعقة صغيرة خميرة جافة (3 غ)"
+   ],
+   [
+    "لخبز البر",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "لخبز البر",
+    "حوالي 140 مل ماء دافئ"
+   ],
+   [
+    "للمعصوب",
+    "3 ملاعق صغيرة سمن بلدي (15 غ)"
+   ],
+   [
+    "للمعصوب",
+    "3 موزات ناضجة مقشرة (300 غ)"
+   ],
+   [
+    "للمعصوب",
+    "4 حبات تمر أو رطب منزوعة النوى (40 غ)"
+   ],
+   [
+    "للمعصوب",
+    "رشة هيل مطحون"
+   ],
+   [
+    "للتزيين",
+    "2 ملعقة كبيرة قشطة خفيفة (40 غ)"
+   ],
+   [
+    "للتزيين",
+    "1 ملعقة كبيرة عسل (20 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اعجن الدقيق مع الخميرة والملح والماء حتى تحصل على عجينة لينة، وغطّها واتركها تتخمر 30 دقيقة."
+   ],
+   [
+    null,
+    "قسّم العجينة إلى 3 كرات وافرد كل كرة رقيقة، واخبزها في مقلاة غير لاصقة أو على الصاج الساخن بدون زيت دقيقة إلى دقيقتين لكل جهة حتى تنضج وتتبقع."
+   ],
+   [
+    null,
+    "قطّع الخبز وافرمه في محضّرة الطعام حتى يصبح فتاتاً ناعماً."
+   ],
+   [
+    null,
+    "ذوّب السمن في قدر على نار هادئة، وأضف التمر واهرسه حتى يذوب، ثم أضف الخبز المفروم وقلّبه 5 دقائق."
+   ],
+   [
+    null,
+    "أضف الموز المقطع مع الهيل واهرسه بالملعقة مع التقليب 3–5 دقائق حتى يتجانس الخليط ويصبح طرياً."
+   ],
+   [
+    null,
+    "اسكب المعصوب في أطباق التقديم، وزيّن كل طبق بملعقة صغيرة من القشطة وقليل من العسل وقدّمه دافئاً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: خبز بر كامل منزلي، سمن أقل بكثير، قشطة خفيفة بكمية صغيرة، والتحلية من الموز والتمر مع ملعقة عسل فقط للطبق كله."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الموز والتمر غنيان بالبوتاسيوم ودقيق البر فيه فوسفور؛ استخدم موزتين بدل ثلاث مع تفاحة مبشورة مطبوخة، وتناول نصف حصة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 65 غ كربوهيدرات؛ تناول نصف حصة مع بيضة مسلوقة أو لبن قليل الدسم، واستغنِ عن العسل."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موضوع، خليجي فود"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT20M",
+  "total_time": "PT1H5M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "maasoub-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-7085-1.html",
+  "lang": "en",
+  "title": "Ma'soub",
+  "description": "Ma'soub is a well-known Hijazi breakfast from Makkah, Jeddah and Madinah: chopped wheat bread tossed with banana and ghee and topped with cream and honey. In this version the bread is made from whole-wheat flour, with little ghee and light cream, and bananas and dates provide most of the sweetness with only a spoon of honey.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 200 g)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 346,
+   "protein_g": 8.2,
+   "carbohydrates_g": 65.3,
+   "fat_g": 8.4,
+   "cholesterol_mg": 22,
+   "sodium_mg": 103,
+   "potassium_mg": 535,
+   "phosphorus_mg": 212,
+   "calcium_mg": 32,
+   "fiber_g": 8.3,
+   "added_sugar_g": 4.1
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the wheat bread",
+    "200 g whole-wheat flour"
+   ],
+   [
+    "For the wheat bread",
+    "1 tsp dry yeast (3 g)"
+   ],
+   [
+    "For the wheat bread",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "For the wheat bread",
+    "about 140 ml warm water"
+   ],
+   [
+    "For the ma'soub",
+    "3 tsp ghee (15 g)"
+   ],
+   [
+    "For the ma'soub",
+    "3 ripe bananas, peeled (300 g)"
+   ],
+   [
+    "For the ma'soub",
+    "4 pitted dates or rutab (40 g)"
+   ],
+   [
+    "For the ma'soub",
+    "a pinch of ground cardamom"
+   ],
+   [
+    "To garnish",
+    "2 tbsp light cream (qishta) (40 g)"
+   ],
+   [
+    "To garnish",
+    "1 tbsp honey (20 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Knead the flour with the yeast, salt and water to a soft dough; cover and let it rise for 30 minutes."
+   ],
+   [
+    null,
+    "Divide the dough into 3 balls, roll each one thin and cook in a dry non-stick pan or on a hot saj for 1–2 minutes per side until cooked and spotted."
+   ],
+   [
+    null,
+    "Cut up the bread and pulse it in a food processor to fine crumbs."
+   ],
+   [
+    null,
+    "Melt the ghee in a pot over low heat, add the dates and mash until they melt, then add the bread crumbs and toss for 5 minutes."
+   ],
+   [
+    null,
+    "Add the sliced bananas and cardamom and mash with the spoon while stirring for 3–5 minutes until the mixture is even and soft."
+   ],
+   [
+    null,
+    "Spoon the ma'soub into serving plates and top each with a teaspoon of cream and a little honey; serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: home-made whole-wheat bread, much less ghee, a small amount of light cream, and sweetness mainly from bananas and dates with only one spoon of honey for the whole dish."
+   ],
+   [
+    null,
+    "Kidney tip: bananas and dates are rich in potassium and whole-wheat flour contains phosphorus; use 2 bananas instead of 3 plus a cooked grated apple, and have half a portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 65 g carbohydrate; have half a portion with a boiled egg or low-fat laban and skip the honey."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Mawdoo3, Khaleeji Food"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT20M",
+  "total_time": "PT1H5M",
+  "translation_of": "maasoub"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hunaini",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10287-1.html",
+  "lang": "ar",
+  "title": "الحنيني",
+  "description": "الحنيني حلى شتوي من نجد والقصيم يُصنع من خبز البر المفروم مع التمر ويُسخّن بالزبدة أو السمن مع الهيل. في هذه النسخة يُخبز رقيق البر بالحليب قليل الدسم في مقلاة بدون دهن، والزبدة الكثيرة استُبدلت بقليل من السمن، بدون سكر مضاف.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "طبق صغير (حوالي 110 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 247,
+   "protein_g": 5.4,
+   "carbohydrates_g": 51.0,
+   "fat_g": 4.4,
+   "cholesterol_mg": 12,
+   "sodium_mg": 51,
+   "potassium_mg": 414,
+   "phosphorus_mg": 154,
+   "calcium_mg": 86,
+   "fiber_g": 6.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للخبز",
+    "150 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للخبز",
+    "200 مل حليب قليل الدسم"
+   ],
+   [
+    "للخبز",
+    "½ ملعقة صغيرة بيكنج باودر (2 غ)"
+   ],
+   [
+    "للحنيني",
+    "250 غ تمر منزوع النوى (السكري أو الخلاص)"
+   ],
+   [
+    "للحنيني",
+    "4 ملاعق صغيرة سمن بلدي (20 غ)"
+   ],
+   [
+    "للحنيني",
+    "½ ملعقة صغيرة هيل مطحون و½ ملعقة صغيرة قرفة"
+   ],
+   [
+    "للحنيني",
+    "رشة زعفران ورشة فلفل أسود"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخفق الدقيق مع الحليب والبيكنج باودر حتى تحصل على عجينة سائلة ناعمة مثل عجينة البان كيك."
+   ],
+   [
+    null,
+    "سخّن مقلاة غير لاصقة على نار متوسطة واسكب نصف العجينة وافردها رقيقة، واتركها 4–5 دقائق لكل جهة حتى تنضج وتتحمر. كرّر مع باقي العجينة."
+   ],
+   [
+    null,
+    "إذا كان التمر قاسياً فانقعه في قليل من الماء الحار 5 دقائق وصفّه."
+   ],
+   [
+    null,
+    "قطّع الخبز وافرمه مع التمر بالتناوب في فرامة اللحم أو محضّرة الطعام حتى يتجانسا."
+   ],
+   [
+    null,
+    "ذوّب السمن في مقلاة على نار هادئة، وأضف خليط الحنيني والهيل والقرفة والزعفران والفلفل وقلّبه 5 دقائق حتى يسخن ويتماسك."
+   ],
+   [
+    null,
+    "قدّمه دافئاً في صحون صغيرة مع القهوة العربية."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: خبز بر كامل بالحليب قليل الدسم مطبوخ بدون دهن، سمن قليل بدل أصابع الزبدة، بدون سكر مضاف، وحصة صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: التمر غني بالبوتاسيوم، والحليب ودقيق البر فيهما فوسفور؛ يمكن استخدام الماء بدل الحليب وتناول نصف حصة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 51 غ كربوهيدرات؛ تناول نصف حصة بعد وجبة فيها بروتين وخضار، ولا تضف أي عسل أو سكر."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، مطبخ سيدتي، ويب طب"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hunaini-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10287-1.html",
+  "lang": "en",
+  "title": "Hunaini",
+  "description": "Hunaini is a winter sweet from Najd and Qassim made of minced wheat bread and dates, warmed with butter or ghee and cardamom. In this version a thin whole-wheat bread made with low-fat milk is cooked in a dry pan, the large amount of butter is replaced by a little ghee, and there is no added sugar.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 small bowl (about 110 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 247,
+   "protein_g": 5.4,
+   "carbohydrates_g": 51.0,
+   "fat_g": 4.4,
+   "cholesterol_mg": 12,
+   "sodium_mg": 51,
+   "potassium_mg": 414,
+   "phosphorus_mg": 154,
+   "calcium_mg": 86,
+   "fiber_g": 6.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the bread",
+    "150 g whole-wheat flour"
+   ],
+   [
+    "For the bread",
+    "200 ml low-fat milk"
+   ],
+   [
+    "For the bread",
+    "½ tsp baking powder (2 g)"
+   ],
+   [
+    "For the hunaini",
+    "250 g pitted dates (sukkari or khalas)"
+   ],
+   [
+    "For the hunaini",
+    "4 tsp ghee (20 g)"
+   ],
+   [
+    "For the hunaini",
+    "½ tsp ground cardamom and ½ tsp cinnamon"
+   ],
+   [
+    "For the hunaini",
+    "a pinch of saffron and a pinch of black pepper"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Whisk the flour with the milk and baking powder to a smooth, pourable batter like pancake batter."
+   ],
+   [
+    null,
+    "Heat a non-stick pan over medium heat, pour in half the batter and spread it thin; cook for 4–5 minutes per side until cooked and browned. Repeat with the rest."
+   ],
+   [
+    null,
+    "If the dates are firm, soak them in a little hot water for 5 minutes and drain."
+   ],
+   [
+    null,
+    "Cut up the bread and mince it with the dates, alternating pieces, in a meat grinder or food processor until evenly mixed."
+   ],
+   [
+    null,
+    "Melt the ghee in a pan over low heat, add the hunaini mixture with the cardamom, cinnamon, saffron and pepper and stir for 5 minutes until hot and cohesive."
+   ],
+   [
+    null,
+    "Serve warm in small bowls with Arabic coffee."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat bread made with low-fat milk and cooked without fat, a little ghee instead of sticks of butter, no added sugar, and a small portion."
+   ],
+   [
+    null,
+    "Kidney tip: dates are rich in potassium, and milk and whole-wheat flour contain phosphorus; you can use water instead of milk and have half a portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 51 g carbohydrate; have half a portion after a meal with protein and vegetables, and do not add honey or sugar."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, WebTeb"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "translation_of": "hunaini"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "halawa-labaniya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13740-1.html",
+  "lang": "ar",
+  "title": "حلاوة لبنية حجازية",
+  "description": "اللبنية حلوى حجازية طرية مشهورة في مكة والمدينة تُصنع من الحليب البودرة والقطر والسمن والهيل وتُقطّع مربعات. في هذه النسخة استُخدم حليب بودرة خالي الدسم مع قليل من السمن، وخُفّض السكر إلى أقل من نصف الكمية المعتادة، والقطع صغيرة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "قطعة (حوالي 28 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 108,
+   "protein_g": 6.2,
+   "carbohydrates_g": 15.1,
+   "fat_g": 2.6,
+   "cholesterol_mg": 10,
+   "sodium_mg": 89,
+   "potassium_mg": 308,
+   "phosphorus_mg": 165,
+   "calcium_mg": 210,
+   "fiber_g": 0.1,
+   "added_sugar_g": 6.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 غ حليب بودرة خالي الدسم"
+   ],
+   [
+    null,
+    "75 غ سكر"
+   ],
+   [
+    null,
+    "100 مل ماء"
+   ],
+   [
+    null,
+    "5 ملاعق صغيرة سمن بلدي (25 غ)"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة هيل مطحون ومنخول"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة ماء ورد"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة فستق حلبي مجروش (10 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ادهن صينية صغيرة (20×15 سم) بطبقة رقيقة جداً من السمن أو بطّنها بورق الزبدة."
+   ],
+   [
+    null,
+    "ضع السكر والماء في قدر صغير، وحرّك حتى يذوب السكر ثم اتركه يغلي على نار عالية 5–6 دقائق بدون تحريك حتى يثقل القطر قليلاً."
+   ],
+   [
+    null,
+    "أطفئ النار وأضف السمن والهيل وماء الورد وحرّك."
+   ],
+   [
+    null,
+    "أضف نصف الحليب البودرة وحرّك بسرعة بملعقة خشبية، ثم أضف الباقي واستمر بالتحريك حتى تتكون عجينة لينة متماسكة. (إذا بقيت طرية جداً أعدها على نار هادئة دقيقة مع التحريك.)"
+   ],
+   [
+    null,
+    "افرد العجينة في الصينية بسماكة 1.5 سم ورشّ الفستق على الوجه واضغطه قليلاً."
+   ],
+   [
+    null,
+    "اتركها تبرد تماماً ثم ضعها في الثلاجة ساعتين، وقطّعها إلى 12 قطعة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: حليب بودرة خالي الدسم بدل كامل الدسم، سكر أقل من نصف الكمية المعتادة، وسمن قليل؛ القوام يبقى طرياً مثل اللبنية التقليدية لكنه أخف حلاوة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الحليب البودرة غني جداً بالفوسفور والبوتاسيوم؛ قطعة واحدة في المناسبات فقط، ويفضّل لمرضى الغسيل أخذها مع رابط الفوسفات حسب إرشاد الطبيب."
+   ],
+   [
+    null,
+    "لمرضى السكري: القطعة فيها حوالي 15 غ كربوهيدرات (6 غ منها سكر مضاف)؛ اكتفِ بقطعة واحدة مع القهوة العربية بدون حلويات أخرى."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية، ويب طب"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT2H25M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "halawa-labaniya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13740-1.html",
+  "lang": "en",
+  "title": "Hijazi Halawa Labaniya",
+  "description": "Labaniya is a soft Hijazi milk sweet popular in Makkah and Madinah, made from milk powder, sugar syrup, ghee and cardamom and cut into squares. This version uses skimmed milk powder with a little ghee, cuts the sugar to less than half the usual amount, and keeps the pieces small.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "12",
+  "serving_size": "1 piece (about 28 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Refrigerator"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 108,
+   "protein_g": 6.2,
+   "carbohydrates_g": 15.1,
+   "fat_g": 2.6,
+   "cholesterol_mg": 10,
+   "sodium_mg": 89,
+   "potassium_mg": 308,
+   "phosphorus_mg": 165,
+   "calcium_mg": 210,
+   "fiber_g": 0.1,
+   "added_sugar_g": 6.2
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 g skimmed milk powder"
+   ],
+   [
+    null,
+    "75 g sugar"
+   ],
+   [
+    null,
+    "100 ml water"
+   ],
+   [
+    null,
+    "5 tsp ghee (25 g)"
+   ],
+   [
+    null,
+    "½ tsp ground cardamom, sifted"
+   ],
+   [
+    null,
+    "1 tbsp rose water"
+   ],
+   [
+    null,
+    "1 tbsp crushed pistachios (10 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Brush a small tray (20 × 15 cm) very lightly with ghee or line it with baking paper."
+   ],
+   [
+    null,
+    "Put the sugar and water in a small pot and stir until the sugar dissolves, then boil over high heat for 5–6 minutes without stirring until the syrup thickens slightly."
+   ],
+   [
+    null,
+    "Turn off the heat and stir in the ghee, cardamom and rose water."
+   ],
+   [
+    null,
+    "Add half the milk powder and stir quickly with a wooden spoon, then add the rest and keep stirring until a soft, cohesive dough forms. (If it stays too soft, return it to low heat for a minute while stirring.)"
+   ],
+   [
+    null,
+    "Press the dough into the tray 1.5 cm thick, sprinkle the pistachios on top and press them in lightly."
+   ],
+   [
+    null,
+    "Let it cool completely, then chill for 2 hours and cut into 12 pieces."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: skimmed instead of full-cream milk powder, less than half the usual sugar, and a little ghee; it stays soft like traditional labaniya but is less sweet."
+   ],
+   [
+    null,
+    "Kidney tip: milk powder is very high in phosphorus and potassium; have one piece on special occasions only, and on dialysis take it with your phosphate binder as your doctor advises."
+   ],
+   [
+    null,
+    "Diabetes tip: one piece has about 15 g carbohydrate (6 g of it added sugar); stick to one piece with Arabic coffee and no other sweets."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia, WebTeb"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT2H25M",
+  "translation_of": "halawa-labaniya"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shaieriya-halwa",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13041-1.html",
+  "lang": "ar",
+  "title": "الشعيرية الحلوة",
+  "description": "الشعيرية الحلوة طبق سعودي وخليجي شائع على الفطور وفي العيد: شعيرية محمّصة بالسمن ثم مطهوة بالماء والسكر مع الهيل والزعفران. هنا قُلّل السمن والسكر إلى أقل من النصف، بدون ملح، مع الاعتماد على الهيل والزعفران وماء الورد للنكهة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق صغير (حوالي 150 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 258,
+   "protein_g": 6.5,
+   "carbohydrates_g": 47.3,
+   "fat_g": 4.5,
+   "cholesterol_mg": 11,
+   "sodium_mg": 3,
+   "potassium_mg": 112,
+   "phosphorus_mg": 94,
+   "calcium_mg": 11,
+   "fiber_g": 1.6,
+   "added_sugar_g": 10.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 غ شعيرية رفيعة (ويفضّل شعيرية القمح الكامل إن توفرت)"
+   ],
+   [
+    null,
+    "3 ملاعق صغيرة سمن بلدي (15 غ)"
+   ],
+   [
+    null,
+    "3 ملاعق كبيرة سكر (40 غ)"
+   ],
+   [
+    null,
+    "400 مل ماء ساخن"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة هيل مطحون"
+   ],
+   [
+    null,
+    "رشة زعفران منقوعة في ملعقة كبيرة ماء ورد"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ذوّب السمن في قدر واسع على نار متوسطة، وأضف الشعيرية المكسّرة وقلّبها باستمرار 4–5 دقائق حتى يصبح لونها ذهبياً متساوياً دون أن تسود."
+   ],
+   [
+    null,
+    "أضف السكر والهيل وقلّب دقيقة."
+   ],
+   [
+    null,
+    "أضف الماء الساخن والزعفران بماء الورد وحرّك، ثم غطِّ القدر واخفض النار واتركها 8–10 دقائق حتى تتشرب الماء وتنضج."
+   ],
+   [
+    null,
+    "قلّبها بالشوكة لتفكيك الخيوط وقدّمها دافئة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: سمن أقل وسكر أقل من نصف المعتاد، بدون ملح، والنكهة من الهيل والزعفران وماء الورد."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطبق منخفض البوتاسيوم والصوديوم والفوسفور نسبياً، فهو خيار حلو مناسب بحصة واحدة؛ تجنّب إضافة المكسرات أو الحليب."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 47 غ كربوهيدرات؛ تناول نصف حصة مع بيضة مسلوقة أو أومليت خضار (على طريقة البلاليط) لإبطاء ارتفاع السكر، وفضّل شعيرية القمح الكامل."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد السعودية، ويب طب"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shaieriya-halwa-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13041-1.html",
+  "lang": "en",
+  "title": "Sweet Vermicelli",
+  "description": "Sweet vermicelli is a common Saudi and Gulf breakfast and Eid dish: vermicelli toasted in ghee, then cooked with water and sugar, cardamom and saffron. Here the ghee and sugar are cut to less than half, there is no salt, and cardamom, saffron and rose water carry the flavour.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 small bowl (about 150 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 258,
+   "protein_g": 6.5,
+   "carbohydrates_g": 47.3,
+   "fat_g": 4.5,
+   "cholesterol_mg": 11,
+   "sodium_mg": 3,
+   "potassium_mg": 112,
+   "phosphorus_mg": 94,
+   "calcium_mg": 11,
+   "fiber_g": 1.6,
+   "added_sugar_g": 10.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 g fine vermicelli (whole-wheat if available)"
+   ],
+   [
+    null,
+    "3 tsp ghee (15 g)"
+   ],
+   [
+    null,
+    "3 tbsp sugar (40 g)"
+   ],
+   [
+    null,
+    "400 ml hot water"
+   ],
+   [
+    null,
+    "½ tsp ground cardamom"
+   ],
+   [
+    null,
+    "a pinch of saffron soaked in 1 tbsp rose water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Melt the ghee in a wide pot over medium heat, add the broken vermicelli and stir constantly for 4–5 minutes until evenly golden but not dark."
+   ],
+   [
+    null,
+    "Add the sugar and cardamom and stir for 1 minute."
+   ],
+   [
+    null,
+    "Add the hot water and the saffron in rose water and stir, then cover, lower the heat and cook for 8–10 minutes until the water is absorbed and the vermicelli is tender."
+   ],
+   [
+    null,
+    "Fluff with a fork to separate the strands and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: less ghee and less than half the usual sugar, no salt, and flavour from cardamom, saffron and rose water."
+   ],
+   [
+    null,
+    "Kidney tip: this dish is relatively low in potassium, sodium and phosphorus, so it is a suitable sweet in one portion; avoid adding nuts or milk."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 47 g carbohydrate; have half a portion with a boiled egg or a vegetable omelette (balaleet style) to slow the rise in blood sugar, and choose whole-wheat vermicelli."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad Saudi Arabia, WebTeb"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "translation_of": "shaieriya-halwa"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "luqaimat-qar",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4757-1.html",
+  "lang": "ar",
+  "title": "لقيمات القرع",
+  "description": "لقيمات القرع نسخة خليجية وسعودية من اللقيمات تُضاف فيها هريسة القرع والزبادي إلى العجينة مع الزعفران والهيل، وتُقلى عادة في زيت غزير وتُغمس بالقطر. هنا تُخبز اللقيمات في صينية الكرات (البان كيك الدائري) أو القلاية الهوائية بقليل من زيت الزيتون، ونصف الدقيق بر كامل، ويُستبدل القطر بقليل من دبس التمر.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "6 لقيمات مع الدبس (حوالي 90 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 248,
+   "protein_g": 7.5,
+   "carbohydrates_g": 47.1,
+   "fat_g": 4.3,
+   "cholesterol_mg": 2,
+   "sodium_mg": 87,
+   "potassium_mg": 384,
+   "phosphorus_mg": 173,
+   "calcium_mg": 85,
+   "fiber_g": 4.2,
+   "added_sugar_g": 6.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "250 غ قرع (يقطين) مقشّر ومقطّع"
+   ],
+   [
+    "للعجينة",
+    "170 غ زبادي قليل الدسم"
+   ],
+   [
+    "للعجينة",
+    "حوالي 120 مل ماء دافئ"
+   ],
+   [
+    "للعجينة",
+    "120 غ دقيق أبيض"
+   ],
+   [
+    "للعجينة",
+    "120 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة كبيرة نشا (30 غ)"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة خميرة جافة (7 غ)"
+   ],
+   [
+    "للعجينة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعجينة",
+    "½ ملعقة صغيرة هيل مطحون ورشة زعفران"
+   ],
+   [
+    "للخبز والتقديم",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للخبز والتقديم",
+    "3 ملاعق كبيرة دبس تمر (60 غ)"
+   ],
+   [
+    "للخبز والتقديم",
+    "2 ملعقة صغيرة سمسم محمص (6 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اسلق القرع في قليل من الماء 12–15 دقيقة حتى يطرى، ثم صفّه جيداً واتركه يبرد قليلاً."
+   ],
+   [
+    null,
+    "اخلط القرع مع الزبادي والماء في الخلاط حتى يصبح ناعماً."
+   ],
+   [
+    null,
+    "في وعاء كبير اخلط الدقيقين والنشا والخميرة والملح والهيل والزعفران، ثم أضف خليط القرع وحرّك بقوة بيدك أو بملعقة حتى تتكون عجينة لينة لزجة."
+   ],
+   [
+    null,
+    "غطِّ الوعاء واتركه في مكان دافئ ساعة إلى ساعة ونصف حتى يتضاعف حجم العجينة."
+   ],
+   [
+    null,
+    "سخّن صينية الكرات (البان كيك الدائري/الأبليسكيفر) على نار متوسطة وادهن تجاويفها بقليل من الزيت بالفرشاة، ثم ضع في كل تجويف كرة صغيرة من العجينة بملعقتين مبللتين، وقلّبها حتى تتحمر من كل الجهات وتنضج (4–5 دقائق). أو ضعها في القلاية الهوائية المدهونة بالزيت على 190°م 8–10 دقائق مع التقليب."
+   ],
+   [
+    null,
+    "رتّب اللقيمات في الصحن، واسقها بدبس التمر ورشّ السمسم وقدّمها فوراً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لا قلي غزير (ملعقة زيت زيتون للطبق كله)، نصف الدقيق بر كامل، زبادي قليل الدسم، ودبس تمر قليل بدل القطر."
+   ],
+   [
+    null,
+    "لمرضى الكلى: القرع والدبس والزبادي ودقيق البر فيها بوتاسيوم وفوسفور؛ التزم بـ 6 لقيمات، ويمكن استخدام الدقيق الأبيض كله وتقليل الدبس."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 47 غ كربوهيدرات؛ اكتفِ بـ 3 لقيمات بدون دبس أو مع ملعقة صغيرة، وتناولها مع القهوة العربية بدل الشاي المحلى."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، فتافيت، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT2H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "luqaimat-qar-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4757-1.html",
+  "lang": "en",
+  "title": "Pumpkin Luqaimat",
+  "description": "Pumpkin luqaimat are a Gulf and Saudi take on luqaimat in which pumpkin purée and yoghurt go into the dough with saffron and cardamom; they are usually deep-fried and dipped in sugar syrup. Here they are cooked in an aebleskiver (round pancake) pan or air fryer with a little olive oil, half the flour is whole wheat, and a little date syrup replaces the sugar syrup.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "6 luqaimat with date syrup (about 90 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 248,
+   "protein_g": 7.5,
+   "carbohydrates_g": 47.1,
+   "fat_g": 4.3,
+   "cholesterol_mg": 2,
+   "sodium_mg": 87,
+   "potassium_mg": 384,
+   "phosphorus_mg": 173,
+   "calcium_mg": 85,
+   "fiber_g": 4.2,
+   "added_sugar_g": 6.3
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "250 g pumpkin, peeled and cubed"
+   ],
+   [
+    "For the dough",
+    "170 g low-fat yoghurt"
+   ],
+   [
+    "For the dough",
+    "about 120 ml warm water"
+   ],
+   [
+    "For the dough",
+    "120 g white flour"
+   ],
+   [
+    "For the dough",
+    "120 g whole-wheat flour"
+   ],
+   [
+    "For the dough",
+    "2 tbsp cornflour (30 g)"
+   ],
+   [
+    "For the dough",
+    "2 tsp dry yeast (7 g)"
+   ],
+   [
+    "For the dough",
+    "a pinch of salt (1 g)"
+   ],
+   [
+    "For the dough",
+    "½ tsp ground cardamom and a pinch of saffron"
+   ],
+   [
+    "For cooking and serving",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For cooking and serving",
+    "3 tbsp date syrup (60 g)"
+   ],
+   [
+    "For cooking and serving",
+    "2 tsp toasted sesame seeds (6 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Boil the pumpkin in a little water for 12–15 minutes until soft, then drain well and let it cool slightly."
+   ],
+   [
+    null,
+    "Blend the pumpkin with the yoghurt and water until smooth."
+   ],
+   [
+    null,
+    "In a large bowl mix both flours, the cornflour, yeast, salt, cardamom and saffron, then add the pumpkin mixture and beat hard by hand or with a spoon to a soft, sticky dough."
+   ],
+   [
+    null,
+    "Cover and leave in a warm place for 1 to 1½ hours until doubled."
+   ],
+   [
+    null,
+    "Heat an aebleskiver (round pancake) pan over medium heat, brush the hollows lightly with oil and drop a small ball of dough into each with two wet spoons; turn until browned all over and cooked through (4–5 minutes). Or air-fry in an oiled basket at 190 °C for 8–10 minutes, shaking once."
+   ],
+   [
+    null,
+    "Pile the luqaimat on a plate, drizzle with the date syrup, sprinkle with sesame and serve at once."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: no deep frying (one spoon of olive oil for the whole batch), half whole-wheat flour, low-fat yoghurt, and a little date syrup instead of sugar syrup."
+   ],
+   [
+    null,
+    "Kidney tip: pumpkin, date syrup, yoghurt and whole-wheat flour contain potassium and phosphorus; keep to 6 pieces, and you can use all white flour and less syrup."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 47 g carbohydrate; have 3 pieces with no syrup or just 1 tsp, with Arabic coffee instead of sweet tea."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Fatafeat, Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT2H",
+  "translation_of": "luqaimat-qar"
+ }
+]

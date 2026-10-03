@@ -1,0 +1,80 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 169247,
+   "g": 200,
+   "name": "romaine lettuce"
+  },
+  {
+   "fdc": 168409,
+   "g": 250,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170427,
+   "g": 100,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170108,
+   "g": 100,
+   "name": "red bell pepper"
+  },
+  {
+   "fdc": 169276,
+   "g": 60,
+   "name": "radishes"
+  },
+  {
+   "fdc": 170005,
+   "g": 40,
+   "name": "spring onions"
+  },
+  {
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley"
+  },
+  {
+   "fdc": 173475,
+   "g": 10,
+   "name": "mint"
+  },
+  {
+   "fdc": 174916,
+   "g": 60,
+   "name": "whole-wheat pita"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar"
+  },
+  {
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt"
+  }
+ ]
+}

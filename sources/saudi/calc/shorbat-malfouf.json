@@ -1,0 +1,71 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 169975,
+   "g": 600,
+   "name": "green cabbage"
+  },
+  {
+   "fdc": 171077,
+   "g": 240,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 100,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "fdc": 172233,
+   "g": 15,
+   "name": "fresh dill"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomato"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169655,
+   "g": 3,
+   "name": "sugar pinch",
+   "added_sugar": true
+  },
+  {
+   "fdc": 168936,
+   "g": 12,
+   "name": "flour"
+  },
+  {
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar"
+  },
+  {
+   "fdc": 171413,
+   "g": 10,
+   "name": "olive oil 2 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 170872,
+   "g": 200,
+   "name": "low-fat milk"
+  },
+  {
+   "fdc": 172803,
+   "g": 2,
+   "name": "baking powder"
+  },
+  {
+   "fdc": 171726,
+   "g": 250,
+   "name": "dates, pitted"
+  },
+  {
+   "fdc": 171314,
+   "g": 20,
+   "name": "ghee"
+  }
+ ]
+}

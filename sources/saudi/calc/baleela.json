@@ -1,0 +1,45 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 173756,
+   "g": 200,
+   "name": "dried chickpeas"
+  },
+  {
+   "fdc": 169145,
+   "g": 150,
+   "name": "beetroot, fresh"
+  },
+  {
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil 1 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt"
+  }
+ ]
+}

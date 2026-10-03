@@ -1,0 +1,75 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 600,
+   "name": "lamb leg, lean, raw"
+  },
+  {
+   "fdc": 168877,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 173412,
+   "g": 18,
+   "name": "ghee"
+  },
+  {
+   "fdc": 170000,
+   "g": 330,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 30,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "fdc": 170427,
+   "g": 100,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 169997,
+   "g": 20,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170923,
+   "g": 1.5,
+   "name": "cumin, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 170922,
+   "g": 1.5,
+   "name": "coriander, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "fdc": 170919,
+   "g": 0.5,
+   "name": "cardamom, ground"
+  }
+ ]
+}

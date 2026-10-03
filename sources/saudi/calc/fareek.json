@@ -1,0 +1,45 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 250,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 170877,
+   "g": 15,
+   "name": "skimmed milk powder"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp (foil + onion)"
+  },
+  {
+   "fdc": 171314,
+   "g": 13.5,
+   "name": "ghee 3 tsp"
+  },
+  {
+   "fdc": 171726,
+   "g": 120,
+   "name": "dates, pitted"
+  },
+  {
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  }
+ ]
+}

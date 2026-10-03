@@ -1,0 +1,62 @@
+{
+ "servings": 8,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 90,
+   "name": "white flour"
+  },
+  {
+   "fdc": 170874,
+   "g": 400,
+   "name": "low-fat laban (cultured buttermilk)"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 172804,
+   "g": 4.5,
+   "name": "baking powder 1 tsp"
+  },
+  {
+   "fdc": 169655,
+   "g": 4,
+   "name": "sugar 1 tsp",
+   "added_sugar": true
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil for griddle 1 tsp"
+  },
+  {
+   "fdc": 169640,
+   "g": 60,
+   "name": "honey for topping",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171314,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  }
+ ]
+}

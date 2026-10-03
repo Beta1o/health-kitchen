@@ -5,7 +5,7 @@ Serves the gallery (../gallery) at / and the API under /api. Every request that 
 user data runs in a transaction with hk.user_id / hk.role set, so PostgreSQL row-level
 security limits it to that user's rows (admins see all).
 
-Run:  server/run.sh   (or: uvicorn app:app --host 0.0.0.0 --port 8099 from server/)
+Run:  server/run.sh   (serves the app, accounts and admin on http://localhost:8099)
 Env:  HK_DB_URL (default postgresql://hk_api:hk_api_dev_pw@127.0.0.1:5440/health_kitchen)
 """
 import hashlib
@@ -31,6 +31,10 @@ DB_URL = os.environ.get("HK_DB_URL", "postgresql://hk_api:hk_api_dev_pw@127.0.0.
 SESSION_DAYS = 30
 pool = ConnectionPool(DB_URL, min_size=1, max_size=8, open=True)
 app = FastAPI(title="Health Kitchen API")
+# the app may also be opened from another local port (e.g. a plain file server); allow those pages to call the API
+from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
+app.add_middleware(CORSMiddleware, allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?$",
+                   allow_methods=["*"], allow_headers=["*"])
 
 
 # ---------- passwords and tokens ----------
@@ -255,27 +259,136 @@ def admin_users(user=Depends(admin)):
     return {"users": [{**r, "last_kg": float(r["last_kg"]) if r["last_kg"] is not None else None} for r in rows]}
 
 
-class RoleChange(BaseModel):
-    role: str
-
-
-@app.put("/api/admin/users/{uid}/role")
-def admin_role(uid: str, body: RoleChange, user=Depends(admin)):
-    if body.role not in ("user", "admin"):
-        raise HTTPException(400, "Unknown role")
-    if uid == str(user["id"]) and body.role != "admin":
-        raise HTTPException(400, "You can't remove your own admin role")
-    with as_user(user["id"], "admin") as c:
-        c.execute("UPDATE hk.users SET role = %s WHERE id = %s", (body.role, uid))
-    return {"ok": True}
-
-
 @app.delete("/api/admin/users/{uid}")
 def admin_delete(uid: str, user=Depends(admin)):
     if uid == str(user["id"]):
         raise HTTPException(400, "You can't delete your own account here")
     with as_user(user["id"], "admin") as c:
         c.execute("DELETE FROM hk.users WHERE id = %s", (uid,))
+    return {"ok": True}
+
+
+# ---------- community recipes (published after an admin approves them) ----------
+CATEGORIES = {"Appetizers & Snacks", "Beef, Lamb & Pork", "Beverages", "Breads", "Breakfast & Brunch", "Chicken & Turkey", "Desserts",
+              "Fish & Seafood", "Pasta, Rice & Grains", "Pizza & Sandwiches", "Salads & Dressings", "Sauces & Seasonings", "Soups & Stews", "Vegetables"}
+UNITS = {"g", "kg", "ml", "l", "tsp", "tbsp", "piece", "pinch", "clove", "slice", "to taste"}
+NUTRIENTS = ("calories", "protein_g", "carbohydrates_g", "fat_g", "cholesterol_mg", "sodium_mg", "potassium_mg", "phosphorus_mg",
+             "calcium_mg", "fiber_g", "added_sugar_g")
+
+
+class Ingredient(BaseModel):
+    qty: float | None = Field(default=None, ge=0, le=100000)
+    unit: str
+    item: str = Field(min_length=1, max_length=200)
+    group: str | None = Field(default=None, max_length=80)
+
+
+class RecipeIn(BaseModel):
+    lang: str = Field(pattern=r"^(en|es|ar|ur|hi|fr|id|bn|tl)$")
+    title: str = Field(min_length=3, max_length=140)
+    description: str = Field(default="", max_length=1000)
+    category: str
+    cuisine: str = Field(default="", max_length=60)
+    servings: int = Field(ge=1, le=60)
+    serving_size: str = Field(default="", max_length=80)
+    ingredients: list[Ingredient] = Field(min_length=1, max_length=60)
+    steps: list[str] = Field(min_length=1, max_length=40)
+    hints: list[str] = Field(default=[], max_length=20)
+    nutrients: dict[str, float | None] = {}
+
+
+_L = r"A-Za-z\u00C0-\u024F\u0600-\u06FF\u0900-\u097F\u0980-\u09FF"
+EXCLUDED = re.compile("|".join(rf"(?<![{_L}]){w}(?![{_L}])" for w in (
+    "pork", "bacon", "ham", "lard", "prosciutto", "pancetta", "pepperoni", "salami", "gelatine?", "jell-?o", "wines?", "beers?", "rum", "brandy",
+    "vodka", "whiske?y", "sake", "mirin", "liqueurs?", "sherry", "champagne", "cerdo", "tocino", "jam[oó]n", "vino", "cerveza", "gelatina",
+    "porc", "jambon", "vin", "bi[eè]re", "babi", "baboy", "خنزير", "الخنزير", "نبيذ", "النبيذ", "بيرة", "خمر", "كحول", "جيلاتين", "سور", "سूअर",
+    "सूअर", "शराब", "वाइन", "बीयर", "শূকর", "মদ", "ওয়াইন"))
+    + r"|turkey bacon|beef bacon|wine vinegar|vinagre de vino|خل النبيذ", re.I)
+SAFE = re.compile(r"turkey bacon|beef bacon|turkey ham|vinegar|vinagre|vinaigre|خل|سرکہ|सिरका|root beer|ginger beer|non-?alcoholic", re.I)
+
+
+def has_excluded(rec: dict) -> bool:
+    texts = [rec["title"], rec.get("description", "")] + [i["item"] for i in rec["ingredients"]] + rec["steps"] + rec.get("hints", [])
+    for t in texts:
+        for m in EXCLUDED.finditer(t or ""):
+            if not SAFE.search(t[max(0, m.start() - 12): m.end() + 12]):
+                return True
+    return False
+
+
+def clean_recipe(body: RecipeIn) -> dict:
+    if body.category not in CATEGORIES:
+        raise HTTPException(400, "Unknown category")
+    for i in body.ingredients:
+        if i.unit not in UNITS:
+            raise HTTPException(400, f"Unit not allowed: {i.unit}")
+        if i.unit not in ("to taste", "pinch") and not i.qty:
+            raise HTTPException(400, f"Amount missing for: {i.item}")
+    steps = [x.strip() for x in body.steps if x.strip()]
+    if not steps:
+        raise HTTPException(400, "Add at least one step")
+    nut = {k: (float(v) if v is not None and v >= 0 else None) for k, v in body.nutrients.items() if k in NUTRIENTS}
+    d = body.model_dump()
+    d.update(steps=[x[:1500] for x in steps], hints=[x.strip()[:600] for x in body.hints if x.strip()], nutrients=nut)
+    if has_excluded(d):
+        raise HTTPException(400, "This recipe contains an ingredient the app does not include (pork, gelatin or alcohol)")
+    return d
+
+
+@app.post("/api/submissions")
+def submit_recipe(body: RecipeIn, user=Depends(current)):
+    rec = clean_recipe(body)
+    with as_user(user["id"], user["role"]) as c:
+        n = c.execute("SELECT count(*) AS n FROM hk.submissions WHERE user_id = %s AND status = 'pending'", (user["id"],)).fetchone()["n"]
+        if n >= 20:
+            raise HTTPException(429, "Too many recipes waiting for review")
+        row = c.execute("INSERT INTO hk.submissions (user_id, recipe) VALUES (%s, %s) RETURNING id", (user["id"], json.dumps(rec))).fetchone()
+    return {"id": row["id"], "status": "pending"}
+
+
+@app.get("/api/submissions/mine")
+def my_submissions(user=Depends(current)):
+    with as_user(user["id"], user["role"]) as c:
+        rows = c.execute("SELECT id, recipe, status, admin_note, created_at, reviewed_at FROM hk.submissions WHERE user_id = %s ORDER BY created_at DESC",
+                         (user["id"],)).fetchall()
+    return {"items": rows}
+
+
+@app.delete("/api/submissions/{sid}")
+def delete_submission(sid: int, user=Depends(current)):
+    with as_user(user["id"], user["role"]) as c:
+        c.execute("DELETE FROM hk.submissions WHERE id = %s AND user_id = %s AND status <> 'approved'", (sid, user["id"]))
+    return {"ok": True}
+
+
+@app.get("/api/recipes/community")
+def community_recipes():
+    with as_user() as c:
+        rows = c.execute("SELECT * FROM hk.approved_recipes()").fetchall()
+    return {"items": rows}
+
+
+@app.get("/api/admin/submissions")
+def admin_submissions(status: str = "pending", user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        rows = c.execute("""SELECT s.id, s.recipe, s.status, s.admin_note, s.created_at, s.reviewed_at, u.email, u.name
+                            FROM hk.submissions s JOIN hk.users u ON u.id = s.user_id
+                            WHERE %s = 'all' OR s.status = %s ORDER BY s.created_at""", (status, status)).fetchall()
+    return {"items": rows}
+
+
+class Review(BaseModel):
+    status: str = Field(pattern=r"^(approved|rejected|pending)$")
+    admin_note: str = Field(default="", max_length=1000)
+    recipe: RecipeIn | None = None
+
+
+@app.put("/api/admin/submissions/{sid}")
+def review_submission(sid: int, body: Review, user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        if body.recipe is not None:
+            c.execute("UPDATE hk.submissions SET recipe = %s WHERE id = %s", (json.dumps(clean_recipe(body.recipe)), sid))
+        c.execute("UPDATE hk.submissions SET status = %s, admin_note = %s, reviewed_at = now() WHERE id = %s", (body.status, body.admin_note, sid))
     return {"ok": True}
 
 
@@ -290,6 +403,14 @@ def health():
 @app.get("/")
 def index():
     return FileResponse(GALLERY / "index.html")
+
+
+@app.get("/gallery")
+@app.get("/gallery/")
+def old_gallery_path():
+    # links from the old static server (http://localhost:8099/gallery/#...) keep working; the #hash stays in the browser
+    from fastapi.responses import RedirectResponse
+    return RedirectResponse("/", status_code=307)
 
 
 app.mount("/", StaticFiles(directory=GALLERY), name="gallery")

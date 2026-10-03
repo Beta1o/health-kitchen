@@ -1,0 +1,238 @@
+[
+ {
+  "key": 1000,
+  "recipe_id": 1874,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream has no gelatin"
+ },
+ {
+  "key": 1001,
+  "recipe_id": 1874,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream has no gelatin"
+ },
+ {
+  "key": 1002,
+  "recipe_id": 2334,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow-cream based dip is fine"
+ },
+ {
+  "key": 1003,
+  "recipe_id": 2334,
+  "field": "hints",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream is fine"
+ },
+ {
+  "key": 1004,
+  "recipe_id": 2334,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream is fine"
+ },
+ {
+  "key": 1005,
+  "recipe_id": 2334,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "refers to marshmallow cream ingredient"
+ },
+ {
+  "key": 1006,
+  "recipe_id": 2529,
+  "field": "hints",
+  "position": 4,
+  "action": "rewrite",
+  "orig": {
+   "ar": "تُعرف كريمة المارشملو أيضًا باسم مارشملو فلاف. ويمكنك استبدال 2 كوب من كريمة المارشملو بـ 40 قطعة مارشملو كبيرة.",
+   "en": "Marshmallow crème is also known as marshmallow fluff. You can substitute 40 large marshmallows for 2 cups of marshmallow crème.",
+   "es": "La crema de malvavisco también se conoce como marshmallow fluff. Puede sustituir las 2 tazas de crema de malvavisco por 40 malvaviscos grandes.",
+   "fr": "La crème de guimauve est aussi appelée marshmallow fluff. Vous pouvez remplacer 2 tasses de crème de guimauve par 40 grosses guimauves.",
+   "hi": "मार्शमैलो क्रीम को मार्शमैलो फ्लफ़ भी कहते हैं। आप 2 कप मार्शमैलो क्रीम की जगह 40 बड़े मार्शमैलो इस्तेमाल कर सकते हैं।",
+   "id": "Marshmallow crème juga dikenal sebagai marshmallow fluff. Anda dapat mengganti 2 cangkir marshmallow crème dengan 40 marshmallow besar.",
+   "ur": "مارشمیلو کریم کو مارشمیلو فلف بھی کہا جاتا ہے۔ آپ 2 کپ مارشمیلو کریم کی جگہ 40 بڑے مارشمیلو استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "ar": "تُعرف كريمة المارشملو أيضًا باسم مارشملو فلاف.",
+   "en": "Marshmallow crème is also known as marshmallow fluff.",
+   "es": "La crema de malvavisco también se conoce como marshmallow fluff.",
+   "fr": "La crème de guimauve est aussi appelée marshmallow fluff.",
+   "hi": "मार्शमैलो क्रीम को मार्शमैलो फ्लफ़ भी कहते हैं।",
+   "id": "Marshmallow crème juga dikenal sebagai marshmallow fluff.",
+   "ur": "مارشمیلو کریم کو مارشمیلو فلف بھی کہا جاتا ہے۔"
+  },
+  "reason": "whole marshmallows (gelatin) offered as swap"
+ },
+ {
+  "key": 1007,
+  "recipe_id": 2529,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream is fine"
+ },
+ {
+  "key": 1008,
+  "recipe_id": 2529,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream is fine"
+ },
+ {
+  "key": 1009,
+  "recipe_id": 2876,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow cream is fine"
+ },
+ {
+  "key": 1010,
+  "recipe_id": 3824,
+  "field": "ingredients",
+  "position": 7,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow fluff is fine"
+ },
+ {
+  "key": 1011,
+  "recipe_id": 3824,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "marshmallow fluff is fine"
+ },
+ {
+  "key": 1012,
+  "recipe_id": 6064401,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1013,
+  "recipe_id": 6164365,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1014,
+  "recipe_id": 6426164,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1015,
+  "recipe_id": 6447164,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1016,
+  "recipe_id": 6447164,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1017,
+  "recipe_id": 6447164,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1018,
+  "recipe_id": 6517612,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1019,
+  "recipe_id": 6527440,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1020,
+  "recipe_id": 6934057,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon is fine"
+ },
+ {
+  "key": 1021,
+  "recipe_id": 7276005,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "non-alcoholic drink is fine"
+ }
+]

@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 500,
+   "name": "lean lamb leg cubes raw"
+  },
+  {
+   "fdc": 169260,
+   "g": 500,
+   "name": "okra"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 400,
+   "name": "tomatoes grated"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic 4 cloves"
+  },
+  {
+   "fdc": 169997,
+   "g": 30,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 171413,
+   "g": 22.5,
+   "name": "olive oil 1.5 tbsp"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

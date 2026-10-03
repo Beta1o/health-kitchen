@@ -1,0 +1,41 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 170872,
+   "g": 824,
+   "name": "1% milk 800 ml"
+  },
+  {
+   "fdc": 169714,
+   "g": 50,
+   "name": "rice flour"
+  },
+  {
+   "fdc": 169655,
+   "g": 40,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 169231,
+   "g": 15,
+   "name": "fresh ginger"
+  },
+  {
+   "fdc": 170919,
+   "g": 2,
+   "name": "cardamom"
+  },
+  {
+   "fdc": 170568,
+   "g": 30,
+   "name": "blanched almonds"
+  },
+  {
+   "fdc": 171320,
+   "g": 1,
+   "name": "cinnamon garnish"
+  }
+ ]
+}

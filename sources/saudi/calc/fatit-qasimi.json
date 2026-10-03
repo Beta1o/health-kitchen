@@ -1,0 +1,47 @@
+{
+ "servings": 16,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 300,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 172195,
+   "g": 15,
+   "name": "nonfat dry milk"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 172803,
+   "g": 4,
+   "name": "baking powder"
+  },
+  {
+   "fdc": 169655,
+   "g": 60,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171413,
+   "g": 55,
+   "name": "olive oil (mild)"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 169640,
+   "g": 40,
+   "name": "honey for syrup",
+   "added_sugar": true
+  }
+ ]
+}

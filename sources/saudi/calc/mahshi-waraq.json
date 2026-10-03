@@ -1,0 +1,71 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168575,
+   "g": 250,
+   "name": "fresh/frozen grape leaves, raw (about 50 leaves)"
+  },
+  {
+   "fdc": 168931,
+   "g": 240,
+   "name": "short-grain rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onion (filling 150 + layer 50)"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 400,
+   "name": "tomatoes (filling 200 + layer 100 + sauce 100)"
+  },
+  {
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley"
+  },
+  {
+   "fdc": 169997,
+   "g": 20,
+   "name": "coriander"
+  },
+  {
+   "fdc": 173475,
+   "g": 10,
+   "name": "mint"
+  },
+  {
+   "fdc": 172233,
+   "g": 10,
+   "name": "dill"
+  },
+  {
+   "fdc": 171413,
+   "g": 30,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 167747,
+   "g": 60,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 167787,
+   "g": 105,
+   "name": "pomegranate molasses 30 g (as 105 g juice)",
+   "added_sugar": true
+  },
+  {
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt"
+  }
+ ]
+}

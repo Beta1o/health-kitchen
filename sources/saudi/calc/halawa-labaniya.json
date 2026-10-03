@@ -1,0 +1,26 @@
+{
+ "servings": 12,
+ "items": [
+  {
+   "fdc": 172195,
+   "g": 200,
+   "name": "skimmed milk powder"
+  },
+  {
+   "fdc": 169655,
+   "g": 75,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171314,
+   "g": 25,
+   "name": "ghee"
+  },
+  {
+   "fdc": 170184,
+   "g": 10,
+   "name": "pistachios"
+  }
+ ]
+}

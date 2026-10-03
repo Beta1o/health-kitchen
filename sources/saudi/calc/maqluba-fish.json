@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171962,
+   "g": 600,
+   "name": "grouper fillet, raw"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil (fish)"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil (vegetables)"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomato"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 170427,
+   "g": 120,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  },
+  {
+   "fdc": 170567,
+   "g": 15,
+   "name": "almonds"
+  }
+ ]
+}

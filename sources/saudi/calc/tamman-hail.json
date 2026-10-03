@@ -1,0 +1,65 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 173125,
+   "g": 500,
+   "name": "camel meat, lean, raw (approximated with lean beef round)"
+  },
+  {
+   "fdc": 168931,
+   "g": 200,
+   "name": "short-grain rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 280,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste nsa"
+  },
+  {
+   "fdc": 168448,
+   "g": 200,
+   "name": "pumpkin"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 169228,
+   "g": 150,
+   "name": "eggplant"
+  },
+  {
+   "fdc": 170497,
+   "g": 20,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 173412,
+   "g": 4.5,
+   "name": "ghee"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt"
+  }
+ ]
+}

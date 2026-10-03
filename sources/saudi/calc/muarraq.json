@@ -1,0 +1,50 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 500,
+   "name": "lean lamb leg, cubed, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 300,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 4.5,
+   "name": "ghee 1 tsp"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

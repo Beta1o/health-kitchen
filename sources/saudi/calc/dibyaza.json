@@ -1,0 +1,56 @@
+{
+ "servings": 12,
+ "items": [
+  {
+   "fdc": 173941,
+   "g": 160,
+   "name": "qamar al-din (dried apricot proxy)"
+  },
+  {
+   "fdc": 169655,
+   "g": 40,
+   "name": "sugar share of qamar al-din",
+   "added_sugar": true
+  },
+  {
+   "fdc": 173941,
+   "g": 100,
+   "name": "dried apricots"
+  },
+  {
+   "fdc": 174665,
+   "g": 80,
+   "name": "dried figs"
+  },
+  {
+   "fdc": 171726,
+   "g": 80,
+   "name": "dates, pitted"
+  },
+  {
+   "fdc": 168165,
+   "g": 40,
+   "name": "raisins"
+  },
+  {
+   "fdc": 170568,
+   "g": 30,
+   "name": "blanched almonds"
+  },
+  {
+   "fdc": 170184,
+   "g": 20,
+   "name": "pistachios"
+  },
+  {
+   "fdc": 170591,
+   "g": 15,
+   "name": "pine nuts"
+  },
+  {
+   "fdc": 171314,
+   "g": 12,
+   "name": "ghee"
+  }
+ ]
+}

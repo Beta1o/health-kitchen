@@ -1,0 +1,70 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171464,
+   "g": 300,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 173627,
+   "g": 300,
+   "name": "chicken thigh, skinless, raw"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 7,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170026,
+   "g": 250,
+   "name": "potatoes"
+  },
+  {
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "fdc": 170427,
+   "g": 150,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil (rice)"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 2,
+   "name": "olive oil for smoking"
+  }
+ ]
+}

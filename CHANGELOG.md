@@ -2,6 +2,25 @@
 
 All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
+## [0.5.0] - 2026-10-03
+### Added
+- Saudi kitchen: over 120 home dishes (kabsa, mandi, jareesh, marqooq, qursan, saleeq, kleeja and more) written from the encyclopediacooking.com Saudi listing, each checked against at least two other sources, made healthier (less salt and fat, no stock cubes, lean meat, measured rice) with nutrition computed from USDA data and a "Suitable for" line.
+- This Healthy Kitchen recipes (433).
+- Community recipes: signed-in users share recipes with structured amounts and metric units; nothing is published until an admin approves it.
+- Account page with tabs (overview with statistics and charts, my information with the health plan, health and goals, food preferences with ingredient suggestions, weight log, my recipes, settings).
+- Admin page: user search, details, password reset, disable or enable accounts, CSV export, sign-up statistics, recipe review.
+- Meal plans can be limited to one or more cuisines. A "No plan" option shows all recipes.
+
+### Changed
+- Only the configured admin email can be an admin; everyone else is a user (enforced in the database).
+- Settings live in My account only; the Arabic form of address follows the sex in My information.
+- Categories are ordered by meal, and 321 external recipes were moved to the right category.
+- Cuisines: one "American"; "Middle Eastern" split into country cuisines.
+- Recipe cards are the same height; source tags only appear on the recipe page.
+
+### Fixed
+- Texts that still mentioned excluded ingredients (in any language) are rewritten or the recipe is removed (`policy_scan.py`).
+
 ## [0.4.0] - 2026-10-03
 ### Added
 - Diabetes Food Hub (ADA) and Diabetes UK recipes: 3,310 unique recipes in total.

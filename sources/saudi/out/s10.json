@@ -1,0 +1,2176 @@
+[
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hasawi-rice",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10893-1.html",
+  "lang": "ar",
+  "title": "الرز الحساوي بالدجاج الصحي",
+  "description": "الرز الحساوي طبق شعبي من الأحساء في المنطقة الشرقية يُطبخ فيه الرز الأحمر الحساوي في مرق الدجاج بالبهارات الصحيحة، ثم يُغطّى بالدجاج المحمّر وحشوة البصل والزبيب ويُدخّن بالفحم. في هذه النسخة استُخدم دجاج بدون جلد ومرق منزلي بلا مكعبات، وقُلّل الزيت والسمن والملح والزبيب، واستُبدل تحمير المكسرات بتحميصها بدون زيت.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 400 غ)",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 505,
+   "protein_g": 38.3,
+   "carbohydrates_g": 56.5,
+   "fat_g": 13.9,
+   "cholesterol_mg": 128,
+   "sodium_mg": 518,
+   "potassium_mg": 944,
+   "phosphorus_mg": 529,
+   "calcium_mg": 66,
+   "fiber_g": 5.2,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للمرق والدجاج",
+    "600 غ دجاج بدون جلد (300 غ أفخاذ و300 غ صدور)، مقطّع قطعاً كبيرة"
+   ],
+   [
+    "للمرق والدجاج",
+    "1 بصلة متوسطة مقطّعة أرباعاً (110 غ)"
+   ],
+   [
+    "للمرق والدجاج",
+    "1 حبة طماطم متوسطة (120 غ) وجزرة صغيرة (80 غ)"
+   ],
+   [
+    "للمرق والدجاج",
+    "بهارات صحيحة: 5 حبات هيل، 4 حبات قرنفل، ½ ملعقة صغيرة فلفل أسود حب، عود قرفة، 2 لومي مثقوب، 2 حبة مستكة"
+   ],
+   [
+    "للمرق والدجاج",
+    "1 ملعقة صغيرة بهارات مشكلة (بزار) و½ ملعقة صغيرة كركم لدهن الدجاج"
+   ],
+   [
+    "للمرق والدجاج",
+    "1 لتر ماء"
+   ],
+   [
+    "للرز",
+    "200 غ رز حساوي أحمر (أو رز بني طويل الحبة)"
+   ],
+   [
+    "للرز",
+    "1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ) وفصّا ثوم مهروسان (10 غ)"
+   ],
+   [
+    "للرز",
+    "¾ ملعقة صغيرة ملح (4 غ) للقدر كله"
+   ],
+   [
+    "للحشوة والتدخين",
+    "2 بصلة متوسطة مشرّحة (220 غ)"
+   ],
+   [
+    "للحشوة والتدخين",
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    "للحشوة والتدخين",
+    "25 غ زبيب منقوع ومصفّى"
+   ],
+   [
+    "للحشوة والتدخين",
+    "½ ملعقة صغيرة كاري، ½ ملعقة صغيرة لومي مطحون، رشة هيل وقرفة"
+   ],
+   [
+    "للحشوة والتدخين",
+    "20 غ لوز شرائح محمّص بدون زيت"
+   ],
+   [
+    "للحشوة والتدخين",
+    "1 ملعقة صغيرة سمن (4.5 غ) وقطعة فحم صغيرة للتدخين"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اغسل الرز الحساوي وانقعه في ماء دافئ ساعة."
+   ],
+   [
+    null,
+    "ضع الدجاج في قدر مع البصلة المقطعة والطماطم والجزر والبهارات الصحيحة والماء، واتركه يغلي ثم اخفض النار وأزل الرغوة، واطبخه 30–35 دقيقة حتى ينضج."
+   ],
+   [
+    null,
+    "ارفع الدجاج، وادهنه بالبزار والكركم وقليل من المرق، وحمّره في فرن 220°م لمدة 15–20 دقيقة."
+   ],
+   [
+    null,
+    "صفِّ المرق واحتفظ بحوالي 700 مل منه، واهرس الطماطم والجزر فيه إن رغبت."
+   ],
+   [
+    null,
+    "في القدر نفسه أضف معجون الطماطم والثوم إلى المرق ثم الرز المصفّى والملح، واتركه يغلي ثم غطّه واطبخه على نار هادئة 35–40 دقيقة حتى ينضج الرز الأحمر ويتشرب المرق، وأضف قليلاً من الماء الساخن عند الحاجة."
+   ],
+   [
+    null,
+    "للحشوة: سخّن زيت الزيتون في مقلاة واطبخ البصل المشرّح على نار هادئة مغطى 15 دقيقة حتى يذبل ويتحمر، ثم أضف الكاري واللومي والهيل والقرفة والزبيب وقلّب دقيقتين."
+   ],
+   [
+    null,
+    "ضع الدجاج المحمّر فوق الرز، وضع وعاءً صغيراً فيه السمن في وسط القدر، وأسقط فيه جمرة الفحم الملتهبة وأغلق الغطاء فوراً واتركه 10 دقائق."
+   ],
+   [
+    null,
+    "ارفع الوعاء والفحم، واغرف الرز في الطبق، ثم ضع الدجاج والحشوة ورشّ اللوز، وقدّمه مع سلطة خضراء وسلطة دقوس."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دجاج بدون جلد، مرق منزلي بلا مكعبات، ملعقة كبيرة زيت بدلاً من حوالي 80 مل، سمن للتدخين فقط، زبيب أقل ولوز محمّص بدون قلي، وملح أقل من ربع ملعقة صغيرة للحصة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الرز الأحمر واللوز والزبيب ومعجون الطماطم ترفع البوتاسيوم والفوسفور؛ يمكن استبدال نصف الرز الأحمر برز بسمتي أبيض، وتقليل الزبيب واللوز أو حذفهما، والاكتفاء بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 150 غ رز مطبوخ؛ الرز الحساوي الأحمر غني بالألياف، ويُفضّل تقديمه مع طبق كبير من السلطة وتقليل الزبيب."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موضوع، مجلة هي، دوان"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H30M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hasawi-rice-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10893-1.html",
+  "lang": "en",
+  "title": "Healthy Hasawi Rice with Chicken",
+  "description": "Hasawi rice is a popular dish from Al-Ahsa in the Eastern Province: the local red Hasawi rice is cooked in a spiced chicken broth, topped with oven-browned chicken and an onion-raisin topping, and smoked with charcoal. This version uses skinless chicken and homemade broth without stock cubes, with less oil, ghee, salt and raisins, and dry-toasted instead of fried nuts.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 400 g)",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 505,
+   "protein_g": 38.3,
+   "carbohydrates_g": 56.5,
+   "fat_g": 13.9,
+   "cholesterol_mg": 128,
+   "sodium_mg": 518,
+   "potassium_mg": 944,
+   "phosphorus_mg": 529,
+   "calcium_mg": 66,
+   "fiber_g": 5.2,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the broth and chicken",
+    "600 g skinless chicken (300 g thighs and 300 g breast), in large pieces"
+   ],
+   [
+    "For the broth and chicken",
+    "1 medium onion, quartered (110 g)"
+   ],
+   [
+    "For the broth and chicken",
+    "1 medium tomato (120 g) and 1 small carrot (80 g)"
+   ],
+   [
+    "For the broth and chicken",
+    "Whole spices: 5 cardamom pods, 4 cloves, ½ tsp black peppercorns, 1 cinnamon stick, 2 pierced dried limes (loomi), 2 grains mastic"
+   ],
+   [
+    "For the broth and chicken",
+    "1 tsp mixed spice (bezar) and ½ tsp turmeric to rub on the chicken"
+   ],
+   [
+    "For the broth and chicken",
+    "1 l water"
+   ],
+   [
+    "For the rice",
+    "200 g red Hasawi rice (or brown long-grain rice)"
+   ],
+   [
+    "For the rice",
+    "1 tbsp no-salt-added tomato paste (15 g) and 2 garlic cloves, crushed (10 g)"
+   ],
+   [
+    "For the rice",
+    "¾ tsp salt (4 g) for the whole pot"
+   ],
+   [
+    "For the topping and smoking",
+    "2 medium onions, sliced (220 g)"
+   ],
+   [
+    "For the topping and smoking",
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    "For the topping and smoking",
+    "25 g raisins, soaked and drained"
+   ],
+   [
+    "For the topping and smoking",
+    "½ tsp curry powder, ½ tsp ground dried lime, a pinch each of cardamom and cinnamon"
+   ],
+   [
+    "For the topping and smoking",
+    "20 g sliced almonds, dry-toasted"
+   ],
+   [
+    "For the topping and smoking",
+    "1 tsp ghee (4.5 g) and 1 small piece of charcoal for smoking"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Wash the Hasawi rice and soak it in warm water for 1 hour."
+   ],
+   [
+    null,
+    "Put the chicken in a pot with the quartered onion, tomato, carrot, whole spices and water. Bring to the boil, lower the heat, skim, and simmer 30–35 minutes until cooked."
+   ],
+   [
+    null,
+    "Lift out the chicken, rub it with the bezar, turmeric and a little broth, and brown it in a 220 °C oven for 15–20 minutes."
+   ],
+   [
+    null,
+    "Strain the broth and keep about 700 ml; mash the tomato and carrot into it if you like."
+   ],
+   [
+    null,
+    "Return the broth to the pot with the tomato paste and garlic, add the drained rice and the salt, bring to the boil, then cover and cook on low heat 35–40 minutes until the red rice is tender and has absorbed the broth; add a little hot water if needed."
+   ],
+   [
+    null,
+    "For the topping: warm the olive oil in a pan and cook the sliced onion, covered, on low heat for 15 minutes until soft and golden; add the curry, dried lime, cardamom, cinnamon and raisins and stir for 2 minutes."
+   ],
+   [
+    null,
+    "Lay the browned chicken on the rice, set a small heatproof bowl with the ghee in the middle of the pot, drop the hot charcoal into it, close the lid at once and leave 10 minutes."
+   ],
+   [
+    null,
+    "Remove the bowl and charcoal, spoon the rice onto a platter, top with the chicken and onion topping, sprinkle with the almonds, and serve with a green salad and daqoos."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: skinless chicken, homemade broth without stock cubes, 1 tbsp oil instead of about 80 ml, ghee only for smoking, fewer raisins, dry-toasted almonds instead of fried nuts, and under ¼ tsp salt per serving."
+   ],
+   [
+    null,
+    "Kidney tip: red rice, almonds, raisins and tomato paste add potassium and phosphorus; you can swap half the red rice for white basmati, cut or skip the raisins and almonds, and keep to one serving."
+   ],
+   [
+    null,
+    "Diabetes tip: one serving has about 150 g cooked rice; red Hasawi rice is high in fibre, so serve it with a large salad and go light on the raisins."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Mawdoo3, Hia Magazine, Dawan"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H30M",
+  "translation_of": "hasawi-rice"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "tamman-hail",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14560-1.html",
+  "lang": "ar",
+  "title": "التمن الحائلي الصحي",
+  "description": "التمن طبق شتوي شعبي من منطقة حائل، يُطبخ فيه رز التمن قصير الحبة ببطء مع لحم الحاشي أو الغنم والطماطم والقرع والكوسا والباذنجان حتى يتداخل ويصبح قوامه طرياً كالجريش. في هذه النسخة استُخدم لحم أحمر قليل الدهن، وزيدت الخضار، وقُلّل الزيت والسمن والملح بلا مكعبات مرق.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 450 غ)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 451,
+   "protein_g": 32.6,
+   "carbohydrates_g": 56.6,
+   "fat_g": 10.2,
+   "cholesterol_mg": 74,
+   "sodium_mg": 566,
+   "potassium_mg": 1128,
+   "phosphorus_mg": 385,
+   "calcium_mg": 71,
+   "fiber_g": 4.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "500 غ لحم حاشي أو لحم غنم قليل الدهن بدون عظم، منزوع الشحم ومقطّع مكعبات"
+   ],
+   [
+    null,
+    "200 غ رز تمن (رز مصري قصير الحبة)"
+   ],
+   [
+    null,
+    "2 بصلة متوسطة مفرومة (220 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    null,
+    "2 حبة طماطم مفرومة (240 غ) و1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    null,
+    "2 حبة فلفل حار أحمر وأخضر (20 غ)"
+   ],
+   [
+    null,
+    "200 غ قرع مقطّع مكعبات"
+   ],
+   [
+    null,
+    "200 غ كوسا مقطّعة مكعبات"
+   ],
+   [
+    null,
+    "150 غ باذنجان مقطّع مكعبات"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة بهار حائل (صرار) أو بزار، ½ ملعقة صغيرة كركم، ½ ملعقة صغيرة لومي مطحون"
+   ],
+   [
+    null,
+    "¾ ملعقة صغيرة ملح (5 غ)"
+   ],
+   [
+    null,
+    "1.5–1.75 لتر ماء ساخن"
+   ],
+   [
+    "للوجه",
+    "1 بصلة صغيرة مشرّحة (60 غ) و1 ملعقة صغيرة سمن (4.5 غ) ورشة لومي"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن زيت الزيتون في قدر ثقيل وحمّس البصل المفروم حتى يذبل ويميل للذهبي."
+   ],
+   [
+    null,
+    "أضف اللحم وقلّبه 5 دقائق حتى يتغير لونه، ثم أضف البهارات والفلفل الحار وقلّب دقيقة."
+   ],
+   [
+    null,
+    "أضف الطماطم ومعجون الطماطم وقلّب حتى تذوب الطماطم، ثم أضف القرع والكوسا والباذنجان وغطّ القدر 5 دقائق."
+   ],
+   [
+    null,
+    "صبّ 1.5 لتر ماء ساخن واتركه يغلي، ثم أضف الرز المغسول بدون نقع والملح وحرّك."
+   ],
+   [
+    null,
+    "غطّ القدر واطبخه على نار هادئة جداً حوالي 3 ساعات مع التحريك من وقت لآخر وإضافة ماء ساخن عند الحاجة، حتى يذوب الرز والخضار ويتماسك القوام."
+   ],
+   [
+    null,
+    "حمّس البصل المشرّح مع السمن واللومي حتى يتحمر، ثم حرّك التمن قليلاً واسكبه في طبق التقديم ووزّع البصل على الوجه."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم قليل الدهن منزوع الشحم، خضار أكثر، ملعقة كبيرة زيت زيتون وملعقة صغيرة سمن فقط، ومعجون طماطم بدون ملح وبدون مكعبات مرق."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطماطم ومعجونها والقرع والباذنجان واللحم فيها بوتاسيوم وفوسفور؛ يمكن تقليل معجون الطماطم والقرع، وزيادة الكوسا، والاكتفاء بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الرز قصير الحبة المطبوخ طويلاً يرفع السكر بسرعة؛ التزم بحصة واحدة وقدّمه مع سلطة خضراء أو لبن قليل الدسم."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موضوع، سرايا نيوز"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT3H",
+  "total_time": "PT3H20M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "tamman-hail-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14560-1.html",
+  "lang": "en",
+  "title": "Healthy Hail Tamman",
+  "description": "Tamman is a popular winter dish from the Hail region: short-grain tamman rice is slow-cooked with young camel (hashi) or lamb, tomato, pumpkin, zucchini and eggplant until it turns soft and creamy like jareesh. This version uses lean meat, more vegetables, and less oil, ghee and salt, with no stock cubes.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 450 g)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 451,
+   "protein_g": 32.6,
+   "carbohydrates_g": 56.6,
+   "fat_g": 10.2,
+   "cholesterol_mg": 74,
+   "sodium_mg": 566,
+   "potassium_mg": 1128,
+   "phosphorus_mg": 385,
+   "calcium_mg": 71,
+   "fiber_g": 4.0,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "500 g lean boneless young camel (hashi) or lamb, fat trimmed, cubed"
+   ],
+   [
+    null,
+    "200 g tamman rice (short-grain rice)"
+   ],
+   [
+    null,
+    "2 medium onions, chopped (220 g)"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    null,
+    "2 tomatoes, chopped (240 g) and 1 tbsp no-salt-added tomato paste (15 g)"
+   ],
+   [
+    null,
+    "2 red and green chillies (20 g)"
+   ],
+   [
+    null,
+    "200 g pumpkin, cubed"
+   ],
+   [
+    null,
+    "200 g zucchini, cubed"
+   ],
+   [
+    null,
+    "150 g eggplant, cubed"
+   ],
+   [
+    null,
+    "1 tsp Hail spice mix (sarar) or bezar, ½ tsp turmeric, ½ tsp ground dried lime"
+   ],
+   [
+    null,
+    "¾ tsp salt (5 g)"
+   ],
+   [
+    null,
+    "1.5–1.75 l hot water"
+   ],
+   [
+    "For the topping",
+    "1 small onion, sliced (60 g), 1 tsp ghee (4.5 g) and a pinch of dried lime"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the olive oil in a heavy pot and cook the chopped onion until soft and lightly golden."
+   ],
+   [
+    null,
+    "Add the meat and stir for 5 minutes until browned, then add the spices and chillies and stir for 1 minute."
+   ],
+   [
+    null,
+    "Add the tomatoes and tomato paste and stir until they break down, then add the pumpkin, zucchini and eggplant and cover for 5 minutes."
+   ],
+   [
+    null,
+    "Pour in 1.5 l hot water and bring to the boil, then add the washed (unsoaked) rice and the salt and stir."
+   ],
+   [
+    null,
+    "Cover and cook on very low heat for about 3 hours, stirring now and then and adding hot water as needed, until the rice and vegetables melt together into a thick, soft texture."
+   ],
+   [
+    null,
+    "Fry the sliced onion in the ghee with the dried lime until golden, stir the tamman briefly, spoon it into a serving dish and top with the onion."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean, trimmed meat, more vegetables, only 1 tbsp olive oil and 1 tsp ghee, and no-salt-added tomato paste with no stock cubes."
+   ],
+   [
+    null,
+    "Kidney tip: tomatoes, tomato paste, pumpkin, eggplant and meat contain potassium and phosphorus; you can use less tomato paste and pumpkin, add more zucchini, and keep to one serving."
+   ],
+   [
+    null,
+    "Diabetes tip: short-grain rice cooked this long raises blood sugar quickly; keep to one serving and eat it with a green salad or low-fat laban."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Mawdoo3, Saraya News"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT3H",
+  "total_time": "PT3H20M",
+  "translation_of": "tamman-hail"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "dajaj-musabbak",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15471-1.html",
+  "lang": "ar",
+  "title": "دجاج مسبك بالخضار الصحي",
+  "description": "الدجاج المسبك طبخة بيتية سعودية يُطبخ فيها الدجاج مع البصل والطماطم والبهارات حتى تتسبك الصلصة، ثم تُضاف الخضار وتُقدّم مع الرز أو الخبز. هنا طُبخ على الموقد كما في أغلب المصادر، بدجاج بدون جلد وزيت قليل، وبدون صويا صوص أو كاتشب أو مايونيز أو مكعبات، مع خضار أكثر وبطاطس أقل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 400 غ) بدون رز",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "Stew",
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 340,
+   "protein_g": 36.7,
+   "carbohydrates_g": 28.1,
+   "fat_g": 9.3,
+   "cholesterol_mg": 126,
+   "sodium_mg": 548,
+   "potassium_mg": 1360,
+   "phosphorus_mg": 438,
+   "calcium_mg": 99,
+   "fiber_g": 5.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "600 غ دجاج بدون جلد (300 غ أفخاذ و300 غ صدور)، مقطّع قطعاً متوسطة"
+   ],
+   [
+    null,
+    "4 ملاعق كبيرة لبن زبادي قليل الدسم (60 غ) و1 ملعقة كبيرة عصير ليمون (15 غ) للتتبيل"
+   ],
+   [
+    null,
+    "1 بصلة كبيرة مفرومة (150 غ) و3 فصوص ثوم مهروسة (10 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    null,
+    "بهارات صحيحة: 4 حبات هيل، 3 حبات قرنفل، عود قرفة، ورقة غار"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة كاري، ½ ملعقة صغيرة كركم، ½ ملعقة صغيرة كمون، ½ ملعقة صغيرة كزبرة مطحونة، ¼ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "2 حبة طماطم مبشورة (250 غ) و4 ملاعق صغيرة معجون طماطم بدون ملح (20 غ)"
+   ],
+   [
+    null,
+    "2 جزر مقطّع حلقات (150 غ) و100 غ فاصوليا خضراء"
+   ],
+   [
+    null,
+    "2 حبة بطاطس صغيرة مقشّرة ومقطّعة مكعبات (250 غ)"
+   ],
+   [
+    null,
+    "1 كوسا كبيرة (200 غ) و1 فلفل رومي أخضر (100 غ) مقطّعة"
+   ],
+   [
+    null,
+    "¾ ملعقة صغيرة ملح (4 غ)"
+   ],
+   [
+    null,
+    "10 غ كزبرة خضراء مفرومة"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "تبّل الدجاج بالزبادي وعصير الليمون ونصف الكاري ونصف الثوم، واتركه 30 دقيقة أو أكثر في الثلاجة."
+   ],
+   [
+    null,
+    "انقع مكعبات البطاطس في ماء دافئ ساعتين على الأقل مع تغيير الماء مرة، ثم صفّها."
+   ],
+   [
+    null,
+    "سخّن زيت الزيتون في قدر وحمّص البهارات الصحيحة دقيقة، ثم أضف البصل وقلّبه حتى يذبل، ثم باقي الثوم والبهارات المطحونة."
+   ],
+   [
+    null,
+    "أضف الدجاج بتتبيلته وقلّبه 5 دقائق، ثم أضف الطماطم والمعجون وغطّ القدر 10 دقائق حتى تتسبك الصلصة، مع إضافة قليل من الماء إن لزم."
+   ],
+   [
+    null,
+    "أضف الجزر والفاصوليا والبطاطس و100 مل ماء والملح، وغطّها 15 دقيقة."
+   ],
+   [
+    null,
+    "أضف الكوسا والفلفل الرومي واطبخ 10 دقائق أخرى حتى تنضج الخضار ويبقى المرق كثيفاً، ثم رشّ الكزبرة وقدّمه مع رز أو خبز بر."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لا صويا صوص ولا كاتشب ولا مايونيز ولا مكعبات مرق، والتتبيلة من زبادي قليل الدسم وليمون ومعجون طماطم بدون ملح؛ ويمكن طبخها مغطاة في صينية بالفرن على 200°م ساعة كما في المرجع الأول."
+   ],
+   [
+    null,
+    "لمرضى الكلى: البطاطس والطماطم ومعجونها والزبادي غنية بالبوتاسيوم أو الفوسفور؛ انقع البطاطس كما في الخطوات أو استبدلها بالقرنبيط أو الملفوف، وقلّل معجون الطماطم."
+   ],
+   [
+    null,
+    "لمرضى السكري: الطبق قليل الكربوهيدرات بدون رز؛ اكتفِ بحوالي 100 غ رز مطبوخ أو رغيف بر صغير معه."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد السعودية، سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT50M",
+  "total_time": "PT1H10M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "dajaj-musabbak-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15471-1.html",
+  "lang": "en",
+  "title": "Healthy Chicken Musabbak with Vegetables",
+  "description": "Chicken musabbak is a Saudi home dish in which chicken is cooked with onion, tomato and spices until the sauce thickens, then vegetables are added; it is eaten with rice or bread. It is made here on the stove, as in most sources, with skinless chicken and little oil, without soy sauce, ketchup, mayonnaise or stock cubes, and with more vegetables and fewer potatoes.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 400 g), without rice",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "Stew",
+   "One-Dish Meal"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 340,
+   "protein_g": 36.7,
+   "carbohydrates_g": 28.1,
+   "fat_g": 9.3,
+   "cholesterol_mg": 126,
+   "sodium_mg": 548,
+   "potassium_mg": 1360,
+   "phosphorus_mg": 438,
+   "calcium_mg": 99,
+   "fiber_g": 5.7,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "600 g skinless chicken (300 g thighs and 300 g breast), in medium pieces"
+   ],
+   [
+    null,
+    "4 tbsp low-fat yoghurt (60 g) and 1 tbsp lemon juice (15 g) for the marinade"
+   ],
+   [
+    null,
+    "1 large onion, chopped (150 g) and 3 garlic cloves, crushed (10 g)"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    null,
+    "Whole spices: 4 cardamom pods, 3 cloves, 1 cinnamon stick, 1 bay leaf"
+   ],
+   [
+    null,
+    "1 tsp curry powder, ½ tsp turmeric, ½ tsp cumin, ½ tsp ground coriander, ¼ tsp black pepper"
+   ],
+   [
+    null,
+    "2 tomatoes, grated (250 g) and 4 tsp no-salt-added tomato paste (20 g)"
+   ],
+   [
+    null,
+    "2 carrots, sliced (150 g) and 100 g green beans"
+   ],
+   [
+    null,
+    "2 small potatoes, peeled and cubed (250 g)"
+   ],
+   [
+    null,
+    "1 large zucchini (200 g) and 1 green bell pepper (100 g), cut up"
+   ],
+   [
+    null,
+    "¾ tsp salt (4 g)"
+   ],
+   [
+    null,
+    "10 g fresh coriander, chopped"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Coat the chicken with the yoghurt, lemon juice, half the curry powder and half the garlic, and chill for at least 30 minutes."
+   ],
+   [
+    null,
+    "Soak the potato cubes in warm water for at least 2 hours, changing the water once, then drain."
+   ],
+   [
+    null,
+    "Heat the olive oil in a pot and toast the whole spices for 1 minute, add the onion and cook until soft, then the rest of the garlic and the ground spices."
+   ],
+   [
+    null,
+    "Add the chicken with its marinade and stir for 5 minutes, then add the tomatoes and tomato paste and cover for 10 minutes until the sauce thickens, adding a little water if needed."
+   ],
+   [
+    null,
+    "Add the carrots, green beans, potatoes, 100 ml water and the salt, and cover for 15 minutes."
+   ],
+   [
+    null,
+    "Add the zucchini and bell pepper and cook 10 more minutes until the vegetables are tender and the sauce is thick, then sprinkle with coriander and serve with rice or whole-wheat bread."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: no soy sauce, ketchup, mayonnaise or stock cubes; the marinade is low-fat yoghurt, lemon and no-salt-added tomato paste. You can also bake it covered in a tray at 200 °C for 1 hour, as in the first reference."
+   ],
+   [
+    null,
+    "Kidney tip: potatoes, tomatoes, tomato paste and yoghurt are high in potassium or phosphorus; soak the potatoes as in the steps or replace them with cauliflower or cabbage, and use less tomato paste."
+   ],
+   [
+    null,
+    "Diabetes tip: the dish itself is low in carbohydrate; add only about 100 g cooked rice or 1 small whole-wheat flatbread."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad Saudi Arabia, Sayidaty"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT50M",
+  "total_time": "PT1H10M",
+  "translation_of": "dajaj-musabbak"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hamsa-dajaj",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15458-1.html",
+  "lang": "ar",
+  "title": "حمسة الدجاج الصحية",
+  "description": "حمسة الدجاج طبخة سعودية سريعة تُقلّب فيها قطع الدجاج في المقلاة مع البصل والفلفل والملفوف والجزر والبهارات، وتُؤكل مع الخبز أو الرز في البيت أو في الكشتة. في هذه النسخة صدور دجاج بدون جلد وزيت زيتون قليل، وبدون مكعب ماجي، مع ملعقتين صغيرتين فقط من صويا صوص قليل الصوديوم.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 300 غ) بدون خبز",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Stir-fry"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 239,
+   "protein_g": 30.6,
+   "carbohydrates_g": 13.5,
+   "fat_g": 7.0,
+   "cholesterol_mg": 91,
+   "sodium_mg": 455,
+   "potassium_mg": 869,
+   "phosphorus_mg": 322,
+   "calcium_mg": 68,
+   "fiber_g": 3.9,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "500 غ صدور دجاج بدون جلد، مقطّعة قطعاً صغيرة"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    null,
+    "1 بصلة كبيرة مقطّعة (150 غ) و3 فصوص ثوم مفرومة (10 غ)"
+   ],
+   [
+    null,
+    "1 فلفل حار أحمر (15 غ)"
+   ],
+   [
+    null,
+    "1 فلفل رومي أخضر كبير مقطّع (150 غ)"
+   ],
+   [
+    null,
+    "250 غ ملفوف مقطّع شرائح رفيعة"
+   ],
+   [
+    null,
+    "1 جزرة مبشورة (100 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة بزار، ½ ملعقة صغيرة كمون، ¼ ملعقة صغيرة كركم، ¼ ملعقة صغيرة فلفل أسود"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    null,
+    "2 ملعقة صغيرة صويا صوص قليل الصوديوم (10 غ) و1 ملعقة كبيرة عصير ليمون (15 غ)"
+   ],
+   [
+    null,
+    "30 غ بقدونس مفروم"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن زيت الزيتون في مقلاة واسعة على نار عالية، وأضف البصل والفلفل الحار وقلّب حتى يذبل البصل."
+   ],
+   [
+    null,
+    "أضف الدجاج والثوم وقلّب 5–6 دقائق حتى يتغير لون الدجاج من كل الجهات."
+   ],
+   [
+    null,
+    "أضف الفلفل الرومي والملفوف والجزر وقلّب 4–5 دقائق حتى تلين الخضار قليلاً وتبقى مقرمشة."
+   ],
+   [
+    null,
+    "أضف البهارات والملح وقلّب، ثم أضف البقدونس."
+   ],
+   [
+    null,
+    "أضف الصويا صوص وعصير الليمون وقلّب 3 دقائق حتى ينضج الدجاج تماماً، وقدّمها ساخنة مع خبز بر."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: صدور دجاج بدون جلد، ملعقة كبيرة زيت زيتون فقط، حذف مكعب الماجي، وصويا صوص قليل الصوديوم بكمية صغيرة بدلاً من الصويا الحلوة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الدجاج مصدر للفوسفور والبوتاسيوم؛ التزم بحصة واحدة، والملفوف والفلفل والجزر خيارات خضار منخفضة البوتاسيوم نسبياً، ويمكن حذف الصويا صوص كلياً."
+   ],
+   [
+    null,
+    "لمرضى السكري: الطبق نفسه قليل الكربوهيدرات؛ قدّمه مع رغيف بر صغير أو 100 غ رز بني."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوك إنستا (هاني الدوسري)، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "hamsa-dajaj-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15458-1.html",
+  "lang": "en",
+  "title": "Healthy Chicken Hamsa",
+  "description": "Chicken hamsa is a quick Saudi pan dish in which chicken pieces are tossed with onion, peppers, cabbage, carrot and spices, and eaten with bread or rice at home or on desert outings. This version uses skinless chicken breast and a little olive oil, no Maggi cube, and only 2 tsp of reduced-sodium soy sauce.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 300 g), without bread",
+  "category": "Chicken & Turkey",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Stir-fry"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 239,
+   "protein_g": 30.6,
+   "carbohydrates_g": 13.5,
+   "fat_g": 7.0,
+   "cholesterol_mg": 91,
+   "sodium_mg": 455,
+   "potassium_mg": 869,
+   "phosphorus_mg": 322,
+   "calcium_mg": 68,
+   "fiber_g": 3.9,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "500 g skinless chicken breast, cut into small pieces"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    null,
+    "1 large onion, chopped (150 g) and 3 garlic cloves, chopped (10 g)"
+   ],
+   [
+    null,
+    "1 red chilli (15 g)"
+   ],
+   [
+    null,
+    "1 large green bell pepper, chopped (150 g)"
+   ],
+   [
+    null,
+    "250 g cabbage, thinly sliced"
+   ],
+   [
+    null,
+    "1 carrot, grated (100 g)"
+   ],
+   [
+    null,
+    "1 tsp bezar, ½ tsp cumin, ¼ tsp turmeric, ¼ tsp black pepper"
+   ],
+   [
+    null,
+    "½ tsp salt (3 g)"
+   ],
+   [
+    null,
+    "2 tsp reduced-sodium soy sauce (10 g) and 1 tbsp lemon juice (15 g)"
+   ],
+   [
+    null,
+    "30 g parsley, chopped"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the olive oil in a wide pan over high heat, add the onion and chilli and stir until the onion softens."
+   ],
+   [
+    null,
+    "Add the chicken and garlic and stir for 5–6 minutes until the chicken is white on all sides."
+   ],
+   [
+    null,
+    "Add the bell pepper, cabbage and carrot and stir for 4–5 minutes until slightly soft but still crisp."
+   ],
+   [
+    null,
+    "Add the spices and salt and stir, then add the parsley."
+   ],
+   [
+    null,
+    "Add the soy sauce and lemon juice and stir for 3 minutes until the chicken is fully cooked; serve hot with whole-wheat bread."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: skinless chicken breast, only 1 tbsp olive oil, no Maggi cube, and a small amount of reduced-sodium soy sauce instead of sweet soy sauce."
+   ],
+   [
+    null,
+    "Kidney tip: chicken supplies phosphorus and potassium, so keep to one serving; cabbage, peppers and carrot are relatively low-potassium vegetables, and you can leave out the soy sauce."
+   ],
+   [
+    null,
+    "Diabetes tip: the dish itself is low in carbohydrate; serve it with 1 small whole-wheat flatbread or 100 g brown rice."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookinsta (Hani Al-Dosari), Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "translation_of": "hamsa-dajaj"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shakshouka",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15427-1.html",
+  "lang": "ar",
+  "title": "الشكشوكة السعودية الصحية",
+  "description": "الشكشوكة السعودية فطور بيتي شائع، يُطبخ فيه البصل والثوم والطماطم والفلفل الأخضر بالكمون حتى تتسبك، ثم يُضاف البيض ويُقلّب حتى ينضج ويُؤكل بالخبز. في هذه النسخة زيت زيتون قليل وملح أقل، ونصف البيض بدون صفار، مع خضار أكثر.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 250 غ) بدون خبز",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 162,
+   "protein_g": 10.2,
+   "carbohydrates_g": 12.4,
+   "fat_g": 8.5,
+   "cholesterol_mg": 186,
+   "sodium_mg": 352,
+   "potassium_mg": 511,
+   "phosphorus_mg": 154,
+   "calcium_mg": 62,
+   "fiber_g": 2.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "4 بيضات كاملة (200 غ) و2 بياض بيض (66 غ)"
+   ],
+   [
+    null,
+    "2 بصلة متوسطة مفرومة (220 غ)"
+   ],
+   [
+    null,
+    "3 فصوص ثوم مفرومة (10 غ)"
+   ],
+   [
+    null,
+    "3 حبات طماطم متوسطة مقطّعة (360 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    null,
+    "2 فلفل أخضر حار (20 غ) و1 فلفل رومي أخضر صغير (100 غ) مقطّع"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة كمون، ½ ملعقة صغيرة بزار، رشة فلفل أسود"
+   ],
+   [
+    null,
+    "رشة ملح كبيرة (2.5 غ)"
+   ],
+   [
+    null,
+    "10 غ كزبرة خضراء مفرومة"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن زيت الزيتون في مقلاة واسعة وحمّس البصل حتى يذبل، ثم أضف الثوم والفلفل الحار والرومي وقلّب دقيقتين."
+   ],
+   [
+    null,
+    "أضف الكمون والبزار وقلّب، ثم أضف الطماطم ومعجون الطماطم و50 مل ماء، وغطّ المقلاة 8–10 دقائق حتى تتسبك الصلصة."
+   ],
+   [
+    null,
+    "اخفق البيض الكامل مع البياض والملح والفلفل الأسود، وصبّه على الصلصة."
+   ],
+   [
+    null,
+    "حرّك البيض على نار هادئة من وقت لآخر حتى ينضج بالدرجة التي تحبها، ثم رشّ الكزبرة وقدّمها ساخنة مع خبز بر."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: ملعقة كبيرة زيت زيتون للمقلاة كلها، ملح أقل، استبدال بيضتين ببياضهما لتقليل الكوليسترول، وخضار أكثر."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطماطم ومعجونها غنية بالبوتاسيوم وصفار البيض فيه فوسفور؛ يمكن تقليل الطماطم إلى حبتين مع زيادة الفلفل، واستخدام بياض بيض أكثر."
+   ],
+   [
+    null,
+    "لمرضى السكري: الشكشوكة قليلة الكربوهيدرات وغنية بالبروتين؛ الكربوهيدرات تأتي من الخبز، فاكتفِ بنصف رغيف بر."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، سيدتي، يمي ليالينا"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "shakshouka-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15427-1.html",
+  "lang": "en",
+  "title": "Healthy Saudi Shakshouka",
+  "description": "Saudi shakshouka is a common home breakfast: onion, garlic, tomato and green chilli are cooked with cumin into a thick sauce, then eggs are stirred in until set and it is eaten with bread. This version uses a little olive oil, less salt, some egg whites in place of whole eggs, and more vegetables.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 250 g), without bread",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 162,
+   "protein_g": 10.2,
+   "carbohydrates_g": 12.4,
+   "fat_g": 8.5,
+   "cholesterol_mg": 186,
+   "sodium_mg": 352,
+   "potassium_mg": 511,
+   "phosphorus_mg": 154,
+   "calcium_mg": 62,
+   "fiber_g": 2.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "4 whole eggs (200 g) and 2 egg whites (66 g)"
+   ],
+   [
+    null,
+    "2 medium onions, chopped (220 g)"
+   ],
+   [
+    null,
+    "3 garlic cloves, chopped (10 g)"
+   ],
+   [
+    null,
+    "3 medium tomatoes, chopped (360 g)"
+   ],
+   [
+    null,
+    "1 tbsp no-salt-added tomato paste (15 g)"
+   ],
+   [
+    null,
+    "2 green chillies (20 g) and 1 small green bell pepper (100 g), chopped"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    null,
+    "½ tsp cumin, ½ tsp bezar, a pinch of black pepper"
+   ],
+   [
+    null,
+    "1 large pinch salt (2.5 g)"
+   ],
+   [
+    null,
+    "10 g fresh coriander, chopped"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the olive oil in a wide pan and cook the onion until soft, then add the garlic, chillies and bell pepper and stir for 2 minutes."
+   ],
+   [
+    null,
+    "Stir in the cumin and bezar, then add the tomatoes, tomato paste and 50 ml water and cover for 8–10 minutes until the sauce is thick."
+   ],
+   [
+    null,
+    "Whisk the whole eggs with the egg whites, salt and black pepper and pour them over the sauce."
+   ],
+   [
+    null,
+    "Stir gently on low heat now and then until the eggs are set as you like, then sprinkle with coriander and serve hot with whole-wheat bread."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: 1 tbsp olive oil for the whole pan, less salt, 2 of the eggs replaced by whites to lower cholesterol, and more vegetables."
+   ],
+   [
+    null,
+    "Kidney tip: tomatoes and tomato paste are high in potassium and egg yolk contains phosphorus; you can cut the tomatoes to 2 with more peppers, and use more egg whites."
+   ],
+   [
+    null,
+    "Diabetes tip: shakshouka is low in carbohydrate and high in protein; the carbohydrate comes from the bread, so have half a whole-wheat flatbread."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty, Layalina Yummy"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "translation_of": "shakshouka"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "idam-khudar",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15426-1.html",
+  "lang": "ar",
+  "title": "إيدام الخضار المشكل الصحي",
+  "description": "الإيدام في المطبخ السعودي مرق كثيف من الخضار بالطماطم والبهارات يُؤكل مع الرز الأبيض، وهذا إيدام خضار مشكل بالبطاطس والباذنجان والكوسا والجزر والفاصوليا. في هذه النسخة قُلّلت البطاطس وزيدت الخضار الأخرى، واستُخدم زيت زيتون قليل وملح أقل دون قلي الخضار.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (حوالي 400 غ) بدون رز",
+  "category": "Vegetables",
+  "diet": [],
+  "dish": [
+   "Meatless Entree",
+   "Stew"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 160,
+   "protein_g": 4.8,
+   "carbohydrates_g": 29.3,
+   "fat_g": 4.1,
+   "cholesterol_mg": 0,
+   "sodium_mg": 425,
+   "potassium_mg": 1010,
+   "phosphorus_mg": 129,
+   "calcium_mg": 64,
+   "fiber_g": 7.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 حبة بطاطس صغيرة مقشّرة ومقطّعة مكعبات (250 غ)"
+   ],
+   [
+    null,
+    "1 حبة باذنجان متوسطة مقطّعة مكعبات (300 غ)"
+   ],
+   [
+    null,
+    "1 كوسا كبيرة (200 غ) و1 جزرة (100 غ) مقطّعة"
+   ],
+   [
+    null,
+    "100 غ فاصوليا خضراء"
+   ],
+   [
+    null,
+    "1 فلفل رومي كبير مقطّع (150 غ)"
+   ],
+   [
+    null,
+    "1 بصلة متوسطة مفرومة (110 غ) و3 فصوص ثوم مهروسة (10 غ)"
+   ],
+   [
+    null,
+    "2 حبة طماطم مقطّعة صغيرة (240 غ) و1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (13.5 غ)"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة كركم، 1 ملعقة صغيرة كمون، ½ ملعقة صغيرة بزار، ¼ ملعقة صغيرة فلفل أسود، 1 لومي مثقوب"
+   ],
+   [
+    null,
+    "¾ ملعقة صغيرة ملح (4 غ)"
+   ],
+   [
+    null,
+    "400 مل ماء ساخن"
+   ],
+   [
+    null,
+    "10 غ كزبرة خضراء مفرومة"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "انقع مكعبات البطاطس في ماء دافئ ساعتين على الأقل مع تغيير الماء مرة، ثم صفّها."
+   ],
+   [
+    null,
+    "سخّن زيت الزيتون في قدر وحمّس البصل حتى يذبل، ثم أضف الثوم."
+   ],
+   [
+    null,
+    "أضف الطماطم ومعجون الطماطم والبهارات واللومي، وقلّب 5 دقائق حتى تتسبك."
+   ],
+   [
+    null,
+    "أضف البطاطس والجزر والفاصوليا والباذنجان وقلّب، ثم غطّ القدر 10 دقائق على نار هادئة."
+   ],
+   [
+    null,
+    "أضف الكوسا والفلفل الرومي والماء الساخن والملح، واتركه يغلي ثم يطبخ مغطى 15–20 دقيقة حتى تنضج الخضار ويثخن المرق."
+   ],
+   [
+    null,
+    "أخرج اللومي، ورشّ الكزبرة، وقدّمه ساخناً مع رز أبيض أو بني."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: بطاطس أقل وخضار متنوعة أكثر، ملعقة كبيرة زيت زيتون فقط، الخضار لا تُقلى، ومعجون طماطم بدون ملح وملح أقل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: البطاطس والطماطم ومعجونها والباذنجان غنية بالبوتاسيوم؛ انقع البطاطس كما في الخطوات أو استبدلها بالقرنبيط، وقلّل معجون الطماطم، والتزم بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الإيدام نفسه قليل الكربوهيدرات وغني بالألياف؛ قدّمه مع حوالي 100 غ رز بني مطبوخ."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، سيدتي، كوكباد السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "idam-khudar-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-15426-1.html",
+  "lang": "en",
+  "title": "Healthy Mixed Vegetable Idam",
+  "description": "In Saudi cooking an idam is a thick tomato-and-spice vegetable stew eaten with white rice; this one mixes potatoes, eggplant, zucchini, carrots and green beans. This version uses fewer potatoes and more other vegetables, a little olive oil and less salt, and does not fry the vegetables.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (about 400 g), without rice",
+  "category": "Vegetables",
+  "diet": [],
+  "dish": [
+   "Meatless Entree",
+   "Stew"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 160,
+   "protein_g": 4.8,
+   "carbohydrates_g": 29.3,
+   "fat_g": 4.1,
+   "cholesterol_mg": 0,
+   "sodium_mg": 425,
+   "potassium_mg": 1010,
+   "phosphorus_mg": 129,
+   "calcium_mg": 64,
+   "fiber_g": 7.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 small potatoes, peeled and cubed (250 g)"
+   ],
+   [
+    null,
+    "1 medium eggplant, cubed (300 g)"
+   ],
+   [
+    null,
+    "1 large zucchini (200 g) and 1 carrot (100 g), cut up"
+   ],
+   [
+    null,
+    "100 g green beans"
+   ],
+   [
+    null,
+    "1 large bell pepper, chopped (150 g)"
+   ],
+   [
+    null,
+    "1 medium onion, chopped (110 g) and 3 garlic cloves, crushed (10 g)"
+   ],
+   [
+    null,
+    "2 tomatoes, finely chopped (240 g) and 1 tbsp no-salt-added tomato paste (15 g)"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (13.5 g)"
+   ],
+   [
+    null,
+    "½ tsp turmeric, 1 tsp cumin, ½ tsp bezar, ¼ tsp black pepper, 1 pierced dried lime"
+   ],
+   [
+    null,
+    "¾ tsp salt (4 g)"
+   ],
+   [
+    null,
+    "400 ml hot water"
+   ],
+   [
+    null,
+    "10 g fresh coriander, chopped"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Soak the potato cubes in warm water for at least 2 hours, changing the water once, then drain."
+   ],
+   [
+    null,
+    "Heat the olive oil in a pot and cook the onion until soft, then add the garlic."
+   ],
+   [
+    null,
+    "Add the tomatoes, tomato paste, spices and dried lime and stir for 5 minutes until thick."
+   ],
+   [
+    null,
+    "Add the potatoes, carrot, green beans and eggplant, stir, then cover for 10 minutes on low heat."
+   ],
+   [
+    null,
+    "Add the zucchini, bell pepper, hot water and salt, bring to the boil, then cook covered for 15–20 minutes until the vegetables are tender and the sauce has thickened."
+   ],
+   [
+    null,
+    "Remove the dried lime, sprinkle with coriander and serve hot with white or brown rice."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: fewer potatoes and more mixed vegetables, only 1 tbsp olive oil, no frying of the vegetables, and no-salt-added tomato paste with less salt."
+   ],
+   [
+    null,
+    "Kidney tip: potatoes, tomatoes, tomato paste and eggplant are high in potassium; soak the potatoes as in the steps or swap them for cauliflower, use less tomato paste, and keep to one serving."
+   ],
+   [
+    null,
+    "Diabetes tip: the idam itself is low in carbohydrate and high in fibre; serve it with about 100 g cooked brown rice."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty, Cookpad Saudi Arabia"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "translation_of": "idam-khudar"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "fattoush",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14488-1.html",
+  "lang": "ar",
+  "title": "الفتوش الصحي",
+  "description": "الفتوش سلطة شامية الأصل من الخس والخيار والطماطم والفلفل والأعشاب مع قطع الخبز المحمص وصلصة الليمون والسماق، وهي شائعة على السفرة السعودية. في هذه النسخة يُحمّص خبز البر في الفرن بدلاً من قليه، ويُقلّل الزيت والملح.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق سلطة (حوالي 250 غ)",
+  "category": "Salads & Dressings",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 137,
+   "protein_g": 4.2,
+   "carbohydrates_g": 20.1,
+   "fat_g": 5.9,
+   "cholesterol_mg": 0,
+   "sodium_mg": 280,
+   "potassium_mg": 612,
+   "phosphorus_mg": 98,
+   "calcium_mg": 68,
+   "fiber_g": 4.9,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للسلطة",
+    "200 غ خس روماني مقطّع"
+   ],
+   [
+    "للسلطة",
+    "2 خيار متوسط مقطّع (250 غ)"
+   ],
+   [
+    "للسلطة",
+    "2 حبة طماطم مقطّعة (250 غ)"
+   ],
+   [
+    "للسلطة",
+    "1 فلفل رومي أخضر (100 غ) و1 فلفل رومي أحمر (100 غ) مقطّعة"
+   ],
+   [
+    "للسلطة",
+    "4 حبات فجل مشرّحة (60 غ) و3 أعواد بصل أخضر (40 غ)"
+   ],
+   [
+    "للسلطة",
+    "30 غ بقدونس و10 غ نعناع طازج مفرومة"
+   ],
+   [
+    "للسلطة",
+    "1 رغيف خبز بر صغير (60 غ) مقطّع مربعات"
+   ],
+   [
+    "للصلصة",
+    "1½ ملعقة كبيرة زيت زيتون (20 غ)"
+   ],
+   [
+    "للصلصة",
+    "2 ملعقة كبيرة عصير ليمون (30 غ) و1 ملعقة كبيرة خل (15 غ)"
+   ],
+   [
+    "للصلصة",
+    "1 ملعقة صغيرة سماق، ¼ ملعقة صغيرة كمون، فص ثوم صغير مهروس (3 غ)"
+   ],
+   [
+    "للصلصة",
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "وزّع مربعات الخبز على صينية وحمّصها في فرن 200°م لمدة 8–10 دقائق حتى تصبح مقرمشة."
+   ],
+   [
+    null,
+    "ضع الخس والخيار والطماطم والفلفل والفجل والبصل الأخضر والبقدونس والنعناع في وعاء كبير."
+   ],
+   [
+    null,
+    "اخفق زيت الزيتون مع الليمون والخل والسماق والكمون والثوم والملح حتى يثخن قليلاً."
+   ],
+   [
+    null,
+    "اسكب الصلصة على الخضار وقلّبها، وأضف الخبز المحمّص عند التقديم مباشرة ورشّ قليلاً من السماق."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: الخبز بر ومحمّص في الفرن بدلاً من القلي، وزيت الزيتون 5 غ للحصة، والملح نصف غرام للحصة مع الاعتماد على السماق والليمون للنكهة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطماطم والبقدونس فيها بوتاسيوم؛ يمكن استبدال نصف الطماطم بالخيار والفلفل، واستخدام خبز أبيض بدل البر لتقليل الفوسفور."
+   ],
+   [
+    null,
+    "لمرضى السكري: الفتوش قليل الكربوهيدرات وغني بالألياف، وهو مناسب لملء نصف الطبق بجانب الرز أو المشويات."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، ويكيبيديا العربية، سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "fattoush-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14488-1.html",
+  "lang": "en",
+  "title": "Healthy Fattoush",
+  "description": "Fattoush is a Levantine salad of lettuce, cucumber, tomato, peppers and herbs with crisp bread and a lemon-sumac dressing, and it is common on Saudi tables. In this version whole-wheat bread is toasted in the oven instead of fried, with less oil and salt.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 salad bowl (about 250 g)",
+  "category": "Salads & Dressings",
+  "diet": [],
+  "dish": [
+   "Quick",
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 137,
+   "protein_g": 4.2,
+   "carbohydrates_g": 20.1,
+   "fat_g": 5.9,
+   "cholesterol_mg": 0,
+   "sodium_mg": 280,
+   "potassium_mg": 612,
+   "phosphorus_mg": 98,
+   "calcium_mg": 68,
+   "fiber_g": 4.9,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the salad",
+    "200 g romaine lettuce, chopped"
+   ],
+   [
+    "For the salad",
+    "2 medium cucumbers, chopped (250 g)"
+   ],
+   [
+    "For the salad",
+    "2 tomatoes, chopped (250 g)"
+   ],
+   [
+    "For the salad",
+    "1 green bell pepper (100 g) and 1 red bell pepper (100 g), chopped"
+   ],
+   [
+    "For the salad",
+    "4 radishes, sliced (60 g) and 3 spring onions (40 g)"
+   ],
+   [
+    "For the salad",
+    "30 g parsley and 10 g fresh mint, chopped"
+   ],
+   [
+    "For the salad",
+    "1 small whole-wheat pita (60 g), cut into squares"
+   ],
+   [
+    "For the dressing",
+    "1½ tbsp olive oil (20 g)"
+   ],
+   [
+    "For the dressing",
+    "2 tbsp lemon juice (30 g) and 1 tbsp vinegar (15 g)"
+   ],
+   [
+    "For the dressing",
+    "1 tsp sumac, ¼ tsp cumin, 1 small garlic clove, crushed (3 g)"
+   ],
+   [
+    "For the dressing",
+    "⅓ tsp salt (2 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Spread the bread squares on a tray and toast them in a 200 °C oven for 8–10 minutes until crisp."
+   ],
+   [
+    null,
+    "Put the lettuce, cucumber, tomato, peppers, radishes, spring onions, parsley and mint in a large bowl."
+   ],
+   [
+    null,
+    "Whisk the olive oil with the lemon juice, vinegar, sumac, cumin, garlic and salt until slightly thick."
+   ],
+   [
+    null,
+    "Pour the dressing over the vegetables and toss, then add the toasted bread just before serving and dust with a little sumac."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: the bread is whole wheat and oven-toasted instead of fried, olive oil is 5 g per serving, and salt is ½ g per serving, with sumac and lemon carrying the flavour."
+   ],
+   [
+    null,
+    "Kidney tip: tomatoes and parsley contain potassium; you can replace half the tomatoes with cucumber and peppers, and use white bread instead of whole wheat to lower phosphorus."
+   ],
+   [
+    null,
+    "Diabetes tip: fattoush is low in carbohydrate and high in fibre, a good way to fill half the plate next to rice or grilled meat."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Arabic Wikipedia, Sayidaty"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "translation_of": "fattoush"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mutabbal",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4172-1.html",
+  "lang": "ar",
+  "title": "المتبل الصحي",
+  "description": "المتبل مقبلات شامية الأصل من الباذنجان المشوي المهروس مع الطحينة والزبادي والثوم والليمون، ويُقدّم كثيراً على السفرة السعودية مع المشويات. في هذه النسخة يُشوى الباذنجان بدون دهنه بالزيت، ويُستخدم زبادي قليل الدسم وطحينة أقل، مع رشة زيت زيتون فقط.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "حوالي 4 ملاعق كبيرة (150 غ)",
+  "category": "Appetizers & Snacks",
+  "diet": [],
+  "dish": [
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Roast"
+  ],
+  "nutrients": {
+   "calories": 88,
+   "protein_g": 3.6,
+   "carbohydrates_g": 11.3,
+   "fat_g": 4.1,
+   "cholesterol_mg": 2,
+   "sodium_mg": 155,
+   "potassium_mg": 394,
+   "phosphorus_mg": 107,
+   "calcium_mg": 81,
+   "fiber_g": 4.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 حبة باذنجان كبيرة (800 غ)"
+   ],
+   [
+    null,
+    "2 ملعقة كبيرة طحينة (30 غ)"
+   ],
+   [
+    null,
+    "150 غ لبن زبادي قليل الدسم"
+   ],
+   [
+    null,
+    "2 فص ثوم مهروس (6 غ)"
+   ],
+   [
+    null,
+    "2 ملعقة كبيرة عصير ليمون (30 غ) و2 ملعقة صغيرة خل أبيض (10 غ)"
+   ],
+   [
+    null,
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة زيت زيتون للوجه (4.5 غ)"
+   ],
+   [
+    null,
+    "شرائح ليمون وبقدونس ورشة كمون أو بابريكا للتزيين"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اثقب الباذنجان بالشوكة واشوه كاملاً بدون زيت في فرن 220°م (أو على لهب الموقد) 40–45 دقيقة مع التقليب حتى يلين تماماً ويتفحم قشره."
+   ],
+   [
+    null,
+    "اتركه يبرد قليلاً ثم قشّره وصفِّ عصارته في مصفاة 10 دقائق."
+   ],
+   [
+    null,
+    "اهرس الباذنجان بالشوكة أو قطّعه ناعماً بالسكين."
+   ],
+   [
+    null,
+    "أضف الثوم والخل وعصير الليمون والزبادي والطحينة والملح، واخلطها بالملعقة حتى تتجانس."
+   ],
+   [
+    null,
+    "افرده في طبق التقديم، ورشّ زيت الزيتون على شكل دائرة، وزيّنه بالليمون والبقدونس والكمون، وقدّمه بارداً."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: الباذنجان يُشوى بدون دهنه بالزيت، والطحينة ملعقتان فقط، والزبادي قليل الدسم، وملعقة صغيرة زيت زيتون للوجه."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الباذنجان والطحينة والزبادي فيها بوتاسيوم وفوسفور؛ اكتفِ بحصة واحدة (4 ملاعق كبيرة)، ويمكن تقليل الطحينة إلى ملعقة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: المتبل قليل الكربوهيدرات؛ انتبه للخبز المقدّم معه، وقدّمه مع أصابع الخيار والجزر بدلاً من الخبز."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، موضوع، سيدتي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mutabbal-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-4172-1.html",
+  "lang": "en",
+  "title": "Healthy Mutabbal",
+  "description": "Mutabbal is a Levantine dip of roasted, mashed eggplant with tahini, yoghurt, garlic and lemon, and it is a regular side with grilled meat on Saudi tables. Here the eggplant is roasted without coating it in oil, with low-fat yoghurt, less tahini and only a drizzle of olive oil.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "about 4 tbsp (150 g)",
+  "category": "Appetizers & Snacks",
+  "diet": [],
+  "dish": [
+   "Easy"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Roast"
+  ],
+  "nutrients": {
+   "calories": 88,
+   "protein_g": 3.6,
+   "carbohydrates_g": 11.3,
+   "fat_g": 4.1,
+   "cholesterol_mg": 2,
+   "sodium_mg": 155,
+   "potassium_mg": 394,
+   "phosphorus_mg": 107,
+   "calcium_mg": 81,
+   "fiber_g": 4.5,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "2 large eggplants (800 g)"
+   ],
+   [
+    null,
+    "2 tbsp tahini (30 g)"
+   ],
+   [
+    null,
+    "150 g low-fat yoghurt"
+   ],
+   [
+    null,
+    "2 garlic cloves, crushed (6 g)"
+   ],
+   [
+    null,
+    "2 tbsp lemon juice (30 g) and 2 tsp white vinegar (10 g)"
+   ],
+   [
+    null,
+    "⅓ tsp salt (2 g)"
+   ],
+   [
+    null,
+    "1 tsp olive oil to drizzle (4.5 g)"
+   ],
+   [
+    null,
+    "Lemon slices, parsley and a pinch of cumin or paprika to garnish"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Prick the eggplants with a fork and roast them whole, without oil, in a 220 °C oven (or over a gas flame) for 40–45 minutes, turning, until completely soft and charred."
+   ],
+   [
+    null,
+    "Let cool a little, peel, and drain the flesh in a sieve for 10 minutes."
+   ],
+   [
+    null,
+    "Mash the eggplant with a fork or chop it finely with a knife."
+   ],
+   [
+    null,
+    "Add the garlic, vinegar, lemon juice, yoghurt, tahini and salt and mix with a spoon until even."
+   ],
+   [
+    null,
+    "Spread it in a serving dish, drizzle the olive oil in a circle, garnish with lemon, parsley and cumin, and serve cold."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: the eggplant is roasted without being coated in oil, only 2 tbsp tahini, low-fat yoghurt, and 1 tsp olive oil on top."
+   ],
+   [
+    null,
+    "Kidney tip: eggplant, tahini and yoghurt contain potassium and phosphorus; keep to one serving (4 tbsp) and you can cut the tahini to 1 tbsp."
+   ],
+   [
+    null,
+    "Diabetes tip: mutabbal is low in carbohydrate; watch the bread eaten with it and use cucumber and carrot sticks instead."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Mawdoo3, Sayidaty"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT1H",
+  "translation_of": "mutabbal"
+ }
+]

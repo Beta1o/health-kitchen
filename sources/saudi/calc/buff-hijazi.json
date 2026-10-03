@@ -1,0 +1,45 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 120,
+   "name": "white flour"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil (dough 15 + brushing 5)"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt (dough 1 + filling 3)"
+  },
+  {
+   "fdc": 171790,
+   "g": 300,
+   "name": "extra-lean minced beef 95%, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170416,
+   "g": 20,
+   "name": "parsley"
+  },
+  {
+   "fdc": 171287,
+   "g": 100,
+   "name": "2 hard-boiled eggs"
+  }
+ ]
+}

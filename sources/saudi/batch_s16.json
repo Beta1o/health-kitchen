@@ -1,0 +1,84 @@
+[
+ {
+  "id": "sulat-lahm",
+  "ar": "سلات لحم حجازي",
+  "en": "Hijazi Sulat Lahm",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13252-1.html"
+  ]
+ },
+ {
+  "id": "buff-hijazi",
+  "ar": "البف الحجازي",
+  "en": "Hijazi Buff",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13854-1.html"
+  ]
+ },
+ {
+  "id": "jamriyya",
+  "ar": "جمرية باللحم",
+  "en": "Jamriyya Meat",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4518-1.html"
+  ]
+ },
+ {
+  "id": "qasdeer-chicken",
+  "ar": "قصدير الدجاج",
+  "en": "Chicken in Foil",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4175-1.html"
+  ]
+ },
+ {
+  "id": "jibniyya",
+  "ar": "الجبنية",
+  "en": "Jibniyya",
+  "region": "",
+  "kind": "snack",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3877-1.html"
+  ]
+ },
+ {
+  "id": "aqit",
+  "ar": "الأقط",
+  "en": "Aqit (Dried Goat Cheese)",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15468-1.html"
+  ]
+ },
+ {
+  "id": "tawa-qasimiya",
+  "ar": "التاوة القصيمية",
+  "en": "Qassimi Tawa",
+  "region": "Qassimi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10711-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10780-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4098-1.html"
+  ]
+ },
+ {
+  "id": "shraghif",
+  "ar": "الشراغيف",
+  "en": "Shraghif",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10712-1.html"
+  ]
+ }
+]

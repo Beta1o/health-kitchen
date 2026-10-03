@@ -1,0 +1,323 @@
+# 2648
+T: Smoothie Cokelat
+D: Smoothie Cokelat adalah hidangan lembut bagi penderita diabetes yang menjalani dialisis. Menggunakan putih telur, yang dapat menjadi pengganti protein lain yang baik. Cobalah resep lezat dan ramah ginjal ini hari ini.
+P: 1
+S: 9 ons
+I: 1 sendok makan bubuk kakao Bakers tanpa gula
+I: 1 sendok makan air dingin
+I: 1 sendok makan gula (atau pengganti gula)
+I: 8 ons putih telur cair terpasteurisasi
+I: 4 sendok makan whipped topping
+I: Serutan cokelat batangan (opsional)
+M: Campurkan kakao, air dingin, dan gula.
+M: Aduk hingga gula larut.
+M: Tambahkan putih telur dan 3 sendok makan whipped topping. Aduk hingga whipped topping meleleh sepenuhnya.
+M: Beri topping 1 sendok makan whipped topping dan serutan cokelat batangan.
+H: Putih telur terpasteurisasi aman dikonsumsi tanpa dimasak.
+H: Tambahkan 1/4 sendok teh ekstrak mint untuk smoothie cokelat mint.
+H: Penderita diabetes dapat mengganti dengan pengganti gula jika suka. Karbohidrat berkurang menjadi 6 gram per porsi.
+F: 4 daging ;; 1 tinggi kalori
+# 2652
+T: Udang Jeruk Nipis Segar
+D: Resep Udang Jeruk Nipis Segar yang ramah ginjal ini menambah ledakan rasa di setiap gigitan.
+P: 4
+S: 8 udang besar
+I: 1 daun bawang
+I: 2 sendok makan daun ketumbar segar
+I: 1 sendok makan cabai jalapeno
+I: 3 sendok makan paprika merah
+I: 1 siung bawang putih
+I: 32 udang besar
+I: 1/4 cangkir air jeruk nipis
+I: 2 sendok makan minyak zaitun
+I: 1/8 sendok teh garam
+I: 1 mentimun
+M: Cincang daun bawang dan daun ketumbar. Cincang halus cabai, bawang putih, dan paprika. Iris tipis mentimun.
+M: Kupas dan buang usus udang.
+M: Untuk saus, aduk air jeruk nipis, daun bawang, daun ketumbar, jalapeno, minyak, bawang putih, dan garam dalam mangkuk sedang.
+M: Dalam mangkuk sedang terpisah, aduk udang dengan 2 sendok makan saus sebagai marinasi. Sisihkan sisa saus. Tutup dan simpan di lemari es selama 30 menit.
+M: Panaskan broiler. Angkat udang dari marinasi dan panggang dengan broiler pada jarak 3 inci dari sumber panas selama 1-1/2 menit per sisi atau hingga buram.
+M: Angkat dari broiler dan segera aduk udang panas dengan sisa saus dan paprika merah. Dinginkan hingga suhu ruang.
+M: Tata udang di atas irisan mentimun dan sajikan.
+H: Panggang udang di atas panggangan barbekyu sebagai ganti broiler jika suka.
+F: 1-1/2 daging ;; 1 sayuran, rendah kalium
+# 2655
+T: Couscous Rasa Lemon dengan Zukini
+D: Ahli diet ginjal DaVita, Martha dari Missouri, menciptakan Couscous Rasa Lemon dengan Zukini dengan menyesuaikan bahan resep salad couscous-nya dan menambahkan rasa pedas untuk membuat hidangan sehat yang memuaskan bagi pola makan ginjal.
+P: 5
+S: 1 cangkir
+I: 1/2 cangkir seledri
+I: 1/2 cangkir bawang bombai
+I: 1 sendok makan peterseli
+I: 1/2 cangkir zukini
+I: 2 cangkir air
+I: 2 sendok makan minyak canola
+I: 1 cangkir couscous, mentah
+I: 2 sendok teh parutan kulit lemon
+I: 1/4 cangkir air lemon
+I: 1/4 sendok teh cabai cayenne
+I: 1/2 sendok teh jintan bubuk
+I: 1 cangkir cranberry kering, manis
+M: Cincang seledri, bawang bombai, dan peterseli. Belah empat zukini lalu iris.
+M: Dalam panci saus, campurkan air dan 1 sendok makan minyak lalu didihkan. Masukkan couscous dan tutup. Angkat dari api; diamkan 5 menit.
+M: Campurkan air lemon dengan parutan kulit lemon, cabai cayenne, dan jintan.
+M: Dalam wajan besar, panaskan sisa 1 sendok makan minyak canola dengan api sedang dan tumis seledri, bawang bombai, dan zukini hingga lunak.
+M: Pindahkan ke piring saji besar dan campurkan couscous matang, sayuran, cranberry, peterseli, air lemon, dan bumbu. Gemburkan dengan garpu sebelum disajikan. Sajikan panas.
+H: Campurkan air lemon dan bumbu terlebih dahulu sebelum menambahkannya ke couscous.
+H: Labu crookneck atau varietas labu musim panas lainnya dapat digunakan sebagai pengganti zukini.
+F: 2 pati ;; 1 buah, rendah kalium ;; 1/2 sayuran, rendah kalium
+# 2660
+T: Sandwich Kue Kering Gula Beku
+D: Ahli diet ginjal DaVita, Rachel dari Illinois, membuat resep makanan penutup lezat yang ramah ginjal, yaitu Sandwich Kue Kering Gula Beku. Whipped topping yang dingin dan manis diapit di antara dua kue kering gula yang lezat... nyam!
+P: 18
+S: 1 sandwich
+I: 1 cangkir mentega tanpa garam
+I: 8 ons krim keju rendah lemak
+I: 2-3/4 cangkir tepung terigu serbaguna
+I: 1 sendok teh soda kue
+I: 1/2 sendok teh baking powder
+I: 1-1/2 cangkir pemanis butiran tanpa kalori Splenda®
+I: 1 butir telur besar
+I: 2 sendok teh ekstrak vanila
+I: 1/2 cangkir gula pasir
+I: 3 cangkir whipped topping susu bebas lemak Reddi-Wip®
+M: Panaskan oven terlebih dahulu hingga 375° F. Keluarkan mentega dan krim keju agar melunak.
+M: Dalam mangkuk sedang, campurkan tepung terigu, soda kue, dan baking powder. Sisihkan.
+M: Dalam mangkuk besar, kocok mentega dan Splenda hingga halus. Kocok bersama telur dan 1 sendok teh vanila.
+M: Campurkan bahan kering secara bertahap.
+M: Bentuk adonan seukuran sendok teh menjadi bola, dan letakkan di atas loyang kue kering yang tidak diolesi lemak. Pipihkan bola adonan dengan menekan menggunakan dasar gelas.
+M: Panggang 8 hingga 10 menit, atau hingga keemasan. Angkat dari oven dan diamkan hingga benar-benar dingin.
+M: Dengan mixer, kocok krim keju, gula, dan sisa ekstrak vanila. Lipat perlahan whipped topping ke dalamnya.
+M: Oleskan campuran krim keju pada setengah dari kue kering, lalu tutup masing-masing dengan kue kering lainnya untuk membentuk sandwich.
+M: Bungkus setiap kue kering dengan foil dan masukkan ke dalam freezer selama 1 jam atau hingga siap disantap.
+H: Masukkan campuran krim keju ke dalam kantong plastik, gunting salah satu ujungnya, dan semprotkan isian ke atas kue kering.
+F: 1 pati ;; 2-1/2 lemak ;; 1/2 tinggi kalori
+# 2662
+T: Muffin Lemon Blueberi
+D: Ahli diet DaVita, Heather, membagikan salah satu resep favorit keluarganya, muffin lemon blueberi. Ia telah memodifikasi resep ini untuk mengurangi fosfor dan sodium sehingga ramah ginjal, sambil mempertahankan cita rasa masakan klasik yang menenangkan.
+P: 12
+S: 1 muffin
+I: 2 cangkir tepung terigu serbaguna
+I: 2 sendok teh baking powder
+I: 1/2 cangkir gula pasir
+I: 1 butir telur besar, dikocok ringan
+I: 1 cangkir minuman beras Rice Dream®, original (tanpa pengayaan)
+I: 1/4 cangkir minyak nabati
+I: 1 sendok makan parutan kulit lemon
+I: 1 cangkir blueberi beku
+M: Panaskan oven terlebih dahulu hingga 375° F.
+M: Campurkan tepung terigu, baking powder, dan gula dalam mangkuk pengocok.
+M: Dalam mangkuk terpisah, campurkan telur, Rice Dream®, minyak nabati, dan parutan kulit lemon.
+M: Tuang bahan cair ke dalam campuran tepung. Aduk ringan hingga lembap; jangan terlalu banyak diaduk.
+M: Lipat blueberi perlahan ke dalam adonan.
+M: Semprot ringan 12 cetakan muffin dengan semprotan masak antilengket.
+M: Sendokkan adonan ke dalam cetakan muffin.
+M: Panggang selama 25 menit atau hingga tusuk gigi keluar bersih.
+H: Alternatif selain menyemprot cetakan muffin dengan semprotan masak adalah mengalasi cetakan dengan cup kertas muffin.
+H: Bekukan sisa muffin lalu panaskan di microwave selama 30 detik saat akan disajikan nanti.
+F: 1 pati ;; 1/2 buah, rendah kalium ;; 1/2 tinggi kalori ;; 1/2 lemak
+# 2670
+T: Saus Vinaigrette Krim
+D: Mencari saus yang kental dan lezat? Cobalah resep ramah ginjal Saus Vinaigrette Krim pada salad berikutnya yang Anda buat.
+P: 7
+S: 2 sendok makan
+I: 1 siung bawang putih
+I: 2 sendok makan cuka sari apel
+I: 2 sendok makan air jeruk nipis segar
+I: 1 sendok teh mustard Dijon
+I: 1 sendok teh jintan bubuk
+I: 1/2 cangkir krim asam (sour cream)
+I: 2 sendok makan minyak zaitun
+I: 1/4 sendok teh lada hitam
+M: Cincang halus siung bawang putih.
+M: Campurkan semua bahan saus dalam mangkuk kecil dan aduk rata.
+M: Tuang ke dalam botol saus salad. Dinginkan hingga siap disajikan.
+H: Gunakan air lemon sebagai pengganti air jeruk nipis jika suka.
+H: Saus dapat disimpan hingga satu minggu di lemari es.
+F: 1-1/2 lemak
+# 2671
+T: Saus Salad Dasar
+D: Pelajari cara membuat saus dasar yang lezat dan ramah ginjal yang cocok untuk hampir semua salad.
+P: 5
+S: 2 sendok makan
+I: 1 sendok makan peterseli segar
+I: 1 sendok makan oregano segar
+I: 6 sendok makan minyak canola
+I: 2 sendok makan cuka
+I: 1/2 sendok teh lada hitam
+M: Cincang peterseli dan oregano.
+M: Campurkan bahan-bahan untuk membuat 1/2 cangkir saus salad dasar.
+H: Cobalah resep ini dengan kemangi, dill, rosemary, atau tarragon.
+H: Ganti dengan 1 sendok teh herba kering jika herba segar tidak tersedia.
+H: Minyak dan cuka dengan berbagai rasa juga menambah variasi. Cobalah minyak bawang putih, minyak kemangi, atau sedikit minyak wijen. Untuk cuka, cobalah cuka beras tanpa bumbu atau cuka balsamik.
+F: 3 lemak
+# 2672
+T: Salmon Jeruk
+D: Semua orang tahu bahwa salmon adalah salah satu makanan yang sangat baik bagi Anda. Kini ahli diet ginjal DaVita, Jennifer dari Wisconsin, menyajikan versinya untuk salmon panggang dengan saus lemon segar yang dibumbui cabai cayenne, mustard Dijon, bawang putih, dan caper, plus sedikit kemangi dan dill. Salmon Jeruk adalah hidangan utama yang mudah dibuat, lezat, dan ramah ginjal!
+P: 6
+S: 3 ons
+I: 2 siung bawang putih
+I: 1-1/2 sendok makan air lemon
+I: 2 sendok makan minyak zaitun
+I: 1 sendok makan mentega
+I: 1 sendok makan mustard Dijon
+I: 2 sejumput cabai cayenne
+I: 1 sendok teh daun kemangi kering
+I: 1 sendok teh dill kering
+I: 1 sendok makan caper
+I: 24 ons fillet salmon
+M: Memarkan bawang putih.
+M: Dalam panci saus kecil, campurkan semua bahan kecuali salmon. Didihkan, lalu turunkan suhu menjadi rendah dan masak 5 menit lagi.
+M: Sementara itu, panaskan panggangan terlebih dahulu. Letakkan salmon, sisi kulit di bawah, di atas lembaran foil yang sedikit lebih besar dari ikan. Lipat tepinya ke atas agar saus tetap bersama salmon di atas panggangan. Letakkan foil dan ikan di atas panggangan. Tuang saus yang sudah disiapkan di atas salmon.
+M: Tutup panggangan dan masak selama 12 menit atau hingga salmon matang. (Jangan balik salmon). Potong salmon menjadi 6 porsi.
+H: Resep ini dihitung dengan salmon Atlantik budidaya. Salmon liar Alaska sedikit lebih rendah lemak dan sedikit lebih tinggi kalium dan fosfor. Keduanya merupakan pilihan sehat yang dapat diterima untuk pola makan ginjal.
+H: Anda juga dapat memasak resep ini di oven pada suhu 350°F selama 10 hingga 15 menit hingga matang. Aturan praktis yang baik adalah menyediakan 10 menit untuk setiap inci ketebalan fillet.
+H: Jika Anda menjalani pola makan lebih rendah protein, sesuaikan porsi dengan rencana makan Anda.
+F: 3 daging ;; 1 lemak
+# 2676
+T: Cup Hidangan Penutup dengan Buah Segar
+D: Empat jenis beri segar, adonan phyllo, dan whipped topping nonsusu adalah satu-satunya bahan dalam Cup Hidangan Penutup dengan Buah Segar. Sederhana, rendah fosfor, kalium, dan sodium, serta lezat!
+P: 12
+S: 1 cup hidangan penutup
+I: 4 lembar adonan pastry phyllo, 14″ x 18″
+I: semprotan masak antilengket, rasa mentega
+I: 1 cangkir blueberi segar
+I: 1 cangkir blackberi segar
+I: 1 cangkir rasberi segar
+I: 1 cangkir stroberi segar
+I: 3 cangkir topping makanan penutup beku Cool Whip®
+M: Panaskan oven terlebih dahulu hingga 400° F.
+M: Semprot cetakan muffin 12 lubang dengan semprotan masak rasa mentega Pam®.
+M: Susun 4 lembar adonan phyllo berlapis, semprot ringan dengan semprotan masak di antara setiap lapisan. Potong adonan phyllo menjadi persegi 3-1/2″ dan letakkan dalam cetakan muffin untuk membuat cup hidangan penutup.
+M: Masukkan cetakan muffin ke dalam oven dan panggang 10-12 menit atau hingga cup phyllo berwarna cokelat muda. Dinginkan hingga suhu ruang.
+M: Saat siap disajikan, isi setiap cup hidangan penutup phyllo dengan 1/3 cangkir beri segar. Beri topping 1/4 cangkir topping makanan penutup Cool Whip.
+H: Jika beri segar tidak tersedia, gunakan beri beku tanpa pemanis.
+H: Manisi buah dengan gula atau pengganti gula jika menginginkan rasa lebih manis.
+F: 1 buah, rendah kalium ;; 1 lemak
+# 2684
+T: Sup Ayam Rendah Sodium
+D: Saat Anda menginginkan hidangan ringan yang hangat dan lezat, jangan cari yang lain selain resep Sup Ayam Rendah Sodium yang ramah ginjal.
+P: 10
+S: 1-1/2 cangkir
+I: 1 pon dada ayam, tanpa tulang, tanpa kulit, matang
+I: 1 sendok makan bawang bombai
+I: 4 batang seledri
+I: 2 sendok makan peterseli segar
+I: 1 cangkir wortel segar
+I: 1 sendok makan mentega
+I: 7-1/2 cangkir air
+I: 5 cangkir kaldu ayam rendah sodium
+I: 1/8 sendok teh lada hitam
+I: 1 cangkir sayuran campur beku
+M: Potong dadu ayam dan sisihkan. Cincang bawang bombai, seledri, dan peterseli; iris wortel setebal 1/2 inci.
+M: Tumis mentega dan bawang bombai dalam panci 4 kuart selama 5 menit, hingga empuk.
+M: Tambahkan air dan kaldu ayam lalu didihkan.
+M: Tambahkan ayam, seledri, peterseli, dan lada, lalu tutup dan didihkan perlahan selama 30 menit.
+M: Tambahkan wortel, tutup dan didihkan perlahan selama 20 menit.
+M: Tambahkan sayuran beku, tutup dan didihkan perlahan 20 menit lagi.
+H: Carilah kaldu rendah sodium yang mengandung 500 miligram sodium atau kurang per 1 cangkir porsi. Hindari kaldu dan bouillon rendah sodium yang mengandung kalium klorida, karena sangat tinggi kalium. Merek yang direkomendasikan meliputi Health Valley No Salt, Fat Free Chicken Broth (800-423-4846), Kitchen Basics Natural Chicken Stock, dan Swanson 50% Less Sodium Chicken Broth.
+H: Jika Anda menjalani hemodialisis atau pembatasan cairan, pastikan menghitung cairan dalam sup sebagai bagian dari jatah cairan Anda untuk hari itu.
+F: 2 daging ;; 1 sayuran, rendah kalium
+# 2685
+T: Jagung Bakar Thyme
+D: Semarakkan acara barbekyu Anda berikutnya dengan Jagung Bakar Thyme dari ahli diet ginjal DaVita, Maria dari North Carolina. Kombinasi thyme, lada hitam, dan satu sendok keju Parmesan menambah cita rasa yang kuat dan menjaga sodium tetap rendah dalam hidangan favorit musim panas ini!
+P: 4
+S: 1/2 tongkol jagung
+I: 2 sendok makan minyak zaitun
+I: 1 sendok makan keju parmesan parut
+I: 1/2 sendok teh thyme kering
+I: 1/4 sendok teh lada hitam
+I: 4 jagung beku tongkol ukuran setengah
+M: Campurkan minyak, keju, thyme, dan lada hitam dalam mangkuk dangkal.
+M: Letakkan jagung dalam campuran minyak dan gulingkan hingga jagung terlapisi sempurna.
+M: Letakkan keempat potong jagung di tengah selembar aluminium foil tebal. Tuang sisa minyak dalam mangkuk ke atas jagung. Letakkan 2 es batu di atas jagung.
+M: Lipat ganda bagian atas dan ujung foil untuk membuat bungkusan, sisakan ruang agar panas dapat bersirkulasi.
+M: Letakkan bungkusan foil di atas panggangan dengan api sedang dan masak 20 menit, balik sekali selama memasak.
+H: Dibandingkan sebagian besar sayuran, jagung lebih tinggi fosfor. Porsi 1/2 tongkol dapat diterima untuk pola makan ginjal rendah fosfor.
+H: Gunakan jagung segar sebagai pengganti jagung beku saat sedang musim.
+F: 1/2 pati ;; 1 sayuran, rendah kalium ;; 1 lemak
+# 2686
+T: Salad Telur Mudah
+D: Ahli diet DaVita, Jennie, membuat pasiennya memuji resep Salad Telur Mudah-nya, dan Anda pasti juga akan menyukainya. Cobalah di dalam sandwich, di atas salad, atau oleskan pada biskuit rendah sodium sebagai camilan protein berkualitas tinggi.
+P: 4
+S: 1/2 cangkir
+I: 4 butir telur besar
+I: 1/4 cangkir seledri
+I: 1/2 cangkir bawang bombai manis (Vidalia® atau bawang manis lainnya)
+I: 2 sendok makan relish acar manis
+I: 3 sendok makan mayones
+I: 1 sendok makan mustard kuning
+I: 1 sendok makan campuran bumbu bawang putih & herba Mrs. Dash®
+M: Rebus telur hingga matang selama 8 menit; matikan api dan biarkan telur dalam air selama 2 menit lagi.
+M: Kupas telur lalu cincang atau parut hingga tekstur yang diinginkan.
+M: Cincang halus seledri dan bawang bombai. Tiriskan relish acar lalu takar 2 sendok makan.
+M: Dalam mangkuk sedang, campurkan semua bahan hingga tercampur rata.
+M: Dinginkan di lemari es setidaknya 1 jam sebelum disajikan.
+H: Jika telur dibeli setidaknya seminggu sebelumnya, telur akan jauh lebih mudah dikupas saat direbus.
+H: Bandingkan merek dan pilih mustard, mayones, dan relish acar dengan kandungan sodium terendah.
+H: Dinginkan semalaman di lemari es untuk rasa yang optimal.
+H: Sajikan dengan biskuit rendah sodium atau oleskan pada roti tawar sandwich.
+H: Simpan salad telur dalam tas berinsulasi jika dibawa keluar rumah agar tetap dingin dan menghindari makanan basi.
+F: 1 daging ;; 1/2 sayuran, rendah kalium ;; 1-1/2 lemak
+# 2687
+T: Pancake Jerman
+D: Jika Anda menginginkan pancake yang berbeda, jangan cari yang lain selain Pancake Jerman. Tim Ahli Diet DaVita bersama-sama menyumbangkan hidangan sarapan yang menenangkan ini untuk penderita penyakit ginjal.
+P: 10
+S: 2 pancake
+I: 2/3 cangkir tepung terigu serbaguna
+I: 2 sendok makan gula
+I: 4 butir telur besar
+I: 1 cangkir susu rendah lemak 1%
+I: 1/4 sendok teh ekstrak vanila
+M: Dalam mangkuk sedang, campurkan tepung terigu dan gula. Tambahkan telur dan aduk rata dengan pengocok kawat.
+M: Tambahkan susu dan ekstrak vanila. Kocok hingga halus.
+M: Tuang 3 sendok makan adonan ke dalam wajan antilengket 8″ atau 10″ yang sudah dipanaskan dan disemprot semprotan masak antilengket. Miringkan wajan dengan cepat untuk meratakan adonan. Masak hingga pancake berwarna cokelat di bagian bawah (sekitar 45 detik; tepinya akan mulai mengering). Balik pancake dan cokelatkan sisi lainnya. Lanjutkan hingga semua adonan habis.
+M: Lipat atau gulung pancake tipis dan sajikan dengan olesan buah, selai, atau sirup. Jika suka, tambahkan 1 hingga 2 sendok makan keju ricotta atau krim keju sebagai isian.
+H: Jika Anda menderita diabetes, gunakan olesan buah atau sirup bebas gula sebagai topping.
+H: Analisis nutrisi tidak termasuk topping. Lihat bagan di bawah untuk pilihan.
+F: 1/2 daging ;; 1/2 pati
+# 2692
+T: Tumis Labu Spaghetti
+D: Sebagian besar jenis labu musim dingin tinggi kalium. Labu spaghetti adalah salah satu pengecualian dengan hanya 180 mg kalium dalam satu cangkir. Tapi bagaimana cara menyiapkannya? Ahli diet DaVita, Susan, membagikan resep Tumis Labu Spaghetti-nya. Pasti disukai seluruh keluarga.
+P: 8
+S: 1 cangkir
+I: 1-1/2 cangkir seledri
+I: 1 cangkir bawang bombai
+I: 1 labu spaghetti ukuran sedang, sekitar 3 pon
+I: 3 sendok makan kecap asin rendah sodium
+I: 1 sendok makan air
+I: 1-1/2 sendok teh bawang putih cincang halus
+I: 1 sendok makan gula merah
+I: 2 sendok teh pasta jahe
+I: 1/4 sendok teh lada putih
+I: 2 sendok makan minyak canola
+I: 1 kantong 14 ons campuran slaw klasik dengan wortel
+M: Iris seledri secara diagonal dan potong dadu bawang bombai. Sisihkan.
+M: Cuci labu spaghetti dan tusuk dengan garpu beberapa kali di sekeliling labu. Masak di microwave dengan daya tinggi selama 2 menit hingga melunak. Potong bagian ujung batang, belah dua memanjang dan keluarkan biji beserta selaputnya.
+M: Letakkan belahan labu dengan sisi potong menghadap ke bawah dalam wadah tahan microwave. Tutup bagian atas dengan plastik pembungkus dengan satu sudut dibiarkan terbuka. Masak di microwave dengan daya tinggi selama 12 menit. Dinginkan dan kerok dengan garpu. Sisihkan.
+M: Kocok bersama kecap asin, air, bawang putih, gula merah, pasta jahe, dan lada. Sisihkan.
+M: Panaskan minyak dalam wajan besar dengan api sedang-besar. Tambahkan seledri dan bawang bombai, dan masak hingga empuk, sekitar 3-4 menit.
+M: Tambahkan campuran kubis dan aduk hingga panas merata, sekitar 2-3 menit.
+M: Masukkan labu spaghetti dan campuran kecap asin lalu aduk hingga tercampur rata, sekitar 2 menit.
+M: Sajikan segera!
+H: Jika suka, gunakan 2 sendok teh jahe segar parut sebagai pengganti pasta jahe.
+H: Sesuaikan porsi menjadi 1/2 cangkir untuk makanan dengan kalium lebih rendah.
+F: 2 sayuran, kalium sedang ;; 1 lemak
+# 2701
+T: Kubis Brussel dan Pir Panggang di Loyang
+D: Steak Kubis Berbumbu memberi sentuhan baru pada sayuran krusifera yang kaya antioksidan ini. Hanya 5 bahan, dan Anda tinggal mengiris, membumbui, dan memanggang.
+P: 4
+S: 3/4 cangkir
+I: 2-1/2 cangkir kubis Brussel
+I: 2 pir segar ukuran sedang
+I: 2 sendok teh minyak zaitun
+I: 1 sendok teh glasir cuka balsamik
+M: Panaskan oven terlebih dahulu hingga 400° F.
+M: Buang daun terluar kubis Brussel. Belah dua. Potong pir menjadi dadu 1/2 inci.
+M: Masukkan 1 sendok teh minyak zaitun ke dalam mangkuk pengaduk. Tambahkan kubis Brussel dan aduk hingga terlapisi minyak.
+M: Pindahkan kubis Brussel ke loyang 9” x 13” dan ratakan dalam satu lapisan di separuh loyang. Panggang selama 12 menit.
+M: Masukkan sisa 1 sendok teh minyak zaitun ke dalam mangkuk pengaduk. Tambahkan pir dan aduk hingga terlapisi minyak.
+M: Keluarkan kubis Brussel dari oven dan tambahkan pir ke separuh loyang yang lain. Panggang 12 menit lagi, atau hingga pir empuk.
+M: Siram pir dengan 1 sendok teh glasir cuka balsamik. Campurkan kubis Brussel dan pir dalam mangkuk saji.
+H: Glasir cuka balsamik, juga disebut reduksi cuka balsamik, dapat dibeli atau dibuat sendiri di rumah. Untuk buatan sendiri, dalam panci saus kecil didihkan 1 cangkir cuka lalu turunkan ke api sedang. Masak 10 hingga 15 menit hingga cuka berkurang setengah atau hingga mencapai kekentalan yang diinginkan. Simpan sisanya dalam wadah tertutup di lemari es.
+F: 2 sayuran, kalium sedang ;; 1 buah, rendah kalium

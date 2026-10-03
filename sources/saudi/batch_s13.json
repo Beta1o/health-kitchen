@@ -1,0 +1,93 @@
+[
+ {
+  "id": "areeka",
+  "ar": "العريكة الجنوبية",
+  "en": "Southern Areeka",
+  "region": "Southern",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17903-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10322-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7613-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3546-1.html"
+  ]
+ },
+ {
+  "id": "khubza-janub",
+  "ar": "خبزة الجنوب مع المرق والإيدام",
+  "en": "Southern Bread with Broth",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14584-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5297-1.html"
+  ]
+ },
+ {
+  "id": "mathriya",
+  "ar": "المثرية",
+  "en": "Mathriya",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13525-1.html"
+  ]
+ },
+ {
+  "id": "marsa-jazan",
+  "ar": "المرسة الجيزانية",
+  "en": "Jazani Marsa",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10311-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15869-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7608-1.html"
+  ]
+ },
+ {
+  "id": "maghash-jazan",
+  "ar": "المغش الجيزاني",
+  "en": "Jazani Maghash",
+  "region": "Jazan",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10310-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6061-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4515-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15870-1.html"
+  ]
+ },
+ {
+  "id": "jazani-potato",
+  "ar": "بطاطس جيزاني",
+  "en": "Jazani Potatoes with Sauces",
+  "region": "Jazan",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17562-1.html"
+  ]
+ },
+ {
+  "id": "saj-bread",
+  "ar": "رغفان الصاج",
+  "en": "Saj Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17521-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14662-1.html"
+  ]
+ },
+ {
+  "id": "tannour-bread",
+  "ar": "خبز التنور",
+  "en": "Tannour Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13225-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4173-1.html"
+  ]
+ }
+]

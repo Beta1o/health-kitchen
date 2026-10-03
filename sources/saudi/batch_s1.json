@@ -1,0 +1,99 @@
+[
+ {
+  "id": "madghoot-chicken",
+  "ar": "مضغوط الدجاج",
+  "en": "Chicken Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14315-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2926-1.html"
+  ]
+ },
+ {
+  "id": "madghoot-faqa",
+  "ar": "مضغوط الفقع",
+  "en": "Truffle Madghoot",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17325-1.html"
+  ]
+ },
+ {
+  "id": "mandi-chicken",
+  "ar": "مندي الدجاج",
+  "en": "Chicken Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15893-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15744-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15025-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14317-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10709-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4164-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4160-1.html"
+  ]
+ },
+ {
+  "id": "mandi-meat",
+  "ar": "مندي اللحم",
+  "en": "Meat Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17959-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15023-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13871-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4162-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4370-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4170-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4163-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5016-1.html"
+  ]
+ },
+ {
+  "id": "mandi-goat",
+  "ar": "مندي التيس",
+  "en": "Goat Mandi",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15609-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10670-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10672-1.html"
+  ]
+ },
+ {
+  "id": "mandi-fish",
+  "ar": "مندي السمك",
+  "en": "Fish Mandi",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15027-1.html"
+  ]
+ },
+ {
+  "id": "haneeth",
+  "ar": "حنيذ اللحم",
+  "en": "Haneeth Lamb",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12842-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7046-1.html"
+  ]
+ },
+ {
+  "id": "mufattah-tais",
+  "ar": "مفطح التيس",
+  "en": "Stuffed Whole Goat (Mufattah)",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-2670-1.html"
+  ]
+ }
+]

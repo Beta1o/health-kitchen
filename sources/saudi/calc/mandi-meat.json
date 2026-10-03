@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 560,
+   "name": "lean lamb leg, raw"
+  },
+  {
+   "fdc": 170886,
+   "g": 60,
+   "name": "low-fat yoghurt"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 168165,
+   "g": 15,
+   "name": "raisins"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

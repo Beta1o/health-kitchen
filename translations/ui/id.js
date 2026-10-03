@@ -246,3 +246,60 @@ Object.assign(UI.id, { signInNeeded: "Masuk untuk melihat akun Anda: informasi, 
 UI.id.profiles = { none: "Tanpa rencana (semua resep)", ...UI.id.profiles }; UI.id.conds = { ...UI.id.conds, none: "Semua resep" };
 
 Object.assign(TERMS_X.id, {"Latin American": "Amerika Latin", "Saudi": "Saudi", "Emirati": "Emirat", "Bahraini": "Bahrain", "Lebanese": "Lebanon", "Turkish": "Turki", "Moroccan": "Maroko", "Tunisian": "Tunisia", "Egyptian": "Mesir", "Persian": "Persia", "Afghan": "Afganistan"});
+
+Object.assign(UI.id, {
+  tabOverview: "Ringkasan",
+  tabProfile: "Informasi saya",
+  tabHealth: "Kesehatan & tujuan",
+  tabFood: "Preferensi makanan",
+  tabWeight: "Berat badan",
+  stKcal14: "Kalori, 14 hari terakhir",
+  stGoal: "Kemajuan target berat badan",
+  stGoalDone: "Target tercapai, kerja bagus!",
+  stNoData: "Belum ada riwayat. Tambahkan makanan ke Hari saya dan akan tampil di sini.",
+  weightLog: "Catatan berat badan",
+  stGoalLeft: n => `${n} kg lagi`,
+  memberSince: d => `Anggota sejak ${d}`
+});
+
+Object.assign(UI.id, { mpCuisines: "Masakan", mpAllCuisines: "Semua masakan", mpCuisNote: "Menu diambil dari masakan pilihan Anda; menu yang tidak tersedia memakai masakan apa pun." });
+
+Object.assign(UI.id, { noServer: "Akun tidak tersedia di salinan aplikasi ini. Buka dari server Health Kitchen untuk mendaftar dan memantau rencana serta informasi Anda." });
+
+Object.assign(UI.id, {
+  "tabMyRecipes": "Resep saya",
+  "subNew": "Bagikan resep",
+  "subIntro": "Resep yang Anda bagikan diperiksa oleh tim kami (takaran, satuan, dan bahan) sebelum dapat dilihat orang lain.",
+  "subTitle": "Nama resep",
+  "subDesc": "Deskripsi singkat",
+  "subCat": "Kategori",
+  "subCuisine": "Masakan",
+  "subServings": "Porsi",
+  "subServing": "Ukuran porsi (mis. 1 piring, 250 g)",
+  "subIng": "Bahan",
+  "subQty": "Jumlah",
+  "subItem": "Bahan",
+  "subAddIng": "+ Tambah bahan",
+  "subSteps": "Langkah",
+  "subAddStep": "+ Tambah langkah",
+  "subHints": "Tips (satu per baris)",
+  "subNut": "Gizi per porsi (opsional)",
+  "subSend": "Kirim untuk ditinjau",
+  "subSent": "Terkirim untuk ditinjau. Hasilnya akan tampil di Resep saya.",
+  "subMine": "Resep yang saya bagikan",
+  "subNone": "Anda belum membagikan resep apa pun.",
+  "stPending": "Menunggu tinjauan",
+  "stApproved": "Dipublikasikan",
+  "stRejected": "Tidak disetujui",
+  "subNote": "Catatan peninjau",
+  "subDelete": "Hapus",
+  "subErr": "Harap tambahkan nama, kategori, minimal satu bahan beserta jumlah dan satuannya, dan satu langkah.",
+  "adSubs": "Kiriman resep",
+  "adApprove": "Setujui dan publikasikan",
+  "adReject": "Jangan setujui",
+  "adNotePh": "Catatan untuk penulis (mis. harap tulis jumlah dalam gram)",
+  "adNoSubs": "Tidak ada resep di sini.",
+  "community": "Komunitas"
+});
+
+Object.assign(UI.id, { meal: "Jenis hidangan", mealTypes: {"main": "Hidangan utama", "breakfast": "Sarapan", "starter": "Hidangan pembuka", "side": "Lauk pendamping", "snack": "Camilan", "dessert": "Hidangan penutup", "drink": "Minuman", "condiment": "Saus atau bumbu"}, fitCond: "Ini saus atau bumbu, bukan makanan tersendiri: satu porsi menemani makanan, dan nutrisinya dihitung dalam makanan itu." });

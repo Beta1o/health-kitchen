@@ -1,0 +1,89 @@
+[
+ {
+  "id": "qurs-mulla",
+  "ar": "قرص المله",
+  "en": "Qurs Al-Mulla Bread",
+  "region": "",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15456-1.html"
+  ]
+ },
+ {
+  "id": "mubassal-hasawi",
+  "ar": "المبصل الحساوي",
+  "en": "Hasawi Mubassal Bread",
+  "region": "Hasawi",
+  "kind": "bread",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-11109-1.html"
+  ]
+ },
+ {
+  "id": "muhalla",
+  "ar": "المحلى",
+  "en": "Muhalla (Date Sweet)",
+  "region": "Najdi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14351-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14656-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11762-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10288-1.html"
+  ]
+ },
+ {
+  "id": "maasoub",
+  "ar": "المعصوب",
+  "en": "Ma'soub",
+  "region": "Hijazi",
+  "kind": "breakfast",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7085-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14644-1.html"
+  ]
+ },
+ {
+  "id": "hunaini",
+  "ar": "الحنيني",
+  "en": "Hunaini",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10287-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3541-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3475-1.html"
+  ]
+ },
+ {
+  "id": "halawa-labaniya",
+  "ar": "حلاوة لبنية حجازية",
+  "en": "Hijazi Halawa Labaniya",
+  "region": "Hijazi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13740-1.html"
+  ]
+ },
+ {
+  "id": "shaieriya-halwa",
+  "ar": "الشعيرية الحلوة",
+  "en": "Sweet Vermicelli",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13041-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11058-1.html"
+  ]
+ },
+ {
+  "id": "luqaimat-qar",
+  "ar": "لقيمات القرع",
+  "en": "Pumpkin Luqaimat",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-4757-1.html"
+  ]
+ }
+]

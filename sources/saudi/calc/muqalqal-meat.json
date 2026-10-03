@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 560,
+   "name": "lean lamb leg, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil 1.5 tbsp"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170427,
+   "g": 150,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170497,
+   "g": 35,
+   "name": "green chillies (dish + dip)"
+  },
+  {
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 169997,
+   "g": 10,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice (dip)"
+  },
+  {
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171079,
+   "g": 480,
+   "name": "pigeon (squab) meat without skin, raw (4 small pigeons)"
+  },
+  {
+   "fdc": 168877,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 14,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170497,
+   "g": 20,
+   "name": "green chilies"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170923,
+   "g": 3.5,
+   "name": "cumin, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 170922,
+   "g": 1.5,
+   "name": "coriander, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  }
+ ]
+}

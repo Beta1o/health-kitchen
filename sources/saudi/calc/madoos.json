@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174284,
+   "g": 150,
+   "name": "red lentils, raw"
+  },
+  {
+   "fdc": 169760,
+   "g": 100,
+   "name": "medium-grain rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 250,
+   "name": "onions (pot 150 + topping 100)"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 171413,
+   "g": 18,
+   "name": "olive oil 1 tbsp + 1 tsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 4.5,
+   "name": "ghee 1 tsp"
+  },
+  {
+   "fdc": 170886,
+   "g": 300,
+   "name": "low-fat yoghurt for salad"
+  },
+  {
+   "fdc": 168409,
+   "g": 100,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 172233,
+   "g": 10,
+   "name": "dill"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

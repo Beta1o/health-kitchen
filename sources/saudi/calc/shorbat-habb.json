@@ -1,0 +1,45 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 169719,
+   "g": 170,
+   "name": "whole white wheat grain (habb), dry"
+  },
+  {
+   "fdc": 174313,
+   "g": 450,
+   "name": "lean lamb leg, cubed, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 120,
+   "name": "onion"
+  },
+  {
+   "fdc": 170457,
+   "g": 400,
+   "name": "tomatoes (juice)"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 9,
+   "name": "ghee 2 tsp"
+  },
+  {
+   "fdc": 169997,
+   "g": 10,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt"
+  }
+ ]
+}

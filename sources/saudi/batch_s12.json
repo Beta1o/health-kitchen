@@ -1,0 +1,87 @@
+[
+ {
+  "id": "kebab-mero",
+  "ar": "كباب الميرو",
+  "en": "Kebab Mero",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14965-1.html"
+  ]
+ },
+ {
+  "id": "sayadiyeh",
+  "ar": "الصيادية",
+  "en": "Sayadiyeh Fish and Rice",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14791-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4089-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-habb",
+  "ar": "شوربة الحب",
+  "en": "Habb Soup",
+  "region": "Hijazi",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16477-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14970-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3801-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-adas",
+  "ar": "شوربة العدس",
+  "en": "Lentil Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10669-1.html"
+  ]
+ },
+ {
+  "id": "shorbat-malfouf",
+  "ar": "شوربة الملفوف",
+  "en": "Cabbage Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-3787-1.html"
+  ]
+ },
+ {
+  "id": "mahshi-waraq",
+  "ar": "محشي ورق عنب",
+  "en": "Stuffed Grape Leaves",
+  "region": "",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16356-1.html"
+  ]
+ },
+ {
+  "id": "aseeda-tamr",
+  "ar": "عصيدة التمر",
+  "en": "Date Aseeda",
+  "region": "Najdi",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16314-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10434-1.html"
+  ]
+ },
+ {
+  "id": "aseeda-janubiya",
+  "ar": "العصيدة الجنوبية",
+  "en": "Southern Aseeda",
+  "region": "Southern",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-7618-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5429-1.html"
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171464,
+   "g": 330,
+   "name": "chicken breast/wings meat, skinless, raw"
+  },
+  {
+   "fdc": 173627,
+   "g": 270,
+   "name": "chicken leg meat, skinless, raw"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

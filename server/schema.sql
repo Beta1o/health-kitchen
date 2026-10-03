@@ -81,7 +81,8 @@ BEGIN
     VALUES (lower(p_email), p_hash, coalesce(p_name, ''), r) RETURNING users.id, users.role;
 END $$;
 
-CREATE OR REPLACE FUNCTION hk.login_lookup(p_email text)
+DROP FUNCTION IF EXISTS hk.login_lookup(text);
+CREATE FUNCTION hk.login_lookup(p_email text)
 RETURNS TABLE (id uuid, password_hash text, role text, name text) LANGUAGE sql SECURITY DEFINER SET search_path = hk, pg_temp AS
 $$ SELECT id, password_hash, role, name FROM hk.users WHERE email = lower(p_email) $$;
 
@@ -148,3 +149,58 @@ END $$;
 
 GRANT EXECUTE ON FUNCTION hk.login_lookup(text), hk.session_user_of(text), hk.end_user_sessions(uuid) TO hk_api;
 REVOKE EXECUTE ON FUNCTION hk.login_lookup(text), hk.session_user_of(text), hk.end_user_sessions(uuid) FROM PUBLIC;
+
+-- ---------- v3: admins come only from hk.admin_emails ----------
+CREATE TABLE IF NOT EXISTS hk.admin_emails (email text PRIMARY KEY CHECK (email = lower(email)));
+INSERT INTO hk.admin_emails VALUES ('nmyamani@gmail.com') ON CONFLICT DO NOTHING;
+REVOKE ALL ON hk.admin_emails FROM hk_api;
+
+CREATE OR REPLACE FUNCTION hk.create_user(p_email text, p_hash text, p_name text)
+RETURNS TABLE (id uuid, role text) LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
+DECLARE r text := CASE WHEN EXISTS (SELECT 1 FROM hk.admin_emails a WHERE a.email = lower(p_email)) THEN 'admin' ELSE 'user' END;
+BEGIN
+  RETURN QUERY INSERT INTO hk.users (email, password_hash, name, role)
+    VALUES (lower(p_email), p_hash, coalesce(p_name, ''), r) RETURNING users.id, users.role;
+END $$;
+
+-- a role can only be admin for listed emails, whatever the API sends
+CREATE OR REPLACE FUNCTION hk.enforce_role() RETURNS trigger LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
+BEGIN
+  NEW.role := CASE WHEN EXISTS (SELECT 1 FROM hk.admin_emails a WHERE a.email = NEW.email) THEN 'admin' ELSE 'user' END;
+  RETURN NEW;
+END $$;
+DROP TRIGGER IF EXISTS users_role ON hk.users;
+CREATE TRIGGER users_role BEFORE INSERT OR UPDATE ON hk.users FOR EACH ROW EXECUTE FUNCTION hk.enforce_role();
+UPDATE hk.users SET role = role;
+
+-- ---------- v4: community recipes, published only after an admin approves them ----------
+CREATE TABLE IF NOT EXISTS hk.submissions (
+    id          serial PRIMARY KEY,
+    user_id     uuid NOT NULL REFERENCES hk.users(id) ON DELETE CASCADE,
+    recipe      jsonb NOT NULL,
+    status      text NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'approved', 'rejected')),
+    admin_note  text NOT NULL DEFAULT '',
+    created_at  timestamptz NOT NULL DEFAULT now(),
+    reviewed_at timestamptz
+);
+ALTER TABLE hk.submissions ENABLE ROW LEVEL SECURITY;
+ALTER TABLE hk.submissions FORCE ROW LEVEL SECURITY;
+DROP POLICY IF EXISTS subs_read ON hk.submissions;
+CREATE POLICY subs_read ON hk.submissions FOR SELECT USING (user_id = hk.current_user_id() OR hk.is_admin());
+DROP POLICY IF EXISTS subs_insert ON hk.submissions;
+CREATE POLICY subs_insert ON hk.submissions FOR INSERT WITH CHECK (user_id = hk.current_user_id() AND status = 'pending');
+DROP POLICY IF EXISTS subs_update ON hk.submissions;
+CREATE POLICY subs_update ON hk.submissions FOR UPDATE USING (hk.is_admin() OR (user_id = hk.current_user_id() AND status <> 'approved'))
+    WITH CHECK (hk.is_admin() OR (user_id = hk.current_user_id() AND status = 'pending'));
+DROP POLICY IF EXISTS subs_delete ON hk.submissions;
+CREATE POLICY subs_delete ON hk.submissions FOR DELETE USING (hk.is_admin() OR (user_id = hk.current_user_id() AND status <> 'approved'));
+GRANT SELECT, INSERT, UPDATE, DELETE ON hk.submissions TO hk_api;
+GRANT USAGE ON SEQUENCE hk.submissions_id_seq TO hk_api;
+
+-- approved recipes are public (recipe text and the author's first name only)
+CREATE OR REPLACE FUNCTION hk.approved_recipes()
+RETURNS TABLE (id int, recipe jsonb, author text, approved_at timestamptz) LANGUAGE sql STABLE SECURITY DEFINER SET search_path = hk, pg_temp AS
+$$ SELECT s.id, s.recipe, split_part(u.name, ' ', 1), s.reviewed_at FROM hk.submissions s JOIN hk.users u ON u.id = s.user_id
+   WHERE s.status = 'approved' ORDER BY s.reviewed_at $$;
+GRANT EXECUTE ON FUNCTION hk.approved_recipes() TO hk_api;
+REVOKE EXECUTE ON FUNCTION hk.approved_recipes() FROM PUBLIC;

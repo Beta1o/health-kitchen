@@ -1,0 +1,85 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171077,
+   "g": 500,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 168877,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 19,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170026,
+   "g": 150,
+   "name": "potato"
+  },
+  {
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrots"
+  },
+  {
+   "fdc": 169986,
+   "g": 250,
+   "name": "cauliflower"
+  },
+  {
+   "fdc": 170427,
+   "g": 100,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170108,
+   "g": 100,
+   "name": "red bell pepper"
+  },
+  {
+   "fdc": 169291,
+   "g": 150,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 170922,
+   "g": 3,
+   "name": "coriander, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 171329,
+   "g": 7,
+   "name": "paprika"
+  }
+ ]
+}

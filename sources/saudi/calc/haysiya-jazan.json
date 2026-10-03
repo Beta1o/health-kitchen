@@ -1,0 +1,80 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 560,
+   "name": "lamb leg, lean, raw (boneless edible weight)"
+  },
+  {
+   "fdc": 168943,
+   "g": 100,
+   "name": "sorghum flour, whole-grain (lahoh)"
+  },
+  {
+   "fdc": 168893,
+   "g": 100,
+   "name": "whole wheat flour (lahoh)"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 170000,
+   "g": 180,
+   "name": "onions (broth 150 g + lahoh 30 g)"
+  },
+  {
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 171413,
+   "g": 10,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 173412,
+   "g": 8,
+   "name": "ghee"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "fdc": 170931,
+   "g": 1,
+   "name": "black pepper"
+  },
+  {
+   "fdc": 170919,
+   "g": 1,
+   "name": "cardamom"
+  },
+  {
+   "fdc": 171320,
+   "g": 0.5,
+   "name": "cinnamon"
+  },
+  {
+   "fdc": 170416,
+   "g": 10,
+   "name": "parsley"
+  }
+ ]
+}

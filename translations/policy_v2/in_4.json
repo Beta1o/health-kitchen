@@ -1,0 +1,253 @@
+[
+ {
+  "recipe_id": 1874,
+  "position": 6,
+  "field": "ingredients",
+  "text": {
+   "ar": "7 أونصة كريمة المارشميلو",
+   "hi": "7 औंस मार्शमैलो क्रीम",
+   "fr": "7 onces de crème de guimauve"
+  },
+  "key": 1000
+ },
+ {
+  "recipe_id": 1874,
+  "position": 3,
+  "field": "steps",
+  "text": {
+   "ar": "في محضّرة الطعام، اخلط عصير الليمون وكريمة المارشميلو والفراولة حتى يمتزج الخليط جيدًا.",
+   "hi": "फूड प्रोसेसर में नींबू का रस, मार्शमैलो क्रीम और स्ट्रॉबेरी को अच्छी तरह मिलने तक चलाएं।",
+   "fr": "Dans un robot culinaire, mélangez le jus de citron, la crème de guimauve et les fraises jusqu'à ce que le tout soit bien combiné."
+  },
+  "key": 1001
+ },
+ {
+  "recipe_id": 2334,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "This marshmallow-based Easy Summer Fruit Dip recipe by DaVita renal dietitian, Laura from Colorado, is so easy to prepare and a great way to enjoy fruit any time of year when you’re on a kidney diet.",
+   "ur": "کولوراڈو کی ڈی واٹا (DaVita) گردوں کی غذائی ماہر لورا کی مارش میلو پر مبنی یہ آسان گرمیوں کا فروٹ ڈِپ بنانا بہت آسان ہے، اور گردوں کی غذا پر ہوتے ہوئے سال کے کسی بھی وقت پھل سے لطف اندوز ہونے کا بہترین طریقہ ہے۔",
+   "hi": "कोलोराडो की डीवीटा रीनल डाइटिशियन लौरा की मार्शमैलो आधारित यह आसान समर फ्रूट डिप रेसिपी बनाने में बहुत आसान है, और किडनी डाइट पर होते हुए साल के किसी भी समय फल खाने का बेहतरीन तरीका है।",
+   "fr": "Cette trempette facile aux fruits pour l'été, à base de guimauve, créée par Laura, diététicienne en néphrologie chez DaVita au Colorado, est très simple à préparer et constitue un excellent moyen de manger des fruits en toute saison lorsque l'on suit une alimentation adaptée aux reins.",
+   "id": "Resep Saus Celup Buah Musim Panas yang Mudah berbahan dasar marshmallow ini dari ahli gizi ginjal DaVita, Laura dari Colorado, sangat mudah dibuat dan cara yang bagus untuk menikmati buah kapan saja saat Anda menjalani diet ginjal."
+  },
+  "key": 1002
+ },
+ {
+  "recipe_id": 2334,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "ar": "يحتوي برطمان كريمة المارشميلو الواحد على 7 أونصات.",
+   "ur": "مارش میلو کریم کا ایک جار 7 اونس کا ہوتا ہے۔",
+   "hi": "मार्शमैलो क्रीम का एक जार 7 औंस का होता है।",
+   "fr": "Un pot de crème de guimauve contient 7 onces.",
+   "id": "Satu toples krim marshmallow berisi 7 ons."
+  },
+  "key": 1003
+ },
+ {
+  "recipe_id": 2334,
+  "position": 2,
+  "field": "ingredients",
+  "text": {
+   "en": "7 ounces marshmallow cream",
+   "ar": "7 أونصة كريمة المارشميلو",
+   "ur": "7 اونس مارش میلو کریم",
+   "hi": "7 औंस मार्शमैलो क्रीम",
+   "fr": "7 onces de crème de guimauve",
+   "id": "7 ons krim marshmallow"
+  },
+  "key": 1004
+ },
+ {
+  "recipe_id": 2334,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "en": "Blend marshmallow and cream cheese together thoroughly, using an electric mixer.",
+   "ar": "اخلط المارشميلو والجبن الكريمي جيدًا باستخدام الخلاط الكهربائي.",
+   "ur": "الیکٹرک مکسر کی مدد سے مارش میلو اور کریم چیز کو اچھی طرح ملا لیں۔",
+   "hi": "इलेक्ट्रिक मिक्सर से मार्शमैलो और क्रीम चीज़ को अच्छी तरह मिलाएँ।",
+   "fr": "Mélangez soigneusement la guimauve et le fromage à la crème à l'aide d'un batteur électrique.",
+   "id": "Campurkan marshmallow dan krim keju hingga benar-benar merata menggunakan mixer listrik."
+  },
+  "key": 1005
+ },
+ {
+  "recipe_id": 2529,
+  "position": 4,
+  "field": "hints",
+  "text": {
+   "hi": "मार्शमैलो क्रीम को मार्शमैलो फ्लफ़ भी कहते हैं। आप 2 कप मार्शमैलो क्रीम की जगह 40 बड़े मार्शमैलो इस्तेमाल कर सकते हैं।",
+   "fr": "La crème de guimauve est aussi appelée marshmallow fluff. Vous pouvez remplacer 2 tasses de crème de guimauve par 40 grosses guimauves."
+  },
+  "key": 1006
+ },
+ {
+  "recipe_id": 2529,
+  "position": 2,
+  "field": "ingredients",
+  "text": {
+   "hi": "2 कप मार्शमैलो क्रीम",
+   "fr": "2 tasses de crème de guimauve"
+  },
+  "key": 1007
+ },
+ {
+  "recipe_id": 2529,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "hi": "मार्शमैलो क्रीम डालकर 30 सेकंड माइक्रोवेव करें; चलाएँ। 30 सेकंड और माइक्रोवेव करें और अच्छी तरह मिलने तक चलाएँ।",
+   "fr": "Ajoutez la crème de guimauve et faites cuire au micro-ondes pendant 30 secondes ; remuez. Faites cuire 30 secondes de plus au micro-ondes et remuez jusqu'à ce que le tout soit bien mélangé."
+  },
+  "key": 1008
+ },
+ {
+  "recipe_id": 2876,
+  "position": 2,
+  "field": "ingredients",
+  "text": {
+   "en": "7 ounces marshmallow cream",
+   "hi": "7 औंस मार्शमैलो क्रीम",
+   "fr": "7 onces de crème de guimauve",
+   "id": "7 ons krim marshmallow"
+  },
+  "key": 1009
+ },
+ {
+  "recipe_id": 3824,
+  "position": 7,
+  "field": "ingredients",
+  "text": {
+   "en": "10 tablespoons marshmallow fluff",
+   "ar": "10 ملعقة كبيرة كريمة المارشميلو",
+   "hi": "10 बड़े चम्मच मार्शमैलो फ़्लफ़",
+   "fr": "10 cuillères à soupe de crème de guimauve",
+   "id": "10 sendok makan marshmallow fluff"
+  },
+  "key": 1010
+ },
+ {
+  "recipe_id": 3824,
+  "position": 4,
+  "field": "steps",
+  "text": {
+   "en": "For each serving pour 6 ounces into a small coffee cup and garnish with a tablespoon of marshmallow fluff and a drizzle of sugar-free caramel syrup.",
+   "ar": "لكل حصة، اسكب 6 أونصات في فنجان قهوة صغير، وزيّنه بملعقة كبيرة من كريمة المارشميلو ورشة من شراب الكراميل الخالي من السكر.",
+   "hi": "हर सर्विंग के लिए 6 औंस एक छोटे कॉफ़ी कप में डालें और ऊपर 1 बड़ा चम्मच मार्शमैलो फ़्लफ़ और शुगर-फ़्री कैरेमल सिरप की धार से सजाएँ।",
+   "fr": "Pour chaque portion, versez 6 onces dans une petite tasse à café et garnissez d'une cuillère à soupe de crème de guimauve et d'un filet de sirop de caramel sans sucre.",
+   "id": "Untuk setiap porsi, tuangkan 6 ons ke dalam cangkir kopi kecil, lalu hiasi dengan satu sendok makan marshmallow fluff dan siraman sirup karamel bebas gula."
+  },
+  "key": 1011
+ },
+ {
+  "recipe_id": 6064401,
+  "position": 3,
+  "field": "steps",
+  "text": {
+   "hi": "लेटस को 4 कटोरों में बाँटें। ऊपर चिकन, टर्की बेकन, टमाटर, एवोकाडो और अंडे की सफ़ेदी डालें। ऊपर से ड्रेसिंग डालें।",
+   "fr": "Répartissez la laitue entre 4 bols. Garnissez de poulet, de bacon de dinde, de tomates, d'avocat et de blancs d'œufs. Arrosez de vinaigrette."
+  },
+  "key": 1012
+ },
+ {
+  "recipe_id": 6164365,
+  "position": 3,
+  "field": "steps",
+  "text": {
+   "ur": "ایک درمیانے پیالے میں انڈے کے متبادل کو نمک اور کالی مرچ کے ساتھ پھینٹیں، پھر اسے آلو سے لپے ہوئے مفن کپوں میں یکساں ڈالیں۔ ہر کپ کے اوپر کچھ ساسیج کا آمیزہ، ٹرکی بیکن اور پنیر ڈالیں۔",
+   "hi": "एक मध्यम कटोरे में अंडे के विकल्प को नमक और काली मिर्च के साथ फेंटें, फिर इसे आलू की परत वाले मफ़िन कपों में बराबर डालें। हर कप के ऊपर थोड़ा सॉसेज का मिश्रण, टर्की बेकन और चीज़ डालें।",
+   "fr": "Dans un bol moyen, battez le substitut d'œuf avec le sel et le poivre noir, puis versez-le uniformément dans les cavités garnies de pommes de terre. Garnissez chaque cavité d'une partie du mélange de saucisse, de bacon de dinde et de fromage."
+  },
+  "key": 1013
+ },
+ {
+  "recipe_id": 6426164,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ur": "یہ مسالے دار، کریمی، ٹرکی بیکن میں لپٹی چیزیں مجمع کو یقینی طور پر پسند آئیں گی۔",
+   "hi": "ये तीखे, मलाईदार, टर्की बेकन में लिपटे व्यंजन निश्चित रूप से भीड़ को पसंद आएंगे।",
+   "fr": "Ces délices épicés, crémeux et enrobés de bacon de dinde font à coup sûr l'unanimité."
+  },
+  "key": 1014
+ },
+ {
+  "recipe_id": 6447164,
+  "position": 3,
+  "field": "steps",
+  "text": {
+   "ur": "ٹرکی بیکن کو کوکنگ اسپرے لگے نان اسٹک سوٹے پین میں درمیانی آنچ پر ڈالیں اور کرکرا ہونے تک پکائیں۔ کاغذی تولیے پر پانی نکال کر الگ رکھ دیں۔",
+   "hi": "एक नॉन-स्टिक सॉते पैन में कुकिंग स्प्रे लगाकर टर्की बेकन डालें और मध्यम आंच पर कुरकुरा होने तक पकाएँ। पेपर टॉवल पर निकालकर तेल सोख लें और एक तरफ रख दें।",
+   "fr": "Mettez le bacon de dinde dans une poêle antiadhésive avec de l'enduit de cuisson, à feu moyen, et faites cuire jusqu'à ce qu'il soit croustillant. Égouttez sur un papier absorbant et réservez."
+  },
+  "key": 1015
+ },
+ {
+  "recipe_id": 6447164,
+  "position": 4,
+  "field": "steps",
+  "text": {
+   "ur": "ٹرکی بیکن پکانے والے پین میں پیاز ڈالیں اور ضرورت ہو تو مزید کوکنگ اسپرے لگائیں۔ پیاز کو وقفے وقفے سے ہلاتے ہوئے شفاف ہونے تک پکائیں۔ ٹھنڈا ہونے کے لیے الگ رکھ دیں۔",
+   "hi": "टर्की बेकन पकाने वाले पैन में प्याज डालें, ज़रूरत हो तो और कुकिंग स्प्रे लगाएँ। प्याज को बीच-बीच में चलाते हुए पारदर्शी होने तक पकाएँ। ठंडा होने के लिए एक तरफ रख दें।",
+   "fr": "Ajoutez les oignons dans la poêle utilisée pour cuire le bacon de dinde, avec un peu plus d'enduit de cuisson si nécessaire. Faites cuire les oignons en remuant de temps à autre jusqu'à ce qu'ils soient translucides. Laissez refroidir."
+  },
+  "key": 1016
+ },
+ {
+  "recipe_id": 6447164,
+  "position": 5,
+  "field": "steps",
+  "text": {
+   "hi": "एक छोटे कटोरे में क्रीम चीज़ और बकरी का चीज़ मिलाएँ। इसमें टर्की बेकन, प्याज और कुटी लाल मिर्च के फ्लेक्स डालें। सबको अच्छी तरह मिला लें।",
+   "fr": "Dans un petit bol, mélangez le fromage à la crème et le fromage de chèvre. Ajoutez le bacon de dinde, les oignons et les flocons de piment rouge. Remuez pour bien combiner."
+  },
+  "key": 1017
+ },
+ {
+  "recipe_id": 6517612,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ur": "پھلیاں اور ہری پتیاں ایک کلاسک اطالوی کھانا یا سائیڈ ڈش ہے۔ ذیابیطس کے لیے موزوں اس ورژن میں ٹرکی بیکن اور چکن ساسیج استعمال کیا گیا ہے۔ انہیں بیبی گرینز اور کینیلینی بینز کے ساتھ ملا کر سلاد بنایا جاتا ہے۔ یہ بحیرہ روم کے ایک کلاسک کھانے کا دل بھرنے والا، تازہ انداز ہے۔",
+   "hi": "बीन्स और ग्रीन्स एक क्लासिक इटैलियन भोजन या साइड डिश है। इस मधुमेह के अनुकूल संस्करण में टर्की बेकन और चिकन सॉसेज का उपयोग किया गया है। इन्हें बेबी ग्रीन्स और कैनेलिनी बीन्स के साथ मिलाकर सलाद बनाया जाता है। यह एक भूमध्यसागरीय क्लासिक का भरपेट, ताज़ा नया रूप है।",
+   "fr": "Les haricots et les verdures forment un repas ou un accompagnement italien classique. Cette version adaptée aux personnes diabétiques est préparée avec du bacon de dinde et de la saucisse de poulet. Ils sont mélangés à des jeunes pousses et à des haricots cannellini pour en faire une salade. C'est une version copieuse et fraîche d'un classique méditerranéen."
+  },
+  "key": 1018
+ },
+ {
+  "recipe_id": 6527440,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "ur": "جب آلو پک رہے ہوں، ٹرکی بیکن کو کرکرا ہونے تک پکائیں، پھر چھوٹے ٹکڑوں میں کاٹ یا چورا کر لیں۔",
+   "hi": "जब तक आलू पक रहे हों, टर्की बेकन को कुरकुरा होने तक पकाएँ, फिर उसे छोटे टुकड़ों में काटें या चूरा करें।",
+   "fr": "Pendant la cuisson des patates, faites cuire le bacon de dinde jusqu'à ce qu'il soit croustillant, puis hachez-le ou émiettez-le en petits morceaux."
+  },
+  "key": 1019
+ },
+ {
+  "recipe_id": 6934057,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "ur": "ٹرکی بیکن کے ساتھ بھنے ہوئے برسلز اسپراؤٹس",
+   "hi": "टर्की बेकन के साथ रोस्टेड ब्रसल्स स्प्राउट्स",
+   "fr": "Choux de Bruxelles rôtis au bacon de dinde"
+  },
+  "key": 1020
+ },
+ {
+  "recipe_id": 7276005,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ar": "مشروب شتوي دافئ ومتبّل خالٍ من الكحول.",
+   "ur": "سردیوں کا ایک گرم اور مسالے دار بغیر الکحل مشروب۔"
+  },
+  "key": 1021
+ }
+]

@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 169719,
+   "g": 200,
+   "name": "jareesh (crushed whole wheat), dry - hard white wheat"
+  },
+  {
+   "fdc": 171077,
+   "g": 520,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "fdc": 170886,
+   "g": 300,
+   "name": "low-fat yoghurt (for laban)"
+  },
+  {
+   "fdc": 170000,
+   "g": 250,
+   "name": "onions (pot 100 + kushna 150)"
+  },
+  {
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173412,
+   "g": 5,
+   "name": "ghee 1 tsp"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

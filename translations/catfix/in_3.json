@@ -1,0 +1,3272 @@
+[
+{
+"id": 7557099,
+"title": "Smoky tofu kebabs",
+"category": "Vegetables"
+},
+{
+"id": 7557682,
+"title": "Rice and beans",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7559129,
+"title": "Sweet potato and spinach curry",
+"category": "Vegetables"
+},
+{
+"id": 7561013,
+"title": "Berry trifle",
+"category": "Desserts"
+},
+{
+"id": 7562767,
+"title": "Barley pilaf with tofu",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7563745,
+"title": "Quick chicken korma",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7564027,
+"title": "Lower-fat cauliflower and broccoli cheese",
+"category": "Vegetables"
+},
+{
+"id": 7568376,
+"title": "Iced tea",
+"category": "Beverages"
+},
+{
+"id": 7570891,
+"title": "Aubergine parmigiana",
+"category": "Vegetables"
+},
+{
+"id": 7571497,
+"title": "Bubble and squeak",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7571970,
+"title": "Sweet potato and corn chowder",
+"category": "Soups & Stews"
+},
+{
+"id": 7572993,
+"title": "Thai chicken stir fry",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7573930,
+"title": "Mini spiced orange pancakes",
+"category": "Breads"
+},
+{
+"id": 7573996,
+"title": "Parmesan parsnips",
+"category": "Vegetables"
+},
+{
+"id": 7574767,
+"title": "Crab tagliatelle",
+"category": "Fish & Seafood"
+},
+{
+"id": 7577031,
+"title": "Celeriac mash",
+"category": "Vegetables"
+},
+{
+"id": 7578518,
+"title": "Cod and salmon burgers",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7583393,
+"title": "Salmon and spinach filo tarts",
+"category": "Fish & Seafood"
+},
+{
+"id": 7585135,
+"title": "Leek and potato salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7585778,
+"title": "Sweetcorn fritter with salsa",
+"category": "Vegetables"
+},
+{
+"id": 7585916,
+"title": "Spicy crab tortilla",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7587856,
+"title": "Conchiglie with roasted tomato and tiger prawn",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7591571,
+"title": "Baked cod with parsley and horseradish crust",
+"category": "Fish & Seafood"
+},
+{
+"id": 7594884,
+"title": "Tofu noodle stir fry",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7595443,
+"title": "Greek-style chicken pittas",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7599326,
+"title": "Caramelised leek quiche",
+"category": "Vegetables"
+},
+{
+"id": 7605212,
+"title": "Lamb curry",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7607126,
+"title": "Spinach and rice soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7609589,
+"title": "Frozen yoghurt layer cake",
+"category": "Desserts"
+},
+{
+"id": 7614740,
+"title": "Carrot and swede mash",
+"category": "Vegetables"
+},
+{
+"id": 7616374,
+"title": "Courgette cornbread muffins with salsa",
+"category": "Breads"
+},
+{
+"id": 7616762,
+"title": "Apple and sultana rock cakes",
+"category": "Desserts"
+},
+{
+"id": 7618221,
+"title": "Garlic bread",
+"category": "Breads"
+},
+{
+"id": 7619702,
+"title": "Trout with citrus and basil sauce",
+"category": "Fish & Seafood"
+},
+{
+"id": 7619710,
+"title": "Brussels sprout gratin",
+"category": "Vegetables"
+},
+{
+"id": 7619989,
+"title": "Moroccan lamb and chickpea burgers",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7621440,
+"title": "Chicken nuggets",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7624456,
+"title": "Scallops with lime and chilli butter",
+"category": "Fish & Seafood"
+},
+{
+"id": 7627305,
+"title": "Mexican turkey meatballs",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7628199,
+"title": "Tartiflette (breakfast stir-fry)",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7639641,
+"title": "Rainbow salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7641472,
+"title": "Stuffed baked aubergine",
+"category": "Vegetables"
+},
+{
+"id": 7642926,
+"title": "Light and fluffy watercress soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7644476,
+"title": "Barley and wild mushroom risotto",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7644993,
+"title": "Sweet potato pudding cake",
+"category": "Desserts"
+},
+{
+"id": 7649613,
+"title": "Rich fruit cake",
+"category": "Desserts"
+},
+{
+"id": 7651076,
+"title": "Jollof rice and chicken",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7652430,
+"title": "Apple, blackberry, oat and seed crumble",
+"category": "Desserts"
+},
+{
+"id": 7654528,
+"title": "Vietnamese crunchy peanut salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7658821,
+"title": "Cauliflower and leek soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7659110,
+"title": "2-ingredient pancakes",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7659367,
+"title": "Homemade vegetable crisps",
+"category": "Vegetables"
+},
+{
+"id": 7660536,
+"title": "Poached spiced pears",
+"category": "Desserts"
+},
+{
+"id": 7660769,
+"title": "Chana chaat (mixed bean salad)",
+"category": "Salads & Dressings"
+},
+{
+"id": 7661931,
+"title": "Mini bagels with smoked salmon spread",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7665488,
+"title": "Spinach, sweet potato and chickpea soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7668562,
+"title": "Rhubarb and ginger sponge",
+"category": "Desserts"
+},
+{
+"id": 7670689,
+"title": "Summer vegetables with citrus dressing",
+"category": "Salads & Dressings"
+},
+{
+"id": 7671544,
+"title": "Microwave mug: Chocolate, banana and almond cups",
+"category": "Desserts"
+},
+{
+"id": 7673690,
+"title": "Turkey and mushroom pie",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7675617,
+"title": "Grilled Mediterranean peppers",
+"category": "Vegetables"
+},
+{
+"id": 7677354,
+"title": "Stuffed parathas",
+"category": "Breads"
+},
+{
+"id": 7681544,
+"title": "Apple and raisin chelsea buns",
+"category": "Breads"
+},
+{
+"id": 7682200,
+"title": "Sag Aloo",
+"category": "Vegetables"
+},
+{
+"id": 7683555,
+"title": "Minced beef and vegetable filo pie",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7683747,
+"title": "Mixed vegetable and bean curry",
+"category": "Vegetables"
+},
+{
+"id": 7684321,
+"title": "Cod goujons",
+"category": "Fish & Seafood"
+},
+{
+"id": 7684396,
+"title": "Chicken chow mein",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7688306,
+"title": "Gazpacho",
+"category": "Soups & Stews"
+},
+{
+"id": 7690806,
+"title": "Sole goujons with vegetable chips",
+"category": "Fish & Seafood"
+},
+{
+"id": 7692699,
+"title": "Soda bread pizzetta",
+"category": "Breads"
+},
+{
+"id": 7693850,
+"title": "Cauliflower pizza",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7695929,
+"title": "Chicken fried rice",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7696162,
+"title": "Raspberry fruit spread",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7696438,
+"title": "Roasted tomato and pepper bulgur wheat salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7700186,
+"title": "Pad Thai",
+"category": "Vegetables"
+},
+{
+"id": 7705270,
+"title": "Summer berry posset",
+"category": "Desserts"
+},
+{
+"id": 7709454,
+"title": "Lamb provençal",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7714393,
+"title": "Salad nicoise",
+"category": "Salads & Dressings"
+},
+{
+"id": 7716059,
+"title": "Vegetarian lasagne",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7716634,
+"title": "Char siu chicken skewers & sweet peppers",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7718325,
+"title": "Blueberry yoghurt cake with muesli base",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7719810,
+"title": "Bean and mushroom enchiladas",
+"category": "Vegetables"
+},
+{
+"id": 7720686,
+"title": "Herby mackerel",
+"category": "Fish & Seafood"
+},
+{
+"id": 7721061,
+"title": "Paprika roast roots",
+"category": "Vegetables"
+},
+{
+"id": 7722208,
+"title": "Spinach and Wensleydale stuffed portobello mushroom",
+"category": "Vegetables"
+},
+{
+"id": 7724336,
+"title": "Coconut rice pudding",
+"category": "Desserts"
+},
+{
+"id": 7727187,
+"title": "Extra-fruity hot cross buns",
+"category": "Breads"
+},
+{
+"id": 7727427,
+"title": "Fish pie",
+"category": "Fish & Seafood"
+},
+{
+"id": 7731476,
+"title": "Herby vegetable quiche",
+"category": "Vegetables"
+},
+{
+"id": 7733710,
+"title": "Mexican tuna pâté",
+"category": "Fish & Seafood"
+},
+{
+"id": 7733869,
+"title": "Hot souffle apples with creme fraiche",
+"category": "Desserts"
+},
+{
+"id": 7735462,
+"title": "Patatas bravas",
+"category": "Vegetables"
+},
+{
+"id": 7737810,
+"title": "Spicy tofu scramble",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7739965,
+"title": "Bang bang chicken salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7741982,
+"title": "Spicy prawn and pak choi stir-fry",
+"category": "Fish & Seafood"
+},
+{
+"id": 7742200,
+"title": "Squash and chicken curry",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7743074,
+"title": "Baby baked potatoes with beef and horseradish",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7746605,
+"title": "Popcorn",
+"category": "Desserts"
+},
+{
+"id": 7748136,
+"title": "Portobello mushroom burgers",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7754918,
+"title": "Courgette, feta and mint salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7757165,
+"title": "Mushroom risotto",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7759221,
+"title": "Potato pancakes",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7767561,
+"title": "Thai cod cakes with chilli dipping sauce",
+"category": "Desserts"
+},
+{
+"id": 7767641,
+"title": "Vegetarian shepherd’s pie with sweet potato mash",
+"category": "Vegetables"
+},
+{
+"id": 7770076,
+"title": "Cheegay of fish",
+"category": "Fish & Seafood"
+},
+{
+"id": 7772137,
+"title": "Tandoori chicken and cauliflower with herby raita",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7772248,
+"title": "Bleeding heart Halloween cake",
+"category": "Desserts"
+},
+{
+"id": 7772849,
+"title": "Vanilla-scented spiced fruit",
+"category": "Desserts"
+},
+{
+"id": 7778417,
+"title": "Quark, garlic, roast red pepper and onion dip",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7780864,
+"title": "Bakewell peaches",
+"category": "Desserts"
+},
+{
+"id": 7785022,
+"title": "Orange fruit spread",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7786545,
+"title": "Irish stew and colcannon",
+"category": "Soups & Stews"
+},
+{
+"id": 7791572,
+"title": "Green Thai fish curry",
+"category": "Fish & Seafood"
+},
+{
+"id": 7792690,
+"title": "Sweet potato soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7793516,
+"title": "Chicken biryani",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7798440,
+"title": "Healthy hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7798713,
+"title": "Crispy beef salad with horseradish dressing",
+"category": "Salads & Dressings"
+},
+{
+"id": 7800433,
+"title": "Fish traybake with cauliflower and lentils",
+"category": "Fish & Seafood"
+},
+{
+"id": 7802312,
+"title": "Turkey and cranberry pinwheel tortillas",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7804832,
+"title": "Aubergine and chickpea curry",
+"category": "Vegetables"
+},
+{
+"id": 7805110,
+"title": "Chicken and spinach burritos",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7805342,
+"title": "Watermelon, butterbean and feta salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7805746,
+"title": "Speedy salmon pasta",
+"category": "Fish & Seafood"
+},
+{
+"id": 7806347,
+"title": "Marinated monkfish",
+"category": "Fish & Seafood"
+},
+{
+"id": 7809105,
+"title": "Apple Charlotte",
+"category": "Desserts"
+},
+{
+"id": 7809362,
+"title": "Pear and almond traybake",
+"category": "Desserts"
+},
+{
+"id": 7812028,
+"title": "Skewered fruit with dipping sauces",
+"category": "Desserts"
+},
+{
+"id": 7813247,
+"title": "Roasted swordfish with salsa on puy lentils",
+"category": "Fish & Seafood"
+},
+{
+"id": 7814654,
+"title": "Apricot crunch",
+"category": "Desserts"
+},
+{
+"id": 7816882,
+"title": "Haddock with salsa verde, broccoli and bean mash",
+"category": "Fish & Seafood"
+},
+{
+"id": 7817889,
+"title": "Roasted vegetable pizza",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7822207,
+"title": "Tortillas stuffed with chicken and salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7823636,
+"title": "Chocolate brownies",
+"category": "Desserts"
+},
+{
+"id": 7832382,
+"title": "Tomato sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7832746,
+"title": "Apple & cranberry bircher muesli",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7833036,
+"title": "Seafood parcels",
+"category": "Fish & Seafood"
+},
+{
+"id": 7833058,
+"title": "Marinated mackerel salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7833905,
+"title": "One crust fruit pie",
+"category": "Desserts"
+},
+{
+"id": 7835214,
+"title": "Cod with roasted winter veggies",
+"category": "Fish & Seafood"
+},
+{
+"id": 7836528,
+"title": "Carrot and swede-topped veggie cottage pie",
+"category": "Vegetables"
+},
+{
+"id": 7837338,
+"title": "Mixed bean chilli",
+"category": "Vegetables"
+},
+{
+"id": 7840147,
+"title": "Braised cod with peas, spring onions and carrots",
+"category": "Fish & Seafood"
+},
+{
+"id": 7842764,
+"title": "Easter biscuits",
+"category": "Desserts"
+},
+{
+"id": 7843879,
+"title": "Piri piri chicken",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7844829,
+"title": "Spiced lamb skewers",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7845092,
+"title": "Grilled chicken salad with avocado dressing",
+"category": "Salads & Dressings"
+},
+{
+"id": 7848709,
+"title": "Pancakes (crepes)",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7854676,
+"title": "Beetroot hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7854824,
+"title": "Vegetable chilli",
+"category": "Vegetables"
+},
+{
+"id": 7856586,
+"title": "Carrot, cumin & coriander salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7857625,
+"title": "Tabbouleh",
+"category": "Salads & Dressings"
+},
+{
+"id": 7859144,
+"title": "Tomato and red pepper risotto",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7859226,
+"title": "Fish parcels",
+"category": "Fish & Seafood"
+},
+{
+"id": 7860482,
+"title": "Turkey and mushroom mince",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7863056,
+"title": "Tuna balls with tomato sauce",
+"category": "Fish & Seafood"
+},
+{
+"id": 7868675,
+"title": "Veggie brunch wraps",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7870024,
+"title": "Greek homestyle chicken",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7878991,
+"title": "Marinated chicken skewers with couscous",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7879167,
+"title": "Aubergine and courgette Parmesan bake",
+"category": "Vegetables"
+},
+{
+"id": 7882491,
+"title": "Butterbean pâté",
+"category": "Vegetables"
+},
+{
+"id": 7882956,
+"title": "Turkey burger",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7886286,
+"title": "Baked veggie breakfast",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7887932,
+"title": "Stuffed baby peppers",
+"category": "Vegetables"
+},
+{
+"id": 7890431,
+"title": "Chilli-garlic greens",
+"category": "Vegetables"
+},
+{
+"id": 7891265,
+"title": "Sesame crusted salmon and green bean salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7891662,
+"title": "Murgh salun (chicken curry)",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7892992,
+"title": "Spiced apple polenta bites",
+"category": "Desserts"
+},
+{
+"id": 7895649,
+"title": "Halloween biscuits",
+"category": "Desserts"
+},
+{
+"id": 7897038,
+"title": "Courgette fritters with salsa",
+"category": "Vegetables"
+},
+{
+"id": 7897849,
+"title": "Fab fish, chips and peas",
+"category": "Fish & Seafood"
+},
+{
+"id": 7900276,
+"title": "Beef and barley soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7900398,
+"title": "Spicy bean quesadillas",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7902347,
+"title": "Moroccan squash and aubergine tagine",
+"category": "Soups & Stews"
+},
+{
+"id": 7903857,
+"title": "Baked eggs",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7905259,
+"title": "Pasta bean and chilli bake",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7905699,
+"title": "Ethiopian beef stew",
+"category": "Soups & Stews"
+},
+{
+"id": 7908780,
+"title": "Caramelised onion, red pepper and courgette soda bread",
+"category": "Breads"
+},
+{
+"id": 7912562,
+"title": "Gammon and pineapple stir fry",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 7912812,
+"title": "Roast mackerel with a curried coriander crust",
+"category": "Fish & Seafood"
+},
+{
+"id": 7919843,
+"title": "Apple Strudel",
+"category": "Desserts"
+},
+{
+"id": 7920025,
+"title": "Caesar salad with chargrilled chicken",
+"category": "Salads & Dressings"
+},
+{
+"id": 7920525,
+"title": "Spinach and mushroom lasagne",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7920715,
+"title": "Chocolate orange soufflé",
+"category": "Desserts"
+},
+{
+"id": 7923594,
+"title": "Pyaaj pakora baked battered onions",
+"category": "Vegetables"
+},
+{
+"id": 7924662,
+"title": "Goat’s cheese, beetroot and walnut salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7926248,
+"title": "Hearty Spanish omelette",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7931899,
+"title": "Fruity oatbake",
+"category": "Desserts"
+},
+{
+"id": 7940182,
+"title": "Bread sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7941754,
+"title": "Bircher muesli",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7942789,
+"title": "Summer berry crush",
+"category": "Desserts"
+},
+{
+"id": 7943784,
+"title": "Vegetable chow mein",
+"category": "Vegetables"
+},
+{
+"id": 7944719,
+"title": "Spinach, lemon and feta salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7945459,
+"title": "Gado gado",
+"category": "Vegetables"
+},
+{
+"id": 7949087,
+"title": "Chicken noodles",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7950673,
+"title": "Smoky chicken kebabs",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7951025,
+"title": "Microwave mug: Sesame salmon and broccoli",
+"category": "Fish & Seafood"
+},
+{
+"id": 7953493,
+"title": "Herby lentil salad with a tomato sumac vinaigrette",
+"category": "Salads & Dressings"
+},
+{
+"id": 7954392,
+"title": "Spinach and ricotta cannelloni",
+"category": "Vegetables"
+},
+{
+"id": 7958217,
+"title": "Tomato, olive, asparagus and bean salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7958623,
+"title": "Turkey and corn chowder",
+"category": "Soups & Stews"
+},
+{
+"id": 7959955,
+"title": "Pressure cooked bean chilli",
+"category": "Vegetables"
+},
+{
+"id": 7962332,
+"title": "Shakshuka",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 7963728,
+"title": "Cod with herby cheese topping",
+"category": "Fish & Seafood"
+},
+{
+"id": 7965730,
+"title": "Strawberry tart",
+"category": "Desserts"
+},
+{
+"id": 7967885,
+"title": "Prawn & dill open sandwich",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7967911,
+"title": "Raspberry shortbread mess",
+"category": "Desserts"
+},
+{
+"id": 7972804,
+"title": "Panna cotta with fruit compote",
+"category": "Desserts"
+},
+{
+"id": 7972818,
+"title": "Stuffed baked apples",
+"category": "Desserts"
+},
+{
+"id": 7973577,
+"title": "Mango, lime and coconut rice pudding",
+"category": "Desserts"
+},
+{
+"id": 7974942,
+"title": "Mediterranean pasta salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 7975803,
+"title": "Potato and lentil curry",
+"category": "Vegetables"
+},
+{
+"id": 7982558,
+"title": "Pasta with aubergine, courgettes, ricotta and pine nuts",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 7982930,
+"title": "Spinach, red onion and potato tortilla",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7984576,
+"title": "Virgin mojito",
+"category": "Desserts"
+},
+{
+"id": 7987020,
+"title": "Spanish onion and anchovy pizza",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 7988967,
+"title": "Chicken tikka masala",
+"category": "Chicken & Turkey"
+},
+{
+"id": 7989211,
+"title": "Tzatziki",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 7990195,
+"title": "Carrot and coriander soup",
+"category": "Soups & Stews"
+},
+{
+"id": 7995017,
+"title": "Scary pumpkin soup with tombstone bread",
+"category": "Soups & Stews"
+},
+{
+"id": 7997094,
+"title": "Jerk chicken",
+"category": "Chicken & Turkey"
+},
+{
+"id": 9000851,
+"title": "Vegan Stove Top Stuffing",
+"category": "Vegetables"
+},
+{
+"id": 9005196,
+"title": "Whole Wheat Fig and Walnut Bread - No Knead!",
+"category": "Breads"
+},
+{
+"id": 9005368,
+"title": "Vegan Chicken Burgers [GF+Oil Free]",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9007563,
+"title": "Vegan Mexican Stuffed Peppers with Walnut Cheese Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9014896,
+"title": "Vegan Tomato Bisque [with fresh tomatoes!]",
+"category": "Soups & Stews"
+},
+{
+"id": 9021259,
+"title": "Easy Vegan Carbonara with Soy Curl Pancetta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9021515,
+"title": "Vegan Deli Slices [Seitan Turkey Slices]",
+"category": "Chicken & Turkey"
+},
+{
+"id": 9023396,
+"title": "Vegan Mushroom Veloute [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9028983,
+"title": "Healthy Vegan Carrot Cupcakes",
+"category": "Desserts"
+},
+{
+"id": 9032359,
+"title": "Healthy Cauliflower Bolognese Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9038412,
+"title": "Thai Peanut Coleslaw Salad [Oil Free]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9039315,
+"title": "Mushroom Risotto Burger",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9040812,
+"title": "How To Make Homemade Tomato Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9042335,
+"title": "Instant Pot Spicy Thai Noodles + Stove Top Directions",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9044922,
+"title": "Cauliflower Sweet Potato Soup",
+"category": "Desserts"
+},
+{
+"id": 9046047,
+"title": "3 Ingredient Avocado Chocolate Mousse",
+"category": "Desserts"
+},
+{
+"id": 9046931,
+"title": "Crispy Potato Tacos with Black Beans + Slaw",
+"category": "Salads & Dressings"
+},
+{
+"id": 9049980,
+"title": "Cabbage Quinoa Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9054548,
+"title": "Instant Pot Quinoa Soup w/ Vegetables",
+"category": "Soups & Stews"
+},
+{
+"id": 9057993,
+"title": "Beet Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9064307,
+"title": "Vegan Cheese Pizza",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9064409,
+"title": "Easy Lemon Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9066125,
+"title": "Miso Gravy",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9066355,
+"title": "Vegan Creme Brulee [No Refined Sugar!]",
+"category": "Desserts"
+},
+{
+"id": 9067847,
+"title": "Air Fryer Baked Sweet Potato",
+"category": "Desserts"
+},
+{
+"id": 9070331,
+"title": "Air Fryer Cauliflower Steak",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 9074637,
+"title": "Vegan Coconut Peach Popsicles",
+"category": "Desserts"
+},
+{
+"id": 9077170,
+"title": "Secretly Healthy Chickpea Brownies",
+"category": "Desserts"
+},
+{
+"id": 9079053,
+"title": "Mac and Thai",
+"category": "Vegetables"
+},
+{
+"id": 9079622,
+"title": "Broccoli Sweet Potato Soup",
+"category": "Desserts"
+},
+{
+"id": 9080453,
+"title": "Healthy Buckwheat Muffins",
+"category": "Desserts"
+},
+{
+"id": 9080740,
+"title": "Herbed Potato Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9084623,
+"title": "No Cook Vegan BBQ Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9095332,
+"title": "Air Fryer Asparagus",
+"category": "Vegetables"
+},
+{
+"id": 9097779,
+"title": "Vegan Chicken Wrap [Smashed Chickpea Salad]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9105121,
+"title": "Pumpkin and Sweet Potato Soup",
+"category": "Desserts"
+},
+{
+"id": 9106033,
+"title": "Walnut Butter Cookies",
+"category": "Desserts"
+},
+{
+"id": 9106627,
+"title": "Air Fryer Peanut Butter Cookies",
+"category": "Desserts"
+},
+{
+"id": 9107096,
+"title": "Sneaky Zucchini Meatballs",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 9108556,
+"title": "Vegan Cucumber Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9109371,
+"title": "Pumpkin Quinoa Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9111240,
+"title": "Banana Lentil Pancakes [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9113470,
+"title": "Vegan Blondies with White Beans",
+"category": "Vegetables"
+},
+{
+"id": 9114619,
+"title": "Oil Free Chimichurri Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9115856,
+"title": "Almond Flour Banana Cookies",
+"category": "Desserts"
+},
+{
+"id": 9117377,
+"title": "How to Make Almond Butter",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9122275,
+"title": "Vegan Enchilada Casserole",
+"category": "Vegetables"
+},
+{
+"id": 9122292,
+"title": "Vegan Banana Pudding",
+"category": "Desserts"
+},
+{
+"id": 9124659,
+"title": "Vegan Stuffed Mushrooms with Cranberry Risotto",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9125031,
+"title": "Chickpea Meatloaf with Smoked Maple Glaze",
+"category": "Breads"
+},
+{
+"id": 9125690,
+"title": "Mongolian Tofu",
+"category": "Vegetables"
+},
+{
+"id": 9126167,
+"title": "Gluten Free Tofu Hot Dogs",
+"category": "Vegetables"
+},
+{
+"id": 9130591,
+"title": "Air Fryer Broccoli w/ Oil Free Option",
+"category": "Vegetables"
+},
+{
+"id": 9131956,
+"title": "Baked Lentil Veggie Nuggets",
+"category": "Vegetables"
+},
+{
+"id": 9135569,
+"title": "Corn Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9141620,
+"title": "Double Chocolate Chickpea Cookies",
+"category": "Desserts"
+},
+{
+"id": 9141850,
+"title": "Vegan Waffle Potatoes",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9144888,
+"title": "Chili Lime Chickpea Buddha Bowl",
+"category": "Soups & Stews"
+},
+{
+"id": 9148201,
+"title": "Air Fryer Carrots [Two Ways!]",
+"category": "Vegetables"
+},
+{
+"id": 9149196,
+"title": "Almond Flour Pumpkin Cookies",
+"category": "Desserts"
+},
+{
+"id": 9152488,
+"title": "Vegan Baked Spaghetti",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9159147,
+"title": "Venezuelan Guasacaca [Wasakaka]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9159728,
+"title": "Pumpkin Banana Muffins",
+"category": "Desserts"
+},
+{
+"id": 9162814,
+"title": "Chocolate Almond Balls",
+"category": "Desserts"
+},
+{
+"id": 9167347,
+"title": "Vegan Almond Butter Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9171157,
+"title": "Strawberry Pineapple Smoothie",
+"category": "Beverages"
+},
+{
+"id": 9175178,
+"title": "Blueberry Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9183615,
+"title": "Apple Overnight Oats",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9184828,
+"title": "Vegan Banana Pumpkin Bread",
+"category": "Breads"
+},
+{
+"id": 9188036,
+"title": "Instant Pot Apple Butter [No Peeling]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9193390,
+"title": "Roasted Beetroot Pumpkin Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9193815,
+"title": "Smash-’em-Up Salt and Vinegar Potatoes",
+"category": "Vegetables"
+},
+{
+"id": 9195537,
+"title": "Brown Rice and Quinoa Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9200252,
+"title": "Smoky Slow Cooker Baked Beans (You won’t miss the meat!)",
+"category": "Vegetables"
+},
+{
+"id": 9206024,
+"title": "Air Fryer Bananas",
+"category": "Desserts"
+},
+{
+"id": 9211594,
+"title": "Vegan Cranberry Muffins [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9214034,
+"title": "Vegan Roasted Red Pepper Pasta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9214087,
+"title": "Vegan Cobb Salad with \"Cheesy\" White Bean Dressing",
+"category": "Salads & Dressings"
+},
+{
+"id": 9216639,
+"title": "No Bake Vegan Cheesecake Minis",
+"category": "Desserts"
+},
+{
+"id": 9221793,
+"title": "How to Make Walnut Butter",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9226480,
+"title": "Vegan Sour Cream and Onion Dip",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9228604,
+"title": "Vegan Pumpkin Gnocchi made from scratch!",
+"category": "Vegetables"
+},
+{
+"id": 9228909,
+"title": "Air Fryer Corn Ribs",
+"category": "Vegetables"
+},
+{
+"id": 9228970,
+"title": "Vegan Strawberry Muffins",
+"category": "Desserts"
+},
+{
+"id": 9229405,
+"title": "Air Fryer Zucchini w/ Lemon",
+"category": "Vegetables"
+},
+{
+"id": 9229801,
+"title": "Maple Garlic Air Fryer Baby Carrots",
+"category": "Vegetables"
+},
+{
+"id": 9231462,
+"title": "Healthy Vegan Lemon Poppy Seed Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9235323,
+"title": "BBQ Jackfruit Burritos [Vegan Burritos]",
+"category": "Vegetables"
+},
+{
+"id": 9237195,
+"title": "Vegan Loaded Sweet Potatoes with Baked Beans",
+"category": "Desserts"
+},
+{
+"id": 9237341,
+"title": "Vegan Pumpkin Spice Latte [Sugar Free]",
+"category": "Beverages"
+},
+{
+"id": 9238842,
+"title": "Healthier Shortbread Cookies",
+"category": "Desserts"
+},
+{
+"id": 9240928,
+"title": "Zoodles with Vegan Parm",
+"category": "Vegetables"
+},
+{
+"id": 9244792,
+"title": "Vegan Double Chocolate Chip Cookies",
+"category": "Desserts"
+},
+{
+"id": 9249096,
+"title": "Vegan Strawberry Banana Bread [GF]",
+"category": "Breads"
+},
+{
+"id": 9249680,
+"title": "Vegan Pumpkin Pancakes [Whole Wheat]",
+"category": "Desserts"
+},
+{
+"id": 9250282,
+"title": "Oil Free Vegan Mayo",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9251879,
+"title": "Broccoli Almond Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9252979,
+"title": "Banana Lentil Muffins",
+"category": "Desserts"
+},
+{
+"id": 9254108,
+"title": "Air Fryer Tofu",
+"category": "Vegetables"
+},
+{
+"id": 9255743,
+"title": "Vegan Cauliflower Buffalo Wings [Oven or Air Fryer]",
+"category": "Vegetables"
+},
+{
+"id": 9261320,
+"title": "Healthier Vegan Lemon Pie [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9263742,
+"title": "Air Fryer Baked Apples",
+"category": "Desserts"
+},
+{
+"id": 9264119,
+"title": "Vegan Buffalo Sauce [No butter or oil]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9265013,
+"title": "Nut Free Vegan Cheese Sauce [Oil Free too!]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9266414,
+"title": "Pumpkin Black Bean Burgers [Vegan + GF]",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9271997,
+"title": "Buckwheat Pizza Crust",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9272338,
+"title": "Instant Pot Cauliflower Soup [Vegan]",
+"category": "Soups & Stews"
+},
+{
+"id": 9273315,
+"title": "Strawberry Banana Popsicles",
+"category": "Desserts"
+},
+{
+"id": 9274349,
+"title": "Vegan Baked Pasta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9277390,
+"title": "Lasagna Stuffed Vegan Portobello Mushrooms",
+"category": "Vegetables"
+},
+{
+"id": 9279723,
+"title": "Vegan Spinach Artichoke Dip [Oil Free]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9279842,
+"title": "Vegan Loaded Fries",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9289404,
+"title": "Healthy Halloween Cookies [No One Will Know!]",
+"category": "Desserts"
+},
+{
+"id": 9291733,
+"title": "Oil Free Vegan Coleslaw",
+"category": "Salads & Dressings"
+},
+{
+"id": 9293583,
+"title": "Air Fryer Carrot Fries [Oil Free]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9295060,
+"title": "Potato Asparagus Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9296884,
+"title": "Roasted Cauliflower Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9297046,
+"title": "Air Fryer Diced Potatoes",
+"category": "Vegetables"
+},
+{
+"id": 9305421,
+"title": "Vegan Chocolate Chip Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9306532,
+"title": "Air Fryer Green Beans",
+"category": "Vegetables"
+},
+{
+"id": 9307320,
+"title": "Crispy Buffalo Soy Curls",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9310264,
+"title": "Healthy Vegan Pumpkin Cupcakes",
+"category": "Desserts"
+},
+{
+"id": 9315360,
+"title": "Buckwheat Banana Bread",
+"category": "Breads"
+},
+{
+"id": 9316983,
+"title": "Vegan Cucumber Sandwiches with Dill",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9317037,
+"title": "Spicy Crispy Tofu with Veggies",
+"category": "Vegetables"
+},
+{
+"id": 9318277,
+"title": "The Easiest Fluffiest Vegan Pancakes Ever",
+"category": "Desserts"
+},
+{
+"id": 9320396,
+"title": "Vegan Zucchini Noodles w/ Bolognese Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9322650,
+"title": "Baked Chickpea Nuggets [Allergen Free]",
+"category": "Vegetables"
+},
+{
+"id": 9323221,
+"title": "Seitan Chicken Marsala",
+"category": "Chicken & Turkey"
+},
+{
+"id": 9327187,
+"title": "Air Fryer Smashed Potatoes",
+"category": "Vegetables"
+},
+{
+"id": 9327887,
+"title": "Strawberry Salad with Blueberry Basil Dressing",
+"category": "Salads & Dressings"
+},
+{
+"id": 9328013,
+"title": "Sweet Potato Spaghetti [Aglio e Olio]",
+"category": "Desserts"
+},
+{
+"id": 9329195,
+"title": "Barley Lentil Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9330923,
+"title": "Sugar Free Strawberry Jam [No Pectin!]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9333659,
+"title": "Asian Cauliflower Rice Stir Fry with Peanut Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9336436,
+"title": "Healthy Vegan Cauliflower Cheese Sauce [SPICY]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9340676,
+"title": "Vegan Banana Chocolate Chip Cookies",
+"category": "Desserts"
+},
+{
+"id": 9340739,
+"title": "Vegan Donut Holes",
+"category": "Desserts"
+},
+{
+"id": 9344030,
+"title": "Vegan No Churn Ice Cream - Three Flavours!",
+"category": "Desserts"
+},
+{
+"id": 9344136,
+"title": "How to Make Vegan Mozzarella Cheese",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9349443,
+"title": "Vegan Pesto Pasta Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9349945,
+"title": "Pistachio Pesto",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9350784,
+"title": "Vegan Jalapeno Popper Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9354381,
+"title": "Quick + Easy Tofu Pasta Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9354957,
+"title": "Pesto Zucchini Pasta [Zoodles]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9357019,
+"title": "Vegan Cajun Pasta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9357101,
+"title": "Instant Pot Vegan Mac and Cheese",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9360305,
+"title": "Overnight Chia Pudding - Plus 10 Flavours!",
+"category": "Desserts"
+},
+{
+"id": 9360404,
+"title": "Dairy Free Broccoli Soup [So Easy!]",
+"category": "Soups & Stews"
+},
+{
+"id": 9361657,
+"title": "Vegan Key Lime Pie",
+"category": "Desserts"
+},
+{
+"id": 9367621,
+"title": "Instant Pot Lentil and Split Pea Soup [Or Stove Top]",
+"category": "Soups & Stews"
+},
+{
+"id": 9368018,
+"title": "Vegan Pumpkin Chocolate Chip Cookies",
+"category": "Desserts"
+},
+{
+"id": 9368185,
+"title": "Vegan Cranberry Oatmeal Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9373142,
+"title": "Vegan Cacio e Pepe",
+"category": "Vegetables"
+},
+{
+"id": 9373393,
+"title": "Healthy Vegan Zucchini Muffins",
+"category": "Desserts"
+},
+{
+"id": 9375021,
+"title": "Vegan Chocolate Chip Banana Bread",
+"category": "Breads"
+},
+{
+"id": 9376343,
+"title": "Instant Pot Unstuffed Peppers",
+"category": "Vegetables"
+},
+{
+"id": 9379335,
+"title": "Avocado Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9380481,
+"title": "Chickpea Sheet Pan Dinner",
+"category": "Vegetables"
+},
+{
+"id": 9388632,
+"title": "Roasted Bell Pepper Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9388968,
+"title": "Vegan Raspberry Muffins [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9389046,
+"title": "Roasted Beet Soup w/ Dill [Oil Free]",
+"category": "Soups & Stews"
+},
+{
+"id": 9389346,
+"title": "Slow Cooker Vegetable Pot Pie Stew",
+"category": "Desserts"
+},
+{
+"id": 9390900,
+"title": "Vegan Sweet and Sour Cauliflower",
+"category": "Desserts"
+},
+{
+"id": 9391250,
+"title": "Chickpea Avocado Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9396324,
+"title": "Buckwheat Banana Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9396581,
+"title": "Vegan French Toast Sticks",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9397040,
+"title": "Air Fryer Pineapple",
+"category": "Desserts"
+},
+{
+"id": 9401943,
+"title": "How to Make Vegan Parmesan Cheese",
+"category": "Vegetables"
+},
+{
+"id": 9405296,
+"title": "Pasta Aglio e Olio (Pasta w/ Garlic & Oil)",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9406639,
+"title": "Vegan Strawberry Cookies",
+"category": "Desserts"
+},
+{
+"id": 9406949,
+"title": "Healthy Peanut Butter Chickpea Cookies",
+"category": "Desserts"
+},
+{
+"id": 9410019,
+"title": "Pineapple Pico de Gallo",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9412428,
+"title": "Mango Habanero Salsa",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9413497,
+"title": "Instant Pot Brown Rice Risotto w/ Veggies",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9416487,
+"title": "Vegan Tofu Cream Cheese [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9419746,
+"title": "Air Fryer Beet Chips [Oil Free]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9419806,
+"title": "Beet Cookies [Vegan Red Velvet Cookies]",
+"category": "Desserts"
+},
+{
+"id": 9421240,
+"title": "Air Fryer Home Fries [Oil Free Option]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9421474,
+"title": "Chickpea Chocolate Spread [Nut-Free Nutella]",
+"category": "Desserts"
+},
+{
+"id": 9422406,
+"title": "No Banana Smoothie",
+"category": "Beverages"
+},
+{
+"id": 9422469,
+"title": "Almond Flour Peanut Butter Cookies [Gluten Free]",
+"category": "Desserts"
+},
+{
+"id": 9425725,
+"title": "Air Fryer Hash Browns From Scratch [Oil Free Option]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9426064,
+"title": "Healthy Vegan Chocolate Cupcakes",
+"category": "Desserts"
+},
+{
+"id": 9426702,
+"title": "BBQ Jackfruit Pizza with Instant Pot Option",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9429573,
+"title": "Banana Spinach Muffins",
+"category": "Desserts"
+},
+{
+"id": 9430487,
+"title": "Vegan Beef and Broccoli",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 9433642,
+"title": "Vegan Pumpkin Donuts [Gluten Free + Oil Free too]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9437802,
+"title": "Broccoli Asparagus Pasta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9439579,
+"title": "Shreddable Meltable Vegan Cheese [Oil Free Option]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9439640,
+"title": "Vegan Matcha Cookies",
+"category": "Desserts"
+},
+{
+"id": 9440103,
+"title": "Roasted Tomato and Strawberry Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9440117,
+"title": "Vegan Banana Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9448585,
+"title": "Healthy Banana Carrot Muffins [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9461625,
+"title": "Dill Pickle White Bean Hummus [Oil Free]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9462370,
+"title": "Vegan Couscous Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9463454,
+"title": "Quinoa Pasta Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9465261,
+"title": "Vegan Polenta Pizza Crust",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9467917,
+"title": "Blender Spinach Banana Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9477520,
+"title": "Roasted Red Pepper and Tomato Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9479544,
+"title": "Instant Pot Mashed Potatoes No Drain!",
+"category": "Vegetables"
+},
+{
+"id": 9480093,
+"title": "Oil Free Socca Bread (Chickpea Flatbread)",
+"category": "Breads"
+},
+{
+"id": 9483756,
+"title": "Mango Spinach Smoothie [that doesn't taste green]",
+"category": "Beverages"
+},
+{
+"id": 9484573,
+"title": "Air Fryer Butternut Squash [Two Ways!]",
+"category": "Vegetables"
+},
+{
+"id": 9490339,
+"title": "Vegan Taco Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9491703,
+"title": "Matcha Energy Balls",
+"category": "Desserts"
+},
+{
+"id": 9492507,
+"title": "Vegan Roast with Mushrooms",
+"category": "Vegetables"
+},
+{
+"id": 9497075,
+"title": "Celery and Pineapple Juice",
+"category": "Beverages"
+},
+{
+"id": 9498029,
+"title": "Spiced Sweet Potato Soup",
+"category": "Desserts"
+},
+{
+"id": 9506425,
+"title": "Roasted Beet Pasta Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9508036,
+"title": "Brown Rice Flour - The Perfect Gluten Free Alternative!",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9508489,
+"title": "Whole Wheat Vegan Burger Buns",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9515780,
+"title": "Vegan Butternut Squash Mac & Cheese [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9517824,
+"title": "Air Fryer Corn on the Cob",
+"category": "Vegetables"
+},
+{
+"id": 9517941,
+"title": "Grillable Seitan Burger",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9518240,
+"title": "Vegetable Bouillon Powder Soup Mix",
+"category": "Soups & Stews"
+},
+{
+"id": 9518496,
+"title": "Healthy Cauliflower Mash",
+"category": "Vegetables"
+},
+{
+"id": 9523666,
+"title": "Homemade Peanut Butter - Vitamix",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9523761,
+"title": "Healthy Blueberry Chia Jam - Low Sugar + No Pectin!",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9529012,
+"title": "Air Fryer Peas (Two Flavours)",
+"category": "Vegetables"
+},
+{
+"id": 9529996,
+"title": "Vegan Pecan Butter Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9532392,
+"title": "Roasted Tomato Miso Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9537373,
+"title": "Air Fryer Potato Wedges",
+"category": "Vegetables"
+},
+{
+"id": 9539328,
+"title": "Asian Sticky Tofu",
+"category": "Vegetables"
+},
+{
+"id": 9539871,
+"title": "Banana Protein Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9541318,
+"title": "Air Fryer Strawberries",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9545277,
+"title": "Vegan Cream of Chicken Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9551453,
+"title": "Vegan Black Bean Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9552882,
+"title": "Spring Quinoa Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9553231,
+"title": "Raspberry Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9556376,
+"title": "Avocado Jalapeno Dip",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9557682,
+"title": "Easy Rice and Beans",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9558150,
+"title": "Seriously The BEST Vegan Lasagna",
+"category": "Vegetables"
+},
+{
+"id": 9559352,
+"title": "Vegan Pumpkin Oatmeal Cookies [No Oil]",
+"category": "Desserts"
+},
+{
+"id": 9560531,
+"title": "Oil Free Air Fryer Chickpeas [Five Flavours!]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9563775,
+"title": "Healthy Nutella Recipe [Vegan+Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9564162,
+"title": "Pasta e Piselli",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9566547,
+"title": "Salted Caramel Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9570781,
+"title": "Mexican Vegan Zucchini Boats [Low Calorie Recipe]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9571235,
+"title": "Silken Tofu Scramble",
+"category": "Vegetables"
+},
+{
+"id": 9572606,
+"title": "Cheesy Vegan Quinoa Casserole with Lentils",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9572814,
+"title": "How to Make Pecan Butter",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9576533,
+"title": "Dairy Free Sour Cream [Cashew Cream] - Oil Free",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9577836,
+"title": "Vegan Hash Brown Casserole [Oil Free]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9582665,
+"title": "Lentil Walnut Lettuce Wraps",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9583574,
+"title": "Air Fryer Oatmeal Cookies",
+"category": "Desserts"
+},
+{
+"id": 9584605,
+"title": "Air Fryer Garlic Bread",
+"category": "Breads"
+},
+{
+"id": 9588635,
+"title": "Black Bean Meatballs",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 9590770,
+"title": "Low Calorie Hot Chocolate [Just 80 Calories]",
+"category": "Beverages"
+},
+{
+"id": 9591321,
+"title": "Beetroot and Sweet Potato Salad",
+"category": "Desserts"
+},
+{
+"id": 9592646,
+"title": "Air Fryer Spaghetti Squash",
+"category": "Vegetables"
+},
+{
+"id": 9596194,
+"title": "Vegan Apple Bread [Oil Free]",
+"category": "Breads"
+},
+{
+"id": 9596706,
+"title": "Easy Vegan Ginger Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9602754,
+"title": "Healthy Beet Muffins",
+"category": "Desserts"
+},
+{
+"id": 9602755,
+"title": "Strawberry Chia Pudding",
+"category": "Desserts"
+},
+{
+"id": 9602951,
+"title": "Chia Egg Substitute (or Flax Egg too!)",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9604269,
+"title": "Vegan Walnut Cheese Sauce [Oil Free]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9605778,
+"title": "Whole Wheat Oil Free Pie Crust",
+"category": "Desserts"
+},
+{
+"id": 9605903,
+"title": "Easy Vegan Alfredo Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9608562,
+"title": "Vegan Broccoli Cheddar Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9609089,
+"title": "Fresh Tomato Salsa",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9610207,
+"title": "Buckwheat Bread",
+"category": "Breads"
+},
+{
+"id": 9610471,
+"title": "Healthy Iced Mocha [Vegan + Low Sugar]",
+"category": "Beverages"
+},
+{
+"id": 9615018,
+"title": "Coconut Lime Quinoa w/ Cilantro",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9620307,
+"title": "Asparagus Vegan Frittata [Oil Free]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9623848,
+"title": "Vegan Cannelloni",
+"category": "Vegetables"
+},
+{
+"id": 9624396,
+"title": "Italian Pasta Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9626419,
+"title": "Vegan Sweet Potato Mash",
+"category": "Desserts"
+},
+{
+"id": 9627100,
+"title": "Vegan Zucchini Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9627687,
+"title": "Grilled Tomatoes with Oil Free Chimichurri Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9630210,
+"title": "Instant Pot Chickpeas No Soak",
+"category": "Vegetables"
+},
+{
+"id": 9631627,
+"title": "Banana Flour Pancakes [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9632103,
+"title": "Healthy Vegan Oatmeal Cookies",
+"category": "Desserts"
+},
+{
+"id": 9633263,
+"title": "Healthy Vegan Sweet Potato Cookies",
+"category": "Desserts"
+},
+{
+"id": 9635144,
+"title": "Vegan Tortilla Chips",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9635628,
+"title": "Baked Vegan Glazed Donuts",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9644787,
+"title": "Vegan Cranberry Orange Bread w/ Sweet Orange Glaze",
+"category": "Desserts"
+},
+{
+"id": 9652525,
+"title": "Vegan Avocado Mac and Cheese",
+"category": "Vegetables"
+},
+{
+"id": 9655561,
+"title": "Vegan Blueberry Pie [Healthier than most!]",
+"category": "Desserts"
+},
+{
+"id": 9659242,
+"title": "Healthier Vegan Pecan Pie [No Corn Syrup]",
+"category": "Desserts"
+},
+{
+"id": 9660382,
+"title": "Vegan Frittata Muffins [Vegan Savoury Muffins]",
+"category": "Desserts"
+},
+{
+"id": 9660403,
+"title": "Vegan Ham [Seitan Ham]",
+"category": "Vegetables"
+},
+{
+"id": 9661912,
+"title": "Orange Kale Salad with Citrus Vinaigrette",
+"category": "Salads & Dressings"
+},
+{
+"id": 9665970,
+"title": "Air Fryer Acorn Squash",
+"category": "Vegetables"
+},
+{
+"id": 9666805,
+"title": "Vegan Polenta Mash",
+"category": "Salads & Dressings"
+},
+{
+"id": 9668816,
+"title": "Instant Pot Thai Curry",
+"category": "Soups & Stews"
+},
+{
+"id": 9671588,
+"title": "Lentil Pesto Pasta Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9675054,
+"title": "Vegan Elote Salad [Oil Free + SO Easy!]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9682858,
+"title": "Vegan Ranch Dip [Oil Free + Nut Free Option]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9685307,
+"title": "Vegan Peanut Butter Oatmeal Cookies",
+"category": "Desserts"
+},
+{
+"id": 9688344,
+"title": "Oil Free Vegan Cornbread",
+"category": "Breads"
+},
+{
+"id": 9689734,
+"title": "How to Make Cashew Butter",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9690413,
+"title": "Smoky Lentil Dip",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9692965,
+"title": "Air Fryer Pecans [Two Flavours]",
+"category": "Desserts"
+},
+{
+"id": 9693255,
+"title": "Vegan Chocolate Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9702522,
+"title": "Coconut Milk Waffles [Oil Free]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9702792,
+"title": "Brown Basmati Instant Pot Coconut Rice",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9706219,
+"title": "Burrito Zoodles",
+"category": "Vegetables"
+},
+{
+"id": 9708016,
+"title": "Vegan Chocolate Zucchini Bread [No Oil or Sugar]",
+"category": "Breads"
+},
+{
+"id": 9708853,
+"title": "Vegan Hamburger Helper",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9709742,
+"title": "Creamy Carrot Cauliflower Soup with Dill",
+"category": "Soups & Stews"
+},
+{
+"id": 9712628,
+"title": "Instant Pot Rice and Beans [Oil Free]",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9713201,
+"title": "Vegan Sweet Potato Mac and Cheese",
+"category": "Desserts"
+},
+{
+"id": 9715958,
+"title": "Chickpea Fajitas",
+"category": "Vegetables"
+},
+{
+"id": 9716519,
+"title": "Gingerbread Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9717126,
+"title": "Vegan Peanut Butter Pancakes w/ Peanut Butter Caramel",
+"category": "Desserts"
+},
+{
+"id": 9717533,
+"title": "Vegan Lentil Meatballs [Oil Free+GF]",
+"category": "Beef, Lamb & Pork"
+},
+{
+"id": 9717936,
+"title": "Spicy Vegan Mayo TWO WAYS [Oil Free]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9719129,
+"title": "Oil Free Cowboy Caviar",
+"category": "Salads & Dressings"
+},
+{
+"id": 9725091,
+"title": "Homemade Tahini - Made in Only 5 Minutes!",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9727858,
+"title": "Pumpkin Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9727877,
+"title": "Veggie Ground Taco Meat [GF + Oil Free]",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9730903,
+"title": "Instant Pot Bean Soup [Vegan Chili]",
+"category": "Soups & Stews"
+},
+{
+"id": 9733821,
+"title": "Quick + Simple Chickpea Salad Sandwich No Mayo!",
+"category": "Salads & Dressings"
+},
+{
+"id": 9738619,
+"title": "Healthier Vegan Red Velvet Cupcakes [No Food Dye]",
+"category": "Desserts"
+},
+{
+"id": 9740076,
+"title": "Peanut Butter Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9740595,
+"title": "4-Ingredient Guacamole Recipe",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9741235,
+"title": "Ultimate Vegan Grilled Cheese",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9741995,
+"title": "Cheesy Vegan Broccoli Rice Casserole [Oil Free]",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9743063,
+"title": "3 Ingredient Protein Cookies",
+"category": "Desserts"
+},
+{
+"id": 9747909,
+"title": "Vegan Cold Pear Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9751449,
+"title": "Air Fryer Frozen Sweet Potato Fries",
+"category": "Desserts"
+},
+{
+"id": 9753801,
+"title": "Sweet + Spicy Air Fryer Plantains",
+"category": "Desserts"
+},
+{
+"id": 9758847,
+"title": "Pesto Pasta with Veggies",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9759865,
+"title": "Instant Pot Lentil Sloppy Joes (with stove top instructions)",
+"category": "Vegetables"
+},
+{
+"id": 9761419,
+"title": "Jalapeno Hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9762136,
+"title": "Roasted Beetroot and Broccoli Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9762208,
+"title": "Healthy Vegan Sweet Potato Muffins",
+"category": "Desserts"
+},
+{
+"id": 9762840,
+"title": "Vegan Almond Flour Cookies - Small Batch",
+"category": "Desserts"
+},
+{
+"id": 9763243,
+"title": "Beet Bruschetta",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9763958,
+"title": "Strawberry Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9766698,
+"title": "Vegan Honey Mustard [Healthy + Oil Free]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9767450,
+"title": "Pumpkin Spice Nice Cream",
+"category": "Desserts"
+},
+{
+"id": 9769795,
+"title": "Vegan Strawberry Pie [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9772597,
+"title": "Healthy Vegan Lemon Loaf",
+"category": "Breads"
+},
+{
+"id": 9772614,
+"title": "Vegan Chicken Soup w/ Jackfruit + Potatoes",
+"category": "Soups & Stews"
+},
+{
+"id": 9774483,
+"title": "Vegan Rasta Pasta",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9775065,
+"title": "Vegan Buckwheat Waffles",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9779919,
+"title": "Instant Pot Black Beans [No Soak]",
+"category": "Vegetables"
+},
+{
+"id": 9784924,
+"title": "Vegan Orange Chicken [GF+Oil Free]",
+"category": "Chicken & Turkey"
+},
+{
+"id": 9784963,
+"title": "Almond Flour Banana Bread Muffins",
+"category": "Desserts"
+},
+{
+"id": 9790342,
+"title": "Smoked Tofu",
+"category": "Vegetables"
+},
+{
+"id": 9791180,
+"title": "Miso Pesto Pasta",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9794716,
+"title": "Vegan Sweet Potato Burgers [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9794865,
+"title": "Air Fryer Sweet Potato Cubes",
+"category": "Desserts"
+},
+{
+"id": 9798062,
+"title": "Tofu Buddha Bowl w/ Peanut Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9801698,
+"title": "I Can't Believe It's Vegan Poutine!",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9807540,
+"title": "Air Fryer Tomatoes",
+"category": "Vegetables"
+},
+{
+"id": 9807591,
+"title": "Spicy Vegan Salami",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9808977,
+"title": "Healthy Air Fryer Popcorn",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9809440,
+"title": "Air Fryer Peaches [With Oven Instructions]",
+"category": "Desserts"
+},
+{
+"id": 9810559,
+"title": "Carrot and Lentil Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9811020,
+"title": "Avocado Green Goddess Dressing [Oil Free]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9811305,
+"title": "Butternut Squash and Chickpea Curry",
+"category": "Soups & Stews"
+},
+{
+"id": 9814933,
+"title": "Gingerbread Vegan Cheesecake Dip",
+"category": "Desserts"
+},
+{
+"id": 9816028,
+"title": "Instant Pot Peanut Soup w/ Chickpeas",
+"category": "Soups & Stews"
+},
+{
+"id": 9822376,
+"title": "Nut Free Basil Pesto with Lemon [No Oil]",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9825585,
+"title": "Coconut Lime Popsicles",
+"category": "Desserts"
+},
+{
+"id": 9827404,
+"title": "Asparagus Sheet Pan Dinner",
+"category": "Vegetables"
+},
+{
+"id": 9829268,
+"title": "Lentil Shepherd's Pie [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9833058,
+"title": "Banana Overnight Oats [Dairy Free]",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9834844,
+"title": "Oil Free Mexican Buddha Bowl",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9839357,
+"title": "Vegan Soy Curl Jerky",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9843388,
+"title": "Crispy Tofu Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9847094,
+"title": "Homemade Pistachio Butter",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9847862,
+"title": "Pink Beet Pancakes [Vegan + Gluten Free]",
+"category": "Desserts"
+},
+{
+"id": 9848739,
+"title": "Chickpea Asian Buddha Bowl",
+"category": "Pasta, Rice & Grains"
+},
+{
+"id": 9849806,
+"title": "Healthy Vegan Lemon Blueberry Cake [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9853178,
+"title": "Easy Brownie Peppermint Cookies [Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9854744,
+"title": "Chocolate Covered Chickpeas",
+"category": "Desserts"
+},
+{
+"id": 9858921,
+"title": "Almost Healthy Vegan Poutine",
+"category": "Vegetables"
+},
+{
+"id": 9863153,
+"title": "Chocolate Black Bean Cake",
+"category": "Desserts"
+},
+{
+"id": 9863545,
+"title": "Mushroom Barley Soup [Instant Pot or Stove Top]",
+"category": "Soups & Stews"
+},
+{
+"id": 9864024,
+"title": "Quick + Easy Jackfruit Fajitas",
+"category": "Vegetables"
+},
+{
+"id": 9872571,
+"title": "Cauliflower and Lentil Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9873294,
+"title": "Vegan Crostini with \"Ricotta\" + Mushrooms",
+"category": "Vegetables"
+},
+{
+"id": 9874640,
+"title": "Easy Homemade Cashew Milk",
+"category": "Beverages"
+},
+{
+"id": 9876454,
+"title": "Bruschetta ai funghi [Mushroom Bruschetta]",
+"category": "Vegetables"
+},
+{
+"id": 9877958,
+"title": "Cranberry Broccoli Salad w/ Poppy Seed Dressing [Oil Free]",
+"category": "Salads & Dressings"
+},
+{
+"id": 9882145,
+"title": "Vegan Hot Dogs [Seitan Dogs]",
+"category": "Vegetables"
+},
+{
+"id": 9882257,
+"title": "Banana Chickpea Muffins",
+"category": "Desserts"
+},
+{
+"id": 9882910,
+"title": "Easy Soy Curl Stir Fry [Vegan Stir Fry]",
+"category": "Vegetables"
+},
+{
+"id": 9889051,
+"title": "Healthy Vegan Blueberry Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9890162,
+"title": "Cauliflower Chickpea Tacos",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9890977,
+"title": "Dairy Free Shortbread Cookies",
+"category": "Desserts"
+},
+{
+"id": 9892214,
+"title": "Vegan Creamed Corn [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9897433,
+"title": "Vegan Chicken Salad w/ Roasted Jackfruit",
+"category": "Salads & Dressings"
+},
+{
+"id": 9898504,
+"title": "Vegetable Barley Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9908880,
+"title": "Vegan Pumpkin Pasta Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9909062,
+"title": "Easy Baked Falafel Wraps - Gluten Free",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9910859,
+"title": "Healthy Broccoli Potato Soup",
+"category": "Soups & Stews"
+},
+{
+"id": 9914907,
+"title": "Portobello Mushroom Fajitas [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9917964,
+"title": "Vegan Sheet Pan Pancakes",
+"category": "Desserts"
+},
+{
+"id": 9920004,
+"title": "Red Lentil Pizza Crust [Gluten Free]",
+"category": "Pizza & Sandwiches"
+},
+{
+"id": 9921915,
+"title": "Vegan Scalloped Potatoes",
+"category": "Vegetables"
+},
+{
+"id": 9922454,
+"title": "Cranberry Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9922647,
+"title": "Double Chocolate Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9924261,
+"title": "Healthy Air Fryer Eggplant [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9928413,
+"title": "Vegan Lemon Blueberry Muffins [GF + Oil Free]",
+"category": "Desserts"
+},
+{
+"id": 9931828,
+"title": "Chocolate Pumpkin Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9936271,
+"title": "Homemade Black Bean Chips",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9938812,
+"title": "Beet Pasta Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9939692,
+"title": "Sour Apple Smoothie",
+"category": "Beverages"
+},
+{
+"id": 9940851,
+"title": "Garlic Parmesan Vegan Roasted Cauliflower",
+"category": "Vegetables"
+},
+{
+"id": 9942188,
+"title": "Roasted Carrots and Asparagus",
+"category": "Vegetables"
+},
+{
+"id": 9950861,
+"title": "Beautiful Beet Hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9952260,
+"title": "Candied Bacon Pecans",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9956832,
+"title": "Air Fryer Pita Chips",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9957284,
+"title": "Air Fryer Pears",
+"category": "Desserts"
+},
+{
+"id": 9957667,
+"title": "Instant Pot Butternut Squash Soup (Or Stove Top)",
+"category": "Soups & Stews"
+},
+{
+"id": 9959942,
+"title": "Air Fryer Peanuts in Three Flavours! [No Oil Needed]",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9964071,
+"title": "Vegan Zucchini Cookies [Oatmeal]",
+"category": "Desserts"
+},
+{
+"id": 9964694,
+"title": "Vegan Crema Fresca AKA Vegan Crème Fraiche",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9966381,
+"title": "Vegan Bean Salad",
+"category": "Salads & Dressings"
+},
+{
+"id": 9966537,
+"title": "Healthy Banana Walnut Smoothie",
+"category": "Beverages"
+},
+{
+"id": 9967440,
+"title": "Homemade Enchilada Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9968027,
+"title": "Pulled Jackfruit Nachos with Homemade BBQ Sauce",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9969020,
+"title": "Oil Free Roasted Red Pepper Hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9969110,
+"title": "Vegan Zucchini Roll Ups",
+"category": "Breads"
+},
+{
+"id": 9970596,
+"title": "Oil Free Refried Beans",
+"category": "Vegetables"
+},
+{
+"id": 9973119,
+"title": "Baked Zucchini Tater Tots",
+"category": "Vegetables"
+},
+{
+"id": 9975367,
+"title": "Asian Slaw Vegan Wraps with Cauliflower Rice",
+"category": "Salads & Dressings"
+},
+{
+"id": 9980070,
+"title": "Peanut Butter Hummus",
+"category": "Sauces & Seasonings"
+},
+{
+"id": 9983478,
+"title": "Pumpkin Overnight Oats",
+"category": "Breakfast & Brunch"
+},
+{
+"id": 9984117,
+"title": "How to make Strawberry Juice",
+"category": "Beverages"
+},
+{
+"id": 9984982,
+"title": "Almond Flour Blackberry Muffins",
+"category": "Desserts"
+},
+{
+"id": 9985547,
+"title": "Oatmeal Bliss Balls",
+"category": "Desserts"
+},
+{
+"id": 9986100,
+"title": "No Bake Vegan Peanut Butter Pie",
+"category": "Desserts"
+},
+{
+"id": 9991273,
+"title": "Air Fryer Potatoes and Onions",
+"category": "Vegetables"
+},
+{
+"id": 9991817,
+"title": "Chickpea and Mushroom Curry w/ Rapini",
+"category": "Soups & Stews"
+},
+{
+"id": 9992614,
+"title": "Healthy Air Fryer Mushrooms [Oil Free]",
+"category": "Vegetables"
+},
+{
+"id": 9992749,
+"title": "White Bean Protein Crackers",
+"category": "Appetizers & Snacks"
+},
+{
+"id": 9996156,
+"title": "Mocha Energy Balls",
+"category": "Desserts"
+}
+]

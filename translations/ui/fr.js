@@ -245,3 +245,60 @@ Object.assign(UI.fr, { signInNeeded: "Connectez-vous pour voir votre compte : vo
 UI.fr.profiles = { none: "Sans plan (toutes les recettes)", ...UI.fr.profiles }; UI.fr.conds = { ...UI.fr.conds, none: "Toutes les recettes" };
 
 Object.assign(TERMS_X.fr, {"Latin American": "Latino-américaine", "Saudi": "Saoudienne", "Emirati": "Émiratie", "Bahraini": "Bahreïnienne", "Lebanese": "Libanaise", "Turkish": "Turque", "Moroccan": "Marocaine", "Tunisian": "Tunisienne", "Egyptian": "Égyptienne", "Persian": "Persane", "Afghan": "Afghane"});
+
+Object.assign(UI.fr, {
+  tabOverview: "Aperçu",
+  tabProfile: "Mes informations",
+  tabHealth: "Santé et objectifs",
+  tabFood: "Préférences alimentaires",
+  tabWeight: "Poids",
+  stKcal14: "Calories, 14 derniers jours",
+  stGoal: "Progression de l'objectif de poids",
+  stGoalDone: "Objectif atteint, bravo !",
+  stNoData: "Aucun historique pour l'instant. Ajoutez des repas dans Ma journée et ils apparaîtront ici.",
+  weightLog: "Journal de poids",
+  stGoalLeft: n => `${n} kg restants`,
+  memberSince: d => `Membre depuis ${d}`
+});
+
+Object.assign(UI.fr, { mpCuisines: "Cuisines", mpAllCuisines: "Toutes les cuisines", mpCuisNote: "Les repas viennent des cuisines choisies ; un repas qu'elles ne couvrent pas utilise n'importe quelle cuisine." });
+
+Object.assign(UI.fr, { noServer: "Les comptes ne sont pas disponibles sur cette copie de l'app. Ouvrez-la depuis le serveur Health Kitchen pour vous inscrire et suivre vos plans et informations." });
+
+Object.assign(UI.fr, {
+  "tabMyRecipes": "Mes recettes",
+  "subNew": "Partager une recette",
+  "subIntro": "Les recettes que vous partagez sont vérifiées par notre équipe (quantités, unités et ingrédients) avant que quiconque puisse les voir.",
+  "subTitle": "Nom de la recette",
+  "subDesc": "Brève description",
+  "subCat": "Catégorie",
+  "subCuisine": "Cuisine",
+  "subServings": "Portions",
+  "subServing": "Taille de la portion (p. ex. 1 assiette, 250 g)",
+  "subIng": "Ingrédients",
+  "subQty": "Quantité",
+  "subItem": "Ingrédient",
+  "subAddIng": "+ Ajouter un ingrédient",
+  "subSteps": "Étapes",
+  "subAddStep": "+ Ajouter une étape",
+  "subHints": "Astuces (une par ligne)",
+  "subNut": "Valeurs nutritionnelles par portion (facultatif)",
+  "subSend": "Envoyer pour relecture",
+  "subSent": "Envoyée pour relecture. Vous verrez le résultat dans Mes recettes.",
+  "subMine": "Mes recettes partagées",
+  "subNone": "Vous n'avez encore partagé aucune recette.",
+  "stPending": "En attente de relecture",
+  "stApproved": "Publiée",
+  "stRejected": "Non approuvée",
+  "subNote": "Note du relecteur",
+  "subDelete": "Supprimer",
+  "subErr": "Veuillez ajouter un nom, une catégorie, au moins un ingrédient avec sa quantité et son unité, et une étape.",
+  "adSubs": "Recettes soumises",
+  "adApprove": "Approuver et publier",
+  "adReject": "Ne pas approuver",
+  "adNotePh": "Note pour l'auteur (p. ex. merci d'indiquer la quantité en grammes)",
+  "adNoSubs": "Aucune recette ici.",
+  "community": "Communauté"
+});
+
+Object.assign(UI.fr, { meal: "Type de plat", mealTypes: {"main": "Plat principal", "breakfast": "Petit-déjeuner", "starter": "Entrée", "side": "Accompagnement", "snack": "En-cas", "dessert": "Dessert", "drink": "Boisson", "condiment": "Sauce ou assaisonnement"}, fitCond: "C'est une sauce ou un assaisonnement, pas un repas à part entière : une portion accompagne un repas et ses nutriments comptent dans ce repas." });

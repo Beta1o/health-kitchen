@@ -1,0 +1,56 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168936,
+   "g": 120,
+   "name": "white flour"
+  },
+  {
+   "fdc": 168893,
+   "g": 80,
+   "name": "whole wheat flour"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 172195,
+   "g": 15,
+   "name": "nonfat dry milk"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 171413,
+   "g": 5,
+   "name": "olive oil (for the pan)"
+  },
+  {
+   "fdc": 173412,
+   "g": 12,
+   "name": "ghee"
+  },
+  {
+   "fdc": 169655,
+   "g": 16,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 170919,
+   "g": 2,
+   "name": "cardamom"
+  }
+ ]
+}

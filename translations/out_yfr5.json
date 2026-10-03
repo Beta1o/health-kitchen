@@ -1,0 +1,1723 @@
+[
+ {
+  "id": 7958623,
+  "translations": {
+   "fr": {
+    "title": "Chowder de dinde et maïs",
+    "description": "Délicieux, copieux et prêt en seulement 30 minutes, ce chowder est idéal pour utiliser des restes.",
+    "portions": "4",
+    "serving_size": "423 g",
+    "ingredients": [
+     [
+      null,
+      "2 c. à café d'huile de tournesol"
+     ],
+     [
+      null,
+      "400 g de pommes de terre, pelées et coupées en cubes de 1 cm"
+     ],
+     [
+      null,
+      "1 petit oignon, finement haché"
+     ],
+     [
+      null,
+      "1 branche de céleri, hachée"
+     ],
+     [
+      null,
+      "1 grosse carotte, coupée en petits dés"
+     ],
+     [
+      null,
+      "1 poivron rouge, épépiné et coupé en dés"
+     ],
+     [
+      null,
+      "1 c. à soupe de farine complète"
+     ],
+     [
+      null,
+      "300 ml de lait écrémé"
+     ],
+     [
+      null,
+      "300 ml de bouillon de légumes pauvre en sel"
+     ],
+     [
+      null,
+      "300 g de dinde cuite sans peau, coupée en dés"
+     ],
+     [
+      null,
+      "1 boîte de 198 g de maïs sans sel ajouté, égoutté"
+     ],
+     [
+      null,
+      "1 c. à soupe de persil plat haché"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites chauffer l'huile dans une grande casserole, ajoutez les pommes de terre, l'oignon, le céleri et la carotte, et faites sauter pendant 5 minutes en remuant de temps en temps. Saupoudrez de farine et laissez cuire 2 minutes en remuant constamment."
+     ],
+     [
+      null,
+      "Retirez du feu et incorporez le lait et le bouillon. Remettez sur le feu et portez lentement à ébullition en remuant constamment. Ajoutez la dinde, le maïs et le poivron rouge, puis laissez mijoter 5 à 6 minutes, jusqu'à ce que les pommes de terre soient bien cuites. Parsemez de persil et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Si vous cuisinez pour une seule personne, ce plat peut être divisé en portions et congelé."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7959955,
+  "translations": {
+   "fr": {
+    "title": "Chili aux haricots à l'autocuiseur",
+    "description": "Ce plat consistant, riche en protéines, est préparé en un rien de temps. J'utilise la fonction « maintien au chaud » pour qu'il soit prêt à manger quand je rentre du travail.",
+    "portions": "4",
+    "serving_size": "500 g",
+    "ingredients": [
+     [
+      null,
+      "huile en spray de votre choix (facultatif)"
+     ],
+     [
+      null,
+      "2 oignons moyens, hachés"
+     ],
+     [
+      null,
+      "1 c. à café d'ail écrasé"
+     ],
+     [
+      null,
+      "1/2 c. à café de gingembre moulu"
+     ],
+     [
+      null,
+      "300 g de champignons variés"
+     ],
+     [
+      null,
+      "1 à 2 poivrons (verts, rouges ou jaunes), hachés"
+     ],
+     [
+      null,
+      "300 g de hachis Quorn"
+     ],
+     [
+      null,
+      "1 c. à soupe de vinaigre balsamique"
+     ],
+     [
+      null,
+      "80 g de carottes, coupées en cubes"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de tomates concassées"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de pois chiches au naturel, égouttés"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de haricots rouges au naturel, égouttés"
+     ],
+     [
+      null,
+      "2 c. à café de concentré de tomate"
+     ],
+     [
+      null,
+      "700 ml de bouillon de légumes très pauvre en sel"
+     ],
+     [
+      null,
+      "1 pincée de flocons de piment"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Utilisez la fonction de dorage de votre autocuiseur pour faire ramollir les oignons et l'ail, puis saupoudrez de gingembre."
+     ],
+     [
+      null,
+      "Ajoutez les champignons, les poivrons, le hachis de soja et le vinaigre balsamique. Lorsque le tout est doré, ajoutez les carottes et laissez cuire 20 minutes."
+     ],
+     [
+      null,
+      "Ajoutez les tomates, les haricots, les pois chiches, le concentré de tomate et suffisamment de bouillon pour atteindre le milieu de la cuve."
+     ],
+     [
+      null,
+      "Ajoutez les flocons de piment et réglez votre autocuiseur sur 30 minutes. Servez avec du riz."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Cette recette a été créée par Shivali, vedette de la couverture de Balance, au cours de son parcours vers la rémission."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 5"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7962332,
+  "translations": {
+   "fr": {
+    "title": "Shakshuka",
+    "description": "Un plat nord-africain d'œufs pochés dans une sauce épicée à la tomate, au poivron et à l'oignon. Idéal pour un brunch du week-end.",
+    "portions": "1",
+    "serving_size": "645 g",
+    "ingredients": [
+     [
+      null,
+      "1 petit oignon, finement émincé, environ 60 g, non pelé"
+     ],
+     [
+      null,
+      "1 poivron rouge et 1 poivron orange, coupés en deux, épépinés et hachés, environ 120 g de poids brut"
+     ],
+     [
+      null,
+      "1 gousse d'ail, écrasée"
+     ],
+     [
+      null,
+      "1 c. à café de pâte de tomates séchées ou de concentré de tomate"
+     ],
+     [
+      null,
+      "1 c. à café de paprika fumé"
+     ],
+     [
+      null,
+      "1/2 c. à café de cumin moulu"
+     ],
+     [
+      null,
+      "1/2 c. à café de coriandre moulue"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de tomates concassées"
+     ],
+     [
+      null,
+      "1 œuf"
+     ],
+     [
+      null,
+      "Persil et menthe frais hachés"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mettez l'oignon, les poivrons et l'ail dans un bol en verre avec 1 c. à soupe d'eau. Couvrez de film alimentaire et faites cuire au micro-ondes à 800 W pendant 2 minutes. Remuez et poursuivez la cuisson 2 minutes de plus."
+     ],
+     [
+      null,
+      "Incorporez la pâte et les épices au mélange d'oignon et faites cuire au micro-ondes encore 1 minute. Versez dans une poêle moyenne."
+     ],
+     [
+      null,
+      "Ajoutez les tomates et laissez mijoter doucement 15 minutes, ou jusqu'à épaississement, en remuant de temps en temps."
+     ],
+     [
+      null,
+      "Creusez un puits au centre et cassez-y l'œuf. Couvrez la poêle avec un couvercle et laissez cuire jusqu'à ce que l'œuf soit cuit à votre goût."
+     ],
+     [
+      null,
+      "Parsemez de flocons de piment rouge (facultatif), d'un peu de persil et de menthe hachés, et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Vous pouvez utiliser des poivrons de n'importe quelle couleur pour ce plat."
+     ],
+     [
+      null,
+      "Essayez d'ajouter des champignons ou des cœurs d'artichaut."
+     ],
+     [
+      null,
+      "Instructions de congélation : la sauce peut être congelée."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 5"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7963728,
+  "translations": {
+   "fr": {
+    "title": "Cabillaud gratiné aux fines herbes et au fromage",
+    "description": "Une façon simple de rendre le cabillaud encore plus délicieux.",
+    "portions": "2",
+    "serving_size": "228 g",
+    "ingredients": [
+     [
+      null,
+      "15 g de matière grasse végétale à tartiner"
+     ],
+     [
+      null,
+      "15 g de farine ordinaire"
+     ],
+     [
+      null,
+      "100 ml de lait"
+     ],
+     [
+      null,
+      "25 g de cheddar fort ou d'un autre fromage à pâte dure, râpé"
+     ],
+     [
+      null,
+      "1 c. à café de moutarde anglaise"
+     ],
+     [
+      null,
+      "2 c. à soupe de fines herbes mélangées, hachées"
+     ],
+     [
+      null,
+      "poivre noir fraîchement moulu"
+     ],
+     [
+      null,
+      "2 gros morceaux de filet de cabillaud (ou de tout autre poisson blanc épais) d'environ 150 g chacun"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 200 °C/thermostat 6. Faites fondre la matière grasse dans une petite casserole, incorporez la farine au fouet et laissez cuire 1 minute."
+     ],
+     [
+      null,
+      "Ajoutez progressivement le lait en fouettant constamment, et laissez mijoter 1 minute jusqu'à obtenir une sauce épaisse."
+     ],
+     [
+      null,
+      "Incorporez le fromage, la moutarde et les herbes, et assaisonnez avec le poivre noir."
+     ],
+     [
+      null,
+      "Placez les morceaux de cabillaud sur une plaque de cuisson et nappez-les de sauce."
+     ],
+     [
+      null,
+      "Enfournez et laissez cuire environ 15 minutes, jusqu'à ce que le poisson soit cuit."
+     ],
+     [
+      null,
+      "Servez avec les légumes de votre choix."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Essayez d'autres combinaisons d'herbes, comme le persil et l'aneth ou la coriandre et la ciboulette."
+     ],
+     [
+      null,
+      "Cette garniture convient aux filets de maquereau, à l'églefin, au silure ou au tilapia."
+     ],
+     [
+      null,
+      "Vous pouvez laisser refroidir la sauce, puis l'étaler sur le poisson et réfrigérer jusqu'au moment voulu."
+     ],
+     [
+      null,
+      "Sortez du réfrigérateur 10 minutes avant la cuisson, puis cuisez comme indiqué."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 0"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7965730,
+  "translations": {
+   "fr": {
+    "title": "Tarte aux fraises",
+    "description": "Il s'agit d'une recette exclusive tirée de « The Diabetes Weight Loss Diet » d'Antony Worrall Thompson et Azmina Govindji.",
+    "portions": "6",
+    "serving_size": "105 g",
+    "ingredients": [
+     [
+      null,
+      "4 feuilles de pâte filo"
+     ],
+     [
+      null,
+      "2 c. à café de beurre non salé, fondu"
+     ],
+     [
+      null,
+      "1 c. à soupe de sucre glace"
+     ],
+     [
+      null,
+      "6 c. à soupe de fromage frais 0 % de matières grasses"
+     ],
+     [
+      null,
+      "1 c. à soupe de lemon curd"
+     ],
+     [
+      null,
+      "350 g de petites fraises mûres, équeutées et tranchées"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 200 ºC/thermostat 6. Posez une feuille de pâte filo sur une plaque de cuisson antiadhésive. Badigeonnez d'un peu de beurre fondu et saupoudrez d'un peu de sucre glace."
+     ],
+     [
+      null,
+      "Répétez l'opération trois fois, en réservant environ 1 c. à café de sucre glace."
+     ],
+     [
+      null,
+      "Faites cuire 10 minutes, jusqu'à ce que la pâte soit dorée. Laissez refroidir. Mélangez le fromage frais avec le lemon curd et étalez sur la pâte."
+     ],
+     [
+      null,
+      "Garnissez de fraises et saupoudrez du sucre glace réservé. Servez immédiatement."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Cette recette est aussi délicieuse avec des framboises."
+     ],
+     [
+      null,
+      "Si vous n'avez pas de lemon curd, utilisez plutôt 1 c. à soupe de confiture."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7967885,
+  "translations": {
+   "fr": {
+    "title": "Tartine ouverte aux crevettes et à l'aneth",
+    "description": "Un sandwich délicieusement rafraîchissant, parfait pour les pique-niques",
+    "portions": "1",
+    "serving_size": "230 g",
+    "ingredients": [
+     [
+      null,
+      "1 sandwich thin complet, coupé en deux"
+     ],
+     [
+      null,
+      "80 g de fromage blanc nature allégé en matières grasses (cottage cheese)"
+     ],
+     [
+      null,
+      "1 brin d'aneth frais"
+     ],
+     [
+      null,
+      "1 trait de sauce Tabasco (facultatif)"
+     ],
+     [
+      null,
+      "30 g de concombre, finement tranché"
+     ],
+     [
+      null,
+      "50 g de crevettes royales cuites et décortiquées"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites légèrement griller les deux moitiés de sandwich thin. Mélangez le fromage blanc avec un peu d'aneth ciselé, quelques gouttes de Tabasco, si vous en utilisez, et un peu de poivre noir."
+     ],
+     [
+      null,
+      "Répartissez le mélange sur les sandwich thins, puis ajoutez les tranches de concombre, les crevettes, un peu d'aneth supplémentaire et un trait de Tabasco, puis servez."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7967911,
+  "translations": {
+   "fr": {
+    "title": "Désordre de framboises au sablé",
+    "description": "Une version plus saine de l'Eton mess classique.",
+    "portions": "2",
+    "serving_size": "170 g",
+    "ingredients": [
+     [
+      null,
+      "150 g de framboises"
+     ],
+     [
+      null,
+      "1 c. à café d'édulcorant sans sucre"
+     ],
+     [
+      null,
+      "2 sablés en bâtonnets (39 g au total)"
+     ],
+     [
+      null,
+      "150 g de yaourt grec à 0 %"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Dans un bol, écrasez délicatement la moitié des framboises à la fourchette et mélangez avec l'édulcorant."
+     ],
+     [
+      null,
+      "Dans un autre bol, émiettez les sablés."
+     ],
+     [
+      null,
+      "Réservez quelques framboises entières et un peu de sablé émietté pour la décoration."
+     ],
+     [
+      null,
+      "Incorporez délicatement au yaourt les framboises entières et écrasées restantes, ainsi que le sablé."
+     ],
+     [
+      null,
+      "Répartissez dans des verres ou des bols, saupoudrez de sablé émietté et décorez d'une framboise."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Cette recette fonctionne aussi très bien avec des fraises ou des mûres. Ou essayez avec des pêches ou des nectarines coupées en morceaux."
+     ],
+     [
+      null,
+      "Essayez d'utiliser d'autres biscuits, comme des biscuits sablés complets (digestives) ou des biscuits au gingembre."
+     ],
+     [
+      null,
+      "Pour une version végétalienne, remplacez le yaourt par une alternative sans produits laitiers à base de soja ou de noix de coco."
+     ],
+     [
+      null,
+      "Instructions de congélation : sortez du congélateur quelques minutes avant de servir."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7972804,
+  "translations": {
+   "fr": {
+    "title": "Panna cotta et compote de fruits",
+    "description": "Ce dessert italien classique est aussi bon qu'il en a l'air.",
+    "portions": "4",
+    "serving_size": "315 g",
+    "ingredients": [
+     [
+      null,
+      "600 ml de lait d'amande enrichi non sucré"
+     ],
+     [
+      null,
+      "2 c. à café d'agar-agar en poudre"
+     ],
+     [
+      null,
+      "200 ml de babeurre"
+     ],
+     [
+      null,
+      "1 gousse de vanille, fendue"
+     ],
+     [
+      null,
+      "3 c. à soupe d'édulcorant en grains"
+     ],
+     [
+      null,
+      "1 citron, zeste finement râpé et jus"
+     ],
+     [
+      null,
+      "1 barquette de fraises (environ 14), équeutées et coupées en quatre"
+     ],
+     [
+      null,
+      "1 petite barquette de framboises (environ 4 poignées)"
+     ],
+     [
+      null,
+      "1 petite barquette de myrtilles (environ 4 poignées)"
+     ],
+     [
+      null,
+      "25 g de pistaches, grillées et grossièrement hachées"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites chauffer le lait d'amande jusqu'à ce qu'il arrive tout juste à ébullition. Saupoudrez d'agar-agar et laissez mijoter 2 minutes en remuant constamment."
+     ],
+     [
+      null,
+      "Retirez la gousse de vanille et grattez les graines avec un couteau bien aiguisé. Incorporez au fouet les graines de vanille, 2 c. à soupe d'édulcorant et le babeurre jusqu'à obtenir un mélange lisse."
+     ],
+     [
+      null,
+      "Répartissez à parts égales dans 4 verres. Vous pouvez aussi utiliser 4 ramequins de 175 ml, légèrement vaporisés d'un spray allégé en calories, si vous souhaitez démouler ces desserts. Laissez prendre au réfrigérateur pendant 2 heures, jusqu'à ce que ce soit ferme, ou jusqu'au moment de servir."
+     ],
+     [
+      null,
+      "Mettez le zeste et le jus de citron, 2 c. à soupe d'eau, les fraises, les framboises et les myrtilles dans une petite casserole avec le reste de l'édulcorant et faites chauffer doucement 2 à 3 minutes pour les réchauffer. Laissez refroidir."
+     ],
+     [
+      null,
+      "Une fois les panna cotta prises, versez à la cuillère la compote de fruits dans les verres et parsemez de pistaches. Si vous utilisez des ramequins, plongez le fond de chaque ramequin dans de l'eau chaude pendant 20 à 30 secondes et retournez sur une assiette pour démouler les desserts. Servez avec la compote et les noix."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Si vous utilisez du lait d'amande enrichi, ce dessert est riche en calcium, ce qui est important pour maintenir des dents et des os en bonne santé."
+     ],
+     [
+      null,
+      "Les baies sont une bonne source de vitamine C."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7972818,
+  "translations": {
+   "fr": {
+    "title": "Pommes farcies au four",
+    "description": "Des pommes farcies de noix hachées, de raisins secs et de cannelle, puis cuites au four, pour un dessert simple mais délicieux.",
+    "portions": "6",
+    "serving_size": "126 g",
+    "ingredients": [
+     [
+      null,
+      "20 g de noix"
+     ],
+     [
+      null,
+      "30 g d'abricots secs"
+     ],
+     [
+      null,
+      "25 g de raisins secs de Smyrne (sultanines)"
+     ],
+     [
+      null,
+      "1 c. à café de cannelle moulue"
+     ],
+     [
+      null,
+      "20 g de graines de courge"
+     ],
+     [
+      null,
+      "zeste finement râpé et jus de 1 orange"
+     ],
+     [
+      null,
+      "6 pommes à croquer, non pelées et évidées"
+     ],
+     [
+      null,
+      "1 c. à soupe d'eau"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 180 °C/thermostat 4."
+     ],
+     [
+      null,
+      "Mélangez les noix, les abricots et les raisins secs, puis déposez sur une planche. Hachez finement l'ensemble pour obtenir une pâte, puis incorporez les graines de courge, la cannelle et le zeste d'orange."
+     ],
+     [
+      null,
+      "Remplissez le centre de chaque pomme avec ce mélange, en le tassant fermement dans le fruit."
+     ],
+     [
+      null,
+      "Placez les pommes dans un plat allant au four avec l'eau, puis arrosez-les du jus d'orange."
+     ],
+     [
+      null,
+      "Couvrez de papier aluminium et faites cuire 20 minutes. Retirez le papier aluminium et poursuivez la cuisson 10 à 15 minutes."
+     ],
+     [
+      null,
+      "Servez avec une cuillerée de yaourt nature non sucré ou d'une alternative sans produits laitiers."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Essayez différentes combinaisons de fruits et de noix pour la garniture."
+     ],
+     [
+      null,
+      "Essayez avec des canneberges et des épices mélangées pour une saveur de Noël."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7973577,
+  "translations": {
+   "fr": {
+    "title": "Riz au lait à la mangue, à la lime et à la noix de coco",
+    "description": "Ce riz au lait a une touche fruitée et plein de saveur.",
+    "portions": "5",
+    "serving_size": "198 g",
+    "ingredients": [
+     [
+      null,
+      "1 spray d'huile à 1 calorie"
+     ],
+     [
+      null,
+      "100 g de riz à dessert sec (riz rond pour pudding)"
+     ],
+     [
+      null,
+      "2 c. à soupe d'édulcorant"
+     ],
+     [
+      null,
+      "650 ml de lait d'amande enrichi non sucré"
+     ],
+     [
+      null,
+      "1 c. à café d'extrait de vanille"
+     ],
+     [
+      null,
+      "zeste finement râpé et jus de 1 lime"
+     ],
+     [
+      null,
+      "3 gousses de cardamome, légèrement écrasées"
+     ],
+     [
+      null,
+      "2 mangues mûres de taille moyenne, pelées et finement tranchées"
+     ],
+     [
+      null,
+      "20 g de noix de coco desséchée grillée non sucrée"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 150 °C/thermostat 2. Vaporisez légèrement un plat à pudding moyen allant au four avec un spray de cuisson allégé en calories."
+     ],
+     [
+      null,
+      "Placez le riz dans une passoire et rincez-le sous l'eau froide courante. Égouttez et versez dans le plat allant au four. Incorporez l'édulcorant, le lait d'amande, l'extrait de vanille, le jus de lime et la cardamome. Faites cuire 50 minutes."
+     ],
+     [
+      null,
+      "Remuez bien et poursuivez la cuisson 1 heure de plus. Disposez les tranches de mangue sur le dessus, saupoudrez de noix de coco desséchée et remettez au four 10 minutes. Parsemez de zeste de lime et servez immédiatement."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Si vous utilisez du lait d'amande enrichi, ce dessert est une bonne source de calcium, ce qui est important pour maintenir des os en bonne santé."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7974942,
+  "translations": {
+   "fr": {
+    "title": "Salade de pâtes méditerranéenne",
+    "description": "Elle fait un excellent repas à emporter. Avec toutes ses saveurs méditerranéennes, c'est une belle alternative aux sandwichs.",
+    "portions": "3",
+    "serving_size": "293 g",
+    "ingredients": [
+     [
+      null,
+      "225 g de pâtes sèches de forme courte"
+     ],
+     [
+      null,
+      "10 tomates cerises, coupées en quatre"
+     ],
+     [
+      null,
+      "10 olives noires, tranchées"
+     ],
+     [
+      null,
+      "un quart de concombre, haché"
+     ],
+     [
+      null,
+      "un demi-oignon rouge, finement émincé"
+     ],
+     [
+      null,
+      "40 g de feta, émiettée"
+     ],
+     [
+      null,
+      "15 g de pignons de pin, grillés"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile d'olive"
+     ],
+     [
+      null,
+      "1 c. à soupe de vinaigre balsamique"
+     ],
+     [
+      null,
+      "une poignée de feuilles de basilic"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites cuire les pâtes selon les instructions du paquet. Égouttez et rincez à l'eau froide."
+     ],
+     [
+      null,
+      "Mélangez les pâtes avec les autres ingrédients et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Pour faire griller les pignons de pin, mettez-les dans une poêle sèche à feu moyen, remuez régulièrement pendant quelques minutes jusqu'à ce qu'ils commencent à dorer, puis retirez-les immédiatement de la poêle pour arrêter la cuisson."
+     ],
+     [
+      null,
+      "Pour une version sans gluten, remplacez les pâtes par une boîte de pois chiches."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7975803,
+  "translations": {
+   "fr": {
+    "title": "Curry de pommes de terre et de lentilles",
+    "description": "Les pommes de terre sont un merveilleux ingrédient pour les currys : elles absorbent toutes les saveurs épicées et apportent de la consistance.",
+    "portions": "4",
+    "serving_size": "461 g",
+    "ingredients": [
+     [
+      null,
+      "1 c. à café d'huile de tournesol"
+     ],
+     [
+      null,
+      "1 oignon, haché"
+     ],
+     [
+      null,
+      "1 c. à café de graines de moutarde"
+     ],
+     [
+      null,
+      "2 cm de gingembre frais, pelé et râpé"
+     ],
+     [
+      null,
+      "1 c. à café de piment en poudre"
+     ],
+     [
+      null,
+      "1 c. à café de coriandre moulue"
+     ],
+     [
+      null,
+      "1 pincée de curcuma"
+     ],
+     [
+      null,
+      "6 c. à soupe de coriandre fraîche, feuilles et tiges finement hachées"
+     ],
+     [
+      null,
+      "200 g de tomates concassées"
+     ],
+     [
+      null,
+      "2 c. à soupe de concentré de tomate"
+     ],
+     [
+      null,
+      "125 g de lentilles jaunes, lavées et égouttées"
+     ],
+     [
+      null,
+      "600 ml de bouillon de légumes"
+     ],
+     [
+      null,
+      "900 g de pommes de terre farineuses, pelées et coupées en cubes"
+     ],
+     [
+      null,
+      "feuilles de coriandre fraîche, pour servir"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites chauffer l'huile de tournesol dans une casserole moyenne. Ajoutez l'oignon et faites-le revenir 2 à 3 minutes. Ajoutez les graines de moutarde, le gingembre, le piment en poudre, la coriandre, le curcuma et la coriandre fraîche, et poursuivez la cuisson 1 minute."
+     ],
+     [
+      null,
+      "Ajoutez dans la casserole les tomates, le concentré de tomate et les lentilles, puis versez le bouillon. Portez à ébullition, réduisez le feu, couvrez et laissez mijoter 25 minutes, ou jusqu'à ce que les lentilles soient presque tendres."
+     ],
+     [
+      null,
+      "Incorporez les pommes de terre et poursuivez la cuisson 10 à 15 minutes, jusqu'à ce qu'elles soient tendres. Incorporez les feuilles de coriandre et servez avec un raita au yaourt."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Vous pouvez utiliser des patates douces à la place des pommes de terre ordinaires : elles comptent parmi vos 5 fruits et légumes par jour."
+     ],
+     [
+      null,
+      "Pour une rapide relish d'oignon rouge à servir avec le curry, émincez finement 1 oignon rouge et 1 tomate finement hachée, mélangez avec le jus de 1 citron et une petite pincée de sel. Laissez infuser 10 minutes avant de servir."
+     ],
+     [
+      null,
+      "Instructions de congélation : se congèle une fois cuit. Décongelez au réfrigérateur ou au micro-ondes et réchauffez jusqu'à ce que le plat soit bien chaud à cœur."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7982558,
+  "translations": {
+   "fr": {
+    "title": "Pâtes à l'aubergine, aux courgettes, à la ricotta et aux pignons de pin",
+    "description": "Essayez ce plat savoureux et nutritif pour égayer vos plats de pâtes habituels.",
+    "portions": "2",
+    "serving_size": "431 g",
+    "ingredients": [
+     [
+      null,
+      "1 petite aubergine (environ 250 g), hachée"
+     ],
+     [
+      null,
+      "6 mini-courgettes (environ 400 g), coupées en deux dans la longueur"
+     ],
+     [
+      null,
+      "1 gousse d'ail, tranchée"
+     ],
+     [
+      null,
+      "1 piment, finement haché (facultatif)"
+     ],
+     [
+      null,
+      "1 c. à café d'huile d'olive"
+     ],
+     [
+      null,
+      "1 c. à soupe de vinaigre balsamique"
+     ],
+     [
+      null,
+      "150 g de pâtes sèches de forme courte"
+     ],
+     [
+      null,
+      "1 c. à soupe de pignons de pin, grillés"
+     ],
+     [
+      null,
+      "2 c. à soupe de ricotta"
+     ],
+     [
+      null,
+      "une poignée de basilic frais, déchiré"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 200 °C/thermostat 6."
+     ],
+     [
+      null,
+      "Placez l'aubergine, les courgettes, l'ail et le piment (si vous en utilisez) dans un plat allant au four, arrosez d'huile et de vinaigre et faites cuire 30 à 40 minutes, jusqu'à ce que les légumes soient tendres et commencent à noircir légèrement."
+     ],
+     [
+      null,
+      "Pendant ce temps, faites cuire les pâtes selon les instructions du paquet. Égouttez."
+     ],
+     [
+      null,
+      "Mélangez les pâtes avec les pignons de pin et la ricotta, puis parsemez de basilic et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Si vous ne trouvez pas de ricotta, vous pouvez utiliser du fromage frais allégé en matières grasses ou du fromage de chèvre."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 4"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7982930,
+  "translations": {
+   "fr": {
+    "title": "Tortilla aux épinards, à l'oignon rouge et aux pommes de terre",
+    "description": "Elle est parfaite chaude ou froide, pour le déjeuner, un pique-nique ou un barbecue.",
+    "portions": "4",
+    "serving_size": "258 g",
+    "ingredients": [
+     [
+      null,
+      "400 g de pommes de terre nouvelles"
+     ],
+     [
+      null,
+      "250 g d'épinards en feuilles surgelés (130 g une fois décongelés et l'excès d'eau pressé)"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile d'olive"
+     ],
+     [
+      null,
+      "1 gros oignon rouge, finement émincé"
+     ],
+     [
+      null,
+      "5 œufs"
+     ],
+     [
+      null,
+      "1 pincée de poivre, pour assaisonner"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites cuire les pommes de terre dans leur peau à l'eau bouillante pendant 15 à 20 minutes (selon leur taille), jusqu'à ce qu'elles soient presque cuites mais encore fermes. Égouttez-les et passez-les sous l'eau froide du robinet pour les manipuler plus facilement, puis coupez chaque pomme de terre en tranches de 1⁄2 cm d'épaisseur."
+     ],
+     [
+      null,
+      "Pendant ce temps, faites décongeler les épinards, pressez-les pour en extraire l'excès d'eau et hachez-les grossièrement."
+     ],
+     [
+      null,
+      "Versez l'huile dans une grande poêle antiadhésive et placez sur feu moyen. Ajoutez l'oignon et faites cuire 2 à 3 minutes, jusqu'à ce qu'il soit tendre."
+     ],
+     [
+      null,
+      "Battez les œufs avec le poivre, incorporez les épinards, puis ajoutez les pommes de terre."
+     ],
+     [
+      null,
+      "Versez le mélange d'œufs dans la poêle. Utilisez une spatule pour tasser la tortilla et repousser les bords afin d'obtenir une forme régulière."
+     ],
+     [
+      null,
+      "Lorsque la tortilla est presque prise (environ 5 minutes), retournez-la sur une assiette, puis faites-la glisser de nouveau dans la poêle pour cuire l'autre face pendant 5 minutes. Réduisez le feu et retournez la tortilla encore deux fois, en la faisant cuire 2 à 3 minutes de chaque côté pour vous assurer que le centre est cuit."
+     ],
+     [
+      null,
+      "Faites glisser la tortilla sur une assiette et laissez refroidir 10 à 15 minutes. Il est préférable de la servir tiède, car elle est bien meilleure ainsi. Pour un repas à emporter, laissez-la refroidir complètement avant de la couper et de l'emballer."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Pour cette recette de tortilla (également appelée omelette espagnole), vous pouvez utiliser d'autres légumes à la place des épinards, comme des petits pois et du poivron rouge. Ou essayez d'ajouter des herbes ou de l'ail."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 1"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7984576,
+  "translations": {
+   "fr": {
+    "title": "Mojito sans alcool",
+    "description": "Boisson cubaine traditionnelle, ce délicieux rafraîchissement ajoute de l'éclat à toutes les fêtes.",
+    "portions": "4",
+    "serving_size": "207 g",
+    "ingredients": [
+     [
+      null,
+      "16 grandes feuilles de menthe fraîche, plus 4 brins pour servir"
+     ],
+     [
+      null,
+      "2 limes fraîches, lavées et coupées en petits morceaux"
+     ],
+     [
+      null,
+      "4 c. à café d'édulcorant artificiel en grains (ajoutez-en plus si vous le souhaitez)"
+     ],
+     [
+      null,
+      "750 ml d'eau gazeuse"
+     ],
+     [
+      null,
+      "12 glaçons"
+     ],
+     [
+      null,
+      "1 lime fraîche, en rondelles ou en quartiers, pour servir"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Répartissez les feuilles de menthe et les morceaux de lime entre quatre verres individuels, en pressant chaque morceau au moment de l'ajouter."
+     ],
+     [
+      null,
+      "Ajoutez l'édulcorant et écrasez le tout avec le manche d'une cuillère en bois pour faire ressortir le jus et les arômes."
+     ],
+     [
+      null,
+      "Ajoutez les glaçons dans chaque verre, complétez avec de l'eau gazeuse, remuez et servez avec un brin de menthe, quelques morceaux de lime et une paille."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Vous pouvez utiliser des oranges, ou essayer des citrons à la place."
+     ],
+     [
+      null,
+      "Le mojito sans alcool est aussi idéal servi dans une grande carafe."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 0"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7987020,
+  "translations": {
+   "fr": {
+    "title": "Pizza espagnole à l'oignon et aux anchois",
+    "description": "Elle est idéale coupée en petits morceaux et servie lors d'un apéritif, en entrée ou en repas léger.",
+    "portions": "8",
+    "serving_size": "101 g",
+    "ingredients": [
+     [
+      null,
+      "200 g de farine de blé à forte teneur en gluten (farine de force)"
+     ],
+     [
+      null,
+      "un quart de c. à café de sel"
+     ],
+     [
+      null,
+      "1 sachet de 7 g de levure instantanée"
+     ],
+     [
+      null,
+      "2 c. à soupe d'huile d'olive"
+     ],
+     [
+      null,
+      "75 ml de lait demi-écrémé"
+     ],
+     [
+      null,
+      "2 gros oignons, finement émincés"
+     ],
+     [
+      null,
+      "1 boîte de 25 g d'anchois, égouttés et grossièrement hachés"
+     ],
+     [
+      null,
+      "1 c. à soupe de pignons de pin"
+     ],
+     [
+      null,
+      "1 c. à soupe de raisins secs de Smyrne (sultanines)"
+     ],
+     [
+      null,
+      "une demi-c. à café de flocons de piment"
+     ],
+     [
+      null,
+      "2 c. à café de ciboulette fraîche, hachée, pour décorer"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 200 °C/thermostat 6. Dans un grand bol, tamisez ensemble la farine et le sel. Incorporez la levure. Mélangez la moitié de l'huile, le lait et 50 ml d'eau tiède, versez sur la farine et mélangez pour former une pâte."
+     ],
+     [
+      null,
+      "Déposez la pâte sur un plan de travail légèrement fariné et pétrissez-la 5 minutes, jusqu'à ce qu'elle soit lisse."
+     ],
+     [
+      null,
+      "Placez-la dans un bol légèrement huilé, couvrez d'un torchon humide et laissez reposer dans un endroit chaud pendant 1 heure, jusqu'à ce qu'elle ait doublé de volume. Pétrissez-la de nouveau, puis façonnez-la en un carré d'environ 40 cm x 40 cm."
+     ],
+     [
+      null,
+      "Pendant ce temps, faites chauffer le reste de l'huile dans une poêle, ajoutez les oignons et faites-les revenir doucement 8 à 10 minutes, jusqu'à ce qu'ils soient ramollis et commencent à dorer."
+     ],
+     [
+      null,
+      "Répartissez-les sur la base de pizza avec les autres ingrédients, sauf la ciboulette, puis faites cuire 20 à 25 minutes, jusqu'à ce que la base soit dorée et croustillante. Parsemez de ciboulette et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Pour une version végétarienne, utilisez 75 g de tomates séchées émincées à la place des anchois."
+     ],
+     [
+      null,
+      "Préparez la pizza avec des oignons rouges pour plus de couleur."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 0"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7988967,
+  "translations": {
+   "fr": {
+    "title": "Poulet tikka masala",
+    "description": "Une version plus saine et moins grasse du curry préféré des Britanniques, avec tout le goût.",
+    "portions": "4",
+    "serving_size": "195 g",
+    "ingredients": [
+     [
+      null,
+      "1 c. à café d'huile de colza"
+     ],
+     [
+      null,
+      "1 gros oignon, haché"
+     ],
+     [
+      null,
+      "1 poivron rouge, finement haché"
+     ],
+     [
+      null,
+      "2 blancs de poulet sans peau (300 g), coupés en cubes"
+     ],
+     [
+      null,
+      "2 c. à soupe de pâte tikka"
+     ],
+     [
+      null,
+      "2 à 3 gousses d'ail, écrasées"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de tomates concassées"
+     ],
+     [
+      null,
+      "2 c. à soupe de coriandre fraîche hachée, plus 2 c. à café pour servir"
+     ],
+     [
+      null,
+      "2 c. à soupe de yaourt grec à 0 % de matières grasses"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Versez l'huile dans une casserole et ajoutez les oignons et les poivrons. Faites cuire 5 minutes jusqu'à ce qu'ils soient tendres, puis ajoutez les blancs de poulet et laissez cuire 3 minutes."
+     ],
+     [
+      null,
+      "Ajoutez la pâte tikka et remuez 1 à 2 minutes, jusqu'à ce que le poulet soit uniformément enrobé."
+     ],
+     [
+      null,
+      "Ajoutez l'ail et les tomates, mélangez de nouveau et portez à léger frémissement, puis couvrez et laissez mijoter doucement 6 à 8 minutes."
+     ],
+     [
+      null,
+      "Ajoutez la coriandre, remuez bien, puis retirez du feu."
+     ],
+     [
+      null,
+      "Incorporez le yaourt, saupoudrez du reste de coriandre et servez immédiatement."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Fonctionne très bien avec de la dinde ou du saumon coupé en cubes."
+     ],
+     [
+      null,
+      "Servez avec beaucoup de salade. Pour une option plus riche en glucides, enveloppez dans un roti ou servez avec du naan."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 2"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7989211,
+  "translations": {
+   "fr": {
+    "title": "Tzatziki",
+    "description": "Cette savoureuse trempette est délicieuse servie avec du pain pita réchauffé, des lamelles de poivron et des bâtonnets de céleri.",
+    "portions": "4",
+    "serving_size": "119 g",
+    "ingredients": [
+     [
+      null,
+      "un demi-concombre, pelé et râpé"
+     ],
+     [
+      null,
+      "250 g de yaourt grec à 0 % de matières grasses"
+     ],
+     [
+      null,
+      "2 gousses d'ail, écrasées"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile d'olive"
+     ],
+     [
+      null,
+      "1 c. à soupe de menthe fraîche hachée"
+     ],
+     [
+      null,
+      "poivre noir fraîchement moulu"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Placez le concombre dans un torchon propre et pressez jusqu'à ce que la plus grande partie du liquide soit éliminée."
+     ],
+     [
+      null,
+      "Mélangez avec les autres ingrédients et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Le tzatziki est une excellente sauce pour accompagner du poisson grillé, de la viande ou des plats principaux végétariens."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 0"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7990195,
+  "translations": {
+   "fr": {
+    "title": "Soupe de carottes à la coriandre",
+    "description": "Cette soupe copieuse et nourrissante vous réconfortera à coup sûr et vous réchauffera. Cette recette a été sélectionnée en partenariat avec Slimming World.",
+    "portions": "4",
+    "serving_size": "563 g",
+    "ingredients": [
+     [
+      null,
+      "1 gros oignon, haché"
+     ],
+     [
+      null,
+      "80 g de courge butternut pelée, hachée"
+     ],
+     [
+      null,
+      "750 g de carottes, hachées"
+     ],
+     [
+      null,
+      "1 litre de bouillon de légumes chaud à teneur réduite en sel"
+     ],
+     [
+      null,
+      "1 c. à café de coriandre moulue"
+     ],
+     [
+      null,
+      "60 g de haricots cannellini en boîte, égouttés et rincés"
+     ],
+     [
+      null,
+      "½ petit bouquet de coriandre fraîche, finement hachée"
+     ],
+     [
+      null,
+      "3 c. à soupe de quark nature"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mettez l'oignon dans une grande casserole antiadhésive avec la courge, les carottes, le bouillon et la coriandre moulue. Portez à ébullition à feu vif, baissez le feu et laissez mijoter 20 minutes, ou jusqu'à ce que les légumes soient très tendres."
+     ],
+     [
+      null,
+      "Ajoutez les haricots à la soupe et laissez mijoter 2 minutes. Retirez du feu, laissez refroidir légèrement, puis versez dans un robot ou un mixeur et mixez jusqu'à obtenir une texture lisse."
+     ],
+     [
+      null,
+      "Incorporez la coriandre et le quark, assaisonnez de poivre si vous le souhaitez, et servez."
+     ]
+    ],
+    "hints": [
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 3"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7995017,
+  "translations": {
+   "fr": {
+    "title": "Soupe de citrouille effrayante et pain « pierre tombale »",
+    "description": "Soupe de citrouille avec toile d'araignée au yaourt et toasts décorés.",
+    "portions": "4",
+    "serving_size": "430 g",
+    "ingredients": [
+     [
+      null,
+      "2 c. à café d'huile de colza"
+     ],
+     [
+      null,
+      "1 gros oignon, haché"
+     ],
+     [
+      null,
+      "1 petite courge butternut (500 g de poids préparé), pelée et coupée en cubes"
+     ],
+     [
+      null,
+      "1 cube de bouillon de légumes à très faible teneur en sel dans 800 ml d'eau bouillante"
+     ],
+     [
+      null,
+      "75 g de lentilles corail"
+     ],
+     [
+      null,
+      "1 boîte de 400 g de tomates"
+     ],
+     [
+      null,
+      "1 c. à soupe de concentré de tomate"
+     ],
+     [
+      null,
+      "1 bonne pincée de poivre"
+     ],
+     [
+      null,
+      "4 tranches de pain complet"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mettez l'oignon dans la casserole avec 1 cuillère à café d'huile. Faites cuire doucement jusqu'à ce que l'oignon commence à dorer."
+     ],
+     [
+      null,
+      "Ajoutez maintenant la courge, le bouillon, les lentilles, les tomates et le concentré de tomate, et laissez mijoter 15 à 20 minutes."
+     ],
+     [
+      null,
+      "Ajoutez une bonne pincée de poivre, puis mixez avec un mixeur plongeant ou dans un robot jusqu'à obtenir une texture lisse."
+     ],
+     [
+      null,
+      "Pendant ce temps, découpez le pain en forme de pierre tombale, placez le pochoir en position et vaporisez sur le pain grillé."
+     ],
+     [
+      null,
+      "Versez la soupe dans des bols. Mettez le yaourt dans une poche à douille avec une très petite douille et tracez une fine spirale sur la soupe. Prenez une brochette ou une baguette chinoise et tracez-la à travers la spirale du centre vers l'extérieur pour créer une toile d'araignée. Ajoutez le toast et servez."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Vous pouvez utiliser une alternative non laitière à base d'avoine ou de soja à la place du yaourt pour une version sans lactose."
+     ],
+     [
+      null,
+      "La suggestion de présentation ci-dessus comprend du pain complet, mais pas le yaourt. Pour une option plus pauvre en glucides, servez sans pain."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 4"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 7997094,
+  "translations": {
+   "fr": {
+    "title": "Poulet jerk",
+    "description": "Un plat jamaïcain classique, populaire dans toute la Caraïbe. Le jerk désigne l'assaisonnement épicé dans lequel le poulet est mariné. Peut être cuit au four ou au barbecue.",
+    "portions": "4",
+    "serving_size": "219 g",
+    "ingredients": [
+     [
+      null,
+      "4 oignons nouveaux, hachés"
+     ],
+     [
+      null,
+      "2 piments Scotch Bonnet, finement hachés"
+     ],
+     [
+      null,
+      "1 c. à café de poivre noir fraîchement moulu"
+     ],
+     [
+      null,
+      "une demi-c. à café de cannelle"
+     ],
+     [
+      null,
+      "une demi-c. à café de noix de muscade moulue"
+     ],
+     [
+      null,
+      "1 c. à café de piment de la Jamaïque moulu"
+     ],
+     [
+      null,
+      "2 c. à café de cassonade brune"
+     ],
+     [
+      null,
+      "2 gousses d'ail, écrasées"
+     ],
+     [
+      null,
+      "3 cm de racine de gingembre frais, râpée"
+     ],
+     [
+      null,
+      "1 c. à soupe de feuilles de thym frais ou 1 c. à café de thym séché"
+     ],
+     [
+      null,
+      "1 c. à soupe de sauce soja à teneur réduite en sel *"
+     ],
+     [
+      null,
+      "zeste râpé et jus de 1 lime"
+     ],
+     [
+      null,
+      "jus de 1 orange"
+     ],
+     [
+      null,
+      "1 c. à soupe de vinaigre de vin"
+     ],
+     [
+      null,
+      "4 pilons de poulet et 4 hauts de cuisse de poulet (1 kilo), excès de peau retiré"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Pour préparer l'assaisonnement jerk, mettez tous les ingrédients sauf le poulet dans un blender et mixez jusqu'à obtenir une pâte. Vous pouvez aussi utiliser un mixeur plongeant ou un pilon et un mortier."
+     ],
+     [
+      null,
+      "Piquez le poulet avec un couteau pointu et placez-le dans un sac alimentaire avec l'assaisonnement jerk. Laissez mariner au moins six heures, ou toute une nuit si possible."
+     ],
+     [
+      null,
+      "Préchauffez le four à 190 °C/thermostat 5. Étalez le poulet mariné sur une plaque de cuisson et faites cuire 25 minutes, jusqu'à ce qu'il soit croustillant et doré et commence à noircir sur les bords."
+     ],
+     [
+      null,
+      "Sinon, pour une cuisson au barbecue, couvrez de papier aluminium et faites cuire au four 20 minutes. Passez ensuite au barbecue pendant encore 10 minutes."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "*La recette contient de la sauce soja qui peut contenir du gluten. Si vous suivez un régime sans gluten, vérifiez l'étiquette pour trouver une version sans gluten."
+     ],
+     [
+      null,
+      "Essayez de servir avec du riz aux pois et beaucoup de salade."
+     ],
+     [
+      null,
+      "Vous pouvez utiliser cette marinade sur du porc, des filets de poisson, de grosses crevettes ou des cubes de tofu."
+     ],
+     [
+      null,
+      "Vous pouvez mettre le poulet et l'assaisonnement jerk dans un sac alimentaire, bien mélanger et congeler pour une utilisation ultérieure."
+     ],
+     [
+      null,
+      "Instructions de congélation : se congèle une fois cuit. Décongelez au réfrigérateur et réchauffez jusqu'à ce que le plat soit bien chaud à cœur."
+     ],
+     [
+      "Portions de fruits et légumes",
+      "Portions de fruits et légumes par portion : 0"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ }
+]

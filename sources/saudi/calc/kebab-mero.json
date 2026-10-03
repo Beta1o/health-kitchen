@@ -1,0 +1,65 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 171790,
+   "g": 500,
+   "name": "lean minced beef 95%, raw"
+  },
+  {
+   "fdc": 172023,
+   "g": 60,
+   "name": "millet flour"
+  },
+  {
+   "fdc": 170000,
+   "g": 100,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 10,
+   "name": "garlic"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 171413,
+   "g": 10,
+   "name": "olive oil for brushing"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt (kebab 3 + salad 1)"
+  },
+  {
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini 2 tbsp"
+  },
+  {
+   "fdc": 167747,
+   "g": 20,
+   "name": "lemon juice"
+  },
+  {
+   "fdc": 172237,
+   "g": 10,
+   "name": "vinegar"
+  },
+  {
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomato"
+  }
+ ]
+}

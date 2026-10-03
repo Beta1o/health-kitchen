@@ -1,0 +1,50 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 170599,
+   "g": 600,
+   "name": "lamb tripe (beef tripe raw as proxy)"
+  },
+  {
+   "fdc": 174284,
+   "g": 50,
+   "name": "red lentils, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 250,
+   "name": "onions"
+  },
+  {
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 169997,
+   "g": 20,
+   "name": "fresh coriander"
+  },
+  {
+   "fdc": 170497,
+   "g": 30,
+   "name": "green chillies"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

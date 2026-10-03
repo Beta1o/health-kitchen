@@ -1,0 +1,1217 @@
+[
+ {
+  "id": 6040267,
+  "translations": {
+   "fr": {
+    "title": "Omelette aux épinards et à la feta",
+    "description": "Des épinards verts et frais, des oignons croquants et une touche de feta crémeuse font de cette omelette une recette que vous voudrez préparer encore et encore.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1/2 tasse de substitut d'œuf"
+     ],
+     [
+      null,
+      "1 pincée de sel casher"
+     ],
+     [
+      null,
+      "1/4 c. à café de poivre noir"
+     ],
+     [
+      null,
+      "1/4 tasse d'oignon rouge (coupé en dés)"
+     ],
+     [
+      null,
+      "1 tasse d'épinards (hachés)"
+     ],
+     [
+      null,
+      "2 c. à soupe de feta allégée en matières grasses"
+     ],
+     [
+      null,
+      "1/4 tasse de tomates (coupées en dés)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Dans un bol, assaisonnez le substitut d'œuf avec le sel et le poivre et mélangez le tout."
+     ],
+     [
+      null,
+      "Faites chauffer l'huile d'olive dans une poêle antiadhésive à feu moyen."
+     ],
+     [
+      null,
+      "Ajoutez les oignons rouges coupés en dés et faites-les revenir jusqu'à ce qu'ils soient ramollis."
+     ],
+     [
+      null,
+      "Ajoutez les épinards hachés dans la poêle et faites-les cuire jusqu'à ce qu'ils soient fanés."
+     ],
+     [
+      null,
+      "Versez les œufs sur les épinards et les oignons."
+     ],
+     [
+      null,
+      "Lorsque les œufs commencent à prendre, répartissez les tomates en dés et la feta émiettée sur la moitié de l'omelette."
+     ],
+     [
+      null,
+      "Une fois les œufs complètement cuits, repliez délicatement l'omelette en deux à l'aide d'une spatule."
+     ],
+     [
+      null,
+      "Faites glisser l'omelette sur une assiette, décorez d'herbes fraîches si vous le souhaitez, et servez."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6079494,
+  "translations": {
+   "fr": {
+    "title": "Laitue romaine",
+    "description": "Une tasse de laitue romaine hachée",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 paquet de laitue romaine"
+     ]
+    ],
+    "steps": [],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6163468,
+  "translations": {
+   "fr": {
+    "title": "Pizzas pita aux légumes à la grecque",
+    "description": "Un délicieux mélange de style méditerranéen et de pizza se réunit dans cette pizza pita aux légumes à la grecque. Garnie de légumes riches en nutriments comme les poivrons rouges, les olives, les échalotes et les artichauts, cette recette rapide et facile est prête en moins de 15 minutes. Essayez de la servir avec des courgettes à la méditerranéenne pour un repas copieux.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "4 petits pitas complets (4 pitas complets ronds de 4 pouces chacun)"
+     ],
+     [
+      null,
+      "1 tasse de sauce pour pizza en pot pauvre en sodium (1 tasse de sauce pour pizza pauvre en sodium)"
+     ],
+     [
+      null,
+      "1/4 tasse de fromage italien râpé allégé en matières grasses (¼ tasse de fromage italien râpé à teneur réduite en matières grasses)"
+     ],
+     [
+      null,
+      "1/4 tasse d'olives Kalamata (¼ tasse d'olives Kalamata tranchées)"
+     ],
+     [
+      null,
+      "1/4 tasse de poivrons rouges grillés (¼ tasse de poivrons rouges grillés, finement tranchés)"
+     ],
+     [
+      null,
+      "1/4 tasse de cœurs d'artichauts marinés (¼ tasse de cœurs d'artichauts marinés, hachés)"
+     ],
+     [
+      null,
+      "1 échalote (1 échalote, finement tranchée)"
+     ],
+     [
+      null,
+      "2 oz de feta allégée en matières grasses (2 oz de feta à teneur réduite en matières grasses, émiettée)"
+     ],
+     [
+      null,
+      "1/2 tasse de basilic frais (½ tasse de feuilles de basilic frais, coupées en fines lanières)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 400 degrés F."
+     ],
+     [
+      null,
+      "Garnissez le pain pita de sauce, d'olives, de poivrons, d'artichauts, d'échalote et de fromage italien."
+     ],
+     [
+      null,
+      "Faites cuire au four jusqu'à ce que le fromage fonde et que le pita soit croustillant, 7 à 8 minutes."
+     ],
+     [
+      null,
+      "Retirez du four et garnissez de feta et de basilic frais."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6165411,
+  "translations": {
+   "fr": {
+    "title": "Soupe de betteraves rôties et de pommes",
+    "description": "Terreuse et légèrement sucrée, j'adore préparer cette soupe écarlate à la mi-automne ou en fin d'automne, lorsque les pommes et les betteraves sont à leur apogée. C'est l'entrée parfaite pour un repas sur le thème de l'automne, et ses saveurs contrastées, sucrées et acidulées, s'accordent avec toutes sortes de plats de saison, du porc et du poulet au chou-fleur rôti et aux choux de Bruxelles.",
+    "portions": "6",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1/2 lb de betteraves rouges (parées et lavées (environ 3 betteraves moyennes))"
+     ],
+     [
+      null,
+      "2 c. à soupe d'huile d'olive extra vierge"
+     ],
+     [
+      null,
+      "1 poireau (tranché (parties blanche et vert pâle))"
+     ],
+     [
+      null,
+      "2 gousses d'ail (hachées)"
+     ],
+     [
+      null,
+      "2 pommes Granny Smith ou autres pommes acidulées (pelées, évidées et coupées en dés)"
+     ],
+     [
+      null,
+      "1/8 c. à café de feta"
+     ],
+     [
+      null,
+      "1/4 tasse de jus d'orange (fraîchement pressé)"
+     ],
+     [
+      null,
+      "1 c. à café de zeste d'orange (fraîchement râpé)"
+     ],
+     [
+      null,
+      "4 tasses de bouillon de légumes pauvre en sodium (pauvre en sodium)"
+     ],
+     [
+      null,
+      "2 c. à soupe de jus de citron (fraîchement pressé)"
+     ],
+     [
+      null,
+      "1/4 c. à café de sel de mer fin"
+     ],
+     [
+      null,
+      "1/4 c. à café de poivre noir fraîchement moulu"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 350 °F."
+     ],
+     [
+      null,
+      "Enveloppez chaque betterave dans un morceau de papier aluminium et faites rôtir jusqu'à ce qu'elles soient tendres lorsqu'on les pique avec une fourchette, environ 1 heure. Sortez les betteraves du four, déballez-les et laissez-les refroidir 5 minutes. Pelez ensuite les betteraves et coupez-les en cubes de 1/2 pouce."
+     ],
+     [
+      null,
+      "Faites chauffer l'huile dans une casserole moyenne à fond épais à feu moyen-vif. Ajoutez le poireau et l'ail et faites cuire 5 à 8 minutes, ou jusqu'à ce qu'ils soient tendres. Ajoutez les pommes, les betteraves hachées et le gingembre. Faites cuire 1 à 2 minutes en remuant constamment, puis ajoutez le jus d'orange, le zeste d'orange et le bouillon."
+     ],
+     [
+      null,
+      "Portez le liquide à ébullition, puis réduisez le feu à doux, couvrez la casserole et laissez mijoter jusqu'à ce que les légumes soient très tendres, environ 25 minutes."
+     ],
+     [
+      null,
+      "Retirez la casserole du feu, ajoutez le jus de citron et laissez la soupe refroidir légèrement. Transférez délicatement la soupe dans un blender ou un robot culinaire, par lots si nécessaire, et mixez jusqu'à obtenir une texture lisse. Assaisonnez de sel et de poivre et servez immédiatement."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6192124,
+  "translations": {
+   "fr": {
+    "title": "Poitrine de dinde rôtie à la marocaine et légumes racines",
+    "description": "Les épices marocaines comme la cannelle, la cardamome, le cumin et la coriandre sont des assaisonnements idéaux pour les légumes et les viandes rôtis. Pendant la cuisson, elles font ressortir la douceur et les saveurs profondes de tout ce qu'elles enrobent, et leurs saveurs riches et chaudes transportent les papilles vers des contrées exotiques. Préparez ce plat en hiver, quand les oranges sont de saison et que la fièvre de l'enfermement commence à se faire sentir.",
+    "portions": "12",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 poitrine de dinde (avec os et avec peau)"
+     ],
+     [
+      null,
+      "3 c. à soupe d'huile d'olive extra vierge (divisées)"
+     ],
+     [
+      null,
+      "1 c. à café de sel de mer fin (divisé)"
+     ],
+     [
+      null,
+      "1 c. à café de poivre noir fraîchement moulu (divisé)"
+     ],
+     [
+      null,
+      "2 mélange d'épices marocaines"
+     ],
+     [
+      null,
+      "5 gousses d'ail (placées)"
+     ],
+     [
+      null,
+      "1 oignon (coupé en deux, pelé, puis coupé en quartiers)"
+     ],
+     [
+      null,
+      "3 branches de céleri (parées et coupées en tiers)"
+     ],
+     [
+      null,
+      "2 tasses de carottes (pelées, hachées et coupées en morceaux de 2 pouces)"
+     ],
+     [
+      null,
+      "2 tasses de rutabaga (pelé, haché et coupé en morceaux de 2 pouces)"
+     ],
+     [
+      null,
+      "1 tasse de navets (pelés, hachés et coupés en morceaux de 2 pouces)"
+     ],
+     [
+      null,
+      "1 tasse de patate douce (pelée, hachée et coupée en morceaux de 2 pouces)"
+     ],
+     [
+      null,
+      "1 c. à soupe d'origan frais (haché)"
+     ],
+     [
+      null,
+      "1 c. à soupe de zeste d'orange (fraîchement râpé)"
+     ],
+     [
+      null,
+      "1 orange (coupée en deux, puis en quartiers)"
+     ],
+     [
+      null,
+      "1 c. à café de cumin"
+     ],
+     [
+      null,
+      "1/2 c. à café de paprika fumé (doux ou fort)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 425 °F."
+     ],
+     [
+      null,
+      "Décollez la peau de la poitrine de dinde en glissant doucement vos doigts entre la peau et la chair. Assaisonnez sous la peau avec 1 cuillère à soupe d'huile d'olive, 1/2 cuillère à café de sel et 1/2 cuillère à café de poivre. Frottez le mélange d'épices sous et sur la peau décollée, puis placez la poitrine de dinde dans un plat à rôtir."
+     ],
+     [
+      null,
+      "Dans un petit bol, mélangez le reste de l'huile, le reste du sel et du poivre, l'ail, l'oignon, le céleri, les carottes, le rutabaga, le navet, la patate douce, l'origan, le zeste d'orange, l'orange, le cumin et le paprika fumé. Disposez le mélange de légumes en une seule couche autour de la poitrine de dinde."
+     ],
+     [
+      null,
+      "Placez le plat au four et faites rôtir la dinde et les légumes, sans couvrir, pendant 15 minutes. Couvrez légèrement le plat de papier aluminium. Réduisez la température du four à 325 °F et poursuivez la cuisson 30 à 45 minutes, ou jusqu'à ce qu'un thermomètre à lecture instantanée inséré dans la partie la plus charnue de la poitrine de dinde indique 165 °F."
+     ],
+     [
+      null,
+      "Retirez le plat du four, transférez la dinde sur une planche à découper et couvrez-la légèrement de papier aluminium. Laissez reposer la dinde 20 minutes, puis retirez la peau et tranchez la viande."
+     ],
+     [
+      null,
+      "Retirez et jetez les oranges des légumes rôtis, remuez bien les légumes et servez-les avec la dinde tranchée."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6270294,
+  "translations": {
+   "fr": {
+    "title": "Barres au beurre d'arachide et aux pépites de chocolat",
+    "description": "J'ai enrichi cette version d'un « blondie » avec la bonté du beurre d'arachide. Ces barres sont un excellent exemple de dessert suffisamment sucré, mais incroyablement satisfaisant !",
+    "portions": "16",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 spray de cuisson antiadhésif"
+     ],
+     [
+      null,
+      "1 gros œuf"
+     ],
+     [
+      null,
+      "1 blanc d'œuf"
+     ],
+     [
+      null,
+      "1/3 tasse d'huile d'avocat"
+     ],
+     [
+      null,
+      "1/3 tasse de sirop d'érable pur (de préférence de catégorie B)"
+     ],
+     [
+      null,
+      "1/4 tasse de banane (écrasée)"
+     ],
+     [
+      null,
+      "1/4 tasse de lait d'amande non sucré"
+     ],
+     [
+      null,
+      "1 c. à café d'extrait de vanille pur"
+     ],
+     [
+      null,
+      "1/2 tasse de beurre d'arachide sans sucre ajouté"
+     ],
+     [
+      null,
+      "3/4 tasse de farine d'amande"
+     ],
+     [
+      null,
+      "3/4 tasse de farine de pois chiches ou d'épeautre"
+     ],
+     [
+      null,
+      "2 c. à soupe de graines de lin"
+     ],
+     [
+      null,
+      "1 c. à café de levure chimique (sans aluminium)"
+     ],
+     [
+      null,
+      "1/2 c. à café de bicarbonate de soude"
+     ],
+     [
+      null,
+      "1/3 tasse de pépites de chocolat noir sucrées à la stévia (sans sucres ajoutés)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 350 °F. Vaporisez un plat de cuisson de 9 x 9 pouces avec un spray de cuisson antiadhésif."
+     ],
+     [
+      null,
+      "Dans le bol d'un batteur électrique, ou avec un batteur à main, battez l'œuf, le blanc d'œuf, l'huile, le sirop d'érable, la banane, le lait d'amande, la vanille et le beurre d'arachide jusqu'à obtenir un mélange lisse. Réservez les ingrédients humides."
+     ],
+     [
+      null,
+      "Dans un autre grand bol, mélangez la farine d'amande, la farine de pois chiches, les graines de lin, la levure chimique et le bicarbonate de soude."
+     ],
+     [
+      null,
+      "Ajoutez les ingrédients secs aux ingrédients humides et mélangez avec une cuillère en bois ou une spatule jusqu'à ce que le tout soit bien incorporé. Incorporez délicatement les pépites de chocolat. Versez la pâte dans le plat de cuisson préparé et étalez-la uniformément."
+     ],
+     [
+      null,
+      "Placez le plat au four et faites cuire 30 minutes, ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre."
+     ],
+     [
+      null,
+      "Retirez le plat du four, laissez refroidir légèrement, puis coupez en 16 barres."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6270743,
+  "translations": {
+   "fr": {
+    "title": "Poulet frit au four",
+    "description": "Ce poulet « frit » est non seulement plus sain que le poulet frit traditionnel, mais aussi plus facile et moins contraignant à préparer que la version traditionnelle.",
+    "portions": "8",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 tasses de chapelure complète à l'italienne"
+     ],
+     [
+      null,
+      "1 gousse d'ail"
+     ],
+     [
+      null,
+      "1 c. à soupe d'assaisonnement italien"
+     ],
+     [
+      null,
+      "1/2 tasse de farine tout usage"
+     ],
+     [
+      null,
+      "2 gros œufs (battus avec 1 cuillère à soupe d'eau)"
+     ],
+     [
+      null,
+      "4 gros blancs d'œufs"
+     ],
+     [
+      null,
+      "8 hauts de cuisse de poulet (désossés, sans peau, environ 2 livres)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 375 °F en convection ou à 400 °F dans un four conventionnel. Mettez la chapelure, l'ail et le mélange d'assaisonnement italien sans stress dans le robot culinaire. Mixez jusqu'à ce que le tout soit bien mélangé."
+     ],
+     [
+      null,
+      "Mettez la farine dans une assiette à tarte. Mettez les œufs et les blancs d'œufs dans une autre assiette à tarte. Mettez le mélange de chapelure dans une troisième assiette à tarte."
+     ],
+     [
+      null,
+      "Tapissez une grande plaque de cuisson de papier sulfurisé."
+     ],
+     [
+      null,
+      "Passez le poulet dans la farine en l'enrobant de tous côtés, puis dans l'œuf, puis dans la chapelure. Enrobez uniformément. Déposez-le sur une plaque de cuisson tapissée de papier sulfurisé. Si vous avez le temps, mettez le poulet au réfrigérateur un moment avant de le faire cuire."
+     ],
+     [
+      null,
+      "Faites cuire le poulet 45 minutes, jusqu'à ce qu'il soit croustillant et bien doré. Servez avec des condiments ou des salades de style pique-nique. Il peut être préparé à l'avance et congelé, puis réchauffé dans un four très chaud. Décongelez avant de réchauffer."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6398040,
+  "translations": {
+   "fr": {
+    "title": "Saumon au balsamique sur pilaf d'orge",
+    "description": null,
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 lb de saumon (sans peau, coupé en 4 morceaux (4 oz chacun))"
+     ],
+     [
+      null,
+      "1/8 c. à café de poivre noir"
+     ],
+     [
+      null,
+      "1/4 c. à café de sel"
+     ],
+     [
+      null,
+      "1/2 tasse de basilic frais (grossièrement haché)"
+     ],
+     [
+      null,
+      "1/4 tasse de vinaigre balsamique"
+     ],
+     [
+      null,
+      "1 pinte de tomates cerises (coupées en deux)"
+     ],
+     [
+      null,
+      "3 tasses de bouillon de poulet pauvre en sodium"
+     ],
+     [
+      null,
+      "1 tasse d'orge perlé"
+     ],
+     [
+      null,
+      "4 carottes (finement tranchées)"
+     ],
+     [
+      null,
+      "2 branches de céleri (finement tranchées)"
+     ],
+     [
+      null,
+      "1 gousse d'ail (finement hachée)"
+     ],
+     [
+      null,
+      "1 oignon (très finement haché)"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile de canola"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Mettez l'huile de canola dans une grande casserole. Faites chauffer, puis ajoutez l'oignon, l'ail et le céleri. Faites cuire à feu moyen, à couvert, jusqu'à ce que l'oignon devienne translucide. Ajoutez les carottes et l'orge et faites cuire à découvert jusqu'à ce que l'orge commence à paraître grillé. Ajoutez le bouillon. Couvrez et laissez cuire 30 minutes."
+     ],
+     [
+      null,
+      "Coupez les tomates en deux et mettez-les dans un grand bol avec le vinaigre balsamique, le basilic, le sel, le poivre et le saumon. Laissez reposer pendant que l'orge cuit les 30 premières minutes. Après 30 minutes, retirez le saumon du mélange de tomates. Ajoutez le mélange de tomates à l'orge et placez le saumon sur l'orge. Couvrez et laissez cuire encore 10 minutes pour cuire le saumon à la vapeur."
+     ],
+     [
+      null,
+      "Mettez un peu de pilaf d'orge dans une assiette creuse à pâtes et garnissez d'un morceau de saumon pour servir."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6445111,
+  "translations": {
+   "fr": {
+    "title": "Concombres aigres-doux",
+    "description": "Cette recette est présentée par DaVita, fier partenaire de l'American Diabetes Association® et du Diabetes Food Hub®",
+    "portions": "12",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1/4 c. à café de poivre noir"
+     ],
+     [
+      null,
+      "3 concombres moyens"
+     ],
+     [
+      null,
+      "1 oignon blanc moyen"
+     ],
+     [
+      null,
+      "1/4 tasse de sucre"
+     ],
+     [
+      null,
+      "1/2 tasse de vinaigre de vin blanc"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Le liquide de la marinade doit être bien égoutté et jeté des concombres avant de servir. Servez dans de petits bols à salade comme salade ou en-cas."
+     ],
+     [
+      null,
+      "Couvrez le récipient de film plastique et laissez-le au réfrigérateur pendant les 2 dernières heures."
+     ],
+     [
+      null,
+      "Versez sur les concombres et l'oignon. Ajoutez le poivre et, si vous le souhaitez, ¼ de cuillère à café de sel."
+     ],
+     [
+      null,
+      "Mélangez le sucre et le vinaigre. Remuez jusqu'à ce que le sucre soit complètement dissous."
+     ],
+     [
+      null,
+      "Coupez les concombres et les oignons en tranches d'environ 1/8 de pouce d'épaisseur. Mettez-les dans un grand bol."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6536401,
+  "translations": {
+   "fr": {
+    "title": "Tofu glacé au sésame et à l'érable avec quinoa aux légumes et furikake",
+    "description": "Pour ce plat coloré, vous ferez dorer du tofu et le glacerez à la poêle avec un mélange sucré-salé d'huile de sésame, de sirop d'érable et d'autres ingrédients, puis vous le servirez sur un copieux lit de quinoa mélangé à du chou, des carottes et des champignons sautés.\n\nBlue Apron croit que le repas devrait être le meilleur moment de la journée. C'est pourquoi nous nous sommes associés à l'American Diabetes Association pour proposer de délicieux repas prêts à cuisiner, riches en produits frais, en protéines maigres et en options savoureuses. Le tout livré à votre porte.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1/2 tasse de quinoa rouge"
+     ],
+     [
+      null,
+      "14 oz de tofu ferme"
+     ],
+     [
+      null,
+      "6 oz (environ 3 carottes entières) de carottes"
+     ],
+     [
+      null,
+      "4 oz de champignons de Paris bruns (cremini)"
+     ],
+     [
+      null,
+      "1/2 lb de chou rouge"
+     ],
+     [
+      null,
+      "1 morceau (de 1 pouce) de gingembre frais"
+     ],
+     [
+      null,
+      "2 gousses d'ail"
+     ],
+     [
+      null,
+      "2 oignons verts (échalotes)"
+     ],
+     [
+      null,
+      "2 c. à soupe d'aminos de coco ou de sauce soja pauvre en sodium"
+     ],
+     [
+      null,
+      "1 1/2 c. à soupe de sirop d'érable"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile de sésame (utilisation divisée)"
+     ],
+     [
+      null,
+      "1 c. à soupe d'eau"
+     ],
+     [
+      null,
+      "1 c. à soupe de vinaigre de xérès"
+     ],
+     [
+      null,
+      "2 c. à café d'huile d'olive"
+     ],
+     [
+      null,
+      "1 c. à café de furikake (facultatif)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Faites cuire le quinoa : remplissez une casserole moyenne aux 3/4 d'eau salée ; couvrez et portez à ébullition à feu vif. Dès que l'eau bout, ajoutez le quinoa et faites cuire à découvert 18 à 20 minutes, ou jusqu'à ce qu'il soit tendre. Éteignez le feu. Égouttez bien et remettez dans la casserole."
+     ],
+     [
+      null,
+      "Pressez le tofu : pendant ce temps, égouttez le tofu puis placez-le sur une assiette tapissée de papier absorbant. Posez plusieurs couches de papier absorbant dessus, puis placez dessus une casserole (ou une poêle) à fond épais. Laissez de côté pour qu'il libère l'excès de liquide pendant au moins 10 minutes."
+     ],
+     [
+      null,
+      "Préparez les ingrédients et faites le glaçage : pendant ce temps, lavez et séchez les produits frais. Pelez les carottes ; tranchez-les finement en biais. Coupez les champignons en petits morceaux. Retirez et jetez le trognon du chou ; tranchez finement les feuilles. Pelez et hachez finement le gingembre. Pelez et hachez grossièrement 2 gousses d'ail. Tranchez finement les oignons verts en séparant les bases blanches des parties vertes creuses. Dans un bol, mélangez le chou tranché, le gingembre haché, l'ail haché et les parties blanches tranchées des oignons verts. Dans un autre bol, fouettez ensemble les aminos de coco, le sirop d'érable, la moitié de l'huile de sésame et 1 cuillère à soupe d'eau."
+     ],
+     [
+      null,
+      "Faites cuire les légumes et terminez le quinoa : dans une poêle moyenne (antiadhésive, si vous en avez une), faites chauffer le reste de l'huile de sésame à feu moyen-vif jusqu'à ce qu'elle soit chaude. Ajoutez les carottes tranchées et les morceaux de champignons en une couche uniforme. Faites cuire, sans remuer, 2 à 3 minutes, ou jusqu'à ce qu'ils soient légèrement dorés. Ajoutez le mélange de chou préparé ; assaisonnez de sel (facultatif) et de poivre. Faites cuire en remuant de temps en temps, 2 à 3 minutes, ou jusqu'à ce qu'il soit ramolli. Ajoutez le vinaigre. Faites cuire en remuant fréquemment, 30 secondes à 1 minute, ou jusqu'à ce que le liquide se soit évaporé. Transférez dans la casserole de quinoa cuit ; mélangez. Couvrez pour garder au chaud. Rincez et essuyez la poêle."
+     ],
+     [
+      null,
+      "Faites cuire le tofu et servez votre plat : transférez le tofu pressé sur une planche à découper ; coupez-le dans le sens de la longueur en 4 morceaux de taille égale. Assaisonnez de sel (facultatif) et de poivre des deux côtés. Dans la même poêle, faites chauffer 2 cuillères à café d'huile d'olive à feu moyen-vif jusqu'à ce qu'elle soit chaude. Ajoutez les morceaux de tofu assaisonnés en une couche uniforme et faites cuire 5 à 6 minutes, ou jusqu'à ce qu'ils soient dorés. Retournez et faites cuire 2 à 3 minutes, ou jusqu'à ce qu'ils soient légèrement dorés. Ajoutez la moitié du glaçage (avec précaution, car le liquide peut éclabousser) et faites cuire en arrosant fréquemment le tofu avec le glaçage, 1 à 2 minutes, ou jusqu'à ce que le tofu soit enrobé. Transférez sur une planche à découper. Coupez en travers en morceaux de 1 pouce. Servez le quinoa terminé garni du tofu cuit et du reste du glaçage. Décorez des parties vertes tranchées des oignons verts et du furikake. Bon appétit !"
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6548749,
+  "translations": {
+   "fr": {
+    "title": "Fruits grillés à la crème de yaourt à la vanille",
+    "description": "La cuisson au gril caramélise les sucres naturels des fruits, leur donnant une saveur plus riche et plus sucrée, qui ressemble davantage à un dessert qu'à une collation saine. Nous utilisons une combinaison de pêches, de prunes et d'abricots, mais n'importe quels 6 fruits à noyau d'été feront l'affaire. Pour encore plus de saveur, nous garnissons les fruits de yaourt allégé en matières grasses et d'un léger filet de miel. Pour un croquant supplémentaire, essayez de les garnir de noix hachées ; les pistaches fonctionnent particulièrement bien. Cette recette est parue dans :",
+    "portions": "6",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 pêches mûres (coupées en deux, dénoyautées)"
+     ],
+     [
+      null,
+      "2 prunes mûres (coupées en deux, dénoyautées)"
+     ],
+     [
+      null,
+      "2 abricots mûrs (coupés en deux, dénoyautés)"
+     ],
+     [
+      null,
+      "1 tasse de yaourt à la vanille allégé en matières grasses"
+     ],
+     [
+      null,
+      "2 c. à soupe de graines de lin"
+     ],
+     [
+      null,
+      "2 c. à soupe d'amandes moulues"
+     ],
+     [
+      null,
+      "2 1/2 c. à soupe de miel"
+     ],
+     [
+      null,
+      "cannelle moulue, au goût"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Placez les pêches, les prunes et les abricots sur le gril, côté coupé vers le bas. Faites griller à feu doux ou à chaleur indirecte jusqu'à ce qu'ils soient tendres, environ 2 à 4 minutes de chaque côté."
+     ],
+     [
+      null,
+      "Disposez les fruits sur un plat de service et garnissez uniformément de yaourt, de graines de lin moulues et d'amandes moulues."
+     ],
+     [
+      null,
+      "Nappez chaque portion d'un filet de miel et décorez d'une pincée de cannelle. Si vous le souhaitez, parsemez chaque portion de pistaches hachées. Servez immédiatement."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6621196,
+  "translations": {
+   "fr": {
+    "title": "Pizza pêche et pesto",
+    "description": "Cette recette simple réunit trois de nos P préférés : pesto, pêche et pizza. Si vous aimez le sucré-salé et cherchez une recette créative de pizza sans gluten à croûte de chou-fleur à préparer chez vous, ne cherchez plus. Cette recette vous est proposée par CAULIPOWER®, fier soutien de l'American Diabetes Association® et du Diabetes Food Hub®.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 c. à soupe de glaçage balsamique"
+     ],
+     [
+      null,
+      "1/3 tasse de parmesan (râpé, allégé en matières grasses)"
+     ],
+     [
+      null,
+      "1/3 tasse d'amandes (en tranches)"
+     ],
+     [
+      null,
+      "1/2 tasse d'oignon rouge"
+     ],
+     [
+      null,
+      "1 tasse de roquette (fraîche)"
+     ],
+     [
+      null,
+      "1/2 avocat (en tranches)"
+     ],
+     [
+      null,
+      "1 bulbe de fenouil (émincé)"
+     ],
+     [
+      null,
+      "1 pêche entière (en tranches)"
+     ],
+     [
+      null,
+      "3 c. à soupe de sauce pesto"
+     ],
+     [
+      null,
+      "1 croûte de pizza au chou-fleur entière"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 425 °F (218 °C)."
+     ],
+     [
+      null,
+      "Sortez votre croûte de pizza CAULIPOWER® de la boîte et de son emballage plastique, et placez-la sur une surface propre."
+     ],
+     [
+      null,
+      "Étalez uniformément la sauce pesto sur la croûte de pizza CAULIPOWER®."
+     ],
+     [
+      null,
+      "Garnissez de pêche, de fenouil, d'oignon rouge et de parmesan et faites cuire 13 à 16 minutes."
+     ],
+     [
+      null,
+      "Sortez du four et ajoutez la roquette et les amandes en tranches, puis nappez la pizza de glaçage balsamique."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6764984,
+  "translations": {
+   "fr": {
+    "title": "Aubergines rôties à la grecque et à la feta",
+    "description": null,
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 c. à soupe de feta (finement émiettée)"
+     ],
+     [
+      null,
+      "1 c. à soupe de menthe fraîche (hachée)"
+     ],
+     [
+      null,
+      "3 c. à soupe de persil frais"
+     ],
+     [
+      null,
+      "2 aubergines (chacune coupée en quatre dans la longueur, pédoncules retirés)"
+     ],
+     [
+      null,
+      "1/4 c. à café de cannelle moulue"
+     ],
+     [
+      null,
+      "1 gousse d'ail (hachée)"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile d'olive"
+     ],
+     [
+      null,
+      "1 citron (zeste et jus, utilisation divisée)"
+     ],
+     [
+      null,
+      "3 c. à soupe de sauce marinara"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 400 °F. Dans un petit bol, mélangez la sauce marinara, le jus de citron, l'huile, l'ail et la cannelle. Placez les quartiers d'aubergine, côté peau vers le bas, sur une plaque de cuisson tapissée de papier sulfurisé non blanchi. Badigeonnez généreusement la chair des quartiers d'aubergine avec le mélange à la marinara."
+     ],
+     [
+      null,
+      "Faites rôtir les quartiers d'aubergine jusqu'à ce qu'ils soient bien cuits et tendres, environ 30 minutes."
+     ],
+     [
+      null,
+      "Transférez les quartiers sur une assiette. Parsemez de persil, de menthe, de feta et de zeste de citron, et servez."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6847213,
+  "translations": {
+   "fr": {
+    "title": "Pâtes crémeuses au poulet et au basilic",
+    "description": "Envie d'une assiette de pâtes réconfortante ? Essayez de préparer ces pâtes crémeuses au poulet et au basilic adaptées aux personnes diabétiques. La sauce maison préparée avec des herbes fraîches apporte une explosion de saveurs qui fera de cette recette une préférée de la famille.",
+    "portions": "4",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1/4 tasse de basilic frais (¼ tasse de feuilles de basilic frais, coupées en fines lanières)"
+     ],
+     [
+      null,
+      "1/4 tasse de parmesan (¼ tasse de parmesan fraîchement râpé)"
+     ],
+     [
+      null,
+      "2 tasses de pâtes penne complètes (2 tasses de pâtes complètes cuites)"
+     ],
+     [
+      null,
+      "1 lb de blancs de poulet désossés et sans peau (1 livre de blancs de poulet désossés et sans peau, coupés en deux dans la longueur en fines escalopes)"
+     ],
+     [
+      null,
+      "1/2 c. à café d'assaisonnement italien sans sel ajouté (½ cuillère à café d'assaisonnement italien pauvre en sodium ou sans sel ajouté)"
+     ],
+     [
+      null,
+      "1/2 tasse de fromage italien allégé en matières grasses (½ tasse de fromage italien)"
+     ],
+     [
+      null,
+      "3 tasses de lait sans matières grasses (3 tasses de lait écrémé)"
+     ],
+     [
+      null,
+      "2 c. à soupe de farine (2 cuillères à soupe de farine)"
+     ],
+     [
+      null,
+      "1/2 c. à café d'oignon en poudre (½ cuillère à café d'oignon en poudre)"
+     ],
+     [
+      null,
+      "1 c. à café d'ail (1 cuillère à café d'ail haché)"
+     ],
+     [
+      null,
+      "3 c. à soupe d'huile d'olive (3 cuillères à soupe d'huile d'olive, divisées)"
+     ],
+     [
+      null,
+      "2 c. à soupe de half-and-half (2 cuillères à soupe de half-and-half)"
+     ],
+     [
+      null,
+      "1/2 tasse de persil frais (½ tasse de persil plat italien tassé)"
+     ],
+     [
+      null,
+      "1 tasse de basilic frais (1 tasse de feuilles de basilic tassées)"
+     ],
+     [
+      null,
+      "5 oz de jeunes pousses d'épinards (5 oz de jeunes pousses d'épinards)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Portez à ébullition une grande casserole d'eau. Ajoutez les jeunes pousses d'épinards dans la casserole et faites-les blanchir 1 minute. À l'aide d'une écumoire, retirez les épinards et placez-les dans un bol d'eau glacée. Ajoutez le persil et le basilic tassés dans la casserole et faites-les blanchir 15 secondes. Retirez-les et ajoutez-les au bol d'eau glacée. Égouttez l'eau et pressez les herbes pour en extraire le plus de liquide possible."
+     ],
+     [
+      null,
+      "Mettez les épinards, le persil et le basilic dans un robot culinaire. Ajoutez le half-and-half dans le robot culinaire et mixez en purée. Réservez."
+     ],
+     [
+      null,
+      "Faites chauffer une casserole à feu moyen. Ajoutez 2 cuillères à soupe d'huile d'olive, l'ail et l'oignon en poudre. Ajoutez la farine et fouettez 1 minute. Ajoutez le lait et fouettez jusqu'à obtenir une texture lisse."
+     ],
+     [
+      null,
+      "Ajoutez le fromage, l'assaisonnement italien, le sel (facultatif) et le poivre. Remuez jusqu'à ce que la sauce épaississe."
+     ],
+     [
+      null,
+      "Ajoutez la purée de légumes et remuez pour bien mélanger."
+     ],
+     [
+      null,
+      "Pendant ce temps, faites chauffer une grande poêle à feu moyen. Ajoutez le reste de l'huile d'olive. Faites cuire le poulet 3 à 4 minutes de chaque côté, jusqu'à ce qu'il soit doré et bien cuit."
+     ],
+     [
+      null,
+      "Pour servir, répartissez le poulet et les pâtes dans les assiettes. Nappez de sauce, de parmesan et de lanières de basilic frais."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6949633,
+  "translations": {
+   "fr": {
+    "title": "Pancakes sans gluten à la farine d'amande",
+    "description": "Profitez de votre matin avec ces pancakes sans gluten à la farine d'amande, qui apportent suffisamment de protéines pour garder votre énergie. Si votre plan de repas pour la gestion du diabète le permet, garnissez-les de tranches de banane fraîche ou de baies à faible teneur en glucides.",
+    "portions": "2",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "1 tasse de farine d'amande"
+     ],
+     [
+      null,
+      "2 c. à soupe de farine de noix de coco"
+     ],
+     [
+      null,
+      "1 c. à café de levure chimique"
+     ],
+     [
+      null,
+      "1 pincée de sel casher"
+     ],
+     [
+      null,
+      "2 gros œufs"
+     ],
+     [
+      null,
+      "1/2 tasse de lait d'amande non sucré"
+     ],
+     [
+      null,
+      "1 c. à soupe d'huile d'olive (plus 1 c. à café)"
+     ],
+     [
+      null,
+      "1 c. à soupe de sirop d'érable"
+     ],
+     [
+      null,
+      "1 c. à café d'extrait de vanille"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Dans un bol, mélangez la farine d'amande, la farine de noix de coco, la levure chimique et le sel."
+     ],
+     [
+      null,
+      "Dans un autre récipient, battez les œufs et ajoutez le lait d'amande, 1 cuillère à soupe d'huile d'olive, le sirop d'érable et l'extrait de vanille. Mélangez bien."
+     ],
+     [
+      null,
+      "Versez les ingrédients humides dans les ingrédients secs et remuez jusqu'à ce que le tout soit incorporé. Laissez reposer la pâte quelques minutes pour qu'elle épaississe."
+     ],
+     [
+      null,
+      "Faites chauffer une poêle ou une plaque de cuisson à feu moyen et graissez avec 1 cuillère à café d'huile d'olive ou du spray de cuisson."
+     ],
+     [
+      null,
+      "Versez ¼ de tasse de pâte dans la poêle pour chaque pancake. Étalez légèrement la pâte avec le dos d'une cuillère."
+     ],
+     [
+      null,
+      "Faites cuire jusqu'à ce que des bulles se forment à la surface, puis retournez et faites cuire jusqu'à ce que l'autre face soit dorée."
+     ],
+     [
+      null,
+      "Répétez avec le reste de la pâte."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6998435,
+  "translations": {
+   "fr": {
+    "title": "Wrap de poulet en feuille de laitue beurre",
+    "description": "Voici votre nouveau wrap de poulet préféré, plus sain ! Préparée avec des lanières de poulet CAULIPOWER CUITES AU FOUR (jamais frites), cette recette savoureuse est sans gluten, sans produits laitiers et riche en protéines, ce qui rend votre déjeuner de semaine un peu plus CAULIPOWERful ! Cette recette est présentée par CAULIPOWER®, fier soutien de l'American Diabetes Association® et du Diabetes Food Hub®.",
+    "portions": "1",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "2 lanières de poulet CAULIPOWER® Original (portions, 85 g)"
+     ],
+     [
+      null,
+      "1 grande feuille de laitue"
+     ],
+     [
+      null,
+      "1/4 tasse d'oignon vert (échalote) (haché)"
+     ],
+     [
+      null,
+      "1/4 tasse de carottes (râpées)"
+     ],
+     [
+      null,
+      "1/8 tasse d'avocat (en tranches)"
+     ],
+     [
+      null,
+      "1/4 tasse de chou rouge (râpé)"
+     ],
+     [
+      null,
+      "1 c. à soupe de pico de gallo"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Préchauffez le four à 425 degrés F."
+     ],
+     [
+      null,
+      "Placez les lanières de poulet CAULIPOWER sur une plaque de cuisson vaporisée de spray de cuisson antiadhésif."
+     ],
+     [
+      null,
+      "Faites chauffer 17 à 19 minutes dans un four conventionnel, 15 à 17 minutes dans un four à convection, ou jusqu'à ce que les lanières atteignent une température interne de 165 degrés F."
+     ],
+     [
+      null,
+      "Retirez les lanières du four et déposez les lanières chaudes sur la feuille de laitue."
+     ],
+     [
+      null,
+      "Garnissez de carottes, d'oignons verts, d'avocat, de chou rouge et de pico de gallo."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ }
+]

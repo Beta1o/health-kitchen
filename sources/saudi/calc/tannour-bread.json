@@ -1,0 +1,35 @@
+{
+ "servings": 8,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 240,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 120,
+   "name": "white flour"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg for glazing"
+  },
+  {
+   "fdc": 170150,
+   "g": 3,
+   "name": "nigella/sesame seeds"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "servings": 8,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 100,
+   "name": "white flour"
+  },
+  {
+   "fdc": 170874,
+   "g": 200,
+   "name": "low-fat laban"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil (dough 10 + brushing 10)"
+  },
+  {
+   "fdc": 169655,
+   "g": 15,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 175043,
+   "g": 6,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt"
+  },
+  {
+   "fdc": 169640,
+   "g": 60,
+   "name": "honey to drizzle",
+   "added_sugar": true
+  }
+ ]
+}

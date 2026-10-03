@@ -1,0 +1,31 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 240,
+   "name": "whole-wheat (burr) flour, toasted"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 15,
+   "name": "ghee 3 tsp (pan 1 + well 2)"
+  },
+  {
+   "fdc": 171726,
+   "g": 60,
+   "name": "dates, pitted (6)"
+  },
+  {
+   "fdc": 169640,
+   "g": 42,
+   "name": "honey 2 tbsp",
+   "added_sugar": true
+  }
+ ]
+}

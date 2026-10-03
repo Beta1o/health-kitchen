@@ -1,0 +1,67 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 150,
+   "name": "white flour"
+  },
+  {
+   "fdc": 172195,
+   "g": 15,
+   "name": "skimmed milk powder"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 169655,
+   "g": 5,
+   "name": "sugar (dough)",
+   "added_sugar": true
+  },
+  {
+   "fdc": 172803,
+   "g": 2,
+   "name": "baking powder"
+  },
+  {
+   "fdc": 171413,
+   "g": 14,
+   "name": "olive oil (dough 9 + tray 5)"
+  },
+  {
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt (dough 1 + bulool 0.5)"
+  },
+  {
+   "fdc": 171320,
+   "g": 10,
+   "name": "cinnamon"
+  },
+  {
+   "fdc": 169655,
+   "g": 45,
+   "name": "sugar (bulool)",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171314,
+   "g": 10,
+   "name": "ghee (bulool)"
+  }
+ ]
+}

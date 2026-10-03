@@ -10,3 +10,8 @@ __pycache__/
 gallery/artifact.html
 server/__pycache__/
 translations/out_*_part*.json
+sources/saudi/cache/
+sources/saudi/work_*/
+translations/catfix/h/
+nutrition/usda.db
+nutrition/sr.zip

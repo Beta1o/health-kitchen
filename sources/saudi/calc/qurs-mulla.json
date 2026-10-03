@@ -1,0 +1,26 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 300,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 24,
+   "name": "ghee"
+  },
+  {
+   "fdc": 169640,
+   "g": 30,
+   "name": "honey to drizzle",
+   "added_sugar": true
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 173125,
+   "g": 600,
+   "name": "camel meat, lean, raw (approximated with lean beef round)"
+  },
+  {
+   "fdc": 168877,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 173412,
+   "g": 9,
+   "name": "ghee"
+  },
+  {
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "fdc": 170000,
+   "g": 300,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato"
+  },
+  {
+   "fdc": 170427,
+   "g": 100,
+   "name": "green bell pepper"
+  },
+  {
+   "fdc": 170497,
+   "g": 20,
+   "name": "green chilies"
+  },
+  {
+   "fdc": 169230,
+   "g": 30,
+   "name": "garlic"
+  },
+  {
+   "fdc": 168165,
+   "g": 20,
+   "name": "raisins"
+  },
+  {
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170922,
+   "g": 1,
+   "name": "coriander, ground (incl. bezar share)"
+  },
+  {
+   "fdc": 172231,
+   "g": 0.75,
+   "name": "turmeric"
+  }
+ ]
+}

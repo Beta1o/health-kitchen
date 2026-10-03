@@ -192,6 +192,25 @@ def apply_fixes():
             elif new != old[0]:
                 db.execute(f"UPDATE {table} SET text=? WHERE recipe_id=? AND lang=? AND position=?", (new, rid, lang, pos))
                 changed += 1
+    # v2 review (translations/policy_v2/out_*.json): every language rewritten together, guarded by the original text
+    for f in sorted((TR / "policy_v2").glob("out_*.json")):
+        for it in json.loads(f.read_text(encoding="utf-8")):
+            if it.get("action") != "rewrite":
+                continue
+            rid, pos, field = it["recipe_id"], it["position"], it["field"]
+            for lang, new in it["text"].items():
+                was = it["orig"].get(lang)
+                if was is None or new == was:
+                    continue
+                if field in ("description", "title"):
+                    if new is not None:
+                        changed += db.execute(f"UPDATE recipe_i18n SET {field}=? WHERE recipe_id=? AND lang=? AND {field}=?", (new, rid, lang, was)).rowcount
+                    continue
+                table = f"{field}_i18n"
+                n = db.execute(f"UPDATE {table} SET text=? WHERE recipe_id=? AND lang=? AND position=? AND text=?",
+                               (new if new is not None or field in ("steps", "hints") else was, rid, lang, pos, was)).rowcount
+                changed += n if new is not None else 0
+                deleted += n if new is None else 0
     # drop deleted items and close the gaps in numbering
     for table in ("steps_i18n", "hints_i18n"):
         gaps = db.execute(f"SELECT DISTINCT recipe_id, lang FROM {table} WHERE text IS NULL").fetchall()

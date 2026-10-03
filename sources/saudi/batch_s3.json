@@ -1,0 +1,136 @@
+[
+ {
+  "id": "muqalqal-meat",
+  "ar": "مقلقل اللحم",
+  "en": "Meat Muqalqal",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12917-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12347-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3802-1.html"
+  ]
+ },
+ {
+  "id": "muqalqal-chicken",
+  "ar": "مقلقل الدجاج",
+  "en": "Chicken Muqalqal",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10673-1.html"
+  ]
+ },
+ {
+  "id": "marqooq",
+  "ar": "المرقوق",
+  "en": "Marqooq",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16338-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7926-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7849-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12510-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7325-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12675-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18540-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17836-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14638-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14566-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10696-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5291-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4366-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4091-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11074-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11019-1.html"
+  ]
+ },
+ {
+  "id": "marqooq-chicken",
+  "ar": "المرقوق بالدجاج",
+  "en": "Chicken Marqooq",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10706-1.html"
+  ]
+ },
+ {
+  "id": "marqooq-faqa",
+  "ar": "مرقوق الفقع",
+  "en": "Truffle Marqooq",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-17294-1.html"
+  ]
+ },
+ {
+  "id": "mutazeez",
+  "ar": "المطازيز",
+  "en": "Mutazeez",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10806-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18164-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17704-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10805-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10697-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-6673-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4159-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4093-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10714-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2933-1.html"
+  ]
+ },
+ {
+  "id": "qursan",
+  "ar": "القرصان",
+  "en": "Qursan",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18547-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-18545-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17901-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15791-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14582-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14049-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10702-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10701-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7435-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10705-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4210-1.html"
+  ]
+ },
+ {
+  "id": "jareesh",
+  "ar": "الجريش",
+  "en": "Jareesh",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16298-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16107-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15793-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15519-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-15511-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14904-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14557-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12969-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12676-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11790-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11759-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-11136-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7922-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-7064-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5067-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4467-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4174-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-2708-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4440-1.html"
+  ]
+ }
+]

@@ -1,0 +1,1328 @@
+[
+ {
+  "key": 279,
+  "recipe_id": 7293925,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar is fine"
+ },
+ {
+  "key": 280,
+  "recipe_id": 7294698,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "vine tomatoes are fine"
+ },
+ {
+  "key": 281,
+  "recipe_id": 7309643,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could make this with pork or firm fish rather than chicken. For a vegetarian version, try with tofu.",
+   "es": "Puede prepararlo con cerdo o pescado firme en lugar de pollo. Para una versión vegetariana, pruebe con tofu.",
+   "ar": "يمكنك تحضيره بلحم الخنزير أو بسمك متماسك بدلًا من الدجاج. ولنسخة نباتية، جرّبه بالتوفو.",
+   "ur": "آپ یہ چکن کی بجائے سور کے گوشت یا سخت مچھلی کے ساتھ بنا سکتے ہیں۔ سبزی خور ورژن کے لیے ٹوفو کے ساتھ آزما کر دیکھیں۔",
+   "hi": "आप इसे चिकन की जगह सूअर के मांस या सख़्त मछली से बना सकते हैं। शाकाहारी संस्करण के लिए, टोफू के साथ आज़माएँ।",
+   "fr": "Vous pouvez préparer cette recette avec du porc ou du poisson à chair ferme plutôt que du poulet. Pour une version végétarienne, essayez avec du tofu."
+  },
+  "text": {
+   "en": "You could make this with firm fish rather than chicken. For a vegetarian version, try with tofu.",
+   "es": "Puede prepararlo con pescado firme en lugar de pollo. Para una versión vegetariana, pruebe con tofu.",
+   "ar": "يمكنك تحضيره بسمك متماسك بدلًا من الدجاج. ولنسخة نباتية، جرّبه بالتوفو.",
+   "ur": "آپ یہ چکن کی بجائے سخت مچھلی کے ساتھ بنا سکتے ہیں۔ سبزی خور ورژن کے لیے ٹوفو کے ساتھ آزما کر دیکھیں۔",
+   "hi": "आप इसे चिकन की जगह सख़्त मछली से बना सकते हैं। शाकाहारी संस्करण के लिए, टोफू के साथ आज़माएँ।",
+   "fr": "Vous pouvez préparer cette recette avec du poisson à chair ferme plutôt que du poulet. Pour une version végétarienne, essayez avec du tofu."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 282,
+  "recipe_id": 7347873,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could try coating your truffles with roasted sesame seeds, liquorice powder, desiccated coconut, chopped nuts, matcha green tea powder, or leave them plain. The flavouring is versatile, too – orange, coffee, peppermint, or even rum, make great alternatives.",
+   "es": "Puede probar a cubrir las trufas con ajonjolí tostado, polvo de regaliz, coco rallado seco, nueces picadas o té verde matcha en polvo, o dejarlas sin cubrir. El sabor también es versátil: la naranja, el café, la menta o incluso el ron son excelentes alternativas.",
+   "ar": "يمكنك تجربة تغطية الكرات بالسمسم المحمّص أو مسحوق عرق السوس أو جوز الهند المجفف المبشور أو المكسرات المفرومة أو مسحوق الشاي الأخضر ماتشا، أو تركها سادة. كما أن النكهات متنوعة أيضًا؛ فالبرتقال أو القهوة أو النعناع الفلفلي أو حتى الروم بدائل رائعة.",
+   "ur": "آپ اپنے ٹرفلز پر بھنے ہوئے تل، ملٹھی کا پاؤڈر، سوکھا ناریل، کٹے ہوئے میوے، ماچا گرین ٹی پاؤڈر لپیٹ کر دیکھ سکتے ہیں، یا انہیں سادہ رہنے دیں۔ ذائقہ بھی مختلف ہو سکتا ہے، جیسے سنگترہ، کافی، پودینہ، یا رم بھی بہترین متبادل ہیں۔",
+   "hi": "आप अपने ट्रफ़ल पर भुने तिल, मुलैठी का पाउडर, सूखा नारियल, कटे मेवे, माचा ग्रीन टी पाउडर की परत चढ़ाकर देख सकते हैं, या उन्हें सादा छोड़ सकते हैं। स्वाद भी कई तरह के हो सकते हैं – संतरा, कॉफ़ी, पिपरमिंट, या यहाँ तक कि रम भी बढ़िया विकल्प हैं।",
+   "fr": "Vous pouvez essayer d'enrober vos truffes de graines de sésame grillées, de poudre de réglisse, de noix de coco desséchée, de fruits à coque hachés, de thé vert matcha en poudre, ou les laisser nature. L'arôme est aussi polyvalent : l'orange, le café, la menthe poivrée, ou même le rhum, font d'excellentes alternatives."
+  },
+  "text": {
+   "en": "You could try coating your truffles with roasted sesame seeds, liquorice powder, desiccated coconut, chopped nuts, matcha green tea powder, or leave them plain. The flavouring is versatile, too – orange, coffee or peppermint make great alternatives.",
+   "es": "Puede probar a cubrir las trufas con ajonjolí tostado, polvo de regaliz, coco rallado seco, nueces picadas o té verde matcha en polvo, o dejarlas sin cubrir. El sabor también es versátil: la naranja, el café o la menta son excelentes alternativas.",
+   "ar": "يمكنك تجربة تغطية الكرات بالسمسم المحمّص أو مسحوق عرق السوس أو جوز الهند المجفف المبشور أو المكسرات المفرومة أو مسحوق الشاي الأخضر ماتشا، أو تركها سادة. كما أن النكهات متنوعة أيضًا؛ فالبرتقال أو القهوة أو النعناع الفلفلي بدائل رائعة.",
+   "ur": "آپ اپنے ٹرفلز پر بھنے ہوئے تل، ملٹھی کا پاؤڈر، سوکھا ناریل، کٹے ہوئے میوے، ماچا گرین ٹی پاؤڈر لپیٹ کر دیکھ سکتے ہیں، یا انہیں سادہ رہنے دیں۔ ذائقہ بھی مختلف ہو سکتا ہے، جیسے سنگترہ، کافی یا پودینہ بہترین متبادل ہیں۔",
+   "hi": "आप अपने ट्रफ़ल पर भुने तिल, मुलैठी का पाउडर, सूखा नारियल, कटे मेवे, माचा ग्रीन टी पाउडर की परत चढ़ाकर देख सकते हैं, या उन्हें सादा छोड़ सकते हैं। स्वाद भी कई तरह के हो सकते हैं – संतरा, कॉफ़ी या पिपरमिंट बढ़िया विकल्प हैं।",
+   "fr": "Vous pouvez essayer d'enrober vos truffes de graines de sésame grillées, de poudre de réglisse, de noix de coco desséchée, de fruits à coque hachés, de thé vert matcha en poudre, ou les laisser nature. L'arôme est aussi polyvalent : l'orange, le café ou la menthe poivrée font d'excellentes alternatives."
+  },
+  "reason": "rum flavour option"
+ },
+ {
+  "key": 283,
+  "recipe_id": 7348447,
+  "field": "hints",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "port wine is an ingredient"
+ },
+ {
+  "key": 284,
+  "recipe_id": 7348447,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "port wine is an ingredient"
+ },
+ {
+  "key": 285,
+  "recipe_id": 7348447,
+  "field": "steps",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "port wine is an ingredient"
+ },
+ {
+  "key": 286,
+  "recipe_id": 7393124,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Smoked paprika is a good spice to use in Spanish dishes. It has the flavour of chorizo without the fat. You can buy a mild version called dulce or a hotter version called picante. It adds a lovely, smoky warming richness to soups, stews, roast meats or vegetables.",
+   "es": "El pimentón ahumado es una buena especia para los platillos españoles. Tiene el sabor del chorizo sin la grasa. Puede comprar una versión suave llamada dulce o una más picante llamada picante. Aporta una deliciosa riqueza ahumada y reconfortante a sopas, guisos, carnes asadas o verduras.",
+   "ar": "البابريكا المدخنة بهار جيد لاستخدامه في الأطباق الإسبانية. فنكهتها كنكهة الشوريزو بلا الدهون. ويمكنك شراء نسخة خفيفة تسمى دولثي أو نسخة أكثر حرارة تسمى بيكانتي. وتضفي غنى مدخنًا دافئًا لذيذًا على الشوربات واليخنات واللحوم أو الخضار المشوية.",
+   "ur": "دھواں دار پاپریکا ہسپانوی ڈشوں میں استعمال کرنے کا ایک اچھا مسالا ہے۔ اس میں چکنائی کے بغیر چوریزو کا ذائقہ ہوتا ہے۔ آپ 'ڈولسے' نامی ہلکا ورژن یا 'پیکانٹے' نامی زیادہ تیز ورژن خرید سکتے ہیں۔ یہ شوربوں، سٹو، بھنے ہوئے گوشت یا سبزیوں میں ایک خوبصورت، دھواں دار، گرمی بخش بھرپورپن شامل کرتا ہے۔",
+   "hi": "स्मोक्ड पपरिका स्पेनिश व्यंजनों में इस्तेमाल करने के लिए एक अच्छा मसाला है। इसमें बिना चर्बी के चोरिज़ो का स्वाद होता है। आप 'डुल्से' नाम का हल्का संस्करण या 'पिकांते' नाम का ज़्यादा तीखा संस्करण खरीद सकते हैं। यह सूप, स्टू, भुने माँस या सब्ज़ियों में एक सुंदर, धुएँदार, गरमाहट भरा गाढ़ापन जोड़ता है।",
+   "fr": "Le paprika fumé est une excellente épice pour les plats espagnols. Il a la saveur du chorizo sans le gras. Vous pouvez acheter une version douce appelée « dulce » ou une version plus forte appelée « picante ». Il apporte une belle richesse fumée et réchauffante aux soupes, aux ragoûts, aux viandes rôties ou aux légumes."
+  },
+  "text": {
+   "en": "Smoked paprika is a good spice to use in Spanish dishes. It adds a rich, smoky flavour without the fat. You can buy a mild version called dulce or a hotter version called picante. It adds a lovely, smoky warming richness to soups, stews, roast meats or vegetables.",
+   "es": "El pimentón ahumado es una buena especia para los platillos españoles. Aporta un sabor intenso y ahumado sin la grasa. Puede comprar una versión suave llamada dulce o una más picante llamada picante. Aporta una deliciosa riqueza ahumada y reconfortante a sopas, guisos, carnes asadas o verduras.",
+   "ar": "البابريكا المدخنة بهار جيد لاستخدامه في الأطباق الإسبانية. فهي تمنح نكهة غنية مدخنة بلا الدهون. ويمكنك شراء نسخة خفيفة تسمى دولثي أو نسخة أكثر حرارة تسمى بيكانتي. وتضفي غنى مدخنًا دافئًا لذيذًا على الشوربات واليخنات واللحوم أو الخضار المشوية.",
+   "ur": "دھواں دار پاپریکا ہسپانوی ڈشوں میں استعمال کرنے کا ایک اچھا مسالا ہے۔ یہ چکنائی کے بغیر بھرپور، دھواں دار ذائقہ دیتا ہے۔ آپ 'ڈولسے' نامی ہلکا ورژن یا 'پیکانٹے' نامی زیادہ تیز ورژن خرید سکتے ہیں۔ یہ شوربوں، سٹو، بھنے ہوئے گوشت یا سبزیوں میں ایک خوبصورت، دھواں دار، گرمی بخش بھرپورپن شامل کرتا ہے۔",
+   "hi": "स्मोक्ड पपरिका स्पेनिश व्यंजनों में इस्तेमाल करने के लिए एक अच्छा मसाला है। यह बिना चर्बी के गाढ़ा, धुएँदार स्वाद देता है। आप 'डुल्से' नाम का हल्का संस्करण या 'पिकांते' नाम का ज़्यादा तीखा संस्करण खरीद सकते हैं। यह सूप, स्टू, भुने माँस या सब्ज़ियों में एक सुंदर, धुएँदार, गरमाहट भरा गाढ़ापन जोड़ता है।",
+   "fr": "Le paprika fumé est une excellente épice pour les plats espagnols. Il apporte une saveur riche et fumée sans le gras. Vous pouvez acheter une version douce appelée « dulce » ou une version plus forte appelée « picante ». Il apporte une belle richesse fumée et réchauffante aux soupes, aux ragoûts, aux viandes rôties ou aux légumes."
+  },
+  "reason": "chorizo comparison"
+ },
+ {
+  "key": 287,
+  "recipe_id": 7419051,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "Salsa works well with grilled tuna, salmon or prawns or with pork steaks.",
+   "es": "La salsa queda muy bien con atún, salmón o camarones a la parrilla, o con chuletas de cerdo.",
+   "ar": "تناسب السلسا التونة المشوية أو السلمون أو الروبيان أو شرائح لحم الخنزير.",
+   "ur": "سالسا گرل کی ہوئی ٹونا، سالمن یا جھینگوں کے ساتھ، یا سور کے گوشت کے سٹیکس کے ساتھ اچھا لگتا ہے۔",
+   "hi": "साल्सा ग्रिल की हुई टूना, सैल्मन या झींगे या पोर्क स्टेक के साथ अच्छा लगता है।",
+   "fr": "La salsa se marie bien avec du thon, du saumon ou des crevettes grillés, ou avec des steaks de porc."
+  },
+  "text": {
+   "en": "Salsa works well with grilled tuna, salmon or prawns.",
+   "es": "La salsa queda muy bien con atún, salmón o camarones a la parrilla.",
+   "ar": "تناسب السلسا التونة المشوية أو السلمون أو الروبيان.",
+   "ur": "سالسا گرل کی ہوئی ٹونا، سالمن یا جھینگوں کے ساتھ اچھا لگتا ہے۔",
+   "hi": "साल्सा ग्रिल की हुई टूना, सैल्मन या झींगे के साथ अच्छा लगता है।",
+   "fr": "La salsa se marie bien avec du thon, du saumon ou des crevettes grillés."
+  },
+  "reason": "pork pairing"
+ },
+ {
+  "key": 288,
+  "recipe_id": 7424102,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use pork, beef or lamb mince for the meatballs. Or you can use minced fish such as cod.",
+   "es": "Para las albóndigas, puede usar carne molida de cerdo, res o cordero. O puede usar pescado molido, como bacalao.",
+   "ar": "يمكنك استخدام لحم الخنزير أو البقر أو الضأن المفروم لكرات اللحم. أو يمكنك استخدام سمك مفروم مثل سمك القد.",
+   "ur": "میٹ بالز کے لیے آپ سور، گائے یا بھیڑ کا قیمہ استعمال کر سکتے ہیں۔ یا آپ کوڈ جیسی مچھلی کا قیمہ بھی استعمال کر سکتے ہیں۔",
+   "hi": "मीटबॉल के लिए आप पोर्क, बीफ़ या मेमने का कीमा इस्तेमाल कर सकते हैं। या कॉड जैसी मछली का कीमा भी इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la viande hachée de porc, de bœuf ou d’agneau pour les boulettes. Ou vous pouvez utiliser du poisson haché, comme du cabillaud."
+  },
+  "text": {
+   "en": "You could use beef or lamb mince for the meatballs. Or you can use minced fish such as cod.",
+   "es": "Para las albóndigas, puede usar carne molida de res o cordero. O puede usar pescado molido, como bacalao.",
+   "ar": "يمكنك استخدام لحم البقر أو الضأن المفروم لكرات اللحم. أو يمكنك استخدام سمك مفروم مثل سمك القد.",
+   "ur": "میٹ بالز کے لیے آپ گائے یا بھیڑ کا قیمہ استعمال کر سکتے ہیں۔ یا آپ کوڈ جیسی مچھلی کا قیمہ بھی استعمال کر سکتے ہیں۔",
+   "hi": "मीटबॉल के लिए आप बीफ़ या मेमने का कीमा इस्तेमाल कर सकते हैं। या कॉड जैसी मछली का कीमा भी इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la viande hachée de bœuf ou d’agneau pour les boulettes. Ou vous pouvez utiliser du poisson haché, comme du cabillaud."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 289,
+  "recipe_id": 7427026,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You can use pork tenderloin or chicken breast in place of lamb, but it will need an extra 10 minutes in the oven. Check the meat is cooked right through and no pink flesh is visible before serving.",
+   "es": "Puede usar lomo de cerdo o pechuga de pollo en lugar del cordero, pero necesitará 10 minutos más en el horno. Verifique que la carne esté cocida por completo y que no se vea carne rosada antes de servir.",
+   "ar": "يمكنك استخدام فيليه لحم الخنزير أو صدر الدجاج بدلًا من لحم الضأن، لكنه سيحتاج إلى 10 دقائق إضافية في الفرن. تأكد من أن اللحم قد نضج تمامًا وأنه لا يوجد لحم وردي ظاهر قبل التقديم.",
+   "ur": "آپ بھیڑ کی جگہ سور کا ٹینڈرلوئن یا مرغی کا سینہ استعمال کر سکتے ہیں، لیکن اسے اوون میں اضافی 10 منٹ درکار ہوں گے۔ پیش کرنے سے پہلے دیکھ لیں کہ گوشت اندر تک پک چکا ہے اور کوئی گلابی حصہ نظر نہیں آ رہا۔",
+   "hi": "आप मेमने की जगह पोर्क टेंडरलॉइन या चिकन ब्रेस्ट इस्तेमाल कर सकते हैं, लेकिन इसे ओवन में 10 मिनट अतिरिक्त चाहिए होंगे। परोसने से पहले जाँच लें कि माँस अंदर तक पक गया है और कोई गुलाबी हिस्सा दिखाई नहीं दे रहा।",
+   "fr": "Vous pouvez utiliser du filet mignon de porc ou du blanc de poulet à la place de l’agneau, mais il faudra 10 minutes de cuisson supplémentaires au four. Vérifiez que la viande est cuite à cœur et qu’aucune chair rose n’est visible avant de servir."
+  },
+  "text": {
+   "en": "You can use chicken breast in place of lamb, but it will need an extra 10 minutes in the oven. Check the meat is cooked right through and no pink flesh is visible before serving.",
+   "es": "Puede usar pechuga de pollo en lugar del cordero, pero necesitará 10 minutos más en el horno. Verifique que la carne esté cocida por completo y que no se vea carne rosada antes de servir.",
+   "ar": "يمكنك استخدام صدر الدجاج بدلًا من لحم الضأن، لكنه سيحتاج إلى 10 دقائق إضافية في الفرن. تأكد من أن اللحم قد نضج تمامًا وأنه لا يوجد لحم وردي ظاهر قبل التقديم.",
+   "ur": "آپ بھیڑ کی جگہ مرغی کا سینہ استعمال کر سکتے ہیں، لیکن اسے اوون میں اضافی 10 منٹ درکار ہوں گے۔ پیش کرنے سے پہلے دیکھ لیں کہ گوشت اندر تک پک چکا ہے اور کوئی گلابی حصہ نظر نہیں آ رہا۔",
+   "hi": "आप मेमने की जगह चिकन ब्रेस्ट इस्तेमाल कर सकते हैं, लेकिन इसे ओवन में 10 मिनट अतिरिक्त चाहिए होंगे। परोसने से पहले जाँच लें कि माँस अंदर तक पक गया है और कोई गुलाबी हिस्सा दिखाई नहीं दे रहा।",
+   "fr": "Vous pouvez utiliser du blanc de poulet à la place de l’agneau, mais il faudra 10 minutes de cuisson supplémentaires au four. Vérifiez que la viande est cuite à cœur et qu’aucune chair rose n’est visible avant de servir."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 290,
+  "recipe_id": 7454682,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use chicken or pork for this dish.",
+   "es": "Puede usar pollo o cerdo para este plato.",
+   "ar": "يمكنك استخدام الدجاج أو لحم الخنزير لهذا الطبق.",
+   "fr": "Vous pouvez utiliser du poulet ou du porc pour ce plat.",
+   "ur": "آپ اس ڈش کے لیے مرغی یا سور کا گوشت استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन या पोर्क इस्तेमाल कर सकते हैं।"
+  },
+  "text": {
+   "en": "You could also use chicken for this dish.",
+   "es": "También puede usar pollo para este plato.",
+   "ar": "يمكنك أيضًا استخدام الدجاج لهذا الطبق.",
+   "fr": "Vous pouvez aussi utiliser du poulet pour ce plat.",
+   "ur": "آپ اس ڈش کے لیے مرغی بھی استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन भी इस्तेमाल कर सकते हैं।"
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 291,
+  "recipe_id": 7473723,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "Works well with strips of turkey, beef or pork or use prawns or chunks of salmon.",
+   "es": "Queda muy bien con tiras de pavo, res o cerdo, o con camarones o trozos de salmón.",
+   "ar": "يناسبه أيضًا شرائح الديك الرومي أو لحم البقر أو الخنزير، أو الروبيان أو قطع السلمون.",
+   "ur": "ٹرکی، گائے یا سور کی پٹیوں کے ساتھ اچھی لگتی ہے، یا جھینگے یا سالمن کے ٹکڑے استعمال کریں۔",
+   "hi": "टर्की, बीफ़ या पोर्क की पट्टियों के साथ अच्छा लगता है, या झींगे या सैल्मन के टुकड़े इस्तेमाल करें।",
+   "fr": "Convient très bien avec des lanières de dinde, de bœuf ou de porc, ou avec des crevettes ou des morceaux de saumon."
+  },
+  "text": {
+   "en": "Works well with strips of turkey or beef or use prawns or chunks of salmon.",
+   "es": "Queda muy bien con tiras de pavo o res, o con camarones o trozos de salmón.",
+   "ar": "يناسبه أيضًا شرائح الديك الرومي أو لحم البقر، أو الروبيان أو قطع السلمون.",
+   "ur": "ٹرکی یا گائے کی پٹیوں کے ساتھ اچھی لگتی ہے، یا جھینگے یا سالمن کے ٹکڑے استعمال کریں۔",
+   "hi": "टर्की या बीफ़ की पट्टियों के साथ अच्छा लगता है, या झींगे या सैल्मन के टुकड़े इस्तेमाल करें।",
+   "fr": "Convient très bien avec des lanières de dinde ou de bœuf, ou avec des crevettes ou des morceaux de saumon."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 292,
+  "recipe_id": 7493655,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could add pork instead of chicken, or add prawns with the broccoli.",
+   "es": "Puede agregar cerdo en lugar de pollo, o añadir camarones junto con el brócoli.",
+   "ar": "يمكنك إضافة لحم الخنزير بدلًا من الدجاج، أو إضافة الروبيان مع البروكلي.",
+   "ur": "آپ مرغی کی جگہ سور کا گوشت ڈال سکتے ہیں، یا بروکلی کے ساتھ جھینگے ڈال سکتے ہیں۔",
+   "hi": "आप चिकन की जगह पोर्क डाल सकते हैं, या ब्रोकली के साथ झींगे डाल सकते हैं।",
+   "fr": "Vous pouvez ajouter du porc à la place du poulet, ou ajouter des crevettes avec le brocoli."
+  },
+  "text": {
+   "en": "You could add prawns with the broccoli.",
+   "es": "Puede añadir camarones junto con el brócoli.",
+   "ar": "يمكنك إضافة الروبيان مع البروكلي.",
+   "ur": "آپ بروکلی کے ساتھ جھینگے ڈال سکتے ہیں۔",
+   "hi": "आप ब्रोकली के साथ झींगे डाल सकते हैं।",
+   "fr": "Vous pouvez ajouter des crevettes avec le brocoli."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 293,
+  "recipe_id": 7516891,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use lean pork or chicken in place of beef.",
+   "es": "Puede usar cerdo magro o pollo en lugar de res.",
+   "ar": "يمكنك استخدام لحم الخنزير قليل الدسم أو الدجاج بدلًا من لحم البقر.",
+   "ur": "آپ گائے کے گوشت کی جگہ کم چکنائی والا سور کا گوشت یا مرغی استعمال کر سکتے ہیں۔",
+   "hi": "आप बीफ़ की जगह दुबला पोर्क या चिकन इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du porc maigre ou du poulet à la place du bœuf."
+  },
+  "text": {
+   "en": "You could use chicken in place of beef.",
+   "es": "Puede usar pollo en lugar de res.",
+   "ar": "يمكنك استخدام الدجاج بدلًا من لحم البقر.",
+   "ur": "آپ گائے کے گوشت کی جگہ مرغی استعمال کر سکتے ہیں۔",
+   "hi": "आप बीफ़ की जगह चिकन इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du poulet à la place du bœuf."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 294,
+  "recipe_id": 7534585,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "This works well with turkey, beef or pork escalopes. Or try the sauce with grilled fish.",
+   "es": "Esto queda muy bien con escalopes de pavo, de res o de cerdo. También puede probar la salsa con pescado a la parrilla.",
+   "ar": "يناسب هذا الطبق أيضًا شرائح إسكالوب الديك الرومي أو لحم البقر أو لحم الخنزير. أو جرّب الصلصة مع السمك المشوي.",
+   "ur": "یہ ٹرکی، گائے یا سور کے گوشت کے اسکالوپس کے ساتھ بھی اچھی لگتی ہے۔ یا چٹنی کو گرل کی ہوئی مچھلی کے ساتھ آزمائیں۔",
+   "hi": "यह टर्की, बीफ़ या पोर्क एस्केलोप के साथ अच्छा लगता है। या इस सॉस को ग्रिल की हुई मछली के साथ आज़माएँ।",
+   "fr": "Cette recette convient aussi très bien aux escalopes de dinde, de bœuf ou de porc. Vous pouvez aussi essayer la sauce avec du poisson grillé."
+  },
+  "text": {
+   "en": "This works well with turkey or beef escalopes. Or try the sauce with grilled fish.",
+   "es": "Esto queda muy bien con escalopes de pavo o de res. También puede probar la salsa con pescado a la parrilla.",
+   "ar": "يناسب هذا الطبق أيضًا شرائح إسكالوب الديك الرومي أو لحم البقر. أو جرّب الصلصة مع السمك المشوي.",
+   "ur": "یہ ٹرکی یا گائے کے گوشت کے اسکالوپس کے ساتھ بھی اچھی لگتی ہے۔ یا چٹنی کو گرل کی ہوئی مچھلی کے ساتھ آزمائیں۔",
+   "hi": "यह टर्की या बीफ़ एस्केलोप के साथ अच्छा लगता है। या इस सॉस को ग्रिल की हुई मछली के साथ आज़माएँ।",
+   "fr": "Cette recette convient aussi très bien aux escalopes de dinde ou de bœuf. Vous pouvez aussi essayer la sauce avec du poisson grillé."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 295,
+  "recipe_id": 7553184,
+  "field": "ingredients",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 296,
+  "recipe_id": 7553184,
+  "field": "steps",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 297,
+  "recipe_id": 7553184,
+  "field": "steps",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 298,
+  "recipe_id": 7553184,
+  "field": "title",
+  "position": 0,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 299,
+  "recipe_id": 7561013,
+  "field": "hints",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 300,
+  "recipe_id": 7561013,
+  "field": "hints",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 301,
+  "recipe_id": 7561013,
+  "field": "ingredients",
+  "position": 11,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 302,
+  "recipe_id": 7561013,
+  "field": "steps",
+  "position": 8,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 303,
+  "recipe_id": 7561013,
+  "field": "steps",
+  "position": 9,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 304,
+  "recipe_id": 7561013,
+  "field": "steps",
+  "position": 10,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 305,
+  "recipe_id": 7561013,
+  "field": "steps",
+  "position": 11,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 306,
+  "recipe_id": 7572993,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "This recipe also works well with thinly sliced lean pork or beef, prawns, salmon, turkey or tofu instead of chicken.",
+   "es": "Esta receta también queda muy bien con cerdo magro o res en rebanadas finas, camarones, salmón, pavo o tofu en lugar de pollo.",
+   "ar": "تناسب هذه الوصفة أيضًا لحم الخنزير أو البقر الخالي من الدهن المقطع إلى شرائح رفيعة، أو الروبيان أو السلمون أو الديك الرومي أو التوفو بدلًا من الدجاج.",
+   "ur": "یہ ترکیب چکن کی جگہ پتلے کٹے ہوئے کم چکنائی والے سور کے گوشت یا گائے کے گوشت، جھینگوں، سالمن، ٹرکی یا ٹوفو کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी चिकन की जगह पतले कटे हुए लीन पोर्क या बीफ़, झींगे, सैल्मन, टर्की या टोफू के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec de fines tranches de porc maigre ou de bœuf, des crevettes, du saumon, de la dinde ou du tofu à la place du poulet."
+  },
+  "text": {
+   "en": "This recipe also works well with thinly sliced lean beef, prawns, salmon, turkey or tofu instead of chicken.",
+   "es": "Esta receta también queda muy bien con res magra en rebanadas finas, camarones, salmón, pavo o tofu en lugar de pollo.",
+   "ar": "تناسب هذه الوصفة أيضًا لحم البقر الخالي من الدهن المقطع إلى شرائح رفيعة، أو الروبيان أو السلمون أو الديك الرومي أو التوفو بدلًا من الدجاج.",
+   "ur": "یہ ترکیب چکن کی جگہ پتلے کٹے ہوئے کم چکنائی والے گائے کے گوشت، جھینگوں، سالمن، ٹرکی یا ٹوفو کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी चिकन की जगह पतले कटे हुए लीन बीफ़, झींगे, सैल्मन, टर्की या टोफू के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec de fines tranches de bœuf maigre, des crevettes, du saumon, de la dinde ou du tofu à la place du poulet."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 307,
+  "recipe_id": 7595443,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "This also works well with strips of pork or turkey.",
+   "es": "También queda muy bien con tiras de cerdo o de pavo.",
+   "ar": "تناسب هذه الوصفة أيضًا شرائح لحم الخنزير أو الديك الرومي.",
+   "ur": "یہ سور کے گوشت یا ٹرکی کی پٹیوں کے ساتھ بھی اچھا رہتا ہے۔",
+   "hi": "यह सूअर के मांस या टर्की की पट्टियों के साथ भी अच्छा लगता है।",
+   "fr": "Cela convient aussi très bien avec des lanières de porc ou de dinde."
+  },
+  "text": {
+   "en": "This also works well with strips of turkey.",
+   "es": "También queda muy bien con tiras de pavo.",
+   "ar": "تناسب هذه الوصفة أيضًا شرائح الديك الرومي.",
+   "ur": "یہ ٹرکی کی پٹیوں کے ساتھ بھی اچھا رہتا ہے۔",
+   "hi": "यह टर्की की पट्टियों के साथ भी अच्छा लगता है।",
+   "fr": "Cela convient aussi très bien avec des lanières de dinde."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 308,
+  "recipe_id": 7644993,
+  "field": "hints",
+  "position": 3,
+  "action": "rewrite",
+  "orig": {
+   "en": "If you don't want to use rum, use 3 tbsp lemon juice instead.",
+   "es": "Si no desea usar ron, utilice 3 cucharadas de jugo de limón en su lugar.",
+   "ar": "إذا كنت لا تريد استخدام الرم، فاستخدم 3 ملاعق كبيرة من عصير الليمون بدلًا منه.",
+   "ur": "اگر آپ رم استعمال نہیں کرنا چاہتے تو اس کی جگہ 3 کھانے کے چمچ لیموں کا رس استعمال کریں۔",
+   "hi": "यदि आप रम का उपयोग नहीं करना चाहते, तो इसकी जगह 3 बड़े चम्मच नींबू का रस इस्तेमाल करें।",
+   "fr": "Si vous ne souhaitez pas utiliser de rhum, utilisez 3 c. à soupe de jus de citron à la place."
+  },
+  "text": {
+   "en": null,
+   "es": null,
+   "ar": null,
+   "ur": null,
+   "hi": null,
+   "fr": null
+  },
+  "reason": "hint only about rum swap; rum not used"
+ },
+ {
+  "key": 309,
+  "recipe_id": 7651076,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could make this dish with lamb, beef, pork or turkey",
+   "es": "Puede preparar este plato con cordero, res, cerdo o pavo.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم الضأن أو البقر أو الخنزير أو الديك الرومي.",
+   "ur": "آپ یہ ڈش بھیڑ، گائے، سور یا ٹرکی کے گوشت سے بھی بنا سکتے ہیں",
+   "hi": "आप यह व्यंजन भेड़ के मांस, बीफ़, सूअर के मांस या टर्की के साथ भी बना सकते हैं।",
+   "fr": "Vous pouvez préparer ce plat avec de l'agneau, du bœuf, du porc ou de la dinde."
+  },
+  "text": {
+   "en": "You could make this dish with lamb, beef or turkey",
+   "es": "Puede preparar este plato con cordero, res o pavo.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم الضأن أو البقر أو الديك الرومي.",
+   "ur": "آپ یہ ڈش بھیڑ، گائے یا ٹرکی کے گوشت سے بھی بنا سکتے ہیں",
+   "hi": "आप यह व्यंजन भेड़ के मांस, बीफ़ या टर्की के साथ भी बना सकते हैं।",
+   "fr": "Vous pouvez préparer ce plat avec de l'agneau, du bœuf ou de la dinde."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 310,
+  "recipe_id": 7673690,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use chicken or pork for this dish.",
+   "es": "Puede usar pollo o cerdo para este plato.",
+   "ar": "يمكنك استخدام الدجاج أو لحم الخنزير لهذا الطبق.",
+   "fr": "Vous pouvez utiliser du poulet ou du porc pour ce plat.",
+   "ur": "آپ اس ڈش کے لیے چکن یا سور کا گوشت استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन या सूअर के मांस का उपयोग कर सकते हैं।"
+  },
+  "text": {
+   "en": "You could also use chicken for this dish.",
+   "es": "También puede usar pollo para este plato.",
+   "ar": "يمكنك أيضًا استخدام الدجاج لهذا الطبق.",
+   "fr": "Vous pouvez aussi utiliser du poulet pour ce plat.",
+   "ur": "آپ اس ڈش کے لیے چکن بھی استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन का उपयोग भी कर सकते हैं।"
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 311,
+  "recipe_id": 7696162,
+  "field": "hints",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 312,
+  "recipe_id": 7696162,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 313,
+  "recipe_id": 7696162,
+  "field": "steps",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 314,
+  "recipe_id": 7709454,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "The Provençal sauce for this dish works well with any meat, such as pork steaks or turkey escalopes, or with grilled fish.",
+   "es": "La salsa provenzal de este plato queda bien con cualquier carne, como bistecs de cerdo o escalopes de pavo, o con pescado a la parrilla.",
+   "ar": "تناسب الصلصة البروفنسالية لهذا الطبق أي لحم، مثل شرائح لحم الخنزير أو شرائح الديك الرومي، أو السمك المشوي.",
+   "ur": "اس ڈش کی پروونسال ساس کسی بھی گوشت، جیسے پورک اسٹیکس یا ٹرکی ایسکلوپس، یا گرل کی ہوئی مچھلی کے ساتھ اچھی لگتی ہے۔",
+   "hi": "इस व्यंजन की प्रोवेंसल सॉस किसी भी मांस, जैसे सूअर के स्टेक या टर्की एस्कालोप के साथ, या ग्रिल की हुई मछली के साथ अच्छी लगती है।",
+   "fr": "La sauce provençale de ce plat convient à toutes les viandes, comme les steaks de porc ou les escalopes de dinde, ou au poisson grillé."
+  },
+  "text": {
+   "en": "The Provençal sauce for this dish works well with any meat, such as turkey escalopes, or with grilled fish.",
+   "es": "La salsa provenzal de este plato queda bien con cualquier carne, como escalopes de pavo, o con pescado a la parrilla.",
+   "ar": "تناسب الصلصة البروفنسالية لهذا الطبق أي لحم، مثل شرائح الديك الرومي، أو السمك المشوي.",
+   "ur": "اس ڈش کی پروونسال ساس کسی بھی گوشت، جیسے ٹرکی ایسکلوپس، یا گرل کی ہوئی مچھلی کے ساتھ اچھی لگتی ہے۔",
+   "hi": "इस व्यंजन की प्रोवेंसल सॉस किसी भी मांस, जैसे टर्की एस्कालोप के साथ, या ग्रिल की हुई मछली के साथ अच्छी लगती है।",
+   "fr": "La sauce provençale de ce plat convient à toutes les viandes, comme les escalopes de dinde, ou au poisson grillé."
+  },
+  "reason": "pork pairing"
+ },
+ {
+  "key": 315,
+  "recipe_id": 7716634,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use turkey or pork – or any meaty fish – instead of chicken.",
+   "es": "Puede usar pavo o cerdo, o cualquier pescado de carne firme, en lugar del pollo.",
+   "ar": "يمكنك استخدام الديك الرومي أو لحم الخنزير، أو أي سمك لحمه متماسك، بدلًا من الدجاج.",
+   "ur": "آپ چکن کی جگہ ٹرکی یا پورک – یا کوئی بھی گوشت دار مچھلی – استعمال کر سکتے ہیں۔",
+   "hi": "आप चिकन की जगह टर्की या सूअर का मांस – या कोई भी गूदेदार मछली – इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la dinde ou du porc, ou n'importe quel poisson à chair ferme, à la place du poulet."
+  },
+  "text": {
+   "en": "You could use turkey – or any meaty fish – instead of chicken.",
+   "es": "Puede usar pavo, o cualquier pescado de carne firme, en lugar del pollo.",
+   "ar": "يمكنك استخدام الديك الرومي، أو أي سمك لحمه متماسك، بدلًا من الدجاج.",
+   "ur": "آپ چکن کی جگہ ٹرکی – یا کوئی بھی گوشت دار مچھلی – استعمال کر سکتے ہیں۔",
+   "hi": "आप चिकन की जगह टर्की – या कोई भी गूदेदार मछली – इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la dinde, ou n'importe quel poisson à chair ferme, à la place du poulet."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 316,
+  "recipe_id": 7739965,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "This dish works just as well with cooked prawns or pork, instead of chicken.",
+   "es": "Este platillo queda igual de bien con camarones cocidos o cerdo en lugar de pollo.",
+   "ar": "يناسب هذا الطبق الروبيان المطبوخ أو لحم الخنزير بالقدر نفسه بدلًا من الدجاج.",
+   "ur": "یہ ڈش چکن کی بجائے پکے ہوئے جھینگوں یا پورک کے ساتھ بھی اتنی ہی اچھی بنتی ہے۔",
+   "hi": "यह व्यंजन चिकन की जगह पके हुए झींगे या सूअर के मांस के साथ भी उतना ही अच्छा लगता है।",
+   "fr": "Ce plat est tout aussi bon avec des crevettes cuites ou du porc, à la place du poulet."
+  },
+  "text": {
+   "en": "This dish works just as well with cooked prawns, instead of chicken.",
+   "es": "Este platillo queda igual de bien con camarones cocidos en lugar de pollo.",
+   "ar": "يناسب هذا الطبق الروبيان المطبوخ بالقدر نفسه بدلًا من الدجاج.",
+   "ur": "یہ ڈش چکن کی بجائے پکے ہوئے جھینگوں کے ساتھ بھی اتنی ہی اچھی بنتی ہے۔",
+   "hi": "यह व्यंजन चिकन की जगह पके हुए झींगे के साथ भी उतना ही अच्छा लगता है।",
+   "fr": "Ce plat est tout aussi bon avec des crevettes cuites, à la place du poulet."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 317,
+  "recipe_id": 7785022,
+  "field": "description",
+  "position": 0,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 318,
+  "recipe_id": 7785022,
+  "field": "ingredients",
+  "position": 3,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 319,
+  "recipe_id": 7785022,
+  "field": "steps",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "uses gelatin jelly crystals"
+ },
+ {
+  "key": 320,
+  "recipe_id": 7786545,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use beef, pork or venison instead of lamb.",
+   "es": "Puede usar carne de res, cerdo o venado en lugar de cordero.",
+   "ar": "يمكنك استخدام لحم البقر أو لحم الخنزير أو لحم الغزال بدلًا من لحم الضأن.",
+   "ur": "بھیڑ کے گوشت کی جگہ گائے، سور یا ہرن کا گوشت استعمال کیا جا سکتا ہے۔",
+   "hi": "आप मेमने की जगह बीफ़, पोर्क या वेनिसन (हिरन का मांस) का उपयोग कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du bœuf, du porc ou de la venaison à la place de l'agneau."
+  },
+  "text": {
+   "en": "You could use beef or venison instead of lamb.",
+   "es": "Puede usar carne de res o venado en lugar de cordero.",
+   "ar": "يمكنك استخدام لحم البقر أو لحم الغزال بدلًا من لحم الضأن.",
+   "ur": "بھیڑ کے گوشت کی جگہ گائے یا ہرن کا گوشت استعمال کیا جا سکتا ہے۔",
+   "hi": "आप मेमने की जगह बीफ़ या वेनिसन (हिरन का मांस) का उपयोग कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du bœuf ou de la venaison à la place de l'agneau."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 321,
+  "recipe_id": 7798713,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "This works well with strips of chicken, pork or turkey. Great with rice or rice noodles.",
+   "es": "Funciona bien con tiras de pollo, cerdo o pavo. Queda muy bien con arroz o fideos de arroz.",
+   "ar": "تناسب هذه الوصفة شرائح الدجاج أو لحم الخنزير أو الديك الرومي. وهي رائعة مع الأرز أو شعيرية الأرز.",
+   "ur": "یہ چکن، سور یا ٹرکی کی پٹیوں کے ساتھ بھی اچھا لگتا ہے۔ چاول یا رائس نوڈلز کے ساتھ بہترین ہے۔",
+   "hi": "यह चिकन, पोर्क या टर्की की पट्टियों के साथ भी अच्छा लगता है। चावल या राइस नूडल्स के साथ बढ़िया लगता है।",
+   "fr": "Cette recette fonctionne bien avec des lanières de poulet, de porc ou de dinde. Excellente avec du riz ou des nouilles de riz."
+  },
+  "text": {
+   "en": "This works well with strips of chicken or turkey. Great with rice or rice noodles.",
+   "es": "Funciona bien con tiras de pollo o pavo. Queda muy bien con arroz o fideos de arroz.",
+   "ar": "تناسب هذه الوصفة شرائح الدجاج أو الديك الرومي. وهي رائعة مع الأرز أو شعيرية الأرز.",
+   "ur": "یہ چکن یا ٹرکی کی پٹیوں کے ساتھ بھی اچھا لگتا ہے۔ چاول یا رائس نوڈلز کے ساتھ بہترین ہے۔",
+   "hi": "यह चिकन या टर्की की पट्टियों के साथ भी अच्छा लगता है। चावल या राइस नूडल्स के साथ बढ़िया लगता है।",
+   "fr": "Cette recette fonctionne bien avec des lanières de poulet ou de dinde. Excellente avec du riz ou des nouilles de riz."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 322,
+  "recipe_id": 7843879,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could also use this piri piri marinade on turkey or pork escalopes, too.",
+   "es": "También podría usar esta marinada piri piri en filetes de pavo o de cerdo.",
+   "ar": "يمكنك أيضًا استخدام تتبيلة البيري بيري هذه مع شرائح الديك الرومي أو لحم الخنزير.",
+   "ur": "آپ اس پیری پیری میرینیڈ کو ٹرکی یا سور کے اسکالپ پر بھی استعمال کر سکتے ہیں۔",
+   "hi": "आप इस पिरी पिरी मैरिनेड का उपयोग टर्की या पोर्क एस्कैलोप पर भी कर सकते हैं।",
+   "fr": "Vous pouvez aussi utiliser cette marinade piri-piri sur des escalopes de dinde ou de porc."
+  },
+  "text": {
+   "en": "You could also use this piri piri marinade on turkey escalopes, too.",
+   "es": "También podría usar esta marinada piri piri en filetes de pavo.",
+   "ar": "يمكنك أيضًا استخدام تتبيلة البيري بيري هذه مع شرائح الديك الرومي.",
+   "ur": "آپ اس پیری پیری میرینیڈ کو ٹرکی کے اسکالپ پر بھی استعمال کر سکتے ہیں۔",
+   "hi": "आप इस पिरी पिरी मैरिनेड का उपयोग टर्की एस्कैलोप पर भी कर सकते हैं।",
+   "fr": "Vous pouvez aussi utiliser cette marinade piri-piri sur des escalopes de dinde."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 323,
+  "recipe_id": 7845092,
+  "field": "ingredients",
+  "position": 12,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar is fine"
+ },
+ {
+  "key": 324,
+  "recipe_id": 7859226,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use 1 tbsp of white wine or lemon juice in place of stock.",
+   "es": "Podría usar 1 cucharada de vino blanco o jugo de limón en lugar del caldo.",
+   "ar": "يمكنك استخدام 1 ملعقة كبيرة من النبيذ الأبيض أو عصير الليمون بدلًا من المرق.",
+   "ur": "اسٹاک کی جگہ 1 کھانے کا چمچ سفید شراب یا لیموں کا رس استعمال کیا جا سکتا ہے۔",
+   "hi": "आप स्टॉक की जगह 1 बड़ा चम्मच सफ़ेद वाइन या नींबू का रस इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser 1 c. à soupe de vin blanc ou de jus de citron à la place du bouillon."
+  },
+  "text": {
+   "en": "You could use 1 tbsp of lemon juice in place of stock.",
+   "es": "Podría usar 1 cucharada de jugo de limón en lugar del caldo.",
+   "ar": "يمكنك استخدام 1 ملعقة كبيرة من عصير الليمون بدلًا من المرق.",
+   "ur": "اسٹاک کی جگہ 1 کھانے کا چمچ لیموں کا رس استعمال کیا جا سکتا ہے۔",
+   "hi": "आप स्टॉक की जगह 1 बड़ा चम्मच नींबू का रस इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser 1 c. à soupe de jus de citron à la place du bouillon."
+  },
+  "reason": "wine option"
+ },
+ {
+  "key": 325,
+  "recipe_id": 7860482,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "This works well with pork, beef or lamb mince.",
+   "es": "Funciona bien con carne molida de cerdo, res o cordero.",
+   "ar": "تناسب هذه الوصفة لحم الخنزير أو البقر أو الضأن المفروم.",
+   "ur": "یہ سور، بیف یا بھیڑ کے قیمے کے ساتھ بھی اچھا بنتا ہے۔",
+   "hi": "यह पोर्क, बीफ़ या मेमने के कीमे के साथ भी अच्छा बनता है।",
+   "fr": "Cette recette fonctionne bien avec du hachis de porc, de bœuf ou d'agneau."
+  },
+  "text": {
+   "en": "This works well with beef or lamb mince.",
+   "es": "Funciona bien con carne molida de res o cordero.",
+   "ar": "تناسب هذه الوصفة لحم البقر أو الضأن المفروم.",
+   "ur": "یہ بیف یا بھیڑ کے قیمے کے ساتھ بھی اچھا بنتا ہے۔",
+   "hi": "यह बीफ़ या मेमने के कीमे के साथ भी अच्छा बनता है।",
+   "fr": "Cette recette fonctionne bien avec du hachis de bœuf ou d'agneau."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 326,
+  "recipe_id": 7870024,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "This recipe also works well with lean cuts of meat such as lamb fillet or pork fillet.",
+   "es": "Esta receta también funciona bien con cortes magros de carne como filete de cordero o lomo de cerdo.",
+   "ar": "تناسب هذه الوصفة أيضًا قطع اللحم قليلة الدسم مثل فيليه الضأن أو فيليه لحم الخنزير.",
+   "ur": "یہ ترکیب بھیڑ کے فلیٹ یا سور کے فلیٹ جیسے لین کٹس کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी मेमने के फ़िलेट या पोर्क फ़िलेट जैसे दुबले मांस के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec des morceaux de viande maigres comme le filet d'agneau ou le filet de porc."
+  },
+  "text": {
+   "en": "This recipe also works well with lean cuts of meat such as lamb fillet.",
+   "es": "Esta receta también funciona bien con cortes magros de carne como filete de cordero.",
+   "ar": "تناسب هذه الوصفة أيضًا قطع اللحم قليلة الدسم مثل فيليه الضأن.",
+   "ur": "یہ ترکیب بھیڑ کے فلیٹ جیسے لین کٹس کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी मेमने के फ़िलेट जैसे दुबले मांस के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec des morceaux de viande maigres comme le filet d'agneau."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 327,
+  "recipe_id": 7912562,
+  "field": "ingredients",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "gammon is a main ingredient"
+ },
+ {
+  "key": 328,
+  "recipe_id": 7912562,
+  "field": "steps",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "gammon is a main ingredient"
+ },
+ {
+  "key": 329,
+  "recipe_id": 7912562,
+  "field": "steps",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "gammon is a main ingredient"
+ },
+ {
+  "key": 330,
+  "recipe_id": 7912562,
+  "field": "title",
+  "position": 0,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "gammon is a main ingredient"
+ },
+ {
+  "key": 331,
+  "recipe_id": 7926248,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "A tasty and easy recipe where you could add other ingredients like bacon or ham. Tastes good hot, warm or cold. A great picnic dish.",
+   "es": "Una receta sabrosa y fácil a la que puede agregar otros ingredientes como tocino o jamón. Sabe bien caliente, tibia o fría. Un plato excelente para un picnic.",
+   "ar": "وصفة لذيذة وسهلة يمكنك أن تضيف إليها مكونات أخرى مثل لحم الخنزير المقدد أو الهام. مذاقها جيد ساخنة أو دافئة أو باردة. طبق رائع للنزهات.",
+   "ur": "ایک مزیدار اور آسان ترکیب جس میں آپ بیکن یا ہیم جیسی دیگر چیزیں ڈال سکتے ہیں۔ گرم، نیم گرم یا ٹھنڈا، ہر طرح اچھا لگتا ہے۔ پکنک کے لیے شاندار ڈش۔",
+   "hi": "एक स्वादिष्ट और आसान रेसिपी, जिसमें आप बेकन या हैम जैसी अन्य सामग्री डाल सकते हैं। गरम, गुनगुना या ठंडा, सभी तरह से अच्छा लगता है। पिकनिक के लिए बढ़िया व्यंजन।",
+   "fr": "Une recette savoureuse et facile à laquelle vous pouvez ajouter d'autres ingrédients comme du bacon ou du jambon. Délicieuse chaude, tiède ou froide. Un excellent plat de pique-nique."
+  },
+  "text": {
+   "en": "A tasty and easy recipe where you could add other ingredients like mushrooms or spinach. Tastes good hot, warm or cold. A great picnic dish.",
+   "es": "Una receta sabrosa y fácil a la que puede agregar otros ingredientes como champiñones o espinacas. Sabe bien caliente, tibia o fría. Un plato excelente para un picnic.",
+   "ar": "وصفة لذيذة وسهلة يمكنك أن تضيف إليها مكونات أخرى مثل الفطر أو السبانخ. مذاقها جيد ساخنة أو دافئة أو باردة. طبق رائع للنزهات.",
+   "ur": "ایک مزیدار اور آسان ترکیب جس میں آپ مشروم یا پالک جیسی دیگر چیزیں ڈال سکتے ہیں۔ گرم، نیم گرم یا ٹھنڈا، ہر طرح اچھا لگتا ہے۔ پکنک کے لیے شاندار ڈش۔",
+   "hi": "एक स्वादिष्ट और आसान रेसिपी, जिसमें आप मशरूम या पालक जैसी अन्य सामग्री डाल सकते हैं। गरम, गुनगुना या ठंडा, सभी तरह से अच्छा लगता है। पिकनिक के लिए बढ़िया व्यंजन।",
+   "fr": "Une recette savoureuse et facile à laquelle vous pouvez ajouter d'autres ingrédients comme des champignons ou des épinards. Délicieuse chaude, tiède ou froide. Un excellent plat de pique-nique."
+  },
+  "reason": "bacon/ham add-in option"
+ },
+ {
+  "key": 332,
+  "recipe_id": 7926248,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could add all sorts of ingredients for extra flavour – a finely chopped mushroom, smoked bacon or ham. Try adding crushed garlic or cooked, chopped spinach.",
+   "es": "Puede agregar todo tipo de ingredientes para darle más sabor: un champiñón picado fino, tocino ahumado o jamón. Pruebe agregando ajo machacado o espinacas cocidas y picadas.",
+   "ar": "يمكنك إضافة أنواع كثيرة من المكونات لزيادة النكهة، مثل فطر مفروم ناعمًا أو لحم خنزير مقدد مدخّن أو هام. جرّب إضافة الثوم المهروس أو السبانخ المطبوخة والمفرومة.",
+   "ur": "اضافی ذائقے کے لیے آپ ہر طرح کی چیزیں ڈال سکتے ہیں – باریک کٹا ہوا مشروم، اسموکڈ بیکن یا ہیم۔ کچلا ہوا لہسن یا پکی ہوئی کٹی پالک ڈال کر دیکھیں۔",
+   "hi": "अतिरिक्त स्वाद के लिए आप हर तरह की सामग्री डाल सकते हैं – एक बारीक कटा मशरूम, स्मोक्ड बेकन या हैम। कुचला हुआ लहसुन या पका और कटा हुआ पालक डालकर देखें।",
+   "fr": "Vous pouvez ajouter toutes sortes d'ingrédients pour plus de saveur : un champignon finement haché, du bacon fumé ou du jambon. Essayez d'ajouter de l'ail écrasé ou des épinards cuits et hachés."
+  },
+  "text": {
+   "en": "You could add all sorts of ingredients for extra flavour – such as a finely chopped mushroom. Try adding crushed garlic or cooked, chopped spinach.",
+   "es": "Puede agregar todo tipo de ingredientes para darle más sabor, como un champiñón picado fino. Pruebe agregando ajo machacado o espinacas cocidas y picadas.",
+   "ar": "يمكنك إضافة أنواع كثيرة من المكونات لزيادة النكهة، مثل فطر مفروم ناعمًا. جرّب إضافة الثوم المهروس أو السبانخ المطبوخة والمفرومة.",
+   "ur": "اضافی ذائقے کے لیے آپ ہر طرح کی چیزیں ڈال سکتے ہیں – جیسے باریک کٹا ہوا مشروم۔ کچلا ہوا لہسن یا پکی ہوئی کٹی پالک ڈال کر دیکھیں۔",
+   "hi": "अतिरिक्त स्वाद के लिए आप हर तरह की सामग्री डाल सकते हैं – जैसे एक बारीक कटा मशरूम। कुचला हुआ लहसुन या पका और कटा हुआ पालक डालकर देखें।",
+   "fr": "Vous pouvez ajouter toutes sortes d'ingrédients pour plus de saveur, comme un champignon finement haché. Essayez d'ajouter de l'ail écrasé ou des épinards cuits et hachés."
+  },
+  "reason": "bacon/ham add-in option"
+ },
+ {
+  "key": 333,
+  "recipe_id": 7997094,
+  "field": "hints",
+  "position": 3,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use this marinade on pork, fish fillets, large prawns or cubes of tofu.",
+   "es": "Puede usar este adobo con cerdo, filetes de pescado, langostinos grandes o cubos de tofu.",
+   "ar": "يمكنك استخدام هذا المتبّل مع لحم الخنزير أو شرائح السمك أو الروبيان الكبير أو مكعبات التوفو.",
+   "ur": "آپ یہ میرینیڈ سور کے گوشت، مچھلی کے فلے، بڑے جھینگوں یا ٹوفو کے ٹکڑوں پر استعمال کر سکتے ہیں۔",
+   "hi": "आप इस मैरिनेड का उपयोग पोर्क, मछली के फ़िलेट, बड़ी झींगा या टोफ़ू के टुकड़ों पर कर सकते हैं।",
+   "fr": "Vous pouvez utiliser cette marinade sur du porc, des filets de poisson, de grosses crevettes ou des cubes de tofu."
+  },
+  "text": {
+   "en": "You could use this marinade on fish fillets, large prawns or cubes of tofu.",
+   "es": "Puede usar este adobo con filetes de pescado, langostinos grandes o cubos de tofu.",
+   "ar": "يمكنك استخدام هذا المتبّل مع شرائح السمك أو الروبيان الكبير أو مكعبات التوفو.",
+   "ur": "آپ یہ میرینیڈ مچھلی کے فلے، بڑے جھینگوں یا ٹوفو کے ٹکڑوں پر استعمال کر سکتے ہیں۔",
+   "hi": "आप इस मैरिनेड का उपयोग मछली के फ़िलेट, बड़ी झींगा या टोफ़ू के टुकड़ों पर कर सकते हैं।",
+   "fr": "Vous pouvez utiliser cette marinade sur des filets de poisson, de grosses crevettes ou des cubes de tofu."
+  },
+  "reason": "pork option"
+ },
+ {
+  "key": 334,
+  "recipe_id": 9021259,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 335,
+  "recipe_id": 9021259,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 336,
+  "recipe_id": 9021259,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 337,
+  "recipe_id": 9021259,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 338,
+  "recipe_id": 9114619,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinegar is fine"
+ },
+ {
+  "key": 339,
+  "recipe_id": 9214087,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 340,
+  "recipe_id": 9323221,
+  "field": "ingredients",
+  "position": 17,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "Marsala wine is an ingredient"
+ },
+ {
+  "key": 341,
+  "recipe_id": 9323221,
+  "field": "steps",
+  "position": 9,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "Marsala wine is an ingredient"
+ },
+ {
+  "key": 342,
+  "recipe_id": 9426702,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Pulled jackfruit and vegan mozzarella cheese make an amazing combo on this jackfruit pizza! It's smoky and shredded like pulled pork, with an amazing homemade BBQ sauce, but it's 100% VEGAN!",
+   "es": "¡El jackfruit deshebrado y el queso mozzarella vegano forman una combinación increíble en esta pizza de jackfruit! Es ahumado y se deshebra como carne de cerdo desmenuzada, con una increíble salsa BBQ casera, ¡pero es 100% VEGANO!",
+   "ar": "الجاك فروت المفتت وجبن الموزاريلا النباتي يشكلان مزيجًا مذهلًا على بيتزا الجاك فروت هذه! إنها بنكهة مدخنة ومفتتة كلحم الخنزير المسحوب، مع صلصة باربكيو منزلية رائعة، لكنها نباتية 100%!"
+  },
+  "text": {
+   "en": "Pulled jackfruit and vegan mozzarella cheese make an amazing combo on this jackfruit pizza! It's smoky and shredded like pulled BBQ meat, with an amazing homemade BBQ sauce, but it's 100% VEGAN!",
+   "es": "¡El jackfruit deshebrado y el queso mozzarella vegano forman una combinación increíble en esta pizza de jackfruit! Es ahumado y se deshebra como carne desmenuzada a la barbacoa, con una increíble salsa BBQ casera, ¡pero es 100% VEGANO!",
+   "ar": "الجاك فروت المفتت وجبن الموزاريلا النباتي يشكلان مزيجًا مذهلًا على بيتزا الجاك فروت هذه! إنها بنكهة مدخنة ومفتتة كاللحم المسحوب المشوي، مع صلصة باربكيو منزلية رائعة، لكنها نباتية 100%!"
+  },
+  "reason": "pulled pork comparison"
+ },
+ {
+  "key": 343,
+  "recipe_id": 9660403,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 344,
+  "recipe_id": 9660403,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 345,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 346,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 347,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 348,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 349,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 7,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 350,
+  "recipe_id": 9660403,
+  "field": "steps",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 351,
+  "recipe_id": 9660403,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 352,
+  "recipe_id": 9661912,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "white wine vinegar is fine"
+ },
+ {
+  "key": 353,
+  "recipe_id": 9719129,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "Serve chilled or at room temperature, both ways taste great. This dish is very adaptable, feel free to add more ingredients, like black olives, celery, avocado, garlic, green onion, or TEQUILA . For extra heat , use more jalapeno or leave in the seeds. Or add some cayenne pepper or a splash or two of hot sauce to your cowboy caviar dressing. You may prepare the ingredients ahead , but this dish tastes best when the dressing is added no more than 2-3 hours ahead, as the veggies will start to soften. Leftovers keep refrigerated for 3-4 days.",
+   "es": "Sirva frío o a temperatura ambiente; de ambas maneras sabe muy bien. Este plato es muy adaptable, siéntase libre de agregar más ingredientes, como aceitunas negras, apio, aguacate, ajo, cebolla de verdeo o TEQUILA. Para más picante, use más jalapeño o déjele las semillas. O agregue un poco de pimienta de cayena o un chorrito o dos de salsa picante al aderezo de su cowboy caviar. Puede preparar los ingredientes con anticipación, pero este plato sabe mejor cuando el aderezo se agrega no más de 2-3 horas antes, ya que las verduras comenzarán a ablandarse. Las sobras se conservan refrigeradas de 3 a 4 días.",
+   "ar": "قدّمها باردة أو في درجة حرارة الغرفة، فكلا الطريقتين لذيذتان. هذا الطبق قابل للتكييف جدًا، فلا تتردد في إضافة مزيد من المكونات، مثل الزيتون الأسود أو الكرفس أو الأفوكادو أو الثوم أو البصل الأخضر أو التيكيلا. لمزيد من الحرارة، استخدم مزيدًا من الهالبينو أو اترك البذور. أو أضف بعض فلفل الكايين أو رشة أو رشتين من الصلصة الحارة إلى تتبيلة كافيار رعاة البقر. يمكنك تحضير المكونات مسبقًا، لكن طعم هذا الطبق يكون أفضل عندما تُضاف التتبيلة قبل 2-3 ساعات على الأكثر، لأن الخضار ستبدأ في الليونة. يُحفظ المتبقي في الثلاجة لمدة 3-4 أيام."
+  },
+  "text": {
+   "en": "Serve chilled or at room temperature, both ways taste great. This dish is very adaptable, feel free to add more ingredients, like black olives, celery, avocado, garlic or green onion. For extra heat , use more jalapeno or leave in the seeds. Or add some cayenne pepper or a splash or two of hot sauce to your cowboy caviar dressing. You may prepare the ingredients ahead , but this dish tastes best when the dressing is added no more than 2-3 hours ahead, as the veggies will start to soften. Leftovers keep refrigerated for 3-4 days.",
+   "es": "Sirva frío o a temperatura ambiente; de ambas maneras sabe muy bien. Este plato es muy adaptable, siéntase libre de agregar más ingredientes, como aceitunas negras, apio, aguacate, ajo o cebolla de verdeo. Para más picante, use más jalapeño o déjele las semillas. O agregue un poco de pimienta de cayena o un chorrito o dos de salsa picante al aderezo de su cowboy caviar. Puede preparar los ingredientes con anticipación, pero este plato sabe mejor cuando el aderezo se agrega no más de 2-3 horas antes, ya que las verduras comenzarán a ablandarse. Las sobras se conservan refrigeradas de 3 a 4 días.",
+   "ar": "قدّمها باردة أو في درجة حرارة الغرفة، فكلا الطريقتين لذيذتان. هذا الطبق قابل للتكييف جدًا، فلا تتردد في إضافة مزيد من المكونات، مثل الزيتون الأسود أو الكرفس أو الأفوكادو أو الثوم أو البصل الأخضر. لمزيد من الحرارة، استخدم مزيدًا من الهالبينو أو اترك البذور. أو أضف بعض فلفل الكايين أو رشة أو رشتين من الصلصة الحارة إلى تتبيلة كافيار رعاة البقر. يمكنك تحضير المكونات مسبقًا، لكن طعم هذا الطبق يكون أفضل عندما تُضاف التتبيلة قبل 2-3 ساعات على الأكثر، لأن الخضار ستبدأ في الليونة. يُحفظ المتبقي في الثلاجة لمدة 3-4 أيام."
+  },
+  "reason": "tequila add-in option"
+ },
+ {
+  "key": 354,
+  "recipe_id": 9769795,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "An incredibly delicious vegan strawberry pie made without Jell-o or oil, and low in sugar, without sacrificing flavour!",
+   "ar": "فطيرة فراولة نباتية لذيذة بشكل لا يُصدَّق، محضّرة دون جيلو أو زيت، وقليلة السكر، دون التضحية بالنكهة!"
+  },
+  "text": {
+   "en": "An incredibly delicious vegan strawberry pie made without oil, and low in sugar, without sacrificing flavour!",
+   "ar": "فطيرة فراولة نباتية لذيذة بشكل لا يُصدَّق، محضّرة دون زيت، وقليلة السكر، دون التضحية بالنكهة!"
+  },
+  "reason": "mentions gelatin dessert"
+ },
+ {
+  "key": 355,
+  "recipe_id": 9807591,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 356,
+  "recipe_id": 9807591,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 357,
+  "recipe_id": 9807591,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 358,
+  "recipe_id": 9807591,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 359,
+  "recipe_id": 9807591,
+  "field": "steps",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 360,
+  "recipe_id": 9807591,
+  "field": "steps",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 361,
+  "recipe_id": 9807591,
+  "field": "steps",
+  "position": 9,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 362,
+  "recipe_id": 9807591,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 363,
+  "recipe_id": 9814933,
+  "field": "steps",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Refrigerate the dip for at least 1 hour before serving it with apple slices, pineapple, strawberries, marshmallows, gingerbread cookies, or graham crackers.",
+   "ar": "ضع الغموس في الثلاجة لمدة ساعة واحدة على الأقل قبل تقديمه مع شرائح التفاح أو الأناناس أو الفراولة أو المارشميلو أو كوكيز خبز الزنجبيل أو بسكويت غراهام."
+  },
+  "text": {
+   "en": "Refrigerate the dip for at least 1 hour before serving it with apple slices, pineapple, strawberries, gingerbread cookies, or graham crackers.",
+   "ar": "ضع الغموس في الثلاجة لمدة ساعة واحدة على الأقل قبل تقديمه مع شرائح التفاح أو الأناناس أو الفراولة أو كوكيز خبز الزنجبيل أو بسكويت غراهام."
+  },
+  "reason": "marshmallow serving option"
+ },
+ {
+  "key": 364,
+  "recipe_id": 9858921,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 365,
+  "recipe_id": 9952260,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 366,
+  "recipe_id": 9952260,
+  "field": "hints",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 367,
+  "recipe_id": 9952260,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "plant-based product name, no pork"
+ },
+ {
+  "key": 368,
+  "recipe_id": 9968027,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "Make sure to purchase jackfruit that is canned in water or brine, and not syrup. The syrupy kind is very sweet and you want it to absorb the BBQ sauce flavour, and not be overpowered by the syrupy taste. If you’re short on time, or don’t want to make your own BBQ sauce, you may sub for a store bought sauce instead. Use about ¾ cup of prepared sauce in replacement of the homemade version. If you prefer some crispy edges on your jackfruit, transfer it, once cooked, to a baking tray in a single layer and bake at 375 degrees for 15-20 minutes before adding to your nachos. For oil free chips, here’s a recipe by Sweet Simple Vegan to make your own healthy tortilla chips . Remember, the jackfruit is the star of the show, so add a generous layer to your chips before sprinkling additional toppings. If you have leftovers, store in a sealed container in the refrigerator for up to 5 days. Use your leftovers to make a vegan “pulled pork” style sandwich topped with my creamy vegan coleslaw .",
+   "ar": "احرص على شراء جاك فروت معلب في الماء أو المحلول الملحي، وليس في الشراب. فالنوع المعلب في الشراب شديد الحلاوة وأنت تريده أن يمتص نكهة صلصة الشواء، وألا يطغى عليه طعم الشراب. وإذا كان وقتك ضيقًا، أو لا تريد تحضير صلصة الشواء بنفسك، فيمكنك استبدالها بصلصة جاهزة. استخدم حوالي ¾ كوب من الصلصة الجاهزة بدلًا من النسخة المنزلية. وإذا كنت تفضّل بعض الحواف المقرمشة في الجاك فروت، فانقله بعد الطهي إلى صينية خبز في طبقة واحدة واخبزه على 375 درجة (190° مئوية) لمدة 15-20 دقيقة قبل إضافته إلى الناتشوز. وللحصول على رقائق خالية من الزيت، إليك وصفة من Sweet Simple Vegan لتحضير رقائق التورتيلا الصحية بنفسك. تذكّر أن الجاك فروت هو نجم الطبق، لذا ضع طبقة سخية منه على الرقائق قبل رش الإضافات الأخرى. وإذا بقي لديك شيء، فاحفظه في وعاء محكم الإغلاق في الثلاجة لمدة تصل إلى 5 أيام. استخدم المتبقي لعمل ساندويتش نباتي على نمط «لحم الخنزير المسحوب» مغطى بسلطة الكولسلو النباتية الكريمية الخاصة بي."
+  },
+  "text": {
+   "en": "Make sure to purchase jackfruit that is canned in water or brine, and not syrup. The syrupy kind is very sweet and you want it to absorb the BBQ sauce flavour, and not be overpowered by the syrupy taste. If you’re short on time, or don’t want to make your own BBQ sauce, you may sub for a store bought sauce instead. Use about ¾ cup of prepared sauce in replacement of the homemade version. If you prefer some crispy edges on your jackfruit, transfer it, once cooked, to a baking tray in a single layer and bake at 375 degrees for 15-20 minutes before adding to your nachos. For oil free chips, here’s a recipe by Sweet Simple Vegan to make your own healthy tortilla chips . Remember, the jackfruit is the star of the show, so add a generous layer to your chips before sprinkling additional toppings. If you have leftovers, store in a sealed container in the refrigerator for up to 5 days. Use your leftovers to make a vegan pulled BBQ-style sandwich topped with my creamy vegan coleslaw .",
+   "ar": "احرص على شراء جاك فروت معلب في الماء أو المحلول الملحي، وليس في الشراب. فالنوع المعلب في الشراب شديد الحلاوة وأنت تريده أن يمتص نكهة صلصة الشواء، وألا يطغى عليه طعم الشراب. وإذا كان وقتك ضيقًا، أو لا تريد تحضير صلصة الشواء بنفسك، فيمكنك استبدالها بصلصة جاهزة. استخدم حوالي ¾ كوب من الصلصة الجاهزة بدلًا من النسخة المنزلية. وإذا كنت تفضّل بعض الحواف المقرمشة في الجاك فروت، فانقله بعد الطهي إلى صينية خبز في طبقة واحدة واخبزه على 375 درجة (190° مئوية) لمدة 15-20 دقيقة قبل إضافته إلى الناتشوز. وللحصول على رقائق خالية من الزيت، إليك وصفة من Sweet Simple Vegan لتحضير رقائق التورتيلا الصحية بنفسك. تذكّر أن الجاك فروت هو نجم الطبق، لذا ضع طبقة سخية منه على الرقائق قبل رش الإضافات الأخرى. وإذا بقي لديك شيء، فاحفظه في وعاء محكم الإغلاق في الثلاجة لمدة تصل إلى 5 أيام. استخدم المتبقي لعمل ساندويتش نباتي على نمط اللحم المسحوب بصلصة الشواء مغطى بسلطة الكولسلو النباتية الكريمية الخاصة بي."
+  },
+  "reason": "pulled pork comparison"
+ }
+]

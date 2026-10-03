@@ -1,0 +1,975 @@
+[
+ {
+  "recipe_id": 7293925,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "ar": "في وعاء صغير، اخلط زيت الزيتون وعصير الليمون والنعناع والثوم والفلفل الحار وخل النبيذ الأحمر."
+  },
+  "key": 279
+ },
+ {
+  "recipe_id": 7294698,
+  "position": 5,
+  "field": "ingredients",
+  "text": {
+   "hi": "5 वाइन टमाटर, बीच का हिस्सा और बीज निकाले हुए, चौकोर कटे हुए"
+  },
+  "key": 280
+ },
+ {
+  "recipe_id": 7309643,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "en": "You could make this with pork or firm fish rather than chicken. For a vegetarian version, try with tofu.",
+   "es": "Puede prepararlo con cerdo o pescado firme en lugar de pollo. Para una versión vegetariana, pruebe con tofu.",
+   "ar": "يمكنك تحضيره بلحم الخنزير أو بسمك متماسك بدلًا من الدجاج. ولنسخة نباتية، جرّبه بالتوفو.",
+   "ur": "آپ یہ چکن کی بجائے سور کے گوشت یا سخت مچھلی کے ساتھ بنا سکتے ہیں۔ سبزی خور ورژن کے لیے ٹوفو کے ساتھ آزما کر دیکھیں۔",
+   "hi": "आप इसे चिकन की जगह सूअर के मांस या सख़्त मछली से बना सकते हैं। शाकाहारी संस्करण के लिए, टोफू के साथ आज़माएँ।",
+   "fr": "Vous pouvez préparer cette recette avec du porc ou du poisson à chair ferme plutôt que du poulet. Pour une version végétarienne, essayez avec du tofu."
+  },
+  "key": 281
+ },
+ {
+  "recipe_id": 7347873,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could try coating your truffles with roasted sesame seeds, liquorice powder, desiccated coconut, chopped nuts, matcha green tea powder, or leave them plain. The flavouring is versatile, too – orange, coffee, peppermint, or even rum, make great alternatives.",
+   "es": "Puede probar a cubrir las trufas con ajonjolí tostado, polvo de regaliz, coco rallado seco, nueces picadas o té verde matcha en polvo, o dejarlas sin cubrir. El sabor también es versátil: la naranja, el café, la menta o incluso el ron son excelentes alternativas.",
+   "hi": "आप अपने ट्रफ़ल पर भुने तिल, मुलैठी का पाउडर, सूखा नारियल, कटे मेवे, माचा ग्रीन टी पाउडर की परत चढ़ाकर देख सकते हैं, या उन्हें सादा छोड़ सकते हैं। स्वाद भी कई तरह के हो सकते हैं – संतरा, कॉफ़ी, पिपरमिंट, या यहाँ तक कि रम भी बढ़िया विकल्प हैं।",
+   "fr": "Vous pouvez essayer d'enrober vos truffes de graines de sésame grillées, de poudre de réglisse, de noix de coco desséchée, de fruits à coque hachés, de thé vert matcha en poudre, ou les laisser nature. L'arôme est aussi polyvalent : l'orange, le café, la menthe poivrée, ou même le rhum, font d'excellentes alternatives."
+  },
+  "key": 282
+ },
+ {
+  "recipe_id": 7348447,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "en": "If you don’t have any port, use red wine instead or just 3 tbsp water or extra stock if you don’t want to use alcohol.",
+   "es": "Si no tiene oporto, use vino tinto, o solo 3 cucharadas de agua o más caldo si no desea usar alcohol.",
+   "ar": "إذا لم يتوفر لديك نبيذ البورت، فاستخدم النبيذ الأحمر، أو 3 ملاعق كبيرة من الماء أو مزيدًا من المرق إذا كنت لا تريد استخدام الكحول.",
+   "ur": "اگر آپ کے پاس پورٹ نہ ہو تو اس کی جگہ ریڈ وائن استعمال کریں، یا اگر الکحل استعمال نہیں کرنا چاہتے تو صرف 3 کھانے کے چمچ پانی یا مزید اسٹاک ڈالیں۔",
+   "hi": "अगर आपके पास पोर्ट नहीं है, तो उसकी जगह रेड वाइन इस्तेमाल करें, या अगर आप अल्कोहल का उपयोग नहीं करना चाहते तो बस 3 बड़े चम्मच पानी या अतिरिक्त स्टॉक इस्तेमाल करें।",
+   "fr": "Si vous n'avez pas de porto, utilisez du vin rouge, ou simplement 3 c. à soupe d'eau ou de bouillon supplémentaire si vous ne souhaitez pas utiliser d'alcool."
+  },
+  "key": 283
+ },
+ {
+  "recipe_id": 7348447,
+  "position": 2,
+  "field": "ingredients",
+  "text": {
+   "ar": "3 ملعقة كبيرة نبيذ بورت"
+  },
+  "key": 284
+ },
+ {
+  "recipe_id": 7348447,
+  "position": 1,
+  "field": "steps",
+  "text": {
+   "ar": "ضع التوت البري المجفف في وعاء صغير مع نبيذ البورت واتركه ينقع لمدة 30 دقيقة. في الأثناء، ضع نشا الذرة والبهار الحلو والزنجبيل في كيس طعام كبير، وتبّل جيدًا ثم رجّه للخلط."
+  },
+  "key": 285
+ },
+ {
+  "recipe_id": 7393124,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "es": "El pimentón ahumado es una buena especia para los platillos españoles. Tiene el sabor del chorizo sin la grasa. Puede comprar una versión suave llamada dulce o una más picante llamada picante. Aporta una deliciosa riqueza ahumada y reconfortante a sopas, guisos, carnes asadas o verduras."
+  },
+  "key": 286
+ },
+ {
+  "recipe_id": 7419051,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Salsa works well with grilled tuna, salmon or prawns or with pork steaks.",
+   "es": "La salsa queda muy bien con atún, salmón o camarones a la parrilla, o con chuletas de cerdo.",
+   "ar": "تناسب السلسا التونة المشوية أو السلمون أو الروبيان أو شرائح لحم الخنزير.",
+   "ur": "سالسا گرل کی ہوئی ٹونا، سالمن یا جھینگوں کے ساتھ، یا سور کے گوشت کے سٹیکس کے ساتھ اچھا لگتا ہے۔",
+   "hi": "साल्सा ग्रिल की हुई टूना, सैल्मन या झींगे या पोर्क स्टेक के साथ अच्छा लगता है।",
+   "fr": "La salsa se marie bien avec du thon, du saumon ou des crevettes grillés, ou avec des steaks de porc."
+  },
+  "key": 287
+ },
+ {
+  "recipe_id": 7424102,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use pork, beef or lamb mince for the meatballs. Or you can use minced fish such as cod.",
+   "es": "Para las albóndigas, puede usar carne molida de cerdo, res o cordero. O puede usar pescado molido, como bacalao.",
+   "ar": "يمكنك استخدام لحم الخنزير أو البقر أو الضأن المفروم لكرات اللحم. أو يمكنك استخدام سمك مفروم مثل سمك القد.",
+   "hi": "मीटबॉल के लिए आप पोर्क, बीफ़ या मेमने का कीमा इस्तेमाल कर सकते हैं। या कॉड जैसी मछली का कीमा भी इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la viande hachée de porc, de bœuf ou d’agneau pour les boulettes. Ou vous pouvez utiliser du poisson haché, comme du cabillaud."
+  },
+  "key": 288
+ },
+ {
+  "recipe_id": 7427026,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You can use pork tenderloin or chicken breast in place of lamb, but it will need an extra 10 minutes in the oven. Check the meat is cooked right through and no pink flesh is visible before serving.",
+   "es": "Puede usar lomo de cerdo o pechuga de pollo en lugar del cordero, pero necesitará 10 minutos más en el horno. Verifique que la carne esté cocida por completo y que no se vea carne rosada antes de servir.",
+   "ar": "يمكنك استخدام فيليه لحم الخنزير أو صدر الدجاج بدلًا من لحم الضأن، لكنه سيحتاج إلى 10 دقائق إضافية في الفرن. تأكد من أن اللحم قد نضج تمامًا وأنه لا يوجد لحم وردي ظاهر قبل التقديم.",
+   "ur": "آپ بھیڑ کی جگہ سور کا ٹینڈرلوئن یا مرغی کا سینہ استعمال کر سکتے ہیں، لیکن اسے اوون میں اضافی 10 منٹ درکار ہوں گے۔ پیش کرنے سے پہلے دیکھ لیں کہ گوشت اندر تک پک چکا ہے اور کوئی گلابی حصہ نظر نہیں آ رہا۔",
+   "hi": "आप मेमने की जगह पोर्क टेंडरलॉइन या चिकन ब्रेस्ट इस्तेमाल कर सकते हैं, लेकिन इसे ओवन में 10 मिनट अतिरिक्त चाहिए होंगे। परोसने से पहले जाँच लें कि माँस अंदर तक पक गया है और कोई गुलाबी हिस्सा दिखाई नहीं दे रहा।",
+   "fr": "Vous pouvez utiliser du filet mignon de porc ou du blanc de poulet à la place de l’agneau, mais il faudra 10 minutes de cuisson supplémentaires au four. Vérifiez que la viande est cuite à cœur et qu’aucune chair rose n’est visible avant de servir."
+  },
+  "key": 289
+ },
+ {
+  "recipe_id": 7454682,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use chicken or pork for this dish.",
+   "es": "Puede usar pollo o cerdo para este plato.",
+   "ar": "يمكنك استخدام الدجاج أو لحم الخنزير لهذا الطبق.",
+   "ur": "آپ اس ڈش کے لیے مرغی یا سور کا گوشت استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन या पोर्क इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du poulet ou du porc pour ce plat."
+  },
+  "key": 290
+ },
+ {
+  "recipe_id": 7473723,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Works well with strips of turkey, beef or pork or use prawns or chunks of salmon.",
+   "es": "Queda muy bien con tiras de pavo, res o cerdo, o con camarones o trozos de salmón.",
+   "ur": "ٹرکی، گائے یا سور کی پٹیوں کے ساتھ اچھی لگتی ہے، یا جھینگے یا سالمن کے ٹکڑے استعمال کریں۔",
+   "hi": "टर्की, बीफ़ या पोर्क की पट्टियों के साथ अच्छा लगता है, या झींगे या सैल्मन के टुकड़े इस्तेमाल करें।",
+   "fr": "Convient très bien avec des lanières de dinde, de bœuf ou de porc, ou avec des crevettes ou des morceaux de saumon."
+  },
+  "key": 291
+ },
+ {
+  "recipe_id": 7493655,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could add pork instead of chicken, or add prawns with the broccoli.",
+   "es": "Puede agregar cerdo en lugar de pollo, o añadir camarones junto con el brócoli.",
+   "ar": "يمكنك إضافة لحم الخنزير بدلًا من الدجاج، أو إضافة الروبيان مع البروكلي.",
+   "ur": "آپ مرغی کی جگہ سور کا گوشت ڈال سکتے ہیں، یا بروکلی کے ساتھ جھینگے ڈال سکتے ہیں۔",
+   "hi": "आप चिकन की जगह पोर्क डाल सकते हैं, या ब्रोकली के साथ झींगे डाल सकते हैं।",
+   "fr": "Vous pouvez ajouter du porc à la place du poulet, ou ajouter des crevettes avec le brocoli."
+  },
+  "key": 292
+ },
+ {
+  "recipe_id": 7516891,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use lean pork or chicken in place of beef.",
+   "es": "Puede usar cerdo magro o pollo en lugar de res.",
+   "ar": "يمكنك استخدام لحم الخنزير قليل الدسم أو الدجاج بدلًا من لحم البقر.",
+   "ur": "آپ گائے کے گوشت کی جگہ کم چکنائی والا سور کا گوشت یا مرغی استعمال کر سکتے ہیں۔",
+   "hi": "आप बीफ़ की जगह दुबला पोर्क या चिकन इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du porc maigre ou du poulet à la place du bœuf."
+  },
+  "key": 293
+ },
+ {
+  "recipe_id": 7534585,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "This works well with turkey, beef or pork escalopes. Or try the sauce with grilled fish.",
+   "es": "Esto queda muy bien con escalopes de pavo, de res o de cerdo. También puede probar la salsa con pescado a la parrilla.",
+   "ar": "يناسب هذا الطبق أيضًا شرائح إسكالوب الديك الرومي أو لحم البقر أو لحم الخنزير. أو جرّب الصلصة مع السمك المشوي.",
+   "ur": "یہ ٹرکی، گائے یا سور کے گوشت کے اسکالوپس کے ساتھ بھی اچھی لگتی ہے۔ یا چٹنی کو گرل کی ہوئی مچھلی کے ساتھ آزمائیں۔",
+   "hi": "यह टर्की, बीफ़ या पोर्क एस्केलोप के साथ अच्छा लगता है। या इस सॉस को ग्रिल की हुई मछली के साथ आज़माएँ।",
+   "fr": "Cette recette convient aussi très bien aux escalopes de dinde, de bœuf ou de porc. Vous pouvez aussi essayer la sauce avec du poisson grillé."
+  },
+  "key": 294
+ },
+ {
+  "recipe_id": 7553184,
+  "position": 1,
+  "field": "ingredients",
+  "text": {
+   "es": "1 sobre de 23 g de gelatina de naranja sin azúcar"
+  },
+  "key": 295
+ },
+ {
+  "recipe_id": 7553184,
+  "position": 1,
+  "field": "steps",
+  "text": {
+   "es": "Vierta los cristales de gelatina en una jarra medidora, agregue 300 ml de agua hirviendo y revuelva hasta que se disuelvan. Añada 300 ml de agua fría y reserve. Ralle finamente la cáscara de la naranja y reserve. Quite la cáscara de la naranja y separe la pulpa en gajos."
+  },
+  "key": 296
+ },
+ {
+  "recipe_id": 7553184,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "es": "Reparta por partes iguales los gajos de naranja, el plátano en rodajas y los bizcochos en cuatro vasos. Vierta la gelatina de naranja y refrigere durante 1 hora, hasta que cuaje."
+  },
+  "key": 297
+ },
+ {
+  "recipe_id": 7553184,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "es": "Trifles de gelatina y plátano"
+  },
+  "key": 298
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "es": "Puede usar gelatina vegetariana, pero puede tener mucha azúcar. También puede usar agar-agar, que se consigue en tiendas naturistas y en línea. Mézclelo con jarabe concentrado sin azúcar diluido para obtener una gelatina vegana y sin azúcar."
+  },
+  "key": 299
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "es": "Pruebe con gelatina de otro sabor, o con un solo tipo de fruto rojo congelado, como frambuesas o arándanos azules, o use una mezcla de fruta fresca picada."
+  },
+  "key": 300
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 11,
+  "field": "ingredients",
+  "text": {
+   "es": "1 sobre de 23 g de cristales de gelatina de sabor fresa sin azúcar (*no apta para vegetarianos)"
+  },
+  "key": 301
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 8,
+  "field": "steps",
+  "text": {
+   "es": "Prepare la gelatina según las instrucciones del paquete, pero use aproximadamente un 10 por ciento menos de agua de la indicada. Reserve y deje enfriar 10 minutos."
+  },
+  "key": 302
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 9,
+  "field": "steps",
+  "text": {
+   "es": "Esparza los frutos rojos sobre el bizcocho; úselos congelados, ya que esto ayuda a que la gelatina cuaje más rápido."
+  },
+  "key": 303
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 10,
+  "field": "steps",
+  "text": {
+   "es": "Vierta la gelatina sobre la fruta y el bizcocho, y luego refrigere durante 1½ horas hasta que cuaje."
+  },
+  "key": 304
+ },
+ {
+  "recipe_id": 7561013,
+  "position": 11,
+  "field": "steps",
+  "text": {
+   "es": "Extienda la crema pastelera sobre la gelatina y vuelva a refrigerar durante 30 minutos (en este punto puede cubrirlo con plástico adherente y dejarlo en el refrigerador toda la noche si lo desea)."
+  },
+  "key": 305
+ },
+ {
+  "recipe_id": 7572993,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "This recipe also works well with thinly sliced lean pork or beef, prawns, salmon, turkey or tofu instead of chicken.",
+   "es": "Esta receta también queda muy bien con cerdo magro o res en rebanadas finas, camarones, salmón, pavo o tofu en lugar de pollo.",
+   "ar": "تناسب هذه الوصفة أيضًا لحم الخنزير أو البقر الخالي من الدهن المقطع إلى شرائح رفيعة، أو الروبيان أو السلمون أو الديك الرومي أو التوفو بدلًا من الدجاج.",
+   "ur": "یہ ترکیب چکن کی جگہ پتلے کٹے ہوئے کم چکنائی والے سور کے گوشت یا گائے کے گوشت، جھینگوں، سالمن، ٹرکی یا ٹوفو کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी चिकन की जगह पतले कटे हुए लीन पोर्क या बीफ़, झींगे, सैल्मन, टर्की या टोफू के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec de fines tranches de porc maigre ou de bœuf, des crevettes, du saumon, de la dinde ou du tofu à la place du poulet."
+  },
+  "key": 306
+ },
+ {
+  "recipe_id": 7595443,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "en": "This also works well with strips of pork or turkey.",
+   "es": "También queda muy bien con tiras de cerdo o de pavo.",
+   "ar": "تناسب هذه الوصفة أيضًا شرائح لحم الخنزير أو الديك الرومي.",
+   "ur": "یہ سور کے گوشت یا ٹرکی کی پٹیوں کے ساتھ بھی اچھا رہتا ہے۔",
+   "hi": "यह सूअर के मांस या टर्की की पट्टियों के साथ भी अच्छा लगता है।",
+   "fr": "Cela convient aussi très bien avec des lanières de porc ou de dinde."
+  },
+  "key": 307
+ },
+ {
+  "recipe_id": 7644993,
+  "position": 3,
+  "field": "hints",
+  "text": {
+   "en": "If you don't want to use rum, use 3 tbsp lemon juice instead.",
+   "es": "Si no desea usar ron, utilice 3 cucharadas de jugo de limón en su lugar.",
+   "hi": "यदि आप रम का उपयोग नहीं करना चाहते, तो इसकी जगह 3 बड़े चम्मच नींबू का रस इस्तेमाल करें।",
+   "fr": "Si vous ne souhaitez pas utiliser de rhum, utilisez 3 c. à soupe de jus de citron à la place."
+  },
+  "key": 308
+ },
+ {
+  "recipe_id": 7651076,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could make this dish with lamb, beef, pork or turkey",
+   "es": "Puede preparar este plato con cordero, res, cerdo o pavo.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم الضأن أو البقر أو الخنزير أو الديك الرومي.",
+   "ur": "آپ یہ ڈش بھیڑ، گائے، سور یا ٹرکی کے گوشت سے بھی بنا سکتے ہیں",
+   "hi": "आप यह व्यंजन भेड़ के मांस, बीफ़, सूअर के मांस या टर्की के साथ भी बना सकते हैं।",
+   "fr": "Vous pouvez préparer ce plat avec de l'agneau, du bœuf, du porc ou de la dinde."
+  },
+  "key": 309
+ },
+ {
+  "recipe_id": 7673690,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use chicken or pork for this dish.",
+   "es": "Puede usar pollo o cerdo para este plato.",
+   "ar": "يمكنك استخدام الدجاج أو لحم الخنزير لهذا الطبق.",
+   "ur": "آپ اس ڈش کے لیے چکن یا سور کا گوشت استعمال کر سکتے ہیں۔",
+   "hi": "आप इस व्यंजन के लिए चिकन या सूअर के मांस का उपयोग कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du poulet ou du porc pour ce plat."
+  },
+  "key": 310
+ },
+ {
+  "recipe_id": 7696162,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "es": "Usar fruta congelada hará que la gelatina se enfríe y cuaje más rápido que con fruta fresca."
+  },
+  "key": 311
+ },
+ {
+  "recipe_id": 7696162,
+  "position": 2,
+  "field": "ingredients",
+  "text": {
+   "es": "1 sobre de gelatina de frambuesa sin azúcar en polvo"
+  },
+  "key": 312
+ },
+ {
+  "recipe_id": 7696162,
+  "position": 1,
+  "field": "steps",
+  "text": {
+   "es": "Ponga el agua y la gelatina en una jarra, incorpore el edulcorante y luego añada la mitad de las frambuesas. Aplástelas suavemente con un tenedor para deshacerlas."
+  },
+  "key": 313
+ },
+ {
+  "recipe_id": 7709454,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "The Provençal sauce for this dish works well with any meat, such as pork steaks or turkey escalopes, or with grilled fish.",
+   "es": "La salsa provenzal de este plato queda bien con cualquier carne, como bistecs de cerdo o escalopes de pavo, o con pescado a la parrilla.",
+   "ar": "تناسب الصلصة البروفنسالية لهذا الطبق أي لحم، مثل شرائح لحم الخنزير أو شرائح الديك الرومي، أو السمك المشوي.",
+   "ur": "اس ڈش کی پروونسال ساس کسی بھی گوشت، جیسے پورک اسٹیکس یا ٹرکی ایسکلوپس، یا گرل کی ہوئی مچھلی کے ساتھ اچھی لگتی ہے۔",
+   "hi": "इस व्यंजन की प्रोवेंसल सॉस किसी भी मांस, जैसे सूअर के स्टेक या टर्की एस्कालोप के साथ, या ग्रिल की हुई मछली के साथ अच्छी लगती है।",
+   "fr": "La sauce provençale de ce plat convient à toutes les viandes, comme les steaks de porc ou les escalopes de dinde, ou au poisson grillé."
+  },
+  "key": 314
+ },
+ {
+  "recipe_id": 7716634,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use turkey or pork – or any meaty fish – instead of chicken.",
+   "es": "Puede usar pavo o cerdo, o cualquier pescado de carne firme, en lugar del pollo.",
+   "ur": "آپ چکن کی جگہ ٹرکی یا پورک – یا کوئی بھی گوشت دار مچھلی – استعمال کر سکتے ہیں۔",
+   "hi": "आप चिकन की जगह टर्की या सूअर का मांस – या कोई भी गूदेदार मछली – इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser de la dinde ou du porc, ou n'importe quel poisson à chair ferme, à la place du poulet."
+  },
+  "key": 315
+ },
+ {
+  "recipe_id": 7739965,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "This dish works just as well with cooked prawns or pork, instead of chicken.",
+   "es": "Este platillo queda igual de bien con camarones cocidos o cerdo en lugar de pollo.",
+   "ar": "يناسب هذا الطبق الروبيان المطبوخ أو لحم الخنزير بالقدر نفسه بدلًا من الدجاج.",
+   "ur": "یہ ڈش چکن کی بجائے پکے ہوئے جھینگوں یا پورک کے ساتھ بھی اتنی ہی اچھی بنتی ہے۔",
+   "hi": "यह व्यंजन चिकन की जगह पके हुए झींगे या सूअर के मांस के साथ भी उतना ही अच्छा लगता है।",
+   "fr": "Ce plat est tout aussi bon avec des crevettes cuites ou du porc, à la place du poulet."
+  },
+  "key": 316
+ },
+ {
+  "recipe_id": 7785022,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "es": "Nuestra versión de la mermelada: una gelatina agridulce de naranja llena de fruta, pero con mucha menos azúcar. Excelente para pan tostado, muffins y scones, o para rellenar pasteles."
+  },
+  "key": 317
+ },
+ {
+  "recipe_id": 7785022,
+  "position": 3,
+  "field": "ingredients",
+  "text": {
+   "es": "1 sobre de 23 g de gelatina de naranja sin azúcar en polvo",
+   "fr": "1 sachet de 23 g de gélatine à l'orange sans sucre"
+  },
+  "key": 318
+ },
+ {
+  "recipe_id": 7785022,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "es": "Incorpore el sobre de gelatina hasta que se disuelva por completo.",
+   "fr": "Ajoutez le sachet de gélatine et remuez jusqu'à dissolution complète."
+  },
+  "key": 319
+ },
+ {
+  "recipe_id": 7786545,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use beef, pork or venison instead of lamb.",
+   "es": "Puede usar carne de res, cerdo o venado en lugar de cordero.",
+   "ar": "يمكنك استخدام لحم البقر أو لحم الخنزير أو لحم الغزال بدلًا من لحم الضأن.",
+   "ur": "بھیڑ کے گوشت کی جگہ گائے، سور یا ہرن کا گوشت استعمال کیا جا سکتا ہے۔",
+   "hi": "आप मेमने की जगह बीफ़, पोर्क या वेनिसन (हिरन का मांस) का उपयोग कर सकते हैं।",
+   "fr": "Vous pouvez utiliser du bœuf, du porc ou de la venaison à la place de l'agneau."
+  },
+  "key": 320
+ },
+ {
+  "recipe_id": 7798713,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "This works well with strips of chicken, pork or turkey. Great with rice or rice noodles.",
+   "es": "Funciona bien con tiras de pollo, cerdo o pavo. Queda muy bien con arroz o fideos de arroz.",
+   "ar": "تناسب هذه الوصفة شرائح الدجاج أو لحم الخنزير أو الديك الرومي. وهي رائعة مع الأرز أو شعيرية الأرز.",
+   "ur": "یہ چکن، سور یا ٹرکی کی پٹیوں کے ساتھ بھی اچھا لگتا ہے۔ چاول یا رائس نوڈلز کے ساتھ بہترین ہے۔",
+   "hi": "यह चिकन, पोर्क या टर्की की पट्टियों के साथ भी अच्छा लगता है। चावल या राइस नूडल्स के साथ बढ़िया लगता है।",
+   "fr": "Cette recette fonctionne bien avec des lanières de poulet, de porc ou de dinde. Excellente avec du riz ou des nouilles de riz."
+  },
+  "key": 321
+ },
+ {
+  "recipe_id": 7843879,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could also use this piri piri marinade on turkey or pork escalopes, too.",
+   "es": "También podría usar esta marinada piri piri en filetes de pavo o de cerdo.",
+   "ar": "يمكنك أيضًا استخدام تتبيلة البيري بيري هذه مع شرائح الديك الرومي أو لحم الخنزير.",
+   "ur": "آپ اس پیری پیری میرینیڈ کو ٹرکی یا سور کے اسکالپ پر بھی استعمال کر سکتے ہیں۔",
+   "hi": "आप इस पिरी पिरी मैरिनेड का उपयोग टर्की या पोर्क एस्कैलोप पर भी कर सकते हैं।",
+   "fr": "Vous pouvez aussi utiliser cette marinade piri-piri sur des escalopes de dinde ou de porc."
+  },
+  "key": 322
+ },
+ {
+  "recipe_id": 7845092,
+  "position": 12,
+  "field": "ingredients",
+  "text": {
+   "hi": "1 बड़ा चम्मच राइस वाइन विनेगर"
+  },
+  "key": 323
+ },
+ {
+  "recipe_id": 7859226,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could use 1 tbsp of white wine or lemon juice in place of stock.",
+   "es": "Podría usar 1 cucharada de vino blanco o jugo de limón en lugar del caldo.",
+   "ar": "يمكنك استخدام 1 ملعقة كبيرة من النبيذ الأبيض أو عصير الليمون بدلًا من المرق.",
+   "ur": "اسٹاک کی جگہ 1 کھانے کا چمچ سفید شراب یا لیموں کا رس استعمال کیا جا سکتا ہے۔",
+   "hi": "आप स्टॉक की जगह 1 बड़ा चम्मच सफ़ेद वाइन या नींबू का रस इस्तेमाल कर सकते हैं।",
+   "fr": "Vous pouvez utiliser 1 c. à soupe de vin blanc ou de jus de citron à la place du bouillon."
+  },
+  "key": 324
+ },
+ {
+  "recipe_id": 7860482,
+  "position": 2,
+  "field": "hints",
+  "text": {
+   "en": "This works well with pork, beef or lamb mince.",
+   "es": "Funciona bien con carne molida de cerdo, res o cordero.",
+   "ar": "تناسب هذه الوصفة لحم الخنزير أو البقر أو الضأن المفروم.",
+   "hi": "यह पोर्क, बीफ़ या मेमने के कीमे के साथ भी अच्छा बनता है।",
+   "fr": "Cette recette fonctionne bien avec du hachis de porc, de bœuf ou d'agneau."
+  },
+  "key": 325
+ },
+ {
+  "recipe_id": 7870024,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "This recipe also works well with lean cuts of meat such as lamb fillet or pork fillet.",
+   "es": "Esta receta también funciona bien con cortes magros de carne como filete de cordero o lomo de cerdo.",
+   "ar": "تناسب هذه الوصفة أيضًا قطع اللحم قليلة الدسم مثل فيليه الضأن أو فيليه لحم الخنزير.",
+   "ur": "یہ ترکیب بھیڑ کے فلیٹ یا سور کے فلیٹ جیسے لین کٹس کے ساتھ بھی اچھی بنتی ہے۔",
+   "hi": "यह रेसिपी मेमने के फ़िलेट या पोर्क फ़िलेट जैसे दुबले मांस के साथ भी अच्छी बनती है।",
+   "fr": "Cette recette convient aussi très bien avec des morceaux de viande maigres comme le filet d'agneau ou le filet de porc."
+  },
+  "key": 326
+ },
+ {
+  "recipe_id": 7912562,
+  "position": 1,
+  "field": "ingredients",
+  "text": {
+   "es": "200 g de filete de jamón (gammon), sin grasa visible ni corteza",
+   "ar": "200 غرام من شريحة جامون (لحم الخنزير المعالج)، بعد إزالة كل الدهون الظاهرة والقشرة",
+   "ur": "200 گرام گیمن (سور کی ران) کا اسٹیک، تمام نظر آنے والی چربی اور چھلکا نکالا ہوا",
+   "hi": "200 ग्राम गैमन (सूअर के मांस) का स्टेक, सारी दिखने वाली चर्बी और छिलका हटाया हुआ",
+   "fr": "200 g de steak de jambon (gammon), toute graisse visible et couenne retirées"
+  },
+  "key": 327
+ },
+ {
+  "recipe_id": 7912562,
+  "position": 1,
+  "field": "steps",
+  "text": {
+   "es": "Corte el jamón en tiras finas.",
+   "fr": "Coupez le jambon en fines lanières."
+  },
+  "key": 328
+ },
+ {
+  "recipe_id": 7912562,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "es": "Caliente un wok antiadherente. Agregue el jamón y cocine a fuego alto de 2 a 3 minutos.",
+   "fr": "Chauffez un wok antiadhésif. Ajoutez le jambon et faites cuire à feu vif 2 à 3 minutes."
+  },
+  "key": 329
+ },
+ {
+  "recipe_id": 7912562,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "es": "Salteado de jamón (gammon) y piña",
+   "fr": "Sauté de jambon et d'ananas"
+  },
+  "key": 330
+ },
+ {
+  "recipe_id": 7926248,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "A tasty and easy recipe where you could add other ingredients like bacon or ham. Tastes good hot, warm or cold. A great picnic dish.",
+   "es": "Una receta sabrosa y fácil a la que puede agregar otros ingredientes como tocino o jamón. Sabe bien caliente, tibia o fría. Un plato excelente para un picnic.",
+   "ar": "وصفة لذيذة وسهلة يمكنك أن تضيف إليها مكونات أخرى مثل لحم الخنزير المقدد أو الهام. مذاقها جيد ساخنة أو دافئة أو باردة. طبق رائع للنزهات.",
+   "ur": "ایک مزیدار اور آسان ترکیب جس میں آپ بیکن یا ہیم جیسی دیگر چیزیں ڈال سکتے ہیں۔ گرم، نیم گرم یا ٹھنڈا، ہر طرح اچھا لگتا ہے۔ پکنک کے لیے شاندار ڈش۔",
+   "hi": "एक स्वादिष्ट और आसान रेसिपी, जिसमें आप बेकन या हैम जैसी अन्य सामग्री डाल सकते हैं। गरम, गुनगुना या ठंडा, सभी तरह से अच्छा लगता है। पिकनिक के लिए बढ़िया व्यंजन।",
+   "fr": "Une recette savoureuse et facile à laquelle vous pouvez ajouter d'autres ingrédients comme du bacon ou du jambon. Délicieuse chaude, tiède ou froide. Un excellent plat de pique-nique."
+  },
+  "key": 331
+ },
+ {
+  "recipe_id": 7926248,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "You could add all sorts of ingredients for extra flavour – a finely chopped mushroom, smoked bacon or ham. Try adding crushed garlic or cooked, chopped spinach.",
+   "es": "Puede agregar todo tipo de ingredientes para darle más sabor: un champiñón picado fino, tocino ahumado o jamón. Pruebe agregando ajo machacado o espinacas cocidas y picadas.",
+   "ar": "يمكنك إضافة أنواع كثيرة من المكونات لزيادة النكهة، مثل فطر مفروم ناعمًا أو لحم خنزير مقدد مدخّن أو هام. جرّب إضافة الثوم المهروس أو السبانخ المطبوخة والمفرومة.",
+   "ur": "اضافی ذائقے کے لیے آپ ہر طرح کی چیزیں ڈال سکتے ہیں – باریک کٹا ہوا مشروم، اسموکڈ بیکن یا ہیم۔ کچلا ہوا لہسن یا پکی ہوئی کٹی پالک ڈال کر دیکھیں۔",
+   "hi": "अतिरिक्त स्वाद के लिए आप हर तरह की सामग्री डाल सकते हैं – एक बारीक कटा मशरूम, स्मोक्ड बेकन या हैम। कुचला हुआ लहसुन या पका और कटा हुआ पालक डालकर देखें।",
+   "fr": "Vous pouvez ajouter toutes sortes d'ingrédients pour plus de saveur : un champignon finement haché, du bacon fumé ou du jambon. Essayez d'ajouter de l'ail écrasé ou des épinards cuits et hachés."
+  },
+  "key": 332
+ },
+ {
+  "recipe_id": 7997094,
+  "position": 3,
+  "field": "hints",
+  "text": {
+   "en": "You could use this marinade on pork, fish fillets, large prawns or cubes of tofu.",
+   "es": "Puede usar este adobo con cerdo, filetes de pescado, langostinos grandes o cubos de tofu.",
+   "ar": "يمكنك استخدام هذا المتبّل مع لحم الخنزير أو شرائح السمك أو الروبيان الكبير أو مكعبات التوفو.",
+   "ur": "آپ یہ میرینیڈ سور کے گوشت، مچھلی کے فلے، بڑے جھینگوں یا ٹوفو کے ٹکڑوں پر استعمال کر سکتے ہیں۔",
+   "hi": "आप इस मैरिनेड का उपयोग पोर्क, मछली के फ़िलेट, बड़ी झींगा या टोफ़ू के टुकड़ों पर कर सकते हैं।",
+   "fr": "Vous pouvez utiliser cette marinade sur du porc, des filets de poisson, de grosses crevettes ou des cubes de tofu."
+  },
+  "key": 333
+ },
+ {
+  "recipe_id": 9021259,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Tender spaghetti with smoky soy curl pancetta and a luscious eggy sauce makes this vegan carbonara unforgettable!"
+  },
+  "key": 334
+ },
+ {
+  "recipe_id": 9021259,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Salt your pasta water! Be sure to add enough salt to your pot of water for the best results. Here's a handy guide to help if needed. Do not overcook your pasta. Follow the directions for ‘al dente’ pasta. If your package does not include directions for ‘al dente’ then undercook your pasta by 1-3 minutes. ‘Al dente’ means that the pasta is still firm once cooked, and not mushy. This gives you optimal texture. Reserve some pasta water for ‘swooshing’ in your blender when draining your noodles . If you forget, use some broth, or fresh water with a little salt, so as not to dilute your carbonara sauce too much, but the starchy water works best. The black salt aka Kala Namak is a vital ingredient in this dish. It’s what gives the sauce its eggy flavour. Do not skip it if possible. If you don’t have, or cannot find black salt, you may use sea salt with slightly different results. Serve your vegan carbonara immediately , as the pasta will absorb the sauce as it cools. Leftovers keep refrigerated for 3-4 days. Add some broth or non-dairy milk to your pan when reheating to loosen it and add back some moisture. Soy curl pancetta inspired by My Quiet Kitchen’s vegan bacon bits .",
+   "es": "¡Ponga sal al agua de la pasta! Asegúrese de agregar suficiente sal al agua de la olla para obtener mejores resultados. Aquí hay una guía práctica por si la necesita. No cocine demasiado la pasta. Siga las indicaciones para pasta “al dente”. Si su paquete no incluye indicaciones para “al dente”, cocine la pasta de 1 a 3 minutos menos. “Al dente” significa que la pasta todavía está firme una vez cocida, y no blanda. Esto le da la textura ideal. Reserve algo del agua de la pasta para “enjuagar” la licuadora al escurrir los fideos. Si lo olvida, use un poco de caldo, o agua fresca con un poco de sal, para no diluir demasiado la salsa carbonara, aunque el agua con almidón funciona mejor. La sal negra, también llamada Kala Namak, es un ingrediente fundamental en este platillo. Es lo que le da a la salsa su sabor a huevo. No la omita si es posible. Si no la tiene o no la encuentra, puede usar sal marina, con resultados un poco diferentes. Sirva la carbonara vegana de inmediato, ya que la pasta absorberá la salsa a medida que se enfríe. Las sobras se conservan en el refrigerador durante 3-4 días. Agregue un poco de caldo o leche vegetal a la sartén al recalentar para aflojarla y devolverle humedad. La “panceta” de soya texturizada está inspirada en los trocitos de tocino vegano de My Quiet Kitchen.",
+   "ar": "ملّح ماء المعكرونة! احرص على إضافة كمية كافية من الملح إلى قدر الماء للحصول على أفضل النتائج. إليك دليل مفيد للمساعدة عند الحاجة. لا تفرط في طهي المعكرونة. اتبع إرشادات «ألدنتي». إذا لم تتضمن العبوة إرشادات «ألدنتي»، فاطهُ المعكرونة أقل من المدة المذكورة بدقيقة إلى 3 دقائق. تعني «ألدنتي» أن المعكرونة تبقى متماسكة بعد الطهي وليست رخوة، وهذا يمنحك القوام الأمثل. احتفظ ببعض ماء المعكرونة لتحريكه في الخلاط عند تصفية الشعيرية. وإن نسيت، فاستخدم بعض المرق أو ماءً عذبًا مع قليل من الملح حتى لا تُخفِّف صلصة الكاربونارا أكثر من اللازم، لكن الماء النشوي هو الأفضل. الملح الأسود (كالا نامَك) مكوّن أساسي في هذا الطبق، فهو ما يمنح الصلصة نكهة البيض. لا تتجاوزه إن أمكن. وإن لم يكن لديك أو لم تجده، يمكنك استخدام ملح البحر مع نتائج مختلفة قليلًا. قدّم الكاربونارا النباتية فورًا لأن المعكرونة ستمتص الصلصة عندما تبرد. يُحفظ المتبقي في الثلاجة 3-4 أيام. أضف قليلًا من المرق أو الحليب النباتي إلى المقلاة عند إعادة التسخين لتخفيفه وإعادة بعض الرطوبة. بانشيتا لفائف الصويا مستوحاة من قطع البيكون النباتية من My Quiet Kitchen."
+  },
+  "key": 335
+ },
+ {
+  "recipe_id": 9021259,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "en": "In a small bowl, stir together the pancetta marinade: tamari, maple syrup, smoked paprika, and black pepper. Pour the mixture over the soy curls pieces, stir until evenly coated, and set aside for 5 minutes. Then stir again to get the soy curls to soak up all the marinade."
+  },
+  "key": 336
+ },
+ {
+  "recipe_id": 9021259,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "en": "Easy Vegan Carbonara with Soy Curl Pancetta"
+  },
+  "key": 337
+ },
+ {
+  "recipe_id": 9114619,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "ar": "تشيميتشوري بدون زيت بالأعشاب الطازجة وعصير الليمون الأخضر الطازج وخل النبيذ الأحمر الحامض هي الإضافة المثالية لجميع مشوياتك المفضلة."
+  },
+  "key": 338
+ },
+ {
+  "recipe_id": 9214087,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "This vegan cobb salad features smoky \"bacon\" flavoured mushrooms, sweet corn, rich avocado, juicy tomato, zesty onion, and a fantastic creamy dressing.",
+   "es": "Esta ensalada Cobb vegana incluye champiñones con sabor a “tocino” ahumado, maíz dulce, aguacate cremoso, jugoso tomate, cebolla de sabor vivo y un fantástico aderezo cremoso.",
+   "ar": "تتميز سلطة كوب النباتية هذه بفطر مدخن بنكهة «البيكون» وذرة حلوة وأفوكادو غني وطماطم عصيرية وبصل منعش وتتبيلة كريمية رائعة."
+  },
+  "key": 339
+ },
+ {
+  "recipe_id": 9323221,
+  "position": 17,
+  "field": "ingredients",
+  "text": {
+   "es": "⅔ taza de vino Marsala",
+   "ar": "⅔ كوب نبيذ مارسالا"
+  },
+  "key": 340
+ },
+ {
+  "recipe_id": 9323221,
+  "position": 9,
+  "field": "steps",
+  "text": {
+   "es": "Luego vierta el vino Marsala, la taza de caldo restante y la crema vegana de anacardo que acaba de preparar. Cocine a fuego medio de 5 a 8 minutos hasta que espese ligeramente."
+  },
+  "key": 341
+ },
+ {
+  "recipe_id": 9426702,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Pulled jackfruit and vegan mozzarella cheese make an amazing combo on this jackfruit pizza! It's smoky and shredded like pulled pork, with an amazing homemade BBQ sauce, but it's 100% VEGAN!",
+   "es": "¡El jackfruit deshebrado y el queso mozzarella vegano forman una combinación increíble en esta pizza de jackfruit! Es ahumado y se deshebra como carne de cerdo desmenuzada, con una increíble salsa BBQ casera, ¡pero es 100% VEGANO!",
+   "ar": "الجاك فروت المفتت وجبن الموزاريلا النباتي يشكلان مزيجًا مذهلًا على بيتزا الجاك فروت هذه! إنها بنكهة مدخنة ومفتتة كلحم الخنزير المسحوب، مع صلصة باربكيو منزلية رائعة، لكنها نباتية 100%!"
+  },
+  "key": 342
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Meaty, tender, incredibly flavourful vegan ham topped with a smoky maple glaze!!",
+   "es": "¡Jamón vegano con textura de carne, tierno e increíblemente sabroso, cubierto con un glaseado ahumado de arce!"
+  },
+  "key": 343
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Don’t be intimidated ! It’s a LOT easier to make than it looks. 🙂 Make sure to use a good quality and very flavourful broth for the best results. I use and love this homemade broth , but store bought works too. Cheesecloth is easier than parchment and aluminum foil to wrap your vegan ham. Plus, it’s safe for food if you prefer to avoid foil. Give your ham a little time to rest before slicing . As it begins to cool, it further sets and makes slicing easier and allows for thinner slices. Leftovers keep refrigerated in a sealed container for up to 5 days. You may freeze leftovers, whole or sliced in a zip top bag or freezer safe container for up to 3 months.",
+   "es": "¡No se intimide! Es MUCHO más fácil de hacer de lo que parece. 🙂 Asegúrese de usar un caldo de buena calidad y muy sabroso para obtener los mejores resultados. Yo uso y me encanta este caldo casero, pero el comprado en tienda también funciona. La gasa de queso es más fácil que el papel pergamino y el papel de aluminio para envolver su jamón vegano. Además, es segura para alimentos si prefiere evitar el aluminio. Dé al jamón un poco de tiempo de reposo antes de cortarlo. A medida que comienza a enfriarse, se firma más, lo que facilita el corte y permite obtener rebanadas más delgadas. Las sobras se conservan refrigeradas en un recipiente sellado hasta por 5 días. Puede congelar las sobras, enteras o en rebanadas, en una bolsa con cierre o en un recipiente apto para congelador hasta por 3 meses."
+  },
+  "key": 344
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 1,
+  "field": "steps",
+  "text": {
+   "en": "Add all the ham ingredients EXCEPT the vital wheat gluten to a food processor and process until mostly blended. Then add HALF the vital wheat gluten and continue processing until mixed through. Now add the remaining half and process until mostly combined.",
+   "es": "Agregue todos los ingredientes del jamón EXCEPTO el gluten de trigo vital a un procesador de alimentos y procese hasta que esté casi mezclado. Luego agregue la MITAD del gluten de trigo vital y continúe procesando hasta que se integre. Ahora agregue la otra mitad restante y procese hasta que esté casi combinado."
+  },
+  "key": 345
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 4,
+  "field": "steps",
+  "text": {
+   "en": "Add 1.5 cups of water to the bottom of your Instant Pot and place its trivet inside. Then place your wrapped ham on top of the trivet. Close the lid and make sure the valve is in the sealing position. Set to the steam function for 40 minutes and let the pressure naturally release until the pin drops. It will take about 10 minutes for the pin to drop.",
+   "es": "Agregue 1.5 tazas de agua al fondo de su Instant Pot y coloque dentro el trébede (rejilla). Luego coloque el jamón envuelto encima del trébede. Cierre la tapa y asegúrese de que la válvula esté en la posición de sellado. Programe la función de vapor durante 40 minutos y deje que la presión se libere de forma natural hasta que baje el pasador. Tardará aprox. 10 minutos en bajar el pasador."
+  },
+  "key": 346
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 5,
+  "field": "steps",
+  "text": {
+   "en": "While the ham is steaming in your Instant Pot, preheat your oven to 375 degrees F. Then add ALL the glaze ingredients in a small mixing bowl and whisk to combine. Set aside.",
+   "es": "Mientras el jamón se cocina al vapor en su Instant Pot, precaliente el horno a 375 grados F. Luego agregue TODOS los ingredientes del glaseado en un tazón pequeño para mezclar y bata para combinar. Reserve."
+  },
+  "key": 347
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 6,
+  "field": "steps",
+  "text": {
+   "en": "Transfer the roast to a cutting board and use a sharp knife to score your ham. Start on one end and make cuts that are approx. 1/4-1/3 inch deep and approx. 1 inch apart. Then rotate the ham and repeat diagonally from one side to the other. (See process shots above for a visual.)",
+   "es": "Pase el asado a una tabla de cortar y use un cuchillo afilado para marcar el jamón. Comience por un extremo y haga cortes de aprox. 1/4-1/3 de pulgada de profundidad y a aprox. 1 pulgada de distancia. Luego gire el jamón y repita en diagonal de un lado al otro. (Vea las fotos del proceso arriba para una referencia visual.)"
+  },
+  "key": 348
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 7,
+  "field": "steps",
+  "text": {
+   "en": "Place the scored ham in an oven safe dish and pour your maple glaze on top, using a silicone brush to ensure the surface of your ham is completely covered in the glaze.",
+   "es": "Coloque el jamón marcado en un recipiente apto para horno y vierta el glaseado de arce encima, usando una brocha de silicona para asegurarse de que la superficie del jamón quede completamente cubierta con el glaseado."
+  },
+  "key": 349
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 8,
+  "field": "steps",
+  "text": {
+   "en": "Bake uncovered for 15-20 minutes, basting every few minutes. Then you may optionally broil the ham for 2-3 minutes to slightly brown the top, but you can skip this step if preferred.",
+   "es": "Hornee sin tapar de 15 a 20 minutos, untando el glaseado cada pocos minutos. Luego, opcionalmente, puede gratinar el jamón de 2 a 3 minutos para dorar ligeramente la parte superior, pero puede omitir este paso si lo prefiere."
+  },
+  "key": 350
+ },
+ {
+  "recipe_id": 9660403,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "en": "Vegan Ham [Seitan Ham]",
+   "es": "Jamón vegano [jamón de seitán]"
+  },
+  "key": 351
+ },
+ {
+  "recipe_id": 9661912,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "ar": "احرص على تدليك الكيل. لا تتخطَّ هذه الخطوة. فهي تستغرق 2-3 دقائق فقط والنتائج تستحق الجهد بالتأكيد. استخدم عصير برتقال معصورًا طازجًا للحصول على أفضل نكهة على الإطلاق. إذا لم يكن لديك خل التفاح، فاستبدله بخل النبيذ الأبيض أو الخل البلسمي الأبيض بنتائج مماثلة. يُحفظ المتبقي في الثلاجة لمدة 1-2 يوم."
+  },
+  "key": 352
+ },
+ {
+  "recipe_id": 9719129,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Serve chilled or at room temperature, both ways taste great. This dish is very adaptable, feel free to add more ingredients, like black olives, celery, avocado, garlic, green onion, or TEQUILA . For extra heat , use more jalapeno or leave in the seeds. Or add some cayenne pepper or a splash or two of hot sauce to your cowboy caviar dressing. You may prepare the ingredients ahead , but this dish tastes best when the dressing is added no more than 2-3 hours ahead, as the veggies will start to soften. Leftovers keep refrigerated for 3-4 days."
+  },
+  "key": 353
+ },
+ {
+  "recipe_id": 9769795,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "An incredibly delicious vegan strawberry pie made without Jell-o or oil, and low in sugar, without sacrificing flavour!"
+  },
+  "key": 354
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Spicy vegan salami that's meaty, smoky, packed with flavour and truly irresistible. It's easy to make, with a perfectly chewy texture, you may have a hard time believing it's vegan!"
+  },
+  "key": 355
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Make sure to knead and mix your dough very well for even flavour and best texture. Don’t spend too much time fussing over perfectly shaped salami . It will appear bumpy before baking, but gets nice and smooth while it cooks. If you don’t like having foil touch your food , use parchment paper between your salami and aluminum foil layer. For mild vegan salami , simply omit the chili flakes, but keep in the black pepper for best flavour. Keep refrigerated in a sealed container or zip top bag for up to 1 week. Or you may freeze for up to 3 months."
+  },
+  "key": 356
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 4,
+  "field": "steps",
+  "text": {
+   "en": "Now cut your dough into two equally sized pieces and roll them out into salami shapes that will be about 6 inches long. It doesn't have to be perfect, it will get smooth as it cooks. Then wrap each salami with parchment paper and then aluminum foil, making sure the foil is long enough to overlap and then twist the ends. (See process shots above for a visual.)"
+  },
+  "key": 357
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 5,
+  "field": "steps",
+  "text": {
+   "en": "Place the wrapped salami on a baking sheet and bake for 45-55 minutes, flipping them over at the halfway point."
+  },
+  "key": 358
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 6,
+  "field": "steps",
+  "text": {
+   "en": "Remove from the oven and gently peel the foil to see if the salami appear smooth and poke with your finger to test its firmness. They should feel firm, but still give a little to pressure. They will firm up more as they cool."
+  },
+  "key": 359
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 8,
+  "field": "steps",
+  "text": {
+   "en": "Follow steps 2-4 above to prepare your salami. Then add 1-2\" of water to a large pot that will fit your steamer basket, WITHOUT the water touching your basket. Bring to a boil and then reduce heat to maintain a low boil and place the salami inside your basket."
+  },
+  "key": 360
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 9,
+  "field": "steps",
+  "text": {
+   "en": "Cover and steam for 45-60 minutes, keeping an eye on your water to make sure it doesn't completely evaporate. Start checking on them around the 45 minute mark. Gently remove the foil, the salami should appear smooth. You may give it a poke with your finger or tongs to test firmness. They should feel firm but still give a little to pressure. They'll firm up more as they cool."
+  },
+  "key": 361
+ },
+ {
+  "recipe_id": 9807591,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "en": "Spicy Vegan Salami"
+  },
+  "key": 362
+ },
+ {
+  "recipe_id": 9814933,
+  "position": 2,
+  "field": "steps",
+  "text": {
+   "en": "Refrigerate the dip for at least 1 hour before serving it with apple slices, pineapple, strawberries, marshmallows, gingerbread cookies, or graham crackers.",
+   "ar": "ضع الغموس في الثلاجة لمدة ساعة واحدة على الأقل قبل تقديمه مع شرائح التفاح أو الأناناس أو الفراولة أو المارشميلو أو كوكيز خبز الزنجبيل أو بسكويت غراهام."
+  },
+  "key": 363
+ },
+ {
+  "recipe_id": 9858921,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Make sure your potatoes are very crispy before removing them from the oven so they stand up well and don’t get soggy from the sauce. For oil free and less fat, use vegetable stock to toss with your potatoes, instead of oil. Make sure to leave a little extra room in between your potatoes so they don’t stick to one another, and crisp up nicely. For added flavour , toss a little garlic powder, crushed rosemary, and other spices you like to your potato wedges before baking. If you have a high-speed blender , the cheese sauce will warm itself up during blending. If not , transfer it to a small saucepan once smooth to keep warm over low to medium heat while you wait for the potatoes to finish baking. Keep an eye on your pan, you want the sauce warm, not bubbling. Whisk occasionally. Jazz up your healthy poutine with a dollop of cashew cream and pecan “bacon” topping. If you want traditional-style poutine with hot gravy and cheese curds, check out this vegan poutine , instead. Nutritional information is for one-third of the recipe including one-third of my nut-free cheese sauce . If you use another sauce, the info will vary.",
+   "ar": "تأكد من أن البطاطس مقرمشة جدًا قبل إخراجها من الفرن كي تحافظ على شكلها ولا تصبح طرية بسبب الصلصة. للحصول على وصفة خالية من الزيت وأقل دهونًا، استخدم مرق الخضار لتقليب البطاطس بدلًا من الزيت. احرص على ترك مساحة إضافية قليلة بين قطع البطاطس كي لا تلتصق ببعضها وتتقرمش بشكل جيد. ولمزيد من النكهة، أضف قليلًا من مسحوق الثوم وإكليل الجبل المجروش وتوابل أخرى تحبها إلى أسافين البطاطس قبل الخبز. إذا كان لديك خلاط عالي السرعة، فستسخن صلصة الجبن بنفسها أثناء الخلط. وإن لم يكن لديك، فانقلها إلى قدر صغير بعد أن تصبح ناعمة لإبقائها دافئة على نار هادئة إلى متوسطة بينما تنتظر انتهاء خبز البطاطس. راقب القدر، فأنت تريد الصلصة دافئة وليست تغلي. اخفقها من حين لآخر. زيّن البولتين الصحي بكمية من كريمة الكاجو وإضافة «بيكون» البيكان. وإذا أردت بولتين تقليدي بمرق ساخن وقطع جبن، فاطلع على وصفة البولتين النباتي هذه بدلًا منه. المعلومات الغذائية لثلث الوصفة، وتشمل ثلثًا من صلصة الجبن الخالية من المكسرات الخاصة بي. وإذا استخدمت صلصة أخرى، فستختلف المعلومات."
+  },
+  "key": 364
+ },
+ {
+  "recipe_id": 9952260,
+  "position": 0,
+  "field": "description",
+  "text": {
+   "en": "Crunchy, smoky, salty/sweet candied bacon pecans AKA vegan bacon bits are mouth wateringly delicious and incredibly addictive! You'll want to sprinkle these crunchy bits on ALL the things!",
+   "ar": "بيكان بنكهة البيكون المسكّر، المقرمش والمدخن والمالح/الحلو، أو ما يُعرف بقطع البيكون النباتي، شهي يسيل له اللعاب ويسبب الإدمان بشكل لا يُصدَّق! سترغب في رش هذه القطع المقرمشة على كل شيء!"
+  },
+  "key": 365
+ },
+ {
+  "recipe_id": 9952260,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Be mindful not to over process your pecans . Just pulse until broken down and check on them often. You don’t want crumbs ! Make your vegan bacon bits ahead of time so they have a chance to cool, before consuming. One batch doesn’t last very long, so if you want to make some for freezing, double up the recipe! 😉 Keep leftovers in an air tight jar or container at room temperature for up to 1 week, or in the fridge for 2-3 weeks. Freeze air tight for 2 months. Recipe inspired by Fifteen Spatulas",
+   "ar": "احرص على عدم الإفراط في معالجة البيكان. فقط شغّل المحضّرة بنبضات قصيرة حتى يتفتت وتفقّدها كثيرًا. فأنت لا تريد فتاتًا! حضّر قطع البيكون النباتي مسبقًا ليتاح لها وقت للتبريد قبل تناولها. فالدفعة الواحدة لا تدوم طويلًا، لذا إذا أردت تحضير بعضها للتجميد، فضاعف الوصفة! 😉 احفظ المتبقي في برطمان أو وعاء محكم الإغلاق في درجة حرارة الغرفة لمدة تصل إلى أسبوع، أو في الثلاجة لمدة 2-3 أسابيع. جمّده في وعاء محكم الإغلاق لمدة شهرين. الوصفة مستوحاة من Fifteen Spatulas"
+  },
+  "key": 366
+ },
+ {
+  "recipe_id": 9952260,
+  "position": 0,
+  "field": "title",
+  "text": {
+   "en": "Candied Bacon Pecans",
+   "ar": "بيكان بنكهة البيكون المسكّر"
+  },
+  "key": 367
+ },
+ {
+  "recipe_id": 9968027,
+  "position": 1,
+  "field": "hints",
+  "text": {
+   "en": "Make sure to purchase jackfruit that is canned in water or brine, and not syrup. The syrupy kind is very sweet and you want it to absorb the BBQ sauce flavour, and not be overpowered by the syrupy taste. If you’re short on time, or don’t want to make your own BBQ sauce, you may sub for a store bought sauce instead. Use about ¾ cup of prepared sauce in replacement of the homemade version. If you prefer some crispy edges on your jackfruit, transfer it, once cooked, to a baking tray in a single layer and bake at 375 degrees for 15-20 minutes before adding to your nachos. For oil free chips, here’s a recipe by Sweet Simple Vegan to make your own healthy tortilla chips . Remember, the jackfruit is the star of the show, so add a generous layer to your chips before sprinkling additional toppings. If you have leftovers, store in a sealed container in the refrigerator for up to 5 days. Use your leftovers to make a vegan “pulled pork” style sandwich topped with my creamy vegan coleslaw .",
+   "ar": "احرص على شراء جاك فروت معلب في الماء أو المحلول الملحي، وليس في الشراب. فالنوع المعلب في الشراب شديد الحلاوة وأنت تريده أن يمتص نكهة صلصة الشواء، وألا يطغى عليه طعم الشراب. وإذا كان وقتك ضيقًا، أو لا تريد تحضير صلصة الشواء بنفسك، فيمكنك استبدالها بصلصة جاهزة. استخدم حوالي ¾ كوب من الصلصة الجاهزة بدلًا من النسخة المنزلية. وإذا كنت تفضّل بعض الحواف المقرمشة في الجاك فروت، فانقله بعد الطهي إلى صينية خبز في طبقة واحدة واخبزه على 375 درجة (190° مئوية) لمدة 15-20 دقيقة قبل إضافته إلى الناتشوز. وللحصول على رقائق خالية من الزيت، إليك وصفة من Sweet Simple Vegan لتحضير رقائق التورتيلا الصحية بنفسك. تذكّر أن الجاك فروت هو نجم الطبق، لذا ضع طبقة سخية منه على الرقائق قبل رش الإضافات الأخرى. وإذا بقي لديك شيء، فاحفظه في وعاء محكم الإغلاق في الثلاجة لمدة تصل إلى 5 أيام. استخدم المتبقي لعمل ساندويتش نباتي على نمط «لحم الخنزير المسحوب» مغطى بسلطة الكولسلو النباتية الكريمية الخاصة بي."
+  },
+  "key": 368
+ }
+]

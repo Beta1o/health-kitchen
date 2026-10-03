@@ -1,0 +1,46 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt"
+  },
+  {
+   "fdc": 171314,
+   "g": 15,
+   "name": "ghee"
+  },
+  {
+   "fdc": 173944,
+   "g": 300,
+   "name": "ripe bananas, peeled"
+  },
+  {
+   "fdc": 171726,
+   "g": 40,
+   "name": "dates, pitted"
+  },
+  {
+   "fdc": 170858,
+   "g": 40,
+   "name": "light cream (qishta)"
+  },
+  {
+   "fdc": 169640,
+   "g": 20,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ]
+}

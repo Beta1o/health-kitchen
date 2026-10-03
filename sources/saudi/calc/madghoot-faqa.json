@@ -1,0 +1,35 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 169251,
+   "g": 400,
+   "name": "desert truffles (faqa) - white mushroom used as proxy"
+  },
+  {
+   "fdc": 169756,
+   "g": 200,
+   "name": "basmati rice, raw"
+  },
+  {
+   "fdc": 170457,
+   "g": 330,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

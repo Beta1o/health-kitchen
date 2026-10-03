@@ -1,0 +1,71 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 60,
+   "name": "white flour"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "fdc": 175043,
+   "g": 4,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 169655,
+   "g": 5,
+   "name": "sugar 1 tsp",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171413,
+   "g": 5,
+   "name": "oil for the pan"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp (kashna)"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170427,
+   "g": 80,
+   "name": "green pepper"
+  },
+  {
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

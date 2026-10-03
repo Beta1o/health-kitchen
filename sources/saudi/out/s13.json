@@ -1,0 +1,2020 @@
+[
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "areeka",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17903-1.html",
+  "lang": "ar",
+  "title": "العريكة الجنوبية",
+  "description": "العريكة حلى شعبي من جنوب المملكة (عسير والباحة)، تُخبز فيها عجينة البر ثم تُعرك وهي ساخنة وتُقدّم مع السمن والعسل والتمر بجانب القهوة العربية. في هذه النسخة دقيق بر كامل محمّص، وكمية صغيرة من السمن، ونصف كمية العسل المعتادة مع تمر للتحلية، وحصة صغيرة.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "زبدية صغيرة (120 غ)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 208,
+   "protein_g": 5.5,
+   "carbohydrates_g": 42.1,
+   "fat_g": 3.5,
+   "cholesterol_mg": 8,
+   "sodium_mg": 66,
+   "potassium_mg": 214,
+   "phosphorus_mg": 149,
+   "calcium_mg": 18,
+   "fiber_g": 5.1,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "240 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    "للعجينة",
+    "500 مل ماء دافئ"
+   ],
+   [
+    "للعجينة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعجينة",
+    "1 ملعقة صغيرة سمن لدهن الصينية (5 غ)"
+   ],
+   [
+    "للتقديم",
+    "2 ملعقة صغيرة سمن (10 غ)"
+   ],
+   [
+    "للتقديم",
+    "2 ملعقة كبيرة عسل (42 غ)"
+   ],
+   [
+    "للتقديم",
+    "6 تمرات منزوعة النوى (60 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "حمّص دقيق البر في قدر جاف على نار هادئة 3–4 دقائق مع التحريك حتى تفوح رائحته، ثم اتركه يبرد قليلاً."
+   ],
+   [
+    null,
+    "أضف الملح ثم الماء الدافئ تدريجياً واخلط حتى تحصل على عجينة لينة أثقل قليلاً من خليط الكيك، واتركها ترتاح 15 دقيقة."
+   ],
+   [
+    null,
+    "ادهن مقلاة غير لاصقة أو صينية بملعقة السمن الأولى، وافرد العجينة فيها واخبزها في فرن مسخّن على 200°م حوالي 30 دقيقة، أو على نار هادئة مع القلب حتى تنضج من الجهتين."
+   ],
+   [
+    null,
+    "ضع الخبزة وهي ساخنة في كيس نظيف أو وعاء واعركها بيديك (مع قطعة قماش تحمي من الحرارة) حتى تصبح عجينة ناعمة متماسكة. يمكن إضافة ملعقة ماء ساخن إذا جفّت."
+   ],
+   [
+    null,
+    "شكّلها في زبدية واصنع حفرة في الوسط، ثم ضع فيها السمن المذوب ووزّع العسل على الأطراف وزيّنها بالتمر."
+   ],
+   [
+    null,
+    "قسّمها 6 حصص صغيرة وقدّمها دافئة مع القهوة العربية."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر كامل بدل الأبيض، 2.5 غ سمن تقريباً للحصة بدل الكميات الكبيرة، ونصف العسل المعتاد مع التمر للتحلية، وحصص صغيرة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر والتمر فيهما فوسفور وبوتاسيوم أكثر من الدقيق الأبيض؛ اكتفِ بحصة واحدة، ويمكن استبدال نصف دقيق البر بدقيق أبيض وتقليل التمر إلى تمرة واحدة للحصة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 42 غ كربوهيدرات؛ احسبها ضمن وجبتك، واجعلها مع القهوة بدون سكر، وتجنّب زيادة العسل."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، يمي ليالينا، بيوت"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT25M",
+  "cook_time": "PT35M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "areeka-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17903-1.html",
+  "lang": "en",
+  "title": "Southern Areeka",
+  "description": "Areeka is a traditional sweet from southern Saudi Arabia (Asir and Al-Baha): a whole-wheat dough is baked, kneaded while hot and served with ghee, honey and dates alongside Arabic coffee. This version uses toasted whole-wheat flour, a small amount of ghee, half the usual honey with dates for sweetness, and a small portion.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "1 small bowl (120 g)",
+  "category": "Desserts",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 208,
+   "protein_g": 5.5,
+   "carbohydrates_g": 42.1,
+   "fat_g": 3.5,
+   "cholesterol_mg": 8,
+   "sodium_mg": 66,
+   "potassium_mg": 214,
+   "phosphorus_mg": 149,
+   "calcium_mg": 18,
+   "fiber_g": 5.1,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "240 g whole-wheat (burr) flour"
+   ],
+   [
+    "For the dough",
+    "500 ml warm water"
+   ],
+   [
+    "For the dough",
+    "1 pinch salt (1 g)"
+   ],
+   [
+    "For the dough",
+    "1 tsp ghee for greasing the pan (5 g)"
+   ],
+   [
+    "To serve",
+    "2 tsp ghee (10 g)"
+   ],
+   [
+    "To serve",
+    "2 tbsp honey (42 g)"
+   ],
+   [
+    "To serve",
+    "6 dates, pitted (60 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Toast the whole-wheat flour in a dry pot over low heat for 3–4 minutes, stirring, until it smells nutty, then let it cool a little."
+   ],
+   [
+    null,
+    "Add the salt, then the warm water gradually, and mix to a soft dough a little thicker than cake batter; rest it for 15 minutes."
+   ],
+   [
+    null,
+    "Grease a non-stick pan or tray with the first teaspoon of ghee, spread the dough in it and bake in an oven heated to 200 °C for about 30 minutes, or cook over low heat, turning once, until done on both sides."
+   ],
+   [
+    null,
+    "While it is hot, put the bread in a clean bag or bowl and knead it with your hands (protected with a cloth) until smooth and cohesive. Add a spoonful of hot water if it gets dry."
+   ],
+   [
+    null,
+    "Shape it in a serving bowl, make a well in the centre, pour the melted ghee into it, drizzle the honey around the edge and decorate with the dates."
+   ],
+   [
+    null,
+    "Divide into 6 small portions and serve warm with Arabic coffee."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat flour instead of white, about 2.5 g ghee per portion instead of large amounts, half the usual honey with dates for sweetness, and small portions."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour and dates have more phosphorus and potassium than white flour; keep to one portion, and you can swap half the whole-wheat flour for white flour and use one date per portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 42 g carbohydrate; count it in your meal, have it with unsweetened coffee and do not add extra honey."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Yummy Layalina, Bayut"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT25M",
+  "cook_time": "PT35M",
+  "total_time": "PT1H",
+  "translation_of": "areeka"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "khubza-janub",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14584-1.html",
+  "lang": "ar",
+  "title": "خبزة الجنوب مع المرق والإيدام",
+  "description": "وجبة شعبية من جنوب المملكة (عسير والباحة): خبزة بر من التنور أو الفرن تُغمس في مرق لحم وإيدام خضار. في هذه النسخة لحم ضأن قليل الدهن، وخضار أكثر، وبدون مكعبات مرقة، وملح قليل، وخبزة من دقيق البر.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "خبزة صغيرة مع طبق مرق وإيدام (450 غ)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Stew",
+   "Bread"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 520,
+   "protein_g": 38.1,
+   "carbohydrates_g": 65.7,
+   "fat_g": 13.1,
+   "cholesterol_mg": 84,
+   "sodium_mg": 614,
+   "potassium_mg": 1283,
+   "phosphorus_mg": 534,
+   "calcium_mg": 103,
+   "fiber_g": 10.6,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للخبزة",
+    "180 غ دقيق بر و60 غ دقيق أبيض"
+   ],
+   [
+    "للخبزة",
+    "1 ملعقة صغيرة خميرة فورية (3 غ)"
+   ],
+   [
+    "للخبزة",
+    "¼ ملعقة صغيرة ملح (1.5 غ)"
+   ],
+   [
+    "للخبزة",
+    "حوالي 160 مل ماء دافئ"
+   ],
+   [
+    "للخبزة",
+    "2 ملعقة صغيرة سمسم وحبة البركة (5 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "520 غ لحم ضأن قليل الدهن منزوع العظم ومقطّع مكعبات صغيرة"
+   ],
+   [
+    "للمرق والإيدام",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للمرق والإيدام",
+    "1 بصلة كبيرة مفرومة (150 غ) و2 فص ثوم (10 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "2 طماطم مبشورة (200 غ) و1 ملعقة كبيرة معجون طماطم بدون ملح (15 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "150 غ فاصوليا خضراء و200 غ كوسة و150 غ جزر، مقطعة قطعاً صغيرة"
+   ],
+   [
+    "للمرق والإيدام",
+    "1 حبة بطاطس صغيرة مقطعة ومنقوعة (120 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "1 فلفل أخضر رومي (80 غ) و1 فلفل حار (15 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "1 ملعقة صغيرة بهارات مشكلة (بزار)، ½ ملعقة صغيرة كمون، عود قرفة"
+   ],
+   [
+    "للمرق والإيدام",
+    "½ ملعقة صغيرة ملح (3.5 غ)"
+   ],
+   [
+    "للمرق والإيدام",
+    "حوالي 1 لتر ماء ساخن"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "للخبزة: اخلط الدقيقين مع الخميرة والملح، وأضف الماء الدافئ تدريجياً واعجن حتى تحصل على عجينة لينة. غطّها واتركها تتخمر 45–60 دقيقة."
+   ],
+   [
+    null,
+    "للمرق: سخّن الزيت في قدر وقلّب البصل حتى يذبل، ثم أضف اللحم والثوم وقلّبه حتى يتغيّر لونه."
+   ],
+   [
+    null,
+    "أضف الطماطم ومعجون الطماطم والبهارات والقرفة واتركها تتسبك 10 دقائق."
+   ],
+   [
+    null,
+    "أضف الماء الساخن والملح، وغطِّ القدر واتركه على نار هادئة 50 دقيقة حتى يقترب اللحم من النضج."
+   ],
+   [
+    null,
+    "صفِّ ماء نقع البطاطس، وأضف البطاطس والفاصوليا والجزر والكوسة والفلفل، واتركها 20–25 دقيقة حتى تنضج الخضار. اسكب جزءاً من المرق الصافي في أكواب وابقِ الباقي إيداماً أثقل."
+   ],
+   [
+    null,
+    "أثناء طهي المرق: سخّن الفرن على 230°م مع صينية فيه. قسّم العجينة 4 أقراص وافردها بيد مبللة، ورشّ عليها السمسم وحبة البركة."
+   ],
+   [
+    null,
+    "اخبز الأقراص على الصينية الساخنة بحرارة سفلية 8–10 دقائق ثم شغّل الحرارة العلوية حتى يتحمّر الوجه."
+   ],
+   [
+    null,
+    "قدّم كل خبزة ساخنة مع طبق من المرق والإيدام."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم قليل الدهن، بدون مكعبات مرقة، ملح أقل من ¼ ملعقة صغيرة للحصة، ملعقة زيت واحدة للقدر كله، خضار أكثر، وخبزة من البر بدل الدقيق الأبيض مع السمن والعسل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: اللحم ودقيق البر فيهما فوسفور، والطماطم ومعجونها والبطاطس فيها بوتاسيوم؛ انقع البطاطس المقطعة في ماء ساخن ساعتين أو اسلقها وتخلّص من الماء، ويمكن الاستغناء عنها وعن المعجون، واكتفِ بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 66 غ كربوهيدرات معظمها من الخبزة؛ يمكن أكل نصف الخبزة مع مزيد من الخضار وسلطة خضراء."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، سيدتي مطبخ، معارف"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "khubza-janub-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-14584-1.html",
+  "lang": "en",
+  "title": "Southern Bread with Broth",
+  "description": "A traditional meal from southern Saudi Arabia (Asir and Al-Baha): whole-wheat bread from the tannour or oven, dipped into a meat broth (marag) and vegetable stew (idam). This version uses lean lamb, more vegetables, no stock cubes, little salt and a whole-wheat bread.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 small bread with a bowl of broth and stew (450 g)",
+  "category": "Soups & Stews",
+  "diet": [],
+  "dish": [
+   "Stew",
+   "Bread"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 520,
+   "protein_g": 38.1,
+   "carbohydrates_g": 65.7,
+   "fat_g": 13.1,
+   "cholesterol_mg": 84,
+   "sodium_mg": 614,
+   "potassium_mg": 1283,
+   "phosphorus_mg": 534,
+   "calcium_mg": 103,
+   "fiber_g": 10.6,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the bread",
+    "180 g whole-wheat (burr) flour and 60 g white flour"
+   ],
+   [
+    "For the bread",
+    "1 tsp instant yeast (3 g)"
+   ],
+   [
+    "For the bread",
+    "¼ tsp salt (1.5 g)"
+   ],
+   [
+    "For the bread",
+    "about 160 ml warm water"
+   ],
+   [
+    "For the bread",
+    "2 tsp sesame and nigella seeds (5 g)"
+   ],
+   [
+    "For the marag and idam",
+    "520 g lean boneless lamb, trimmed and cut into small cubes"
+   ],
+   [
+    "For the marag and idam",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For the marag and idam",
+    "1 large onion, chopped (150 g) and 2 garlic cloves (10 g)"
+   ],
+   [
+    "For the marag and idam",
+    "2 tomatoes, grated (200 g) and 1 tbsp no-salt tomato paste (15 g)"
+   ],
+   [
+    "For the marag and idam",
+    "150 g green beans, 200 g zucchini and 150 g carrots, cut small"
+   ],
+   [
+    "For the marag and idam",
+    "1 small potato, cut and soaked (120 g)"
+   ],
+   [
+    "For the marag and idam",
+    "1 green bell pepper (80 g) and 1 hot chilli (15 g)"
+   ],
+   [
+    "For the marag and idam",
+    "1 tsp mixed spices (bezar), ½ tsp cumin, 1 cinnamon stick"
+   ],
+   [
+    "For the marag and idam",
+    "½ tsp salt (3.5 g)"
+   ],
+   [
+    "For the marag and idam",
+    "about 1 l hot water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "For the bread: mix both flours with the yeast and salt, add the warm water gradually and knead to a soft dough. Cover and leave to rise for 45–60 minutes."
+   ],
+   [
+    null,
+    "For the marag: heat the oil in a pot and cook the onion until soft, then add the meat and garlic and stir until the meat changes colour."
+   ],
+   [
+    null,
+    "Add the tomatoes, tomato paste, spices and cinnamon and simmer for 10 minutes."
+   ],
+   [
+    null,
+    "Add the hot water and salt, cover and simmer for 50 minutes until the meat is almost tender."
+   ],
+   [
+    null,
+    "Drain the potato, add it with the beans, carrots, zucchini and peppers, and cook for 20–25 minutes until the vegetables are tender. Ladle some clear broth into small bowls and keep the rest as a thicker idam."
+   ],
+   [
+    null,
+    "While the marag cooks, heat the oven to 230 °C with a tray inside. Divide the dough into 4 pieces, flatten them with wet hands and sprinkle with the sesame and nigella seeds."
+   ],
+   [
+    null,
+    "Bake the breads on the hot tray with bottom heat for 8–10 minutes, then switch to top heat until golden."
+   ],
+   [
+    null,
+    "Serve each hot bread with a bowl of broth and idam."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean meat, no stock cubes, less than ¼ tsp salt per portion, one spoon of oil for the whole pot, more vegetables, and a whole-wheat bread instead of white bread with ghee and honey."
+   ],
+   [
+    null,
+    "Kidney tip: the meat and whole-wheat flour contain phosphorus, and the tomatoes, tomato paste and potato add potassium; soak the cut potato in hot water for 2 hours or boil it and discard the water, or leave out the potato and paste, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 66 g carbohydrate, mostly from the bread; you can eat half the bread with more vegetables and a green salad."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, M3aarf"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT30M",
+  "cook_time": "PT1H30M",
+  "total_time": "PT2H",
+  "translation_of": "khubza-janub"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mathriya",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13525-1.html",
+  "lang": "ar",
+  "title": "المثرية",
+  "description": "المثرية أكلة شعبية شتوية من جنوب المملكة: دقيق بر يُفرك بقليل من الماء حتى يصبح حبيبات ثم يُطبخ في ماء مغلي حتى يثقل، ويُقدّم بالسمن والعسل. في هذه النسخة دقيق بر كامل، وملح قليل، ونصف كمية السمن والعسل المعتادة تقريباً.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "زبدية صغيرة (230 غ)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [
+   "5 or less ingredients",
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 218,
+   "protein_g": 6.6,
+   "carbohydrates_g": 41.8,
+   "fat_g": 4.2,
+   "cholesterol_mg": 9,
+   "sodium_mg": 98,
+   "potassium_mg": 185,
+   "phosphorus_mg": 179,
+   "calcium_mg": 18,
+   "fiber_g": 5.4,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    null,
+    "حوالي 900 مل ماء (800 مل للغلي و100 مل للفرك)"
+   ],
+   [
+    null,
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للتقديم",
+    "2.5 ملعقة صغيرة سمن (12 غ)"
+   ],
+   [
+    "للتقديم",
+    "4 ملاعق صغيرة عسل (28 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "ضع 800 مل ماء في قدر مع الملح على نار متوسطة حتى يغلي."
+   ],
+   [
+    null,
+    "انثر الدقيق في صحن واسع، ورشّ عليه الماء الباقي قليلاً قليلاً وافركه بأطراف أصابعك حتى يتكتّل حبيبات صغيرة مثل الرمل الخشن."
+   ],
+   [
+    null,
+    "أضف الحبيبات إلى الماء المغلي تدريجياً مع التحريك المستمر حتى تصل للقوام الثقيل المرغوب."
+   ],
+   [
+    null,
+    "خفّف النار واتركها تنضج 20–30 دقيقة مع التحريك من وقت لآخر حتى تفقد طعم الدقيق النيء."
+   ],
+   [
+    null,
+    "اسكبها في 4 زبديات صغيرة، واصنع حفرة صغيرة في الوسط، وضع في كل حفرة 3 غ سمن وملعقة صغيرة عسل، وقدّمها ساخنة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر كامل، ملح قليل جداً (الوصفات المعتادة تضع ملعقة كبيرة)، وحوالي نصف كمية السمن والعسل المعتادة."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر فيه فوسفور وبوتاسيوم أكثر من الأبيض؛ يمكن استخدام نصف دقيق بر ونصف دقيق أبيض، والتزم بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 42 غ كربوهيدرات؛ يمكن الاستغناء عن العسل ورشّ قليل من القرفة، وتناولها مع بيضة مسلوقة أو لبن قليل الدسم لإبطاء ارتفاع السكر."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، صدى البلد، جست فود"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "mathriya-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13525-1.html",
+  "lang": "en",
+  "title": "Mathriya",
+  "description": "Mathriya is a traditional winter dish from southern Saudi Arabia: whole-wheat flour is rubbed with a little water into small crumbs, cooked in boiling water until thick, and served with ghee and honey. This version uses whole-wheat flour, little salt, and about half the usual ghee and honey.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 small bowl (230 g)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [
+   "5 or less ingredients",
+   "Budget"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 218,
+   "protein_g": 6.6,
+   "carbohydrates_g": 41.8,
+   "fat_g": 4.2,
+   "cholesterol_mg": 9,
+   "sodium_mg": 98,
+   "potassium_mg": 185,
+   "phosphorus_mg": 179,
+   "calcium_mg": 18,
+   "fiber_g": 5.4,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "200 g whole-wheat (burr) flour"
+   ],
+   [
+    null,
+    "about 900 ml water (800 ml for boiling and 100 ml for rubbing)"
+   ],
+   [
+    null,
+    "1 pinch salt (1 g)"
+   ],
+   [
+    "To serve",
+    "2½ tsp ghee (12 g)"
+   ],
+   [
+    "To serve",
+    "4 tsp honey (28 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Bring 800 ml water with the salt to the boil in a pot over medium heat."
+   ],
+   [
+    null,
+    "Spread the flour in a wide dish, sprinkle the remaining water over it a little at a time and rub it with your fingertips until it forms small crumbs like coarse sand."
+   ],
+   [
+    null,
+    "Add the crumbs to the boiling water gradually, stirring all the time, until it reaches the thick texture you like."
+   ],
+   [
+    null,
+    "Lower the heat and cook for 20–30 minutes, stirring now and then, until the raw flour taste is gone."
+   ],
+   [
+    null,
+    "Spoon it into 4 small bowls, make a small hollow in the middle, add 3 g ghee and 1 tsp honey to each and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat flour, very little salt (usual recipes use a whole tablespoon), and about half the usual ghee and honey."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour has more phosphorus and potassium than white flour; you can use half whole-wheat and half white flour, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 42 g carbohydrate; you can skip the honey and sprinkle a little cinnamon, and have it with a boiled egg or low-fat laban to slow the rise in blood sugar."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Elbalad News, Just Food"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "translation_of": "mathriya"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "marsa-jazan",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10311-1.html",
+  "lang": "ar",
+  "title": "المرسة الجيزانية",
+  "description": "المرسة أكلة شعبية من منطقة جازان: رقاق يُخبز على الصاج أو في الميفا ثم يُفرم ويُعجن مع الموز المهروس، ويُقدّم بالسمن والعسل وغالباً بجانب السمك. في هذه النسخة جزء من الدقيق بر كامل، وملعقتا زيت فقط في العجين، ونصف السمن والعسل المعتادين.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق صغير (170 غ)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 299,
+   "protein_g": 6.7,
+   "carbohydrates_g": 56.3,
+   "fat_g": 6.6,
+   "cholesterol_mg": 9,
+   "sodium_mg": 99,
+   "potassium_mg": 349,
+   "phosphorus_mg": 142,
+   "calcium_mg": 17,
+   "fiber_g": 5.3,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للعجينة",
+    "120 غ دقيق بر و80 غ دقيق أبيض"
+   ],
+   [
+    "للعجينة",
+    "2 ملعقة صغيرة زيت زيتون (10 مل)"
+   ],
+   [
+    "للعجينة",
+    "رشة ملح (1 غ)"
+   ],
+   [
+    "للعجينة",
+    "حوالي 130 مل ماء"
+   ],
+   [
+    null,
+    "2 حبة موز ناضجة متوسطة (240 غ بدون قشر)"
+   ],
+   [
+    "للتقديم",
+    "2.5 ملعقة صغيرة سمن (12 غ)"
+   ],
+   [
+    "للتقديم",
+    "4 ملاعق صغيرة عسل (28 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين مع الملح والزيت، وأضف الماء تدريجياً واعجن حتى تحصل على عجينة طرية، واتركها ترتاح 15 دقيقة."
+   ],
+   [
+    null,
+    "قسّم العجينة 3 أقراص وافرد كل قرص رقيقاً، واخبزه في مقلاة غير لاصقة على نار متوسطة من الجهتين حتى يتحمّر ويصبح مقرمشاً قليلاً."
+   ],
+   [
+    null,
+    "قطّع الأقراص وهي ساخنة قطعاً صغيرة جداً أو افرمها في محضّرة الطعام."
+   ],
+   [
+    null,
+    "اهرس الموز بالشوكة في وعاء، ثم أضف الخبز المفروم واعجنهما معاً حتى يتجانسا."
+   ],
+   [
+    null,
+    "ضع المرسة في طبق التقديم وسوِّ سطحها، ثم اسكب السمن المذوب ووزّع العسل فوقها، وقسّمها 4 حصص."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: نصف الدقيق بر كامل، زيت قليل في العجين بدل الدهن الكثير، وحوالي نصف كمية السمن والعسل المعتادة، والموز هو مصدر الحلاوة الأساسي."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الموز غني بالبوتاسيوم (حوالي 90 غ موز في الحصة)؛ يمكن تقليله إلى موزة واحدة مع زيادة قليل من العسل أو استخدام دقيق أبيض فقط، والتزم بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 56 غ كربوهيدرات؛ قدّمها مع قطعة سمك مشوي (تُقدّم تقليدياً مع السمك) وسلطة خضراء، ويمكن تقليل العسل أو الاستغناء عنه."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، جريدة المدينة، كوكباد"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "marsa-jazan-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10311-1.html",
+  "lang": "en",
+  "title": "Jazani Marsa",
+  "description": "Marsa is a traditional dish from the Jazan region: a thin bread baked on a griddle or in the mifa oven is chopped fine and kneaded with mashed banana, then served with ghee and honey, often next to fish. This version uses part whole-wheat flour, only two teaspoons of oil in the dough, and half the usual ghee and honey.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 small plate (170 g)",
+  "category": "Breakfast & Brunch",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 299,
+   "protein_g": 6.7,
+   "carbohydrates_g": 56.3,
+   "fat_g": 6.6,
+   "cholesterol_mg": 9,
+   "sodium_mg": 99,
+   "potassium_mg": 349,
+   "phosphorus_mg": 142,
+   "calcium_mg": 17,
+   "fiber_g": 5.3,
+   "added_sugar_g": 5.7
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the dough",
+    "120 g whole-wheat flour and 80 g white flour"
+   ],
+   [
+    "For the dough",
+    "2 tsp olive oil (10 ml)"
+   ],
+   [
+    "For the dough",
+    "1 pinch salt (1 g)"
+   ],
+   [
+    "For the dough",
+    "about 130 ml water"
+   ],
+   [
+    null,
+    "2 medium ripe bananas (240 g peeled)"
+   ],
+   [
+    "To serve",
+    "2½ tsp ghee (12 g)"
+   ],
+   [
+    "To serve",
+    "4 tsp honey (28 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the salt and oil, add the water gradually and knead to a soft dough; rest it for 15 minutes."
+   ],
+   [
+    null,
+    "Divide the dough into 3 pieces, roll each thin and cook in a non-stick pan over medium heat on both sides until golden and slightly crisp."
+   ],
+   [
+    null,
+    "While hot, chop the breads very fine or pulse them in a food processor."
+   ],
+   [
+    null,
+    "Mash the bananas with a fork in a bowl, add the chopped bread and knead together until even."
+   ],
+   [
+    null,
+    "Press the marsa into a serving dish and smooth the top, pour over the melted ghee, drizzle with the honey and divide into 4 portions."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: part whole-wheat flour, a little oil in the dough instead of lots of fat, about half the usual ghee and honey, and the banana gives most of the sweetness."
+   ],
+   [
+    null,
+    "Kidney tip: banana is high in potassium (about 90 g banana per portion); you can use one banana only, or all white flour, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 56 g carbohydrate; serve it with a piece of grilled fish (it is traditionally eaten with fish) and a green salad, and you can reduce or skip the honey."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Al-Madina newspaper, Cookpad"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "translation_of": "marsa-jazan"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "maghash-jazan",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10310-1.html",
+  "lang": "ar",
+  "title": "المغش الجيزاني",
+  "description": "المغش طبق شعبي من منطقة جازان يُطهى في قدر حجري (المغش) داخل التنور (الميفا) أو الفرن: لحم ضأن مع البامية والبطاطس والطماطم والبصل والبهارات. في هذه النسخة لحم قليل الدهن، وملعقة زيت واحدة، وخضار أكثر، وبدون مكعبات مرقة، وملح قليل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق (330 غ)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal",
+   "Stew"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 311,
+   "protein_g": 32.1,
+   "carbohydrates_g": 20.2,
+   "fat_g": 11.6,
+   "cholesterol_mg": 91,
+   "sodium_mg": 592,
+   "potassium_mg": 1098,
+   "phosphorus_mg": 370,
+   "calcium_mg": 90,
+   "fiber_g": 4.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "560 غ لحم ضأن قليل الدهن منزوع العظم ومقطع مكعبات"
+   ],
+   [
+    null,
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    null,
+    "1 بصلة كبيرة مقطعة شرائح (150 غ)"
+   ],
+   [
+    null,
+    "2 فص ثوم مهروس (10 غ)"
+   ],
+   [
+    null,
+    "3 طماطم مقطعة (300 غ)"
+   ],
+   [
+    null,
+    "200 غ بامية طازجة أو مجمدة"
+   ],
+   [
+    null,
+    "1 حبة بطاطس متوسطة مقطعة ومنقوعة (150 غ)"
+   ],
+   [
+    null,
+    "1 كوسة مقطعة (150 غ)"
+   ],
+   [
+    null,
+    "1 فلفل رومي أخضر (100 غ) و1 فلفل حار (15 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة كمون، 1 ملعقة صغيرة كزبرة مطحونة، ½ ملعقة صغيرة فلفل أسود، ¼ ملعقة صغيرة هيل"
+   ],
+   [
+    null,
+    "¾ ملعقة صغيرة ملح (5 غ)"
+   ],
+   [
+    null,
+    "250 مل ماء ساخن"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "سخّن الفرن على 180°م. ادهن قدر المغش الحجري أو قدراً ثقيلاً يصلح للفرن (أو طاجن فخار) بالزيت."
+   ],
+   [
+    null,
+    "اهرس الثوم مع الكمون والكزبرة والفلفل الأسود والهيل والملح، وافرك بها مكعبات اللحم."
+   ],
+   [
+    null,
+    "صفِّ ماء نقع البطاطس. رتّب في القدر طبقة البصل ثم البامية واللحم، ثم الطماطم والبطاطس والكوسة والفلفل."
+   ],
+   [
+    null,
+    "أضف الماء الساخن، وغطِّ القدر بإحكام بغطائه أو بورق القصدير."
+   ],
+   [
+    null,
+    "اطهه في الفرن ساعتين حتى يصبح اللحم طرياً جداً، وافحصه بعد ساعة وأضف قليلاً من الماء إذا جفّ."
+   ],
+   [
+    null,
+    "قدّمه في القدر نفسه وهو يغلي."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: لحم قليل الدهن، ملعقة زيت واحدة للقدر، بدون مكعبات مرقة، ملح أقل من ¼ ملعقة صغيرة للحصة، وخضار أكثر."
+   ],
+   [
+    null,
+    "لمرضى الكلى: الطماطم والبطاطس والبامية فيها بوتاسيوم واللحم فيه فوسفور؛ اسلق البطاطس المقطعة أو انقعها في ماء ساخن ساعتين وتخلّص من الماء، ويمكن استبدالها بمزيد من الكوسة، والتزم بحصة واحدة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 20 غ كربوهيدرات فقط؛ يُقدّم تقليدياً مع الأرز أو الخبز، فاكتفِ بـ 150 غ أرز مطبوخ (بسمتي أو بني) أو نصف رغيف بر مع سلطة خضراء."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، يمي ليالينا، كوكنستا، وكالة الأنباء السعودية"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT2H",
+  "total_time": "PT2H20M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "maghash-jazan-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-10310-1.html",
+  "lang": "en",
+  "title": "Jazani Maghash",
+  "description": "Maghash is a traditional dish from the Jazan region, slow-cooked in a stone pot (the maghash) inside the mifa oven or a home oven: lamb with okra, potato, tomato, onion and spices. This version uses lean lamb, one spoon of oil, more vegetables, no stock cubes and little salt.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 plate (330 g)",
+  "category": "Beef, Lamb & Pork",
+  "diet": [],
+  "dish": [
+   "One-Dish Meal",
+   "Stew"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 311,
+   "protein_g": 32.1,
+   "carbohydrates_g": 20.2,
+   "fat_g": 11.6,
+   "cholesterol_mg": 91,
+   "sodium_mg": 592,
+   "potassium_mg": 1098,
+   "phosphorus_mg": 370,
+   "calcium_mg": 90,
+   "fiber_g": 4.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "560 g lean boneless lamb, trimmed and cubed"
+   ],
+   [
+    null,
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    null,
+    "1 large onion, sliced (150 g)"
+   ],
+   [
+    null,
+    "2 garlic cloves, crushed (10 g)"
+   ],
+   [
+    null,
+    "3 tomatoes, chopped (300 g)"
+   ],
+   [
+    null,
+    "200 g fresh or frozen okra"
+   ],
+   [
+    null,
+    "1 medium potato, cut and soaked (150 g)"
+   ],
+   [
+    null,
+    "1 zucchini, sliced (150 g)"
+   ],
+   [
+    null,
+    "1 green bell pepper (100 g) and 1 hot chilli (15 g)"
+   ],
+   [
+    null,
+    "1 tsp cumin, 1 tsp ground coriander, ½ tsp black pepper, ¼ tsp cardamom"
+   ],
+   [
+    null,
+    "¾ tsp salt (5 g)"
+   ],
+   [
+    null,
+    "250 ml hot water"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Heat the oven to 180 °C. Brush a stone maghash pot, or a heavy ovenproof pot or clay casserole, with the oil."
+   ],
+   [
+    null,
+    "Crush the garlic with the cumin, coriander, black pepper, cardamom and salt, and rub the mixture into the meat."
+   ],
+   [
+    null,
+    "Drain the potato. Layer the onion in the pot, then the okra and meat, then the tomato, potato, zucchini and peppers."
+   ],
+   [
+    null,
+    "Add the hot water and cover tightly with a lid or foil."
+   ],
+   [
+    null,
+    "Cook in the oven for 2 hours until the meat is very tender; check after an hour and add a little water if it looks dry."
+   ],
+   [
+    null,
+    "Serve it bubbling in the same pot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: lean meat, one spoon of oil for the whole pot, no stock cubes, less than ¼ tsp salt per portion, and more vegetables."
+   ],
+   [
+    null,
+    "Kidney tip: the tomato, potato and okra contain potassium and the meat contains phosphorus; boil the cut potato or soak it in hot water for 2 hours and discard the water, or replace it with more zucchini, and keep to one portion."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has only about 20 g carbohydrate; it is traditionally served with rice or bread, so keep to 150 g cooked rice (basmati or brown) or half a whole-wheat flatbread with a green salad."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Yummy Layalina, Cookinsta, Saudi Press Agency"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT2H",
+  "total_time": "PT2H20M",
+  "translation_of": "maghash-jazan"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "jazani-potato",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17562-1.html",
+  "lang": "ar",
+  "title": "بطاطس جيزاني",
+  "description": "البطاطس الجيزاني وجبة خفيفة شعبية من جازان: أصابع بطاطس كبيرة تُقدّم مع صوص الحُمر (التمر الهندي) الحار وصوص الثوم. في هذه النسخة تُخبز البطاطس في الفرن بملعقة زيت بدل القلي الغزير، وصوص الثوم من اللبن قليل الدسم، والملح قليل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "طبق صغير مع الصوصات (230 غ)",
+  "category": "Appetizers & Snacks",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 210,
+   "protein_g": 6.0,
+   "carbohydrates_g": 38.2,
+   "fat_g": 4.6,
+   "cholesterol_mg": 2,
+   "sodium_mg": 334,
+   "potassium_mg": 888,
+   "phosphorus_mg": 166,
+   "calcium_mg": 106,
+   "fiber_g": 4.1,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "للبطاطس",
+    "600 غ بطاطس (3 حبات كبيرة)"
+   ],
+   [
+    "للبطاطس",
+    "1 ملعقة كبيرة زيت زيتون (15 مل)"
+   ],
+   [
+    "للبطاطس",
+    "¼ ملعقة صغيرة ملح (1.5 غ) وفلفل أسود"
+   ],
+   [
+    "لصوص الحُمر",
+    "40 غ لب تمر هندي (حُمر) منقوع في 150 مل ماء ساخن"
+   ],
+   [
+    "لصوص الحُمر",
+    "2 ملعقة صغيرة معجون طماطم بدون ملح (10 غ)"
+   ],
+   [
+    "لصوص الحُمر",
+    "30 غ فلفل أخضر حار و15 غ فلفل أحمر حار"
+   ],
+   [
+    "لصوص الحُمر",
+    "3 فصوص ثوم (10 غ) و15 غ كزبرة خضراء"
+   ],
+   [
+    "لصوص الحُمر",
+    "½ ملعقة صغيرة كمون ورشة ملح (1 غ)"
+   ],
+   [
+    "لصوص الثوم باللبن",
+    "150 غ لبن زبادي قليل الدسم"
+   ],
+   [
+    "لصوص الثوم باللبن",
+    "1 فص ثوم مهروس (5 غ) و2 ملعقة صغيرة عصير ليمون (10 مل)"
+   ],
+   [
+    "لصوص الثوم باللبن",
+    "رشة ملح صغيرة (0.5 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "قشّر البطاطس واقطع كل حبة طولياً نصفين ثم كل نصف 3 أصابع كبيرة."
+   ],
+   [
+    null,
+    "اسلق الأصابع في ماء مغلي 5 دقائق، ثم صفِّها وتخلّص من الماء وجففها جيداً بمنشفة."
+   ],
+   [
+    null,
+    "سخّن الفرن على 220°م. قلّب البطاطس مع الزيت والفلفل الأسود، ورصّها في صينية مبطنة بورق الزبدة في طبقة واحدة."
+   ],
+   [
+    null,
+    "اخبزها 30–35 دقيقة مع التقليب مرة حتى تتحمّر وتصبح مقرمشة (أو في القلاية الهوائية على 200°م 18–20 دقيقة)، ثم رشّ عليها الملح."
+   ],
+   [
+    null,
+    "لصوص الحُمر: صفِّ التمر الهندي واحتفظ بالماء واللب وتخلّص من البذور، ثم اخلطه في الخلاط مع المعجون والفلفل والثوم والكزبرة والكمون والملح حتى يصبح ناعماً، وخفّفه بالماء حسب الرغبة."
+   ],
+   [
+    null,
+    "لصوص الثوم: اخفق اللبن مع الثوم والليمون والملح."
+   ],
+   [
+    null,
+    "رصّ البطاطس في الأطباق وزيّنها بالصوصين، أو قدّمهما في أطباق صغيرة جانبية."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: خبز البطاطس بملعقة زيت بدل القلي الغزير، صوص ثوم من اللبن قليل الدسم بدل الزيت والنشا أو المايونيز، وملح أقل بكثير في الصوصات (الوصفة المعتادة تضع ملعقة ملح في صوص الحُمر)."
+   ],
+   [
+    null,
+    "لمرضى الكلى: البطاطس والتمر الهندي ومعجون الطماطم غنية بالبوتاسيوم واللبن فيه فوسفور؛ بعد التقطيع انقع البطاطس في ماء ساخن ساعتين ثم اسلقها في ماء جديد وتخلّص منه، فيصبح البوتاسيوم الفعلي أقل من المحسوب هنا، واستخدم ملعقة صغيرة من كل صوص فقط."
+   ],
+   [
+    null,
+    "لمرضى السكري: الحصة فيها حوالي 38 غ كربوهيدرات؛ قدّمها مع بروتين مثل الدجاج أو السمك المشوي وسلطة خضراء بدل أكلها وجبة وحدها."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، صدى البلد، يمي ليالينا"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT1H",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "jazani-potato-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17562-1.html",
+  "lang": "en",
+  "title": "Jazani Potatoes with Sauces",
+  "description": "Jazani potatoes are a popular snack from Jazan: thick potato fingers served with a spicy humar (tamarind) sauce and a garlic sauce. This version bakes the potatoes with one spoon of oil instead of deep frying, makes the garlic sauce with low-fat yoghurt, and uses little salt.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "4",
+  "serving_size": "1 small plate with the sauces (230 g)",
+  "category": "Appetizers & Snacks",
+  "diet": [],
+  "dish": [],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Oven",
+   "Bake"
+  ],
+  "nutrients": {
+   "calories": 210,
+   "protein_g": 6.0,
+   "carbohydrates_g": 38.2,
+   "fat_g": 4.6,
+   "cholesterol_mg": 2,
+   "sodium_mg": 334,
+   "potassium_mg": 888,
+   "phosphorus_mg": 166,
+   "calcium_mg": 106,
+   "fiber_g": 4.1,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    "For the potatoes",
+    "600 g potatoes (3 large)"
+   ],
+   [
+    "For the potatoes",
+    "1 tbsp olive oil (15 ml)"
+   ],
+   [
+    "For the potatoes",
+    "¼ tsp salt (1.5 g) and black pepper"
+   ],
+   [
+    "For the humar (tamarind) sauce",
+    "40 g tamarind (humar) pulp soaked in 150 ml hot water"
+   ],
+   [
+    "For the humar (tamarind) sauce",
+    "2 tsp no-salt tomato paste (10 g)"
+   ],
+   [
+    "For the humar (tamarind) sauce",
+    "30 g green chillies and 15 g red chillies"
+   ],
+   [
+    "For the humar (tamarind) sauce",
+    "3 garlic cloves (10 g) and 15 g fresh coriander"
+   ],
+   [
+    "For the humar (tamarind) sauce",
+    "½ tsp cumin and 1 pinch salt (1 g)"
+   ],
+   [
+    "For the garlic yoghurt sauce",
+    "150 g low-fat yoghurt"
+   ],
+   [
+    "For the garlic yoghurt sauce",
+    "1 garlic clove, crushed (5 g) and 2 tsp lemon juice (10 ml)"
+   ],
+   [
+    "For the garlic yoghurt sauce",
+    "1 small pinch salt (0.5 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Peel the potatoes, cut each in half lengthways, then cut each half into 3 thick fingers."
+   ],
+   [
+    null,
+    "Boil the fingers for 5 minutes, drain and discard the water, and pat them very dry with a towel."
+   ],
+   [
+    null,
+    "Heat the oven to 220 °C. Toss the potatoes with the oil and black pepper and spread them in one layer on a tray lined with baking paper."
+   ],
+   [
+    null,
+    "Bake for 30–35 minutes, turning once, until golden and crisp (or air-fry at 200 °C for 18–20 minutes), then sprinkle with the salt."
+   ],
+   [
+    null,
+    "For the humar sauce: strain the tamarind, keeping the liquid and pulp and discarding the seeds, then blend it with the paste, chillies, garlic, coriander, cumin and salt until smooth; thin with water to taste."
+   ],
+   [
+    null,
+    "For the garlic sauce: whisk the yoghurt with the garlic, lemon juice and salt."
+   ],
+   [
+    null,
+    "Arrange the potatoes on plates and drizzle with both sauces, or serve the sauces in small dishes on the side."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: potatoes baked with one spoon of oil instead of deep fried, a low-fat yoghurt garlic sauce instead of oil and starch or mayonnaise, and much less salt in the sauces (usual recipes add a spoon of salt to the humar sauce)."
+   ],
+   [
+    null,
+    "Kidney tip: potatoes, tamarind and tomato paste are high in potassium and yoghurt contains phosphorus; after cutting, soak the potatoes in hot water for 2 hours, then boil them in fresh water and discard it, so the real potassium is lower than calculated here, and use only a teaspoon of each sauce."
+   ],
+   [
+    null,
+    "Diabetes tip: one portion has about 38 g carbohydrate; serve it with a protein such as grilled chicken or fish and a green salad rather than as a meal on its own."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Elbalad News, Yummy Layalina"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT1H",
+  "translation_of": "jazani-potato"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "saj-bread",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17521-1.html",
+  "lang": "ar",
+  "title": "رغفان الصاج",
+  "description": "الرغفان (وتسمى أيضاً المصابيب) أقراص صغيرة من خليط سائل من دقيق البر والماء والخميرة تُصب على الصاج، وتشتهر بها منطقة حائل ونجد، وتُقدّم بالسمن أو العسل أو الدبس أو زيت الزيتون. في هذه النسخة دقيق بر كامل وحليب قليل الدسم وملح قليل، وتُقدّم بقليل من زيت الزيتون بدل السمن والعسل.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "قرصان (100 غ)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Bread",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 161,
+   "protein_g": 6.2,
+   "carbohydrates_g": 30.0,
+   "fat_g": 2.9,
+   "cholesterol_mg": 1,
+   "sodium_mg": 139,
+   "potassium_mg": 180,
+   "phosphorus_mg": 165,
+   "calcium_mg": 39,
+   "fiber_g": 4.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "240 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    null,
+    "120 مل حليب قليل الدسم (1%)"
+   ],
+   [
+    null,
+    "حوالي 400 مل ماء فاتر"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة خميرة فورية (3 غ)"
+   ],
+   [
+    null,
+    "⅓ ملعقة صغيرة ملح (2 غ)"
+   ],
+   [
+    "للتقديم",
+    "2 ملعقة صغيرة زيت زيتون (10 مل)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخفق الدقيق مع الخميرة والملح والحليب والماء بالمضرب اليدوي أو الكهربائي حتى تحصل على خليط ناعم شبه سائل أثقل قليلاً من خليط الفطائر."
+   ],
+   [
+    null,
+    "غطِّ الخليط واتركه يتخمر حوالي 30–45 دقيقة حتى تظهر فقاعات على سطحه."
+   ],
+   [
+    null,
+    "سخّن الصاج أو مقلاة غير لاصقة على نار متوسطة وامسحها بقطرات من الزيت."
+   ],
+   [
+    null,
+    "اسكب مغرفة صغيرة من الخليط على شكل قرص متوسط، واتركه حتى تظهر الثقوب على وجهه وينضج من الأسفل، ثم اقلبه حتى يشقر من الجهتين."
+   ],
+   [
+    null,
+    "كرر مع باقي الخليط لتحصل على 12 قرصاً، وادهن الأقراص بباقي زيت الزيتون وقدّمها دافئة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر كامل، حليب قليل الدسم بدل الحليب المبخر، ملح قليل، وتُقدّم بقليل من زيت الزيتون بدل السمن والعسل والدبس."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر والحليب فيهما فوسفور؛ يمكن استبدال الحليب بالماء واستخدام نصف دقيق بر ونصف دقيق أبيض، واكتفِ بقرصين."
+   ],
+   [
+    null,
+    "لمرضى السكري: القرصان فيهما حوالي 30 غ كربوهيدرات؛ قدّمها مع بيض أو لبنة قليلة الدسم وخضار مثل الخيار والطماطم بدل العسل أو الدبس."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، كوكباد، قصيمي"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H10M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "saj-bread-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-17521-1.html",
+  "lang": "en",
+  "title": "Saj Bread",
+  "description": "Rghfan (also called masabeeb) are small rounds made from a pourable batter of whole-wheat flour, water and yeast, cooked on a saj griddle; they are a speciality of Hail and Najd and are served with ghee, honey, date syrup or olive oil. This version uses whole-wheat flour, low-fat milk and little salt, and is served with a little olive oil instead of ghee and honey.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "6",
+  "serving_size": "2 rounds (100 g)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Bread",
+   "5 or less ingredients"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Stove Top"
+  ],
+  "nutrients": {
+   "calories": 161,
+   "protein_g": 6.2,
+   "carbohydrates_g": 30.0,
+   "fat_g": 2.9,
+   "cholesterol_mg": 1,
+   "sodium_mg": 139,
+   "potassium_mg": 180,
+   "phosphorus_mg": 165,
+   "calcium_mg": 39,
+   "fiber_g": 4.4,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "240 g whole-wheat (burr) flour"
+   ],
+   [
+    null,
+    "120 ml low-fat milk (1%)"
+   ],
+   [
+    null,
+    "about 400 ml lukewarm water"
+   ],
+   [
+    null,
+    "1 tsp instant yeast (3 g)"
+   ],
+   [
+    null,
+    "⅓ tsp salt (2 g)"
+   ],
+   [
+    "To serve",
+    "2 tsp olive oil (10 ml)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Whisk the flour with the yeast, salt, milk and water by hand or with a mixer until you have a smooth, pourable batter slightly thicker than pancake batter."
+   ],
+   [
+    null,
+    "Cover and leave to rise for about 30–45 minutes until bubbles appear on the surface."
+   ],
+   [
+    null,
+    "Heat a saj or non-stick pan over medium heat and wipe it with a few drops of oil."
+   ],
+   [
+    null,
+    "Pour a small ladle of batter into a medium round and leave it until holes appear on top and the base is cooked, then turn it and cook until lightly golden on both sides."
+   ],
+   [
+    null,
+    "Repeat with the rest of the batter to make 12 rounds, brush them with the rest of the olive oil and serve warm."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: whole-wheat flour, low-fat milk instead of evaporated milk, little salt, and served with a little olive oil instead of ghee, honey and date syrup."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour and milk contain phosphorus; you can replace the milk with water and use half whole-wheat and half white flour, and keep to 2 rounds."
+   ],
+   [
+    null,
+    "Diabetes tip: 2 rounds have about 30 g carbohydrate; serve them with eggs or low-fat labneh and vegetables such as cucumber and tomato instead of honey or date syrup."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Cookpad, Qassimy"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT45M",
+  "cook_time": "PT25M",
+  "total_time": "PT1H10M",
+  "translation_of": "saj-bread"
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "tannour-bread",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13225-1.html",
+  "lang": "ar",
+  "title": "خبز التنور",
+  "description": "خبز التنور (خبز الميفا أو الدوح) خبز شعبي من جنوب المملكة يُصنع من دقيق البر مع قليل من الدقيق الأبيض ويُلصق على جدار التنور الساخن، ويُقدّم مع المرق والإيدام أو الحنيذ. هذه نسخة للفرن المنزلي بدقيق بر في الغالب، وملح قليل، وبدون سكر أو سمن.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "رغيف (70 غ)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Bread"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 170,
+   "protein_g": 6.6,
+   "carbohydrates_g": 33.4,
+   "fat_g": 1.7,
+   "cholesterol_mg": 23,
+   "sodium_mg": 156,
+   "potassium_mg": 141,
+   "phosphorus_mg": 142,
+   "calcium_mg": 20,
+   "fiber_g": 3.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "240 غ دقيق بر (قمح كامل)"
+   ],
+   [
+    null,
+    "120 غ دقيق أبيض"
+   ],
+   [
+    null,
+    "1.5 ملعقة صغيرة خميرة فورية (5 غ)"
+   ],
+   [
+    null,
+    "½ ملعقة صغيرة ملح (3 غ)"
+   ],
+   [
+    null,
+    "حوالي 250 مل ماء دافئ"
+   ],
+   [
+    null,
+    "1 بيضة مخفوقة للدهن (50 غ)"
+   ],
+   [
+    null,
+    "1 ملعقة صغيرة حبة البركة أو سمسم (3 غ)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "اخلط الدقيقين مع الخميرة والملح، وأضف الماء الدافئ تدريجياً واعجن 8–10 دقائق حتى تصبح العجينة ناعمة ومرنة."
+   ],
+   [
+    null,
+    "غطّها واتركها في مكان دافئ ساعة حتى يتضاعف حجمها."
+   ],
+   [
+    null,
+    "قسّمها 8 كرات متساوية، واتركها 15 دقيقة، ثم افرد كل كرة بشكل بيضاوي طويل بسمك نصف سنتيمتر تقريباً."
+   ],
+   [
+    null,
+    "سخّن الفرن على أعلى حرارة (250°م) مع حجر خبز أو صينية مقلوبة لمدة 20 دقيقة."
+   ],
+   [
+    null,
+    "ادهن وجه الأرغفة بالبيض ورشّ عليها حبة البركة أو السمسم، ثم ضعها على الحجر الساخن واخبزها 6–8 دقائق حتى تنتفخ وتتحمّر. في التنور التقليدي تُلصق على الجدار الساخن حتى تنضج."
+   ],
+   [
+    null,
+    "لفّها في قطعة قماش نظيفة لتبقى طرية، وقدّمها ساخنة."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "ما الذي تغيّر: دقيق بر في الغالب بدل الأبيض، ملح قليل، وبدون سكر أو سمن في العجين؛ قدّمه مع المرق أو الإيدام أو اللبن بدل السمن والعسل."
+   ],
+   [
+    null,
+    "لمرضى الكلى: دقيق البر فيه فوسفور وبوتاسيوم أكثر من الأبيض؛ يمكن عكس النسبة (ثلثا الدقيق أبيض)، واكتفِ برغيف واحد مع الوجبة."
+   ],
+   [
+    null,
+    "لمرضى السكري: الرغيف فيه حوالي 33 غ كربوهيدرات؛ يغني عن الأرز في الوجبة، ويمكن أكل نصفه مع طبق خضار أو مرق."
+   ],
+   [
+    null,
+    "المراجع: موسوعة الطبخ، سيدتي مطبخ، معارف"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H30M",
+  "cook_time": "PT20M",
+  "total_time": "PT1H50M",
+  "translation_of": null
+ },
+ {
+  "source": "saudi",
+  "source_name": "Saudi Kitchen (Health Kitchen)",
+  "source_id": "tannour-bread-en",
+  "url": "https://www.encyclopediacooking.com/arabic/lesson-13225-1.html",
+  "lang": "en",
+  "title": "Tannour Bread",
+  "description": "Tannour bread (also called mifa or dooh bread) is a traditional bread from southern Saudi Arabia made mostly from whole-wheat flour with a little white flour and slapped onto the wall of a hot clay oven; it is served with broth, stews or haneeth. This is a home-oven version, mostly whole wheat, with little salt and no sugar or ghee.",
+  "image_url": null,
+  "image_path": null,
+  "portions": "8",
+  "serving_size": "1 bread (70 g)",
+  "category": "Breads",
+  "diet": [],
+  "dish": [
+   "Bread"
+  ],
+  "cuisine": [
+   "Saudi"
+  ],
+  "method": [
+   "Bake",
+   "Oven"
+  ],
+  "nutrients": {
+   "calories": 170,
+   "protein_g": 6.6,
+   "carbohydrates_g": 33.4,
+   "fat_g": 1.7,
+   "cholesterol_mg": 23,
+   "sodium_mg": 156,
+   "potassium_mg": 141,
+   "phosphorus_mg": 142,
+   "calcium_mg": 20,
+   "fiber_g": 3.8,
+   "added_sugar_g": 0.0
+  },
+  "nutrients_raw": null,
+  "ingredients": [
+   [
+    null,
+    "240 g whole-wheat (burr) flour"
+   ],
+   [
+    null,
+    "120 g white flour"
+   ],
+   [
+    null,
+    "1½ tsp instant yeast (5 g)"
+   ],
+   [
+    null,
+    "½ tsp salt (3 g)"
+   ],
+   [
+    null,
+    "about 250 ml warm water"
+   ],
+   [
+    null,
+    "1 egg, beaten, for glazing (50 g)"
+   ],
+   [
+    null,
+    "1 tsp nigella or sesame seeds (3 g)"
+   ]
+  ],
+  "steps": [
+   [
+    null,
+    "Mix both flours with the yeast and salt, add the warm water gradually and knead for 8–10 minutes until smooth and elastic."
+   ],
+   [
+    null,
+    "Cover and leave in a warm place for an hour until doubled."
+   ],
+   [
+    null,
+    "Divide into 8 equal balls, rest for 15 minutes, then roll each into a long oval about half a centimetre thick."
+   ],
+   [
+    null,
+    "Heat the oven to its highest setting (250 °C) with a baking stone or an upturned tray inside for 20 minutes."
+   ],
+   [
+    null,
+    "Brush the breads with egg, sprinkle with the seeds, place them on the hot stone and bake for 6–8 minutes until puffed and golden. In a traditional tannour they are slapped onto the hot wall until cooked."
+   ],
+   [
+    null,
+    "Wrap them in a clean cloth to keep them soft and serve hot."
+   ]
+  ],
+  "hints": [
+   [
+    null,
+    "What changed: mostly whole-wheat flour instead of white, little salt, and no sugar or ghee in the dough; serve it with broth, stew or laban instead of ghee and honey."
+   ],
+   [
+    null,
+    "Kidney tip: whole-wheat flour has more phosphorus and potassium than white flour; you can reverse the ratio (two thirds white flour) and keep to one bread with a meal."
+   ],
+   [
+    null,
+    "Diabetes tip: one bread has about 33 g carbohydrate; let it replace rice in the meal, or eat half with a vegetable stew or broth."
+   ],
+   [
+    null,
+    "References: Encyclopedia Cooking, Sayidaty Kitchen, M3aarf"
+   ]
+  ],
+  "food_choices": [],
+  "carb_choices": null,
+  "video_url": null,
+  "prep_time": "PT1H30M",
+  "cook_time": "PT20M",
+  "total_time": "PT1H50M",
+  "translation_of": "tannour-bread"
+ }
+]

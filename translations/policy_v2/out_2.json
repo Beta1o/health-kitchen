@@ -1,0 +1,1450 @@
+[
+ {
+  "key": 186,
+  "recipe_id": 6572091,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Looking for a low-carb side dish that pairs up great with a main protein, can be a plate-method staple, and adds a little kick to a nutrient-packed super food? This simple roasted broccoli dish from Chef Ronaldo Linares should do the trick. The cumin and lime add spice and citrus to provide a Carribbean flavor and the avocado oil infuses the dish with healthy, heart-friendly fats. Pair with Chef Ronaldo's the Mojo Marinated Pork and a Cauliflower Rice Salad and you have a hearty, low-carb meal fit for an island vacation.",
+   "ar": "تبحث عن طبق جانبي قليل الكربوهيدرات يتناسب مع أي بروتين رئيسي، ويمكن أن يكون أساسيًا في طريقة الطبق الصحي، ويضيف لمسة حارة إلى طعام خارق غني بالعناصر الغذائية؟ هذا طبق البروكلي المشوي البسيط من الشيف رونالدو لينارس يفي بالغرض. يضيف الكمون والليمون الأخضر نكهة حارة وحمضية تمنح الطبق مذاقًا كاريبيًا، ويضفي زيت الأفوكادو دهونًا صحية مفيدة للقلب. قدّمه مع لحم الخنزير المتبّل بالموخو من الشيف رونالدو وسلطة أرز القرنبيط لتحصل على وجبة مشبعة وقليلة الكربوهيدرات تليق بإجازة في جزيرة.",
+   "es": "¿Buscas un acompañamiento bajo en carbohidratos que combine muy bien con una proteína principal, que pueda ser un plato básico y que añada un pequeño toque a un superalimento repleto de nutrientes? Este sencillo plato de brócoli asado del chef Ronaldo Linares debería ser la solución. El comino y la lima añaden especias y cítricos para proporcionar un sabor caribeño y el aceite de aguacate infunde al plato grasas saludables y beneficiosas para el corazón. Acompáñalos con el cerdo marinado al mojo del chef Ronaldo y una ensalada de arroz con coliflor y tendrás una comida abundante y baja en carbohidratos digna de unas vacaciones en la isla.",
+   "fr": "Vous cherchez un accompagnement faible en glucides qui se marie bien avec une protéine principale, qui peut être un incontournable de la méthode de l'assiette et qui ajoute un peu de punch à un super-aliment riche en nutriments ? Ce simple plat de brocoli rôti du chef Ronaldo Linares devrait faire l'affaire. Le cumin et la lime apportent des épices et des agrumes pour une saveur caribéenne, et l'huile d'avocat apporte au plat de bons gras favorables au cœur. Accompagnez-le du porc mariné au mojo du chef Ronaldo et d'une salade de riz de chou-fleur, et vous obtiendrez un repas copieux et faible en glucides digne de vacances sur une île.",
+   "hi": "क्या आप कम कार्ब वाली साइड डिश ढूँढ रहे हैं जो मुख्य प्रोटीन के साथ बढ़िया जमे, प्लेट मेथड का अहम हिस्सा बन सके, और पोषक तत्वों से भरपूर सुपरफ़ूड में थोड़ा तीखापन जोड़े? शेफ़ रोनाल्डो लिनारेस की यह सरल भुनी हुई ब्रोकली का व्यंजन यह काम कर देगा। जीरा और नीबू मसाला और खट्टापन जोड़कर कैरिबियन स्वाद देते हैं और एवोकाडो का तेल व्यंजन में स्वस्थ, हृदय के अनुकूल वसा भरता है। इसे शेफ़ रोनाल्डो के मोहो मैरिनेटेड पोर्क और फूलगोभी के चावल के सलाद के साथ परोसें और आपको मिलेगा एक भरपेट, कम कार्ब वाला भोजन जो किसी द्वीप की छुट्टी के लायक है।",
+   "ur": "کیا آپ ایسی کم کاربوہائیڈریٹ والی سائیڈ ڈش تلاش کر رہے ہیں جو مرکزی پروٹین کے ساتھ خوب جچے، پلیٹ میٹھڈ کا بنیادی حصہ بن سکے، اور غذائی اجزاء سے بھرپور سپر فوڈ میں ہلکی سی تیزی شامل کرے؟ شیف رونالڈو لینارس کی یہ سادہ بھنی ہوئی بروکلی کی ڈش یہ کام کر دے گی۔ زیرہ اور لائم مصالحے اور کھٹاس کا ذائقہ دیتے ہیں جو کیریبین ذائقہ پیدا کرتا ہے، اور ایووکاڈو کا تیل ڈش میں صحت بخش، دل کے لیے موزوں چکنائیاں شامل کرتا ہے۔ اسے شیف رونالڈو کے موجو میرینیٹڈ پورک اور پھول گوبھی کے چاول کے سلاد کے ساتھ پیش کریں اور آپ کے پاس جزیرے کی چھٹیوں کے لائق بھرپور، کم کاربوہائیڈریٹ والا کھانا ہوگا۔"
+  },
+  "text": {
+   "en": "Looking for a low-carb side dish that pairs up great with a main protein, can be a plate-method staple, and adds a little kick to a nutrient-packed super food? This simple roasted broccoli dish from Chef Ronaldo Linares should do the trick. The cumin and lime add spice and citrus to provide a Carribbean flavor and the avocado oil infuses the dish with healthy, heart-friendly fats. Pair with a Cauliflower Rice Salad and you have a hearty, low-carb meal fit for an island vacation.",
+   "ar": "تبحث عن طبق جانبي قليل الكربوهيدرات يتناسب مع أي بروتين رئيسي، ويمكن أن يكون أساسيًا في طريقة الطبق الصحي، ويضيف لمسة حارة إلى طعام خارق غني بالعناصر الغذائية؟ هذا طبق البروكلي المشوي البسيط من الشيف رونالدو لينارس يفي بالغرض. يضيف الكمون والليمون الأخضر نكهة حارة وحمضية تمنح الطبق مذاقًا كاريبيًا، ويضفي زيت الأفوكادو دهونًا صحية مفيدة للقلب. قدّمه مع سلطة أرز القرنبيط لتحصل على وجبة مشبعة وقليلة الكربوهيدرات تليق بإجازة في جزيرة.",
+   "es": "¿Buscas un acompañamiento bajo en carbohidratos que combine muy bien con una proteína principal, que pueda ser un plato básico y que añada un pequeño toque a un superalimento repleto de nutrientes? Este sencillo plato de brócoli asado del chef Ronaldo Linares debería ser la solución. El comino y la lima añaden especias y cítricos para proporcionar un sabor caribeño y el aceite de aguacate infunde al plato grasas saludables y beneficiosas para el corazón. Acompáñalo con una ensalada de arroz con coliflor y tendrás una comida abundante y baja en carbohidratos digna de unas vacaciones en la isla.",
+   "fr": "Vous cherchez un accompagnement faible en glucides qui se marie bien avec une protéine principale, qui peut être un incontournable de la méthode de l'assiette et qui ajoute un peu de punch à un super-aliment riche en nutriments ? Ce simple plat de brocoli rôti du chef Ronaldo Linares devrait faire l'affaire. Le cumin et la lime apportent des épices et des agrumes pour une saveur caribéenne, et l'huile d'avocat apporte au plat de bons gras favorables au cœur. Accompagnez-le d'une salade de riz de chou-fleur, et vous obtiendrez un repas copieux et faible en glucides digne de vacances sur une île.",
+   "hi": "क्या आप कम कार्ब वाली साइड डिश ढूँढ रहे हैं जो मुख्य प्रोटीन के साथ बढ़िया जमे, प्लेट मेथड का अहम हिस्सा बन सके, और पोषक तत्वों से भरपूर सुपरफ़ूड में थोड़ा तीखापन जोड़े? शेफ़ रोनाल्डो लिनारेस की यह सरल भुनी हुई ब्रोकली का व्यंजन यह काम कर देगा। जीरा और नीबू मसाला और खट्टापन जोड़कर कैरिबियन स्वाद देते हैं और एवोकाडो का तेल व्यंजन में स्वस्थ, हृदय के अनुकूल वसा भरता है। इसे फूलगोभी के चावल के सलाद के साथ परोसें और आपको मिलेगा एक भरपेट, कम कार्ब वाला भोजन जो किसी द्वीप की छुट्टी के लायक है।",
+   "ur": "کیا آپ ایسی کم کاربوہائیڈریٹ والی سائیڈ ڈش تلاش کر رہے ہیں جو مرکزی پروٹین کے ساتھ خوب جچے، پلیٹ میٹھڈ کا بنیادی حصہ بن سکے، اور غذائی اجزاء سے بھرپور سپر فوڈ میں ہلکی سی تیزی شامل کرے؟ شیف رونالڈو لینارس کی یہ سادہ بھنی ہوئی بروکلی کی ڈش یہ کام کر دے گی۔ زیرہ اور لائم مصالحے اور کھٹاس کا ذائقہ دیتے ہیں جو کیریبین ذائقہ پیدا کرتا ہے، اور ایووکاڈو کا تیل ڈش میں صحت بخش، دل کے لیے موزوں چکنائیاں شامل کرتا ہے۔ اسے پھول گوبھی کے چاول کے سلاد کے ساتھ پیش کریں اور آپ کے پاس جزیرے کی چھٹیوں کے لائق بھرپور، کم کاربوہائیڈریٹ والا کھانا ہوگا۔"
+  },
+  "reason": "pairing suggestion with mojo pork"
+ },
+ {
+  "key": 187,
+  "recipe_id": 6599227,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 188,
+  "recipe_id": 6599227,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 189,
+  "recipe_id": 6600449,
+  "field": "ingredients",
+  "position": 9,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 190,
+  "recipe_id": 6604257,
+  "field": "ingredients",
+  "position": 10,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "sour cream"
+ },
+ {
+  "key": 191,
+  "recipe_id": 6618374,
+  "field": "ingredients",
+  "position": 9,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 192,
+  "recipe_id": 6618374,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 193,
+  "recipe_id": 6632676,
+  "field": "ingredients",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 194,
+  "recipe_id": 6632676,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "bacon here is the turkey bacon from ingredients"
+ },
+ {
+  "key": 195,
+  "recipe_id": 6638894,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This classic Portuguese Soup is satisfying in every way. Traditionally, the soup is done with water, but chicken stock adds greater depth of flavor in this recipe. Chicken sausage instead of the traditional chorizo makes for a more diabetes-friendly dish. The kale adds a vibrant green color that gives Caldo Verde it's name. Feel free to play with different types of greens like collard greens or spinach. *Look for fully cooked chicken sausage (your choice of flavor) with <500 mg sodium per 3 oz link.",
+   "ar": "هذا الحساء البرتغالي الكلاسيكي مُشبع من كل النواحي. يُحضَّر تقليديًا بالماء، لكن مرق الدجاج يضيف عمقًا أكبر في النكهة في هذه الوصفة. واستخدام نقانق الدجاج بدلًا من التشوريزو التقليدي يجعل الطبق أنسب لمرضى السكري. ويمنح الكرنب الأجعد (كيل) لونه الأخضر الزاهي الذي أعطى كالدو فيردي اسمه. يمكنك تجربة أنواع أخرى من الخضار الورقية مثل اللفت الأخضر (كولارد) أو السبانخ. *ابحث عن نقانق دجاج مطبوخة بالكامل (بالنكهة التي تفضلها) تحتوي على أقل من 500 ملغ من الصوديوم لكل قطعة نقانق وزنها 3 أونصات.",
+   "es": "Esta clásica sopa portuguesa es deliciosa en todos los sentidos. Tradicionalmente, se prepara con agua, pero en esta receta el caldo de pollo le aporta un sabor más intenso. Usar salchicha de pollo en lugar del chorizo tradicional la convierte en una opción más apta para diabéticos. La col rizada le da un vibrante color verde que le da nombre al Caldo Verde. Puedes experimentar con diferentes tipos de verduras de hoja verde, como berza o espinacas. *Busque salchichas de pollo completamente cocidas (del sabor que prefiera) con menos de 500 mg de sodio por unidad de 3 oz.",
+   "fr": "Cette soupe portugaise classique est satisfaisante à tous égards. Traditionnellement, la soupe est préparée avec de l'eau, mais le bouillon de poulet ajoute plus de profondeur de saveur dans cette recette. La saucisse de poulet, à la place du chorizo traditionnel, donne un plat mieux adapté aux personnes diabétiques. Le chou frisé ajoute une couleur verte éclatante qui donne son nom au caldo verde. N'hésitez pas à jouer avec différents types de légumes verts comme le chou vert ou les épinards. *Cherchez de la saucisse de poulet entièrement cuite (la saveur de votre choix) contenant <500 mg de sodium par saucisse de 3 oz.",
+   "hi": "यह क्लासिक पुर्तगाली सूप हर तरह से संतोषजनक है। परंपरागत रूप से यह सूप पानी से बनता है, लेकिन इस रेसिपी में चिकन स्टॉक स्वाद में ज़्यादा गहराई लाता है। पारंपरिक चोरिज़ो की जगह चिकन सॉसेज इस्तेमाल करने से यह व्यंजन मधुमेह के अनुकूल बनता है। केल एक जीवंत हरा रंग देता है जिससे काल्दो वेर्दे को उसका नाम मिला है। कॉलर्ड ग्रीन्स या पालक जैसी अलग-अलग तरह की हरी पत्तेदार सब्ज़ियाँ आज़माने के लिए आप स्वतंत्र हैं। *पूरी तरह पके हुए चिकन सॉसेज (अपनी पसंद के स्वाद वाले) देखें जिनमें प्रति 3 औंस की लिंक में 500 मिलीग्राम से कम सोडियम हो।",
+   "ur": "یہ کلاسک پرتگالی سوپ ہر لحاظ سے پیٹ بھرنے والا ہے۔ روایتی طور پر یہ سوپ پانی سے بنایا جاتا ہے، لیکن اس ترکیب میں چکن اسٹاک ذائقے میں زیادہ گہرائی لاتا ہے۔ روایتی چوریزو کی جگہ چکن ساسیج استعمال کرنے سے یہ ڈش ذیابیطس کے لیے زیادہ موزوں ہو جاتی ہے۔ کیل اس میں وہ شوخ ہرا رنگ ڈالتی ہے جس کی وجہ سے کالدو ویردے کو یہ نام ملا۔ بلا جھجک دوسرے قسم کے ساگ جیسے کولارڈ گرینز یا پالک بھی آزمائیں۔ *مکمل پکا ہوا چکن ساسیج (اپنی پسند کے ذائقے کا) تلاش کریں جس میں ہر 3 اونس کی لنک میں 500 ملی گرام سے کم سوڈیم ہو۔"
+  },
+  "text": {
+   "en": "This classic Portuguese Soup is satisfying in every way. Traditionally, the soup is done with water, but chicken stock adds greater depth of flavor in this recipe. Chicken sausage makes for a more diabetes-friendly dish. The kale adds a vibrant green color that gives Caldo Verde it's name. Feel free to play with different types of greens like collard greens or spinach. *Look for fully cooked chicken sausage (your choice of flavor) with <500 mg sodium per 3 oz link.",
+   "ar": "هذا الحساء البرتغالي الكلاسيكي مُشبع من كل النواحي. يُحضَّر تقليديًا بالماء، لكن مرق الدجاج يضيف عمقًا أكبر في النكهة في هذه الوصفة. واستخدام نقانق الدجاج يجعل الطبق أنسب لمرضى السكري. ويمنح الكرنب الأجعد (كيل) لونه الأخضر الزاهي الذي أعطى كالدو فيردي اسمه. يمكنك تجربة أنواع أخرى من الخضار الورقية مثل اللفت الأخضر (كولارد) أو السبانخ. *ابحث عن نقانق دجاج مطبوخة بالكامل (بالنكهة التي تفضلها) تحتوي على أقل من 500 ملغ من الصوديوم لكل قطعة نقانق وزنها 3 أونصات.",
+   "es": "Esta clásica sopa portuguesa es deliciosa en todos los sentidos. Tradicionalmente, se prepara con agua, pero en esta receta el caldo de pollo le aporta un sabor más intenso. Usar salchicha de pollo la convierte en una opción más apta para diabéticos. La col rizada le da un vibrante color verde que le da nombre al Caldo Verde. Puedes experimentar con diferentes tipos de verduras de hoja verde, como berza o espinacas. *Busque salchichas de pollo completamente cocidas (del sabor que prefiera) con menos de 500 mg de sodio por unidad de 3 oz.",
+   "fr": "Cette soupe portugaise classique est satisfaisante à tous égards. Traditionnellement, la soupe est préparée avec de l'eau, mais le bouillon de poulet ajoute plus de profondeur de saveur dans cette recette. La saucisse de poulet donne un plat mieux adapté aux personnes diabétiques. Le chou frisé ajoute une couleur verte éclatante qui donne son nom au caldo verde. N'hésitez pas à jouer avec différents types de légumes verts comme le chou vert ou les épinards. *Cherchez de la saucisse de poulet entièrement cuite (la saveur de votre choix) contenant <500 mg de sodium par saucisse de 3 oz.",
+   "hi": "यह क्लासिक पुर्तगाली सूप हर तरह से संतोषजनक है। परंपरागत रूप से यह सूप पानी से बनता है, लेकिन इस रेसिपी में चिकन स्टॉक स्वाद में ज़्यादा गहराई लाता है। चिकन सॉसेज इस्तेमाल करने से यह व्यंजन मधुमेह के अनुकूल बनता है। केल एक जीवंत हरा रंग देता है जिससे काल्दो वेर्दे को उसका नाम मिला है। कॉलर्ड ग्रीन्स या पालक जैसी अलग-अलग तरह की हरी पत्तेदार सब्ज़ियाँ आज़माने के लिए आप स्वतंत्र हैं। *पूरी तरह पके हुए चिकन सॉसेज (अपनी पसंद के स्वाद वाले) देखें जिनमें प्रति 3 औंस की लिंक में 500 मिलीग्राम से कम सोडियम हो।",
+   "ur": "یہ کلاسک پرتگالی سوپ ہر لحاظ سے پیٹ بھرنے والا ہے۔ روایتی طور پر یہ سوپ پانی سے بنایا جاتا ہے، لیکن اس ترکیب میں چکن اسٹاک ذائقے میں زیادہ گہرائی لاتا ہے۔ چکن ساسیج استعمال کرنے سے یہ ڈش ذیابیطس کے لیے زیادہ موزوں ہو جاتی ہے۔ کیل اس میں وہ شوخ ہرا رنگ ڈالتی ہے جس کی وجہ سے کالدو ویردے کو یہ نام ملا۔ بلا جھجک دوسرے قسم کے ساگ جیسے کولارڈ گرینز یا پالک بھی آزمائیں۔ *مکمل پکا ہوا چکن ساسیج (اپنی پسند کے ذائقے کا) تلاش کریں جس میں ہر 3 اونس کی لنک میں 500 ملی گرام سے کم سوڈیم ہو۔"
+  },
+  "reason": "mentions traditional chorizo (story only)"
+ },
+ {
+  "key": 196,
+  "recipe_id": 6644588,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "champagne vinegar (ingredient)"
+ },
+ {
+  "key": 197,
+  "recipe_id": 6644588,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "champagne vinegar vinaigrette"
+ },
+ {
+  "key": 198,
+  "recipe_id": 6651941,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 199,
+  "recipe_id": 6651941,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 200,
+  "recipe_id": 6651941,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 201,
+  "recipe_id": 6656377,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Stir fry is an easy, budget-friendly meal that is perfect for a quick weeknight meal. This recipe calls for a frozen broccoli stir fry mix, but you could use any frozen vegetables you have on hand. Or, use fresh vegetables! Stir fry is great for using up random vegetables in your fridge before they go bad. You could also substitute chicken, pork, or shrimp for the beef, or use tofu for a vegetarian entree.\n\nPowered by Homemade, brought to you by Davita.",
+   "ar": "الطبق المقلي بالتحريك وجبة سهلة واقتصادية ومثالية لعشاء سريع في أيام الأسبوع. تستخدم هذه الوصفة خليط بروكلي مجمدًا للقلي بالتحريك، لكن يمكنك استخدام أي خضار مجمدة متوفرة لديك. أو استخدم خضارًا طازجة! القلي بالتحريك رائع لاستهلاك الخضار المتفرقة في الثلاجة قبل أن تفسد. يمكنك أيضًا استبدال لحم البقر بالدجاج أو لحم الخنزير أو الروبيان، أو استخدام التوفو لطبق رئيسي نباتي.\n\nPowered by Homemade، مقدّم لكم من DaVita.",
+   "es": "El salteardo es una comida fácil y amigable con el bolsillo que es perfecta para una comida rápida para noches entre semana. Esta receta pide una mezcla de salteardo de brócoli congelado, pero puedes usar cualquier vegetal congelado que tengas a mano. O, ¡utiliza vegetales frescos! El salteardo es estupendo para utilizar vegetales al azar en tu refrigerador antes de que se dañen. También puedes sustituir pollo, cerdo, o camarones por la carne de res, o usar tofu para una entrada vegetariana.",
+   "fr": "Le sauté est un repas facile et économique, parfait pour un souper rapide en semaine. Cette recette utilise un mélange surgelé de brocoli pour sauté, mais vous pouvez utiliser n'importe quels légumes surgelés que vous avez sous la main. Ou utilisez des légumes frais ! Le sauté est idéal pour utiliser les légumes qui traînent dans votre frigo avant qu'ils ne se gâtent. Vous pouvez aussi remplacer le bœuf par du poulet, du porc ou des crevettes, ou utiliser du tofu pour un plat principal végétarien.\n\nPowered by Homemade, présenté par DaVita.",
+   "hi": "स्टर फ्राई एक आसान, किफ़ायती भोजन है जो सप्ताह के किसी भी दिन के जल्दी बनने वाले खाने के लिए एकदम सही है। इस रेसिपी में जमी हुई ब्रोकली स्टर फ्राई मिक्स का उपयोग होता है, लेकिन आप अपने पास मौजूद कोई भी जमी हुई सब्ज़ियाँ इस्तेमाल कर सकते हैं। या ताज़ी सब्ज़ियाँ लें! फ्रिज में पड़ी बेतरतीब सब्ज़ियों को ख़राब होने से पहले इस्तेमाल करने के लिए स्टर फ्राई बढ़िया है। आप बीफ़ की जगह चिकन, पोर्क या झींगे भी ले सकते हैं, या शाकाहारी मुख्य व्यंजन के लिए टोफू इस्तेमाल करें।\n\nPowered by Homemade, brought to you by Davita.",
+   "ur": "اسٹر فرائی ایک آسان، بجٹ کے موافق کھانا ہے جو ہفتے کی کسی رات کے فوری کھانے کے لیے بہترین ہے۔ اس ترکیب میں جمے ہوئے بروکلی اسٹر فرائی مکس کی ضرورت ہے، لیکن آپ اپنے پاس موجود کوئی بھی جمی ہوئی سبزیاں استعمال کر سکتے ہیں۔ یا تازہ سبزیاں استعمال کریں! اسٹر فرائی آپ کے فریج میں پڑی بے ترتیب سبزیوں کو خراب ہونے سے پہلے استعمال کرنے کے لیے بہترین ہے۔ آپ گائے کے گوشت کی جگہ چکن، سور کا گوشت یا جھینگے بھی استعمال کر سکتے ہیں، یا سبزی خور مین ڈش کے لیے ٹوفو استعمال کریں۔\n\nPowered by Homemade, brought to you by Davita."
+  },
+  "text": {
+   "en": "Stir fry is an easy, budget-friendly meal that is perfect for a quick weeknight meal. This recipe calls for a frozen broccoli stir fry mix, but you could use any frozen vegetables you have on hand. Or, use fresh vegetables! Stir fry is great for using up random vegetables in your fridge before they go bad. You could also substitute chicken or shrimp for the beef, or use tofu for a vegetarian entree.\n\nPowered by Homemade, brought to you by Davita.",
+   "ar": "الطبق المقلي بالتحريك وجبة سهلة واقتصادية ومثالية لعشاء سريع في أيام الأسبوع. تستخدم هذه الوصفة خليط بروكلي مجمدًا للقلي بالتحريك، لكن يمكنك استخدام أي خضار مجمدة متوفرة لديك. أو استخدم خضارًا طازجة! القلي بالتحريك رائع لاستهلاك الخضار المتفرقة في الثلاجة قبل أن تفسد. يمكنك أيضًا استبدال لحم البقر بالدجاج أو الروبيان، أو استخدام التوفو لطبق رئيسي نباتي.\n\nPowered by Homemade، مقدّم لكم من DaVita.",
+   "es": "El salteardo es una comida fácil y amigable con el bolsillo que es perfecta para una comida rápida para noches entre semana. Esta receta pide una mezcla de salteardo de brócoli congelado, pero puedes usar cualquier vegetal congelado que tengas a mano. O, ¡utiliza vegetales frescos! El salteardo es estupendo para utilizar vegetales al azar en tu refrigerador antes de que se dañen. También puedes sustituir pollo o camarones por la carne de res, o usar tofu para una entrada vegetariana.",
+   "fr": "Le sauté est un repas facile et économique, parfait pour un souper rapide en semaine. Cette recette utilise un mélange surgelé de brocoli pour sauté, mais vous pouvez utiliser n'importe quels légumes surgelés que vous avez sous la main. Ou utilisez des légumes frais ! Le sauté est idéal pour utiliser les légumes qui traînent dans votre frigo avant qu'ils ne se gâtent. Vous pouvez aussi remplacer le bœuf par du poulet ou des crevettes, ou utiliser du tofu pour un plat principal végétarien.\n\nPowered by Homemade, présenté par DaVita.",
+   "hi": "स्टर फ्राई एक आसान, किफ़ायती भोजन है जो सप्ताह के किसी भी दिन के जल्दी बनने वाले खाने के लिए एकदम सही है। इस रेसिपी में जमी हुई ब्रोकली स्टर फ्राई मिक्स का उपयोग होता है, लेकिन आप अपने पास मौजूद कोई भी जमी हुई सब्ज़ियाँ इस्तेमाल कर सकते हैं। या ताज़ी सब्ज़ियाँ लें! फ्रिज में पड़ी बेतरतीब सब्ज़ियों को ख़राब होने से पहले इस्तेमाल करने के लिए स्टर फ्राई बढ़िया है। आप बीफ़ की जगह चिकन या झींगे भी ले सकते हैं, या शाकाहारी मुख्य व्यंजन के लिए टोफू इस्तेमाल करें।\n\nPowered by Homemade, brought to you by Davita.",
+   "ur": "اسٹر فرائی ایک آسان، بجٹ کے موافق کھانا ہے جو ہفتے کی کسی رات کے فوری کھانے کے لیے بہترین ہے۔ اس ترکیب میں جمے ہوئے بروکلی اسٹر فرائی مکس کی ضرورت ہے، لیکن آپ اپنے پاس موجود کوئی بھی جمی ہوئی سبزیاں استعمال کر سکتے ہیں۔ یا تازہ سبزیاں استعمال کریں! اسٹر فرائی آپ کے فریج میں پڑی بے ترتیب سبزیوں کو خراب ہونے سے پہلے استعمال کرنے کے لیے بہترین ہے۔ آپ گائے کے گوشت کی جگہ چکن یا جھینگے بھی استعمال کر سکتے ہیں، یا سبزی خور مین ڈش کے لیے ٹوفو استعمال کریں۔\n\nPowered by Homemade, brought to you by Davita."
+  },
+  "reason": "pork as substitution option"
+ },
+ {
+  "key": 202,
+  "recipe_id": 6666824,
+  "field": "ingredients",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 203,
+  "recipe_id": 6666824,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 204,
+  "recipe_id": 6666824,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 205,
+  "recipe_id": 6677227,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "The Two-Bean Stew is a delightful blend of chickpeas and cannellini beans, enriched with a medley of vegetables such as onions, celery, carrots, and leeks. This stew is seasoned with garlic, white wine, and diced tomatoes, which infuse it with a rich, aromatic flavor, while fresh oregano adds a touch of herbal freshness. A hint of lemon juice and zest brings a refreshing citrus twist, perfectly balancing the savory notes.\n\nThis stew is not only a feast for the taste buds but also a nutritious choice, packed with fiber and protein. It's a versatile dish that fits well within Mediterranean and Italian culinary traditions, making it a fantastic option for a wholesome lunch or dinner.",
+   "ar": "يخنة الفاصوليا المزدوجة مزيج رائع من الحمص وفاصوليا كانيليني، مدعّم بتشكيلة من الخضار مثل البصل والكرفس والجزر والكراث. تُتبَّل هذه اليخنة بالثوم والنبيذ الأبيض والطماطم المقطعة مكعبات، مما يمنحها نكهة غنية وعطرية، بينما يضيف الأوريجانو الطازج لمسة من نضارة الأعشاب. ولمسة من عصير الليمون وقشره المبشور تضفي نكهة حمضيات منعشة توازن النكهات الشهية تمامًا.\n\nهذه اليخنة ليست وليمة للحواس فحسب، بل هي أيضًا خيار مغذٍّ غني بالألياف والبروتين. إنها طبق متعدد الاستخدامات يتماشى جيدًا مع تقاليد الطهي المتوسطية والإيطالية، مما يجعله خيارًا رائعًا لغداء أو عشاء صحي.",
+   "es": "El guiso de dos legumbres es una deliciosa combinación de garbanzos y alubias blancas, enriquecida con una mezcla de verduras como cebolla, apio, zanahoria y puerro. Este guiso se sazona con ajo, vino blanco y tomates picados, que le aportan un sabor rico y aromático, mientras que el orégano fresco le da un toque de frescura herbal. Un toque de zumo y ralladura de limón le da un refrescante toque cítrico que equilibra a la perfección los sabores salados.\n\nEste guiso no solo es un deleite para el paladar, sino también una opción nutritiva, rica en fibra y proteínas. Es un plato versátil que se integra perfectamente en las tradiciones culinarias mediterráneas e italianas, lo que lo convierte en una opción fantástica para un almuerzo o cena saludable.",
+   "fr": "Le ragoût de deux haricots est un délicieux mélange de pois chiches et de haricots cannellini, enrichi d'un assortiment de légumes tels que des oignons, du céleri, des carottes et des poireaux. Ce ragoût est assaisonné d'ail, de vin blanc et de tomates en dés, qui lui donnent une saveur riche et aromatique, tandis que l'origan frais ajoute une touche de fraîcheur herbacée. Une pointe de jus et de zeste de citron apporte une note d'agrumes rafraîchissante, qui équilibre parfaitement les saveurs salées.\n\nCe ragoût est non seulement un régal pour les papilles, mais aussi un choix nutritif, riche en fibres et en protéines. C'est un plat polyvalent qui s'inscrit bien dans les traditions culinaires méditerranéennes et italiennes, ce qui en fait une excellente option pour un déjeuner ou un dîner sain.",
+   "hi": "दो-बीन स्ट्यू काबुली चने और कैनेलिनी बीन्स का स्वादिष्ट मेल है, जिसमें प्याज़, अजवाइन के डंठल (सेलेरी), गाजर और लीक जैसी सब्ज़ियों का मिश्रण है। इस स्ट्यू में लहसुन, सफ़ेद वाइन और कटे टमाटर का मसाला है, जो इसे भरपूर, सुगंधित स्वाद देता है, जबकि ताज़ा ओरेगानो जड़ी-बूटी की ताज़गी जोड़ता है। नींबू के रस और छिलके का हल्का स्वाद ताज़ा खट्टापन देता है, जो नमकीन स्वाद को बख़ूबी संतुलित करता है।\n\nयह स्ट्यू स्वाद के लिए ही नहीं, बल्कि पौष्टिक विकल्प के रूप में भी बढ़िया है, क्योंकि इसमें फ़ाइबर और प्रोटीन भरपूर है। यह बहुमुखी व्यंजन भूमध्यसागरीय और इतालवी पाक परंपराओं में अच्छी तरह फिट बैठता है, जो इसे पौष्टिक दोपहर या रात के भोजन के लिए शानदार विकल्प बनाता है।",
+   "ur": "دو لوبیوں کا اسٹو چنوں اور کینیلینی پھلیوں کا ایک دلکش امتزاج ہے، جسے پیاز، اجوائن، گاجر اور لیکس جیسی سبزیوں کے مجموعے سے بھرپور کیا گیا ہے۔ یہ اسٹو لہسن، سفید شراب اور کٹے ہوئے ٹماٹروں سے ذائقہ دار بنایا گیا ہے، جو اسے بھرپور اور خوشبو دار ذائقہ دیتے ہیں، جبکہ تازہ اوریگانو جڑی بوٹی کی تازگی کا لمس شامل کرتا ہے۔ لیموں کے رس اور چھلکے کا ایک ہلکا سا لمس لیموں کے خاندان کا تازگی بخش موڑ لاتا ہے، جو لذیذ ذائقوں کو بالکل متوازن کر دیتا ہے۔\n\nیہ اسٹو نہ صرف ذائقے کی دعوت ہے بلکہ ایک غذائیت بخش انتخاب بھی ہے، جو فائبر اور پروٹین سے بھرپور ہے۔ یہ ایک ہمہ گیر ڈش ہے جو بحیرۂ روم اور اطالوی پکوان کی روایات میں اچھی طرح فٹ بیٹھتی ہے، اور صحت بخش لنچ یا ڈنر کے لیے ایک شاندار انتخاب ہے۔"
+  },
+  "text": {
+   "en": "The Two-Bean Stew is a delightful blend of chickpeas and cannellini beans, enriched with a medley of vegetables such as onions, celery, carrots, and leeks. This stew is seasoned with garlic and diced tomatoes, which infuse it with a rich, aromatic flavor, while fresh oregano adds a touch of herbal freshness. A hint of lemon juice and zest brings a refreshing citrus twist, perfectly balancing the savory notes.\n\nThis stew is not only a feast for the taste buds but also a nutritious choice, packed with fiber and protein. It's a versatile dish that fits well within Mediterranean and Italian culinary traditions, making it a fantastic option for a wholesome lunch or dinner.",
+   "ar": "يخنة الفاصوليا المزدوجة مزيج رائع من الحمص وفاصوليا كانيليني، مدعّم بتشكيلة من الخضار مثل البصل والكرفس والجزر والكراث. تُتبَّل هذه اليخنة بالثوم والطماطم المقطعة مكعبات، مما يمنحها نكهة غنية وعطرية، بينما يضيف الأوريجانو الطازج لمسة من نضارة الأعشاب. ولمسة من عصير الليمون وقشره المبشور تضفي نكهة حمضيات منعشة توازن النكهات الشهية تمامًا.\n\nهذه اليخنة ليست وليمة للحواس فحسب، بل هي أيضًا خيار مغذٍّ غني بالألياف والبروتين. إنها طبق متعدد الاستخدامات يتماشى جيدًا مع تقاليد الطهي المتوسطية والإيطالية، مما يجعله خيارًا رائعًا لغداء أو عشاء صحي.",
+   "es": "El guiso de dos legumbres es una deliciosa combinación de garbanzos y alubias blancas, enriquecida con una mezcla de verduras como cebolla, apio, zanahoria y puerro. Este guiso se sazona con ajo y tomates picados, que le aportan un sabor rico y aromático, mientras que el orégano fresco le da un toque de frescura herbal. Un toque de zumo y ralladura de limón le da un refrescante toque cítrico que equilibra a la perfección los sabores salados.\n\nEste guiso no solo es un deleite para el paladar, sino también una opción nutritiva, rica en fibra y proteínas. Es un plato versátil que se integra perfectamente en las tradiciones culinarias mediterráneas e italianas, lo que lo convierte en una opción fantástica para un almuerzo o cena saludable.",
+   "fr": "Le ragoût de deux haricots est un délicieux mélange de pois chiches et de haricots cannellini, enrichi d'un assortiment de légumes tels que des oignons, du céleri, des carottes et des poireaux. Ce ragoût est assaisonné d'ail et de tomates en dés, qui lui donnent une saveur riche et aromatique, tandis que l'origan frais ajoute une touche de fraîcheur herbacée. Une pointe de jus et de zeste de citron apporte une note d'agrumes rafraîchissante, qui équilibre parfaitement les saveurs salées.\n\nCe ragoût est non seulement un régal pour les papilles, mais aussi un choix nutritif, riche en fibres et en protéines. C'est un plat polyvalent qui s'inscrit bien dans les traditions culinaires méditerranéennes et italiennes, ce qui en fait une excellente option pour un déjeuner ou un dîner sain.",
+   "hi": "दो-बीन स्ट्यू काबुली चने और कैनेलिनी बीन्स का स्वादिष्ट मेल है, जिसमें प्याज़, अजवाइन के डंठल (सेलेरी), गाजर और लीक जैसी सब्ज़ियों का मिश्रण है। इस स्ट्यू में लहसुन और कटे टमाटर का मसाला है, जो इसे भरपूर, सुगंधित स्वाद देता है, जबकि ताज़ा ओरेगानो जड़ी-बूटी की ताज़गी जोड़ता है। नींबू के रस और छिलके का हल्का स्वाद ताज़ा खट्टापन देता है, जो नमकीन स्वाद को बख़ूबी संतुलित करता है।\n\nयह स्ट्यू स्वाद के लिए ही नहीं, बल्कि पौष्टिक विकल्प के रूप में भी बढ़िया है, क्योंकि इसमें फ़ाइबर और प्रोटीन भरपूर है। यह बहुमुखी व्यंजन भूमध्यसागरीय और इतालवी पाक परंपराओं में अच्छी तरह फिट बैठता है, जो इसे पौष्टिक दोपहर या रात के भोजन के लिए शानदार विकल्प बनाता है।",
+   "ur": "دو لوبیوں کا اسٹو چنوں اور کینیلینی پھلیوں کا ایک دلکش امتزاج ہے، جسے پیاز، اجوائن، گاجر اور لیکس جیسی سبزیوں کے مجموعے سے بھرپور کیا گیا ہے۔ یہ اسٹو لہسن اور کٹے ہوئے ٹماٹروں سے ذائقہ دار بنایا گیا ہے، جو اسے بھرپور اور خوشبو دار ذائقہ دیتے ہیں، جبکہ تازہ اوریگانو جڑی بوٹی کی تازگی کا لمس شامل کرتا ہے۔ لیموں کے رس اور چھلکے کا ایک ہلکا سا لمس لیموں کے خاندان کا تازگی بخش موڑ لاتا ہے، جو لذیذ ذائقوں کو بالکل متوازن کر دیتا ہے۔\n\nیہ اسٹو نہ صرف ذائقے کی دعوت ہے بلکہ ایک غذائیت بخش انتخاب بھی ہے، جو فائبر اور پروٹین سے بھرپور ہے۔ یہ ایک ہمہ گیر ڈش ہے جو بحیرۂ روم اور اطالوی پکوان کی روایات میں اچھی طرح فٹ بیٹھتی ہے، اور صحت بخش لنچ یا ڈنر کے لیے ایک شاندار انتخاب ہے۔"
+  },
+  "reason": "description mentions white wine not in recipe"
+ },
+ {
+  "key": 206,
+  "recipe_id": 6681622,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 207,
+  "recipe_id": 6683291,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Many traditional Latin recipes have been deemed unhealthy because of their use of pork lard. But in this day and age, the amount of good-for-you fats available is endless. These refried beans leave out the lard, and get lots of flavor from fresh onion and garlic, chipotles, and cumin.",
+   "ar": "اعتُبرت كثير من الوصفات اللاتينية التقليدية غير صحية بسبب استخدام شحم الخنزير. لكن في عصرنا هذا، أصبحت كمية الدهون المفيدة المتاحة لا حصر لها. هذه الفاصوليا المقلية خالية من شحم الخنزير، وتحصل على نكهة غنية من البصل والثوم الطازجين والتشيبوتلي والكمون.",
+   "es": "Muchas recetas latinas tradicionales se han considerado como no saludables debido a su uso de manteca de cerdo. Pero en este día y en esta era, la cantidad de grasas buenas para ti disponibles es interminable. Estos frijoles refritos dejan la manteca, y obtienen mucho sabor de la cebolla y ajo fresco, chipotles, y comino.",
+   "fr": "Beaucoup de recettes latines traditionnelles sont jugées malsaines à cause de l'utilisation de saindoux. Mais de nos jours, les bons gras disponibles sont infinis. Ces haricots frits se passent de saindoux et tirent beaucoup de saveur de l'oignon et de l'ail frais, des chipotles et du cumin.",
+   "hi": "कई पारंपरिक लैटिन व्यंजनों को सूअर की चर्बी के इस्तेमाल के कारण अस्वास्थ्यकर माना गया है। लेकिन आज के समय में, सेहत के लिए अच्छी वसा के विकल्प अनगिनत हैं। इन रीफ्राइड बीन्स में चर्बी नहीं डाली गई है, और इन्हें ताज़े प्याज़ और लहसुन, चिपोटले मिर्च और जीरे से भरपूर स्वाद मिलता है।",
+   "ur": "بہت سی روایتی لاطینی ترکیبوں کو سور کی چربی کے استعمال کی وجہ سے غیر صحت بخش سمجھا گیا ہے۔ لیکن آج کے دور میں آپ کے لیے مفید چکنائیوں کی کوئی کمی نہیں۔ یہ ریفرائیڈ بینز چربی کے بغیر بنے ہیں اور تازہ پیاز اور لہسن، چپوٹلے اور زیرے سے خوب ذائقہ حاصل کرتے ہیں۔"
+  },
+  "text": {
+   "en": "Many traditional Latin recipes have been deemed unhealthy because of their heavy use of animal fat. But in this day and age, the amount of good-for-you fats available is endless. These refried beans leave out the extra fat, and get lots of flavor from fresh onion and garlic, chipotles, and cumin.",
+   "ar": "اعتُبرت كثير من الوصفات اللاتينية التقليدية غير صحية بسبب الإكثار من الدهون الحيوانية. لكن في عصرنا هذا، أصبحت كمية الدهون المفيدة المتاحة لا حصر لها. هذه الفاصوليا المقلية خالية من الدهون الزائدة، وتحصل على نكهة غنية من البصل والثوم الطازجين والتشيبوتلي والكمون.",
+   "es": "Muchas recetas latinas tradicionales se han considerado como no saludables debido a su uso abundante de grasa animal. Pero en este día y en esta era, la cantidad de grasas buenas para ti disponibles es interminable. Estos frijoles refritos dejan de lado la grasa extra, y obtienen mucho sabor de la cebolla y ajo fresco, chipotles, y comino.",
+   "fr": "Beaucoup de recettes latines traditionnelles sont jugées malsaines à cause de l'utilisation abondante de graisse animale. Mais de nos jours, les bons gras disponibles sont infinis. Ces haricots frits se passent de graisse ajoutée et tirent beaucoup de saveur de l'oignon et de l'ail frais, des chipotles et du cumin.",
+   "hi": "कई पारंपरिक लैटिन व्यंजनों को पशु वसा के ज़्यादा इस्तेमाल के कारण अस्वास्थ्यकर माना गया है। लेकिन आज के समय में, सेहत के लिए अच्छी वसा के विकल्प अनगिनत हैं। इन रीफ्राइड बीन्स में चर्बी नहीं डाली गई है, और इन्हें ताज़े प्याज़ और लहसुन, चिपोटले मिर्च और जीरे से भरपूर स्वाद मिलता है।",
+   "ur": "بہت سی روایتی لاطینی ترکیبوں کو جانوروں کی چربی کے زیادہ استعمال کی وجہ سے غیر صحت بخش سمجھا گیا ہے۔ لیکن آج کے دور میں آپ کے لیے مفید چکنائیوں کی کوئی کمی نہیں۔ یہ ریفرائیڈ بینز چربی کے بغیر بنے ہیں اور تازہ پیاز اور لہسن، چپوٹلے اور زیرے سے خوب ذائقہ حاصل کرتے ہیں۔"
+  },
+  "reason": "lard mentioned as story only"
+ },
+ {
+  "key": 208,
+  "recipe_id": 6691484,
+  "field": "ingredients",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 209,
+  "recipe_id": 6697212,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This sweet and savory dish uses seasonal apples and cabbage for a budget-friendly side vegetable. Great paired with a simple meat entree such as Roasted Pork Tenderloin with Thyme & Garlic Marinade and Balsamic Roasted Grapes.",
+   "ar": "يستخدم هذا الطبق الحلو والمالح التفاح والملفوف الموسميين لتحضير خضار جانبي اقتصادي. يتناسب جيدًا مع طبق رئيسي بسيط من اللحم مثل فيليه لحم الخنزير المشوي بتتبيلة الزعتر والثوم والعنب المشوي بالخل البلسمي.",
+   "es": "Este plato agridulce utiliza manzanas de temporada y repollo como guarnición económica. Combina a la perfección con un plato principal de carne sencillo, como el lomo de cerdo asado con adobo de tomillo y ajo y uvas asadas con vinagre balsámico.",
+   "fr": "Ce plat sucré-salé utilise des pommes et du chou de saison pour un légume d'accompagnement économique. Il se marie très bien avec un plat principal de viande simple, comme le filet de porc rôti à la marinade au thym et à l'ail et les raisins rôtis au balsamique.",
+   "hi": "यह मीठा और नमकीन व्यंजन मौसमी सेब और पत्ता गोभी का उपयोग करके बजट के अनुकूल साइड सब्ज़ी बनाता है। भुने हुए पोर्क टेंडरलॉइन विद थाइम एंड गार्लिक मैरिनेड और बालसमिक भुने अंगूर जैसे सरल मांसाहारी मुख्य व्यंजन के साथ बढ़िया लगता है।",
+   "ur": "یہ میٹھی اور لذیذ ڈش موسمی سیبوں اور بند گوبھی کو بجٹ کے موافق سائیڈ سبزی کے لیے استعمال کرتی ہے۔ کسی سادہ گوشت کی مین ڈش جیسے تھائم اور لہسن کے مرینیڈ والے روسٹ پورک ٹینڈرلوئن اور بالسامک روسٹ کیے ہوئے انگور کے ساتھ بہترین لگتی ہے۔"
+  },
+  "text": {
+   "en": "This sweet and savory dish uses seasonal apples and cabbage for a budget-friendly side vegetable. Great paired with a simple meat entree and Balsamic Roasted Grapes.",
+   "ar": "يستخدم هذا الطبق الحلو والمالح التفاح والملفوف الموسميين لتحضير خضار جانبي اقتصادي. يتناسب جيدًا مع طبق رئيسي بسيط من اللحم ومع العنب المشوي بالخل البلسمي.",
+   "es": "Este plato agridulce utiliza manzanas de temporada y repollo como guarnición económica. Combina a la perfección con un plato principal de carne sencillo y uvas asadas con vinagre balsámico.",
+   "fr": "Ce plat sucré-salé utilise des pommes et du chou de saison pour un légume d'accompagnement économique. Il se marie très bien avec un plat principal de viande simple et des raisins rôtis au balsamique.",
+   "hi": "यह मीठा और नमकीन व्यंजन मौसमी सेब और पत्ता गोभी का उपयोग करके बजट के अनुकूल साइड सब्ज़ी बनाता है। किसी सरल मांसाहारी मुख्य व्यंजन और बालसमिक भुने अंगूर के साथ बढ़िया लगता है।",
+   "ur": "یہ میٹھی اور لذیذ ڈش موسمی سیبوں اور بند گوبھی کو بجٹ کے موافق سائیڈ سبزی کے لیے استعمال کرتی ہے۔ کسی سادہ گوشت کی مین ڈش اور بالسامک روسٹ کیے ہوئے انگور کے ساتھ بہترین لگتی ہے۔"
+  },
+  "reason": "pairing suggestion with pork tenderloin"
+ },
+ {
+  "key": 210,
+  "recipe_id": 6698493,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This recipe makes a great appetizer, but add some lean protein such as chicken or pork to the rolls and you have a light meal. To save time, use bagged coleslaw mix with cabbage and carrots.",
+   "ar": "هذه الوصفة تصلح كمقبّلات رائعة، ولكن أضف إلى اللفائف بعض البروتين الخالي من الدهون مثل الدجاج أو لحم الخنزير لتحصل على وجبة خفيفة. ولتوفير الوقت، استخدم خليط الكولسلو الجاهز المعبأ من الملفوف والجزر.",
+   "es": "Esta receta es ideal como aperitivo, pero si le añades proteína magra como pollo o cerdo a los panecillos, tendrás una comida ligera. Para ahorrar tiempo, usa ensalada de col preparada con repollo y zanahorias.",
+   "fr": "Cette recette fait une excellente entrée, mais ajoutez aux rouleaux une protéine maigre comme du poulet ou du porc et vous obtenez un repas léger. Pour gagner du temps, utilisez un mélange de salade de chou en sac contenant du chou et des carottes.",
+   "hi": "यह रेसिपी बढ़िया स्टार्टर बनाती है, लेकिन रोल में चिकन या पोर्क जैसा कोई दुबला प्रोटीन डालें तो यह हल्का भोजन बन जाता है। समय बचाने के लिए, पत्ता गोभी और गाजर वाला बैग में मिलने वाला कोलस्लॉ मिक्स उपयोग करें।",
+   "ur": "یہ نسخہ ایک عمدہ ابتدائی ڈش (اپیٹائزر) ہے، لیکن اگر رولز میں چکن یا سور کا گوشت جیسی چربی کے بغیر پروٹین شامل کر لیں تو یہ ایک ہلکا کھانا بن جاتا ہے۔ وقت بچانے کے لیے بند پیکٹ میں ملنے والا بند گوبھی اور گاجر کا کول سلا مکس استعمال کریں۔"
+  },
+  "text": {
+   "en": "This recipe makes a great appetizer, but add some lean protein such as chicken to the rolls and you have a light meal. To save time, use bagged coleslaw mix with cabbage and carrots.",
+   "ar": "هذه الوصفة تصلح كمقبّلات رائعة، ولكن أضف إلى اللفائف بعض البروتين الخالي من الدهون مثل الدجاج لتحصل على وجبة خفيفة. ولتوفير الوقت، استخدم خليط الكولسلو الجاهز المعبأ من الملفوف والجزر.",
+   "es": "Esta receta es ideal como aperitivo, pero si le añades proteína magra como pollo a los panecillos, tendrás una comida ligera. Para ahorrar tiempo, usa ensalada de col preparada con repollo y zanahorias.",
+   "fr": "Cette recette fait une excellente entrée, mais ajoutez aux rouleaux une protéine maigre comme du poulet et vous obtenez un repas léger. Pour gagner du temps, utilisez un mélange de salade de chou en sac contenant du chou et des carottes.",
+   "hi": "यह रेसिपी बढ़िया स्टार्टर बनाती है, लेकिन रोल में चिकन जैसा कोई दुबला प्रोटीन डालें तो यह हल्का भोजन बन जाता है। समय बचाने के लिए, पत्ता गोभी और गाजर वाला बैग में मिलने वाला कोलस्लॉ मिक्स उपयोग करें।",
+   "ur": "یہ نسخہ ایک عمدہ ابتدائی ڈش (اپیٹائزر) ہے، لیکن اگر رولز میں چکن جیسی چربی کے بغیر پروٹین شامل کر لیں تو یہ ایک ہلکا کھانا بن جاتا ہے۔ وقت بچانے کے لیے بند پیکٹ میں ملنے والا بند گوبھی اور گاجر کا کول سلا مکس استعمال کریں۔"
+  },
+  "reason": "pork as optional protein"
+ },
+ {
+  "key": 211,
+  "recipe_id": 6698493,
+  "field": "ingredients",
+  "position": 8,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 212,
+  "recipe_id": 6699442,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Collard greens are a nutritional superfood, high in many essential vitamins and minerals. In Southern cuisine, collards are traditionally made with large amounts of pork fat and salt, but this version has all the flavor without the saturated fat and sodium. Complete your plate: Pair this vegetable side dish with a protein entrée, like Lemon Chicken with Garlic and Rosemary, and a simple roasted sweet potato.",
+   "ar": "خضار الكولارد غذاء خارق مغذٍّ، غني بالعديد من الفيتامينات والمعادن الأساسية. في مطبخ الجنوب الأمريكي، يُطهى الكولارد تقليديًا بكميات كبيرة من دهن الخنزير والملح، لكن هذه النسخة تحتفظ بكل النكهة دون الدهون المشبعة والصوديوم. أكمل طبقك: قدّم هذا الطبق الجانبي من الخضار مع طبق رئيسي غني بالبروتين، مثل الدجاج بالليمون والثوم وإكليل الجبل، ومع بطاطا حلوة محمّصة بسيطة.",
+   "es": "Las hojas de berza (collard greens) son un superalimento nutritivo, ricas en muchas vitaminas y minerales esenciales. En la cocina del sur de Estados Unidos, la berza se prepara tradicionalmente con grandes cantidades de grasa de cerdo y sal, pero esta versión tiene todo el sabor sin la grasa saturada ni el sodio. Complete su plato: acompañe esta guarnición de verduras con un plato fuerte de proteína, como el pollo al limón con ajo y romero, y un sencillo camote asado.",
+   "fr": "Le chou vert frisé est un superaliment nutritif, riche en de nombreuses vitamines et minéraux essentiels. Dans la cuisine du Sud des États-Unis, le chou vert frisé est traditionnellement préparé avec de grandes quantités de gras de porc et de sel, mais cette version a toute la saveur sans les gras saturés ni le sodium. Complétez votre assiette : associez cet accompagnement de légumes à un plat principal protéiné, comme le poulet au citron, à l'ail et au romarin, et à une simple patate douce rôtie.",
+   "hi": "कोलार्ड ग्रीन्स एक पोषक सुपरफ़ूड है, जिसमें कई ज़रूरी विटामिन और खनिज भरपूर होते हैं। दक्षिणी व्यंजनों में कोलार्ड पारंपरिक रूप से सूअर की बहुत सारी चर्बी और नमक के साथ बनाए जाते हैं, लेकिन इस रूप में संतृप्त वसा और सोडियम के बिना भी पूरा स्वाद मिलता है। अपनी प्लेट पूरी करें: इस सब्ज़ी साइड डिश को लहसुन और रोज़मेरी के साथ नींबू चिकन जैसे प्रोटीन वाले मुख्य व्यंजन और एक साधारण भुने शकरकंद के साथ जोड़ें।",
+   "ur": "کولارڈ گرینز (ایک قسم کا پتوں والا ساگ) غذائیت سے بھرپور سپر فوڈ ہے جس میں کئی ضروری وٹامنز اور معدنیات زیادہ مقدار میں ہوتے ہیں۔ جنوبی امریکی کھانوں میں کولارڈز روایتی طور پر سور کی بہت زیادہ چربی اور نمک سے پکائے جاتے ہیں، لیکن اس نسخے میں پورا ذائقہ ہے اور سیر شدہ چکنائی اور سوڈیم نہیں ہیں۔ اپنی پلیٹ مکمل کریں: اس سبزی کی سائیڈ ڈش کو کسی پروٹین والی مین ڈش، جیسے لہسن اور روزمیری کے ساتھ لیموں والا چکن، اور سادہ بھنے ہوئے شکر قندی کے ساتھ ملائیں۔"
+  },
+  "text": {
+   "en": "Collard greens are a nutritional superfood, high in many essential vitamins and minerals. In Southern cuisine, collards are traditionally made with large amounts of fat and salt, but this version has all the flavor without the saturated fat and sodium. Complete your plate: Pair this vegetable side dish with a protein entrée, like Lemon Chicken with Garlic and Rosemary, and a simple roasted sweet potato.",
+   "ar": "خضار الكولارد غذاء خارق مغذٍّ، غني بالعديد من الفيتامينات والمعادن الأساسية. في مطبخ الجنوب الأمريكي، يُطهى الكولارد تقليديًا بكميات كبيرة من الدهون والملح، لكن هذه النسخة تحتفظ بكل النكهة دون الدهون المشبعة والصوديوم. أكمل طبقك: قدّم هذا الطبق الجانبي من الخضار مع طبق رئيسي غني بالبروتين، مثل الدجاج بالليمون والثوم وإكليل الجبل، ومع بطاطا حلوة محمّصة بسيطة.",
+   "es": "Las hojas de berza (collard greens) son un superalimento nutritivo, ricas en muchas vitaminas y minerales esenciales. En la cocina del sur de Estados Unidos, la berza se prepara tradicionalmente con grandes cantidades de grasa y sal, pero esta versión tiene todo el sabor sin la grasa saturada ni el sodio. Complete su plato: acompañe esta guarnición de verduras con un plato fuerte de proteína, como el pollo al limón con ajo y romero, y un sencillo camote asado.",
+   "fr": "Le chou vert frisé est un superaliment nutritif, riche en de nombreuses vitamines et minéraux essentiels. Dans la cuisine du Sud des États-Unis, le chou vert frisé est traditionnellement préparé avec de grandes quantités de gras et de sel, mais cette version a toute la saveur sans les gras saturés ni le sodium. Complétez votre assiette : associez cet accompagnement de légumes à un plat principal protéiné, comme le poulet au citron, à l'ail et au romarin, et à une simple patate douce rôtie.",
+   "hi": "कोलार्ड ग्रीन्स एक पोषक सुपरफ़ूड है, जिसमें कई ज़रूरी विटामिन और खनिज भरपूर होते हैं। दक्षिणी व्यंजनों में कोलार्ड पारंपरिक रूप से बहुत सारी चर्बी और नमक के साथ बनाए जाते हैं, लेकिन इस रूप में संतृप्त वसा और सोडियम के बिना भी पूरा स्वाद मिलता है। अपनी प्लेट पूरी करें: इस सब्ज़ी साइड डिश को लहसुन और रोज़मेरी के साथ नींबू चिकन जैसे प्रोटीन वाले मुख्य व्यंजन और एक साधारण भुने शकरकंद के साथ जोड़ें।",
+   "ur": "کولارڈ گرینز (ایک قسم کا پتوں والا ساگ) غذائیت سے بھرپور سپر فوڈ ہے جس میں کئی ضروری وٹامنز اور معدنیات زیادہ مقدار میں ہوتے ہیں۔ جنوبی امریکی کھانوں میں کولارڈز روایتی طور پر بہت زیادہ چربی اور نمک سے پکائے جاتے ہیں، لیکن اس نسخے میں پورا ذائقہ ہے اور سیر شدہ چکنائی اور سوڈیم نہیں ہیں۔ اپنی پلیٹ مکمل کریں: اس سبزی کی سائیڈ ڈش کو کسی پروٹین والی مین ڈش، جیسے لہسن اور روزمیری کے ساتھ لیموں والا چکن، اور سادہ بھنے ہوئے شکر قندی کے ساتھ ملائیں۔"
+  },
+  "reason": "pork fat mentioned as tradition"
+ },
+ {
+  "key": 213,
+  "recipe_id": 6699442,
+  "field": "ingredients",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 214,
+  "recipe_id": 6699442,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 215,
+  "recipe_id": 6699442,
+  "field": "steps",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 216,
+  "recipe_id": 6702069,
+  "field": "ingredients",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 217,
+  "recipe_id": 6702069,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "bacon here is turkey bacon from ingredients"
+ },
+ {
+  "key": 218,
+  "recipe_id": 6702069,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "bacon here is turkey bacon from ingredients"
+ },
+ {
+  "key": 219,
+  "recipe_id": 6702627,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This classic Mexican stew from Puebla, Mexico, is intensely rich in flavor and spices. It hits the spot every time. Serve either inside a tortilla or over a bowl of brown rice or quinoa and enjoy! For a different take on this dish, substitute lean pork loin for the chicken.",
+   "ar": "هذه اليخنة المكسيكية الكلاسيكية من بويبلا بالمكسيك غنية بالنكهة والتوابل بشكل مكثف. إنها تُرضي الذوق في كل مرة. قدّمها داخل تورتيلا أو فوق وعاء من الأرز البني أو الكينوا واستمتع بها! ولتجربة مختلفة لهذا الطبق، استبدل الدجاج بلحم خاصرة الخنزير الخالي من الدهون.",
+   "es": "Este clásico estofado mexicano de Puebla, México, es intensamente rico en sabor y especias. Tiene éxito en todo momento. ¡Sírvelo dentro de una tortilla o sobre un tazón de arroz integral o quinua y disfruta! Para un enfoque diferente sobre este plato, sustituye el lomo magro de cerdo por el pollo.",
+   "fr": "Ce ragoût mexicain classique de Puebla, au Mexique, est d'une saveur et d'une richesse d'épices intenses. Il fait plaisir à chaque fois. Servez-le dans une tortilla ou sur un bol de riz brun ou de quinoa, et régalez-vous ! Pour une version différente de ce plat, remplacez le poulet par de la longe de porc maigre.",
+   "hi": "मेक्सिको के प्यूब्ला का यह पारंपरिक मैक्सिकन स्ट्यू स्वाद और मसालों में बेहद भरपूर है। यह हर बार मन को तृप्त कर देता है। इसे टॉर्टिला के अंदर या ब्राउन राइस या क्विनोआ के कटोरे पर परोसें और आनंद लें! इस व्यंजन को अलग अंदाज़ में बनाने के लिए, चिकन की जगह दुबला पोर्क लॉइन इस्तेमाल करें।",
+   "ur": "میکسیکو کے شہر پوئبلا کا یہ روایتی میکسیکن سالن ذائقے اور مسالوں سے بھرپور ہے۔ یہ ہر بار دل کو بھاتا ہے۔ اسے ٹورٹیلا کے اندر یا براؤن رائس یا کینوا کے پیالے کے اوپر ڈال کر پیش کریں اور لطف اٹھائیں! اس ڈش کو مختلف انداز میں بنانے کے لیے چکن کی جگہ چربی کے بغیر سور کا گوشت (لوئن) استعمال کریں۔"
+  },
+  "text": {
+   "en": "This classic Mexican stew from Puebla, Mexico, is intensely rich in flavor and spices. It hits the spot every time. Serve either inside a tortilla or over a bowl of brown rice or quinoa and enjoy!",
+   "ar": "هذه اليخنة المكسيكية الكلاسيكية من بويبلا بالمكسيك غنية بالنكهة والتوابل بشكل مكثف. إنها تُرضي الذوق في كل مرة. قدّمها داخل تورتيلا أو فوق وعاء من الأرز البني أو الكينوا واستمتع بها!",
+   "es": "Este clásico estofado mexicano de Puebla, México, es intensamente rico en sabor y especias. Tiene éxito en todo momento. ¡Sírvelo dentro de una tortilla o sobre un tazón de arroz integral o quinua y disfruta!",
+   "fr": "Ce ragoût mexicain classique de Puebla, au Mexique, est d'une saveur et d'une richesse d'épices intenses. Il fait plaisir à chaque fois. Servez-le dans une tortilla ou sur un bol de riz brun ou de quinoa, et régalez-vous !",
+   "hi": "मेक्सिको के प्यूब्ला का यह पारंपरिक मैक्सिकन स्ट्यू स्वाद और मसालों में बेहद भरपूर है। यह हर बार मन को तृप्त कर देता है। इसे टॉर्टिला के अंदर या ब्राउन राइस या क्विनोआ के कटोरे पर परोसें और आनंद लें!",
+   "ur": "میکسیکو کے شہر پوئبلا کا یہ روایتی میکسیکن سالن ذائقے اور مسالوں سے بھرپور ہے۔ یہ ہر بار دل کو بھاتا ہے۔ اسے ٹورٹیلا کے اندر یا براؤن رائس یا کینوا کے پیالے کے اوپر ڈال کر پیش کریں اور لطف اٹھائیں!"
+  },
+  "reason": "pork loin as substitution"
+ },
+ {
+  "key": 220,
+  "recipe_id": 6720715,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 221,
+  "recipe_id": 6720715,
+  "field": "steps",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 222,
+  "recipe_id": 6726593,
+  "field": "ingredients",
+  "position": 10,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 223,
+  "recipe_id": 6726593,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 224,
+  "recipe_id": 6739070,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 225,
+  "recipe_id": 6739070,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 226,
+  "recipe_id": 6739070,
+  "field": "title",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 227,
+  "recipe_id": 6740165,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 228,
+  "recipe_id": 6740165,
+  "field": "ingredients",
+  "position": 12,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 229,
+  "recipe_id": 6740165,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 230,
+  "recipe_id": 6754918,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This sweet, smokey and savory dish is perfect as a side to roasted pork or chicken. Plantains look similar to a banana but are higher in starch and best enjoyed roasted or cooked. You will typically find them in Caribbean or African cuisine, and they are available in many US grocery stores.",
+   "ar": "هذا الطبق الحلو والمدخّن والشهي مثالي كطبق جانبي للحم الخنزير أو الدجاج المشوي. يشبه موز الطبخ الموز العادي لكنه يحتوي على نسبة أعلى من النشا، ويُستمتع به أكثر عند شيّه أو طهيه. ستجده عادةً في المطبخ الكاريبي أو الأفريقي، وهو متوفر في كثير من متاجر البقالة في الولايات المتحدة.",
+   "es": "Este plato dulce, ahumado y sabroso es perfecto como acompañamiento para cerdo o pollo asado. Los plátanos machos se parecen a las bananas, pero tienen más almidón y se disfrutan mejor asados o cocidos. Suelen encontrarse en la cocina caribeña o africana, y están disponibles en muchos supermercados de Estados Unidos.",
+   "fr": "Ce plat sucré, fumé et savoureux est parfait en accompagnement d'un rôti de porc ou de poulet. Les plantains ressemblent à des bananes, mais ils sont plus riches en amidon et se savourent mieux rôtis ou cuits. On les trouve généralement dans la cuisine des Caraïbes ou d'Afrique, et ils sont offerts dans de nombreuses épiceries des États-Unis.",
+   "hi": "यह मीठा, धुएँ की खुशबू वाला और नमकीन व्यंजन भुने सूअर के मांस या चिकन के साइड के रूप में एकदम सही है। प्लांटेन देखने में केले जैसे लगते हैं लेकिन उनमें स्टार्च ज़्यादा होता है और उन्हें भूनकर या पकाकर खाना सबसे अच्छा है। आप इन्हें आम तौर पर कैरिबियन या अफ़्रीकी व्यंजनों में पाएँगे, और ये अमेरिका की कई किराना दुकानों में उपलब्ध हैं।",
+   "ur": "یہ میٹھی، دھوئیں کی خوشبو والی اور نمکین ڈش بھنے ہوئے سور کے گوشت یا چکن کے ساتھ سائیڈ کے طور پر بہترین ہے۔ پلانٹینز دیکھنے میں کیلے جیسے لگتے ہیں لیکن ان میں نشاستہ زیادہ ہوتا ہے اور انہیں بھون کر یا پکا کر کھانا بہتر ہے۔ آپ انہیں عام طور پر کیریبین یا افریقی کھانوں میں پائیں گے، اور یہ امریکا کے کئی گروسری اسٹورز میں دستیاب ہیں۔"
+  },
+  "text": {
+   "en": "This sweet, smokey and savory dish is perfect as a side to roasted chicken. Plantains look similar to a banana but are higher in starch and best enjoyed roasted or cooked. You will typically find them in Caribbean or African cuisine, and they are available in many US grocery stores.",
+   "ar": "هذا الطبق الحلو والمدخّن والشهي مثالي كطبق جانبي للدجاج المشوي. يشبه موز الطبخ الموز العادي لكنه يحتوي على نسبة أعلى من النشا، ويُستمتع به أكثر عند شيّه أو طهيه. ستجده عادةً في المطبخ الكاريبي أو الأفريقي، وهو متوفر في كثير من متاجر البقالة في الولايات المتحدة.",
+   "es": "Este plato dulce, ahumado y sabroso es perfecto como acompañamiento para pollo asado. Los plátanos machos se parecen a las bananas, pero tienen más almidón y se disfrutan mejor asados o cocidos. Suelen encontrarse en la cocina caribeña o africana, y están disponibles en muchos supermercados de Estados Unidos.",
+   "fr": "Ce plat sucré, fumé et savoureux est parfait en accompagnement d'un poulet rôti. Les plantains ressemblent à des bananes, mais ils sont plus riches en amidon et se savourent mieux rôtis ou cuits. On les trouve généralement dans la cuisine des Caraïbes ou d'Afrique, et ils sont offerts dans de nombreuses épiceries des États-Unis.",
+   "hi": "यह मीठा, धुएँ की खुशबू वाला और नमकीन व्यंजन भुने चिकन के साइड के रूप में एकदम सही है। प्लांटेन देखने में केले जैसे लगते हैं लेकिन उनमें स्टार्च ज़्यादा होता है और उन्हें भूनकर या पकाकर खाना सबसे अच्छा है। आप इन्हें आम तौर पर कैरिबियन या अफ़्रीकी व्यंजनों में पाएँगे, और ये अमेरिका की कई किराना दुकानों में उपलब्ध हैं।",
+   "ur": "یہ میٹھی، دھوئیں کی خوشبو والی اور نمکین ڈش بھنے ہوئے چکن کے ساتھ سائیڈ کے طور پر بہترین ہے۔ پلانٹینز دیکھنے میں کیلے جیسے لگتے ہیں لیکن ان میں نشاستہ زیادہ ہوتا ہے اور انہیں بھون کر یا پکا کر کھانا بہتر ہے۔ آپ انہیں عام طور پر کیریبین یا افریقی کھانوں میں پائیں گے، اور یہ امریکا کے کئی گروسری اسٹورز میں دستیاب ہیں۔"
+  },
+  "reason": "pairing with roasted pork"
+ },
+ {
+  "key": 231,
+  "recipe_id": 6759520,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Smoky with a little kick, these roasted shallots and brussels sprouts are simple to prepare. Serve them with roasted pork loin or beef tenderloin.",
+   "ar": "بنكهة مدخّنة وحرارة خفيفة، يسهل تحضير هذا الشالوت وكرنب بروكسل المحمّص. قدّمه مع لحم خاصرة الخنزير المشوي أو فيليه لحم البقر.",
+   "es": "Con un toque ahumado y un ligero picante, estas chalotas y coles de Bruselas asadas son muy fáciles de preparar. Sírvelas con lomo de cerdo asado o solomillo de ternera.",
+   "fr": "Fumés avec un petit côté piquant, ces échalotes et choux de Bruxelles rôtis sont simples à préparer. Servez-les avec un rôti de longe de porc ou un filet de bœuf.",
+   "hi": "हल्के धुएँ की खुशबू और थोड़े तीखेपन के साथ, ये भुने शैलट और ब्रसेल्स स्प्राउट बनाने में आसान हैं। इन्हें भुने पोर्क लॉइन या बीफ़ टेंडरलॉइन के साथ परोसें।",
+   "ur": "دھوئیں کی خوشبو اور ہلکی تیزی کے ساتھ، یہ بھنی ہوئی شالوٹ اور برسلز اسپراؤٹس تیار کرنا آسان ہیں۔ انہیں بھنے ہوئے سور کے گوشت (لوئن) یا بیف ٹینڈرلوئن کے ساتھ پیش کریں۔"
+  },
+  "text": {
+   "en": "Smoky with a little kick, these roasted shallots and brussels sprouts are simple to prepare. Serve them with beef tenderloin.",
+   "ar": "بنكهة مدخّنة وحرارة خفيفة، يسهل تحضير هذا الشالوت وكرنب بروكسل المحمّص. قدّمه مع فيليه لحم البقر.",
+   "es": "Con un toque ahumado y un ligero picante, estas chalotas y coles de Bruselas asadas son muy fáciles de preparar. Sírvelas con solomillo de ternera.",
+   "fr": "Fumés avec un petit côté piquant, ces échalotes et choux de Bruxelles rôtis sont simples à préparer. Servez-les avec un filet de bœuf.",
+   "hi": "हल्के धुएँ की खुशबू और थोड़े तीखेपन के साथ, ये भुने शैलट और ब्रसेल्स स्प्राउट बनाने में आसान हैं। इन्हें बीफ़ टेंडरलॉइन के साथ परोसें।",
+   "ur": "دھوئیں کی خوشبو اور ہلکی تیزی کے ساتھ، یہ بھنی ہوئی شالوٹ اور برسلز اسپراؤٹس تیار کرنا آسان ہیں۔ انہیں بیف ٹینڈرلوئن کے ساتھ پیش کریں۔"
+  },
+  "reason": "pairing with pork loin"
+ },
+ {
+  "key": 232,
+  "recipe_id": 6783809,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 233,
+  "recipe_id": 6796988,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This refreshing broccoli salad pairs well with any barbecued chicken, grilled fish or pork chops.",
+   "ar": "تتناسب سلطة البروكلي المنعشة هذه جيدًا مع أي دجاج مشوي على الفحم أو سمك مشوي أو شرائح لحم الخنزير.",
+   "es": "Esta refrescante ensalada de brócoli combina muy bien con cualquier pollo a la barbacoa, pescado a la parrilla o chuletas de cerdo.",
+   "fr": "Cette salade de brocoli rafraîchissante se marie bien avec le poulet barbecue, le poisson grillé ou les côtelettes de porc.",
+   "hi": "यह ताज़गी भरा ब्रोकली सलाद किसी भी बारबेक्यू चिकन, ग्रिल्ड मछली या पोर्क चॉप के साथ अच्छा लगता है।",
+   "ur": "یہ تازگی بخش بروکلی سلاد کسی بھی باربی کیو چکن، گرل کی ہوئی مچھلی یا سور کے چاپس کے ساتھ اچھا لگتا ہے۔"
+  },
+  "text": {
+   "en": "This refreshing broccoli salad pairs well with any barbecued chicken or grilled fish.",
+   "ar": "تتناسب سلطة البروكلي المنعشة هذه جيدًا مع أي دجاج مشوي على الفحم أو سمك مشوي.",
+   "es": "Esta refrescante ensalada de brócoli combina muy bien con cualquier pollo a la barbacoa o pescado a la parrilla.",
+   "fr": "Cette salade de brocoli rafraîchissante se marie bien avec le poulet barbecue ou le poisson grillé.",
+   "hi": "यह ताज़गी भरा ब्रोकली सलाद किसी भी बारबेक्यू चिकन या ग्रिल्ड मछली के साथ अच्छा लगता है।",
+   "ur": "یہ تازگی بخش بروکلی سلاد کسی بھی باربی کیو چکن یا گرل کی ہوئی مچھلی کے ساتھ اچھا لگتا ہے۔"
+  },
+  "reason": "pairing with pork chops"
+ },
+ {
+  "key": 234,
+  "recipe_id": 6824681,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Creamy and zesty, this easy salad dressing is a nice change of pace and will dress up green salads or can be used as a marinade for pork or chicken.",
+   "ar": "هذه الصلصة السهلة للسلطة كريمية ومنعشة، وهي تغيير لطيف يزيّن السلطات الخضراء ويمكن استخدامها أيضًا كتتبيلة للحم الخنزير أو الدجاج.",
+   "fr": "Crémeuse et acidulée, cette vinaigrette facile change agréablement et relèvera les salades vertes, ou peut servir de marinade pour le porc ou le poulet.",
+   "hi": "मलाईदार और चटपटी, यह आसान सलाद ड्रेसिंग एक अच्छा बदलाव है और हरे सलाद को सजाएगी या पोर्क या चिकन के लिए मैरिनेड के रूप में इस्तेमाल की जा सकती है।",
+   "ur": "کریمی اور تیز ذائقے والی یہ آسان سلاد ڈریسنگ ذائقے میں ایک اچھی تبدیلی ہے، ہرے سلاد کو سجائے گی یا سور کے گوشت یا مرغی کے لیے میرینیڈ کے طور پر استعمال ہو سکتی ہے۔"
+  },
+  "text": {
+   "en": "Creamy and zesty, this easy salad dressing is a nice change of pace and will dress up green salads or can be used as a marinade for chicken.",
+   "ar": "هذه الصلصة السهلة للسلطة كريمية ومنعشة، وهي تغيير لطيف يزيّن السلطات الخضراء ويمكن استخدامها أيضًا كتتبيلة للدجاج.",
+   "fr": "Crémeuse et acidulée, cette vinaigrette facile change agréablement et relèvera les salades vertes, ou peut servir de marinade pour le poulet.",
+   "hi": "मलाईदार और चटपटी, यह आसान सलाद ड्रेसिंग एक अच्छा बदलाव है और हरे सलाद को सजाएगी या चिकन के लिए मैरिनेड के रूप में इस्तेमाल की जा सकती है।",
+   "ur": "کریمی اور تیز ذائقے والی یہ آسان سلاد ڈریسنگ ذائقے میں ایک اچھی تبدیلی ہے، ہرے سلاد کو سجائے گی یا مرغی کے لیے میرینیڈ کے طور پر استعمال ہو سکتی ہے۔"
+  },
+  "reason": "marinade option for pork"
+ },
+ {
+  "key": 235,
+  "recipe_id": 6837664,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "red wine vinaigrette"
+ },
+ {
+  "key": 236,
+  "recipe_id": 6840128,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "You can use this method with any sandwich fillings. Try sliced tomato, basil, and fresh mozzarella cheese, or try ham with spinach and muenster cheese.",
+   "ar": "يمكنك استخدام هذه الطريقة مع أي حشوة سندويش. جرّب شرائح الطماطم والريحان وجبن الموزاريلا الطازج، أو جرّب لحم الخنزير المدخن (هام) مع السبانخ وجبن مونستر.",
+   "es": "Puedes usar este método con cualquier relleno para emparedados. Prueba tomate rebanado, albahaca, y queso mozzarella fresco, o prueba jamón con espinaca y queso muenster.",
+   "fr": "Vous pouvez utiliser cette méthode avec n'importe quelle garniture de sandwich. Essayez des tranches de tomate, du basilic et de la mozzarella fraîche, ou du jambon avec des épinards et du fromage muenster.",
+   "hi": "आप इस तरीके को किसी भी सैंडविच की भरावन के साथ इस्तेमाल कर सकते हैं। कटे हुए टमाटर, तुलसी और ताज़ा मोज़रेला चीज़ आज़माएँ, या पालक और मुएन्स्टर चीज़ के साथ हैम आज़माएँ।",
+   "ur": "آپ یہ طریقہ کسی بھی سینڈوچ کی بھرائی کے ساتھ استعمال کر سکتے ہیں۔ کٹا ہوا ٹماٹر، تلسی اور تازہ موزاریلا پنیر آزمائیں، یا پالک اور مونسٹر پنیر کے ساتھ ہیم آزمائیں۔"
+  },
+  "text": {
+   "en": "You can use this method with any sandwich fillings. Try sliced tomato, basil, and fresh mozzarella cheese, or try sliced turkey with spinach and muenster cheese.",
+   "ar": "يمكنك استخدام هذه الطريقة مع أي حشوة سندويش. جرّب شرائح الطماطم والريحان وجبن الموزاريلا الطازج، أو جرّب شرائح الديك الرومي مع السبانخ وجبن مونستر.",
+   "es": "Puedes usar este método con cualquier relleno para emparedados. Prueba tomate rebanado, albahaca, y queso mozzarella fresco, o prueba pavo rebanado con espinaca y queso muenster.",
+   "fr": "Vous pouvez utiliser cette méthode avec n'importe quelle garniture de sandwich. Essayez des tranches de tomate, du basilic et de la mozzarella fraîche, ou de la dinde tranchée avec des épinards et du fromage muenster.",
+   "hi": "आप इस तरीके को किसी भी सैंडविच की भरावन के साथ इस्तेमाल कर सकते हैं। कटे हुए टमाटर, तुलसी और ताज़ा मोज़रेला चीज़ आज़माएँ, या पालक और मुएन्स्टर चीज़ के साथ टर्की के स्लाइस आज़माएँ।",
+   "ur": "آپ یہ طریقہ کسی بھی سینڈوچ کی بھرائی کے ساتھ استعمال کر سکتے ہیں۔ کٹا ہوا ٹماٹر، تلسی اور تازہ موزاریلا پنیر آزمائیں، یا پالک اور مونسٹر پنیر کے ساتھ ٹرکی کے قتلے آزمائیں۔"
+  },
+  "reason": "ham as filling suggestion"
+ },
+ {
+  "key": 237,
+  "recipe_id": 6860841,
+  "field": "ingredients",
+  "position": 6,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 238,
+  "recipe_id": 6860841,
+  "field": "steps",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 239,
+  "recipe_id": 6886220,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "The salad tastes not only super nourishing, but is also bursting with flavor. Boost the flavor even more by adding 4 Tsp. dried cranberries, 1/4 cup pomegranate seeds or a diced orange. Or choose baby arugula for the greens. Serve with roasted chicken or pork for a full meal.",
+   "ar": "هذه السلطة ليست مغذية جدًا فحسب، بل مليئة بالنكهة أيضًا. عزّز النكهة أكثر بإضافة 4 ملاعق صغيرة من التوت البري المجفف، أو ¼ كوب من بذور الرمان، أو حبة برتقال مقطعة إلى مكعبات. أو اختر الجرجير الصغير ليكون الورق الأخضر. قدّمها مع الدجاج المشوي أو لحم الخنزير المشوي لوجبة كاملة.",
+   "es": "Esta ensalada no solo es muy nutritiva, sino que además está llena de sabor. Para realzar aún más su sabor, añade 4 cucharaditas de arándanos secos, 1/4 de taza de semillas de granada o una naranja picada. También puedes usar rúcula tierna. Sírvela con pollo o cerdo asado para una comida completa.",
+   "fr": "Cette salade est non seulement très nourrissante, mais aussi pleine de saveur. Rehaussez encore la saveur en ajoutant 4 c. à café de canneberges séchées, 1/4 de tasse de graines de grenade ou une orange en dés. Vous pouvez aussi choisir de la jeune roquette comme verdure. Servez avec du poulet ou du porc rôti pour un repas complet.",
+   "hi": "यह सलाद न सिर्फ़ बेहद पौष्टिक लगता है, बल्कि स्वाद से भी भरपूर है। 4 छोटे चम्मच सूखी क्रैनबेरी, 1/4 कप अनार के दाने या एक कटा हुआ संतरा डालकर स्वाद और बढ़ाएँ। या हरी पत्तियों के लिए बेबी अरुगुला चुनें। संपूर्ण भोजन के लिए रोस्टेड चिकन या पोर्क के साथ परोसें।",
+   "ur": "یہ سلاد نہ صرف انتہائی غذائیت بخش ہے بلکہ ذائقے سے بھی بھرپور ہے۔ 4 چائے کے چمچ خشک کرینبیریز، 1/4 کپ انار کے دانے یا ایک کٹا ہوا سنگترہ ڈال کر ذائقہ اور بھی بڑھائیں۔ یا ساگ کے طور پر بیبی ارگولا چنیں۔ مکمل کھانے کے لیے بھنی ہوئی مرغی یا سور کے گوشت کے ساتھ پیش کریں۔"
+  },
+  "text": {
+   "en": "The salad tastes not only super nourishing, but is also bursting with flavor. Boost the flavor even more by adding 4 Tsp. dried cranberries, 1/4 cup pomegranate seeds or a diced orange. Or choose baby arugula for the greens. Serve with roasted chicken for a full meal.",
+   "ar": "هذه السلطة ليست مغذية جدًا فحسب، بل مليئة بالنكهة أيضًا. عزّز النكهة أكثر بإضافة 4 ملاعق صغيرة من التوت البري المجفف، أو ¼ كوب من بذور الرمان، أو حبة برتقال مقطعة إلى مكعبات. أو اختر الجرجير الصغير ليكون الورق الأخضر. قدّمها مع الدجاج المشوي لوجبة كاملة.",
+   "es": "Esta ensalada no solo es muy nutritiva, sino que además está llena de sabor. Para realzar aún más su sabor, añade 4 cucharaditas de arándanos secos, 1/4 de taza de semillas de granada o una naranja picada. También puedes usar rúcula tierna. Sírvela con pollo asado para una comida completa.",
+   "fr": "Cette salade est non seulement très nourrissante, mais aussi pleine de saveur. Rehaussez encore la saveur en ajoutant 4 c. à café de canneberges séchées, 1/4 de tasse de graines de grenade ou une orange en dés. Vous pouvez aussi choisir de la jeune roquette comme verdure. Servez avec du poulet rôti pour un repas complet.",
+   "hi": "यह सलाद न सिर्फ़ बेहद पौष्टिक लगता है, बल्कि स्वाद से भी भरपूर है। 4 छोटे चम्मच सूखी क्रैनबेरी, 1/4 कप अनार के दाने या एक कटा हुआ संतरा डालकर स्वाद और बढ़ाएँ। या हरी पत्तियों के लिए बेबी अरुगुला चुनें। संपूर्ण भोजन के लिए रोस्टेड चिकन के साथ परोसें।",
+   "ur": "یہ سلاد نہ صرف انتہائی غذائیت بخش ہے بلکہ ذائقے سے بھی بھرپور ہے۔ 4 چائے کے چمچ خشک کرینبیریز، 1/4 کپ انار کے دانے یا ایک کٹا ہوا سنگترہ ڈال کر ذائقہ اور بھی بڑھائیں۔ یا ساگ کے طور پر بیبی ارگولا چنیں۔ مکمل کھانے کے لیے بھنی ہوئی مرغی کے ساتھ پیش کریں۔"
+  },
+  "reason": "serving suggestion with pork"
+ },
+ {
+  "key": 240,
+  "recipe_id": 6886722,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 241,
+  "recipe_id": 6909702,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Roasting veggies brings out their natural sweetness. Topped with warm nutmeg and a pinch of salt, this is a perfect side for pork tenderloin or roasted chicken.",
+   "ar": "يُبرز تحميص الخضار حلاوتها الطبيعية. وبإضافة جوزة الطيب الدافئة ورشة ملح، يصبح هذا طبقًا جانبيًا مثاليًا للحم الخنزير المشوي أو الدجاج المحمّص.",
+   "es": "Asar las verduras realza su dulzura natural. Aderezadas con nuez moscada caliente y una pizca de sal, son el acompañamiento perfecto para un lomo de cerdo o un pollo asado.",
+   "fr": "La cuisson au four fait ressortir la douceur naturelle des légumes. Garni de muscade chaude et d'une pincée de sel, c'est un accompagnement parfait pour un filet de porc ou du poulet rôti.",
+   "hi": "सब्ज़ियों को रोस्ट करने से उनकी प्राकृतिक मिठास उभर आती है। गरम जायफल और चुटकी भर नमक के साथ, यह पोर्क टेंडरलॉइन या रोस्टेड चिकन के लिए एकदम सही साइड डिश है।",
+   "ur": "سبزیوں کو بھوننے سے ان کی قدرتی مٹھاس نکھر آتی ہے۔ جائفل کی گرم خوشبو اور چٹکی بھر نمک کے ساتھ یہ پورک ٹینڈرلوئن یا روسٹ چکن کے ساتھ بہترین سائیڈ ڈش ہے۔"
+  },
+  "text": {
+   "en": "Roasting veggies brings out their natural sweetness. Topped with warm nutmeg and a pinch of salt, this is a perfect side for roasted chicken.",
+   "ar": "يُبرز تحميص الخضار حلاوتها الطبيعية. وبإضافة جوزة الطيب الدافئة ورشة ملح، يصبح هذا طبقًا جانبيًا مثاليًا للدجاج المحمّص.",
+   "es": "Asar las verduras realza su dulzura natural. Aderezadas con nuez moscada caliente y una pizca de sal, son el acompañamiento perfecto para un pollo asado.",
+   "fr": "La cuisson au four fait ressortir la douceur naturelle des légumes. Garni de muscade chaude et d'une pincée de sel, c'est un accompagnement parfait pour du poulet rôti.",
+   "hi": "सब्ज़ियों को रोस्ट करने से उनकी प्राकृतिक मिठास उभर आती है। गरम जायफल और चुटकी भर नमक के साथ, यह रोस्टेड चिकन के लिए एकदम सही साइड डिश है।",
+   "ur": "سبزیوں کو بھوننے سے ان کی قدرتی مٹھاس نکھر آتی ہے۔ جائفل کی گرم خوشبو اور چٹکی بھر نمک کے ساتھ یہ روسٹ چکن کے ساتھ بہترین سائیڈ ڈش ہے۔"
+  },
+  "reason": "pairing with pork tenderloin"
+ },
+ {
+  "key": 242,
+  "recipe_id": 6912355,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 243,
+  "recipe_id": 6921067,
+  "field": "ingredients",
+  "position": 3,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 244,
+  "recipe_id": 6921067,
+  "field": "steps",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 245,
+  "recipe_id": 6922278,
+  "field": "ingredients",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "chorizo chicken sausage"
+ },
+ {
+  "key": 246,
+  "recipe_id": 6934057,
+  "field": "description",
+  "position": 0,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 247,
+  "recipe_id": 6934057,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "turkey bacon"
+ },
+ {
+  "key": 248,
+  "recipe_id": 6934057,
+  "field": "title",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Roasted Brussels Sprouts with Bacon",
+   "ar": "كرنب بروكسل محمّص مع لحم مقدد",
+   "es": "Coles de Bruselas asadas con tocino",
+   "fr": "Choux de Bruxelles rôtis au bacon",
+   "hi": "बेकन के साथ रोस्टेड ब्रसल्स स्प्राउट्स",
+   "ur": "بیکن کے ساتھ بھنے ہوئے برسلز اسپراؤٹس"
+  },
+  "text": {
+   "en": "Roasted Brussels Sprouts with Turkey Bacon",
+   "ar": "كرنب بروكسل محمّص مع لحم الديك الرومي المقدد",
+   "es": "Coles de Bruselas asadas con tocino de pavo",
+   "fr": "Choux de Bruxelles rôtis au bacon de dinde",
+   "hi": "टर्की बेकन के साथ रोस्टेड ब्रसल्स स्प्राउट्स",
+   "ur": "ٹرکی بیکن کے ساتھ بھنے ہوئے برسلز اسپراؤٹس"
+  },
+  "reason": "title says bacon; recipe uses turkey bacon - make explicit"
+ },
+ {
+  "key": 249,
+  "recipe_id": 6953713,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "Turkey tenderloins are a lean meat and can be found by the ground turkey at the grocery store. If you cant find turkey tenderloin, you can always substitute pork tenderloin in this recipe.",
+   "ar": "فيليه الديك الرومي لحم قليل الدهن ويمكن إيجاده بجانب الديك الرومي المفروم في محل البقالة. وإذا لم تجد فيليه الديك الرومي، يمكنك دائمًا استبداله بفيليه لحم الخنزير في هذه الوصفة.",
+   "es": "El lomo de pavo es una carne magra y se puede encontrar junto a la carne molida de pavo en el supermercado. Si no encuentra lomo de pavo, puede sustituirlo por lomo de cerdo en esta receta.",
+   "fr": "Les filets de dinde sont une viande maigre que l'on trouve près de la dinde hachée à l'épicerie. Si vous ne trouvez pas de filet de dinde, vous pouvez toujours le remplacer par du filet de porc dans cette recette.",
+   "hi": "टर्की टेंडरलॉइन कम चर्बी वाला माँस है और किराने की दुकान पर कीमा किए हुए टर्की के पास मिल जाता है। अगर आपको टर्की टेंडरलॉइन न मिले, तो आप इस रेसिपी में हमेशा पोर्क टेंडरलॉइन का उपयोग कर सकते हैं।",
+   "ur": "ٹرکی ٹینڈرلوئن بغیر چربی کا گوشت ہے اور گروسری اسٹور میں ٹرکی کے قیمے کے پاس مل جاتا ہے۔ اگر آپ کو ٹرکی ٹینڈرلوئن نہ ملے تو آپ اس ترکیب میں ہمیشہ پورک ٹینڈرلوئن استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": "Turkey tenderloins are a lean meat and can be found by the ground turkey at the grocery store.",
+   "ar": "فيليه الديك الرومي لحم قليل الدهن ويمكن إيجاده بجانب الديك الرومي المفروم في محل البقالة.",
+   "es": "El lomo de pavo es una carne magra y se puede encontrar junto a la carne molida de pavo en el supermercado.",
+   "fr": "Les filets de dinde sont une viande maigre que l'on trouve près de la dinde hachée à l'épicerie.",
+   "hi": "टर्की टेंडरलॉइन कम चर्बी वाला माँस है और किराने की दुकान पर कीमा किए हुए टर्की के पास मिल जाता है।",
+   "ur": "ٹرکی ٹینڈرلوئن بغیر چربی کا گوشت ہے اور گروسری اسٹور میں ٹرکی کے قیمے کے پاس مل جاتا ہے۔"
+  },
+  "reason": "pork tenderloin as substitution"
+ },
+ {
+  "key": 250,
+  "recipe_id": 6953713,
+  "field": "ingredients",
+  "position": 11,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 251,
+  "recipe_id": 6956622,
+  "field": "ingredients",
+  "position": 10,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "rice wine vinegar"
+ },
+ {
+  "key": 252,
+  "recipe_id": 6957718,
+  "field": "steps",
+  "position": 2,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 253,
+  "recipe_id": 6969063,
+  "field": "steps",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "es": "Coloca el aceite de oliva en una cazuela grande. Añadir el apio y la cebolla y saltear hasta que esté suave, aproximadamente 3-5 minutos. Añadir la manzana y el condimento para aves. Agita bien. Añadir el caldo y cocina a fuego lento por 2-3 minutos. Añadir los cubos de pan y hierbas frescas y mezcla bien. Reservar para que se enfríe antes de rellenar el ave o cerdo."
+  },
+  "text": {
+   "es": "Coloca el aceite de oliva en una cazuela grande. Añadir el apio y la cebolla y saltear hasta que esté suave, aproximadamente 3-5 minutos. Añadir la manzana y el condimento para aves. Agita bien. Añadir el caldo y cocina a fuego lento por 2-3 minutos. Añadir los cubos de pan y hierbas frescas y mezcla bien. Reservar para que se enfríe antes de rellenar el ave."
+  },
+  "reason": "stuffing option for pork"
+ },
+ {
+  "key": 254,
+  "recipe_id": 6969063,
+  "field": "steps",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Add apple and poultry seasoning. Toss well. Add stock and simmer 2-3 minutes. Add bread cubes and fresh herbs and toss well. Set aside to cool before stuffing poultry or pork.",
+   "ar": "أضف التفاح وتوابل الدواجن. قلّب جيدًا. أضف المرق واتركه على نار هادئة 2-3 دقائق. أضف مكعبات الخبز والأعشاب الطازجة وقلّب جيدًا. ضعه جانبًا ليبرد قبل حشو الدواجن أو لحم الخنزير.",
+   "fr": "Ajoutez la pomme et l'assaisonnement pour volaille. Mélangez bien. Ajoutez le bouillon et laissez mijoter 2 à 3 minutes. Ajoutez les cubes de pain et les herbes fraîches et mélangez bien. Mettez de côté pour laisser refroidir avant de farcir la volaille ou le porc.",
+   "hi": "सेब और पोल्ट्री सीज़निंग डालें। अच्छी तरह मिलाएँ। स्टॉक डालें और 2-3 मिनट धीमी आँच पर पकाएँ। ब्रेड के क्यूब्स और ताज़ी जड़ी-बूटियाँ डालकर अच्छी तरह मिलाएँ। मुर्गी या पोर्क में भरने से पहले ठंडा होने के लिए एक तरफ़ रख दें।",
+   "ur": "سیب اور پولٹری مصالحہ ڈالیں۔ اچھی طرح ملائیں۔ اسٹاک ڈالیں اور 2-3 منٹ تک دھیمی آنچ پر پکائیں۔ ڈبل روٹی کے ٹکڑے اور تازہ جڑی بوٹیاں ڈال کر اچھی طرح ملائیں۔ پولٹری یا پورک میں بھرنے سے پہلے ٹھنڈا ہونے کے لیے ایک طرف رکھ دیں۔"
+  },
+  "text": {
+   "en": "Add apple and poultry seasoning. Toss well. Add stock and simmer 2-3 minutes. Add bread cubes and fresh herbs and toss well. Set aside to cool before stuffing poultry.",
+   "ar": "أضف التفاح وتوابل الدواجن. قلّب جيدًا. أضف المرق واتركه على نار هادئة 2-3 دقائق. أضف مكعبات الخبز والأعشاب الطازجة وقلّب جيدًا. ضعه جانبًا ليبرد قبل حشو الدواجن.",
+   "fr": "Ajoutez la pomme et l'assaisonnement pour volaille. Mélangez bien. Ajoutez le bouillon et laissez mijoter 2 à 3 minutes. Ajoutez les cubes de pain et les herbes fraîches et mélangez bien. Mettez de côté pour laisser refroidir avant de farcir la volaille.",
+   "hi": "सेब और पोल्ट्री सीज़निंग डालें। अच्छी तरह मिलाएँ। स्टॉक डालें और 2-3 मिनट धीमी आँच पर पकाएँ। ब्रेड के क्यूब्स और ताज़ी जड़ी-बूटियाँ डालकर अच्छी तरह मिलाएँ। मुर्गी में भरने से पहले ठंडा होने के लिए एक तरफ़ रख दें।",
+   "ur": "سیب اور پولٹری مصالحہ ڈالیں۔ اچھی طرح ملائیں۔ اسٹاک ڈالیں اور 2-3 منٹ تک دھیمی آنچ پر پکائیں۔ ڈبل روٹی کے ٹکڑے اور تازہ جڑی بوٹیاں ڈال کر اچھی طرح ملائیں۔ پولٹری میں بھرنے سے پہلے ٹھنڈا ہونے کے لیے ایک طرف رکھ دیں۔"
+  },
+  "reason": "stuffing option for pork"
+ },
+ {
+  "key": 255,
+  "recipe_id": 6986660,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "This crowd pleaser includes sweet fall apples that balance out the pungent flavor of Gorgonzola cheese. Pair the salad with roasted chicken, turkey or pork tenderloin.",
+   "ar": "هذه السلطة التي تنال إعجاب الجميع تحتوي على تفاح الخريف الحلو الذي يوازن النكهة الحادة لجبن الغورغونزولا. قدّم السلطة مع دجاج محمّص أو ديك رومي أو لحم خنزير مشوي.",
+   "es": "Este complaciente de masas incluye manzanas dulces de otoño que equilibran el sabor amargo del queso gorgonzola. Combina la ensalada con pollo rostizado, pavo o solomillo de cerdo.",
+   "fr": "Ce plat qui plaît à tous comprend de douces pommes d'automne qui équilibrent la saveur prononcée du gorgonzola. Accompagnez cette salade de poulet rôti, de dinde ou de filet de porc.",
+   "hi": "यह सबको पसंद आने वाला सलाद मीठे पतझड़ के सेबों से बना है जो गोर्गोन्ज़ोला चीज़ के तीखे स्वाद को संतुलित करते हैं। इस सलाद को भुने हुए चिकन, टर्की या पोर्क टेंडरलॉइन के साथ परोसें।",
+   "ur": "یہ سب کو پسند آنے والا سلاد خزاں کے میٹھے سیب پر مشتمل ہے جو گورگونزولا پنیر کے تیز ذائقے کو متوازن کرتے ہیں۔ اس سلاد کو بھنے ہوئے چکن، ٹرکی یا سور کے ٹینڈرلوئن کے ساتھ پیش کریں۔"
+  },
+  "text": {
+   "en": "This crowd pleaser includes sweet fall apples that balance out the pungent flavor of Gorgonzola cheese. Pair the salad with roasted chicken or turkey.",
+   "ar": "هذه السلطة التي تنال إعجاب الجميع تحتوي على تفاح الخريف الحلو الذي يوازن النكهة الحادة لجبن الغورغونزولا. قدّم السلطة مع دجاج محمّص أو ديك رومي.",
+   "es": "Este complaciente de masas incluye manzanas dulces de otoño que equilibran el sabor amargo del queso gorgonzola. Combina la ensalada con pollo rostizado o pavo.",
+   "fr": "Ce plat qui plaît à tous comprend de douces pommes d'automne qui équilibrent la saveur prononcée du gorgonzola. Accompagnez cette salade de poulet rôti ou de dinde.",
+   "hi": "यह सबको पसंद आने वाला सलाद मीठे पतझड़ के सेबों से बना है जो गोर्गोन्ज़ोला चीज़ के तीखे स्वाद को संतुलित करते हैं। इस सलाद को भुने हुए चिकन या टर्की के साथ परोसें।",
+   "ur": "یہ سب کو پسند آنے والا سلاد خزاں کے میٹھے سیب پر مشتمل ہے جو گورگونزولا پنیر کے تیز ذائقے کو متوازن کرتے ہیں۔ اس سلاد کو بھنے ہوئے چکن یا ٹرکی کے ساتھ پیش کریں۔"
+  },
+  "reason": "pairing with pork tenderloin"
+ },
+ {
+  "key": 256,
+  "recipe_id": 7007009,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use lean pork or cubes of lamb for this dish. For a vegetarian/vegan version, replace the chicken with a tin of chickpeas or mixed beans.",
+   "ar": "يمكنك استخدام لحم خنزير قليل الدسم أو مكعبات لحم ضأن لهذا الطبق. ولنسخة نباتية/خالية من اللحوم، استبدل الدجاج بعلبة حمص أو فاصولياء مشكلة.",
+   "es": "Podría usar cerdo magro o cubos de cordero para este plato. Para una versión vegetariana/vegana, reemplace el pollo con una lata de garbanzos o de frijoles mixtos.",
+   "fr": "Vous pouvez utiliser du porc maigre ou des cubes d'agneau pour ce plat. Pour une version végétarienne/végétalienne, remplacez le poulet par une boîte de pois chiches ou de haricots mélangés.",
+   "hi": "इस व्यंजन के लिए आप कम वसा वाला सूअर का मांस या मेमने के टुकड़े इस्तेमाल कर सकते हैं। शाकाहारी/वीगन संस्करण के लिए चिकन की जगह 1 डिब्बा छोले या मिली-जुली फलियाँ डालें।",
+   "ur": "آپ اس ڈش کے لیے دبلا سور کا گوشت یا بھیڑ کے گوشت کے چوکور ٹکڑے استعمال کر سکتے ہیں۔ سبزی خور/ویگن ورژن کے لیے مرغی کی جگہ چنے کا ایک ڈبہ یا ملی جلی پھلیاں استعمال کریں۔"
+  },
+  "text": {
+   "en": "You could use cubes of lamb for this dish. For a vegetarian/vegan version, replace the chicken with a tin of chickpeas or mixed beans.",
+   "ar": "يمكنك استخدام مكعبات لحم ضأن لهذا الطبق. ولنسخة نباتية/خالية من اللحوم، استبدل الدجاج بعلبة حمص أو فاصولياء مشكلة.",
+   "es": "Podría usar cubos de cordero para este plato. Para una versión vegetariana/vegana, reemplace el pollo con una lata de garbanzos o de frijoles mixtos.",
+   "fr": "Vous pouvez utiliser des cubes d'agneau pour ce plat. Pour une version végétarienne/végétalienne, remplacez le poulet par une boîte de pois chiches ou de haricots mélangés.",
+   "hi": "इस व्यंजन के लिए आप मेमने के टुकड़े इस्तेमाल कर सकते हैं। शाकाहारी/वीगन संस्करण के लिए चिकन की जगह 1 डिब्बा छोले या मिली-जुली फलियाँ डालें।",
+   "ur": "آپ اس ڈش کے لیے بھیڑ کے گوشت کے چوکور ٹکڑے استعمال کر سکتے ہیں۔ سبزی خور/ویگن ورژن کے لیے مرغی کی جگہ چنے کا ایک ڈبہ یا ملی جلی پھلیاں استعمال کریں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 257,
+  "recipe_id": 7017274,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could also use chicken breast or pork fillet with this recipe.",
+   "ar": "يمكنك أيضًا استخدام صدر الدجاج أو فيليه لحم الخنزير مع هذه الوصفة.",
+   "es": "También podría usar pechuga de pollo o filete de cerdo con esta receta.",
+   "fr": "Vous pouvez aussi utiliser de la poitrine de poulet ou du filet de porc avec cette recette.",
+   "hi": "आप इस रेसिपी में चिकन ब्रेस्ट या सूअर का फिलेट भी इस्तेमाल कर सकते हैं।",
+   "ur": "آپ اس ترکیب میں مرغی کا سینہ یا سور کا فلے بھی استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You could also use chicken breast with this recipe.",
+   "ar": "يمكنك أيضًا استخدام صدر الدجاج مع هذه الوصفة.",
+   "es": "También podría usar pechuga de pollo con esta receta.",
+   "fr": "Vous pouvez aussi utiliser de la poitrine de poulet avec cette recette.",
+   "hi": "आप इस रेसिपी में चिकन ब्रेस्ट भी इस्तेमाल कर सकते हैं।",
+   "ur": "آپ اس ترکیب میں مرغی کا سینہ بھی استعمال کر سکتے ہیں۔"
+  },
+  "reason": "pork fillet as option"
+ },
+ {
+  "key": 258,
+  "recipe_id": 7026697,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use smoked ham in place of salmon.",
+   "ar": "يمكنك استخدام لحم الخنزير المدخن (الهام) بدلًا من السلمون.",
+   "es": "Podría usar jamón ahumado en lugar de salmón.",
+   "fr": "Vous pouvez utiliser du jambon fumé à la place du saumon.",
+   "hi": "सैल्मन की जगह आप स्मोक्ड हैम इस्तेमाल कर सकते हैं।",
+   "ur": "آپ سالمن کی جگہ سموکڈ ہیم استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": null,
+   "ar": null,
+   "es": null,
+   "fr": null,
+   "hi": null,
+   "ur": null
+  },
+  "reason": "hint only about ham"
+ },
+ {
+  "key": 259,
+  "recipe_id": 7034454,
+  "field": "ingredients",
+  "position": 1,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "vine fruits (dried fruit)"
+ },
+ {
+  "key": 260,
+  "recipe_id": 7067962,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could make this dish with lean pork or beef.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم الخنزير قليل الدهن أو لحم البقر.",
+   "es": "Puede preparar este platillo con cerdo magro o res.",
+   "fr": "Vous pouvez préparer ce plat avec du porc maigre ou du bœuf.",
+   "hi": "आप यह व्यंजन कम वसा वाले सूअर या बीफ़ से भी बना सकते हैं।",
+   "ur": "آپ یہ ڈش دبلے سور یا گائے کے گوشت سے بھی بنا سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You could make this dish with lean beef.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم البقر قليل الدهن.",
+   "es": "Puede preparar este platillo con res magra.",
+   "fr": "Vous pouvez préparer ce plat avec du bœuf maigre.",
+   "hi": "आप यह व्यंजन कम वसा वाले बीफ़ से भी बना सकते हैं।",
+   "ur": "آپ یہ ڈش دبلے گائے کے گوشت سے بھی بنا سکتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 261,
+  "recipe_id": 7091568,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Any lean mince could be used for the koftas - beef, lamb or pork all work well.",
+   "ar": "يمكن استخدام أي لحم مفروم قليل الدهن للكفتة، فلحم البقر أو الضأن أو الخنزير كلها تعطي نتيجة جيدة.",
+   "es": "Para las koftas puede usar cualquier carne molida magra: res, cordero o cerdo quedan muy bien.",
+   "fr": "Toute viande hachée maigre peut être utilisée pour les koftas : le bœuf, l'agneau ou le porc conviennent tous très bien.",
+   "hi": "कोफ्ते के लिए कोई भी कम वसा वाला कीमा इस्तेमाल किया जा सकता है - बीफ़, मेमना या सूअर सभी अच्छे लगते हैं।",
+   "ur": "کوفتوں کے لیے کوئی بھی دبلا قیمہ استعمال کیا جا سکتا ہے - گائے، بھیڑ یا سور کا گوشت سب اچھے رہتے ہیں۔"
+  },
+  "text": {
+   "en": "Any lean mince could be used for the koftas - beef or lamb both work well.",
+   "ar": "يمكن استخدام أي لحم مفروم قليل الدهن للكفتة، فلحم البقر أو الضأن كلاهما يعطي نتيجة جيدة.",
+   "es": "Para las koftas puede usar cualquier carne molida magra: res o cordero quedan muy bien.",
+   "fr": "Toute viande hachée maigre peut être utilisée pour les koftas : le bœuf ou l'agneau conviennent tous deux très bien.",
+   "hi": "कोफ्ते के लिए कोई भी कम वसा वाला कीमा इस्तेमाल किया जा सकता है - बीफ़ या मेमना दोनों अच्छे लगते हैं।",
+   "ur": "کوفتوں کے لیے کوئی بھی دبلا قیمہ استعمال کیا جا سکتا ہے - گائے یا بھیڑ کا گوشت دونوں اچھے رہتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 262,
+  "recipe_id": 7106172,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Strawberries, apple, pear, banana and kumquats are all great for dipping. Or try sugar-free marshmallows.",
+   "ar": "الفراولة والتفاح والكمثرى والموز والكمكوات كلها رائعة للغمس. أو جرّب المارشميلو الخالي من السكر.",
+   "es": "Las fresas, la manzana, la pera, el plátano y los kumquats son excelentes para mojar. O pruebe con malvaviscos sin azúcar.",
+   "fr": "Les fraises, les pommes, les poires, les bananes et les kumquats sont tous parfaits pour tremper. Ou essayez des guimauves sans sucre.",
+   "hi": "स्ट्रॉबेरी, सेब, नाशपाती, केला और कुमक्वाट डुबोने के लिए बढ़िया हैं। या चीनी-रहित मार्शमैलो आज़माएँ।",
+   "ur": "اسٹرابیریاں، سیب، ناشپاتی، کیلا اور کمکوات سب ڈبونے کے لیے بہترین ہیں۔ یا چینی سے پاک مارش میلو آزمائیں۔"
+  },
+  "text": {
+   "en": "Strawberries, apple, pear, banana and kumquats are all great for dipping.",
+   "ar": "الفراولة والتفاح والكمثرى والموز والكمكوات كلها رائعة للغمس.",
+   "es": "Las fresas, la manzana, la pera, el plátano y los kumquats son excelentes para mojar.",
+   "fr": "Les fraises, les pommes, les poires, les bananes et les kumquats sont tous parfaits pour tremper.",
+   "hi": "स्ट्रॉबेरी, सेब, नाशपाती, केला और कुमक्वाट डुबोने के लिए बढ़िया हैं।",
+   "ur": "اسٹرابیریاں، سیب، ناشپاتی، کیلا اور کمکوات سب ڈبونے کے لیے بہترین ہیں۔"
+  },
+  "reason": "marshmallows as option"
+ },
+ {
+  "key": 263,
+  "recipe_id": 7146637,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Ideal served as a side dish with vegetarian and vegan dishes or with meats such as pork and pheasant.",
+   "ar": "مثالية كطبق جانبي مع الأطباق النباتية والنباتية الصرفة أو مع اللحوم مثل لحم الخنزير والدرّاج.",
+   "es": "Es ideal como guarnición de platillos vegetarianos y veganos, o con carnes como cerdo y faisán.",
+   "fr": "Idéale servie en accompagnement de plats végétariens et végétaliens ou de viandes comme le porc et le faisan.",
+   "hi": "शाकाहारी और वीगन व्यंजनों के साथ या सूअर और तीतर जैसे मांस के साथ साइड डिश के रूप में परोसने के लिए आदर्श।",
+   "ur": "سبزی خور اور ویگن ڈشوں کے ساتھ یا سور اور تیتر جیسے گوشت کے ساتھ سائیڈ ڈش کے طور پر پیش کرنے کے لیے مثالی۔"
+  },
+  "text": {
+   "en": "Ideal served as a side dish with vegetarian and vegan dishes or with meats such as pheasant.",
+   "ar": "مثالية كطبق جانبي مع الأطباق النباتية والنباتية الصرفة أو مع اللحوم مثل الدرّاج.",
+   "es": "Es ideal como guarnición de platillos vegetarianos y veganos, o con carnes como el faisán.",
+   "fr": "Idéale servie en accompagnement de plats végétariens et végétaliens ou de viandes comme le faisan.",
+   "hi": "शाकाहारी और वीगन व्यंजनों के साथ या तीतर जैसे मांस के साथ साइड डिश के रूप में परोसने के लिए आदर्श।",
+   "ur": "سبزی خور اور ویگن ڈشوں کے ساتھ یا تیتر جیسے گوشت کے ساتھ سائیڈ ڈش کے طور پر پیش کرنے کے لیے مثالی۔"
+  },
+  "reason": "pairing with pork"
+ },
+ {
+  "key": 264,
+  "recipe_id": 7161543,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You can make this dish with any lean meat, such as beef or pork.",
+   "ar": "يمكنك تحضير هذا الطبق بأي لحم قليل الدهن، مثل لحم البقر أو الخنزير.",
+   "es": "Puede preparar este platillo con cualquier carne magra, como res o cerdo.",
+   "fr": "Vous pouvez préparer ce plat avec n'importe quelle viande maigre, comme le bœuf ou le porc.",
+   "hi": "आप यह व्यंजन किसी भी कम वसा वाले मांस, जैसे बीफ़ या सूअर से बना सकते हैं।",
+   "ur": "آپ یہ ڈش کسی بھی کم چکنائی والے گوشت، جیسے بڑے کا گوشت یا سور کا گوشت، سے بنا سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You can make this dish with any lean meat, such as beef.",
+   "ar": "يمكنك تحضير هذا الطبق بأي لحم قليل الدهن، مثل لحم البقر.",
+   "es": "Puede preparar este platillo con cualquier carne magra, como res.",
+   "fr": "Vous pouvez préparer ce plat avec n'importe quelle viande maigre, comme le bœuf.",
+   "hi": "आप यह व्यंजन किसी भी कम वसा वाले मांस, जैसे बीफ़ से बना सकते हैं।",
+   "ur": "آپ یہ ڈش کسی بھی کم چکنائی والے گوشت، جیسے بڑے کا گوشت، سے بنا سکتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 265,
+  "recipe_id": 7177299,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "Like many traditional recipes, this soup tends to be made with whatever is available. You can add all sorts of vegetables, such as pumpkin, courgettes or celery, or add different beans, pasta, or even meat, such as ham.",
+   "ar": "مثل كثير من الوصفات التقليدية، يُحضَّر هذا الحساء عادةً بما هو متوفر. يمكنك إضافة أنواع مختلفة من الخضار، مثل القرع أو الكوسا أو الكرفس، أو إضافة أنواع أخرى من الفاصوليا أو المعكرونة أو حتى اللحم، مثل لحم الخنزير المدخّن (الهام).",
+   "es": "Como muchas recetas tradicionales, esta sopa suele prepararse con lo que se tenga a la mano. Puede agregar todo tipo de verduras, como calabaza, calabacitas o apio, o añadir otros frijoles, pasta e incluso carne, como jamón.",
+   "fr": "Comme beaucoup de recettes traditionnelles, cette soupe se prépare généralement avec ce qui est disponible. Vous pouvez ajouter toutes sortes de légumes, comme de la citrouille, des courgettes ou du céleri, ou ajouter différents haricots, des pâtes, ou même de la viande, comme du jambon.",
+   "hi": "कई पारंपरिक रेसिपी की तरह, यह सूप अक्सर जो भी उपलब्ध हो उससे बनाया जाता है। आप कद्दू, तोरी या अजवाइन जैसी सब तरह की सब्ज़ियाँ, या अलग बीन्स, पास्ता, या यहाँ तक कि हैम जैसा मांस भी डाल सकते हैं।",
+   "ur": "بہت سی روایتی ترکیبوں کی طرح، یہ سوپ عموماً جو بھی دستیاب ہو اس سے بنایا جاتا ہے۔ آپ ہر طرح کی سبزیاں، جیسے کدو، زوکینی یا اجوائن، ڈال سکتے ہیں، یا مختلف پھلیاں، پاستا، یا حتیٰ کہ گوشت، جیسے ہیم، ڈال سکتے ہیں۔"
+  },
+  "text": {
+   "en": "Like many traditional recipes, this soup tends to be made with whatever is available. You can add all sorts of vegetables, such as pumpkin, courgettes or celery, or add different beans, pasta, or even meat, such as chicken.",
+   "ar": "مثل كثير من الوصفات التقليدية، يُحضَّر هذا الحساء عادةً بما هو متوفر. يمكنك إضافة أنواع مختلفة من الخضار، مثل القرع أو الكوسا أو الكرفس، أو إضافة أنواع أخرى من الفاصوليا أو المعكرونة أو حتى اللحم، مثل الدجاج.",
+   "es": "Como muchas recetas tradicionales, esta sopa suele prepararse con lo que se tenga a la mano. Puede agregar todo tipo de verduras, como calabaza, calabacitas o apio, o añadir otros frijoles, pasta e incluso carne, como pollo.",
+   "fr": "Comme beaucoup de recettes traditionnelles, cette soupe se prépare généralement avec ce qui est disponible. Vous pouvez ajouter toutes sortes de légumes, comme de la citrouille, des courgettes ou du céleri, ou ajouter différents haricots, des pâtes, ou même de la viande, comme du poulet.",
+   "hi": "कई पारंपरिक रेसिपी की तरह, यह सूप अक्सर जो भी उपलब्ध हो उससे बनाया जाता है। आप कद्दू, तोरी या अजवाइन जैसी सब तरह की सब्ज़ियाँ, या अलग बीन्स, पास्ता, या यहाँ तक कि चिकन जैसा मांस भी डाल सकते हैं।",
+   "ur": "بہت سی روایتی ترکیبوں کی طرح، یہ سوپ عموماً جو بھی دستیاب ہو اس سے بنایا جاتا ہے۔ آپ ہر طرح کی سبزیاں، جیسے کدو، زوکینی یا اجوائن، ڈال سکتے ہیں، یا مختلف پھلیاں، پاستا، یا حتیٰ کہ گوشت، جیسے چکن، ڈال سکتے ہیں۔"
+  },
+  "reason": "ham as optional addition"
+ },
+ {
+  "key": 266,
+  "recipe_id": 7183658,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use minced turkey or minced pork for this sauce.",
+   "ar": "يمكنك استخدام لحم الديك الرومي المفروم أو لحم الخنزير المفروم لهذه الصلصة.",
+   "es": "Puede usar pavo molido o cerdo molido para esta salsa.",
+   "fr": "Vous pouvez utiliser de la dinde hachée ou du porc haché pour cette sauce.",
+   "hi": "इस सॉस के लिए आप टर्की कीमा या सूअर का कीमा इस्तेमाल कर सकते हैं।",
+   "ur": "اس ساس کے لیے آپ ٹرکی کا قیمہ یا سور کا قیمہ استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You could use minced turkey for this sauce.",
+   "ar": "يمكنك استخدام لحم الديك الرومي المفروم لهذه الصلصة.",
+   "es": "Puede usar pavo molido para esta salsa.",
+   "fr": "Vous pouvez utiliser de la dinde hachée pour cette sauce.",
+   "hi": "इस सॉस के लिए आप टर्की कीमा इस्तेमाल कर सकते हैं।",
+   "ur": "اس ساس کے لیے آپ ٹرکی کا قیمہ استعمال کر سکتے ہیں۔"
+  },
+  "reason": "minced pork as option"
+ },
+ {
+  "key": 267,
+  "recipe_id": 7190087,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "You can use chicken or pork in place of turkey.",
+   "ar": "يمكنك استخدام الدجاج أو لحم الخنزير بدلًا من الديك الرومي.",
+   "es": "Puede usar pollo o cerdo en lugar de pavo.",
+   "fr": "Vous pouvez utiliser du poulet ou du porc à la place de la dinde.",
+   "hi": "आप टर्की की जगह चिकन या सूअर का मांस इस्तेमाल कर सकते हैं।",
+   "ur": "آپ ٹرکی کی جگہ مرغی یا سور کا گوشت استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You can use chicken in place of turkey.",
+   "ar": "يمكنك استخدام الدجاج بدلًا من الديك الرومي.",
+   "es": "Puede usar pollo en lugar de pavo.",
+   "fr": "Vous pouvez utiliser du poulet à la place de la dinde.",
+   "hi": "आप टर्की की जगह चिकन इस्तेमाल कर सकते हैं।",
+   "ur": "آپ ٹرکی کی جگہ مرغی استعمال کر سکتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 268,
+  "recipe_id": 7205275,
+  "field": "hints",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "port wine is a recipe ingredient"
+ },
+ {
+  "key": 269,
+  "recipe_id": 7205275,
+  "field": "ingredients",
+  "position": 2,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "ingredient: 3 tbsp port (wine)"
+ },
+ {
+  "key": 270,
+  "recipe_id": 7205275,
+  "field": "steps",
+  "position": 1,
+  "action": "exclude",
+  "orig": {},
+  "text": {},
+  "reason": "step adds port (wine)"
+ },
+ {
+  "key": 271,
+  "recipe_id": 7208015,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "This works well with calves', pigs' or chicken livers.",
+   "ar": "تناسب هذه الوصفة كبد العجل أو الخنزير أو الدجاج.",
+   "es": "Funciona bien con hígado de ternera, de cerdo o de pollo.",
+   "fr": "Cette recette convient aussi très bien avec du foie de veau, de porc ou de volaille.",
+   "hi": "यह बछड़े, सूअर या मुर्गे के लिवर के साथ भी अच्छा बनता है।",
+   "ur": "یہ بچھڑے، سور یا مرغی کی کلیجی کے ساتھ بھی اچھی بنتی ہے۔"
+  },
+  "text": {
+   "en": "This works well with calves' or chicken livers.",
+   "ar": "تناسب هذه الوصفة كبد العجل أو الدجاج.",
+   "es": "Funciona bien con hígado de ternera o de pollo.",
+   "fr": "Cette recette convient aussi très bien avec du foie de veau ou de volaille.",
+   "hi": "यह बछड़े या मुर्गे के लिवर के साथ भी अच्छा बनता है।",
+   "ur": "یہ بچھڑے یا مرغی کی کلیجی کے ساتھ بھی اچھی بنتی ہے۔"
+  },
+  "reason": "pig liver as option"
+ },
+ {
+  "key": 272,
+  "recipe_id": 7212449,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "Minced lamb, pork, turkey or vegetarian meat alternative also work well with this recipe.",
+   "ar": "يناسب هذه الوصفة أيضًا لحم الضأن أو الخنزير أو الديك الرومي المفروم أو بديل اللحم النباتي.",
+   "es": "La carne molida de cordero, cerdo, pavo o un sustituto vegetariano de la carne también funciona bien en esta receta.",
+   "fr": "De l'agneau, du porc ou de la dinde hachés, ou un substitut de viande végétarien, conviennent aussi très bien à cette recette.",
+   "hi": "भेड़ का कीमा, सूअर का कीमा, टर्की का कीमा या शाकाहारी मांस विकल्प भी इस रेसिपी के साथ अच्छे लगते हैं।",
+   "ur": "بھیڑ، سور، ٹرکی کا قیمہ یا سبزی خور گوشت کا متبادل بھی اس ترکیب کے ساتھ اچھا رہتا ہے۔"
+  },
+  "text": {
+   "en": "Minced lamb, turkey or vegetarian meat alternative also work well with this recipe.",
+   "ar": "يناسب هذه الوصفة أيضًا لحم الضأن أو الديك الرومي المفروم أو بديل اللحم النباتي.",
+   "es": "La carne molida de cordero, pavo o un sustituto vegetariano de la carne también funciona bien en esta receta.",
+   "fr": "De l'agneau ou de la dinde hachés, ou un substitut de viande végétarien, conviennent aussi très bien à cette recette.",
+   "hi": "भेड़ का कीमा, टर्की का कीमा या शाकाहारी मांस विकल्प भी इस रेसिपी के साथ अच्छे लगते हैं।",
+   "ur": "بھیڑ، ٹرکی کا قیمہ یا سبزی خور گوشت کا متبادل بھی اس ترکیب کے ساتھ اچھا رہتا ہے۔"
+  },
+  "reason": "minced pork as option"
+ },
+ {
+  "key": 273,
+  "recipe_id": 7212684,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could use this recipe with pork escalopes or chicken breast. It's also good with or cod or salmon.",
+   "ar": "يمكنك استخدام هذه الوصفة مع شرائح إسكالوب لحم الخنزير أو صدر الدجاج. وهي لذيذة أيضًا مع سمك القد أو السلمون.",
+   "es": "Puede preparar esta receta con escalopes de cerdo o pechuga de pollo. También queda bien con bacalao o salmón.",
+   "fr": "Vous pouvez réaliser cette recette avec des escalopes de porc ou du blanc de poulet. Elle est aussi délicieuse avec du cabillaud ou du saumon.",
+   "hi": "आप इस रेसिपी को सूअर के एस्कैलोप या चिकन ब्रेस्ट के साथ भी इस्तेमाल कर सकते हैं। यह कॉड या सैल्मन के साथ भी अच्छी लगती है।",
+   "ur": "آپ یہ ترکیب سور کے ایسکالوپ یا چکن بریسٹ کے ساتھ بھی بنا سکتے ہیں۔ یہ کاڈ یا سالمن کے ساتھ بھی اچھی لگتی ہے۔"
+  },
+  "text": {
+   "en": "You could use this recipe with chicken breast. It's also good with cod or salmon.",
+   "ar": "يمكنك استخدام هذه الوصفة مع صدر الدجاج. وهي لذيذة أيضًا مع سمك القد أو السلمون.",
+   "es": "Puede preparar esta receta con pechuga de pollo. También queda bien con bacalao o salmón.",
+   "fr": "Vous pouvez réaliser cette recette avec du blanc de poulet. Elle est aussi délicieuse avec du cabillaud ou du saumon.",
+   "hi": "आप इस रेसिपी को चिकन ब्रेस्ट के साथ भी इस्तेमाल कर सकते हैं। यह कॉड या सैल्मन के साथ भी अच्छी लगती है।",
+   "ur": "آپ یہ ترکیب چکن بریسٹ کے ساتھ بھی بنا سکتے ہیں۔ یہ کاڈ یا سالمن کے ساتھ بھی اچھی لگتی ہے۔"
+  },
+  "reason": "pork escalopes as option"
+ },
+ {
+  "key": 274,
+  "recipe_id": 7231712,
+  "field": "hints",
+  "position": 2,
+  "action": "rewrite",
+  "orig": {
+   "en": "You can use pork, chicken or turkey for this dish.",
+   "ar": "يمكنك استخدام لحم الخنزير أو الدجاج أو الديك الرومي لهذا الطبق.",
+   "es": "Puede usar cerdo, pollo o pavo para este platillo.",
+   "fr": "Vous pouvez utiliser du porc, du poulet ou de la dinde pour ce plat.",
+   "hi": "आप इस व्यंजन के लिए सूअर, चिकन या टर्की का उपयोग कर सकते हैं।",
+   "ur": "آپ اس ڈش کے لیے سور، چکن یا ٹرکی کا گوشت استعمال کر سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You can use chicken or turkey for this dish.",
+   "ar": "يمكنك استخدام الدجاج أو الديك الرومي لهذا الطبق.",
+   "es": "Puede usar pollo o pavo para este platillo.",
+   "fr": "Vous pouvez utiliser du poulet ou de la dinde pour ce plat.",
+   "hi": "आप इस व्यंजन के लिए चिकन या टर्की का उपयोग कर सकते हैं।",
+   "ur": "آپ اس ڈش کے لیے چکن یا ٹرکی کا گوشت استعمال کر سکتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 275,
+  "recipe_id": 7267124,
+  "field": "steps",
+  "position": 4,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "wine vinegar"
+ },
+ {
+  "key": 276,
+  "recipe_id": 7268954,
+  "field": "hints",
+  "position": 1,
+  "action": "rewrite",
+  "orig": {
+   "en": "You could make this dish with pork, beef, chicken pieces, turkey or lentils.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم الخنزير أو البقر أو قطع الدجاج أو الديك الرومي أو العدس.",
+   "es": "Puede preparar este plato con cerdo, res, trozos de pollo, pavo o lentejas.",
+   "fr": "Vous pouvez préparer ce plat avec du porc, du bœuf, des morceaux de poulet, de la dinde ou des lentilles.",
+   "hi": "आप यह व्यंजन सूअर, बीफ़, चिकन के टुकड़ों, टर्की या दाल से भी बना सकते हैं।",
+   "ur": "آپ یہ ڈش سور، گائے، چکن کے ٹکڑوں، ٹرکی یا دال کے ساتھ بھی بنا سکتے ہیں۔"
+  },
+  "text": {
+   "en": "You could make this dish with beef, chicken pieces, turkey or lentils.",
+   "ar": "يمكنك تحضير هذا الطبق بلحم البقر أو قطع الدجاج أو الديك الرومي أو العدس.",
+   "es": "Puede preparar este plato con res, trozos de pollo, pavo o lentejas.",
+   "fr": "Vous pouvez préparer ce plat avec du bœuf, des morceaux de poulet, de la dinde ou des lentilles.",
+   "hi": "आप यह व्यंजन बीफ़, चिकन के टुकड़ों, टर्की या दाल से भी बना सकते हैं।",
+   "ur": "آپ یہ ڈش گائے، چکن کے ٹکڑوں، ٹرکی یا دال کے ساتھ بھی بنا سکتے ہیں۔"
+  },
+  "reason": "pork as option"
+ },
+ {
+  "key": 277,
+  "recipe_id": 7273074,
+  "field": "ingredients",
+  "position": 5,
+  "action": "keep",
+  "orig": {},
+  "text": {},
+  "reason": "vine tomatoes"
+ },
+ {
+  "key": 278,
+  "recipe_id": 7276005,
+  "field": "description",
+  "position": 0,
+  "action": "rewrite",
+  "orig": {
+   "en": "A warming and spicy non-alcoholic alternative to mulled wine.",
+   "ar": "بديل دافئ ومتبّل خالٍ من الكحول لنبيذ التوابل الساخن.",
+   "es": "Una alternativa sin alcohol, reconfortante y especiada, al vino caliente con especias.",
+   "fr": "Une alternative chaude, épicée et sans alcool au vin chaud.",
+   "hi": "मल्ड वाइन का एक गरमाहट देने वाला, मसालेदार, बिना अल्कोहल वाला विकल्प।",
+   "ur": "ملڈ وائن کا ایک گرم اور مسالے دار بغیر الکحل متبادل۔"
+  },
+  "text": {
+   "en": "A warming and spicy non-alcoholic winter drink.",
+   "ar": "مشروب شتوي دافئ ومتبّل خالٍ من الكحول.",
+   "es": "Una bebida invernal sin alcohol, reconfortante y especiada.",
+   "fr": "Une boisson d'hiver chaude, épicée et sans alcool.",
+   "hi": "सर्दियों का एक गरमाहट देने वाला, मसालेदार, बिना अल्कोहल वाला पेय।",
+   "ur": "سردیوں کا ایک گرم اور مسالے دار بغیر الکحل مشروب۔"
+  },
+  "reason": "compares to mulled wine"
+ }
+]

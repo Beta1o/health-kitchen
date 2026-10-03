@@ -1,0 +1,50 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 240,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 175043,
+   "g": 3,
+   "name": "dry yeast"
+  },
+  {
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil for hands/saj"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil 1 tbsp (balool)"
+  },
+  {
+   "fdc": 173412,
+   "g": 4.5,
+   "name": "ghee 1 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

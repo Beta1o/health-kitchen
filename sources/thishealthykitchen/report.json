@@ -1,0 +1,8 @@
+{
+ "listed": 475,
+ "scraped": 458,
+ "with_image": 458,
+ "with_nutrients": 458,
+ "skipped": 17,
+ "notes": "Posts without a schema.org Recipe (round-ups, guides) are skipped. Total sugar is not stored as added sugar."
+}

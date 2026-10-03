@@ -1,0 +1,71 @@
+{
+ "servings": 20,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 100,
+   "name": "white flour"
+  },
+  {
+   "fdc": 173412,
+   "g": 40,
+   "name": "ghee"
+  },
+  {
+   "fdc": 169655,
+   "g": 25,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 170872,
+   "g": 100,
+   "name": "low-fat milk 1%"
+  },
+  {
+   "fdc": 172803,
+   "g": 4,
+   "name": "baking powder"
+  },
+  {
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 171726,
+   "g": 200,
+   "name": "dates, pitted (filling)"
+  },
+  {
+   "fdc": 170150,
+   "g": 6,
+   "name": "sesame seeds"
+  },
+  {
+   "fdc": 170919,
+   "g": 3,
+   "name": "cardamom"
+  },
+  {
+   "fdc": 171320,
+   "g": 2,
+   "name": "cinnamon"
+  },
+  {
+   "fdc": 170926,
+   "g": 1,
+   "name": "ginger, ground"
+  },
+  {
+   "fdc": 171323,
+   "g": 1,
+   "name": "fennel seed"
+  }
+ ]
+}

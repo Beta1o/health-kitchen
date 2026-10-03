@@ -1,0 +1,56 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 120,
+   "name": "white flour"
+  },
+  {
+   "fdc": 170872,
+   "g": 100,
+   "name": "low-fat milk"
+  },
+  {
+   "fdc": 175043,
+   "g": 5,
+   "name": "instant yeast"
+  },
+  {
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "fdc": 170151,
+   "g": 8,
+   "name": "toasted sesame"
+  },
+  {
+   "fdc": 171413,
+   "g": 5,
+   "name": "oil for the pan"
+  },
+  {
+   "fdc": 171314,
+   "g": 12,
+   "name": "ghee"
+  },
+  {
+   "fdc": 169640,
+   "g": 45,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "fdc": 171726,
+   "g": 90,
+   "name": "dates, pitted (6)"
+  }
+ ]
+}

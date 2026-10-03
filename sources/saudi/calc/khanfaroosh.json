@@ -1,0 +1,56 @@
+{
+ "servings": 8,
+ "items": [
+  {
+   "fdc": 168936,
+   "g": 100,
+   "name": "white flour"
+  },
+  {
+   "fdc": 169714,
+   "g": 100,
+   "name": "rice flour"
+  },
+  {
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs (2)"
+  },
+  {
+   "fdc": 169655,
+   "g": 60,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "fdc": 172195,
+   "g": 15,
+   "name": "nonfat dry milk"
+  },
+  {
+   "fdc": 170872,
+   "g": 150,
+   "name": "low-fat milk 1%"
+  },
+  {
+   "fdc": 172803,
+   "g": 5,
+   "name": "baking powder"
+  },
+  {
+   "fdc": 171413,
+   "g": 15,
+   "name": "olive oil (for the pan)"
+  },
+  {
+   "fdc": 170919,
+   "g": 3,
+   "name": "cardamom"
+  },
+  {
+   "fdc": 170934,
+   "g": 0.2,
+   "name": "saffron"
+  }
+ ]
+}

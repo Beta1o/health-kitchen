@@ -1,0 +1,83 @@
+[
+ {
+  "id": "bulool-makhamir",
+  "ar": "بلول المخامير",
+  "en": "Bulool Al-Makhamir",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13066-1.html"
+  ]
+ },
+ {
+  "id": "sahlab",
+  "ar": "السحلب الحجازي",
+  "en": "Hijazi Sahlab",
+  "region": "Hijazi",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15013-1.html"
+  ]
+ },
+ {
+  "id": "shampain",
+  "ar": "مشروب شامبين",
+  "en": "Saudi Champagne Drink",
+  "region": "",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12919-1.html"
+  ]
+ },
+ {
+  "id": "lemon-hasawi",
+  "ar": "عصير الليمون الحساوي",
+  "en": "Hasawi Lemon Juice",
+  "region": "Hasawi",
+  "kind": "drink",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-8942-1.html"
+  ]
+ },
+ {
+  "id": "dibyaza",
+  "ar": "الدبيازة الحجازية",
+  "en": "Hijazi Dibyaza",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-9839-1.html"
+  ]
+ },
+ {
+  "id": "dagga-madiniya",
+  "ar": "الدقة المدينية",
+  "en": "Madina Dagga",
+  "region": "Hijazi",
+  "kind": "side",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-6172-1.html"
+  ]
+ },
+ {
+  "id": "zirbyan",
+  "ar": "زربيان حجازي",
+  "en": "Hijazi Zirbyan",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-5620-1.html"
+  ]
+ },
+ {
+  "id": "aysh-lahm",
+  "ar": "عيش باللحم الحجازي",
+  "en": "Hijazi Aysh Bil-Lahm",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16393-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14990-1.html"
+  ]
+ }
+]

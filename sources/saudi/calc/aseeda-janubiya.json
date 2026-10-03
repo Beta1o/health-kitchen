@@ -1,0 +1,55 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 174313,
+   "g": 520,
+   "name": "lean lamb leg/shoulder, raw (boneless)"
+  },
+  {
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "fdc": 169230,
+   "g": 5,
+   "name": "garlic"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrots"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomato"
+  },
+  {
+   "fdc": 168893,
+   "g": 240,
+   "name": "whole-wheat (burr) flour"
+  },
+  {
+   "fdc": 171314,
+   "g": 12,
+   "name": "ghee 2.5 tsp"
+  },
+  {
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt (marag 4 + aseeda 1)"
+  }
+ ]
+}

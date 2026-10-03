@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 240,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 174313,
+   "g": 560,
+   "name": "lean lamb leg, raw"
+  },
+  {
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil 1.5 tbsp"
+  },
+  {
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions (stew 150 + topping 50)"
+  },
+  {
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "fdc": 170459,
+   "g": 15,
+   "name": "tomato paste no salt"
+  },
+  {
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "fdc": 169228,
+   "g": 150,
+   "name": "eggplant"
+  },
+  {
+   "fdc": 170489,
+   "g": 200,
+   "name": "pumpkin / winter squash"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt (dough 1 + stew 3)"
+  }
+ ]
+}

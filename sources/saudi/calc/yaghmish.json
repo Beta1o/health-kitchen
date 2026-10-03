@@ -1,0 +1,60 @@
+{
+ "servings": 4,
+ "items": [
+  {
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole-wheat flour"
+  },
+  {
+   "fdc": 168936,
+   "g": 150,
+   "name": "white flour"
+  },
+  {
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg (dough + glaze)"
+  },
+  {
+   "fdc": 170886,
+   "g": 100,
+   "name": "low-fat yoghurt"
+  },
+  {
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil 2 tbsp"
+  },
+  {
+   "fdc": 171790,
+   "g": 500,
+   "name": "lean minced beef 95%, raw"
+  },
+  {
+   "fdc": 170000,
+   "g": 250,
+   "name": "onions"
+  },
+  {
+   "fdc": 170457,
+   "g": 120,
+   "name": "tomato"
+  },
+  {
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley"
+  },
+  {
+   "fdc": 173468,
+   "g": 4,
+   "name": "salt"
+  }
+ ]
+}

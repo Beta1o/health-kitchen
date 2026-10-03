@@ -163,6 +163,14 @@ def main():
                 cu.add(by_dish[str(rec["id"])])
         rec["cuisine"] = sorted(cu)
 
+    # reviewed categories for recipes from external sources (translations/catfix/out_*.json)
+    catfix = {}
+    for f in sorted((HERE / "translations" / "catfix").glob("out_*.json")):
+        catfix.update(json.loads(f.read_text(encoding="utf-8")))
+    for rec in recipes:
+        if str(rec["id"]) in catfix:
+            rec["cat"] = catfix[str(rec["id"])]
+
     # feminine Arabic steps/hints (translations/arf/out_*.json), shown when the reader picks "woman"
     arf = {}
     for f in sorted((HERE / "translations" / "arf").glob("out_*.json")):

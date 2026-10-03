@@ -1,0 +1,102 @@
+[
+ {
+  "id": "jareesh-shrimp",
+  "ar": "جريش الربيان",
+  "en": "Shrimp Jareesh",
+  "region": "",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-13860-1.html"
+  ]
+ },
+ {
+  "id": "jareesh-soup",
+  "ar": "شوربة الجريش",
+  "en": "Jareesh Soup",
+  "region": "",
+  "kind": "soup",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-12978-1.html"
+  ]
+ },
+ {
+  "id": "saleeq",
+  "ar": "السليق",
+  "en": "Saleeq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-16290-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-16289-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14563-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12920-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10733-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10732-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10731-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10668-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8066-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4082-1.html"
+  ]
+ },
+ {
+  "id": "saleeq-chicken",
+  "ar": "السليق بالدجاج",
+  "en": "Chicken Saleeq",
+  "region": "Hijazi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15720-1.html"
+  ]
+ },
+ {
+  "id": "madrouba-hasawi",
+  "ar": "المضروبة الحساوية",
+  "en": "Hasawi Madrouba (Saliqiya)",
+  "region": "Hasawi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-10507-1.html"
+  ]
+ },
+ {
+  "id": "musabeeb",
+  "ar": "المصابيب",
+  "en": "Musabeeb",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-18054-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-17200-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14569-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-14466-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13065-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-12983-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-5452-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-4368-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-3544-1.html"
+  ]
+ },
+ {
+  "id": "musabeeb-sweet",
+  "ar": "المصابيب الحلوة",
+  "en": "Sweet Musabeeb",
+  "region": "",
+  "kind": "dessert",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-15636-1.html"
+  ]
+ },
+ {
+  "id": "marasee",
+  "ar": "المراصيع",
+  "en": "Marasee'",
+  "region": "Najdi",
+  "kind": "main",
+  "urls": [
+   "https://www.encyclopediacooking.com/arabic/lesson-14345-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-13224-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-10699-1.html",
+   "https://www.encyclopediacooking.com/arabic/lesson-8760-1.html"
+  ]
+ }
+]

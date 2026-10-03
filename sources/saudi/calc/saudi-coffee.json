@@ -1,0 +1,30 @@
+{
+ "servings": 6,
+ "items": [
+  {
+   "fdc": 171890,
+   "g": 900,
+   "name": "Saudi coffee, brewed (light roast)"
+  },
+  {
+   "fdc": 170919,
+   "g": 8,
+   "name": "cardamom, ground"
+  },
+  {
+   "fdc": 170934,
+   "g": 0.2,
+   "name": "saffron"
+  },
+  {
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves"
+  },
+  {
+   "fdc": 171726,
+   "g": 96,
+   "name": "dates (12 small, about 8 g each)"
+  }
+ ]
+}
