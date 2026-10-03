@@ -124,6 +124,8 @@ def login(body: Login):
         row = c.execute("SELECT * FROM hk.login_lookup(%s)", (body.email.strip(),)).fetchone()
         if not row or not check_password(body.password, row["password_hash"]):
             raise HTTPException(401, "Email or password is incorrect")
+        if row["disabled"]:
+            raise HTTPException(403, "This account is disabled")
         tok = new_session(c, row["id"])
     return {"token": tok, "role": row["role"]}
 
@@ -181,10 +183,70 @@ def save_me(body: State, user=Depends(current)):
 
 
 # ---------- admin ----------
+@app.get("/api/admin/stats")
+def admin_stats(user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        signups = c.execute("""SELECT to_char(d, 'YYYY-MM-DD') AS d, count(u.id) AS n
+                               FROM generate_series(current_date - 29, current_date, interval '1 day') d
+                               LEFT JOIN hk.users u ON u.created_at::date = d::date GROUP BY d ORDER BY d""").fetchall()
+        row = c.execute("""SELECT count(*) AS users,
+                                  count(*) FILTER (WHERE role = 'admin') AS admins,
+                                  count(*) FILTER (WHERE disabled) AS disabled,
+                                  count(*) FILTER (WHERE greatest(last_seen, last_login) > now() - interval '1 day') AS active_day,
+                                  count(*) FILTER (WHERE greatest(last_seen, last_login) > now() - interval '7 days') AS active_week,
+                                  (SELECT count(*) FROM hk.weights) AS weigh_ins
+                           FROM hk.users""").fetchone()
+    return {**row, "signups": [{"d": x["d"], "n": x["n"]} for x in signups]}
+
+
+@app.get("/api/admin/users/{uid}")
+def admin_user(uid: str, user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        u = c.execute("SELECT id, email, name, role, disabled, created_at, last_login, last_seen FROM hk.users WHERE id = %s", (uid,)).fetchone()
+        if not u:
+            raise HTTPException(404, "Not found")
+        st = c.execute("SELECT profile, plan, favs, day, history, updated_at FROM hk.user_state WHERE user_id = %s", (uid,)).fetchone() or {}
+        w = c.execute("SELECT d, kg FROM hk.weights WHERE user_id = %s ORDER BY d", (uid,)).fetchall()
+    prof = st.get("profile") or {}
+    # medical notes stay private to the user; admins see the account and plan summary only
+    safe = {k: prof.get(k) for k in ("name", "goal", "target")}
+    return {"user": u, "profile": safe, "plan": st.get("plan") or {}, "saved": len(st.get("favs") or []),
+            "days_logged": len([k for k in (st.get("history") or {}) if re.match(r"^\d{4}-\d{2}-\d{2}$", k)]),
+            "updated_at": st.get("updated_at"), "weights": [{"d": x["d"].isoformat(), "kg": float(x["kg"])} for x in w]}
+
+
+class NewPassword(BaseModel):
+    password: str = Field(min_length=8, max_length=200)
+
+
+@app.put("/api/admin/users/{uid}/password")
+def admin_password(uid: str, body: NewPassword, user=Depends(admin)):
+    with as_user(user["id"], "admin") as c:
+        c.execute("UPDATE hk.users SET password_hash = %s WHERE id = %s", (hash_password(body.password), uid))
+        if uid != str(user["id"]):
+            c.execute("SELECT hk.end_user_sessions(%s)", (uid,))
+    return {"ok": True}
+
+
+class Active(BaseModel):
+    disabled: bool
+
+
+@app.put("/api/admin/users/{uid}/disabled")
+def admin_disable(uid: str, body: Active, user=Depends(admin)):
+    if uid == str(user["id"]):
+        raise HTTPException(400, "You can't disable your own account")
+    with as_user(user["id"], "admin") as c:
+        c.execute("UPDATE hk.users SET disabled = %s WHERE id = %s", (body.disabled, uid))
+        if body.disabled:
+            c.execute("SELECT hk.end_user_sessions(%s)", (uid,))
+    return {"ok": True}
+
+
 @app.get("/api/admin/users")
 def admin_users(user=Depends(admin)):
     with as_user(user["id"], "admin") as c:
-        rows = c.execute("""SELECT u.id, u.email, u.name, u.role, u.created_at, u.last_login,
+        rows = c.execute("""SELECT u.id, u.email, u.name, u.role, u.disabled, u.created_at, u.last_login, u.last_seen,
                                    s.plan->>'type' AS plan_type, jsonb_array_length(coalesce(s.favs, '[]')) AS saved,
                                    (SELECT count(*) FROM hk.weights w WHERE w.user_id = u.id) AS weigh_ins,
                                    (SELECT kg FROM hk.weights w WHERE w.user_id = u.id ORDER BY d DESC LIMIT 1) AS last_kg,
@@ -201,6 +263,8 @@ class RoleChange(BaseModel):
 def admin_role(uid: str, body: RoleChange, user=Depends(admin)):
     if body.role not in ("user", "admin"):
         raise HTTPException(400, "Unknown role")
+    if uid == str(user["id"]) and body.role != "admin":
+        raise HTTPException(400, "You can't remove your own admin role")
     with as_user(user["id"], "admin") as c:
         c.execute("UPDATE hk.users SET role = %s WHERE id = %s", (body.role, uid))
     return {"ok": True}

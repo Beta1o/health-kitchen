@@ -125,3 +125,11 @@ Object.assign(UI.hi, {
 Object.assign(UI.hi, { roleUser: "उपयोगकर्ता", roleAdmin: "व्यवस्थापक" });
 
 Object.assign(UI.hi, { netErr: "खाता सर्वर से संपर्क नहीं हो सका। थोड़ी देर बाद फिर से कोशिश करें।", localOnly: "आपकी जानकारी केवल इसी डिवाइस पर सहेजी गई है। इसे खाते में रखने के लिए ऐप को Health Kitchen सर्वर से खोलें (README देखें)।" });
+
+Object.assign(UI.hi, { fitOf: (sv, total, amt) => `आप इस रेसिपी की ${total} सर्विंग में से ${sv} खाते हैं${amt ? ` (${sv} × ${amt} प्रति सर्विंग)` : ""}। आपके हिस्से के पोषक तत्व «मेरा हिस्सा» कॉलम में हैं।` });
+
+Object.assign(UI.hi, { signInNeeded: "अपना खाता देखने के लिए साइन इन करें: आपकी जानकारी, आँकड़े, प्लान और सेटिंग्स।", stTitle: "मेरे आँकड़े", stToday: "आज", stAvg7: "औसत (पिछले 7 दिन)", stDays: "दर्ज किए गए दिन", stStreak: "लगातार दिन", stSaved: "सहेजी गई रेसिपी", stWeighIns: "वज़न की जाँच", stChange: "वज़न में बदलाव", stBmi: "BMI", badLogin: "ईमेल या पासवर्ड गलत है।", accDisabled: "यह खाता बंद है। एडमिनिस्ट्रेटर से संपर्क करें।", emailTaken: "इस ईमेल से खाता पहले से मौजूद है।", badEmail: "मान्य ईमेल पता दर्ज करें।", adOnly: "यह पेज केवल एडमिनिस्ट्रेटर खोल सकते हैं। एडमिन खाते से साइन इन करें।", adActiveDay: "आज सक्रिय", adDisabled: "बंद खाते", adDisabledOne: "बंद", adSignups: "नए उपयोगकर्ता (पिछले 30 दिन)", adNoPlan: "अभी कोई प्लान नहीं", adRecipesLang: "प्रति भाषा रेसिपी", adRecipesSrc: "प्रति स्रोत रेसिपी", adSearch: "ईमेल या नाम से खोजें", adExport: "CSV एक्सपोर्ट करें", adDetail: "विवरण", adJoined: "जुड़ने की तारीख", adPrivacy: "स्वास्थ्य संबंधी नोट्स, डॉक्टर के निर्देश और दवाइयाँ उपयोगकर्ता तक ही निजी रहती हैं और यहाँ नहीं दिखाई जातीं।", adNewPw: "नया पासवर्ड (8+ अक्षर)", adResetPw: "पासवर्ड सेट करें", adEnable: "खाता चालू करें", adDisable: "खाता बंद करें", adPwDone: "पासवर्ड बदल गया। उपयोगकर्ता को सभी डिवाइस से साइन आउट कर दिया गया है।" });
+
+UI.hi.profiles = { none: "कोई योजना नहीं (सभी रेसिपी)", ...UI.hi.profiles }; UI.hi.conds = { ...UI.hi.conds, none: "सभी रेसिपी" };
+
+Object.assign(TERMS_X.hi, {"Latin American": "लैटिन अमेरिकी", "Saudi": "सऊदी", "Emirati": "अमीराती", "Bahraini": "बहरीनी", "Lebanese": "लेबनानी", "Turkish": "तुर्की", "Moroccan": "मोरक्कन", "Tunisian": "ट्यूनीशियाई", "Egyptian": "मिस्री", "Persian": "फ़ारसी", "Afghan": "अफ़ग़ानी"});

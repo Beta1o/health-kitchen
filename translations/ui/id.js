@@ -238,3 +238,11 @@ Object.assign(UI.id, {
 Object.assign(UI.id, { roleUser: "Pengguna", roleAdmin: "Admin" });
 
 Object.assign(UI.id, { netErr: "Tidak dapat terhubung ke server akun. Coba lagi sebentar lagi.", localOnly: "Informasi Anda hanya tersimpan di perangkat ini. Untuk menyimpannya di akun, buka aplikasi dari server Health Kitchen (lihat README)." });
+
+Object.assign(UI.id, { fitOf: (sv, total, amt) => `Anda makan ${sv} dari ${total} porsi resep ini${amt ? ` (${sv} × ${amt} per porsi)` : ""}. Nutrisi porsi Anda ada di kolom «porsi saya».` });
+
+Object.assign(UI.id, { signInNeeded: "Masuk untuk melihat akun Anda: informasi, statistik, rencana, dan pengaturan.", stTitle: "Statistik saya", stToday: "Hari ini", stAvg7: "Rata-rata (7 hari terakhir)", stDays: "Hari tercatat", stStreak: "Rentetan hari", stSaved: "Resep tersimpan", stWeighIns: "Penimbangan", stChange: "Perubahan berat badan", stBmi: "BMI", badLogin: "Email atau kata sandi salah.", accDisabled: "Akun ini dinonaktifkan. Hubungi administrator.", emailTaken: "Akun dengan email ini sudah ada.", badEmail: "Masukkan alamat email yang valid.", adOnly: "Hanya administrator yang dapat membuka halaman ini. Masuk dengan akun admin.", adActiveDay: "Aktif hari ini", adDisabled: "Akun nonaktif", adDisabledOne: "Nonaktif", adSignups: "Pengguna baru (30 hari terakhir)", adNoPlan: "Belum ada rencana", adRecipesLang: "Resep per bahasa", adRecipesSrc: "Resep per sumber", adSearch: "Cari berdasarkan email atau nama", adExport: "Ekspor CSV", adDetail: "Detail", adJoined: "Bergabung", adPrivacy: "Catatan kesehatan, instruksi dokter, dan obat-obatan bersifat pribadi bagi pengguna dan tidak ditampilkan di sini.", adNewPw: "Kata sandi baru (minimal 8 karakter)", adResetPw: "Atur kata sandi", adEnable: "Aktifkan akun", adDisable: "Nonaktifkan akun", adPwDone: "Kata sandi diubah. Pengguna telah dikeluarkan dari semua perangkat." });
+
+UI.id.profiles = { none: "Tanpa rencana (semua resep)", ...UI.id.profiles }; UI.id.conds = { ...UI.id.conds, none: "Semua resep" };
+
+Object.assign(TERMS_X.id, {"Latin American": "Amerika Latin", "Saudi": "Saudi", "Emirati": "Emirat", "Bahraini": "Bahrain", "Lebanese": "Lebanon", "Turkish": "Turki", "Moroccan": "Maroko", "Tunisian": "Tunisia", "Egyptian": "Mesir", "Persian": "Persia", "Afghan": "Afganistan"});

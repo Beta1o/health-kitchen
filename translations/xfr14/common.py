@@ -1,0 +1,10 @@
+G0={"Renastep note":"Remarque sur Renastep","For the cake":"Pour le gâteau","For the buttercream":"Pour la crème au beurre","For the decoration":"Pour la décoration","Assembly":"Montage","For the syrup":"Pour le sirop","For the falafel":"Pour les falafels","For the tzatziki":"Pour le tzatziki"}
+RN1="Renastep est un aliment destiné à des fins médicales spéciales et doit être utilisé sous surveillance médicale."
+RN2="Renastep est une préparation prête à l'emploi pour la prise en charge diététique de la maladie rénale à partir de 3 ans. Renastep contient du lait et du poisson. Consultez les étiquettes pour les allergènes et les autres informations sur le produit."
+RN3="Cette recette a été spécialement conçue pour la prise en charge diététique de la maladie rénale."
+RNL=RN1+" "+RN2+" "+RN3[:-1]+" et a été analysée à l'aide du logiciel d'analyse diététique Nutrimen." if False else None
+CHK="Vérifiez toujours auprès de votre diététicien(ne) ou de votre médecin que cette recette vous convient."
+NUT="Cette recette a été spécialement conçue pour la prise en charge diététique de la maladie rénale et a été analysée à l'aide du logiciel d'analyse diététique Nutritics. Consultez les étiquettes pour les allergènes et les autres informations sur le produit."
+NUM="Cette recette a été spécialement conçue pour la prise en charge diététique de la maladie rénale et a été analysée à l'aide du logiciel d'analyse diététique Nutrimen. Consultez les étiquettes pour les allergènes et les autres informations sur le produit."
+RNFULL_M=RN1+" "+RN2+" Cette recette a été spécialement conçue pour la prise en charge diététique de la maladie rénale et a été analysée à l'aide du logiciel d'analyse diététique Nutrimen."
+RNFULL_T="Renastep est un aliment destiné à des fins médicales spéciales pour la prise en charge diététique de la maladie rénale. Convient à partir de 3 ans. Doit être utilisé sous surveillance médicale. Renastep contient du lait (protéines de lait) et du poisson (huile de thon). "+NUT

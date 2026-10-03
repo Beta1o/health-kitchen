@@ -242,3 +242,11 @@ Object.assign(UI.ur, {
 Object.assign(UI.ur, { roleUser: "صارف", roleAdmin: "منتظم" });
 
 Object.assign(UI.ur, { netErr: "اکاؤنٹ سرور سے رابطہ نہیں ہو سکا۔ تھوڑی دیر بعد دوبارہ کوشش کریں۔", localOnly: "آپ کی معلومات صرف اسی ڈیوائس پر محفوظ ہیں۔ اکاؤنٹ میں رکھنے کے لیے ایپ کو Health Kitchen سرور سے کھولیں (README دیکھیں)۔" });
+
+Object.assign(UI.ur, { fitOf: (sv, total, amt) => `آپ اس ترکیب کی ${total} سرونگز میں سے ${sv} کھاتے ہیں${amt ? ` (${sv} × ${amt} فی سرونگ)` : ""}۔ آپ کے حصے کے غذائی اجزاء «میرا حصہ» کالم میں ہیں۔` });
+
+Object.assign(UI.ur, { signInNeeded: "اپنا اکاؤنٹ دیکھنے کے لیے سائن اِن کریں: آپ کی معلومات، اعداد و شمار، پلان اور سیٹنگز۔", stTitle: "میرے اعداد و شمار", stToday: "آج", stAvg7: "اوسط (پچھلے 7 دن)", stDays: "ریکارڈ شدہ دن", stStreak: "مسلسل دن", stSaved: "محفوظ کردہ ترکیبیں", stWeighIns: "وزن کی پیمائشیں", stChange: "وزن میں تبدیلی", stBmi: "BMI", badLogin: "ای میل یا پاس ورڈ غلط ہے۔", accDisabled: "یہ اکاؤنٹ غیر فعال ہے۔ ایڈمنسٹریٹر سے رابطہ کریں۔", emailTaken: "اس ای میل سے اکاؤنٹ پہلے سے موجود ہے۔", badEmail: "درست ای میل ایڈریس درج کریں۔", adOnly: "یہ صفحہ صرف ایڈمنسٹریٹر کھول سکتے ہیں۔ ایڈمن اکاؤنٹ سے سائن اِن کریں۔", adActiveDay: "آج فعال", adDisabled: "غیر فعال اکاؤنٹس", adDisabledOne: "غیر فعال", adSignups: "نئے صارفین (پچھلے 30 دن)", adNoPlan: "ابھی کوئی پلان نہیں", adRecipesLang: "فی زبان ترکیبیں", adRecipesSrc: "فی ماخذ ترکیبیں", adSearch: "ای میل یا نام سے تلاش کریں", adExport: "CSV ایکسپورٹ کریں", adDetail: "تفصیلات", adJoined: "شمولیت", adPrivacy: "صحت کے نوٹس، ڈاکٹر کی ہدایات اور ادویات صارف کے لیے نجی رہتی ہیں اور یہاں نہیں دکھائی جاتیں۔", adNewPw: "نیا پاس ورڈ (8+ حروف)", adResetPw: "پاس ورڈ سیٹ کریں", adEnable: "اکاؤنٹ فعال کریں", adDisable: "اکاؤنٹ غیر فعال کریں", adPwDone: "پاس ورڈ تبدیل ہو گیا۔ صارف کو تمام آلات سے سائن آؤٹ کر دیا گیا۔" });
+
+UI.ur.profiles = { none: "کوئی پلان نہیں (تمام ترکیبیں)", ...UI.ur.profiles }; UI.ur.conds = { ...UI.ur.conds, none: "تمام ترکیبیں" };
+
+Object.assign(TERMS_X.ur, {"Latin American": "لاطینی امریکی", "Saudi": "سعودی", "Emirati": "اماراتی", "Bahraini": "بحرینی", "Lebanese": "لبنانی", "Turkish": "ترکی", "Moroccan": "مراکشی", "Tunisian": "تیونسی", "Egyptian": "مصری", "Persian": "فارسی", "Afghan": "افغانی"});

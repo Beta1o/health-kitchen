@@ -100,6 +100,17 @@ TERMS = {
     "Spanish": ("Española", "إسباني"),
     "African": ("Africana", "أفريقي"),
     "International": ("Internacional", "عالمي"),
+    "Latin American": ("Latinoamericana", "أمريكي لاتيني"),
+    "Saudi": ("Saudí", "سعودي"),
+    "Emirati": ("Emiratí", "إماراتي"),
+    "Bahraini": ("Bareiní", "بحريني"),
+    "Lebanese": ("Libanesa", "لبناني"),
+    "Turkish": ("Turca", "تركي"),
+    "Moroccan": ("Marroquí", "مغربي"),
+    "Tunisian": ("Tunecina", "تونسي"),
+    "Egyptian": ("Egipcia", "مصري"),
+    "Persian": ("Persa", "فارسي"),
+    "Afghan": ("Afgana", "أفغاني"),
 }
 
 ES_TO_EN = {

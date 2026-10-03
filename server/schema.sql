@@ -116,3 +116,35 @@ GRANT EXECUTE ON FUNCTION hk.create_user(text, text, text), hk.login_lookup(text
     hk.session_user_of(text), hk.end_session(text), hk.current_user_id(), hk.is_admin() TO hk_api;
 REVOKE EXECUTE ON FUNCTION hk.create_user(text, text, text), hk.login_lookup(text), hk.start_session(uuid, text, int),
     hk.session_user_of(text), hk.end_session(text) FROM PUBLIC;
+
+-- ---------- v2: disabled accounts, last seen, admin helpers ----------
+ALTER TABLE hk.users ADD COLUMN IF NOT EXISTS disabled  boolean NOT NULL DEFAULT false;
+ALTER TABLE hk.users ADD COLUMN IF NOT EXISTS last_seen timestamptz;
+
+DROP FUNCTION IF EXISTS hk.login_lookup(text);
+CREATE FUNCTION hk.login_lookup(p_email text)
+RETURNS TABLE (id uuid, password_hash text, role text, name text, disabled boolean) LANGUAGE sql SECURITY DEFINER SET search_path = hk, pg_temp AS
+$$ SELECT id, password_hash, role, name, disabled FROM hk.users WHERE email = lower(p_email) $$;
+
+-- session lookup also refreshes last_seen (at most every 5 minutes) and ignores disabled accounts
+CREATE OR REPLACE FUNCTION hk.session_user_of(p_token_hash text)
+RETURNS TABLE (id uuid, role text) LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
+DECLARE uid uuid; r text;
+BEGIN
+  SELECT u.id, u.role INTO uid, r FROM hk.sessions s JOIN hk.users u ON u.id = s.user_id
+   WHERE s.token_hash = p_token_hash AND s.expires_at > now() AND NOT u.disabled;
+  IF uid IS NULL THEN RETURN; END IF;
+  UPDATE hk.users SET last_seen = now() WHERE users.id = uid AND (last_seen IS NULL OR last_seen < now() - interval '5 minutes');
+  id := uid; role := r; RETURN NEXT;
+END $$;
+
+-- admins only: sign a user out everywhere (after a password reset or when disabling)
+CREATE OR REPLACE FUNCTION hk.end_user_sessions(p_user uuid)
+RETURNS void LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
+BEGIN
+  IF NOT hk.is_admin() THEN RAISE EXCEPTION 'admins only'; END IF;
+  DELETE FROM hk.sessions WHERE user_id = p_user;
+END $$;
+
+GRANT EXECUTE ON FUNCTION hk.login_lookup(text), hk.session_user_of(text), hk.end_user_sessions(uuid) TO hk_api;
+REVOKE EXECUTE ON FUNCTION hk.login_lookup(text), hk.session_user_of(text), hk.end_user_sessions(uuid) FROM PUBLIC;

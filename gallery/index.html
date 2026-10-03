@@ -390,13 +390,15 @@ h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; le
 .badge { background: rgba(10,20,22,.72); color: #fff; font-size: .72rem; font-weight: 700; padding: 3px 8px; border-radius: 999px; display: inline-flex; align-items: center; gap: 4px; }
 .fav { position: absolute; top: 8px; inset-inline-end: 8px; width: 36px; height: 36px; border-radius: 50%; border: 0; background: rgba(255,255,255,.92); color: #7a2e5c; cursor: pointer; display: grid; place-items: center; }
 .fav[aria-pressed="true"] svg { fill: currentColor; }
-.card-body { padding: 12px 14px 14px; display: grid; gap: 8px; flex: 1; align-content: start; }
-.card-body h3 { font-size: 1.04rem; font-weight: 700; line-height: 1.3; }
+.card-body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0; }
+.card-body > .meta-line:first-child { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
+.card-body h3 { font-size: 1.04rem; font-weight: 700; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; min-height: 2.6em; }
 .meta-line { display: flex; gap: 8px; align-items: center; font-size: .8rem; color: var(--muted); flex-wrap: wrap; }
 .stars { color: var(--plum); letter-spacing: 1px; font-size: .85rem; direction: ltr; }
 .renal { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; margin-top: auto; }
 .mineral { border-radius: 8px; padding: 5px 7px; display: grid; }
-.mineral span { font-size: .66rem; font-weight: 700; letter-spacing: .04em; opacity: .9; }
+.mineral { min-width: 0; }
+.mineral span { font-size: .66rem; font-weight: 700; letter-spacing: .04em; opacity: .9; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .mineral b { font-family: var(--font-data); font-weight: 600; font-size: .86rem; }
 .mineral b small { font-size: .62rem; font-weight: 500; opacity: .8; }
 .lv-lo { background: var(--lo-bg); color: var(--lo); }
@@ -477,6 +479,10 @@ ol.steps li.done::before { content: "✓"; background: var(--accent); color: var
 .ntable td { padding: 9px 14px; border-bottom: 1px solid var(--line); font-size: .95rem; }
 .ntable tr:last-child td { border-bottom: 0; }
 .ntable td:last-child { text-align: end; font-family: var(--font-data); font-variant-numeric: tabular-nums; white-space: nowrap; direction: ltr; }
+.ntable td:has(> .nv) { text-align: end; white-space: nowrap; width: 1%; }
+.nv { display: inline-grid; grid-template-columns: 5.5ch 3.4em; column-gap: 6px; align-items: baseline; direction: ltr; }
+.nv b { font-weight: 500; text-align: end; font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.nv i { font-style: normal; text-align: start; color: var(--muted); font-size: .85em; font-family: var(--font-body); }
 .ntable tr.key td:first-child { font-weight: 700; }
 .lvl { font-size: .68rem; font-weight: 700; padding: 2px 7px; border-radius: 999px; margin-inline-start: 8px; vertical-align: 1px; }
 .side { display: grid; gap: 20px; }
@@ -540,6 +546,26 @@ body.view-admin .hero-band, body.view-admin .dash, body.view-admin .wrap, body.v
 .acc-card h3 { font-size: 1.05rem; }
 .sync-chip { font-size: .78rem; font-weight: 600; color: var(--muted); font-family: var(--font-body); }
 [hidden] { display: none !important; }
+.acc-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-bottom: 4px; }
+.acc-head h2 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.acc-head-act { margin-inline-start: auto; align-items: center; }
+.acc-head-act input[type=search] { padding: 8px 12px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); font: inherit; min-width: 0; width: 220px; max-width: 100%; }
+.acc-av.big { width: 56px; height: 56px; font-size: 1.5rem; border-radius: 50%; display: grid; place-items: center; background: var(--accent-soft); color: var(--accent); font-weight: 800; flex: none; }
+.acc-gate { text-align: center; justify-items: center; padding: 34px 20px; max-width: 520px; margin: 30px auto; }
+.acc-settings .plan-group { border-top: 1px solid var(--line); padding-top: 12px; }
+.acc-card .chips { align-items: flex-start; align-content: flex-start; }
+.admin-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); gap: 14px; }
+.bars { display: flex; align-items: flex-end; gap: 3px; height: 90px; }
+.bars i { flex: 1; background: var(--accent); border-radius: 3px 3px 0 0; opacity: .85; min-width: 2px; }
+.admin-table tr.off td { opacity: .55; }
+.ad-detail input { padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font: inherit; }
+.icon-btn.danger { color: var(--hi); }
+.sugg { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.sugg:empty { display: none; }
+.sugg button { border: 1px solid var(--line); background: var(--surface-2, var(--surface)); border-radius: 999px; padding: 5px 11px; font: 600 .86rem var(--font-body); color: var(--ink); cursor: pointer; }
+.sugg button:hover { background: var(--accent-soft); border-color: var(--accent); }
+.sugg small { color: var(--muted); font-weight: 500; margin-inline-start: 3px; }
+.fit-of { display: block; color: var(--muted); font-size: .88rem; margin-top: 2px; }
 .acc-btn { display: inline-flex; align-items: center; gap: 8px; height: 42px; padding: 0 14px 0 5px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 .92rem var(--font-body); cursor: pointer; flex: none; max-width: 190px; transition: background .2s, transform .15s; }
 .acc-btn:hover { transform: translateY(-1px); }
 .acc-av { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; background: var(--accent-soft); color: var(--accent); font-weight: 800; flex: none; }
@@ -615,7 +641,7 @@ body.view-recipes .hero-band, body.view-recipes .dash { display: none; }
 .cat-tile span { position: absolute; inset-inline: 12px; bottom: 10px; z-index: 1; display: grid; }
 .cat-tile b { font-family: var(--font-display); font-size: 1.02rem; line-height: 1.2; }
 .cat-tile small { opacity: .85; font-family: var(--font-data); font-size: .75rem; }
-.hscroll { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(230px, 260px); gap: 14px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+.hscroll { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(230px, 260px); align-items: stretch; gap: 14px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
 .hscroll > * { scroll-snap-align: start; }
 .dash-cta { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center; }
 .btn-primary.big { font-size: 1.1rem; padding: 14px 28px; box-shadow: 0 8px 24px color-mix(in srgb, var(--accent) 35%, transparent); transition: transform .2s; }
@@ -1017,7 +1043,7 @@ body.reading .site-foot { display: none; }
 <dialog class="panel-dlg wide" id="mpDlg" aria-labelledby="mpTitle"><div class="dlg-in" id="mpIn"></div></dialog>
 <dialog class="panel-dlg" id="dayDlg" aria-labelledby="dayDlgTitle"><div class="dlg-in" id="dayIn"></div></dialog>
 
-<script src="data.js?v=306ac2fe"></script>
+<script src="data.js?v=98c1a0f7"></script>
 <script>
 const DATA = window.HK_DATA || null;
 const R = DATA.recipes;
@@ -1025,7 +1051,7 @@ const R = DATA.recipes;
 // ---------- interface text ----------
 const UI = {
   en: {
-    navAbout: "About", accTitle: "My account", accOpen: "Open my account", signIn: "Sign in", signUp: "Create account", signOut: "Sign out", signedOut: "Signed out", email: "Email", password: "Password", authIntro: "Sign in to keep your information, plans, weight and saved recipes in your account.", noAccount: "New here?", haveAccount: "Already have an account?", guest: "Continue without an account", pwShort: "Use at least 8 characters for your password.", welcome: n => `Welcome, ${n}`, synced: "Saved to your account", syncing: "Saving…", syncErr: "Not saved, check the connection", adminTitle: "Admin", adUsers: "Users", adAdmins: "Admins", adActive: "Active this week", adWeighIns: "Weigh-ins", adPlans: "Users by plan", adSaved: "Saved", adLast: "Last sign-in", netErr: "Can't reach the account server. Try again in a moment.", localOnly: "Your information is saved on this device only. To keep it in an account, open the app from the Health Kitchen server (see README).", roleUser: "User", roleAdmin: "Admin", adRole: "Role", confirmDel: "Tap again to delete", loading: "Loading…", pfTitle: "My information", pfName: "Name", pfGoal: "Weight goal", goalLose: "Lose weight", goalKeep: "Keep my weight", goalGain: "Gain weight", pfTarget: "Target weight", pfGoalNote: k => `Your calorie target is now about ${k} kcal a day.`, pfPrefs: "Preferences and foods I avoid", pfDislikes: "Foods I don't eat", pfAllergies: "Allergies", pfLikes: "Foods I like", pfHide: "Hide recipes with foods I avoid", pfDoctor: "Doctor's instructions and medicines", pfDoctorNote: "Instructions from my doctor or dietitian", pfMeds: "My medicines (e.g. phosphate binder with meals)", pfDoctorShort: "My care notes", pfProgress: (w, t) => `Now ${w} kg · target ${t} kg (${(w - t > 0 ? "−" : "+") + Math.abs(w - t).toFixed(1)} kg to go)`, footNote: "For general information; follow your care team's advice.", srcFacet: "Source", fitTitle: "Fit to my targets", fitLine: (sv, kcal, p) => `Your portion: ${sv} serving(s), about ${kcal} kcal, within a meal's share of your ${p} limits.`, fitOver: x => `Even half a serving is above a meal's share for: ${x}. Pair it with lighter dishes today.`, fitScale: sv => `Cook just my portion (${sv} serving)`, fitScaled: sv => `scaled to ${sv} serving`, perServing: "per serving", myPortionW: "my portion", recTitle: "Recommended meals for you", recAddAll: "Add all to My day", recNote: (k, p) => `A day of meals sized to your ${k.toLocaleString()} kcal target, within your ${p} limits. Portions are adjusted per meal.`, servX: x => `${x} serving${x === "1" ? "" : "s"}`, fitOnly: "Fits my daily targets", settings: "Settings", setLang: "Language", setTheme: "Theme", setAddr: "Speak to me as", addrM: "Man", addrF: "Woman", setAddrNote: "Changes how Arabic instructions address you.", setData: "My data", clearSaved: "Clear saved recipes", kidneySub: { hd: "Dialysis", ckd: "CKD, no dialysis", dm: "CKD + diabetes" }, aboutLatest: "Latest updates", updates: [["2026-10-02", ["New dashboard with a condition switcher, daily targets, advice and calculators", "Weight tracker, cook mode with timers and metric units", "Recipes from AAKP, Kidney Care UK, My Renal Nutrition and DaVita Saudi Arabia", "Meal plans from 7 days to a full year", "Light and dark themes, sharing and PDF export"]], ["2026-10-01", ["Recipes in English, Spanish and Arabic", "Health plans for kidney disease, diabetes, blood pressure and heart health"]]], conds: { kidney: "Kidney", t2: "Diabetes", bp: "Blood pressure", heart: "Heart", gen: "General" },
+    navAbout: "About", accTitle: "My account", accOpen: "Open my account", signIn: "Sign in", signUp: "Create account", signOut: "Sign out", signedOut: "Signed out", email: "Email", password: "Password", authIntro: "Sign in to keep your information, plans, weight and saved recipes in your account.", noAccount: "New here?", haveAccount: "Already have an account?", guest: "Continue without an account", pwShort: "Use at least 8 characters for your password.", welcome: n => `Welcome, ${n}`, synced: "Saved to your account", syncing: "Saving…", syncErr: "Not saved, check the connection", adminTitle: "Admin", adUsers: "Users", adAdmins: "Admins", adActive: "Active this week", adWeighIns: "Weigh-ins", adPlans: "Users by plan", adSaved: "Saved", adLast: "Last sign-in", netErr: "Can't reach the account server. Try again in a moment.", localOnly: "Your information is saved on this device only. To keep it in an account, open the app from the Health Kitchen server (see README).", fitOf: (sv, total, amt) => `You eat ${sv} of the ${total} servings this recipe makes${amt ? ` (${sv} × ${amt} each)` : ""}. Nutrients for your portion are shown in the "my portion" column.`, signInNeeded: "Sign in to see your account: your information, statistics, plan and settings.", stTitle: "My statistics", stToday: "Today", stAvg7: "Average (last 7 days)", stDays: "Days logged", stStreak: "Day streak", stSaved: "Saved recipes", stWeighIns: "Weigh-ins", stChange: "Weight change", stBmi: "BMI", badLogin: "Email or password is incorrect.", accDisabled: "This account is disabled. Contact the administrator.", emailTaken: "An account with this email already exists.", badEmail: "Enter a valid email address.", adOnly: "Only administrators can open this page. Sign in with an admin account.", adActiveDay: "Active today", adDisabled: "Disabled accounts", adDisabledOne: "Disabled", adSignups: "New users (last 30 days)", adNoPlan: "No plan yet", adRecipesLang: "Recipes per language", adRecipesSrc: "Recipes per source", adSearch: "Search by email or name", adExport: "Export CSV", adDetail: "Details", adJoined: "Joined", adPrivacy: "Health notes, doctor's instructions and medicines stay private to the user and are not shown here.", adNewPw: "New password (8+ characters)", adResetPw: "Set password", adEnable: "Enable account", adDisable: "Disable account", adPwDone: "Password changed. The user was signed out on all devices.", roleUser: "User", roleAdmin: "Admin", adRole: "Role", confirmDel: "Tap again to delete", loading: "Loading…", pfTitle: "My information", pfName: "Name", pfGoal: "Weight goal", goalLose: "Lose weight", goalKeep: "Keep my weight", goalGain: "Gain weight", pfTarget: "Target weight", pfGoalNote: k => `Your calorie target is now about ${k} kcal a day.`, pfPrefs: "Preferences and foods I avoid", pfDislikes: "Foods I don't eat", pfAllergies: "Allergies", pfLikes: "Foods I like", pfHide: "Hide recipes with foods I avoid", pfDoctor: "Doctor's instructions and medicines", pfDoctorNote: "Instructions from my doctor or dietitian", pfMeds: "My medicines (e.g. phosphate binder with meals)", pfDoctorShort: "My care notes", pfProgress: (w, t) => `Now ${w} kg · target ${t} kg (${(w - t > 0 ? "−" : "+") + Math.abs(w - t).toFixed(1)} kg to go)`, footNote: "For general information; follow your care team's advice.", srcFacet: "Source", fitTitle: "Fit to my targets", fitLine: (sv, kcal, p) => `Your portion: ${sv} serving(s), about ${kcal} kcal, within a meal's share of your ${p} limits.`, fitOver: x => `Even half a serving is above a meal's share for: ${x}. Pair it with lighter dishes today.`, fitScale: sv => `Cook just my portion (${sv} serving)`, fitScaled: sv => `scaled to ${sv} serving`, perServing: "per serving", myPortionW: "my portion", recTitle: "Recommended meals for you", recAddAll: "Add all to My day", recNote: (k, p) => `A day of meals sized to your ${k.toLocaleString()} kcal target, within your ${p} limits. Portions are adjusted per meal.`, servX: x => `${x} serving${x === "1" ? "" : "s"}`, fitOnly: "Fits my daily targets", settings: "Settings", setLang: "Language", setTheme: "Theme", setAddr: "Speak to me as", addrM: "Man", addrF: "Woman", setAddrNote: "Changes how Arabic instructions address you.", setData: "My data", clearSaved: "Clear saved recipes", kidneySub: { hd: "Dialysis", ckd: "CKD, no dialysis", dm: "CKD + diabetes" }, aboutLatest: "Latest updates", updates: [["2026-10-02", ["New dashboard with a condition switcher, daily targets, advice and calculators", "Weight tracker, cook mode with timers and metric units", "Recipes from AAKP, Kidney Care UK, My Renal Nutrition and DaVita Saudi Arabia", "Meal plans from 7 days to a full year", "Light and dark themes, sharing and PDF export"]], ["2026-10-01", ["Recipes in English, Spanish and Arabic", "Health plans for kidney disease, diabetes, blood pressure and heart health"]]], conds: { none: "All recipes", kidney: "Kidney", t2: "Diabetes", bp: "Blood pressure", heart: "Heart", gen: "General" },
     aboutWhat: "What is Health Kitchen?", aboutWhatP: "Health Kitchen brings together recipes from trusted kidney, diabetes and heart-health organisations in one place, in English, Spanish and Arabic. Every recipe shows its nutrition per serving and links to its original source, so you can cook with confidence and share what you find.",
     aboutHow: "How it works", aboutSteps: [["🎯", "Choose your condition", "Kidney, diabetes, blood pressure, heart or general. The dashboard adapts to it."], ["🍽️", "Find recipes that fit", "Filter by diet, nutrients and ingredients, and see each dish's share of your daily amounts."], ["📅", "Plan and cook", "Build meal plans, track your day and weight, and cook step by step with timers."]],
     aboutSources: "Recipe sources", aboutSourcesP: "Each recipe credits and links to the organisation that published it.", aboutShare: "Share Health Kitchen", shareBtn: "Share", shareMsg: "Health Kitchen: recipes for kidney, diabetes and heart health in English, Spanish and Arabic.",
@@ -1052,7 +1078,7 @@ const UI = {
     heroLede: n => `${n} recipes from trusted health organisations, with full nutrition per serving. Choose a plan for kidney disease, diabetes, blood pressure or heart health and see how every dish fits your day.`,
     statRecipes: "recipes", statPhotos: "with photos", statVideos: "cooking videos", statSources: "sources", featured: "Featured",
     legendLo: "Low", legendMid: "Moderate", legendHi: "Higher", legendMeal: "share of one meal", navHome: "Home", themeNames: { system: "Theme: system", dark: "Theme: dark", light: "Theme: light" }, source: "Source", allDone: "All steps done. Enjoy your meal!",
-    plan: "My health plan", planEdit: "Edit amounts", profiles: { hd: "Kidney: dialysis", ckd: "Kidney: CKD, not on dialysis", dm: "Kidney: CKD with diabetes", t2: "Diabetes", bp: "High blood pressure", heart: "Heart health", gen: "General healthy eating" },
+    plan: "My health plan", planEdit: "Edit amounts", profiles: { none: "No plan (all recipes)", hd: "Kidney: dialysis", ckd: "Kidney: CKD, not on dialysis", dm: "Kidney: CKD with diabetes", t2: "Diabetes", bp: "High blood pressure", heart: "Heart health", gen: "General healthy eating" },
     planIntro: "Pick your plan and enter the daily amounts your doctor or dietitian gave you. Recipe meters show each serving's share of one meal, counted as a third of your day. Limits turn amber and red as you near them; goals fill green.",
     weight: "Body weight", perKg: "Protein per kg of body weight", daily: "Daily amounts", carbsOff: "leave empty to not track",
     planSource: "Starting values: kidney plans follow KDOQI 2020 (protein, sodium) and renal dietitian practice (potassium, phosphorus); diabetes follows ADA guidance of about 45–60 g carbohydrate per meal; blood pressure follows DASH and AHA (1,500 mg sodium, potassium-rich food); heart health and general eating follow AHA and the Dietary Guidelines for Americans (sodium under 2,300 mg, added sugar under 25–50 g, fiber 25–30 g). Your own care team's numbers come first.",
@@ -1088,7 +1114,7 @@ const UI = {
     occasions: "Occasions", without: "Without", saveOnly: "Saved only", servUnit: "servings",
     footer: (n, x) => `${n} recipes from DaVita and leading kidney, diabetes and heart health organisations, in English, Spanish and Arabic. Colour levels per serving: sodium low ≤140 mg, higher >400 mg; potassium low ≤200 mg, higher >400 mg; phosphorus low ≤100 mg, higher >250 mg. They help with sorting only. Follow the advice of your doctor or dietitian.` },
   es: {
-    navAbout: "Acerca de", accTitle: "Mi cuenta", accOpen: "Abrir mi cuenta", signIn: "Iniciar sesión", signUp: "Crear cuenta", signOut: "Cerrar sesión", signedOut: "Sesión cerrada", email: "Correo", password: "Contraseña", authIntro: "Inicie sesión para guardar su información, planes, peso y recetas en su cuenta.", noAccount: "¿Es nuevo?", haveAccount: "¿Ya tiene cuenta?", guest: "Continuar sin cuenta", pwShort: "Use al menos 8 caracteres en la contraseña.", welcome: n => `Bienvenido, ${n}`, synced: "Guardado en su cuenta", syncing: "Guardando…", syncErr: "No se guardó, revise la conexión", adminTitle: "Administración", adUsers: "Usuarios", adAdmins: "Administradores", adActive: "Activos esta semana", adWeighIns: "Pesajes", adPlans: "Usuarios por plan", adSaved: "Guardadas", adLast: "Último acceso", netErr: "No se puede conectar con el servidor de cuentas. Inténtalo de nuevo en un momento.", localOnly: "Tu información se guarda solo en este dispositivo. Para guardarla en una cuenta, abre la app desde el servidor de Health Kitchen (ver README).", roleUser: "Usuario", roleAdmin: "Administrador", adRole: "Rol", confirmDel: "Toque otra vez para borrar", loading: "Cargando…", pfTitle: "Mis datos", pfName: "Nombre", pfGoal: "Meta de peso", goalLose: "Bajar de peso", goalKeep: "Mantener mi peso", goalGain: "Subir de peso", pfTarget: "Peso meta", pfGoalNote: k => `Su meta de calorías ahora es de unas ${k} kcal al día.`, pfPrefs: "Preferencias y alimentos que evito", pfDislikes: "Alimentos que no como", pfAllergies: "Alergias", pfLikes: "Alimentos que me gustan", pfHide: "Ocultar recetas con alimentos que evito", pfDoctor: "Indicaciones médicas y medicamentos", pfDoctorNote: "Indicaciones de mi médico o dietista", pfMeds: "Mis medicamentos (p. ej. quelante de fósforo con las comidas)", pfDoctorShort: "Mis notas de salud", pfProgress: (w, t) => `Ahora ${w} kg · meta ${t} kg (faltan ${Math.abs(w - t).toFixed(1)} kg)`, footNote: "Información general; siga las indicaciones de su equipo de salud.", srcFacet: "Fuente", fitTitle: "Ajustada a mis metas", fitLine: (sv, kcal, p) => `Su porción: ${sv} porción(es), unas ${kcal} kcal, dentro de la parte de una comida de sus límites de ${p}.`, fitOver: x => `Incluso media porción supera la parte de una comida en: ${x}. Combínela con platos más ligeros hoy.`, fitScale: sv => `Cocinar solo mi porción (${sv})`, fitScaled: sv => `ajustado a ${sv} porción`, perServing: "por porción", myPortionW: "mi porción", recTitle: "Comidas recomendadas para usted", recAddAll: "Agregar todo a Mi día", recNote: (k, p) => `Un día de comidas ajustado a su meta de ${k.toLocaleString()} kcal, dentro de los límites de ${p}. Las porciones se ajustan en cada comida.`, servX: x => `${x} porción${x === "1" ? "" : "es"}`, fitOnly: "Dentro de mis metas diarias", settings: "Ajustes", setLang: "Idioma", setTheme: "Tema", setAddr: "Háblame como", addrM: "Hombre", addrF: "Mujer", setAddrNote: "Cambia cómo se dirigen a usted las instrucciones en árabe.", setData: "Mis datos", clearSaved: "Borrar recetas guardadas", kidneySub: { hd: "Diálisis", ckd: "ERC sin diálisis", dm: "ERC + diabetes" }, aboutLatest: "Últimas novedades", updates: [["2026-10-02", ["Nuevo panel con selector de condición, metas diarias, consejos y calculadoras", "Registro de peso, modo cocina con temporizadores y unidades métricas", "Recetas de AAKP, Kidney Care UK, My Renal Nutrition y DaVita Arabia Saudita", "Planes de comidas de 7 días a un año", "Temas claro y oscuro, compartir y exportar a PDF"]], ["2026-10-01", ["Recetas en inglés, español y árabe", "Planes de salud para riñón, diabetes, presión arterial y corazón"]]], conds: { kidney: "Riñón", t2: "Diabetes", bp: "Presión arterial", heart: "Corazón", gen: "General" },
+    navAbout: "Acerca de", accTitle: "Mi cuenta", accOpen: "Abrir mi cuenta", signIn: "Iniciar sesión", signUp: "Crear cuenta", signOut: "Cerrar sesión", signedOut: "Sesión cerrada", email: "Correo", password: "Contraseña", authIntro: "Inicie sesión para guardar su información, planes, peso y recetas en su cuenta.", noAccount: "¿Es nuevo?", haveAccount: "¿Ya tiene cuenta?", guest: "Continuar sin cuenta", pwShort: "Use al menos 8 caracteres en la contraseña.", welcome: n => `Bienvenido, ${n}`, synced: "Guardado en su cuenta", syncing: "Guardando…", syncErr: "No se guardó, revise la conexión", adminTitle: "Administración", adUsers: "Usuarios", adAdmins: "Administradores", adActive: "Activos esta semana", adWeighIns: "Pesajes", adPlans: "Usuarios por plan", adSaved: "Guardadas", adLast: "Último acceso", netErr: "No se puede conectar con el servidor de cuentas. Inténtalo de nuevo en un momento.", localOnly: "Tu información se guarda solo en este dispositivo. Para guardarla en una cuenta, abre la app desde el servidor de Health Kitchen (ver README).", fitOf: (sv, total, amt) => `Comes ${sv} de las ${total} porciones de la receta${amt ? ` (${sv} × ${amt} cada una)` : ""}. Los nutrientes de tu porción están en la columna «mi porción».`, signInNeeded: "Inicia sesión para ver tu cuenta: tu información, estadísticas, plan y ajustes.", stTitle: "Mis estadísticas", stToday: "Hoy", stAvg7: "Promedio (últimos 7 días)", stDays: "Días registrados", stStreak: "Racha de días", stSaved: "Recetas guardadas", stWeighIns: "Pesajes", stChange: "Cambio de peso", stBmi: "IMC", badLogin: "El correo o la contraseña no son correctos.", accDisabled: "Esta cuenta está desactivada. Contacta con el administrador.", emailTaken: "Ya existe una cuenta con este correo.", badEmail: "Escribe un correo válido.", adOnly: "Solo los administradores pueden abrir esta página. Inicia sesión con una cuenta de administrador.", adActiveDay: "Activos hoy", adDisabled: "Cuentas desactivadas", adDisabledOne: "Desactivada", adSignups: "Usuarios nuevos (últimos 30 días)", adNoPlan: "Sin plan", adRecipesLang: "Recetas por idioma", adRecipesSrc: "Recetas por fuente", adSearch: "Buscar por correo o nombre", adExport: "Exportar CSV", adDetail: "Detalles", adJoined: "Alta", adPrivacy: "Las notas de salud, indicaciones médicas y medicamentos son privados del usuario y no se muestran aquí.", adNewPw: "Nueva contraseña (8+ caracteres)", adResetPw: "Cambiar contraseña", adEnable: "Activar cuenta", adDisable: "Desactivar cuenta", adPwDone: "Contraseña cambiada. Se cerró la sesión del usuario en todos sus dispositivos.", roleUser: "Usuario", roleAdmin: "Administrador", adRole: "Rol", confirmDel: "Toque otra vez para borrar", loading: "Cargando…", pfTitle: "Mis datos", pfName: "Nombre", pfGoal: "Meta de peso", goalLose: "Bajar de peso", goalKeep: "Mantener mi peso", goalGain: "Subir de peso", pfTarget: "Peso meta", pfGoalNote: k => `Su meta de calorías ahora es de unas ${k} kcal al día.`, pfPrefs: "Preferencias y alimentos que evito", pfDislikes: "Alimentos que no como", pfAllergies: "Alergias", pfLikes: "Alimentos que me gustan", pfHide: "Ocultar recetas con alimentos que evito", pfDoctor: "Indicaciones médicas y medicamentos", pfDoctorNote: "Indicaciones de mi médico o dietista", pfMeds: "Mis medicamentos (p. ej. quelante de fósforo con las comidas)", pfDoctorShort: "Mis notas de salud", pfProgress: (w, t) => `Ahora ${w} kg · meta ${t} kg (faltan ${Math.abs(w - t).toFixed(1)} kg)`, footNote: "Información general; siga las indicaciones de su equipo de salud.", srcFacet: "Fuente", fitTitle: "Ajustada a mis metas", fitLine: (sv, kcal, p) => `Su porción: ${sv} porción(es), unas ${kcal} kcal, dentro de la parte de una comida de sus límites de ${p}.`, fitOver: x => `Incluso media porción supera la parte de una comida en: ${x}. Combínela con platos más ligeros hoy.`, fitScale: sv => `Cocinar solo mi porción (${sv})`, fitScaled: sv => `ajustado a ${sv} porción`, perServing: "por porción", myPortionW: "mi porción", recTitle: "Comidas recomendadas para usted", recAddAll: "Agregar todo a Mi día", recNote: (k, p) => `Un día de comidas ajustado a su meta de ${k.toLocaleString()} kcal, dentro de los límites de ${p}. Las porciones se ajustan en cada comida.`, servX: x => `${x} porción${x === "1" ? "" : "es"}`, fitOnly: "Dentro de mis metas diarias", settings: "Ajustes", setLang: "Idioma", setTheme: "Tema", setAddr: "Háblame como", addrM: "Hombre", addrF: "Mujer", setAddrNote: "Cambia cómo se dirigen a usted las instrucciones en árabe.", setData: "Mis datos", clearSaved: "Borrar recetas guardadas", kidneySub: { hd: "Diálisis", ckd: "ERC sin diálisis", dm: "ERC + diabetes" }, aboutLatest: "Últimas novedades", updates: [["2026-10-02", ["Nuevo panel con selector de condición, metas diarias, consejos y calculadoras", "Registro de peso, modo cocina con temporizadores y unidades métricas", "Recetas de AAKP, Kidney Care UK, My Renal Nutrition y DaVita Arabia Saudita", "Planes de comidas de 7 días a un año", "Temas claro y oscuro, compartir y exportar a PDF"]], ["2026-10-01", ["Recetas en inglés, español y árabe", "Planes de salud para riñón, diabetes, presión arterial y corazón"]]], conds: { none: "Todas las recetas", kidney: "Riñón", t2: "Diabetes", bp: "Presión arterial", heart: "Corazón", gen: "General" },
     aboutWhat: "¿Qué es Cocina Saludable?", aboutWhatP: "Cocina Saludable reúne en un solo lugar recetas de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Cada receta muestra su nutrición por porción y enlaza a su fuente original, para que cocine con confianza y comparta lo que encuentre.",
     aboutHow: "Cómo funciona", aboutSteps: [["🎯", "Elija su condición", "Riñón, diabetes, presión arterial, corazón o general. El panel se adapta."], ["🍽️", "Encuentre recetas adecuadas", "Filtre por dieta, nutrientes e ingredientes, y vea qué parte de sus cantidades diarias ocupa cada plato."], ["📅", "Planee y cocine", "Cree planes de comidas, registre su día y su peso, y cocine paso a paso con temporizadores."]],
     aboutSources: "Fuentes de las recetas", aboutSourcesP: "Cada receta menciona y enlaza a la organización que la publicó.", aboutShare: "Compartir Cocina Saludable", shareBtn: "Compartir", shareMsg: "Cocina Saludable: recetas para riñón, diabetes y corazón en inglés, español y árabe.",
@@ -1115,7 +1141,7 @@ const UI = {
     heroLede: n => `${n} recetas de organizaciones de salud reconocidas, con nutrición completa por porción. Elija un plan para enfermedad renal, diabetes, presión arterial o corazón y vea cómo encaja cada plato en su día.`,
     statRecipes: "recetas", statPhotos: "con foto", statVideos: "videos de cocina", statSources: "fuentes", featured: "Destacada",
     legendLo: "Bajo", legendMid: "Moderado", legendHi: "Alto", legendMeal: "parte de una comida", navHome: "Inicio", themeNames: { system: "Tema: sistema", dark: "Tema: oscuro", light: "Tema: claro" }, source: "Fuente", allDone: "¡Todos los pasos listos! Buen provecho.",
-    plan: "Mi plan de salud", planEdit: "Editar cantidades", profiles: { hd: "Riñón: diálisis", ckd: "Riñón: ERC sin diálisis", dm: "Riñón: ERC con diabetes", t2: "Diabetes", bp: "Presión arterial alta", heart: "Salud del corazón", gen: "Alimentación saludable general" },
+    plan: "Mi plan de salud", planEdit: "Editar cantidades", profiles: { none: "Sin plan (todas las recetas)", hd: "Riñón: diálisis", ckd: "Riñón: ERC sin diálisis", dm: "Riñón: ERC con diabetes", t2: "Diabetes", bp: "Presión arterial alta", heart: "Salud del corazón", gen: "Alimentación saludable general" },
     planIntro: "Elija su plan e ingrese las cantidades diarias que le dio su médico o dietista. Los medidores muestran qué parte de una comida ocupa cada porción, contando una comida como un tercio del día. Los límites se vuelven ámbar y rojo al acercarse; las metas se llenan en verde.",
     weight: "Peso corporal", perKg: "Proteína por kg de peso", daily: "Cantidades diarias", carbsOff: "deje vacío para no medir",
     planSource: "Valores iniciales: los planes renales siguen KDOQI 2020 (proteína, sodio) y la práctica de dietistas renales (potasio, fósforo); diabetes sigue la ADA, con unos 45–60 g de carbohidratos por comida; presión arterial sigue DASH y la AHA (1,500 mg de sodio, alimentos ricos en potasio); corazón y alimentación general siguen la AHA y las Guías Alimentarias (sodio menor de 2,300 mg, azúcar añadida menor de 25–50 g, fibra 25–30 g). Las cifras de su equipo de salud van primero.",
@@ -1151,7 +1177,7 @@ const UI = {
     occasions: "Ocasiones", without: "Sin", saveOnly: "Solo guardadas", servUnit: "porciones",
     footer: (n, x) => `${n} recetas de DaVita y de organizaciones reconocidas de salud renal, diabetes y corazón, en inglés, español y árabe. Niveles por porción: sodio bajo ≤140 mg, alto >400 mg; potasio bajo ≤200 mg, alto >400 mg; fósforo bajo ≤100 mg, alto >250 mg. Solo sirven para ordenar. Siga las indicaciones de su médico o dietista.` },
   ar: {
-    navAbout: "عن التطبيق", accTitle: "حسابي", accOpen: "فتح حسابي", signIn: "تسجيل الدخول", signUp: "إنشاء حساب", signOut: "تسجيل الخروج", signedOut: "تم تسجيل الخروج", email: "البريد الإلكتروني", password: "كلمة المرور", authIntro: "سجّل دخولك لحفظ معلوماتك وخططك ووزنك ووصفاتك المحفوظة في حسابك.", noAccount: "مستخدم جديد؟", haveAccount: "لديك حساب؟", guest: "المتابعة دون حساب", pwShort: "استخدم 8 أحرف على الأقل لكلمة المرور.", welcome: n => `أهلًا ${n}`, synced: "تم الحفظ في حسابك", syncing: "جارٍ الحفظ…", syncErr: "لم يُحفظ، تحقق من الاتصال", adminTitle: "الإدارة", adUsers: "المستخدمون", adAdmins: "المشرفون", adActive: "نشطون هذا الأسبوع", adWeighIns: "مرات الوزن", adPlans: "المستخدمون حسب الخطة", adSaved: "المحفوظة", adLast: "آخر دخول", netErr: "تعذّر الاتصال بخادم الحسابات. حاول مرة أخرى بعد قليل.", localOnly: "معلوماتك محفوظة على هذا الجهاز فقط. لحفظها في حساب، افتح التطبيق من خادم مطبخ الصحة (راجع README).", roleUser: "مستخدم", roleAdmin: "مشرف", adRole: "الدور", confirmDel: "اضغط مرة أخرى للحذف", loading: "جارٍ التحميل…", pfTitle: "معلوماتي", pfName: "الاسم", pfGoal: "هدف الوزن", goalLose: "إنقاص الوزن", goalKeep: "المحافظة على وزني", goalGain: "زيادة الوزن", pfTarget: "الوزن المستهدف", pfGoalNote: k => `هدفك من السعرات الآن نحو ${k} سعرة يوميًا.`, pfPrefs: "تفضيلاتي والأطعمة التي أتجنبها", pfDislikes: "أطعمة لا آكلها", pfAllergies: "الحساسية", pfLikes: "أطعمة أحبها", pfHide: "إخفاء الوصفات التي تحتوي على أطعمة أتجنبها", pfDoctor: "تعليمات الطبيب والأدوية", pfDoctorNote: "تعليمات طبيبي أو أخصائي التغذية", pfMeds: "أدويتي (مثل رابط الفوسفات مع الوجبات)", pfDoctorShort: "ملاحظاتي الصحية", pfProgress: (w, t) => `الآن ${w} كغ · الهدف ${t} كغ (متبقٍ ${Math.abs(w - t).toFixed(1)} كغ)`, footNote: "للمعلومات العامة؛ اتبع إرشادات فريقك الطبي.", srcFacet: "المصدر", fitTitle: "مناسبة لأهدافي", fitLine: (sv, kcal, p) => `حصتك: ${sv} حصة، نحو ${kcal} سعرة، ضمن نصيب الوجبة من حدود خطة ${p}.`, fitOver: x => `حتى نصف حصة يتجاوز نصيب الوجبة في: ${x}. اجمعها مع أطباق أخف اليوم.`, fitScale: sv => `اطبخ حصتي فقط (${sv} حصة)`, fitScaled: sv => `معدّلة إلى ${sv} حصة`, perServing: "لكل حصة", myPortionW: "حصتي", recTitle: "وجبات موصى بها لك", recAddAll: "أضف الكل إلى يومي", recNote: (k, p) => `يوم من الوجبات مصمم لهدفك البالغ ${k.toLocaleString()} سعرة، ضمن حدود خطة ${p}. تُعدَّل الحصص في كل وجبة.`, servX: x => `${x} حصة`, fitOnly: "ضمن أهدافي اليومية", settings: "الإعدادات", setLang: "اللغة", setTheme: "المظهر", setAddr: "خاطبني بصيغة", addrM: "رجل", addrF: "امرأة", setAddrNote: "يغيّر صيغة مخاطبتك في التعليمات العربية.", setData: "بياناتي", clearSaved: "مسح الوصفات المحفوظة", kidneySub: { hd: "غسيل الكلى", ckd: "مزمن دون غسيل", dm: "مع السكري" }, aboutLatest: "آخر التحديثات", updates: [["2026-10-02", ["لوحة تحكم جديدة مع اختيار الحالة والأهداف اليومية والنصائح والحاسبات", "متابعة الوزن ووضع الطهي مع المؤقتات والوحدات المترية", "وصفات من AAKP وKidney Care UK وMy Renal Nutrition وDaVita السعودية", "خطط وجبات من 7 أيام حتى سنة كاملة", "المظهر الفاتح والداكن والمشاركة والتصدير إلى PDF"]], ["2026-10-01", ["الوصفات بالعربية والإنجليزية والإسبانية", "خطط صحية لأمراض الكلى والسكري وضغط الدم والقلب"]]], conds: { kidney: "الكلى", t2: "السكري", bp: "ضغط الدم", heart: "القلب", gen: "عام" },
+    navAbout: "عن التطبيق", accTitle: "حسابي", accOpen: "فتح حسابي", signIn: "تسجيل الدخول", signUp: "إنشاء حساب", signOut: "تسجيل الخروج", signedOut: "تم تسجيل الخروج", email: "البريد الإلكتروني", password: "كلمة المرور", authIntro: "سجّل دخولك لحفظ معلوماتك وخططك ووزنك ووصفاتك المحفوظة في حسابك.", noAccount: "مستخدم جديد؟", haveAccount: "لديك حساب؟", guest: "المتابعة دون حساب", pwShort: "استخدم 8 أحرف على الأقل لكلمة المرور.", welcome: n => `أهلًا ${n}`, synced: "تم الحفظ في حسابك", syncing: "جارٍ الحفظ…", syncErr: "لم يُحفظ، تحقق من الاتصال", adminTitle: "الإدارة", adUsers: "المستخدمون", adAdmins: "المشرفون", adActive: "نشطون هذا الأسبوع", adWeighIns: "مرات الوزن", adPlans: "المستخدمون حسب الخطة", adSaved: "المحفوظة", adLast: "آخر دخول", netErr: "تعذّر الاتصال بخادم الحسابات. حاول مرة أخرى بعد قليل.", localOnly: "معلوماتك محفوظة على هذا الجهاز فقط. لحفظها في حساب، افتح التطبيق من خادم مطبخ الصحة (راجع README).", fitOf: (sv, total, amt) => `تأكل ${sv} من ${total} حصص تُعدّها هذه الوصفة${amt ? ` (${sv} × ${amt} للحصة الواحدة)` : ""}. العناصر الغذائية لحصتك في عمود «حصتي».`, signInNeeded: "سجّل الدخول لعرض حسابك: معلوماتك وإحصاءاتك وخطتك وإعداداتك.", stTitle: "إحصاءاتي", stToday: "اليوم", stAvg7: "المتوسط (آخر 7 أيام)", stDays: "أيام مسجّلة", stStreak: "أيام متتالية", stSaved: "وصفات محفوظة", stWeighIns: "مرات الوزن", stChange: "تغيّر الوزن", stBmi: "مؤشر كتلة الجسم", badLogin: "البريد أو كلمة المرور غير صحيحة.", accDisabled: "هذا الحساب معطّل. تواصل مع المشرف.", emailTaken: "يوجد حساب بهذا البريد بالفعل.", badEmail: "أدخل بريدًا إلكترونيًا صحيحًا.", adOnly: "هذه الصفحة للمشرفين فقط. سجّل الدخول بحساب مشرف.", adActiveDay: "نشطون اليوم", adDisabled: "حسابات معطّلة", adDisabledOne: "معطّل", adSignups: "مستخدمون جدد (آخر 30 يومًا)", adNoPlan: "بدون خطة", adRecipesLang: "الوصفات حسب اللغة", adRecipesSrc: "الوصفات حسب المصدر", adSearch: "ابحث بالبريد أو الاسم", adExport: "تصدير CSV", adDetail: "التفاصيل", adJoined: "تاريخ الانضمام", adPrivacy: "الملاحظات الصحية وتعليمات الطبيب والأدوية خاصة بالمستخدم ولا تظهر هنا.", adNewPw: "كلمة مرور جديدة (8 أحرف على الأقل)", adResetPw: "تعيين كلمة المرور", adEnable: "تفعيل الحساب", adDisable: "تعطيل الحساب", adPwDone: "تم تغيير كلمة المرور وتسجيل خروج المستخدم من جميع أجهزته.", roleUser: "مستخدم", roleAdmin: "مشرف", adRole: "الدور", confirmDel: "اضغط مرة أخرى للحذف", loading: "جارٍ التحميل…", pfTitle: "معلوماتي", pfName: "الاسم", pfGoal: "هدف الوزن", goalLose: "إنقاص الوزن", goalKeep: "المحافظة على وزني", goalGain: "زيادة الوزن", pfTarget: "الوزن المستهدف", pfGoalNote: k => `هدفك من السعرات الآن نحو ${k} سعرة يوميًا.`, pfPrefs: "تفضيلاتي والأطعمة التي أتجنبها", pfDislikes: "أطعمة لا آكلها", pfAllergies: "الحساسية", pfLikes: "أطعمة أحبها", pfHide: "إخفاء الوصفات التي تحتوي على أطعمة أتجنبها", pfDoctor: "تعليمات الطبيب والأدوية", pfDoctorNote: "تعليمات طبيبي أو أخصائي التغذية", pfMeds: "أدويتي (مثل رابط الفوسفات مع الوجبات)", pfDoctorShort: "ملاحظاتي الصحية", pfProgress: (w, t) => `الآن ${w} كغ · الهدف ${t} كغ (متبقٍ ${Math.abs(w - t).toFixed(1)} كغ)`, footNote: "للمعلومات العامة؛ اتبع إرشادات فريقك الطبي.", srcFacet: "المصدر", fitTitle: "مناسبة لأهدافي", fitLine: (sv, kcal, p) => `حصتك: ${sv} حصة، نحو ${kcal} سعرة، ضمن نصيب الوجبة من حدود خطة ${p}.`, fitOver: x => `حتى نصف حصة يتجاوز نصيب الوجبة في: ${x}. اجمعها مع أطباق أخف اليوم.`, fitScale: sv => `اطبخ حصتي فقط (${sv} حصة)`, fitScaled: sv => `معدّلة إلى ${sv} حصة`, perServing: "لكل حصة", myPortionW: "حصتي", recTitle: "وجبات موصى بها لك", recAddAll: "أضف الكل إلى يومي", recNote: (k, p) => `يوم من الوجبات مصمم لهدفك البالغ ${k.toLocaleString()} سعرة، ضمن حدود خطة ${p}. تُعدَّل الحصص في كل وجبة.`, servX: x => `${x} حصة`, fitOnly: "ضمن أهدافي اليومية", settings: "الإعدادات", setLang: "اللغة", setTheme: "المظهر", setAddr: "خاطبني بصيغة", addrM: "رجل", addrF: "امرأة", setAddrNote: "يغيّر صيغة مخاطبتك في التعليمات العربية.", setData: "بياناتي", clearSaved: "مسح الوصفات المحفوظة", kidneySub: { hd: "غسيل الكلى", ckd: "مزمن دون غسيل", dm: "مع السكري" }, aboutLatest: "آخر التحديثات", updates: [["2026-10-02", ["لوحة تحكم جديدة مع اختيار الحالة والأهداف اليومية والنصائح والحاسبات", "متابعة الوزن ووضع الطهي مع المؤقتات والوحدات المترية", "وصفات من AAKP وKidney Care UK وMy Renal Nutrition وDaVita السعودية", "خطط وجبات من 7 أيام حتى سنة كاملة", "المظهر الفاتح والداكن والمشاركة والتصدير إلى PDF"]], ["2026-10-01", ["الوصفات بالعربية والإنجليزية والإسبانية", "خطط صحية لأمراض الكلى والسكري وضغط الدم والقلب"]]], conds: { none: "كل الوصفات", kidney: "الكلى", t2: "السكري", bp: "ضغط الدم", heart: "القلب", gen: "عام" },
     aboutWhat: "ما هو مطبخ الصحة؟", aboutWhatP: "يجمع مطبخ الصحة في مكان واحد وصفات من مؤسسات موثوقة في صحة الكلى والسكري والقلب، بالعربية والإنجليزية والإسبانية. تعرض كل وصفة قيمها الغذائية لكل حصة وترتبط بمصدرها الأصلي، لتطبخ بثقة وتشارك ما تجده.",
     aboutHow: "كيف يعمل", aboutSteps: [["🎯", "اختر حالتك", "الكلى أو السكري أو ضغط الدم أو القلب أو عام، وتتكيف لوحة التحكم معها."], ["🍽️", "اعثر على الوصفات المناسبة", "صفِّ حسب النظام الغذائي والعناصر الغذائية والمكونات، وشاهد حصة كل طبق من كمياتك اليومية."], ["📅", "خطّط واطبخ", "أنشئ خطط وجبات، وتابع يومك ووزنك، واطبخ خطوة بخطوة مع المؤقتات."]],
     aboutSources: "مصادر الوصفات", aboutSourcesP: "تشير كل وصفة إلى الجهة التي نشرتها مع رابط لها.", aboutShare: "شارك مطبخ الصحة", shareBtn: "مشاركة", shareMsg: "مطبخ الصحة: وصفات لصحة الكلى والسكري والقلب بالعربية والإنجليزية والإسبانية.",
@@ -1178,7 +1204,7 @@ const UI = {
     heroLede: n => `${n} وصفة من جهات صحية موثوقة، مع القيم الغذائية الكاملة لكل حصة. اختر خطة لأمراض الكلى أو السكري أو ضغط الدم أو صحة القلب وشاهد كيف يناسب كل طبق يومك.`,
     statRecipes: "وصفة", statPhotos: "بالصور", statVideos: "فيديو طهي", statSources: "مصادر", featured: "مختارة",
     legendLo: "منخفض", legendMid: "متوسط", legendHi: "مرتفع", legendMeal: "حصة الوجبة الواحدة", navHome: "الرئيسية", themeNames: { system: "المظهر: حسب النظام", dark: "المظهر: داكن", light: "المظهر: فاتح" }, source: "المصدر", allDone: "أنهيت كل الخطوات. بالهناء والشفاء!",
-    plan: "خطتي الصحية", planEdit: "تعديل الكميات", profiles: { hd: "الكلى: غسيل الكلى", ckd: "الكلى: مرض مزمن دون غسيل", dm: "الكلى: مع السكري", t2: "السكري", bp: "ارتفاع ضغط الدم", heart: "صحة القلب", gen: "أكل صحي عام" },
+    plan: "خطتي الصحية", planEdit: "تعديل الكميات", profiles: { none: "بدون خطة (كل الوصفات)", hd: "الكلى: غسيل الكلى", ckd: "الكلى: مرض مزمن دون غسيل", dm: "الكلى: مع السكري", t2: "السكري", bp: "ارتفاع ضغط الدم", heart: "صحة القلب", gen: "أكل صحي عام" },
     planIntro: "اختر خطتك وأدخل الكميات اليومية التي حددها لك طبيبك أو أخصائي التغذية. تُظهر المؤشرات حصة كل وجبة، على اعتبار أن الوجبة ثلث يومك. تتحول الحدود إلى الكهرماني ثم الأحمر عند الاقتراب منها، وتمتلئ الأهداف باللون الأخضر.",
     weight: "وزن الجسم", perKg: "البروتين لكل كغ من الوزن", daily: "الكميات اليومية", carbsOff: "اتركه فارغًا لعدم المتابعة",
     planSource: "القيم المبدئية: خطط الكلى وفق KDOQI 2020 (البروتين والصوديوم) وممارسة أخصائيي تغذية الكلى (البوتاسيوم والفوسفور)؛ السكري وفق جمعية السكري الأمريكية بنحو 45–60 غ كربوهيدرات لكل وجبة؛ ضغط الدم وفق نظام DASH وجمعية القلب الأمريكية (1500 ملغ صوديوم وأطعمة غنية بالبوتاسيوم)؛ صحة القلب والأكل العام وفق جمعية القلب الأمريكية والإرشادات الغذائية الأمريكية (صوديوم أقل من 2300 ملغ، سكر مضاف أقل من 25–50 غ، ألياف 25–30 غ). أرقام فريقك الطبي هي المرجع الأول.",
@@ -1391,7 +1417,7 @@ function card(r) {
     const cls = v == null ? "na" : goal ? (pc >= 33 ? "lo" : "na") : pctLevel(pc);
     return `<div class="mineral lv-${cls}"><span>${u().nutr[li]}</span><b>${fmt(v)}<small> ${unitL(unit)}</small></b><div class="gauge"><i style="inline-size:${Math.min(100, pc)}%"></i></div></div>`; }).join("");
   el.innerHTML = `<div class="thumb">${placeholder(r)}${r.img != null ? `<img alt="" decoding="async">` : ""}
-      <div class="badges">${r.video ? `<span class="badge">▶ ${u().video}</span>` : ""}${r.sourceName && r.sourceName !== "DaVita" ? `<span class="badge src-badge">${esc(r.sourceName)}</span>` : ""}</div>
+      <div class="badges">${r.video ? `<span class="badge">▶ ${u().video}</span>` : ""}</div>
       <button class="fav" aria-label="${u().save}" aria-pressed="${favs.has(r.id)}">${heart}</button></div>
     <div class="card-body">
       <div class="meta-line"><span>${esc(term(r.cat))}</span></div>
@@ -1458,6 +1484,8 @@ function applyLang() {
   if (typeof renderDash === "function" && view === "dash") renderDash();
   if (typeof renderAbout === "function" && view === "about") renderAbout();
   if (typeof renderAccountBtn === "function" && $("#accountAv")) renderAccountBtn();
+  if (typeof renderAccount === "function" && view === "account") renderAccount();
+  if (typeof renderAdmin === "function" && view === "admin") renderAdmin();
 }
 
 function render(resetScroll) {
@@ -1588,10 +1616,11 @@ function openRecipe(id, push = true) {
   const done = store.get("done:" + r.id, { i: [], s: [] });
   const fit = myPortion(r), pc = portionsCount(r), scaleF = scaleOn && pc ? fit.sv / pc : 1;
   const keyRows = new Set(["sodium_mg","potassium_mg","phosphorus_mg"]);
+  const nv = (x, unit) => `<span class="nv"><b>${x == null ? "–" : fmt(x)}</b><i>${x != null && unit ? unit : ""}</i></span>`;
   const nrows = NKEYS.map((k, i) => {
     const v = r.n[i]; if (v == null && !keyRows.has(k)) return "";
     const lv = keyRows.has(k) ? level(k, v) : null;
-    return `<tr class="${lv ? "key" : ""}"><td>${L[i]}${lv && lv !== "na" ? `<span class="lvl lv-${lv}">${s.lvl[lv]}</span>` : ""}</td><td>${fmt(v)}${v != null && U[i] ? " " + U[i] : ""}</td>${scaleOn ? `<td>${v == null ? "–" : fmt(v * fit.sv) + (U[i] ? " " + U[i] : "")}</td>` : ""}</tr>`; }).join("");
+    return `<tr class="${lv ? "key" : ""}"><td>${L[i]}${lv && lv !== "na" ? `<span class="lvl lv-${lv}">${s.lvl[lv]}</span>` : ""}</td><td>${nv(v == null ? null : v, U[i])}</td>${scaleOn ? `<td>${nv(v == null ? null : v * fit.sv, U[i])}</td>` : ""}</tr>`; }).join("");
   const srcUrl = lang === "es" && r.urlEs ? r.urlEs : r.url;
   const note = t.tr ? `<div class="tr-note">🌐 ${s.translated(r.sourceName || "DaVita")}</div>` : (lang === "es" && r.src === "en" && s.officialEs ? `<div class="tr-note">✓ ${s.officialEs}</div>` : "");
   const videoHtml = r.video ? `<section class="panel"><h3>${s.video}</h3>
@@ -1627,7 +1656,7 @@ function openRecipe(id, push = true) {
       </dl>
       <div class="cols">
         <div style="display:grid;gap:26px">
-          <section class="fitbox"><div><b>🎯 ${s.fitTitle}</b><span>${s.fitLine(fmtSrv(fit.sv), Math.round(r.n[0] * fit.sv), s.profiles[plan.type])}</span>
+          <section class="fitbox"><div><b>🎯 ${s.fitTitle}</b><span>${s.fitLine(fmtSrv(fit.sv), Math.round(r.n[0] * fit.sv), s.profiles[plan.type])}</span>${pc ? `<small class="fit-of">${s.fitOf(fmtSrv(fit.sv), fmtSrv(pc), t.serving ? toMetric(t.serving, lang) : "")}</small>` : ""}
               ${fit.over.length ? `<small class="lv-hi" style="background:none">${s.fitOver(fit.over.map(i => s.nutr[i]).join(", "))}</small>` : ""}</div>
             ${pc ? `<label class="check"><input type="checkbox" data-act="scale" ${scaleOn ? "checked" : ""}> ${s.fitScale(fmtSrv(fit.sv))}</label>` : ""}</section>
           <section class="panel"><h3>${s.ing} <span class="foot-note">${scaleF !== 1 ? s.fitScaled(fmtSrv(fit.sv)) : s.items(t.ing.length)}</span></h3>
@@ -1639,7 +1668,7 @@ function openRecipe(id, push = true) {
         </div>
         <div class="side">
           ${dietitianView(r)}
-          <section class="panel"><h3>${s.nut}</h3><div class="ntable"><table>${scaleOn ? `<tr><td></td><td class="foot-note">${s.perServing}</td><td class="foot-note">${s.myPortionW}</td></tr>` : ""}${nrows}</table></div>
+          <section class="panel"><h3>${s.nut}</h3><div class="ntable"><table>${scaleOn ? `<tr><td></td><td class="foot-note">${s.perServing}</td><td class="foot-note">${s.myPortionW} (×${fmtSrv(fit.sv)})</td></tr>` : ""}${nrows}</table></div>
             ${r.footnote && lang === "en" ? `<p class="foot-note">${esc(r.footnote)}</p>` : ""}</section>
           ${t.choices.length ? `<div class="box"><h3>${s.choices}</h3><ul>${t.choices.map(c => `<li>${esc(c)}</li>`).join("")}</ul></div>` : ""}
           ${r.carb && /^[\d\s.,/½⅓¼¾–-]+$/.test(r.carb) ? `<div class="box"><h3>${s.carb}</h3><div class="carb-big">${esc(r.carb)}</div></div>` : ""}
@@ -1725,6 +1754,7 @@ const PLAN_DEFAULTS = {
   bp:    { na: 1500, k: 4700, kGoal: true, p: null, perKg: null, carbs: null, sugar: 25, fiber: 30, chol: null },
   heart: { na: 2300, k: null, p: null, perKg: null, carbs: null, sugar: 25, fiber: 28, chol: 300 },
   gen:   { na: 2300, k: null, p: null, perKg: null, carbs: null, sugar: 50, fiber: 28, chol: null },
+  none:  { na: null, k: null, p: null, perKg: null, carbs: null, sugar: null, fiber: null, chol: null },   // no plan: calories only, nothing limited
 };
 const blankPlan = t => ({ kGoal: false, protGoal: false, ...PLAN_DEFAULTS[t] });
 let plan = store.get("plan", null) || { type: "hd", weight: 70, unit: "kg", ...blankPlan("hd") };
@@ -1746,7 +1776,7 @@ function fitScore(r) {   // largest share of a meal's budget among the limits (g
 }
 const SORT_OK = v => (v in SORTS ? v : "az");
 // the three nutrients shown on cards: the plan's limits first, then its goals
-function cardMetrics() { const t = planTargets().filter(x => x[0] !== "protein_g"); return [...t.filter(x => !x[2]), ...t.filter(x => x[2])].slice(0, 3); }
+function cardMetrics() { const t = (plan.type === "none" ? [["sodium_mg", 2300, false, "mg", 0], ["carbohydrates_g", 275, false, "g", 4], ["fiber_g", 28, true, "g", 6]] : planTargets()).filter(x => x[0] !== "protein_g"); return [...t.filter(x => !x[2]), ...t.filter(x => x[2])].slice(0, 3); }
 function savePlan() { store.set("plan", plan); if (view === "dash" && typeof renderDash === "function") { mpCache = null; setTimeout(renderDash); } if (typeof renderToday === "function") renderToday(); mpCache = null; if ($("#mpDlg").open) renderMealPlan(); renderPlanCard(); render(); renderHero(); if (current) openRecipe(current.id, false); if ($("#dayDlg").open) renderDay(); }
 function renderPlanCard() {
   $("#planType").innerHTML = Object.entries(u().profiles).map(([k, l]) => `<option value="${k}" ${k === plan.type ? "selected" : ""}>${l}</option>`).join("");
@@ -1782,7 +1812,7 @@ function dietitianView(r) {
     <div class="meters">${meters}</div>
     ${ratio != null ? `<div class="ratio"><span class="big lv-${ratio < 12 ? "lo" : ratio <= 16 ? "mid" : "hi"}" style="padding:2px 8px;border-radius:8px">${ratio} mg/g</span><span class="foot-note"><b>${s.ratio}.</b> ${s.ratioNote}</span></div>` : ""}
     ${notes.length ? `<ul class="dv-notes">${notes.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
-    <div class="add-day"><span class="stepper"><button data-act="srvMinus" aria-label="−">−</button><output id="srv">${fmtSrv(myPortion(r).sv).replace("½", ".5").replace("1.5", "1.5")}</output><button data-act="srvPlus" aria-label="+">+</button></span>
+    <div class="add-day"><span class="stepper"><button data-act="srvMinus" aria-label="−">−</button><output id="srv">${String(myPortion(r).sv)}</output><button data-act="srvPlus" aria-label="+">+</button></span>
       <button class="btn-primary" data-act="addDay">${s.addDay}</button></div>
   </section>`;
 }
@@ -1839,7 +1869,7 @@ const todayKey = () => new Date().toISOString().slice(0, 10);
 let day = store.get("day", []);   // [{id, servings}] for today
 (function rollDay() {   // keep a short history so the home view can show a streak
   const d = store.get("dayDate", todayKey());
-  if (d !== todayKey()) { const h = store.get("history", {}); if (day.length) h[d] = day.length; store.set("history", h); day = []; store.set("day", day); }
+  if (d !== todayKey()) { const h = store.get("history", {}); if (day.length) { h[d] = day.length; h["kcal:" + d] = Math.round(day.reduce((a, x) => a + (byIdEarly.get(x.id)?.n[0] || 0) * (x.servings || 1), 0)); } store.set("history", h); day = []; store.set("day", day); }
   store.set("dayDate", todayKey());
 })();
 function streak() {
@@ -2226,7 +2256,7 @@ const TIPS = {
       ["🏷️", "اقرأ البطاقة الغذائية لكل حصة، وتحقق من عدد الحصص في العبوة."],
       ["🥕", "جهّز وجبات خفيفة سهلة: فاكهة أو أصابع خضار أو زبادي."] ] },
 };
-const tipGroup = () => ({ hd: "kidney", ckd: "kidney", dm: "kidney", t2: "diabetes", bp: "bp", heart: "heart", gen: "gen" })[plan.type];
+const tipGroup = () => ({ hd: "kidney", ckd: "kidney", dm: "kidney", t2: "diabetes", bp: "bp", heart: "heart", gen: "gen", none: "gen" })[plan.type] || "gen";
 const body = () => ({ height: plan.height || 165, age: plan.age || 50, sex: plan.sex || "f", activity: plan.activity || 1.375, urine: plan.urine ?? 500 });
 function needs() {
   const b = body(), kg = weightKg(), m = b.height / 100;
@@ -2243,7 +2273,7 @@ function renderTargets() {
     [s.tCalories, Math.round(n.tdee / 10) * 10, "kcal", s.tPerDay, true],
     [s.nutr[3], n.protein, "g", s.tPerMeal(Math.round(n.protein / 3) + " g")],
     plan.carbs ? [s.nutr[4], plan.carbs, "g", s.tChoices(Math.round(plan.carbs / 15 / 3))] : null,
-    [s.nutr[0], plan.na, "mg", s.tSalt((plan.na / 400).toFixed(1))],
+    plan.na ? [s.nutr[0], plan.na, "mg", s.tSalt((plan.na / 400).toFixed(1))] : null,
     plan.k ? [s.nutr[1], plan.k, "mg", plan.kGoal ? s.goalW : s.limitW] : null,
     plan.p ? [s.nutr[2], plan.p, "mg", s.limitW] : null,
     plan.fiber ? [s.nutr[6], plan.fiber, "g", s.goalW] : null,
@@ -2340,7 +2370,7 @@ $("#editPlan2").addEventListener("click", openPlan);
 
 
 // ---------- condition switch (dashboard) ----------
-const CONDS = [["kidney", "🫘", ["hd", "ckd", "dm"]], ["t2", "🩸", ["t2"]], ["bp", "❤️‍🩹", ["bp"]], ["heart", "❤️", ["heart"]], ["gen", "🥗", ["gen"]]];
+const CONDS = [["kidney", "🫘", ["hd", "ckd", "dm"]], ["t2", "🩸", ["t2"]], ["bp", "❤️‍🩹", ["bp"]], ["heart", "❤️", ["heart"]], ["gen", "🥗", ["gen"]], ["none", "📖", ["none"]]];
 function renderCond() {
   const s = u();
   $("#condSwitch").innerHTML = CONDS.map(([k, ic, types]) => `<button data-cond="${k}" aria-pressed="${types.includes(plan.type)}"><i>${ic}</i>${s.conds[k]}</button>`).join("")
@@ -2429,7 +2459,7 @@ function renderRecommend() {
   recCache ??= recommendDay();
   if (!recCache) { $("#recMeals").innerHTML = `<div class="empty">${s.mpNone}</div>`; $("#recRings").innerHTML = ""; return; }
   const { pick, totals, kcal } = recCache;
-  $("#recNote").textContent = s.recNote(Math.round(kcal / 10) * 10, s.profiles[plan.type]);
+  $("#recNote").textContent = s.recNote(Math.round(kcal / 10) * 10, plan.type === "none" ? s.profiles.gen : s.profiles[plan.type]);
   $("#recMeals").innerHTML = pick.map(({ r, sv }, i) => `<div class="mp-slot" data-ropen="${r.id}" style="--i:${i};position:relative"><span class="srv-badge">${s.servX(fmtSrv(sv))}</span>
     <div class="thumb">${placeholder(r)}${r.img != null ? `<img alt="" data-rimg="${r.id}">` : ""}</div>
     <div class="body"><div class="eyebrow">${s.mpSlots[i]}</div><h4>${esc(tx(r).title)}</h4><small>${Math.round(r.n[0] * sv)} ${unitL("kcal")}</small></div></div>`).join("");
@@ -2468,7 +2498,7 @@ async function pushState() {
 async function pullState() {
   const me = await api("/me"); pulling = true;
   try {
-    auth.email = me.user.email; auth.role = me.user.role; store.set("role", auth.role);
+    auth.email = me.user.email; auth.role = me.user.role; auth.uid = me.user.id; store.set("role", auth.role);
     const st = me.state || {};
     if (st.profile && Object.keys(st.profile).length) { profile = { ...profile, ...st.profile }; store.set("profile", profile); }
     if (st.plan && Object.keys(st.plan).length) { plan = { ...plan, ...st.plan }; store.set("plan", plan); }
@@ -2525,20 +2555,43 @@ $("#auth").addEventListener("submit", async e => {
     auth.token = r.token; auth.role = r.role; store.set("token", r.token); store.set("role", r.role); store.set("guest", false);
     $("#auth").hidden = true;
     if (mode === "signup") { if (body.name) profile.name = body.name; await pushState(); }
-    await pullState(); toast(s.welcome(profile.name || body.email)); setView("dash");
-  } catch (err) { $("#authErr").textContent = err.message; }
+    await pullState(); toast(s.welcome(profile.name || body.email)); setView(auth.role === "admin" ? "admin" : "account");
+  } catch (err) { $("#authErr").textContent = err.status === 401 ? s.badLogin : err.status === 403 ? s.accDisabled : err.status === 409 ? s.emailTaken : err.status === 400 || err.status === 422 ? s.badEmail : s.netErr; }
 });
 async function signOut(silent) {
   if (!silent) { try { await api("/logout", { method: "POST" }); } catch {} }
   auth.token = null; auth.role = null; auth.email = null; store.set("token", null); store.set("role", null);
   renderAccountBtn(); if (view === "account" || view === "admin") setView("dash"); if (!silent) toast(u().signedOut);
 }
+function accStats() {
+  const h = store.get("history", {}), dates = Object.keys(h).filter(k => /^\d{4}-\d{2}-\d{2}$/.test(k)).sort();
+  const kcalToday = Math.round(day.reduce((a, x) => a + (byId.get(x.id)?.n[0] || 0) * (x.servings || 1), 0));
+  const k7 = dates.slice(-7).map(d => h["kcal:" + d]).filter(x => x > 0);
+  const first = weights[0], last = weights[weights.length - 1], hm = (plan.height || 0) / 100;
+  return { days: dates.length + (day.length ? 1 : 0), streak: streak(), saved: favs.size, weighIns: weights.length, kcalToday,
+    avg7: k7.length ? Math.round(k7.reduce((a, b) => a + b, 0) / k7.length) : null,
+    change: first && last && weights.length > 1 ? +(last.kg - first.kg).toFixed(1) : null,
+    bmi: hm > 0 ? +(weightKg() / (hm * hm)).toFixed(1) : null };
+}
 function renderAccount() {
   if (view !== "account") return;
   const s = u(), seg = (name, cur, opts) => `<div class="seg2" role="group">${opts.map(([v, l]) => `<button data-acc="${name}" data-v="${v}" aria-pressed="${v === cur}">${l}</button>`).join("")}</div>`;
-  const last = weights[weights.length - 1];
-  $("#accIn").innerHTML = `<h2><span>${esc(profile.name || auth.email || s.accTitle)}</span><span class="sync-chip" id="syncChip"></span></h2>
-    <p class="foot-note" style="margin:-8px 0 0;direction:ltr;text-align:start">${esc(auth.email || "")}${auth.role === "admin" ? " · " + s.roleAdmin : ""}</p>
+  if (auth.api && !auth.token) {   // accounts are on: the page needs a sign-in
+    $("#accIn").innerHTML = `<div class="acc-card acc-gate"><div class="acc-av big"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg></div>
+      <h2>${s.accTitle}</h2><p class="foot-note" style="margin:0">${s.signInNeeded}</p>
+      <div class="mp-actions" style="justify-content:center"><button class="btn-primary" data-acc="signin">${s.signIn}</button><button class="icon-btn" data-acc="signup">${s.signUp}</button></div></div>`;
+    return;
+  }
+  const last = weights[weights.length - 1], st = accStats(), tg = needs().target || Math.round(needs().tdee);
+  const nm = profile.name || auth.email || s.accTitle;
+  const stats = [[s.stToday, `${st.kcalToday.toLocaleString()} / ${Math.round(tg).toLocaleString()}`, s.kcal || "kcal"], [s.stAvg7, st.avg7 != null ? st.avg7.toLocaleString() : "—", s.kcal || "kcal"],
+    [s.stDays, st.days], [s.stStreak, st.streak], [s.stSaved, st.saved], [s.stWeighIns, st.weighIns],
+    [s.stChange, st.change != null ? (st.change > 0 ? "+" : "") + st.change + " kg" : "—"], [s.stBmi, st.bmi ?? "—"]];
+  $("#accIn").innerHTML = `<div class="acc-head"><div class="acc-av big">${esc((nm.trim()[0] || "?").toUpperCase())}</div>
+      <div><h2>${esc(nm)} <span class="sync-chip" id="syncChip"></span></h2>
+      <p class="foot-note" style="margin:0;direction:ltr;text-align:start">${esc(auth.email || "")}${auth.role === "admin" ? " · " + s.roleAdmin : ""}</p></div>
+      <div class="mp-actions acc-head-act">${auth.role === "admin" ? `<button class="icon-btn" data-acc="admin">🛡 ${s.adminTitle}</button>` : ""}${auth.token ? `<button class="icon-btn" data-acc="signout">${s.signOut}</button>` : ""}</div></div>
+    <div class="acc-card"><h3>📊 ${s.stTitle}</h3><div class="targets">${stats.map(([l, v, un], i) => `<div class="target ${i ? "" : "accent"}"><span>${l}</span><b>${v}${un ? ` <small>${un}</small>` : ""}</b></div>`).join("")}</div></div>
     <div class="acc-card">${`    <div class="plan-group"><h3>${s.pfTitle}</h3>
       <div class="form-grid">
         <label class="field">${s.pfName}<input id="pfName" value="${esc(profile.name)}" autocomplete="name"></label>
@@ -2552,17 +2605,18 @@ function renderAccount() {
       <div class="form-grid"><label class="field">${s.pfTarget}<div class="unit-input"><input type="number" id="pfTarget" step="0.5" value="${profile.target ?? ""}"><span>kg</span></div></label></div>
       <p class="foot-note" style="margin:0">${s.pfGoalNote(Math.round(needs().tdee / 10) * 10)}</p></div>
     <div class="plan-group"><h3>${s.pfPrefs}</h3>
-      <label class="field">${s.pfDislikes}<input id="pfDislikes" value="${esc(profile.dislikes)}" placeholder="${s.leavePh}"></label>
-      <label class="field">${s.pfAllergies}<input id="pfAllergies" value="${esc(profile.allergies)}"></label>
-      <label class="field">${s.pfLikes}<input id="pfLikes" value="${esc(profile.likes)}"></label>
+      <label class="field">${s.pfDislikes}<input autocomplete="off" id="pfDislikes" value="${esc(profile.dislikes)}" placeholder="${s.leavePh}"><div class="sugg" data-for="pfDislikes"></div></label>
+      <label class="field">${s.pfAllergies}<input autocomplete="off" id="pfAllergies" value="${esc(profile.allergies)}"><div class="sugg" data-for="pfAllergies"></div></label>
+      <label class="field">${s.pfLikes}<input autocomplete="off" id="pfLikes" value="${esc(profile.likes)}"><div class="sugg" data-for="pfLikes"></div></label>
       <label class="check"><input type="checkbox" id="pfHide" ${profile.hideDislikes ? "checked" : ""}> ${s.pfHide}</label></div>
     <div class="plan-group"><h3>${s.pfDoctor}</h3>
       <label class="field">${s.pfDoctorNote}<textarea id="pfDoctor" rows="3" style="padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);font:inherit">${esc(profile.doctor)}</textarea></label>
       <label class="field">${s.pfMeds}<textarea id="pfMeds" rows="2" style="padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);font:inherit">${esc(profile.meds)}</textarea></label></div>
 `}</div>
     <div class="acc-card"><h3>📈 ${s.toolNames.weight}</h3><p class="foot-note" style="margin:0">${last ? `${last.kg} kg · ${last.d}` : s.weightSub}</p>${sparkline(600, 60)}
-      <div class="mp-actions"><button class="btn-primary" data-acc="weight">${s.addWeight}</button><button class="icon-btn" data-acc="plan">${s.plan}: ${s.profiles[plan.type]}</button><button class="icon-btn" data-acc="day">${s.myDay} (${day.length})</button></div></div>
-    <div class="mp-actions">${auth.role === "admin" ? `<button class="icon-btn" data-acc="admin">🛡 ${s.adminTitle}</button>` : ""}${auth.token ? `<button class="icon-btn" data-acc="signout">${s.signOut}</button>` : auth.api ? `<button class="icon-btn" data-acc="signin">${s.signIn}</button>` : ""}</div>${auth.api ? "" : `<p class="foot-note">${s.localOnly}</p>`}`;
+      <div class="mp-actions"><button class="btn-primary" data-acc="weight">${s.addWeight}</button><button class="icon-btn" data-acc="day">${s.myDay} (${day.length})</button></div></div>
+    <div class="acc-card acc-settings"><h3>⚙️ ${s.settings}</h3>${settingsGroups(s)}</div>
+    ${auth.api ? "" : `<p class="foot-note">${s.localOnly}</p>`}`;
   renderSyncChip();
 }
 $("#account").addEventListener("click", e => {
@@ -2574,32 +2628,87 @@ $("#account").addEventListener("click", e => {
   if (k === "admin") setView("admin");
   if (k === "signout") signOut();
   if (k === "signin") showAuth("login");
+  if (k === "signup") showAuth("signup");
 });
+$("#account").addEventListener("click", e => {
+  const b = e.target.closest("[data-set]"); if (!b) return; const k = b.dataset.set, v = b.dataset.v;
+  if (k === "plan") { openPlan(); return; }
+  Promise.resolve(settingsAction(k, v)).then(renderAccount);
+});
+let adminUsers = [], adminQ = "";
 async function renderAdmin() {
   if (view !== "admin") return;
   const s = u();
+  if (!auth.token || auth.role !== "admin") { $("#adminIn").innerHTML = `<h2>🛡 ${s.adminTitle}</h2><div class="acc-card acc-gate"><p class="foot-note" style="margin:0">${s.adOnly}</p><div class="mp-actions" style="justify-content:center"><button class="btn-primary" data-acc2="signin">${s.signIn}</button></div></div>`; return; }
   $("#adminIn").innerHTML = `<h2>🛡 ${s.adminTitle}</h2><div class="acc-card"><p class="foot-note">${s.loading}</p></div>`;
   try {
-    const { users } = await api("/admin/users");
+    const [{ users }, st] = await Promise.all([api("/admin/users"), api("/admin/stats")]);
+    adminUsers = users;
     const plans = {}; users.forEach(x => plans[x.plan_type || "—"] = (plans[x.plan_type || "—"] || 0) + 1);
-    $("#adminIn").innerHTML = `<h2>🛡 ${s.adminTitle}</h2>
-      <div class="targets">${[[s.adUsers, users.length], [s.adAdmins, users.filter(x => x.role === "admin").length], [s.adActive, users.filter(x => x.last_login && Date.now() - new Date(x.last_login) < 7 * 864e5).length], [s.adWeighIns, users.reduce((a, x) => a + (+x.weigh_ins || 0), 0)]]
+    const byLang = Object.keys(LANGS_META).map(k => [LANGS_META[k].n, R.filter(r => (r.L || []).includes(k)).length]);
+    const bySrc = {}; R.forEach(r => bySrc[r.sourceName || "DaVita"] = (bySrc[r.sourceName || "DaVita"] || 0) + 1);
+    const maxS = Math.max(1, ...st.signups.map(x => x.n));
+    $("#adminIn").innerHTML = `<div class="acc-head"><h2>🛡 ${s.adminTitle}</h2><div class="mp-actions acc-head-act"><button class="icon-btn" data-acc2="account">${s.accTitle}</button><button class="icon-btn" data-acc2="signout">${s.signOut}</button></div></div>
+      <div class="targets">${[[s.adUsers, st.users], [s.adActiveDay, st.active_day], [s.adActive, st.active_week], [s.adAdmins, st.admins], [s.adDisabled, st.disabled], [s.adWeighIns, st.weigh_ins]]
         .map(([l, v], i) => `<div class="target ${i ? "" : "accent"}"><span>${l}</span><b>${v}</b></div>`).join("")}</div>
-      <div class="acc-card"><h3>${s.adPlans}</h3><div class="chips">${Object.entries(plans).map(([k, n]) => `<span class="chip">${esc(s.profiles[k] || k)}: ${n}</span>`).join("")}</div></div>
-      <div class="acc-card table-wrap"><table class="admin-table"><tr><th>${s.email}</th><th>${s.pfName}</th><th>${s.plan}</th><th>${s.adSaved}</th><th>${s.adWeighIns}</th><th>${s.weight}</th><th>${s.adLast}</th><th>${s.adRole}</th><th></th></tr>
-        ${users.map(x => `<tr><td dir="ltr">${esc(x.email)}</td><td>${esc(x.name || "")}</td><td>${esc(s.profiles[x.plan_type] || "—")}</td><td>${x.saved ?? 0}</td><td>${x.weigh_ins}</td><td>${x.last_kg ?? "—"}</td>
-          <td dir="ltr">${x.last_login ? new Date(x.last_login).toLocaleDateString() : "—"}</td>
-          <td><select data-role="${x.id}"><option value="user" ${x.role === "user" ? "selected" : ""}>${s.roleUser}</option><option value="admin" ${x.role === "admin" ? "selected" : ""}>${s.roleAdmin}</option></select></td>
-          <td><button class="linkish" data-del="${x.id}" data-email="${esc(x.email)}">${s.remove}</button></td></tr>`).join("")}</table></div>`;
-  } catch (e) { $("#adminIn").innerHTML = `<h2>🛡 ${s.adminTitle}</h2><div class="acc-card">${esc(e.message)}</div>`; }
+      <div class="admin-grid">
+        <div class="acc-card"><h3>${s.adSignups}</h3><div class="bars">${st.signups.map(x => `<i style="height:${Math.max(3, x.n / maxS * 100)}%" title="${x.d}: ${x.n}"></i>`).join("")}</div></div>
+        <div class="acc-card"><h3>${s.adPlans}</h3><div class="chips">${Object.entries(plans).map(([k, n]) => `<span class="chip">${esc(s.profiles[k] || s.adNoPlan)}: ${n}</span>`).join("")}</div></div>
+        <div class="acc-card"><h3>${s.adRecipesLang}</h3><div class="chips">${byLang.map(([l, n]) => `<span class="chip">${esc(l)}: ${n.toLocaleString()}</span>`).join("")}</div></div>
+        <div class="acc-card"><h3>${s.adRecipesSrc}</h3><div class="chips">${Object.entries(bySrc).sort((a, b) => b[1] - a[1]).map(([l, n]) => `<span class="chip">${esc(l)}: ${n.toLocaleString()}</span>`).join("")}</div></div>
+      </div>
+      <div class="acc-card"><div class="acc-head" style="margin:0"><h3>${s.adUsers}</h3><div class="mp-actions acc-head-act"><input id="adQ" type="search" placeholder="${s.adSearch}" value="${esc(adminQ)}"><button class="icon-btn" data-acc2="csv">⬇ ${s.adExport}</button></div></div>
+        <div class="table-wrap" id="adTable"></div></div>
+      <div id="adDetail"></div>`;
+    renderAdminTable();
+  } catch (e) { $("#adminIn").innerHTML = `<h2>🛡 ${s.adminTitle}</h2><div class="acc-card">${esc(e.status === 403 ? s.adOnly : e.message)}</div>`; }
 }
+function renderAdminTable() {
+  const s = u(), q = fold(adminQ.trim());
+  const list = adminUsers.filter(x => !q || fold(`${x.email} ${x.name || ""}`).includes(q));
+  $("#adTable").innerHTML = `<table class="admin-table"><tr><th>${s.email}</th><th>${s.pfName}</th><th>${s.plan}</th><th>${s.adSaved}</th><th>${s.adWeighIns}</th><th>${s.weight}</th><th>${s.adLast}</th><th>${s.adRole}</th><th></th></tr>
+    ${list.map(x => `<tr class="${x.disabled ? "off" : ""}"><td dir="ltr"><button class="linkish" data-det="${x.id}">${esc(x.email)}</button></td><td>${esc(x.name || "")}${x.disabled ? ` <span class="chip">${s.adDisabledOne}</span>` : ""}</td><td>${esc(s.profiles[x.plan_type] || "—")}</td><td>${x.saved ?? 0}</td><td>${x.weigh_ins}</td><td>${x.last_kg ?? "—"}</td>
+      <td dir="ltr">${x.last_seen || x.last_login ? new Date(x.last_seen || x.last_login).toLocaleDateString() : "—"}</td>
+      <td><select data-role="${x.id}"><option value="user" ${x.role === "user" ? "selected" : ""}>${s.roleUser}</option><option value="admin" ${x.role === "admin" ? "selected" : ""}>${s.roleAdmin}</option></select></td>
+      <td><button class="linkish" data-det="${x.id}">${s.adDetail}</button></td></tr>`).join("")}</table>`;
+}
+async function openAdminUser(id) {
+  const s = u(); let d;
+  try { d = await api(`/admin/users/${id}`); } catch (e) { return toast(e.message); }
+  const x = d.user, w = d.weights, lastW = w[w.length - 1];
+  $("#adDetail").innerHTML = `<div class="acc-card ad-detail"><div class="acc-head" style="margin:0"><div class="acc-av big">${esc(((x.name || x.email).trim()[0] || "?").toUpperCase())}</div>
+      <div><h3>${esc(x.name || x.email)}</h3><p class="foot-note" style="margin:0" dir="ltr">${esc(x.email)}</p></div><button class="icon-btn acc-head-act" data-acc2="closeDet">✕</button></div>
+    <div class="targets">${[[s.plan, s.profiles[d.plan.type] || "—"], [s.pfGoal, { lose: s.goalLose, keep: s.goalKeep, gain: s.goalGain }[d.profile.goal] || "—"], [s.pfTarget, d.profile.target ? d.profile.target + " kg" : "—"],
+      [s.weight, lastW ? lastW.kg + " kg" : "—"], [s.adSaved, d.saved], [s.stDays, d.days_logged], [s.adJoined, new Date(x.created_at).toLocaleDateString()], [s.adLast, x.last_seen || x.last_login ? new Date(x.last_seen || x.last_login).toLocaleString() : "—"]]
+      .map(([l, v]) => `<div class="target"><span>${l}</span><b style="font-size:1rem">${esc(String(v))}</b></div>`).join("")}</div>
+    <p class="foot-note" style="margin:0">${s.adPrivacy}</p>
+    <form class="mp-actions" id="adPwForm" data-id="${x.id}"><input id="adPw" type="password" minlength="8" autocomplete="new-password" placeholder="${s.adNewPw}"><button class="icon-btn" type="submit">🔑 ${s.adResetPw}</button></form>
+    <div class="mp-actions">${x.id === auth.uid ? "" : `<button class="icon-btn" data-dis="${x.id}" data-v="${x.disabled ? 0 : 1}">${x.disabled ? s.adEnable : s.adDisable}</button><button class="icon-btn danger" data-del="${x.id}">${s.remove}</button>`}</div></div>`;
+  $("#adDetail").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+$("#admin").addEventListener("input", e => { if (e.target.id === "adQ") { adminQ = e.target.value; renderAdminTable(); } });
 $("#admin").addEventListener("change", async e => { const id = e.target.dataset.role; if (!id) return;
-  try { await api(`/admin/users/${id}/role`, { method: "PUT", body: JSON.stringify({ role: e.target.value }) }); toast(u().done); } catch (err) { toast(err.message); } });
+  try { await api(`/admin/users/${id}/role`, { method: "PUT", body: JSON.stringify({ role: e.target.value }) }); toast(u().done); } catch (err) { toast(err.message); renderAdmin(); } });
+$("#admin").addEventListener("submit", async e => { if (e.target.id !== "adPwForm") return; e.preventDefault();
+  const pw = $("#adPw").value; if (pw.length < 8) return toast(u().pwShort);
+  try { await api(`/admin/users/${e.target.dataset.id}/password`, { method: "PUT", body: JSON.stringify({ password: pw }) }); $("#adPw").value = ""; toast(u().adPwDone); } catch (err) { toast(err.message); } });
 let pendingDel = null;
-$("#admin").addEventListener("click", async e => { const b = e.target.closest("[data-del]"); if (!b) return;
+$("#admin").addEventListener("click", async e => {
+  const c = e.target.closest("[data-acc2]");
+  if (c) { const k = c.dataset.acc2;
+    if (k === "signin") showAuth("login"); if (k === "account") setView("account"); if (k === "signout") signOut();
+    if (k === "closeDet") $("#adDetail").innerHTML = "";
+    if (k === "csv") { const rows = [["email", "name", "role", "disabled", "plan", "saved", "weigh_ins", "last_kg", "created_at", "last_seen"], ...adminUsers.map(x => [x.email, x.name, x.role, x.disabled, x.plan_type, x.saved, x.weigh_ins, x.last_kg, x.created_at, x.last_seen || x.last_login])];
+      const csv = rows.map(r => r.map(v => `"${String(v ?? "").replace(/"/g, '""')}"`).join(",")).join("\n");
+      const a = document.createElement("a"); a.href = URL.createObjectURL(new Blob(["﻿" + csv], { type: "text/csv" })); a.download = "health-kitchen-users.csv"; a.click(); }
+    return; }
+  const det = e.target.closest("[data-det]"); if (det) return openAdminUser(det.dataset.det);
+  const dis = e.target.closest("[data-dis]");
+  if (dis) { try { await api(`/admin/users/${dis.dataset.dis}/disabled`, { method: "PUT", body: JSON.stringify({ disabled: dis.dataset.v === "1" }) }); toast(u().done); await renderAdmin(); openAdminUser(dis.dataset.dis); } catch (err) { toast(err.message); } return; }
+  const b = e.target.closest("[data-del]"); if (!b) return;
   if (pendingDel !== b.dataset.del) { pendingDel = b.dataset.del; b.textContent = u().confirmDel; return; }
   try { await api(`/admin/users/${b.dataset.del}`, { method: "DELETE" }); pendingDel = null; renderAdmin(); } catch (err) { toast(err.message); } });
-$("#accountBtn").addEventListener("click", () => auth.api && !auth.token ? showAuth("login") : setView("account"));
+$("#accountBtn").addEventListener("click", () => auth.api && !auth.token ? showAuth("login") : setView(auth.role === "admin" && view !== "admin" && view !== "account" ? "account" : "account"));
 // mirror local changes to the account
 const _set = store.set;
 store.set = (k, v) => { _set(k, v); if (SYNC_KEYS.includes(k)) schedulePush(); };
@@ -2735,23 +2844,47 @@ $("#home").addEventListener("click", e => { e.preventDefault(); if (isOpen()) hi
 let profile = store.get("profile", { name: "", goal: "keep", target: null, dislikes: "", likes: "", allergies: "", doctor: "", meds: "", hideDislikes: true });
 const saveProfile = () => store.set("profile", profile);
 const dislikeWords = () => (profile.dislikes + "," + profile.allergies).split(/[,،;\n]/).map(x => fold(x.trim())).filter(x => x.length > 1);
+function wordRoot(w) {
+  const st = stemW(w), m = vocabRoots[lang]; return (m && m.get(st)) || st;
+}
+const dislikeCache = new Map();
 function hasDislike(r) {
   const w = dislikeWords(); if (!w.length) return false;
-  const h = fold([tx(r).title, ...tx(r).ing.map(x => x[1]), ...(r.t.en ? [r.t.en.title, ...r.t.en.ing.map(x => x[1])] : [])].join(" "));
-  return w.some(x => h.includes(x));
+  if (!vocabRoots[lang] && /^[؀-ۿ]/.test(w[0])) ingVocab();
+  const text = fold([tx(r).title, ...tx(r).ing.map(x => x[1]), ...(r.t.en ? [r.t.en.title, ...r.t.en.ing.map(x => x[1])] : [])].join(" "));
+  const key = r.id + "|" + lang; let roots = dislikeCache.get(key);
+  if (!roots) { roots = new Set(text.split(/[^\p{L}\p{M}]+/u).filter(Boolean).map(wordRoot)); dislikeCache.set(key, roots); }
+  return w.some(x => {
+    if (/\s/.test(x)) return text.includes(x);
+    const d = wordRoot(x);
+    return roots.has(d) || [...roots].some(t => /^[a-z]/.test(d) && d.length >= 4 && t.startsWith(d));
+  });
 }
+
 const GOAL_KCAL = { lose: -500, keep: 0, gain: 300 };
 // ---------- settings ----------
 let addr = store.get("addr", "m");   // form of address for Arabic text: m / f
-function openSettings() {
-  const s = u(), seg = (name, cur, opts) => `<div class="seg2" role="group">${opts.map(([v, l]) => `<button data-set="${name}" data-v="${v}" aria-pressed="${v === cur}">${l}</button>`).join("")}</div>`;
-  $("#setIn").innerHTML = `<h2 id="setTitle">${s.settings}</h2>
-    <div class="plan-group"><h3>${s.setLang}</h3>${seg("lang", lang, Object.entries(LANGS_META).map(([k, m]) => [k, m.n]))}</div>
+function settingsGroups(s) {
+  const seg = (name, cur, opts) => `<div class="seg2" role="group">${opts.map(([v, l]) => `<button data-set="${name}" data-v="${v}" aria-pressed="${v === cur}">${l}</button>`).join("")}</div>`;
+  return `<div class="plan-group"><h3>${s.setLang}</h3>${seg("lang", lang, Object.entries(LANGS_META).map(([k, m]) => [k, m.n]))}</div>
     <div class="plan-group"><h3>${s.setTheme}</h3>${seg("theme", theme, [["system", s.themeNames.system.split(": ").pop()], ["light", s.themeNames.light.split(": ").pop()], ["dark", s.themeNames.dark.split(": ").pop()]])}</div>
     <div class="plan-group"><h3>${s.unitsLabel}</h3>${seg("units", units, [["metric", s.unitsMetric], ["us", s.unitsUS]])}</div>
     <div class="plan-group"><h3>${s.setAddr}</h3>${seg("addr", addr, [["m", s.addrM], ["f", s.addrF]])}<p class="foot-note" style="margin:0">${s.setAddrNote}</p></div>
     <div class="plan-group"><h3>${s.plan}</h3><div class="mp-actions"><span class="chip diet">${s.profiles[plan.type]}</span><button class="icon-btn" data-set="plan">${s.planEdit}</button></div></div>
-    <div class="plan-group"><h3>${s.setData}</h3><div class="mp-actions"><button class="icon-btn" data-set="clearDay">${s.clearDay}</button><button class="icon-btn" data-set="clearSaved">${s.clearSaved}</button></div></div>
+    <div class="plan-group"><h3>${s.setData}</h3><div class="mp-actions"><button class="icon-btn" data-set="clearDay">${s.clearDay}</button><button class="icon-btn" data-set="clearSaved">${s.clearSaved}</button></div></div>`;
+}
+// apply one settings choice; used by the settings dialog and the account page
+function settingsAction(k, v) {
+  if (k === "lang") return switchLang(v);
+  if (k === "theme") { theme = v; store.set("theme", theme); applyTheme(); }
+  if (k === "units") { units = v; store.set("units", units); if (current) openRecipe(current.id, false); }
+  if (k === "addr") { addr = v; store.set("addr", addr); applyLang(); render(); if (current) openRecipe(current.id, false); }
+  if (k === "clearDay") { day = []; saveDay(); toast(u().done); }
+  if (k === "clearSaved") { favs.clear(); store.set("favs", []); syncNav(); $("#favCount").textContent = 0; toast(u().done); }
+}
+function openSettings() {
+  const s = u();
+  $("#setIn").innerHTML = `<h2 id="setTitle">${s.settings}</h2>${settingsGroups(s)}
     <div class="dlg-foot"><span></span><button class="btn-primary" data-set="close">${s.done}</button></div>`;
   // each section collapses; remember which ones the reader opened
   [...$("#setIn").querySelectorAll(".plan-group")].forEach((g, i) => {
@@ -2767,6 +2900,85 @@ function openSettings() {
 }
 const setOpen = new Set();
 $("#settingsBtn").addEventListener("click", openSettings);
+// ingredient words in the reader's language, for suggestions in the "foods I avoid" fields
+const STOPW = new Set(("cup cups tablespoon tablespoons teaspoon teaspoons tbsp tsp ounce ounces oz pound pounds lb lbs g kg ml mg gram grams large small medium chopped sliced diced minced fresh frozen dried ground to taste and or of the a an for with optional divided cut into inch inches pieces piece finely thinly about plus more low sodium reduced fat free whole package can cans unsalted packed peeled seeded halved cooked raw drained rinsed softened melted room temperature extra virgin "
+  + "taza tazas cucharada cucharadas cucharadita cucharaditas onza onzas libra libras gramos picado picada picados rebanado en de del la el los las y o al para con sin sal bajo baja grande grandes pequeño pequeña mediano mediana fresco fresca cortado cortada trozos "
+  + "كوب أكواب كوبان ملعقة ملاعق ملعقتان كبيرة صغيرة صغيرتان غرام غ مل ملغ كغ حبة حبات حبتان مقطع مقطعة مقطعه مفروم مفرومة مفرومه طازج طازجة طازجه إلى الى أو او و من في مع حسب الرغبة قليل قليلة الصوديوم بدون ملح مطبوخ مطبوخة مجمد مجففة مجفف متوسطة متوسط كبير صغير قطع شرائح مكعبات حوالي إضافي اختياري معلبة علبة "
+  + "tasse tasses cuillère cuillères soupe café gros grosse petit petite haché hachée tranché coupé en de du des la le les et ou pour avec sans sel frais fraîche "
+  + "cangkir sendok makan teh gram besar kecil sedang cincang iris potong dan atau untuk dengan tanpa garam segar "
+  + "tasa kutsara kutsarita gramo malaki maliit hiniwa tinadtad at o para sa ng may walang asin sariwa mga").split(" "));
+let vocabCache = {}, vocabRoots = {};
+// light plural folding for Latin-script languages: tomatoes → tomato, berries → berry, tomates → tomate
+function stemW(f) {
+  if (/^[\u0600-\u06ff]/.test(f)) {   // Arabic: drop the article and attached prefixes (الطماطم، والطماطم، بالطماطم → طماطم)
+    const m = f.match(/^(?:[وفبكل]?ال|لل)(.{3,})$/); return m ? m[1] : f;
+  }
+  if (!/^[a-z]/.test(f) || f.length < 5) return f;
+  if (f.endsWith("ies")) return f.slice(0, -3) + "y";
+  if (/(oes|ches|shes|xes|ses|zes)$/.test(f)) return f.slice(0, -2);
+  if (f.endsWith("s") && !f.endsWith("ss")) return f.slice(0, -1);
+  return f;
+}
+function ingVocab() {
+  if (vocabCache[lang]) return vocabCache[lang];
+  const cnt = new Map();
+  for (const r of R) {
+    if (!hasLang(r)) continue;
+    const seen = new Set();
+    for (const [, line] of (tx(r).ing || [])) {
+      const clean = (line || "").replace(/\([^)]*\)/g, " ").replace(/[\d¼½¾⅓⅔⅛.,;:/\-–—%*"'“”،؛]+/g, " ");
+      for (const w of clean.split(/\s+/)) {
+        const k = w.trim(); if (k.length < 3) continue;
+        const f = fold(k); if (STOPW.has(f) || STOPW.has(k.toLowerCase())) continue;
+        const st = stemW(f); if (seen.has(st)) continue; seen.add(st);
+        const c = cnt.get(st) || cnt.set(st, { n: 0, forms: {} }).get(st); c.n++; c.forms[k.toLowerCase()] = (c.forms[k.toLowerCase()] || 0) + 1;
+      }
+    }
+  }
+  // merge forms into a root found in the same vocabulary: البصل/وبصل/بصلة/بصلات → بصل, tomatoes → tomato
+  const ar = /^[؀-ۿ]/, PRE = ["وال", "بال", "فال", "كال", "لل", "ال", "و", "ب", "ف", "ك", "ل"], SUF = ["ات", "ه", "ين", "ان"];
+  const rootOf = new Map();
+  const findRoot = st => {
+    if (rootOf.has(st)) return rootOf.get(st);
+    let best = st;
+    if (ar.test(st)) {
+      const cands = [];
+      for (const p of PRE) if (st.startsWith(p) && st.length - p.length >= 3) cands.push(st.slice(p.length));
+      for (const c of [st, ...cands]) for (const x of SUF) if (c.endsWith(x) && c.length - x.length >= 3) cands.push(c.slice(0, -x.length));
+      for (const c of cands) if (cnt.has(c) && cnt.get(c).n >= cnt.get(st).n / 4 && c !== st) { best = findRoot(c); break; }
+    }
+    rootOf.set(st, best); return best;
+  };
+  const merged = new Map();
+  for (const [st, x] of cnt) {
+    const root = findRoot(st), m = merged.get(root) || merged.set(root, { n: 0, forms: {} }).get(root);
+    m.n += x.n; for (const [f, c] of Object.entries(x.forms)) m.forms[f] = (m.forms[f] || 0) + c;
+  }
+  vocabRoots[lang] = rootOf;
+  // one entry per word, shown in its root (singular) form when it exists
+  return (vocabCache[lang] = [...merged.entries()].filter(([, x]) => x.n >= 3).map(([st, x]) => {
+    const forms = Object.entries(x.forms).sort((a, b) => b[1] - a[1]).map(f => f[0]);
+    return { w: forms.find(f => stemW(fold(f)) === st) || forms.sort((a, b) => a.length - b.length)[0], n: x.n, k: st };
+  }).sort((a, b) => b.n - a.n));
+}
+function showSugg(input) {
+  const box = document.querySelector(`.sugg[data-for="${input.id}"]`); if (!box) return;
+  const parts = input.value.split(/[,،]/), last = fold(parts[parts.length - 1].trim()), have = new Set(parts.slice(0, -1).map(x => fold(x.trim())));
+  if (last.length < 1) { box.innerHTML = ""; return; }
+  const lr = stemW(last), hits = ingVocab().filter(x => !have.has(fold(x.w)) && (x.k.startsWith(lr) || fold(x.w).startsWith(last)))
+    .sort((a, b) => b.n - a.n).slice(0, 8);
+  box.innerHTML = hits.map(x => `<button type="button" data-sug="${esc(x.w)}">${esc(x.w)} <small>${x.n}</small></button>`).join("");
+}
+$("#account").addEventListener("input", e => { if (["pfDislikes", "pfAllergies", "pfLikes"].includes(e.target.id)) showSugg(e.target); });
+$("#account").addEventListener("focusin", e => { if (["pfDislikes", "pfAllergies", "pfLikes"].includes(e.target.id) && e.target.value) showSugg(e.target); });
+$("#account").addEventListener("mousedown", e => { if (e.target.closest("[data-sug]")) e.preventDefault(); });
+$("#account").addEventListener("click", e => {
+  const b = e.target.closest("[data-sug]"); if (!b) return;
+  const box = b.closest(".sugg"), input = $("#" + box.dataset.for), parts = input.value.split(/[,،]/);
+  parts[parts.length - 1] = " " + b.dataset.sug;
+  input.value = parts.map(x => x.trim()).filter(Boolean).join(lang === "ar" || lang === "ur" ? "، " : ", ") + (lang === "ar" || lang === "ur" ? "، " : ", ");
+  box.innerHTML = ""; input.focus(); input.dispatchEvent(new Event("change", { bubbles: true }));
+});
 $("#account").addEventListener("change", e => {
   const id = e.target.id, val = e.target.value;
   if (!id || !id.startsWith("pf")) return;
@@ -2793,16 +3005,8 @@ $("#setDlg").addEventListener("click", e => {
   if (e.target === $("#setDlg")) return $("#setDlg").close();
   const b = e.target.closest("[data-set]"); if (!b) return; const k = b.dataset.set, v = b.dataset.v;
   if (k === "close") return $("#setDlg").close();
-  if (k === "lang") { switchLang(v).then(openSettings); return; }
-  if (k === "theme") { theme = v; store.set("theme", theme); applyTheme(); }
-  if (k === "units") { units = v; store.set("units", units); if (current) openRecipe(current.id, false); }
-
-  if (k === "addr") { addr = v; store.set("addr", addr); applyLang(); render(); if (current) openRecipe(current.id, false); }
   if (k === "plan") { $("#setDlg").close(); openPlan(); return; }
-  if (k === "account") { $("#setDlg").close(); if (auth.api && !auth.token) showAuth("login"); else setView("account"); return; }
-  if (k === "clearDay") { day = []; saveDay(); toast(u().done); }
-  if (k === "clearSaved") { favs.clear(); store.set("favs", []); syncNav(); $("#favCount").textContent = 0; toast(u().done); }
-  openSettings();
+  Promise.resolve(settingsAction(k, v)).then(() => { if ($("#setDlg").open) openSettings(); });
 });
 
 // ---------- theme ----------
@@ -2831,7 +3035,7 @@ applyLang();
 applyTheme();
 $("#dayCount").textContent = day.length;
 render();
-setView(hm[2] || "dash", false);
+setView(hm[3] ? "recipes" : hm[2] || "dash", false);
 if (hm[3]) openRecipe(+hm[3], false);
 startSlides();
 hideSplash();

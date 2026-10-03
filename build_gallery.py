@@ -152,6 +152,17 @@ def main():
         })
     flush()
 
+    # cuisines: one "American", "Latin American" for South America, and Middle Eastern split by country
+    rename = {"Native American": "American", "Southern": "American", "South American": "Latin American"}
+    by_dish = json.loads((HERE / "translations" / "cuisine_me.json").read_text(encoding="utf-8"))
+    for rec in recipes:
+        cu = {rename.get(c, c) for c in rec["cuisine"]}
+        if "Middle Eastern" in cu:
+            cu.discard("Middle Eastern")
+            if str(rec["id"]) in by_dish:
+                cu.add(by_dish[str(rec["id"])])
+        rec["cuisine"] = sorted(cu)
+
     # feminine Arabic steps/hints (translations/arf/out_*.json), shown when the reader picks "woman"
     arf = {}
     for f in sorted((HERE / "translations" / "arf").glob("out_*.json")):
