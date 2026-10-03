@@ -236,3 +236,5 @@ Object.assign(UI.id, {
 });
 
 Object.assign(UI.id, { roleUser: "Pengguna", roleAdmin: "Admin" });
+
+Object.assign(UI.id, { netErr: "Tidak dapat terhubung ke server akun. Coba lagi sebentar lagi.", localOnly: "Informasi Anda hanya tersimpan di perangkat ini. Untuk menyimpannya di akun, buka aplikasi dari server Health Kitchen (lihat README)." });

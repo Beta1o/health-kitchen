@@ -240,3 +240,5 @@ Object.assign(UI.ur, {
 });
 
 Object.assign(UI.ur, { roleUser: "صارف", roleAdmin: "منتظم" });
+
+Object.assign(UI.ur, { netErr: "اکاؤنٹ سرور سے رابطہ نہیں ہو سکا۔ تھوڑی دیر بعد دوبارہ کوشش کریں۔", localOnly: "آپ کی معلومات صرف اسی ڈیوائس پر محفوظ ہیں۔ اکاؤنٹ میں رکھنے کے لیے ایپ کو Health Kitchen سرور سے کھولیں (README دیکھیں)۔" });

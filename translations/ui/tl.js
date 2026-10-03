@@ -241,3 +241,5 @@ Object.assign(UI.tl, {
 });
 
 Object.assign(UI.tl, { roleUser: "User", roleAdmin: "Admin" });
+
+Object.assign(UI.tl, { netErr: "Hindi maabot ang server ng account. Subukang muli maya-maya.", localOnly: "Sa device na ito lang naka-save ang iyong impormasyon. Para itago ito sa account, buksan ang app mula sa Health Kitchen server (tingnan ang README)." });

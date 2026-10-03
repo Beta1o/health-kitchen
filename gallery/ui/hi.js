@@ -123,3 +123,5 @@ Object.assign(UI.hi, {
 });
 
 Object.assign(UI.hi, { roleUser: "उपयोगकर्ता", roleAdmin: "व्यवस्थापक" });
+
+Object.assign(UI.hi, { netErr: "खाता सर्वर से संपर्क नहीं हो सका। थोड़ी देर बाद फिर से कोशिश करें।", localOnly: "आपकी जानकारी केवल इसी डिवाइस पर सहेजी गई है। इसे खाते में रखने के लिए ऐप को Health Kitchen सर्वर से खोलें (README देखें)।" });

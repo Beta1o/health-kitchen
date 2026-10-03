@@ -123,3 +123,5 @@ Object.assign(UI.bn, {
 });
 
 Object.assign(UI.bn, { roleUser: "ব্যবহারকারী", roleAdmin: "অ্যাডমিন" });
+
+Object.assign(UI.bn, { netErr: "অ্যাকাউন্ট সার্ভারে সংযোগ করা যাচ্ছে না। একটু পরে আবার চেষ্টা করুন।", localOnly: "আপনার তথ্য শুধু এই ডিভাইসে সংরক্ষিত আছে। অ্যাকাউন্টে রাখতে Health Kitchen সার্ভার থেকে অ্যাপটি খুলুন (README দেখুন)।" });

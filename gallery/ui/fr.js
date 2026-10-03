@@ -235,3 +235,5 @@ Object.assign(UI.fr, {
 });
 
 Object.assign(UI.fr, { roleUser: "Utilisateur", roleAdmin: "Administrateur" });
+
+Object.assign(UI.fr, { netErr: "Impossible de joindre le serveur des comptes. Réessayez dans un instant.", localOnly: "Vos informations sont enregistrées sur cet appareil uniquement. Pour les garder dans un compte, ouvrez l'app depuis le serveur Health Kitchen (voir le README)." });
