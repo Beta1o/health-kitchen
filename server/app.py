@@ -383,14 +383,31 @@ def check_url(url: str):
         raise HTTPException(400, "Only PostgreSQL connection URLs are supported (postgresql://user:password@host:port/database)")
 
 
+def explain_db_error(e):
+    """A short, actionable message for common connection failures."""
+    msg = str(e)
+    if "password authentication failed" in msg:
+        return ("The database rejected the user name or password. In Supabase open Project Settings → Database, "
+                "reset the database password, then enter the new one here (user: postgres).")
+    if "Network is unreachable" in msg or "could not translate host name" in msg or "timeout expired" in msg:
+        return ("This computer cannot reach that host. If it is a Supabase direct connection (IPv6 only), use the "
+                "Session pooler from Supabase → Connect instead: host aws-…pooler.supabase.com, port 5432, user postgres.<project-ref>.")
+    return msg.splitlines()[0][:220]
+
+
 @app.post("/api/admin/database/test")
-def database_test(body: DbUrl, user=Depends(admin)):
-    check_url(body.url)
+def database_test(body: dict, user=Depends(admin)):
+    """Test a connection without changing anything: a full URL or host/port/database/user/password."""
+    url = conn_url(Connect(**{k: v for k, v in body.items() if k in Connect.model_fields}))
     try:
-        with psycopg.connect(body.url, connect_timeout=8) as conn:
+        with psycopg.connect(url, connect_timeout=10) as conn:
             info = db_info(conn)
+            info["hk_ready"] = conn.execute("SELECT to_regclass('hk.users') IS NOT NULL AS ok").fetchone()["ok"]
+            info["can_create_roles"] = conn.execute("SELECT rolcreaterole OR rolsuper AS ok FROM pg_roles WHERE rolname = current_user").fetchone()["ok"]
+    except HTTPException:
+        raise
     except Exception as e:  # noqa: BLE001
-        raise HTTPException(400, f"Could not connect: {str(e).splitlines()[0][:200]}")
+        raise HTTPException(400, f"Could not connect: {explain_db_error(e)}")
     return info
 
 
@@ -403,7 +420,7 @@ def database_setup(body: DbUrl, user=Depends(admin)):
             conn.execute((HERE / "schema.sql").read_text())
             info = db_info(conn)
     except Exception as e:  # noqa: BLE001
-        raise HTTPException(400, f"Setup failed: {str(e).splitlines()[0][:200]}")
+        raise HTTPException(400, f"Setup failed: {explain_db_error(e)}")
     return info
 
 
@@ -420,7 +437,7 @@ def database_switch(body: DbUrl, user=Depends(admin)):
     except HTTPException:
         raise
     except Exception as e:  # noqa: BLE001
-        raise HTTPException(400, f"Could not connect: {str(e).splitlines()[0][:200]}")
+        raise HTTPException(400, f"Could not connect: {explain_db_error(e)}")
     use_database(body.url)
     return {"ok": True, "url": mask_url(body.url)}
 
@@ -436,6 +453,8 @@ def use_database(url: str):
     old.close()
 
 
+from psycopg.types.json import Jsonb  # noqa: E402
+JSONB_COLS = {"app_config": ("value",), "user_state": ("profile", "plan", "settings", "favs", "day", "history"), "submissions": ("recipe",)}
 COPY_TABLES = [("admin_emails", "email"), ("users", "id"), ("user_state", "user_id"), ("weights", "user_id, d"),
                ("submissions", "id"), ("app_config", "key")]
 
@@ -450,16 +469,23 @@ class Connect(BaseModel):
     copy_data: bool = True
 
 
+def conn_url(body: "Connect") -> str:
+    from urllib.parse import quote
+    url = body.url.strip()
+    if not url:
+        if not (body.host and body.password):
+            raise HTTPException(400, "Enter the host and the database password (or a full connection string)")
+        url = f"postgresql://{quote(body.user, safe='')}:{quote(body.password, safe='')}@{body.host.strip()}:{body.port}/{quote(body.database, safe='')}?sslmode=require"
+    check_url(url)
+    return url
+
+
 @app.post("/api/admin/database/connect")
 def database_connect(body: Connect, user=Depends(admin)):
     """One step: set up the tables on the new database, create the restricted app user with a random password,
     copy the current accounts and data, then switch. The connection details are stored encrypted."""
     from urllib.parse import urlsplit, urlunsplit, quote
-    if not body.url:
-        if not (body.host and body.password):
-            raise HTTPException(400, "Enter the host and the database password (or a full connection string)")
-        body.url = f"postgresql://{quote(body.user, safe='')}:{quote(body.password, safe='')}@{body.host}:{body.port}/{quote(body.database, safe='')}?sslmode=require"
-    check_url(body.url)
+    body.url = conn_url(body)
     api_pw = secrets.token_urlsafe(24)
     copied = {}
     try:
@@ -480,7 +506,7 @@ def database_connect(body: Connect, user=Depends(admin)):
                                 with conn.cursor() as cur:
                                     cur.executemany(
                                         f"INSERT INTO hk.{t} ({', '.join(cols)}) VALUES ({', '.join(['%s'] * len(cols))}) ON CONFLICT ({key}) DO NOTHING",
-                                        [[json.dumps(v) if isinstance(v, (dict, list)) else v for v in r.values()] for r in rows])
+                                        [[Jsonb(v) if c in JSONB_COLS.get(t, ()) else v for c, v in r.items()] for r in rows])
                             copied[t] = len(rows)
                         finally:
                             conn.execute(f"ALTER TABLE hk.{t} ENABLE ROW LEVEL SECURITY")
@@ -495,7 +521,7 @@ def database_connect(body: Connect, user=Depends(admin)):
     except HTTPException:
         raise
     except Exception as e:  # noqa: BLE001
-        raise HTTPException(400, f"Could not set up that database: {str(e).splitlines()[0][:220]}")
+        raise HTTPException(400, f"Could not set up that database: {explain_db_error(e)}")
     use_database(api_url)
     return {"ok": True, "url": mask_url(api_url), "copied": copied}
 
