@@ -24,7 +24,7 @@ def build(src,dst):
             out.append(cur);continue
         m=re.match(r'^([TDPVISHF])(?:\[(.*?)\])?: (.*)$',ln)
         assert m,ln
-        c,g,t=m.groups();t=sub(t);h=cur["translations"]["hi"]
+        c,g,t=m.groups();t=sub(t).replace('\\n','\n');h=cur["translations"]["hi"]
         if c=='T':h['title']=t
         elif c=='D':h['description']=t
         elif c=='P':h['portions']=t
