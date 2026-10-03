@@ -59,7 +59,7 @@ DB_URL = (_fernet().decrypt(_enc.encode()).decode() if _enc else None) or os.env
 SESSION_DAYS = 30
 pool = ConnectionPool(DB_URL, min_size=1, max_size=8, open=True)
 DEFAULT_CONFIG = {"defaults": {"lang": "", "theme": "", "units": "", "plan": ""}, "allow_signups": True, "session_days": 30,
-                  "announcement": {"active": False, "level": "info", "text": {}}, "hidden_sources": [], "hidden_langs": []}
+                  "announcement": {"active": False, "level": "info", "text": {}}, "hidden_sources": [], "hidden_langs": [], "access": {}}
 app = FastAPI(title="Health Kitchen API")
 # the app may also be opened from another local port (e.g. a plain file server); allow those pages to call the API
 from fastapi.middleware.cors import CORSMiddleware  # noqa: E402
@@ -304,6 +304,22 @@ def admin_disable(uid: str, body: Active, user=Depends(admin)):
     return {"ok": True}
 
 
+class RoleBody(BaseModel):
+    role: str = Field(pattern="^(user|supervisor)$")
+
+
+@app.put("/api/admin/users/{uid}/role")
+def admin_role(uid: str, body: RoleBody, user=Depends(admin)):
+    """User or supervisor; admin comes only from the admin email list."""
+    if uid == str(user["id"]):
+        raise HTTPException(400, "You can't change your own role")
+    with as_user(user["id"], "admin") as c:
+        row = c.execute("UPDATE hk.users SET role = %s WHERE id = %s RETURNING role", (body.role, uid)).fetchone()
+    if not row:
+        raise HTTPException(404, "No such user")
+    return {"ok": True, "role": row["role"]}
+
+
 @app.get("/api/admin/users")
 def admin_users(user=Depends(admin)):
     with as_user(user["id"], "admin") as c:
@@ -330,7 +346,7 @@ def admin_delete(uid: str, user=Depends(admin)):
 def public_config():
     with as_user() as c:
         cfg = app_config(c)
-    return {k: cfg[k] for k in ("defaults", "allow_signups", "announcement", "hidden_sources", "hidden_langs")}
+    return {k: cfg[k] for k in ("defaults", "allow_signups", "announcement", "hidden_sources", "hidden_langs", "access")}
 
 
 @app.get("/api/admin/config")

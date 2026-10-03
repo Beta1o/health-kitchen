@@ -163,10 +163,15 @@ BEGIN
     VALUES (lower(p_email), p_hash, coalesce(p_name, ''), r) RETURNING users.id, users.role;
 END $$;
 
--- a role can only be admin for listed emails, whatever the API sends
+-- roles: admin only for listed emails, whatever the API sends; an admin may make other users supervisors
+ALTER TABLE hk.users DROP CONSTRAINT IF EXISTS users_role_check;
+ALTER TABLE hk.users ADD CONSTRAINT users_role_check CHECK (role IN ('user', 'supervisor', 'admin'));
 CREATE OR REPLACE FUNCTION hk.enforce_role() RETURNS trigger LANGUAGE plpgsql SECURITY DEFINER SET search_path = hk, pg_temp AS $$
 BEGIN
-  NEW.role := CASE WHEN EXISTS (SELECT 1 FROM hk.admin_emails a WHERE a.email = NEW.email) THEN 'admin' ELSE 'user' END;
+  IF EXISTS (SELECT 1 FROM hk.admin_emails a WHERE a.email = NEW.email) THEN NEW.role := 'admin';
+  ELSIF TG_OP = 'INSERT' OR NEW.role NOT IN ('user', 'supervisor') THEN NEW.role := 'user';
+  ELSIF NEW.role IS DISTINCT FROM OLD.role AND NOT hk.is_admin() THEN NEW.role := OLD.role;
+  END IF;
   RETURN NEW;
 END $$;
 DROP TRIGGER IF EXISTS users_role ON hk.users;

@@ -193,6 +193,8 @@ def main():
     if missing:
         print("warning: no translation for", missing)
 
+    import shopping   # needs every language's ingredient lines, so before the split below
+    shop, shop_rep = shopping.build(recipes, [l for l in LANGS if l != "en"])
     # split text by language: core data keeps English (or the source text) and a list of available
     # languages; every other language goes to text/<lang>.js, loaded only when the reader picks it
     TEXT = OUT / "text"; TEXT.mkdir(exist_ok=True)
@@ -214,6 +216,12 @@ def main():
     for f in (HERE / "translations" / "ui").glob("*.js"):
         shutil.copy(f, UIDIR / f.name)
         vers["ui_" + f.stem] = hashlib.md5(f.read_bytes()).hexdigest()[:8]
+
+    # shopping list data (amounts in g/ml/pieces and ingredient names per language), loaded only by the shopping page
+    shop_js = "window.HK_SHOP=" + json.dumps(shop, ensure_ascii=False, separators=(",", ":")) + ";"
+    (OUT / "shop.js").write_text(shop_js, encoding="utf-8")
+    vers["shop"] = hashlib.md5(shop_js.encode()).hexdigest()[:8]
+    print("shopping:", shop_rep)
 
     payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers,
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
