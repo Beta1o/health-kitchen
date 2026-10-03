@@ -13,6 +13,7 @@ Usage: python3 build_gallery.py
 """
 import base64
 import json
+import os
 import re
 import sqlite3
 from pathlib import Path
@@ -77,8 +78,6 @@ def main():
     THUMBS.mkdir(parents=True, exist_ok=True)
     PHOTOS.mkdir(parents=True, exist_ok=True)
     CHUNKS.mkdir(parents=True, exist_ok=True)
-    for old in CHUNKS.glob("chunk-*.json"):
-        old.unlink()
     db = sqlite3.connect(DB)
     db.row_factory = sqlite3.Row
 
@@ -116,7 +115,10 @@ def main():
     def flush():
         nonlocal chunk, chunk_no
         if chunk:
-            (CHUNKS / f"chunk-{chunk_no}.json").write_text(json.dumps(chunk))
+            # write next to the old file and swap, so a page loading during a rebuild never finds it missing
+            tmp = CHUNKS / f".chunk-{chunk_no}.tmp"
+            tmp.write_text(json.dumps(chunk))
+            os.replace(tmp, CHUNKS / f"chunk-{chunk_no}.json")
             chunk, chunk_no = {}, chunk_no + 1
 
     rows = db.execute("SELECT * FROM recipes WHERE canonical_id = id ORDER BY title COLLATE NOCASE").fetchall()
@@ -151,6 +153,9 @@ def main():
             "t": {k: v for k, v in t.items() if v},
         })
     flush()
+    for old in CHUNKS.glob("chunk-*.json"):   # chunks left over from a bigger earlier build
+        if int(old.stem.split("-")[1]) >= chunk_no:
+            old.unlink()
 
     # cuisines: one "American", "Latin American" for South America, and Middle Eastern split by country
     rename = {"Native American": "American", "Southern": "American", "South American": "Latin American"}
@@ -213,6 +218,7 @@ def main():
         shutil.copy(f, UIDIR / f.name)
         vers["ui_" + f.stem] = hashlib.md5(f.read_bytes()).hexdigest()[:8]
 
+    vers["img"] = hashlib.md5("".join(sorted(f"{p.name}{p.stat().st_size}" for p in CHUNKS.glob("chunk-*.json"))).encode()).hexdigest()[:8]
     payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers,
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")

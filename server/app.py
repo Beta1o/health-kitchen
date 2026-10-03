@@ -18,6 +18,7 @@ from datetime import date
 from pathlib import Path
 
 import psycopg
+import psycopg.sql
 from fastapi import Depends, FastAPI, Header, HTTPException
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
@@ -27,9 +28,34 @@ from pydantic import BaseModel, Field
 
 HERE = Path(__file__).resolve().parent
 GALLERY = HERE.parent / "gallery"
-CONFIG_FILE = HERE / "config.json"   # written by the Admin page (database connection); not in git
-_file_cfg = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
-DB_URL = _file_cfg.get("db_url") or os.environ.get("HK_DB_URL", "postgresql://hk_api:hk_api_dev_pw@127.0.0.1:5440/health_kitchen")
+CONFIG_FILE = HERE / "config.json"   # written by the Admin page (database connection, encrypted); not in git
+KEY_FILE = HERE / ".hk_secret"        # encryption key for config.json; not in git
+from cryptography.fernet import Fernet  # noqa: E402
+
+
+def _fernet() -> Fernet:
+    if not KEY_FILE.exists():
+        KEY_FILE.write_bytes(Fernet.generate_key())
+        os.chmod(KEY_FILE, 0o600)
+    return Fernet(KEY_FILE.read_bytes())
+
+
+def read_cfg() -> dict:
+    cfg = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
+    if "db_url" in cfg:   # older plain-text setting: encrypt it now
+        cfg["db_url_enc"] = _fernet().encrypt(cfg.pop("db_url").encode()).decode()
+        write_cfg(cfg)
+    return cfg
+
+
+def write_cfg(cfg: dict):
+    CONFIG_FILE.write_text(json.dumps(cfg, indent=1))
+    os.chmod(CONFIG_FILE, 0o600)
+
+
+_enc = read_cfg().get("db_url_enc")
+DB_URL = (_fernet().decrypt(_enc.encode()).decode() if _enc else None) or os.environ.get(
+    "HK_DB_URL", "postgresql://hk_api:hk_api_dev_pw@127.0.0.1:5440/health_kitchen")
 SESSION_DAYS = 30
 pool = ConnectionPool(DB_URL, min_size=1, max_size=8, open=True)
 DEFAULT_CONFIG = {"defaults": {"lang": "", "theme": "", "units": "", "plan": ""}, "allow_signups": True, "session_days": 30,
@@ -327,7 +353,7 @@ def database_status(user=Depends(admin)):
     with as_user(user["id"], "admin") as c:
         info = db_info(c)
         counts = {t: c.execute(f"SELECT count(*) AS n FROM hk.{t}").fetchone()["n"] for t in ("users", "user_state", "weights", "submissions")}
-    return {**info, "url": mask_url(DB_URL), "counts": counts, "pool": {"min": pool.min_size, "max": pool.max_size},
+    return {**info, "url": mask_url(DB_URL), "counts": counts, "encrypted": bool(read_cfg().get("db_url_enc")), "pool": {"min": pool.min_size, "max": pool.max_size},
             "supported": ["PostgreSQL 13+ (local, Docker, Supabase, Neon, AWS RDS, Azure, Google Cloud SQL)"]}
 
 
@@ -378,15 +404,74 @@ def database_switch(body: DbUrl, user=Depends(admin)):
         raise
     except Exception as e:  # noqa: BLE001
         raise HTTPException(400, f"Could not connect: {str(e).splitlines()[0][:200]}")
-    old = pool
-    pool = ConnectionPool(body.url, min_size=1, max_size=8, open=True)
-    DB_URL = body.url
-    cfg = json.loads(CONFIG_FILE.read_text()) if CONFIG_FILE.exists() else {}
-    cfg["db_url"] = body.url
-    CONFIG_FILE.write_text(json.dumps(cfg, indent=1))
-    os.chmod(CONFIG_FILE, 0o600)
-    old.close()
+    use_database(body.url)
     return {"ok": True, "url": mask_url(body.url)}
+
+
+def use_database(url: str):
+    global pool, DB_URL
+    old = pool
+    pool = ConnectionPool(url, min_size=1, max_size=8, open=True)
+    DB_URL = url
+    cfg = read_cfg()
+    cfg["db_url_enc"] = _fernet().encrypt(url.encode()).decode()
+    write_cfg(cfg)
+    old.close()
+
+
+COPY_TABLES = [("admin_emails", "email"), ("users", "id"), ("user_state", "user_id"), ("weights", "user_id, d"),
+               ("submissions", "id"), ("app_config", "key")]
+
+
+class Connect(BaseModel):
+    url: str = Field(min_length=12, max_length=500)   # owner / admin connection string (e.g. Supabase "postgres" user)
+    copy_data: bool = True
+
+
+@app.post("/api/admin/database/connect")
+def database_connect(body: Connect, user=Depends(admin)):
+    """One step: set up the tables on the new database, create the restricted app user with a random password,
+    copy the current accounts and data, then switch. The connection details are stored encrypted."""
+    check_url(body.url)
+    from urllib.parse import urlsplit, urlunsplit, quote
+    api_pw = secrets.token_urlsafe(24)
+    copied = {}
+    try:
+        with psycopg.connect(body.url, connect_timeout=10, autocommit=True) as conn:
+            conn.execute((HERE / "schema.sql").read_text())
+            conn.execute(psycopg.sql.SQL("ALTER ROLE hk_api WITH LOGIN PASSWORD {}").format(psycopg.sql.Literal(api_pw)))
+            if body.copy_data:
+                with as_user(user["id"], "admin") as src:
+                    for t, key in COPY_TABLES:
+                        if t == "admin_emails":
+                            continue   # read below through the owner-free path
+                        rows = src.execute(f"SELECT * FROM hk.{t}").fetchall()
+                        conn.execute(f"ALTER TABLE hk.{t} NO FORCE ROW LEVEL SECURITY")
+                        conn.execute(f"ALTER TABLE hk.{t} DISABLE ROW LEVEL SECURITY")
+                        try:
+                            if rows:
+                                cols = list(rows[0].keys())
+                                with conn.cursor() as cur:
+                                    cur.executemany(
+                                        f"INSERT INTO hk.{t} ({', '.join(cols)}) VALUES ({', '.join(['%s'] * len(cols))}) ON CONFLICT ({key}) DO NOTHING",
+                                        [[json.dumps(v) if isinstance(v, (dict, list)) else v for v in r.values()] for r in rows])
+                            copied[t] = len(rows)
+                        finally:
+                            conn.execute(f"ALTER TABLE hk.{t} ENABLE ROW LEVEL SECURITY")
+                            conn.execute(f"ALTER TABLE hk.{t} FORCE ROW LEVEL SECURITY")
+                if copied.get("submissions"):
+                    conn.execute("SELECT setval('hk.submissions_id_seq', (SELECT coalesce(max(id), 1) FROM hk.submissions))")
+            parts = urlsplit(body.url)
+            host = parts.hostname + (f":{parts.port}" if parts.port else "")
+            api_url = urlunsplit((parts.scheme, f"hk_api:{quote(api_pw, safe='')}@{host}", parts.path, parts.query, ""))
+        with psycopg.connect(api_url, connect_timeout=10) as test:
+            test.execute("SELECT 1")
+    except HTTPException:
+        raise
+    except Exception as e:  # noqa: BLE001
+        raise HTTPException(400, f"Could not set up that database: {str(e).splitlines()[0][:220]}")
+    use_database(api_url)
+    return {"ok": True, "url": mask_url(api_url), "copied": copied}
 
 
 # ---------- community recipes (published after an admin approves them) ----------
@@ -524,6 +609,11 @@ def health():
 @app.get("/")
 def index():
     return FileResponse(GALLERY / "index.html")
+
+
+@app.get("/favicon.ico")
+def favicon():
+    return FileResponse(GALLERY / "icon-32.png", media_type="image/png")
 
 
 @app.get("/gallery")

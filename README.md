@@ -89,6 +89,12 @@ Raw downloads (`cache/`, `images/`, `sources/*/cache`, `sources/*/images`) are n
 
 ## Database: `davita_recipes.db` (SQLite)
 
+The repository stores it compressed (GitHub limits files to 100 MB). Unpack it before running any script:
+
+```bash
+gunzip -k davita_recipes.db.gz
+```
+
 | Table | Contents |
 |---|---|
 | `recipes` | One row per source page: site, source name, language, URL, category, portions, serving size, 11 nutrients (number and raw text), carbohydrate choices, image, video, times. `canonical_id` links translations of the same recipe |

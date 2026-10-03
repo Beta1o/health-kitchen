@@ -1,0 +1,685 @@
+[
+ {
+  "id": 9810559,
+  "translations": {
+   "id": {
+    "title": "Sup Wortel dan Lentil",
+    "description": "Sup wortel dan lentil adalah hidangan yang menghangatkan, mengenyangkan, bergizi, dan mudah dibuat.",
+    "portions": "6 Porsi",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "1.5 cangkir lentil merah, dipilah + dibilas"
+     ],
+     [
+      null,
+      "1 bawang bombai kuning, dicincang halus"
+     ],
+     [
+      null,
+      "3 siung bawang putih, dikupas + dicincang halus"
+     ],
+     [
+      null,
+      "2 pon wortel, dikupas + dicincang kasar (sekitar 6 wortel besar)"
+     ],
+     [
+      null,
+      "1.5 pon ubi jalar, dikupas + dicincang kasar (sekitar 2 ubi sedang)"
+     ],
+     [
+      null,
+      "8 cangkir kaldu sayuran"
+     ],
+     [
+      null,
+      "2 sendok teh paprika asap"
+     ],
+     [
+      null,
+      "1.5 sendok teh jintan"
+     ],
+     [
+      null,
+      "garam + merica secukupnya"
+     ],
+     [
+      null,
+      "2-3 sendok makan air lemon secukupnya, opsional tetapi direkomendasikan"
+     ],
+     [
+      "Hiasan Opsional",
+      "peterseli segar, daun ketumbar, ketumbar, jahe segar parut, atau siraman minyak zaitun"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Masukkan bawang bombai dan bawang putih ke dalam panci besar bersama satu sendok makan air atau kaldu (atau minyak jika diinginkan) dan tumis dengan api sedang hingga bening, sekitar 5 menit."
+     ],
+     [
+      null,
+      "Lalu tambahkan semua bahan yang tersisa kecuali air lemon. Didihkan sup, lalu kecilkan api dan didihkan perlahan hingga lentil matang dan wortel serta ubi jalar empuk ditusuk garpu. Aduk sesekali."
+     ],
+     [
+      null,
+      "Matikan api dan gunakan blender tangan untuk menghaluskan sup. Lalu tambahkan air lemon, garam dan merica sesuai selera Anda, dan nikmati."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Mulailah dengan 8 cangkir kaldu, tetapi tambahkan lebih banyak jika Anda lebih suka sup yang lebih encer."
+     ],
+     [
+      null,
+      "Saat sisa makanan disimpan di lemari es, sup akan mengental. Anda dapat menambahkan air atau kaldu saat memanaskan kembali jika ingin mengencerkan sup."
+     ],
+     [
+      null,
+      "Sisa makanan dapat disimpan di lemari es selama 3-4 hari atau dibekukan hingga 3 bulan."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9811020,
+  "translations": {
+   "id": {
+    "title": "Dressing Green Goddess Alpukat [Bebas Minyak]",
+    "description": "Dengan banyak basil segar, dressing salad green goddess ini akan menambah warna dan rasa lezat pada salad Anda.",
+    "portions": "8 Porsi (Menghasilkan sekitar 1 cangkir)",
+    "serving_size": "2 sdm",
+    "ingredients": [
+     [
+      null,
+      "1 alpukat kecil, kulit + biji dibuang"
+     ],
+     [
+      null,
+      "½ cangkir daun basil segar, dipadatkan"
+     ],
+     [
+      null,
+      "¼ cangkir daun kucai"
+     ],
+     [
+      null,
+      "¼ cangkir cuka sari apel"
+     ],
+     [
+      null,
+      "2 sendok makan air lemon, sekitar setengah lemon besar"
+     ],
+     [
+      null,
+      "2 sendok makan tahini"
+     ],
+     [
+      null,
+      "1 siung bawang putih, dikupas"
+     ],
+     [
+      null,
+      "1 sendok makan sirup maple, opsional"
+     ],
+     [
+      null,
+      "1-2 sendok makan air jika perlu untuk mengencerkan"
+     ],
+     [
+      null,
+      "garam + merica secukupnya"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Masukkan semua bahan kecuali air ke dalam blender dan proses hingga halus. Tambahkan air jika lebih suka yang lebih encer dan blender kembali."
+     ],
+     [
+      null,
+      "Simpan dalam wadah kedap udara atau toples di lemari es hingga 1 minggu."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Untuk tekstur yang lebih halus dan lembut dengan warna yang merata, gunakan blender berkecepatan tinggi dan proses hingga benar-benar halus. Jika Anda lebih suka melihat potongan herba di dalamnya, gunakan food processor untuk memproses semua bahan hingga halus terlebih dahulu (tanpa cairan). Lalu tambahkan bahan cair dan pulse untuk mencampur. Simpan dressing Anda dalam toples kaca atau wadah kedap udara yang BERSIH. Simpan di lemari es hingga 1 minggu."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9811305,
+  "translations": {
+   "id": {
+    "title": "Kari Labu Butternut dan Buncis",
+    "description": "Kari buncis labu butternut ini penuh rasa dan dijamin mengesankan!",
+    "portions": "6 Porsi",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "2 pon labu butternut, dikupas + dipotong dadu setengah inci (sekitar 6 cangkir potongan dadu)"
+     ],
+     [
+      null,
+      "1 sendok makan minyak kelapa atau gunakan air atau kaldu untuk menumis agar bebas minyak"
+     ],
+     [
+      null,
+      "1 bawang bombai kuning, dipotong dadu"
+     ],
+     [
+      null,
+      "2 wortel, dikupas + dipotong dadu"
+     ],
+     [
+      null,
+      "1-2 cabai merah Thailand, dicincang halus, opsional untuk rasa pedas"
+     ],
+     [
+      null,
+      "6 siung bawang putih, dicincang halus"
+     ],
+     [
+      null,
+      "1 sendok makan jahe segar parut, sekitar satu ruas sebesar satu inci"
+     ],
+     [
+      null,
+      "4 ounce pasta kari merah Thai Kitchen, sekitar 5-6 sendok makan"
+     ],
+     [
+      null,
+      "2 sendok makan kecap asin atau Tamari untuk bebas gluten"
+     ],
+     [
+      null,
+      "2 sendok makan sirup maple"
+     ],
+     [
+      null,
+      "1 cangkir kacang polong beku"
+     ],
+     [
+      null,
+      "1 cangkir kaldu sayuran"
+     ],
+     [
+      null,
+      "13.5 ounce santan tanpa pemanis Thai Kitchen"
+     ],
+     [
+      null,
+      "1.5 cangkir buncis (chickpea), matang atau kalengan"
+     ],
+     [
+      null,
+      "4 cangkir kale, batang dibuang"
+     ],
+     [
+      null,
+      "2 sendok makan air jeruk nipis, sekitar 1 jeruk nipis besar"
+     ],
+     [
+      null,
+      "garam + merica secukupnya"
+     ],
+     [
+      "Opsional",
+      "1 cangkir daun ketumbar, batang tebal dibuang"
+     ],
+     [
+      "Opsional",
+      "1 cangkir kemangi Thai, dicincang"
+     ],
+     [
+      "Opsional",
+      "nasi merah dan/atau roti naan untuk penyajian"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Panaskan oven terlebih dahulu hingga 425°F/218°C dengan mode konveksi dan alasi loyang dengan kertas roti."
+     ],
+     [
+      null,
+      "Susun kubus labu Anda dalam satu lapisan di atas loyang dan taburi dengan garam dan merica. Lalu panggang selama 25-30 menit, atau hingga cokelat keemasan muda dan empuk ditusuk garpu. Sisihkan."
+     ],
+     [
+      null,
+      "Sementara itu, lelehkan minyak kelapa (jika digunakan) dalam wajan besar yang dalam (atau dutch oven) lalu masukkan bawang bombai dan wortel dan tumis hingga lunak dan sedikit berkaramel, sekitar 8-10 menit. Selanjutnya, tambahkan cabai, bawang putih, dan jahe dan aduk terus hingga harum, sekitar 30 detik."
+     ],
+     [
+      null,
+      "Masukkan pasta kari merah, kecap asin, sirup maple, kacang polong, kaldu, santan, buncis, dan kale ke dalam wajan dan didihkan perlahan selama 8-10 menit."
+     ],
+     [
+      null,
+      "Lalu matikan api dan tambahkan air jeruk nipis, ketumbar, dan kemangi jika digunakan, dan aduk masuk kubus labu butternut panggang. Cicipi dan tambahkan garam dan merica, jika perlu."
+     ],
+     [
+      null,
+      "Sajikan kari buncis labu butternut ini dengan nasi, roti naan, atau keripik pita."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Jika Anda tidak punya oven konveksi, gunakan 425°F/218°C mode panggang (atau roast, jika ada). Akan memerlukan tambahan 5-10 menit untuk memanggang, tergantung ukuran kubus Anda. Potong kubus labu butternut Anda sama rata mungkin agar waktu panggang merata. Sisa makanan dapat disimpan di lemari es selama 3-4 hari, panaskan kembali di atas kompor. Anda dapat membekukannya dalam wadah kedap udara yang aman untuk freezer hingga 3 bulan, tetapi tekstur sayuran akan menjadi lebih lunak."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9814933,
+  "translations": {
+   "id": {
+    "title": "Dip Cheesecake Vegan Gingerbread",
+    "description": "Dip cheesecake vegan yang luar biasa dengan cita rasa gingerbread yang menghangatkan.",
+    "portions": "8 Porsi",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "1 cangkir santan light dari kaleng"
+     ],
+     [
+      null,
+      "2 cangkir mete mentah atau almond blanched"
+     ],
+     [
+      null,
+      "¼ cangkir gula kelapa tidak murni"
+     ],
+     [
+      null,
+      "2 sendok makan molase sedang atau gelap"
+     ],
+     [
+      null,
+      "1 sendok teh jahe bubuk"
+     ],
+     [
+      null,
+      "1 sendok teh kayu manis"
+     ],
+     [
+      null,
+      "⅛ sendok teh pala"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Masukkan semua bahan ke dalam blender berkecepatan tinggi dan proses hingga halus dan lembut."
+     ],
+     [
+      null,
+      "Dinginkan dip di lemari es minimal 1 jam sebelum disajikan dengan irisan apel, nanas, stroberi, marshmallow, kue kering gingerbread, atau graham cracker."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Jika Anda tidak punya blender yang kuat, rendam mete Anda dalam air mendidih selama 30 menit terlebih dahulu. Ini akan melunakkannya sehingga lebih mudah diblender. Lalu tiriskan, masukkan ke blender bersama bahan lainnya, dan proses hingga halus. Dip cheesecake vegan dapat disimpan di lemari es selama 4-5 hari atau dibekukan hingga 2 bulan. TIPS – bekukan dip selama 1-2 jam dan nikmati sebagai es krim gingerbread vegan!"
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9816028,
+  "translations": {
+   "id": {
+    "title": "Sup Kacang Instant Pot dengan Buncis",
+    "description": "Sup Kacang Instant Pot menampilkan sayuran potongan besar seperti ubi jalar, zukini, dan jamur, bersama buncis dalam kuah kacang yang lembut.",
+    "portions": "6 porsi",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "1 paprika merah besar, dipotong dadu tebal"
+     ],
+     [
+      null,
+      "3 cangkir zukini, dipotong dadu tebal, sekitar 2 zukini sedang"
+     ],
+     [
+      null,
+      "2.5 cangkir ubi jalar, dipotong dadu, sekitar 1 ubi sedang"
+     ],
+     [
+      null,
+      "1 kemasan 8 ounce jamur cremini, dibelah dua, atau empat jika sangat besar"
+     ],
+     [
+      null,
+      "1 cangkir jagung beku"
+     ],
+     [
+      null,
+      "1 kaleng 15 ounce buncis (chickpea), ditiriskan & dibilas (sekitar 1.5 cangkir)"
+     ],
+     [
+      null,
+      "4 cangkir kaldu sayuran rendah natrium"
+     ],
+     [
+      null,
+      "½ cangkir selai kacang halus"
+     ],
+     [
+      null,
+      "3 sendok makan tamari atau kecap asin jika tidak menghindari gluten"
+     ],
+     [
+      null,
+      "1 sendok teh paprika asap"
+     ],
+     [
+      null,
+      "1 sendok teh jahe bubuk"
+     ],
+     [
+      null,
+      "1 sendok teh bawang putih bubuk"
+     ],
+     [
+      null,
+      "½ sendok teh cabai cayenne, opsional, tetapi direkomendasikan"
+     ],
+     [
+      "Hiasan Opsional",
+      "daun bawang"
+     ],
+     [
+      "Hiasan Opsional",
+      "kacang tanah cincang"
+     ],
+     [
+      "Hiasan Opsional",
+      "daun ketumbar segar"
+     ],
+     [
+      "Hiasan Opsional",
+      "sriracha"
+     ],
+     [
+      "Hiasan Opsional",
+      "irisan jalapeno"
+     ],
+     [
+      "Hiasan Opsional",
+      "irisan jeruk nipis"
+     ]
+    ],
+    "steps": [
+     [
+      "Petunjuk Instant Pot",
+      "Masukkan semua bahan ke dalam Instant Pot dan tutup, pastikan katup berada pada posisi menutup. Atur pada tekanan tinggi selama 2 menit, (dibutuhkan sekitar 15-20 menit untuk mencapai tekanan) lalu lepaskan uap dengan cepat setelah timer selesai."
+     ],
+     [
+      "Petunjuk Instant Pot",
+      "Sajikan dengan hiasan sesuai keinginan."
+     ],
+     [
+      "Petunjuk Kompor",
+      "Masukkan semua bahan ke dalam panci besar dan didihkan. Setelah mendidih, kecilkan api dan didihkan perlahan selama 12-15 menit, hingga sayuran empuk ditusuk garpu"
+     ],
+     [
+      "Petunjuk Kompor",
+      "Sajikan dengan hiasan sesuai keinginan."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Potong zukini dan jamur Anda lebih besar karena matang lebih cepat dan Anda tidak ingin terlalu lunak. Ubi jalar dapat sedikit lebih kecil karena waktu memasaknya lebih lama. Ini akan membuat sayuran matang merata. Lepaskan tekanan dengan cepat dan segera buka tutup (jika aman) setelah pemasakan bertekanan selesai, agar sayuran tidak terlalu matang. Sisa makanan dapat disimpan dalam wadah tertutup di lemari es hingga 4 hari."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9822376,
+  "translations": {
+   "id": {
+    "title": "Pesto Basil Lemon Bebas Kacang [Tanpa Minyak]",
+    "description": "Harum dan segar dengan basil, bawang putih, dan lemon untuk resep pesto bebas minyak sempurna yang Anda perlukan di dapur.",
+    "portions": "6 porsi (menghasilkan 1 cangkir)",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "2 cangkir daun basil segar, dipadatkan"
+     ],
+     [
+      null,
+      "3-4 siung bawang putih, dikupas"
+     ],
+     [
+      null,
+      "2 sendok makan air lemon, sekitar setengah lemon besar"
+     ],
+     [
+      null,
+      "½ sendok teh garam laut atau secukupnya"
+     ],
+     [
+      null,
+      "1-2 sendok makan air sesuai kebutuhan"
+     ],
+     [
+      null,
+      "2 cangkir daun ketumbar segar, dipadatkan"
+     ],
+     [
+      null,
+      "3-4 siung bawang putih, dikupas"
+     ],
+     [
+      null,
+      "2 sendok makan air jeruk nipis, sekitar 1 jeruk nipis kecil"
+     ],
+     [
+      null,
+      "1 jalapeno, biji dibuang agar kurang pedas"
+     ],
+     [
+      null,
+      "½ cangkir biji bunga matahari mentah, tanpa garam"
+     ],
+     [
+      null,
+      "½ sendok teh garam laut"
+     ],
+     [
+      null,
+      "2-4 sendok makan air sesuai kebutuhan"
+     ],
+     [
+      null,
+      "2 cangkir peterseli segar, dipadatkan"
+     ],
+     [
+      null,
+      "3-4 siung bawang putih, dikupas"
+     ],
+     [
+      null,
+      "2 sendok makan air lemon, sekitar setengah lemon besar"
+     ],
+     [
+      null,
+      "½ cangkir tomat kering"
+     ],
+     [
+      null,
+      "½ cangkir zaitun kalamata"
+     ],
+     [
+      null,
+      "¼ sendok teh garam laut"
+     ],
+     [
+      null,
+      "3-6 sendok makan air sesuai kebutuhan"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Masukkan semua bahan kecuali air ke dalam food processor atau blender. Proses hingga halus dan kerok sisi-sisinya sesuai kebutuhan."
+     ],
+     [
+      null,
+      "Tambahkan 1 sendok makan air sekali, sesuai kebutuhan hingga mencapai kekentalan yang diinginkan."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Anda dapat menyimpan pesto dalam toples di lemari es untuk digunakan dalam beberapa hari. Atau simpan beku hingga 6 bulan. Anda dapat mengganti basil dengan herba apa saja, sesuai keinginan. Cukup pertahankan rasio yang sama. Gunakan food processor untuk pesto dengan sedikit tekstur, atau blender untuk hasil yang lebih halus. Silakan gandakan atau lipat tigakan resep untuk membuat porsi beku untuk digunakan nanti. Ini sangat berguna saat memanen herba dari kebun Anda agar tidak ada yang terbuang."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9825585,
+  "translations": {
+   "id": {
+    "title": "Es Lilin Kelapa Jeruk Nipis",
+    "description": "Sebagian besar asam dengan sentuhan manis, es lilin ini adalah camilan musim panas yang sempurna. Sempurna untuk hari yang hangat untuk menyegarkan diri dari terik matahari dan dibuat hanya dengan 3 bahan!",
+    "portions": "7 es lilin",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "400ml santan lite"
+     ],
+     [
+      null,
+      "¼ cangkir air jeruk nipis, diperas segar dari sekitar 2 jeruk nipis"
+     ],
+     [
+      null,
+      "1 alpukat, kulit dan biji dibuang"
+     ],
+     [
+      null,
+      "2 sendok makan sirup maple, opsional"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Masukkan semua bahan ke dalam blender atau food processor dan proses hingga halus. Lalu tuang campuran dengan hati-hati ke dalam cetakan es lilin atau gelas plastik. Bekukan selama 6 jam atau semalaman."
+     ],
+     [
+      null,
+      "Saat siap dinikmati, alirkan bagian luar cetakan es lilin di bawah air suam-suam kuku selama beberapa detik dan lepaskan dengan hati-hati dari cetakannya."
+     ]
+    ],
+    "hints": [
+     [
+      null,
+      "Cicipi campuran sebelum dibekukan. Ambil sendok dan cicipi campuran es lilin jeruk nipis Anda (atau es lilin apa pun yang Anda buat) untuk menguji tingkat manis, asam, atau rasa lain yang mungkin ingin Anda tambahkan. Anda selalu dapat menambahkan sedikit lagi air jeruk nipis sebelum membekukannya, jika diinginkan. Saat memisahkan cetakan dari es lilin, berhati-hatilah agar tidak patah! Alirkan bagian luar cetakan es lilin Anda di bawah air suam-suam kuku di bak cuci dapur selama beberapa detik, lalu coba pisahkan dengan lembut. Gunakan gerakan ke samping, jangan ditarik. Ulangi hingga Anda dapat dengan mudah memisahkan es lilin jeruk nipis dari cetakannya, tanpa patah. Jika Anda memiliki sisa campuran es lilin jeruk nipis di akhir, bekukan sisanya dalam cetakan es batu untuk camilan mini. Isi cetakan Anda hingga hampir penuh. Es lilin hanya akan mengembang sedikit, jadi jangan menyisakan terlalu banyak ruang untuk mengembang, atau tongkat atau tutup Anda tidak akan menahan es lilin dengan baik. Pastikan membekukan es lilin Anda cukup lama! Hal terburuk yang dapat Anda lakukan adalah mengeluarkan es lilin dari cetakannya sebelum benar-benar padat. Saya suka memberi waktu minimal 6 jam untuk memastikan padat seluruhnya. Tidak punya cetakan es lilin? Tidak masalah! Gunakan gelas kertas dan bekukan dengan sisi terbuka menghadap ke atas selama sekitar 30-45 menit. Lalu tancapkan tongkat es lilin ke bagian tengah dan lanjutkan membekukan hingga benar-benar padat."
+     ]
+    ],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 9827404,
+  "translations": {
+   "id": {
+    "title": "Hidangan Satu Loyang Asparagus",
+    "description": "Hidangan satu loyang asparagus ini adalah makanan yang cepat, mudah, dan penuh rasa yang sempurna untuk malam hari kerja yang sibuk.",
+    "portions": "4 Porsi",
+    "serving_size": "1 porsi",
+    "ingredients": [
+     [
+      null,
+      "1 ikat asparagus (ujung dipotong dan dipotong menjadi batang 2 inci)"
+     ],
+     [
+      null,
+      "2 wortel (dikupas + diiris tipis menjadi batang 2 inci)"
+     ],
+     [
+      null,
+      "1 bawang bombai kuning (diiris)"
+     ],
+     [
+      null,
+      "1.5 cangkir buncis (chickpea) (matang atau kalengan)"
+     ],
+     [
+      null,
+      "1 cangkir nasi merah atau quinoa (atau biji-bijian pilihan Anda)"
+     ],
+     [
+      null,
+      "1/4 cangkir air lemon (sekitar 1 lemon)"
+     ],
+     [
+      null,
+      "1/4 cangkir kaldu sayuran"
+     ],
+     [
+      null,
+      "1 sendok makan biji wijen"
+     ],
+     [
+      null,
+      "1 sendok teh bawang putih bubuk"
+     ],
+     [
+      null,
+      "1 sendok teh oregano kering"
+     ],
+     [
+      null,
+      "garam + merica (secukupnya)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Panaskan oven terlebih dahulu hingga 425℉/218℃ dengan mode konveksi atau roast jika ada pengaturan roast, dan alasi loyang besar dengan kertas roti."
+     ],
+     [
+      null,
+      "Campurkan semua bahan marinasi dalam mangkuk kecil. Lalu masukkan sayuran dan buncis yang sudah disiapkan ke dalam mangkuk besar dan aduk dengan marinasi. Susun sayuran dalam satu lapisan di atas loyang dan panggang sekitar 20-25 menit, hingga cokelat keemasan."
+     ],
+     [
+      null,
+      "Sementara itu, siapkan biji-bijian pilihan Anda. Masak nasi, quinoa, atau biji-bijian pilihan Anda di atas kompor atau dalam penanak nasi sesuai petunjuk kemasan. (CATATAN: Gunakan kaldu sebagai pengganti air untuk memasak biji-bijian Anda agar lebih berasa.)"
+     ],
+     [
+      null,
+      "Sajikan biji-bijian matang Anda dalam mangkuk dengan sayuran dan buncis di atasnya."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ }
+]
