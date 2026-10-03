@@ -156,7 +156,7 @@ def main():
         shutil.rmtree(CHUNKS)
 
     # cuisines: one "American", "Latin American" for South America, and Middle Eastern split by country
-    rename = {"Native American": "American", "Southern": "American", "South American": "Latin American"}
+    rename = {"Native American": "American", "Southern": "American", "South American": "Latin American", "Latin": "Latin American", "Venezuelan": "Latin American", "North Africa": "North African"}
     by_dish = json.loads((HERE / "translations" / "cuisine_me.json").read_text(encoding="utf-8"))
     for rec in recipes:
         cu = {rename.get(c, c) for c in rec["cuisine"]}
