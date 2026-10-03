@@ -1,0 +1,5243 @@
+[
+ {
+  "id": 6345810,
+  "translations": {
+   "ar": {
+    "title": "سلطة كرنب بروكسل",
+    "description": "يُفضّل تحضير هذه الوصفة قبل يوم (أو قبل عدة ساعات) حتى يتشرّب كرنب بروكسل الصلصة جيدًا، لكن يمكن تقديمها فورًا عند الحاجة.",
+    "portions": "9",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "6 أكواب ماء"
+     ],
+     [
+      null,
+      "1 رطل كرنب بروكسل طازج"
+     ],
+     [
+      null,
+      "2 عود بصل أخضر (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "¼ كوب خل نبيذ الأرز"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خردل ديجون"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة بديل سكر قليل السعرات"
+     ],
+     [
+      null,
+      "¼ كوب مايونيز خفيف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "½ كوب لوز شرائح (محمّص)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في قدر كبيرة، أحضر 6 أكواب من الماء إلى الغليان. أضف كرنب بروكسل وأنضجه جزئيًا في الماء المغلي لمدة دقيقة واحدة. أخرجه من الماء المغلي واشطفه بماء بارد لإيقاف الطهي. جفّف الكرنب بمنشفة نظيفة."
+     ],
+     [
+      null,
+      "اقطع جذع كرنب بروكسل وشقّه إلى نصفين بالطول. باستخدام شفرة التقطيع في محضّر الطعام، عالج كرنب بروكسل ليتقطّع شرائح رفيعة. يمكنك أيضًا استخدام الجانب القاطع من المبشرة أو سكين حادة جدًا."
+     ],
+     [
+      null,
+      "في وعاء متوسط، اخفق البصل الأخضر والخل والخردل وصلصة الصويا والمُحلّي قليل السعرات أو الخالي منها والمايونيز والفلفل الأسود معًا."
+     ],
+     [
+      null,
+      "أضف كرنب بروكسل المقطّع واللوز المحمّص إلى الصلصة وامزج جيدًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6346471,
+  "translations": {
+   "es": {
+    "title": "Saltado peruano de pollo",
+    "description": "El saltado peruano se prepara tradicionalmente con carne de res, pero esta versión más saludable usa pollo sin perder los sabores tradicionales. Es una receta rústica, rápida y reconfortante que se puede duplicar fácilmente para una reunión (o para tener sobras).",
+    "portions": "4",
+    "serving_size": "1 taza",
+    "ingredients": [
+     [
+      null,
+      "1 libra de filetes de pechuga de pollo"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "3 cucharaditas de aceite de oliva (divididas)"
+     ],
+     [
+      null,
+      "1 cebolla morada entera (en rodajas finas)"
+     ],
+     [
+      null,
+      "2 tomates grandes (aprox. 1 libra) (sin el centro, partidos por la mitad y en rodajas)"
+     ],
+     [
+      null,
+      "2 dientes de ajo (picados)"
+     ],
+     [
+      null,
+      "2 cucharaditas de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "2 cucharaditas de vinagre de vino tinto"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Espolvoree el pollo con la sal y la pimienta. Caliente 2 cucharaditas de aceite en una sartén antiadherente grande a fuego medio-alto. Agregue el pollo y cocínelo hasta que se dore, unos 6 minutos. Páselo a un plato."
+     ],
+     [
+      null,
+      "Agregue la cebolla y la cucharadita de aceite restante y cocine, revolviendo de vez en cuando, hasta que se ablande, unos 5 minutos. Agregue los tomates, el ajo, la salsa de soya y el vinagre, y cocine, revolviendo de vez en cuando, hasta que los tomates se ablanden, unos 5 minutos."
+     ],
+     [
+      null,
+      "Regrese el pollo a la sartén y caliéntelo bien."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سالتادو الدجاج البيروفي",
+    "description": "يُحضَّر السالتادو البيروفي تقليديًا بلحم البقر، لكن هذه النسخة الأكثر صحة تستخدم الدجاج دون التخلي عن النكهات التقليدية. وصفة ريفية سريعة ومريحة يمكن مضاعفتها بسهولة لتكفي عددًا أكبر من الضيوف (أو للاحتفاظ بالفائض).",
+    "portions": "4",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "1 رطل شرائح صدور الدجاج"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "3 ملاعق صغيرة زيت زيتون (مقسّمة)"
+     ],
+     [
+      null,
+      "1 حبة بصل أحمر (مقطّعة شرائح رفيعة)"
+     ],
+     [
+      null,
+      "2 حبة طماطم كبيرة (حوالي 1 رطل) (منزوعة القلب ومقسومة إلى نصفين ومقطّعة شرائح)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة خل النبيذ الأحمر"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "رشّ الدجاج بالملح والفلفل. سخّن 2 ملعقة صغيرة من الزيت في مقلاة كبيرة غير لاصقة على نار متوسطة إلى عالية. أضف الدجاج واطهه حتى يحمرّ، حوالي 6 دقائق. انقله إلى طبق."
+     ],
+     [
+      null,
+      "أضف البصل وملعقة الزيت الصغيرة المتبقية (1 ملعقة صغيرة) واطهه مع التحريك من حين لآخر حتى يذبل، حوالي 5 دقائق. أضف الطماطم والثوم وصلصة الصويا والخل، واطهه مع التحريك من حين لآخر حتى تلين الطماطم، حوالي 5 دقائق."
+     ],
+     [
+      null,
+      "أعد الدجاج إلى المقلاة وسخّنه جيدًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6347356,
+  "translations": {
+   "es": {
+    "title": "Arroz frito de coliflor con pollo",
+    "description": "Este arroz frito de coliflor con pollo es una excelente opción baja en carbohidratos cuando se le antoja comida asiática. Con arroz de coliflor y verduras frescas, es una cena colorida y nutritiva que se prepara con facilidad.",
+    "portions": "4",
+    "serving_size": "1 taza",
+    "ingredients": [
+     [
+      null,
+      "2 cucharadas de aceite de aguacate"
+     ],
+     [
+      null,
+      "2 cucharaditas de jengibre fresco (picado)"
+     ],
+     [
+      null,
+      "2 dientes de ajo (picados)"
+     ],
+     [
+      null,
+      "1 taza de verduras mixtas (como guisantes, zanahorias, maíz, pimientos; picadas)"
+     ],
+     [
+      null,
+      "1 cabeza de coliflor (rallada o picada en granos de arroz)"
+     ],
+     [
+      null,
+      "2 cucharadas de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "1 cucharadita de aceite de ajonjolí"
+     ],
+     [
+      null,
+      "1 taza de pechuga de pollo sin hueso ni piel (cocida, en cubos)"
+     ],
+     [
+      null,
+      "1 huevo grande (batido)"
+     ],
+     [
+      null,
+      "3 tallos de cebolla de cambray (picados, para decorar)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una sartén antiadherente grande o en un wok, caliente 1 cucharada de aceite a fuego medio-alto."
+     ],
+     [
+      null,
+      "Agregue el jengibre y el ajo picados y saltéelos durante aproximadamente 1 minuto, hasta que desprendan aroma."
+     ],
+     [
+      null,
+      "Agregue a la sartén las verduras mixtas, el arroz de coliflor, la salsa de soya y el aceite de ajonjolí, y saltee revolviendo constantemente durante 7-8 minutos, hasta que esté cocido y dorado en algunas partes."
+     ],
+     [
+      null,
+      "Incorpore el pollo en cubos a la sartén."
+     ],
+     [
+      null,
+      "Empuje la mezcla hacia un lado de la sartén y agregue la cucharada de aceite restante en el espacio vacío. Vierta los huevos batidos en ese espacio. Revuelva los huevos hasta que apenas estén cocidos. Mezcle los huevos con la mezcla de verduras y pollo."
+     ],
+     [
+      null,
+      "Termine con la cebolla de cambray."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أرز القرنبيط المقلي بالدجاج",
+    "description": "أرز القرنبيط المقلي بالدجاج خيار رائع قليل الكربوهيدرات عندما تشتهي الطعام الآسيوي. بفضل أرز القرنبيط والخضار الطازجة، هو عشاء ملوّن ومغذٍّ وسهل التحضير.",
+    "portions": "4",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "2 ملعقة كبيرة زيت أفوكادو"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زنجبيل طازج (مفروم)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "1 كوب خضار مشكّلة (مثل البازلاء والجزر والذرة والفلفل الرومي؛ مقطّعة)"
+     ],
+     [
+      null,
+      "1 رأس قرنبيط (مبشور أو مفروم بحجم حبات الأرز)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زيت سمسم"
+     ],
+     [
+      null,
+      "1 كوب صدور دجاج بدون عظم وبدون جلد (مطبوخة، مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة (مخفوقة)"
+     ],
+     [
+      null,
+      "3 عود بصل أخضر (مفروم، للتزيين)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في مقلاة كبيرة غير لاصقة أو ووك، سخّن 1 ملعقة كبيرة من الزيت على نار متوسطة إلى عالية."
+     ],
+     [
+      null,
+      "أضف الزنجبيل والثوم المفرومين وقلّبهما لمدة دقيقة واحدة تقريبًا حتى تفوح رائحتهما."
+     ],
+     [
+      null,
+      "أضف الخضار المشكّلة وأرز القرنبيط وصلصة الصويا وزيت السمسم إلى المقلاة وقلّب لمدة 7-8 دقائق حتى تنضج ويحمرّ بعضها."
+     ],
+     [
+      null,
+      "أضف الدجاج المقطّع مكعبات إلى المقلاة وقلّب."
+     ],
+     [
+      null,
+      "ادفع الخليط إلى جانب المقلاة وأضف ملعقة الزيت الكبيرة المتبقية (1 ملعقة كبيرة) في المساحة الفارغة. اسكب البيض المخفوق في المساحة الفارغة. قلّب البيض حتى ينضج بالكاد. امزج البيض مع خليط الخضار والدجاج."
+     ],
+     [
+      null,
+      "أنهِ الطبق بالبصل الأخضر."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6348205,
+  "translations": {
+   "ar": {
+    "title": "قطع لحم الضأن مع البطاطس والخضار الربيعية",
+    "description": "لحم الضأن مثالي لموسم عيد الفصح وهو طبق مميز في أي وقت آخر من السنة. قطع ضلع الضأن قطعة طرية وقليلة الدهن يسهل شيّها. وهي خيار جيد لتجربته عندما تملّ من الدجاج واللحم البقري المعتادين. قدّمها مع خضار الربيع مثل الهليون والجزر.",
+    "portions": "4",
+    "serving_size": "1-2 قطعة ضأن + 1 حبة بطاطس و5 أعواد هليون و2 جزرة",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة + 2 ملعقة صغيرة زيت زيتون بكر ممتاز (مقسّم)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح خشن"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "3 ملاعق كبيرة إكليل الجبل (روزماري) طازج (مفروم، مقسّم)"
+     ],
+     [
+      null,
+      "1 رطل قطع ضلع ضأن قليلة الدهن (منزوعة الدهن)"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ],
+     [
+      null,
+      "4 حبات بطاطس حمراء صغيرة (مقطّعة أرباعًا مع القشرة)"
+     ],
+     [
+      null,
+      "8 جزرات متوسطة (مقسومة إلى نصفين)"
+     ],
+     [
+      null,
+      "1 حزمة هليون (حوالي 20 عودًا، مقطوعة الأطراف)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط 1 ملعقة كبيرة من زيت الزيتون مع الثوم والملح والفلفل وإكليل الجبل. غطِّ قطع الضأن بالكامل بالخليط ودعها تتتبّل لمدة ساعتين في الثلاجة. أخرجها من الثلاجة قبل الشيّ بـ 30 دقيقة."
+     ],
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 450° فهرنهايت (230° مئوية). رشّ صينية الخبز ببخاخ الطهي."
+     ],
+     [
+      null,
+      "ضع البطاطس في وعاء وقلّبها مع 1 ملعقة صغيرة من زيت الزيتون و2 ملعقة كبيرة من إكليل الجبل المفروم. ضعها على الصينية وضع الصينية في وسط الفرن المسخّن مسبقًا وحمّصها لمدة 10 دقائق."
+     ],
+     [
+      null,
+      "في الوعاء نفسه، ضع الجزر وقلّبه مع باقي الزيت وإكليل الجبل. أضفه إلى البطاطس مع الهليون وواصل التحميص لمدة 10 دقائق."
+     ],
+     [
+      null,
+      "في الأثناء، سخّن الشواية وضع قطع الضأن مباشرة عليها. اشوِها لمدة 5 دقائق، ثم اقلب القطع وواصل الشيّ لمدة 3 – 5 دقائق. يجب أن تصل درجة الحرارة الداخلية إلى 135° فهرنهايت (55° مئوية)."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6349071,
+  "translations": {
+   "ar": {
+    "title": "شوربة الدجاج والأرز البري",
+    "description": "الأرز البري حبوب كاملة وخيار أكثر صحة من الأرز الأبيض. هذه الشوربة مشبعة ومثالية لأيام الشتاء الباردة.",
+    "portions": "9",
+    "serving_size": "حوالي 1 كوب",
+    "ingredients": [
+     [
+      null,
+      "2 ملعقة صغيرة سمن نباتي (مارجرين) خالٍ من الدهون المتحولة"
+     ],
+     [
+      null,
+      "1 حبة بصل متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 جزرة متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 عود كرفس (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "1 كوب فطر أبيض (شامبينيون) (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "44 أونصة مرق دجاج قليل الصوديوم (خالٍ من الدهون)"
+     ],
+     [
+      null,
+      "1 كوب ماء (+ 1 ملعقة كبيرة ماء بارد، مقسّم)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة زعتر مجفف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح (اختياري)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة نشا الذرة"
+     ],
+     [
+      null,
+      "1 كوب أرز بري"
+     ],
+     [
+      null,
+      "2 كوب دجاج مطبوخ (مقطّع مكعبات)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ذوّب السمن النباتي في قدر شوربة كبيرة على نار متوسطة إلى عالية. أضف البصل وقلّبه لمدة 3 دقائق أو حتى يصبح شفافًا. أضف الجزر والكرفس والفطر وقلّبها لمدة 5 دقائق."
+     ],
+     [
+      null,
+      "أضف مرق الدجاج والماء والزعتر والفلفل الأسود والملح."
+     ],
+     [
+      null,
+      "في كوب صغير، امزج نشا الذرة مع 1 ملعقة كبيرة من الماء البارد. أضف الخليط إلى الشوربة."
+     ],
+     [
+      null,
+      "أحضرها إلى الغليان ثم أضف الأرز وقلّب."
+     ],
+     [
+      null,
+      "خفّف النار وغطِّ القدر واتركها على نار هادئة لمدة 45 دقيقة. أضف الدجاج المطبوخ وقلّب جيدًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6349432,
+  "translations": {
+   "es": {
+    "title": "Aguacate relleno de 4 capas",
+    "description": "Los aguacates están llenos de grasas monoinsaturadas saludables para el corazón y son una fuente de fibra baja en carbohidratos. Aquí cubrimos una mitad de aguacate con frijoles negros y salsa para un aperitivo o guarnición sencillo al estilo del suroeste. Puede usar su salsa envasada favorita o probar esta receta de salsa casera Casi Suave.",
+    "portions": "4",
+    "serving_size": "1 mitad de aguacate",
+    "ingredients": [
+     [
+      null,
+      "1/3 de taza de frijoles negros (escurridos y enjuagados)"
+     ],
+     [
+      null,
+      "2 aguacates medianos"
+     ],
+     [
+      null,
+      "4 cucharadas de yogur griego natural sin grasa"
+     ],
+     [
+      null,
+      "4 cucharadas de salsa"
+     ],
+     [
+      null,
+      "4 cucharaditas de queso cheddar o estilo mexicano rallado reducido en grasa"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "2 cucharaditas de jugo de limón verde fresco"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga los frijoles en un tazón pequeño. Con el reverso de un tenedor, macháquelos hasta que tengan una consistencia casi suave."
+     ],
+     [
+      null,
+      "Corte los aguacates por la mitad y quíteles el hueso. En el centro de cada mitad, coloque en capas 1 cucharada de frijoles, 1 cucharada de yogur griego y 1 cucharada de salsa, y espolvoree con 1 cucharadita de queso. Espolvoree la sal de manera uniforme sobre los aguacates. Sirva cada mitad de aguacate con 1 rodaja de limón para exprimir sobre el plato."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أفوكادو محشي بأربع طبقات",
+    "description": "الأفوكادو غني بالدهون الأحادية غير المشبعة الصحية للقلب، وهو مصدر للألياف قليل الكربوهيدرات. هنا نغطي نصف حبة أفوكادو بالفاصولياء السوداء والصلصة (السالسا) للحصول على وجبة خفيفة أو طبق جانبي بسيط بنكهة الجنوب الغربي. يمكنك استخدام صلصتك المعلّبة المفضلة، أو تجربة وصفة السالسا المنزلية شبه الناعمة.",
+    "portions": "4",
+    "serving_size": "نصف حبة أفوكادو",
+    "ingredients": [
+     [
+      null,
+      "⅓ كوب فاصولياء سوداء (مصفاة ومشطوفة)"
+     ],
+     [
+      null,
+      "2 حبة أفوكادو متوسطة"
+     ],
+     [
+      null,
+      "4 ملاعق كبيرة زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "4 ملاعق كبيرة صلصة سالسا"
+     ],
+     [
+      null,
+      "4 ملاعق صغيرة جبن شيدر أو جبن بنكهة مكسيكية مبشور قليل الدسم"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة عصير ليمون أخضر طازج"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع الفاصولياء في وعاء صغير. باستخدام ظهر الشوكة، اهرسها حتى تصبح شبه ناعمة."
+     ],
+     [
+      null,
+      "اقطع حبات الأفوكادو إلى نصفين وانزع النوى. في وسط كل نصف، ضع طبقات من 1 ملعقة كبيرة من الفاصولياء و1 ملعقة كبيرة من الزبادي اليوناني و1 ملعقة كبيرة من الصلصة، ثم رشّ 1 ملعقة صغيرة من الجبن. رشّ الملح بالتساوي على الأفوكادو. قدّم كل نصف أفوكادو مع شريحة ليمون واحدة لعصرها على الطبق."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6350887,
+  "translations": {
+   "es": {
+    "title": "Salsa de aguacate y frijoles negros",
+    "description": "Prepárese para darle un toque picante a su ensalada con esta ensalada de aguacate y frijoles negros de inspiración tex-mex. Colorida y fresca, prepárela la próxima vez que quiera una opción para el martes de tacos apta para personas con diabetes.",
+    "portions": "6",
+    "serving_size": "3/4 de taza",
+    "ingredients": [
+     [
+      null,
+      "2 latas (de 15 onzas) de frijoles negros (bajos en sodio, escurridos y enjuagados)"
+     ],
+     [
+      null,
+      "1 aguacate mediano (en cubos)"
+     ],
+     [
+      null,
+      "1 taza de maíz (granos enteros)"
+     ],
+     [
+      null,
+      "1 taza de tomates roma (en cubos)"
+     ],
+     [
+      null,
+      "1/2 taza de cebolla morada (finamente picada)"
+     ],
+     [
+      null,
+      "1/4 de taza de cilantro fresco (picado, más un poco para decorar)"
+     ],
+     [
+      null,
+      "1 chile jalapeño entero (sin semillas y finamente picado)"
+     ],
+     [
+      null,
+      "2 cucharadas de jugo de limón verde"
+     ],
+     [
+      null,
+      "2 cucharadas de aceite de oliva extra virgen"
+     ],
+     [
+      null,
+      "1 cucharadita de comino molido"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta negra"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón grande, combine los frijoles negros, el aguacate en cubos, los granos de maíz, los tomates en cubos, la cebolla morada finamente picada, el cilantro fresco picado y el jalapeño finamente picado."
+     ],
+     [
+      null,
+      "En un tazón pequeño, bata el jugo de limón verde, el aceite de oliva extra virgen, el comino molido, la sal y la pimienta negra."
+     ],
+     [
+      null,
+      "Vierta el aderezo sobre la ensalada y mezcle suavemente para que quede bien cubierta."
+     ],
+     [
+      null,
+      "Deje reposar la ensalada en el refrigerador durante 10 minutos para que se integren los sabores."
+     ],
+     [
+      null,
+      "Antes de servir, mezcle la ensalada una vez más. Decore con cilantro fresco si lo desea."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سالسا الأفوكادو والفاصولياء السوداء",
+    "description": "استعد لإضفاء نكهة حارة على سلطتك مع سلطة الأفوكادو والفاصولياء السوداء المستوحاة من المطبخ التكسي-مكسيكي. ملوّنة وطازجة، جرّبها في المرة القادمة التي ترغب فيها بخيار لثلاثاء التاكو مناسب لمرضى السكري.",
+    "portions": "6",
+    "serving_size": "¾ كوب",
+    "ingredients": [
+     [
+      null,
+      "2 علبة (15 أونصة) فاصولياء سوداء (قليلة الصوديوم، مصفاة ومشطوفة)"
+     ],
+     [
+      null,
+      "1 حبة أفوكادو متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 كوب ذرة (حبوب كاملة)"
+     ],
+     [
+      null,
+      "1 كوب طماطم روما (برقوقية) (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "½ كوب بصل أحمر (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "¼ كوب كزبرة خضراء طازجة (مفرومة، مع كمية إضافية للتزيين)"
+     ],
+     [
+      null,
+      "1 حبة فلفل هالابينو كاملة (منزوعة البذور ومفرومة ناعمًا)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة عصير ليمون أخضر"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة زيت زيتون بكر ممتاز"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كمون مطحون"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء كبير، اخلط الفاصولياء السوداء والأفوكادو المقطّع مكعبات وحبوب الذرة والطماطم المقطّعة مكعبات والبصل الأحمر المفروم ناعمًا والكزبرة الخضراء الطازجة المفرومة والهالابينو المفروم ناعمًا."
+     ],
+     [
+      null,
+      "في وعاء صغير، اخفق عصير الليمون الأخضر وزيت الزيتون البكر الممتاز والكمون المطحون والملح والفلفل الأسود معًا."
+     ],
+     [
+      null,
+      "اسكب الصلصة على السلطة وقلّبها برفق ليتغطى كل شيء بالتساوي."
+     ],
+     [
+      null,
+      "اترك السلطة تتتبّل في الثلاجة لمدة 10 دقائق لتتمازج النكهات."
+     ],
+     [
+      null,
+      "قبل التقديم، قلّب السلطة مرة أخرى. زيّنها بالكزبرة الخضراء الطازجة إن رغبت."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6352574,
+  "translations": {
+   "es": {
+    "title": "Requesón con piña y nueces",
+    "description": "¡Lleve su requesón a otro nivel con esta receta! Agregue hojas de menta encima para darle más frescura.",
+    "portions": "2",
+    "serving_size": "1 ¼ tazas",
+    "ingredients": [
+     [
+      null,
+      "1 taza de requesón (sin grasa)"
+     ],
+     [
+      null,
+      "1 taza de piña (en cubos)"
+     ],
+     [
+      null,
+      "2 cucharadas de nueces (picadas)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón, mezcle el requesón, los trozos de piña fresca y las nueces picadas."
+     ],
+     [
+      null,
+      "Divida la mezcla de requesón en tazones individuales. Sirva de inmediato y disfrute de este platillo refrescante y rico en proteínas."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "جبن قريش مع الأناناس والجوز",
+    "description": "ارتقِ بجبن القريش إلى مستوى جديد مع هذه الوصفة! زيّنه بأوراق النعناع لمزيد من الانتعاش.",
+    "portions": "2",
+    "serving_size": "1 ¼ كوب",
+    "ingredients": [
+     [
+      null,
+      "1 كوب جبن قريش (خالٍ من الدسم)"
+     ],
+     [
+      null,
+      "1 كوب أناناس (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة جوز (مفروم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء، اخلط جبن القريش وقطع الأناناس الطازج والجوز المفروم."
+     ],
+     [
+      null,
+      "وزّع خليط جبن القريش على أوعية التقديم. قدّمه فورًا واستمتع بهذا الطبق المنعش الغني بالبروتين."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6352737,
+  "translations": {
+   "ar": {
+    "title": "بيض مخلل محشو بالحمص",
+    "description": "جرّب هذه النسخة المختلفة من البيض المحشي التقليدي. استبدل الصفار بخليط منعش من البقوليات لتقليل السعرات والدهون والكوليسترول. سيستمتع ضيوفك به بالقدر نفسه!",
+    "portions": "8",
+    "serving_size": "2 نصف بيضة",
+    "ingredients": [
+     [
+      null,
+      "8 بيضات كبيرة (مسلوقة جيدًا ومقشّرة)"
+     ],
+     [
+      null,
+      "1 علبة (14.5 أونصة) حمص (مصفى ومشطوف)"
+     ],
+     [
+      null,
+      "2 فص ثوم"
+     ],
+     [
+      null,
+      "1 حبة ليمون صغيرة (مبشورة القشر ومعصورة)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "¼ كوب مرق خضار قليل الصوديوم"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "¼ كوب صلصة سالسا"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بقدونس طازج مفروم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اقطع البيض المسلوق إلى نصفين بالطول وتخلّص من الصفار."
+     ],
+     [
+      null,
+      "ضع الحمص والثوم وبشر الليمون وعصير الليمون وزيت الزيتون والمرق والملح والفلفل والسالسا والبقدونس في خلاط أو محضّر طعام. عالجها حتى يصبح الحمص ناعمًا."
+     ],
+     [
+      null,
+      "احشُ كل نصف بيضة بملعقة كبيرة مكوّمة من الحمص."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6353740,
+  "translations": {
+   "es": {
+    "title": "Shakshuka de garbanzos",
+    "description": "La shakshuka de garbanzos es una versión deliciosa y nutritiva de la shakshuka clásica. Para añadir más proteína de origen vegetal, se agregan garbanzos a este desayuno lleno de sabor.",
+    "portions": "4",
+    "serving_size": "1/4 de la sartén + 1/4 de pan pita pequeño",
+    "ingredients": [
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "1 cebolla amarilla mediana (picada)"
+     ],
+     [
+      null,
+      "3 dientes de ajo"
+     ],
+     [
+      null,
+      "1 cucharadita de comino"
+     ],
+     [
+      null,
+      "1 cucharadita de pimentón ahumado"
+     ],
+     [
+      null,
+      "1/2 cucharadita de cilantro molido"
+     ],
+     [
+      null,
+      "1 lata (de 14 onzas) de tomates en cubos (sin sal agregada)"
+     ],
+     [
+      null,
+      "1 lata (de 14 onzas) de garbanzos (bajos en sodio, escurridos y enjuagados)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal (dividida)"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "4 huevos grandes"
+     ],
+     [
+      null,
+      "1 cucharada de albahaca fresca (picada, para decorar)"
+     ],
+     [
+      null,
+      "1 pan pita integral pequeño (cortado en cuartos)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente el aceite de oliva en una sartén grande a fuego medio."
+     ],
+     [
+      null,
+      "Agregue la cebolla picada y cocínela hasta que se ablande, unos 5 minutos."
+     ],
+     [
+      null,
+      "Añada el ajo picado y cocine 30 segundos más."
+     ],
+     [
+      null,
+      "Espolvoree el comino molido, el pimentón y el cilantro molido sobre la cebolla y el ajo."
+     ],
+     [
+      null,
+      "Vierta los tomates en cubos y los garbanzos. Sazone con ½ cucharadita de sal y de pimienta (de cada una). Cocine a fuego lento de 10 a 15 minutos, hasta que la mezcla espese."
+     ],
+     [
+      null,
+      "Haga pequeños huecos en la mezcla y rompa un huevo en cada uno. Espolvoree con ½ cucharadita de sal."
+     ],
+     [
+      null,
+      "Tape la sartén y cocine de 5 a 7 minutos, o hasta que las claras estén cuajadas pero las yemas todavía estén líquidas (ajuste el tiempo de cocción según su preferencia de cocción del huevo)."
+     ],
+     [
+      null,
+      "Decore con albahaca fresca picada y sirva con un trozo de pan pita."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شكشوكة الحمص",
+    "description": "شكشوكة الحمص نسخة شهية ومغذّية من الشكشوكة الكلاسيكية. ولإضافة مزيد من البروتين النباتي، يُضاف الحمص إلى هذا الفطور الغني بالنكهة.",
+    "portions": "4",
+    "serving_size": "¼ المقلاة + ¼ خبز بيتا صغير",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 حبة بصل أصفر متوسطة (مفرومة)"
+     ],
+     [
+      null,
+      "3 فص ثوم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كمون"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بابريكا مدخنة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كزبرة مطحونة"
+     ],
+     [
+      null,
+      "1 علبة (14 أونصة) طماطم معلّبة مقطّعة مكعبات (بدون ملح مضاف)"
+     ],
+     [
+      null,
+      "1 علبة (14 أونصة) حمص معلّب (قليل الصوديوم، مصفى ومشطوف)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح (مقسّمة)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "4 بيضات كبيرة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ريحان طازج (مفروم، للتزيين)"
+     ],
+     [
+      null,
+      "1 رغيف بيتا صغير من القمح الكامل (مقطّع أرباعًا)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن زيت الزيتون في مقلاة كبيرة على نار متوسطة."
+     ],
+     [
+      null,
+      "أضف البصل المفروم واطهه حتى يذبل، حوالي 5 دقائق."
+     ],
+     [
+      null,
+      "أضف الثوم المفروم واطهه 30 ثانية أخرى."
+     ],
+     [
+      null,
+      "رشّ الكمون المطحون والبابريكا والكزبرة المطحونة على البصل والثوم."
+     ],
+     [
+      null,
+      "اسكب الطماطم المقطّعة والحمص. تبّل بـ ½ ملعقة صغيرة من الملح ومثلها من الفلفل. اتركها على نار هادئة لمدة 10–15 دقيقة حتى يتكاثف الخليط."
+     ],
+     [
+      null,
+      "اصنع حفرًا صغيرة في الخليط واكسر بيضة في كل حفرة. رشّ ½ ملعقة صغيرة من الملح."
+     ],
+     [
+      null,
+      "غطِّ المقلاة واطهِ لمدة 5–7 دقائق، أو حتى يتماسك بياض البيض بينما يبقى الصفار سائلًا (اضبط وقت الطهي بحسب درجة نضج البيض التي تفضّلها)."
+     ],
+     [
+      null,
+      "زيّنه بالريحان الطازج المفروم وقدّمه مع قطعة من خبز البيتا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6354484,
+  "translations": {
+   "ar": {
+    "title": "سلطة على طريقة السيزر بالفلفل والفستق مع الدجاج",
+    "description": "هذه السلطة الرئيسية تتناسب تمامًا مع خبز الثوم كطبق جانبي. يمكنك أيضًا شيّ الدجاج وتحضير الصلصة مسبقًا لتعبئتها كغداء خلال الأسبوع.",
+    "portions": "4",
+    "serving_size": "2 كوب",
+    "ingredients": [
+     [
+      null,
+      "4 فخذ دجاج بدون عظم وبدون جلد (3 أونصات لكل واحدة)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زيت الكانولا"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة ملح خشن"
+     ],
+     [
+      null,
+      "⅓ كوب حمص"
+     ],
+     [
+      null,
+      "3 ملاعق كبيرة شاي أخضر غير محلّى (بارد)"
+     ],
+     [
+      null,
+      "2½ ملعقة كبيرة جبن بارميجيانو ريجيانو (مبشور)"
+     ],
+     [
+      null,
+      "2 فص ثوم (فصوص كبيرة)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خردل ديجون"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة صلصة ورسترشير"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة عصير ليمون"
+     ],
+     [
+      null,
+      "1¼ ملعقة صغيرة حبوب فلفل أسود (مجروشة طازجة، مقسّمة)"
+     ],
+     [
+      null,
+      "8 أكواب خضروات ورقية مشكّلة (8 أونصات)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة فستق (محمّص ومقشّر ومفروم، مملح قليلًا)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن شواية أو مقلاة شواء. دهن الدجاج بالزيت ورشّه بالملح. اشوِه على نار متوسطة مباشرة حتى ينضج تمامًا وتظهر علامات الشواء. ضعه جانبًا."
+     ],
+     [
+      null,
+      "ضع الحمص والشاي والجبن والثوم والخردل وصلصة ورسترشير وعصير الليمون و1 ملعقة صغيرة من حبوب الفلفل في خلاط. غطِّه واخلط حتى يصبح ناعمًا."
+     ],
+     [
+      null,
+      "عند التقديم، قلّب الصلصة مع الخضروات الورقية في وعاء خلط كبير. انقلها إلى 4 أوعية أو أطباق منفصلة، وضع فوقها الدجاج المشوي، ورشّ الفستق وباقي حبوب الفلفل (¼ ملعقة صغيرة)، ثم قدّمها."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6356142,
+  "translations": {
+   "ar": {
+    "title": "مافن رغيف اللحم مع طبقة البطاطا الحلوة",
+    "description": "هذه الوجبة الصحية سهلة جدًا ولذيذة. كما أنها تُخبز أسرع من رغيف اللحم الكبير بسبب صغر حجم المافن.",
+    "portions": "12",
+    "serving_size": "1 كعكة مافن",
+    "ingredients": [
+     [
+      null,
+      "2 حبة بطاطا حلوة متوسطة"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة سمن نباتي (مارجرين) خالٍ من الدهون المتحولة"
+     ],
+     [
+      null,
+      "20 أونصة لحم ديك رومي مفروم قليل الدهن"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة (مخفوقة قليلًا)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة مسحوق التشيلي"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "⅓ كوب بصل (مقطّع مكعبات صغيرة)"
+     ],
+     [
+      null,
+      "½ كوب دقيق الذرة أو الشوفان (شوفان خالٍ من الغلوتين إذا كنت تتبع نظامًا خاليًا من الغلوتين)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة كاتشب"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 425 درجة فهرنهايت (220° مئوية). بطّن قالب المافن بأكواب ورقية."
+     ],
+     [
+      null,
+      "نظّف حبات البطاطا واثقبها عدة مرات بالشوكة. اخبزها في الفرن لمدة 20 دقيقة. أخرجها من الفرن وسخّنها في الميكروويف 5 دقائق إضافية أو حتى تلين. انزع القشر وضع البطاطا في وعاء متوسط. اهرسها بالمهراس واخفق معها السمن النباتي. امزج جيدًا."
+     ],
+     [
+      null,
+      "في وعاء متوسط، امزج مكونات رغيف اللحم معًا."
+     ],
+     [
+      null,
+      "ضع حوالي ¼ كوب من خليط رغيف اللحم في كل كوب مبطّن من قالب المافن. اخبزها لمدة 25 دقيقة."
+     ],
+     [
+      null,
+      "ضع على كل مافن رغيف لحم مطبوخ مغرفة من البطاطا الحلوة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6356826,
+  "translations": {
+   "ar": {
+    "title": "كينوا بالسبانخ وصنوبر",
+    "description": "هذا الطبق الجانبي الغني بالعناصر الغذائية يتناسب تمامًا مع السمك أو الدجاج أو لحم الخنزير.",
+    "portions": "6",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "1 كوب كينوا (جافة)"
+     ],
+     [
+      null,
+      "2 كوب مرق خضار قليل الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "6 أونصات سبانخ صغيرة (بيبي)"
+     ],
+     [
+      null,
+      "¼ كوب صنوبر (محمّص)"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة جبن بارميزان (مبشور طازجًا)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اطهِ الكينوا بحسب إرشادات العبوة مع مرق الدجاج."
+     ],
+     [
+      null,
+      "سخّن زيت الزيتون في مقلاة على نار متوسطة إلى عالية. أضف الثوم وقلّبه لمدة 30 ثانية. أضف السبانخ وقلّبها لمدة 5 دقائق تقريبًا."
+     ],
+     [
+      null,
+      "اسكب الكينوا المطبوخة في وعاء متوسط؛ أضف السبانخ وباقي المكونات وامزج جيدًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6357497,
+  "translations": {
+   "es": {
+    "title": "Tortilla francesa de salmón ahumado y yogur griego",
+    "description": "Esta elegante tortilla combina salmón ahumado sedoso con yogur griego cremoso y eneldo fresco para comenzar el día con un desayuno rico en proteínas y muy satisfactorio. Es una opción inteligente de desayuno para quienes cuidan su nivel de glucosa en la sangre (azúcar en la sangre), gracias a su bajo contenido de carbohidratos y su proteína equilibrada.",
+    "portions": "4",
+    "serving_size": "1 tortilla",
+    "ingredients": [
+     [
+      null,
+      "4 huevos grandes"
+     ],
+     [
+      null,
+      "1/2 taza de claras de huevo"
+     ],
+     [
+      null,
+      "1/4 de taza de leche al 1%"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "2 onzas de salmón ahumado en frío (bajo en sodio, picado)"
+     ],
+     [
+      null,
+      "1/4 de taza de yogur griego natural sin grasa"
+     ],
+     [
+      null,
+      "1 cucharada de eneldo fresco (picado, más un poco para decorar)"
+     ],
+     [
+      null,
+      "1/2 cebolla morada pequeña (en rodajas finas)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón, bata los huevos, las claras, la leche, la sal y la pimienta hasta obtener una mezcla homogénea."
+     ],
+     [
+      null,
+      "Caliente el aceite de oliva en una sartén antiadherente a fuego medio-bajo. Vierta ¼ de la mezcla de huevo en la sartén y gire la sartén para cubrir el fondo. Cocine hasta que los bordes comiencen a cuajar, unos 2 minutos."
+     ],
+     [
+      null,
+      "Agregue ¼ del salmón ahumado, una cucharada de yogur griego, eneldo fresco y cebolla morada a un lado de la tortilla."
+     ],
+     [
+      null,
+      "Con cuidado, doble la tortilla sobre el relleno y cocine durante 30 segundos para que se caliente por completo."
+     ],
+     [
+      null,
+      "Pásela a un plato y repita con los demás ingredientes."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أومليت السلمون المدخّن والزبادي اليوناني",
+    "description": "يجمع هذا الأومليت الأنيق بين السلمون المدخّن الناعم والزبادي اليوناني الكريمي والشبت الطازج ليمنحك بداية يوم غنية بالبروتين ومشبعة. وهو خيار فطور ذكي لمن يراقبون مستوى الغلوكوز في الدم (سكر الدم)، بفضل انخفاض الكربوهيدرات فيه وتوازن البروتين.",
+    "portions": "4",
+    "serving_size": "1 أومليت",
+    "ingredients": [
+     [
+      null,
+      "4 بيضات كبيرة"
+     ],
+     [
+      null,
+      "½ كوب بياض بيض"
+     ],
+     [
+      null,
+      "¼ كوب حليب 1%"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 أونصة سلمون مدخّن على البارد (قليل الصوديوم، مفروم)"
+     ],
+     [
+      null,
+      "¼ كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة شبت طازج (مفروم، مع كمية إضافية للتزيين)"
+     ],
+     [
+      null,
+      "½ حبة بصل أحمر صغيرة (مقطّعة شرائح رفيعة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء، اخفق البيض وبياض البيض والحليب والملح والفلفل حتى يصبح الخليط ناعمًا."
+     ],
+     [
+      null,
+      "سخّن زيت الزيتون في مقلاة غير لاصقة على نار متوسطة إلى منخفضة. اسكب ¼ خليط البيض في المقلاة مع تحريك المقلاة ليغطي القاع. اطهه حتى تبدأ الأطراف في التماسك، حوالي دقيقتين."
+     ],
+     [
+      null,
+      "ضع ¼ كمية السلمون المدخّن وملعقة من الزبادي اليوناني والشبت الطازج والبصل الأحمر على أحد جانبي الأومليت."
+     ],
+     [
+      null,
+      "اطوِ الأومليت برفق فوق الحشوة واتركه على النار 30 ثانية ليسخن من الداخل."
+     ],
+     [
+      null,
+      "انقله إلى طبق وكرّر العملية مع بقية المكونات."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6358049,
+  "translations": {
+   "ar": {
+    "title": "برغر الديك الرومي الآسيوي الاقتصادي",
+    "description": "هل تبحث عن طريقة لإضفاء نكهة مميزة على البرغر؟ هذه الوصفة مناسبة لك! يمكنك العثور على الصلصات المستخدمة فيها مثل صلصة المحار وصلصة الفلفل والثوم التايلاندية والسريراتشا في قسم الأطعمة العالمية في معظم محلات البقالة.",
+    "portions": "6",
+    "serving_size": "1 برغر",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة صلصة المحار (إذا لم تجدها، استبدلها بـ 1 ملعقة كبيرة صلصة صويا مخفضة الصوديوم)"
+     ],
+     [
+      null,
+      "20 أونصة لحم ديك رومي مفروم قليل الدهن (خالٍ من الدهون بنسبة 93%)"
+     ],
+     [
+      null,
+      "2 عود بصل أخضر (مفروم ناعمًا، الجزء الأبيض والأخضر)"
+     ],
+     [
+      null,
+      "1 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة معجون الفلفل والثوم على الطريقة التايلاندية"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زيت سمسم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زنجبيل طازج (مبشور)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير ليمون أخضر"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح (اختياري)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "⅓ كوب زبادي سادة (خالٍ من الدسم)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة صلصة سريراتشا"
+     ],
+     [
+      null,
+      "12 ورقة خس بيب أو بوسطن"
+     ],
+     [
+      null,
+      "18 شريحة خيار"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "جهّز شواية داخلية أو خارجية."
+     ],
+     [
+      null,
+      "في وعاء كبير، اخلط لحم الديك الرومي المفروم والبصل الأخضر والثوم وصلصة المحار ومعجون الفلفل والثوم وزيت السمسم والزنجبيل المبشور وعصير الليمون الأخضر والملح (اختياري) والفلفل. شكّل الخليط 6 أقراص وضعها في الثلاجة حتى موعد الشيّ، لمدة 15 دقيقة على الأقل."
+     ],
+     [
+      null,
+      "اشوِ البرغر لمدة 5-7 دقائق على كل جانب أو حتى تصل درجة الحرارة الداخلية للبرغر إلى 165 درجة فهرنهايت (75° مئوية)."
+     ],
+     [
+      null,
+      "لتجميع البرغر، اخلط الزبادي والسريراتشا في وعاء صغير. ضع كل قرص برغر بين ورقتي خس مع أقل قليلًا من 1 ملعقة كبيرة من خليط الزبادي و3 شرائح خيار."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6359083,
+  "translations": {
+   "es": {
+    "title": "Avena con jengibre",
+    "description": "Comience su día con una satisfactoria avena con jengibre, un delicioso desayuno apto para personas con diabetes y muy saciante. La avena cremosa, infusionada suavemente con el calor del jengibre, aporta un toque reconfortante y ligeramente picante a su rutina matutina. Está llena de semillas de chía para aumentar la fibra y los ácidos grasos omega-3 saludables para el corazón. Cúbrala con una mezcla vibrante de frutos rojos frescos que aportan un estallido de dulzura natural y antioxidantes. Espolvoree nueces picadas para darle un toque crujiente y una dosis adicional de beneficios para el corazón.",
+    "portions": "4",
+    "serving_size": "1/2 taza de avena + ¼ de taza de frutos rojos",
+    "ingredients": [
+     [
+      null,
+      "1 taza de avena en hojuelas tradicional"
+     ],
+     [
+      null,
+      "2 tazas de leche descremada"
+     ],
+     [
+      null,
+      "2 cucharaditas de sustituto de azúcar morena"
+     ],
+     [
+      null,
+      "1 cucharada de jengibre fresco (rallado)"
+     ],
+     [
+      null,
+      "1 cucharada de semillas de chía"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de canela molida"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de extracto de vainilla"
+     ],
+     [
+      null,
+      "1/2 taza de frambuesas"
+     ],
+     [
+      null,
+      "1/2 taza de arándanos azules"
+     ],
+     [
+      null,
+      "2 cucharadas de nueces (picadas)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una cacerola mediana, caliente la leche a fuego lento hasta que hierva suavemente."
+     ],
+     [
+      null,
+      "Agregue la avena, el sustituto de azúcar morena, el jengibre rallado, las semillas de chía, la canela y la vainilla."
+     ],
+     [
+      null,
+      "Cocine la mezcla a fuego medio, revolviendo de vez en cuando, hasta que la avena esté cremosa y el líquido se haya absorbido (unos 5-7 minutos)."
+     ],
+     [
+      null,
+      "Sirva la avena en tazones y cúbrala con los frutos rojos frescos y las nueces."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شوفان بالزنجبيل",
+    "description": "ابدأ يومك بطبق شوفان بالزنجبيل مشبع، وهو فطور شهي مناسب لمرضى السكري. يمنح الشوفان الكريمي المنقوع برفق بدفء الزنجبيل لمسة مريحة وحارة قليلًا لروتين صباحك. وهو غني ببذور الشيا التي تزيد الألياف وأحماض أوميغا 3 الدهنية المفيدة للقلب. زيّنه بمزيج زاهٍ من التوت الطازج الذي يمنحك حلاوة طبيعية ومضادات أكسدة. ورشّ عليه الجوز المفروم للحصول على قرمشة مشبعة وجرعة إضافية من الفوائد الصحية للقلب.",
+    "portions": "4",
+    "serving_size": "½ كوب شوفان + ¼ كوب توت",
+    "ingredients": [
+     [
+      null,
+      "1 كوب شوفان مسطّح تقليدي"
+     ],
+     [
+      null,
+      "2 كوب حليب خالٍ من الدسم"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة بديل السكر البني"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زنجبيل طازج (مبشور)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بذور الشيا"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة قرفة مطحونة"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة خلاصة الفانيليا"
+     ],
+     [
+      null,
+      "½ كوب توت العليق"
+     ],
+     [
+      null,
+      "½ كوب توت أزرق"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة جوز (مفروم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في قدر متوسطة، سخّن الحليب حتى يغلي غليانًا هادئًا."
+     ],
+     [
+      null,
+      "أضف الشوفان وبديل السكر البني والزنجبيل المبشور وبذور الشيا والقرفة والفانيليا وقلّب."
+     ],
+     [
+      null,
+      "اطهِ الخليط على نار متوسطة مع التحريك من حين لآخر حتى يصبح الشوفان كريميًا ويُمتصّ السائل (حوالي 5–7 دقائق)."
+     ],
+     [
+      null,
+      "قدّم الشوفان في أوعية مزيّنًا بالتوت الطازج والجوز."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6359828,
+  "translations": {
+   "es": {
+    "title": "Tostada de bistec a la parrilla con pimienta",
+    "description": "Estas tostadas se cubren con filete magro asado en lonjas finas, aguacate cremoso, tomates cherry y una salsa verde fresca para una comida entre semana fresca y sabrosa. Ase el bistec y las tortillas en una plancha acanalada o en una parrilla al aire libre, y agregue unas rodajas de chile jalapeño para darle más picante.",
+    "portions": "4",
+    "serving_size": "2 tostadas",
+    "ingredients": [
+     [
+      null,
+      "12 onzas de bistec magro (asado de ojo de round, punta de solomillo, round superior o round inferior)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal (kosher)"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "2 rociadas, 0.5 g de aceite en aerosol antiadherente"
+     ],
+     [
+      null,
+      "8 tortillas de maíz pequeñas (de 6 pulgadas)"
+     ],
+     [
+      null,
+      "1/2 taza de salsa verde (salsa de tomatillo)"
+     ],
+     [
+      null,
+      "1 aguacate grande (en rodajas)"
+     ],
+     [
+      null,
+      "1 taza de tomates cherry (en cuartos)"
+     ],
+     [
+      null,
+      "1/4 de taza de cilantro fresco (picado)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Saque el bistec del refrigerador 30 minutos antes de asarlo. Frote el bistec con la sal y la pimienta."
+     ],
+     [
+      null,
+      "Precaliente una plancha acanalada, una sartén o una parrilla al aire libre a fuego medio-alto."
+     ],
+     [
+      null,
+      "Cuando la plancha esté caliente, úntela con aceite. Agregue el bistec y cocínelo de 6 a 8 minutos por lado, hasta que alcance el término deseado. Retírelo del fuego, colóquelo en un plato y déjelo reposar 5 minutos antes de cortarlo en tiras finas."
+     ],
+     [
+      null,
+      "Limpie la plancha con una toalla de papel y rocíela ligeramente con aceite en aerosol. Vuelva a ponerla a fuego medio."
+     ],
+     [
+      null,
+      "Coloque dos tortillas en la plancha y áselas de 2 a 3 minutos, solo hasta que se tuesten. Voltéelas y tuéstelas de 2 a 3 minutos más. Retírelas y ase las tortillas restantes."
+     ],
+     [
+      null,
+      "Cubra las tortillas con la salsa verde, el bistec en tiras, las rodajas de aguacate, los tomates en cubos y el cilantro."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "توستادا شريحة اللحم المشوية بالفلفل",
+    "description": "تُغطّى هذه التوستادا بشرائح رفيعة من اللحم الخالي من الدهن المشوي والأفوكادو الكريمي وطماطم الكرز وصلصة سالسا فيردي المنعشة لوجبة طازجة ولذيذة في أيام الأسبوع. اشوِ اللحم والتورتيلا على مقلاة شواء أو شواية خارجية، وأضف بضع شرائح من فلفل الهالابينو لمزيد من الحرارة.",
+    "portions": "4",
+    "serving_size": "2 توستادا",
+    "ingredients": [
+     [
+      null,
+      "12 أونصة شريحة لحم قليلة الدهن (لحم عجل مشوي من الفخذ، أو طرف السيرلوين، أو الفخذ العلوي، أو الفخذ السفلي)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح (خشن)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "2 بخّة، 0.5 جم بخاخ طهي غير لاصق"
+     ],
+     [
+      null,
+      "8 تورتيلا ذرة صغيرة (6 بوصات)"
+     ],
+     [
+      null,
+      "½ كوب سالسا فيردي (صلصة الطماطم الخضراء توماتيو)"
+     ],
+     [
+      null,
+      "1 حبة أفوكادو كبيرة (مقطّعة شرائح)"
+     ],
+     [
+      null,
+      "1 كوب طماطم كرز (مقطّعة أرباعًا)"
+     ],
+     [
+      null,
+      "¼ كوب كزبرة خضراء طازجة (مفرومة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "أخرج اللحم من الثلاجة قبل الشيّ بـ 30 دقيقة. افرك اللحم بالملح والفلفل."
+     ],
+     [
+      null,
+      "سخّن مقلاة شواء داخلية أو مقلاة عادية أو شواية خارجية على نار متوسطة إلى عالية."
+     ],
+     [
+      null,
+      "عندما تسخن مقلاة الشواء، ادهنها بالزيت. أضف اللحم واطهه من 6 إلى 8 دقائق لكل جانب حتى يصل إلى درجة النضج المطلوبة. ارفعه عن النار وضعه جانبًا على طبق؛ واتركه يرتاح 5 دقائق قبل تقطيعه إلى شرائح رفيعة."
+     ],
+     [
+      null,
+      "امسح مقلاة الشواء بمنديل ورقي ورشّها قليلًا ببخاخ الطهي. أعدها إلى نار متوسطة."
+     ],
+     [
+      null,
+      "ضع تورتيلتين على مقلاة الشواء واشوِهما من 2 إلى 3 دقائق، حتى تحمّصا فقط. اقلبهما وحمّصهما من 2 إلى 3 دقائق أخرى. أخرجهما واشوِ باقي التورتيلا."
+     ],
+     [
+      null,
+      "ضع فوق التورتيلا سالسا فيردي وشرائح اللحم وشرائح الأفوكادو والطماطم المقطّعة مكعبات والكزبرة الخضراء."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6360044,
+  "translations": {
+   "ar": {
+    "title": "غموس الفاصولياء الكاريبي",
+    "description": "حضّر هذا الغموس واحفظه في الثلاجة لتتناوله كوجبة خفيفة مع بعض الخضار الطازجة طوال الأسبوع.",
+    "portions": "8",
+    "serving_size": "3½ ملعقة كبيرة غموس + 4 أعواد كرفس + 4 أعواد جزر",
+    "ingredients": [
+     [
+      null,
+      "1 علبة (15.5 أونصة) فاصولياء سوداء عضوية (مصفاة ومشطوفة)"
+     ],
+     [
+      null,
+      "½ حبة أفوكادو هاس متوسطة (مقشّرة ومقطّعة شرائح)"
+     ],
+     [
+      null,
+      "3 ملاعق كبيرة عصير ليمون"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة كزبرة خضراء (مفرومة تقريبًا)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أحمر كايين مطحون"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة كمون مطحون"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح خشن"
+     ],
+     [
+      null,
+      "3 عود بصل أخضر (مقطّع شرائح رفيعة)"
+     ],
+     [
+      null,
+      "4 أعواد كرفس (مقسومة إلى نصفين)"
+     ],
+     [
+      null,
+      "4 جزرات متوسطة (مقسومة إلى نصفين ومقطّعة أعوادًا أصغر)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اهرس جميع المكونات ما عدا البصل الأخضر في الخلاط حتى تصبح ناعمة. زيّنها بالبصل الأخضر."
+     ],
+     [
+      null,
+      "قدّمها مع أعواد الكرفس والجزر."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6360759,
+  "translations": {
+   "es": {
+    "title": "Ensalada de salmón y granos de trigo con pesto",
+    "description": "Los granos de trigo son el grano de la planta de trigo sin la cáscara exterior. Tienen un sabor a nuez y una textura masticable, y están llenos de fibra, proteína y hierro. Puede preparar una tanda con anticipación y guardarla en el refrigerador hasta por una semana. Si no encuentra granos de trigo, puede sustituirlos en esta receta por farro, espelta o arroz integral.",
+    "portions": "2",
+    "serving_size": "2 1/4 tazas de mezcla de ensalada y verduras + 3 oz de salmón",
+    "ingredients": [
+     [
+      null,
+      "1/2 taza de granos de trigo (o farro)"
+     ],
+     [
+      null,
+      "2 filetes de salmón de 3 onzas cada uno"
+     ],
+     [
+      null,
+      "5 1/2 cucharaditas de pesto preparado"
+     ],
+     [
+      null,
+      "2 tazas de arúgula"
+     ],
+     [
+      null,
+      "2 tazas de espinaca baby (picada)"
+     ],
+     [
+      null,
+      "1/2 taza de ejotes cocidos"
+     ],
+     [
+      null,
+      "1/2 taza de tomates cherry (cortados por la mitad)"
+     ],
+     [
+      null,
+      "1 cucharada de piñones (tostados)"
+     ],
+     [
+      null,
+      "1/4 de taza de microvegetales"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 350 grados F. Forre una bandeja para hornear con papel de aluminio y rocíe ligeramente con aceite en aerosol."
+     ],
+     [
+      null,
+      "Cocine los granos de trigo según las instrucciones del paquete."
+     ],
+     [
+      null,
+      "Unte cada filete de salmón con media cucharadita de pesto. Colóquelos en la bandeja preparada y métalos al horno. Cocine hasta que el salmón alcance 145 grados F, unos 15 a 20 minutos según el grosor del filete."
+     ],
+     [
+      null,
+      "Cuando los granos de trigo estén cocidos, escúrralos y mézclelos con 4 1/2 cucharaditas de pesto."
+     ],
+     [
+      null,
+      "Divida la espinaca y la arúgula entre 2 platos grandes o tazones. Agregue los granos de trigo y mezcle para cubrir las hojas con el pesto."
+     ],
+     [
+      null,
+      "Coloque 1 filete de salmón sobre cada plato de hojas verdes. Agregue la mitad de los ejotes y de los tomates y espolvoree cada tazón con piñones y microvegetales."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سلطة السلمون وحبوب القمح بالبيستو",
+    "description": "حبوب القمح (ويت بيري) هي نواة نبات القمح بعد إزالة القشرة الخارجية. لها نكهة تشبه المكسرات وقوام مطاطي، وهي غنية بالألياف والبروتين والحديد. يمكنك تحضير كمية منها مسبقًا وحفظها في الثلاجة حتى أسبوع. وإذا لم تجد حبوب القمح، يمكن استبدالها في هذه الوصفة بالفارو أو القمح المقشور (سبلت) أو الأرز البني.",
+    "portions": "2",
+    "serving_size": "2¼ كوب من خليط السلطة والخضار + 3 أونصات سلمون",
+    "ingredients": [
+     [
+      null,
+      "½ كوب حبوب القمح (أو الفارو)"
+     ],
+     [
+      null,
+      "2 شريحة سلمون، 3 أونصات لكل شريحة"
+     ],
+     [
+      null,
+      "5½ ملعقة صغيرة بيستو جاهز"
+     ],
+     [
+      null,
+      "2 كوب جرجير"
+     ],
+     [
+      null,
+      "2 كوب سبانخ صغيرة (مفرومة)"
+     ],
+     [
+      null,
+      "½ كوب فاصولياء خضراء مطبوخة"
+     ],
+     [
+      null,
+      "½ كوب طماطم كرز (مقسومة إلى نصفين)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة صنوبر (محمّص)"
+     ],
+     [
+      null,
+      "¼ كوب خضروات صغيرة (ميكروجرينز)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 350 درجة فهرنهايت (175° مئوية). بطّن صينية خبز بورق الألمنيوم ورشّها قليلًا ببخاخ الطهي."
+     ],
+     [
+      null,
+      "اطهِ حبوب القمح بحسب إرشادات العبوة."
+     ],
+     [
+      null,
+      "ادهن كل شريحة سلمون بنصف ملعقة صغيرة من البيستو. ضعها على الصينية المجهزة وأدخلها الفرن. اطهها حتى تصل حرارة السلمون إلى 145 درجة فهرنهايت (65° مئوية)، حوالي 15–20 دقيقة بحسب سماكة الشريحة."
+     ],
+     [
+      null,
+      "عندما تنضج حبوب القمح، صفّها وقلّبها مع 4½ ملعقة صغيرة من البيستو."
+     ],
+     [
+      null,
+      "وزّع السبانخ والجرجير على طبقين أو وعاءين كبيرين. أضف حبوب القمح وقلّب لتغطي البيستو الأوراق الخضراء."
+     ],
+     [
+      null,
+      "ضع شريحة سلمون واحدة فوق كل طبق من الخضار الورقية. أضف نصف كمية الفاصولياء الخضراء والطماطم ورشّ كل وعاء بالصنوبر والخضروات الصغيرة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6360930,
+  "translations": {
+   "es": {
+    "title": "Tofu con parmesano y fideos de calabaza butternut",
+    "description": "Pruebe nuestro tofu con parmesano y fideos de calabaza butternut, un platillo apto para personas con diabetes que combina el crujiente sabroso del tofu cubierto con parmesano con lo saludable de los fideos de calabaza butternut. Prepárelo con Ejotes asados con vinagreta de champán para una comida hermosa y colorida. Este platillo se puede hacer fácilmente vegano sustituyendo el queso y la mayonesa por alternativas sin lácteos y sin huevo.",
+    "portions": "4",
+    "serving_size": "7 oz de tofu y ~2 tazas de fideos",
+    "ingredients": [
+     [
+      null,
+      "28 onzas de tofu extrafirme (escurrido y prensado por al menos 30 minutos)"
+     ],
+     [
+      null,
+      "2 cucharaditas de aceite de oliva (divididas)"
+     ],
+     [
+      null,
+      "1 calabaza butternut mediana"
+     ],
+     [
+      null,
+      "1/2 cucharadita de condimento italiano (dividida)"
+     ],
+     [
+      null,
+      "1 onza de queso parmesano reducido en grasa (rallado)"
+     ],
+     [
+      null,
+      "1/4 de taza de mayonesa light"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de cebolla en polvo"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1 taza de albahaca fresca (hojas en juliana)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 350 grados F. Forre una bandeja para hornear con papel de aluminio."
+     ],
+     [
+      null,
+      "Corte cada bloque de tofu por la mitad a lo largo. Colóquelos en la bandeja y rocíelos con 1 cucharadita de aceite. Hornee 15 minutos, voltee y hornee otros 15 minutos."
+     ],
+     [
+      null,
+      "Mientras tanto, pele la cáscara dura de la calabaza. Use un pelador de juliana para cortar fideos de la calabaza."
+     ],
+     [
+      null,
+      "Precaliente una sartén grande a fuego medio. Agregue 1 cucharadita de aceite, la calabaza y ¼ de cucharadita de condimento italiano. Cocine, revolviendo de vez en cuando, hasta que los fideos de calabaza estén tiernos, de 7 a 8 minutos. Retire del fuego, tape y reserve."
+     ],
+     [
+      null,
+      "Combine el parmesano, la mayonesa, 1/4 de cucharadita de condimento italiano, la cebolla en polvo y el ajo en polvo en un tazón pequeño."
+     ],
+     [
+      null,
+      "Después de que el tofu se haya horneado durante 30 minutos, sáquelo del horno. Ponga el horno en modo de asar (broil) a temperatura alta y mueva una rejilla del horno al estante superior, debajo del asador."
+     ],
+     [
+      null,
+      "Extienda la mezcla de queso sobre la parte superior del tofu. Regréselo al horno y áselo hasta que la cubierta burbujee y empiece a dorarse, de 1 a 2 minutos."
+     ],
+     [
+      null,
+      "Sirva sobre una cama de fideos de calabaza con un puñado de albahaca fresca."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "توفو بالبارميزان مع نودلز القرع الجوزي",
+    "description": "جرّب التوفو بالبارميزان مع نودلز القرع الجوزي، وهو طبق مناسب لمرضى السكري يجمع بين قرمشة التوفو المغطى بالبارميزان الشهية وفوائد نودلز القرع الجوزي. حضّره مع الفاصولياء الخضراء المحمّصة بصلصة الشمبانيا لوجبة جميلة الألوان. ويمكن جعل هذا الطبق نباتيًا بسهولة باستبدال الجبن والمايونيز ببدائل خالية من الألبان والبيض.",
+    "portions": "4",
+    "serving_size": "7 أونصات توفو وحوالي 2 كوب نودلز",
+    "ingredients": [
+     [
+      null,
+      "28 أونصة توفو صلب جدًا (مصفى ومضغوط لمدة 30 دقيقة على الأقل)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زيت زيتون (مقسّمة)"
+     ],
+     [
+      null,
+      "1 حبة قرع جوزي متوسطة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة توابل إيطالية (مقسّمة)"
+     ],
+     [
+      null,
+      "1 أونصة جبن بارميزان قليل الدسم (مبشور)"
+     ],
+     [
+      null,
+      "¼ كوب مايونيز خفيف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة مسحوق البصل"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "1 كوب ريحان طازج (أوراق مقطّعة شرائح طويلة رفيعة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 350 درجة فهرنهايت (175° مئوية). بطّن صينية خبز بورق الألمنيوم."
+     ],
+     [
+      null,
+      "اقطع كل قطعة توفو إلى نصفين على طول الضلع الطويل. ضعها على الصينية ورشّ عليها 1 ملعقة صغيرة من الزيت. اخبزها 15 دقيقة، ثم اقلبها واخبزها 15 دقيقة أخرى."
+     ],
+     [
+      null,
+      "في الأثناء، قشّر القشرة القاسية عن القرع. استخدم مقشرة جوليان لقطع نودلز من القرع."
+     ],
+     [
+      null,
+      "سخّن مقلاة كبيرة على نار متوسطة. أضف 1 ملعقة صغيرة من الزيت والقرع و¼ ملعقة صغيرة من التوابل الإيطالية. اطهه مع التحريك من حين لآخر حتى تلين نودلز القرع، من 7 إلى 8 دقائق. ارفعه عن النار وغطِّه وضعه جانبًا."
+     ],
+     [
+      null,
+      "اخلط البارميزان والمايونيز و¼ ملعقة صغيرة من التوابل الإيطالية ومسحوق البصل ومسحوق الثوم في وعاء صغير."
+     ],
+     [
+      null,
+      "بعد أن يُخبز التوفو لمدة 30 دقيقة، أخرجه من الفرن. اضبط الفرن على الشواء (برويل) على درجة عالية وانقل رف الفرن إلى الرف العلوي تحت عنصر الشواء."
+     ],
+     [
+      null,
+      "وزّع خليط الجبن على وجه التوفو. أعده إلى الفرن واشوِه حتى تتبقّع الطبقة العلوية بالفقاعات وتبدأ في الاحمرار، من 1 إلى 2 دقيقة."
+     ],
+     [
+      null,
+      "قدّمه على فراش من نودلز القرع مع حفنة من الريحان الطازج."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6362411,
+  "translations": {
+   "ar": {
+    "title": "تشيلي الديك الرومي والخضار",
+    "description": "يُعدّ هذا التشيلي وجبة رائعة في قدر واحدة. توفر الفاصولياء كربوهيدرات صحية، ويوفر الديك الرومي بروتينًا قليل الدهن، ويضيف الجزر والكوسا والبصل والطماطم الخضار. سريع وسهل وصحي ومثالي في أيام الشتاء الباردة!",
+    "portions": "8",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "1 حبة بصل صغيرة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 جزرة متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة كوسا متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ],
+     [
+      null,
+      "16 أونصة لحم ديك رومي مفروم قليل الدهن"
+     ],
+     [
+      null,
+      "1 علبة (14.5 أونصة) طماطم معلّبة مقطّعة مكعبات"
+     ],
+     [
+      null,
+      "1 علبة (28 أونصة) طماطم معلّبة مهروسة"
+     ],
+     [
+      null,
+      "1 علبة (15.8 أونصة) فاصولياء بيضاء صغيرة أو فاصولياء جريت نورثرن معلّبة (مشطوفة ومصفاة)"
+     ],
+     [
+      null,
+      "1 علبة (15 أونصة) فاصولياء حمراء (مشطوفة ومصفاة)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة مسحوق التشيلي"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة كمون مطحون"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة مسحوق الثوم"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "رشّ قدر شوربة كبيرة ببخاخ الطهي. أضف البصل والجزر والكوسا وقلّبها على نار متوسطة إلى عالية لمدة 3-4 دقائق أو حتى يصبح البصل شفافًا. أضف الثوم وقلّب 30 ثانية أخرى."
+     ],
+     [
+      null,
+      "أضف لحم الديك الرومي المفروم واطهه حتى يحمرّ. أضف باقي المكونات؛ وامزج جيدًا وأحضر التشيلي إلى الغليان. خفّف النار واتركه على نار هادئة لمدة 15-20 دقيقة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6363916,
+  "translations": {
+   "es": {
+    "title": "Naranjas glaseadas con especias",
+    "description": "Las naranjas glaseadas con miel y especias son un postre sencillo y delicioso, apto para personas con diabetes, que combina la dulzura natural de las naranjas con un glaseado cálido y aromático de miel y especias. Cubra con hojas de menta fresca picada para darle un toque extra de color y sabor.",
+    "portions": "4",
+    "serving_size": "1/2 naranja",
+    "ingredients": [
+     [
+      null,
+      "2 naranjas grandes (peladas y cortadas en rodajas)"
+     ],
+     [
+      null,
+      "1 cucharada de miel"
+     ],
+     [
+      null,
+      "1/2 cucharadita de canela molida"
+     ],
+     [
+      null,
+      "1/8 de cucharadita de nuez moscada molida"
+     ],
+     [
+      null,
+      "1/8 de cucharadita de jengibre molido"
+     ],
+     [
+      null,
+      "1/8 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1 ramita de menta fresca (para decorar, opcional)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Pele las naranjas y córtelas en rodajas. Quite las semillas."
+     ],
+     [
+      null,
+      "En una cacerola pequeña a fuego bajo, combine la miel, 1 cucharada de agua, la canela molida, la nuez moscada molida, el jengibre molido y una pizca de sal marina. Revuelva hasta que la mezcla esté bien integrada y caliente."
+     ],
+     [
+      null,
+      "Acomode las rodajas de naranja en una fuente para servir o en platos individuales."
+     ],
+     [
+      null,
+      "Rocíe el glaseado de miel con especias sobre las rodajas de naranja, asegurándose de que cada rodaja quede bien cubierta de sabor."
+     ],
+     [
+      null,
+      "Sirva las naranjas de inmediato."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "برتقال مُغلَّف بالتوابل",
+    "description": "البرتقال المُغلَّف بعسل التوابل حلوى بسيطة وشهية مناسبة لمرضى السكري، تجمع بين الحلاوة الطبيعية للبرتقال وطبقة دافئة عطرية من العسل والتوابل. زيّنه بأوراق النعناع الطازج المفروم لمسة إضافية من اللون والنكهة.",
+    "portions": "4",
+    "serving_size": "½ حبة برتقال",
+    "ingredients": [
+     [
+      null,
+      "2 حبة برتقال كبيرة (مقشّرة ومقطّعة حلقات)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عسل"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة قرفة مطحونة"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة جوزة الطيب المطحونة"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة زنجبيل مطحون"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "1 غصن نعناع طازج (للتزيين، اختياري)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "قشّر البرتقال وقطّعه حلقات. أزل أي بذور."
+     ],
+     [
+      null,
+      "في قدر صغيرة على نار هادئة، اخلط العسل و1 ملعقة كبيرة من الماء والقرفة المطحونة وجوزة الطيب المطحونة والزنجبيل المطحون ورشة من ملح البحر. قلّب حتى يتجانس الخليط ويسخن."
+     ],
+     [
+      null,
+      "رتّب شرائح البرتقال على طبق تقديم أو في أطباق فردية."
+     ],
+     [
+      null,
+      "اسكب مزيج العسل والتوابل على شرائح البرتقال، مع التأكد من تغطية كل شريحة بالنكهة."
+     ],
+     [
+      null,
+      "قدّم البرتقال فورًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6364308,
+  "translations": {
+   "ar": {
+    "title": "خضار ورقية مطبوخة لذيذة",
+    "description": "استخدم الخردل أو اللفت أو السلق أو الكيل أو الكولارد لهذه الوصفة!",
+    "portions": "12",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "2 رطل خضار ورقية طرية (طازجة)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زيت ذرة"
+     ],
+     [
+      null,
+      "½ كوب بصل (مفروم)"
+     ],
+     [
+      null,
+      "1¼ كوب ماء"
+     ],
+     [
+      null,
+      "1 مكعب مرق دجاج كامل (قليل الصوديوم)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة سكر"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة صلصة تاباسكو"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "انزع السيقان وأي أوراق مصفرّة من الخضار، ثم اشطفها جيدًا وصفّها."
+     ],
+     [
+      null,
+      "سخّن الزيت في قدر كبيرة على نار متوسطة. أضف البصل وقلّبه حتى يلين."
+     ],
+     [
+      null,
+      "أضف الخضار والماء ومكعب المرق إلى القدر. غطِّها وأحضرها إلى الغليان. خفّف النار إلى منخفضة واتركها على نار هادئة لمدة 30 دقيقة أو حتى تلين الخضار، مع التحريك من حين لآخر."
+     ],
+     [
+      null,
+      "أضف الملح والسكر وصلصة التاباسكو. قلّب جيدًا واتركها على نار هادئة 5 دقائق إضافية. يمكن تقديمها مع خل التفاح لإبراز أفضل نكهة للخضار."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6364389,
+  "translations": {
+   "ar": {
+    "title": "سلطة السبانخ بالدجاج والأفوكادو",
+    "description": "تحتاج السلطة الجيدة إلى خضار وبروتين ونكهة وقوامات مختلفة. يوفر الدجاج في هذه الوصفة البروتين. وعند دمجه مع الأفوكادو وبذور عباد الشمس تحصل على النكهة والقوام والقرمشة المثالية. هذه السلطة السريعة والسهلة مثالية لغداء خفيف ومشبع. وهي رائعة أيضًا لتحضير الوجبات مسبقًا، فقط ضع كل حصة في وعاء منفصل، وانتظر لإضافة الصلصة حتى قبل التقديم مباشرة.",
+    "portions": "4",
+    "serving_size": "2 كوب",
+    "ingredients": [
+     [
+      null,
+      "12 أونصة سبانخ صغيرة (بيبي)"
+     ],
+     [
+      null,
+      "1 حبة أفوكادو صغيرة (منزوعة النواة ومقطّعة شرائح رفيعة)"
+     ],
+     [
+      null,
+      "2 حبة طماطم روما (برقوقية) متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 كوب صدر دجاج مطبوخ (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "4 ملاعق كبيرة بذور عباد الشمس"
+     ],
+     [
+      null,
+      "6 ملاعق كبيرة صلصة رانش خفيفة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء سلطة كبير، اخلط السبانخ والأفوكادو والطماطم والدجاج وبذور عباد الشمس. أضف الصلصة وقلّب لتتغطى بالتساوي. أو، إذا كنت تحضّرها مسبقًا، وزّع السلطة على أربعة أوعية. أضف 1½ ملعقة كبيرة من الصلصة قبل الأكل مباشرة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6366362,
+  "translations": {
+   "es": {
+    "title": "Bowls japoneses de arroz con pollo y espinacas",
+    "description": "Los bowls de cereales, proteína y verduras están de moda ahora, y en cuanto pruebe este entenderá por qué. Es un bowl nutritivo que combina el confort de la sopa de pollo con el color y el sabor de las verduras frescas. También puede personalizarlo según sus preferencias o lo que tenga a mano. Si no tiene arroz integral, puede sustituirlo por quinoa cocida, farro o cuscús integral. También puede cubrir su bowl con pepinos picados, zanahorias ralladas o pimientos picados. Y, si le gusta la comida picante, aumente las hojuelas de pimiento rojo.",
+    "portions": "4",
+    "serving_size": "1 ½ tazas de pollo y verduras + 1/2 taza de arroz integral",
+    "ingredients": [
+     [
+      null,
+      "1 libra de pechugas de pollo (mitades sin hueso ni piel, sin ninguna grasa visible)"
+     ],
+     [
+      null,
+      "1 tallo de apio (cortado en cuartos)"
+     ],
+     [
+      null,
+      "1/2 cebolla mediana (cortada en gajos de 1/2 pulgada)"
+     ],
+     [
+      null,
+      "2 dientes de ajo (picados)"
+     ],
+     [
+      null,
+      "1 cucharadita de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "1 cucharadita de vinagre de arroz"
+     ],
+     [
+      null,
+      "1/8 de cucharadita de hojuelas de chile rojo triturado"
+     ],
+     [
+      null,
+      "3 tazas de agua"
+     ],
+     [
+      null,
+      "2 tazas de caldo de pollo sin sal agregada (sin grasa)"
+     ],
+     [
+      null,
+      "2/3 de taza de arroz integral"
+     ],
+     [
+      null,
+      "4 tazas de espinaca (hojas frescas ligeramente apretadas, sin tallos y picadas en trozos grandes)"
+     ],
+     [
+      null,
+      "4 rábanos medianos (en rodajas finas)"
+     ],
+     [
+      null,
+      "2 tallos de cebolla de cambray (en rodajas finas)"
+     ],
+     [
+      null,
+      "2 cucharaditas de semillas de ajonjolí (tostadas)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Coloque el pollo en una olla de cocción lenta mediana. Agregue los trozos de apio, los gajos de cebolla, el ajo, la salsa de soya, el vinagre y las hojuelas de chile. Agregue el agua y el caldo de pollo. Tape y cocine a temperatura baja de 3 a 5 horas, o hasta que el pollo esté completamente cocido y alcance una temperatura de 165 F."
+     ],
+     [
+      null,
+      "Aproximadamente una hora antes de servir, prepare el arroz según las instrucciones del paquete, omitiendo la sal y la margarina."
+     ],
+     [
+      null,
+      "Con una espumadera, saque el pollo de la olla de cocción lenta y colóquelo en una tabla de cortar. Cuele el caldo a través de un colador de malla fina en un tazón hondo. Vierta el caldo caliente de nuevo en la olla de cocción lenta. Ponga la olla en temperatura alta."
+     ],
+     [
+      null,
+      "Corte el pollo en trozos del tamaño de un bocado y vuelva a mezclarlo con el caldo caliente en la olla de cocción lenta. Agregue la espinaca. Tape y cocine a temperatura alta durante 15 minutos."
+     ],
+     [
+      null,
+      "Sirva 1/2 taza de arroz integral cocido en cada tazón. Vierta con un cucharón 1 1/2 tazas de la mezcla de pollo, espinaca y caldo sobre el arroz. Cubra con los rábanos y las cebollas de cambray en rodajas. Espolvoree con las semillas de ajonjolí."
+     ],
+     [
+      null,
+      "Variación en olla a presión: Coloque el pollo, el apio, la cebolla, el ajo, la salsa de soya, el vinagre y las hojuelas de chile en la olla a presión. Agregue el agua y el caldo de pollo. Asegure la tapa. Cocine a alta presión durante 6 minutos. Libere la presión rápidamente. Retire el pollo y colóquelo en una tabla de cortar. Cuele el caldo y devuélvalo a la olla a presión. Corte el pollo en trozos del tamaño de un bocado y mézclelo con el caldo. Ponga la olla a presión en la función de saltear. Agregue la espinaca y cocine, revolviendo con frecuencia, de 3 a 5 minutos o hasta que la espinaca esté cocida. Continúe como indica la receta, sirviendo el pollo y la espinaca con un cucharón sobre el arroz integral cocido y cubra con los rábanos, las cebollas de cambray y las semillas de ajonjolí."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أوعية الأرز الياباني بالدجاج والسبانخ",
+    "description": "أصبحت أوعية الحبوب والبروتين والخضار شائعة الآن، وبمجرد أن تتذوق هذه الوصفة ستفهم السبب. إنها وجبة مغذية تجمع بين راحة شوربة الدجاج وألوان ونكهة الخضار الطازجة. يمكنك أيضًا تخصيص الوعاء بما يناسب ذوقك أو ما يتوفر لديك. وإذا نفد الأرز البني لديك يمكنك استبداله بالكينوا المطبوخة أو الفارو أو الكسكس من الحبوب الكاملة. ويمكنك أيضًا تزيين الوعاء بالخيار المفروم أو الجزر المبشور أو الفلفل الرومي المفروم. وإذا كنت تحب الطعام الحار، فزد كمية رقائق الفلفل الأحمر.",
+    "portions": "4",
+    "serving_size": "1½ كوب من الدجاج والخضار + ½ كوب أرز بني",
+    "ingredients": [
+     [
+      null,
+      "1 رطل صدور دجاج (أنصاف بدون عظم وبدون جلد، مع التخلص من كل الدهون الظاهرة)"
+     ],
+     [
+      null,
+      "1 عود كرفس (مقطّع أرباعًا)"
+     ],
+     [
+      null,
+      "½ حبة بصل متوسطة (مقطّعة إلى أسافين بسمك ½ بوصة)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خل الأرز"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة رقائق الفلفل الأحمر المجروش"
+     ],
+     [
+      null,
+      "3 أكواب ماء"
+     ],
+     [
+      null,
+      "2 كوب مرق دجاج بدون ملح مضاف (خالٍ من الدهون)"
+     ],
+     [
+      null,
+      "⅔ كوب أرز بني"
+     ],
+     [
+      null,
+      "4 أكواب سبانخ (أوراق طازجة غير مكبوسة، منزوعة السيقان ومفرومة فرمًا خشنًا)"
+     ],
+     [
+      null,
+      "4 حبات فجل متوسطة (مقطّعة شرائح رفيعة)"
+     ],
+     [
+      null,
+      "2 عود بصل أخضر (مقطّع شرائح رفيعة)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة بذور السمسم (محمّصة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع الدجاج في قدر طهي بطيء متوسطة. أضف قطع الكرفس وأسافين البصل والثوم وصلصة الصويا والخل ورقائق الفلفل الحار. أضف الماء ومرق الدجاج. غطِّها واطهِ على حرارة منخفضة من 3 إلى 5 ساعات، أو حتى ينضج الدجاج تمامًا وتصل حرارته إلى 165° فهرنهايت (75° مئوية)."
+     ],
+     [
+      null,
+      "قبل التقديم بساعة تقريبًا، حضّر الأرز بحسب إرشادات العبوة مع الاستغناء عن الملح والسمن النباتي (المارجرين)."
+     ],
+     [
+      null,
+      "باستخدام ملعقة مخرّمة، ارفع الدجاج من قدر الطهي البطيء وضعه على لوح التقطيع. صفِّ المرق بمصفاة ناعمة في وعاء عميق. اسكب المرق الساخن مرة أخرى في قدر الطهي البطيء. اضبط القدر على الحرارة العالية."
+     ],
+     [
+      null,
+      "قطّع الدجاج إلى قطع بحجم اللقمة وأعده إلى المرق الساخن في القدر. أضف السبانخ وقلّب. غطِّ القدر واطهِ على حرارة عالية لمدة 15 دقيقة."
+     ],
+     [
+      null,
+      "ضع ½ كوب من الأرز البني المطبوخ في كل وعاء تقديم. اسكب بالمغرفة 1½ كوب من خليط الدجاج والسبانخ والمرق فوق الأرز. زيّنه بشرائح الفجل والبصل الأخضر. رشّ بذور السمسم."
+     ],
+     [
+      null,
+      "طريقة بديلة بقدر الضغط: ضع الدجاج والكرفس والبصل والثوم وصلصة الصويا والخل ورقائق الفلفل الحار في قدر الضغط. أضف الماء ومرق الدجاج. أحكم إغلاق الغطاء. اطهِ على ضغط عالٍ لمدة 6 دقائق. أطلق الضغط بسرعة. أخرج الدجاج وضعه على لوح التقطيع. صفِّ المرق وأعده إلى قدر الضغط. قطّع الدجاج إلى قطع بحجم اللقمة وقلّبه في المرق. اضبط قدر الضغط على وضع التحمير. أضف السبانخ واطهِ مع التحريك المتكرر لمدة 3 إلى 5 دقائق أو حتى تنضج السبانخ. أكمل كما في الوصفة، بسكب الدجاج والسبانخ فوق الأرز البني المطبوخ وتزيينه بالفجل والبصل الأخضر وبذور السمسم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6367232,
+  "translations": {
+   "ar": {
+    "title": "كوكيز الكينوا ورقائق الشوكولاتة الخالية من الغلوتين",
+    "description": "قد تتردد في تجربة كوكيز مصنوعة من الكينوا، لكن هذه الكوكيز الغنية بالألياف لذيذة وسهلة! قوامها أكثف قليلًا من الكوكيز التقليدية، لكن يمكنك تناولها دون الشعور بالذنب!",
+    "portions": "30",
+    "serving_size": "1 قطعة كوكيز",
+    "ingredients": [
+     [
+      null,
+      "3 ملاعق كبيرة سمن نباتي (مارجرين) Smart Balance (طري)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خلاصة الفانيليا"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة"
+     ],
+     [
+      null,
+      "¼ كوب مُحلٍّ قليل السعرات أو خالٍ منها"
+     ],
+     [
+      null,
+      "1 كوب شوفان مسطّح تقليدي (خالٍ من الغلوتين)"
+     ],
+     [
+      null,
+      "2 كوب كينوا مطبوخة (مبرّدة)"
+     ],
+     [
+      null,
+      "½ كوب خليط للخبز ((مثل Pamela’s)، خالٍ من الغلوتين)"
+     ],
+     [
+      null,
+      "¼ كوب رقائق شوكولاتة صغيرة"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 350 درجة (175° مئوية). بطّن صينية خبز بورق الزبدة."
+     ],
+     [
+      null,
+      "في وعاء كبير، اخفق السمن النباتي والفانيليا والبيض والمُحلّي قليل السعرات أو الخالي منها. امزج حتى يتجانس الخليط جيدًا."
+     ],
+     [
+      null,
+      "أضف الشوفان والكينوا وخليط الخبز إلى الخليط وقلّب جيدًا. أضف رقائق الشوكولاتة بالتقليب الرفيق."
+     ],
+     [
+      null,
+      "ضع الخليط بملعقة كبيرة على صينية الخبز. اخبز لمدة 15 دقيقة."
+     ],
+     [
+      null,
+      "اترك الكوكيز تبرد على رف سلكي ثم احفظها في وعاء محكم الإغلاق بعد أن تبرد."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6368072,
+  "translations": {
+   "es": {
+    "title": "Galleta de mantequilla de almendra con cuatro ingredientes",
+    "description": "Rápidas y fáciles de preparar, estas galletas de mantequilla de almendra con cuatro ingredientes son una receta para guardar entre sus favoritas la próxima vez que se le antoje algo dulce. Aptas para personas con diabetes y bajas en carbohidratos, seguro serán un postre favorito de la familia.",
+    "portions": "12",
+    "serving_size": "1 galleta",
+    "ingredients": [
+     [
+      null,
+      "1 taza de mantequilla de almendra"
+     ],
+     [
+      null,
+      "1 huevo grande (ligeramente batido)"
+     ],
+     [
+      null,
+      "1/3 de taza de sustituto de azúcar para hornear sin azúcar"
+     ],
+     [
+      null,
+      "1 cucharadita de extracto de vainilla"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Precaliente el horno a 350 grados F. Forre una bandeja para hornear con papel pergamino."
+     ],
+     [
+      null,
+      "En un tazón, combine la mantequilla de almendra, el huevo, el azúcar y el extracto de vainilla. Mezcle hasta que todos los ingredientes estén bien integrados."
+     ],
+     [
+      null,
+      "Tome porciones de masa fría del tamaño de una cucharada y forme bolitas. Colóquelas en la bandeja preparada, dejando espacio entre cada una. Si la masa está demasiado blanda para formar bolitas, refrigérela 30 minutos para que se endurezca."
+     ],
+     [
+      null,
+      "Con un tenedor, presione suavemente cada bolita de masa para formar un patrón entrecruzado."
+     ],
+     [
+      null,
+      "Hornee en el horno precalentado durante unos 10 minutos o hasta que los bordes estén dorados."
+     ],
+     [
+      null,
+      "Deje que las galletas se enfríen en la bandeja unos minutos antes de pasarlas a una rejilla para que se enfríen por completo."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "كوكيز زبدة اللوز بأربعة مكونات",
+    "description": "سريعة وسهلة التحضير، كوكيز زبدة اللوز بأربعة مكونات وصفة تستحق أن تضيفها إلى مفضلاتك في المرة القادمة التي تشتهي فيها شيئًا حلوًا. مناسبة لمرضى السكري وقليلة الكربوهيدرات، وستكون بالتأكيد حلوى مفضلة لدى العائلة.",
+    "portions": "12",
+    "serving_size": "1 قطعة كوكيز",
+    "ingredients": [
+     [
+      null,
+      "1 كوب زبدة اللوز"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة (مخفوقة قليلًا)"
+     ],
+     [
+      null,
+      "⅓ كوب بديل سكر للخبز خالٍ من السكر"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خلاصة الفانيليا"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 350 درجة فهرنهايت (175° مئوية). بطّن صينية خبز بورق الزبدة."
+     ],
+     [
+      null,
+      "في وعاء خلط، اخلط زبدة اللوز والبيض والسكر وخلاصة الفانيليا. امزج حتى تتجانس جميع المكونات جيدًا."
+     ],
+     [
+      null,
+      "خذ حصصًا من العجين البارد بحجم ملعقة كبيرة وشكّلها كرات. ضع الكرات على الصينية المجهزة مع ترك مسافة بين كل كرة. إذا كان العجين طريًا جدًا بحيث يصعب تشكيله، ضعه في الثلاجة لمدة 30 دقيقة ليتماسك."
+     ],
+     [
+      null,
+      "باستخدام شوكة، اضغط برفق على كل كرة عجين لتشكيل نقش متقاطع."
+     ],
+     [
+      null,
+      "اخبزها في الفرن المسخّن مسبقًا لمدة 10 دقائق تقريبًا أو حتى تصبح الأطراف ذهبية اللون."
+     ],
+     [
+      null,
+      "اترك الكوكيز تبرد على الصينية لبضع دقائق قبل نقلها إلى رف سلكي لتبرد تمامًا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6368221,
+  "translations": {
+   "ar": {
+    "title": "هليون وفلفل وفطر مقلي",
+    "description": "الخضار غير النشوية، مثل الهليون والفلفل والفطر، غنية بالفيتامينات والمعادن، وقليلة السعرات والكربوهيدرات. استخدم أفكارًا بسيطة ولذيذة مثل هذه الوصفة لملء نصف طبقك بالخضار غير النشوية!",
+    "portions": "7",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "1½ ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "1 رطل هليون (مقطوع الأطراف ومقطّع أثلاثًا)"
+     ],
+     [
+      null,
+      "½ كوب بصل أحمر (مقطّع شرائح)"
+     ],
+     [
+      null,
+      "8 أونصات فطر كريميني (بيبي بيلا) (مقطّع شرائح)"
+     ],
+     [
+      null,
+      "1 حبة فلفل رومي أحمر متوسطة (مقطّعة)"
+     ],
+     [
+      null,
+      "1 فص ثوم (مفروم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن زيت الزيتون في مقلاة عميقة كبيرة أو ووك على نار متوسطة إلى عالية. أضف الهليون والبصل والفطر والفلفل الأحمر واطهِها لمدة 15-18 دقيقة مع التحريك المتكرر."
+     ],
+     [
+      null,
+      "أضف الثوم إلى المقلاة واطهِ لمدة دقيقة واحدة. قلّب الخضار والثوم ليمتزجا."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6369435,
+  "translations": {
+   "es": {
+    "title": "Ensalada de tofu y edamame",
+    "description": "Adéntrese en un mundo de perfección vegetal con nuestra ensalada de tofu y edamame. Tofu sedoso, edamame vibrante y una colorida variedad de verduras crujientes crean una refrescante sinfonía de sabores. Mezclada con un delicioso aderezo casero, esta ensalada lo invita a saborear lo nutritivo de cada bocado.",
+    "portions": "4",
+    "serving_size": "1 taza",
+    "ingredients": [
+     [
+      null,
+      "14 onzas de tofu firme (firme, prensado y en cubos)"
+     ],
+     [
+      null,
+      "1 taza de edamame congelado (sin vaina)"
+     ],
+     [
+      null,
+      "1 taza de col morada (en rodajas finas)"
+     ],
+     [
+      null,
+      "1 taza de zanahorias (en juliana)"
+     ],
+     [
+      null,
+      "1/4 de taza de aceitunas verdes (en rodajas)"
+     ],
+     [
+      null,
+      "1 cucharada de semillas de ajonjolí"
+     ],
+     [
+      null,
+      "2 cucharadas de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "1 cucharada de vinagre de arroz"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de ajonjolí"
+     ],
+     [
+      null,
+      "1 cucharada de mantequilla de maní"
+     ],
+     [
+      null,
+      "1 cucharadita de miel de maple"
+     ],
+     [
+      null,
+      "1 cucharadita de jengibre fresco (rallado)"
+     ],
+     [
+      null,
+      "1 diente de ajo (picado)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón grande, combine el tofu en cubos, el edamame sin vaina, la col morada en rodajas finas, la zanahoria en juliana, la cebolla de cambray en rodajas y las semillas de ajonjolí."
+     ],
+     [
+      null,
+      "En un tazón pequeño, bata la salsa de soya baja en sodio, el vinagre de arroz, el aceite de ajonjolí, la mantequilla de maní, la miel de maple, el jengibre fresco rallado, el ajo picado, la sal y la pimienta negra."
+     ],
+     [
+      null,
+      "Vierta el aderezo sobre la ensalada y mezcle suavemente para que quede bien cubierta."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سلطة التوفو والإدامامي",
+    "description": "ادخل عالم الكمال النباتي مع سلطة التوفو والإدامامي. التوفو الناعم والإدامامي الزاهي ومجموعة ملوّنة من الخضار المقرمشة تصنع معًا تناغمًا منعشًا من النكهات. تُقلَّب في صلصة منزلية شهية، وتدعوك هذه السلطة إلى الاستمتاع بالفائدة الصحية في كل لقمة.",
+    "portions": "4",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "14 أونصة توفو صلب (صلب، مضغوط ومقطّع مكعبات)"
+     ],
+     [
+      null,
+      "1 كوب إدامامي مجمد (مقشّر)"
+     ],
+     [
+      null,
+      "1 كوب ملفوف أحمر (مقطّع شرائح رفيعة)"
+     ],
+     [
+      null,
+      "1 كوب جزر (مقطّع شرائح طويلة رفيعة)"
+     ],
+     [
+      null,
+      "¼ كوب زيتون أخضر (مقطّع شرائح)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بذور السمسم"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خل الأرز"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت سمسم"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زبدة الفول السوداني"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة شراب القيقب"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة زنجبيل طازج (مبشور)"
+     ],
+     [
+      null,
+      "1 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء كبير، اخلط مكعبات التوفو والإدامامي المقشّر والملفوف الأحمر المقطّع شرائح رفيعة والجزر المقطّع شرائح طويلة والبصل الأخضر المقطّع وبذور السمسم."
+     ],
+     [
+      null,
+      "في وعاء صغير، اخفق صلصة الصويا قليلة الصوديوم وخل الأرز وزيت السمسم وزبدة الفول السوداني وشراب القيقب والزنجبيل الطازج المبشور والثوم المفروم والملح والفلفل الأسود."
+     ],
+     [
+      null,
+      "اسكب الصلصة على السلطة وقلّبها برفق لتتغطى بالتساوي."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6371783,
+  "translations": {
+   "es": {
+    "title": "Bowls de salmón y arroz",
+    "description": "Estos bowls de salmón y arroz se pueden personalizar con sus verduras favoritas. La combinación de salmón, arroz y verduras frescas es una comida saludable y satisfactoria para entre semana.",
+    "portions": "4",
+    "serving_size": "1 filete de salmón, 1 taza de mezcla",
+    "ingredients": [
+     [
+      null,
+      "16 onzas de salmón (4 filetes de 4 onzas cada uno)"
+     ],
+     [
+      null,
+      "2 cucharadas de salsa de soya baja en sodio"
+     ],
+     [
+      null,
+      "2 cucharaditas de miel"
+     ],
+     [
+      null,
+      "1 cucharada de aceite de ajonjolí"
+     ],
+     [
+      null,
+      "2 cucharaditas de jengibre fresco (picado)"
+     ],
+     [
+      null,
+      "2 dientes de ajo (picados)"
+     ],
+     [
+      null,
+      "2 tazas de arroz integral cocido"
+     ],
+     [
+      null,
+      "1 taza de brócoli (al vapor)"
+     ],
+     [
+      null,
+      "1 taza de zanahorias (ralladas)"
+     ],
+     [
+      null,
+      "1/4 de aguacate mediano (en rodajas)"
+     ],
+     [
+      null,
+      "2 tallos de cebolla de cambray (picados, para servir)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón pequeño, bata la salsa de soya, la miel, el aceite de ajonjolí, el jengibre picado y el ajo picado para hacer la salsa."
+     ],
+     [
+      null,
+      "Unte el salmón con parte de la salsa."
+     ],
+     [
+      null,
+      "Caliente una sartén grande a fuego medio-alto y selle el salmón hasta que esté bien cocido, unos 4 minutos por lado."
+     ],
+     [
+      null,
+      "Unte la parte superior del salmón con más marinada."
+     ],
+     [
+      null,
+      "Arme los bowls con el arroz integral, el brócoli al vapor, el salmón y el aguacate. Rocíe con la salsa. Termine con la cebolla de cambray."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أوعية السلمون والأرز",
+    "description": "يمكن تخصيص أوعية السلمون والأرز هذه بخضارك المفضلة. يمنحك الجمع بين السلمون والأرز والخضار الطازجة وجبة صحية ومشبعة لأيام الأسبوع.",
+    "portions": "4",
+    "serving_size": "1 شريحة سلمون، 1 كوب من الخليط",
+    "ingredients": [
+     [
+      null,
+      "16 أونصة سلمون (4 شرائح، 4 أونصات لكل شريحة)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة صلصة صويا قليلة الصوديوم"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة عسل"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت سمسم"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زنجبيل طازج (مفروم)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "2 كوب أرز بني مطبوخ"
+     ],
+     [
+      null,
+      "1 كوب بروكلي (مطهو على البخار)"
+     ],
+     [
+      null,
+      "1 كوب جزر (مبشور)"
+     ],
+     [
+      null,
+      "¼ حبة أفوكادو متوسطة (مقطّعة شرائح)"
+     ],
+     [
+      null,
+      "2 عود بصل أخضر (مفروم، للتقديم)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء صغير، اخفق صلصة الصويا والعسل وزيت السمسم والزنجبيل المفروم والثوم المفروم لتحضير الصلصة."
+     ],
+     [
+      null,
+      "ادهن السلمون بجزء من الصلصة."
+     ],
+     [
+      null,
+      "سخّن مقلاة كبيرة على نار متوسطة إلى عالية وحمّر السلمون حتى ينضج تمامًا، حوالي 4 دقائق لكل جانب."
+     ],
+     [
+      null,
+      "ادهن وجه السلمون بمزيد من التتبيلة."
+     ],
+     [
+      null,
+      "ركّب الأوعية بالأرز البني والبروكلي المطهو على البخار والسلمون والأفوكادو. رشّ الصلصة. وأنهِ الطبق بالبصل الأخضر."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6372211,
+  "translations": {
+   "ar": {
+    "title": "غموس التاكو الصحي",
+    "description": "النسخة التقليدية من غموس التاكو أعلى بكثير في الدهون وتستخدم القشدة الحامضة والجبن الكريمي. نحن نستخدم دهنًا أكثر صحة (الأفوكادو) وجبنًا قليل الدسم لنوفّر لك الكثير من السعرات الحرارية دون التخلي عن أي نكهة. هذا الغموس رائع لحفلات الشواء قبل المباريات وموسم كرة القدم!",
+    "portions": "24",
+    "serving_size": "1 ملعقة كبيرة مكوّمة",
+    "ingredients": [
+     [
+      null,
+      "1 علبة (16 أونصة) فاصولياء مطبوخة مهروسة (خالية من الدهون)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة مسحوق التشيلي"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة كمون"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "1½ حبة أفوكادو متوسطة (مهروسة)"
+     ],
+     [
+      null,
+      "⅓ كوب سالسا"
+     ],
+     [
+      null,
+      "1 حبة طماطم كبيرة (منزوعة البذور ومقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 كوب خس روماين (مبشور)"
+     ],
+     [
+      null,
+      "1 كوب خليط جبن مكسيكي مبشور"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء متوسط، اخلط الفاصولياء المهروسة ومسحوق التشيلي والكمون ومسحوق الثوم."
+     ],
+     [
+      null,
+      "وزّع الفاصولياء المهروسة بالتساوي على طبق تقديم متوسط. وزّع الأفوكادو المهروس بالتساوي فوق الفاصولياء."
+     ],
+     [
+      null,
+      "وزّع السالسا بالتساوي فوق الأفوكادو. ضع فوقها الطماطم والخس المبشور والجبن المبشور."
+     ],
+     [
+      null,
+      "قدّم الغموس مع الخيار الذي تفضّله من رقائق التورتيلا المخبوزة أو رقائق الفاصولياء السوداء أو شرائح الالجيكاما. وإذا كنت تتبع نظامًا غذائيًا خاليًا من الغلوتين، فتأكد من أن رقائق التورتيلا غير متبّلة وخالية من الغلوتين."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6372891,
+  "translations": {
+   "es": {
+    "title": "Panini de pollo fácil",
+    "description": "Un panini tostado con pan crujiente, un relleno caliente y sabroso y queso derretido es un almuerzo o una cena ligera satisfactorios y aptos para personas con diabetes. Cocine los paninis en una sartén (una de hierro fundido funciona muy bien) a fuego bajo para que el relleno se caliente por completo sin quemar el pan. Es una excelente receta para preparar con anticipación: arme todos los sándwiches de antemano y envuélvalos individualmente en papel aluminio, y luego tueste el panini justo antes de servir. Acompañe este sándwich con una ensalada sencilla, como esta ensalada de espinacas, aguacate y frutos rojos de verano, para una comida equilibrada y saludable para el corazón. Duplique: ¡cocine el doble de pollo al preparar una receta como el Pollo al estragón con hierbas y champiñones y guarde el pollo sobrante para preparar estos paninis rápidos más tarde en la semana! Esta receta es de The 12-Week Diabetes Cookbook de Linda Gassenheimer.",
+    "portions": "8",
+    "serving_size": "1/2 panini",
+    "ingredients": [
+     [
+      null,
+      "4 cucharadas de mayonesa light"
+     ],
+     [
+      null,
+      "8 rebanadas (de aproximadamente 1 onza cada una) de pan integral crujiente"
+     ],
+     [
+      null,
+      "1/2 taza de estragón fresco"
+     ],
+     [
+      null,
+      "4 rebanadas (6 onzas en total) de queso suizo reducido en grasa"
+     ],
+     [
+      null,
+      "16 onzas de pechuga de pollo cocida (en rebanadas)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 rociada, 0.25 gramos de aceite de oliva en aerosol"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Arme los sándwiches: Unte 1 cucharada de mayonesa en cada una de 4 rebanadas de pan. Cubra cada una con el estragón, el queso y el pollo, repartiendo los ingredientes de manera uniforme entre las cuatro rebanadas. Espolvoree cada una con la sal y la pimienta, y luego cubra cada sándwich con las rebanadas de pan restantes."
+     ],
+     [
+      null,
+      "Rocíe con aceite de oliva en aerosol una sartén antiadherente (lo bastante grande para los paninis) y caliéntela a fuego bajo. Agregue los paninis y presione con una tapa u otra sartén limpia. Cocine 2 minutos, voltee y presione de nuevo. Cocine otros 2 minutos. (También puede usar una plancha para panini y cocinar hasta que el queso se derrita y el pan esté dorado)."
+     ],
+     [
+      null,
+      "Corte cada panini por la mitad y sirva cada mitad con ensalada."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "بانيني الدجاج السهل",
+    "description": "بانيني محمّص بخبز مقرمش وحشوة دافئة لذيذة وجبن ذائب يجعل منه غداءً أو عشاءً خفيفًا مشبعًا ومناسبًا لمرضى السكري. اطهِ البانيني في مقلاة (المقلاة الحديدية ممتازة هنا) على نار هادئة حتى تسخن الحشوة بالكامل دون أن يحترق الخبز. وهي وصفة رائعة لتحضير الوجبات مسبقًا: جهّز جميع الساندويتشات مسبقًا ولفّ كل واحد على حدة بورق الألمنيوم، ثم حمّص البانيني قبل التقديم مباشرة. قدّم هذا الساندويتش مع سلطة جانبية بسيطة، مثل سلطة السبانخ والأفوكادو وتوت الصيف، لوجبة متوازنة صحية للقلب. ضاعف الكمية: اطهِ كمية مضاعفة من الدجاج عند تحضير وصفة مثل الدجاج بالطرخون والأعشاب مع الفطر، واحتفظ بالدجاج المتبقي لتحضير هذا البانيني السريع في وقت لاحق من الأسبوع! هذه الوصفة من كتاب The 12-Week Diabetes Cookbook للمؤلفة Linda Gassenheimer.",
+    "portions": "8",
+    "serving_size": "½ بانيني",
+    "ingredients": [
+     [
+      null,
+      "4 ملاعق كبيرة مايونيز خفيف"
+     ],
+     [
+      null,
+      "8 شرائح (حوالي 1 أونصة لكل شريحة) خبز قمح كامل مقرمش"
+     ],
+     [
+      null,
+      "½ كوب طرخون طازج"
+     ],
+     [
+      null,
+      "4 شرائح (6 أونصات إجمالًا) جبن سويسري قليل الدسم"
+     ],
+     [
+      null,
+      "16 أونصة صدر دجاج مطبوخ (مقطّع شرائح)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جرام بخاخ زيت زيتون"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "جهّز الساندويتشات: ادهن 1 ملعقة كبيرة من المايونيز على كل شريحة من 4 شرائح خبز. ضع فوق كل منها الطرخون والجبن والدجاج، مع توزيع المكونات بالتساوي على الشرائح الأربع. رشّ على كل منها الملح والفلفل، ثم غطِّ كل ساندويتش بشرائح الخبز المتبقية."
+     ],
+     [
+      null,
+      "رشّ مقلاة غير لاصقة (كبيرة بما يكفي لتتسع للبانيني) ببخاخ زيت الزيتون وسخّنها على نار هادئة. ضع البانيني واضغط عليه بغطاء أو مقلاة نظيفة أخرى. اطهِه لمدة دقيقتين، ثم اقلبه واضغط مرة أخرى. اطهِه دقيقتين أخريين. (يمكنك أيضًا استخدام جهاز البانيني والطهي حتى يذوب الجبن ويصبح الخبز ذهبيًا)."
+     ],
+     [
+      null,
+      "اقطع كل بانيني إلى نصفين وقدّم كل نصف مع السلطة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6373822,
+  "translations": {
+   "en": {
+    "title": "Toasted Barley and Pepper Soup",
+    "description": "Try other grains in this soup, such as spelt, farro, or wheat berries.",
+    "portions": "6",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "3 small or 2 medium carrots (peeled and diced)"
+     ],
+     [
+      null,
+      "1 medium onion (diced)"
+     ],
+     [
+      null,
+      "3/4 cup quick-cooking barley"
+     ],
+     [
+      null,
+      "1 tablespoon olive oil"
+     ],
+     [
+      null,
+      "2 roasted garlic chicken sausage links (diced)"
+     ],
+     [
+      null,
+      "2 stalks celery (diced)"
+     ],
+     [
+      null,
+      "1 medium red bell pepper (seeded and diced)"
+     ],
+     [
+      null,
+      "1 medium orange or yellow bell pepper (seeded and diced)"
+     ],
+     [
+      null,
+      "2 cloves garlic (minced)"
+     ],
+     [
+      null,
+      "4 cups low-sodium chicken broth"
+     ],
+     [
+      null,
+      "14 1/2 oz diced tomatoes (reduced sodium)"
+     ],
+     [
+      null,
+      "1 bay leaf"
+     ],
+     [
+      null,
+      "1/2 teaspoon salt (optional)"
+     ],
+     [
+      null,
+      "1/4 teaspoon black pepper"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Add the oil to a pot over medium-high heat. Add the barley and sauté until toasted, about 2 minutes. Add the sausage and sauté 2 more minutes."
+     ],
+     [
+      null,
+      "Add the onion, celery, carrots, and bell peppers, and sauté for 3 minutes or until the onions begin to turn translucent."
+     ],
+     [
+      null,
+      "Add the garlic and sauté 1 more minute."
+     ],
+     [
+      null,
+      "Stir in the chicken broth and the tomatoes."
+     ],
+     [
+      null,
+      "Add the bay leaf, salt (optional), and ground black pepper. Bring to a boil, then reduce to a simmer. Simmer, covered, for 15 minutes."
+     ],
+     [
+      null,
+      "Remove the bay leaf and serve."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "شوربة الشعير المحمّص والفلفل",
+    "description": "جرّب حبوبًا أخرى في هذه الشوربة مثل القمح الإسباني (سبلت) أو الفارو أو حبوب القمح.",
+    "portions": "6",
+    "serving_size": null,
+    "ingredients": [
+     [
+      null,
+      "3 جزرات صغيرة أو 2 متوسطة (مقشّرة ومقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة بصل متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "¾ كوب شعير سريع الطهي"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 قطعة نقانق دجاج بالثوم المحمّص (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 عود كرفس (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة فلفل رومي أحمر متوسطة (منزوعة البذور ومقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة فلفل رومي برتقالي أو أصفر متوسطة (منزوعة البذور ومقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "4 أكواب مرق دجاج قليل الصوديوم"
+     ],
+     [
+      null,
+      "14½ أونصة طماطم مقطّعة مكعبات (مخفضة الصوديوم)"
+     ],
+     [
+      null,
+      "1 ورقة غار"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح (اختياري)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "أضف الزيت إلى قدر على نار متوسطة إلى عالية. أضف الشعير وقلّبه حتى يتحمّص، حوالي دقيقتين. أضف النقانق وقلّب دقيقتين أخريين."
+     ],
+     [
+      null,
+      "أضف البصل والكرفس والجزر والفلفل الرومي وقلّبها لمدة 3 دقائق أو حتى يبدأ البصل في أن يصبح شفافًا."
+     ],
+     [
+      null,
+      "أضف الثوم وقلّب دقيقة أخرى."
+     ],
+     [
+      null,
+      "أضف مرق الدجاج والطماطم وقلّب."
+     ],
+     [
+      null,
+      "أضف ورقة الغار والملح (اختياري) والفلفل الأسود المطحون. أحضرها إلى الغليان، ثم خفّف النار لتغلي على نار هادئة. اتركها على نار هادئة مغطاة لمدة 15 دقيقة."
+     ],
+     [
+      null,
+      "أخرج ورقة الغار وقدّم الشوربة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6373845,
+  "translations": {
+   "ar": {
+    "title": "برغل ونعناع وطماطم على شرائح الخيار",
+    "description": "هذه اللقيمات المنعشة مثالية كوجبة خفيفة بعد الظهر أو مقبلات سريعة. يمكنك تحضير خليط البرغل مسبقًا وتجميعها قبل التقديم مباشرة.",
+    "portions": "4",
+    "serving_size": "½ كوب من خليط البرغل و8 شرائح خيار",
+    "ingredients": [
+     [
+      null,
+      "⅓ كوب برغل سريع الطهي (جاف)"
+     ],
+     [
+      null,
+      "1 كوب ماء"
+     ],
+     [
+      null,
+      "1 كوب نعناع طازج (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "1 حبة طماطم روما (برقوقية) متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير ليمون"
+     ],
+     [
+      null,
+      "1½ ملعقة كبيرة زيت الكانولا"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خل التفاح"
+     ],
+     [
+      null,
+      "¼ كوب بصل أحمر (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة رقائق الفلفل الأحمر المجروش"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "32 شريحة خيار (بسمك ¼ بوصة تقريبًا لكل شريحة، 12 أونصة إجمالًا)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "أحضر الماء والبرغل إلى الغليان في قدر متوسطة على نار عالية. خفّف النار وغطِّ القدر واتركه على نار هادئة 12 دقيقة."
+     ],
+     [
+      null,
+      "في الأثناء، اخلط بقية المكونات، عدا الخيار، في وعاء متوسط."
+     ],
+     [
+      null,
+      "صفِّ البرغل في مصفاة ناعمة واشطفه بماء بارد ليبرد بسرعة. انفض السائل الزائد وقلّبه مع خليط الطماطم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6374972,
+  "translations": {
+   "ar": {
+    "title": "هريس القرنبيط المخبوز",
+    "description": "لتحضير هريس القرنبيط المخبوز هذا، استخدم خلاطًا يدويًا. هذه الأداة المطبخية التي لا غنى عنها طريقة رائعة لتوفير الوقت والأواني. اهرس الطعام في الوعاء الذي طُهي فيه نفسه، ويصبح التنظيف سهلًا للغاية.",
+    "portions": "6",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ],
+     [
+      null,
+      "2 رأس قرنبيط (مقطّع زهيرات)"
+     ],
+     [
+      null,
+      "¾ كوب مرق دجاج قليل الصوديوم (خالٍ من الدهون، مخفض الصوديوم)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة سمن Smart Balance الأصلي بنكهة الزبدة"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح (اختياري)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "¼ كوب بقدونس طازج (مفروم، مقسّم)"
+     ],
+     [
+      null,
+      "3½ ملعقة كبيرة جبن بارميزان (مبشور طازجًا)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 350 درجة (175° مئوية). ادهن طبق خبز مقاس 8×8 بوصات ببخاخ الطهي."
+     ],
+     [
+      null,
+      "ضع زهيرات القرنبيط ومرق الدجاج وسمن Smart Balance والملح والفلفل في قدر شوربة كبيرة على نار عالية حتى يبدأ السائل بالغليان. خفّف النار إلى غليان هادئ، وغطِّ القدر واطهِ على البخار لمدة 10-12 دقيقة أو حتى يصبح القرنبيط طريًا تمامًا عند وخزه بالشوكة."
+     ],
+     [
+      null,
+      "باستخدام خلاط يدوي (غاطس) أو محضّر طعام، اخلط خليط القرنبيط حتى يصبح ناعمًا. أضف ملعقتين كبيرتين من البقدونس المفروم بالتقليب الرفيق."
+     ],
+     [
+      null,
+      "في وعاء صغير، اخلط ملعقتي البقدونس الكبيرتين المتبقيتين مع الجبن المبشور."
+     ],
+     [
+      null,
+      "اسكب هريس القرنبيط في طبق الخبز المجهز. رشّ الوجه بخليط الجبن والبقدونس واخبزه لمدة 5-7 دقائق أو حتى يذوب الجبن ويبدأ بالاحمرار عند الأطراف."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6375634,
+  "translations": {
+   "ar": {
+    "title": "بارفيه الطاقة لصباح الخير",
+    "description": "خيار فطور رائع، تميّزه القرفة والحبوب بنمط غراب-نتس في هذه الوصفة عن بارفيه الفاكهة والزبادي المعتاد.",
+    "portions": "4",
+    "serving_size": "1 بارفيه، حوالي 1 كوب",
+    "ingredients": [
+     [
+      null,
+      "2 كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة قرفة مطحونة"
+     ],
+     [
+      null,
+      "1 حبة موز متوسطة"
+     ],
+     [
+      null,
+      "2½ كوب فراولة (مقطّعة شرائح)"
+     ],
+     [
+      null,
+      "¼ كوب حبوب إفطار بنمط غراب-نتس"
+     ],
+     [
+      null,
+      "2 غصن نعناع طازج (للتزيين)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع القرفة والموز و1 كوب من الزبادي في الخلاط واخلط حتى يصبح ناعمًا. وزّعه على 4 كؤوس نبيذ أو كؤوس بارفيه."
+     ],
+     [
+      null,
+      "ضع فوق كل كأس ½ كوب من شرائح الفراولة و¼ كوب من الزبادي المتبقي و1 ملعقة كبيرة من الحبوب. زيّنه بغصن نعناع إن رغبت."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6375867,
+  "translations": {
+   "es": {
+    "title": "Barras heladas de yogur griego con fresas y chocolate oscuro",
+    "description": "Las barras heladas de yogur griego con fresas y chocolate oscuro son un delicioso postre congelado que combina la cremosidad del yogur griego con la dulzura de las fresas y el intenso chocolate oscuro.",
+    "portions": "8",
+    "serving_size": "2 trozos (~91 g)",
+    "ingredients": [
+     [
+      null,
+      "2 tazas de yogur griego natural bajo en grasa"
+     ],
+     [
+      null,
+      "2 cucharadas de jarabe sin azúcar de uso múltiple"
+     ],
+     [
+      null,
+      "1 cucharadita de extracto de vainilla"
+     ],
+     [
+      null,
+      "1 taza de fresas frescas (en rodajas)"
+     ],
+     [
+      null,
+      "2 onzas de chispas de chocolate oscuro (sin azúcar agregada)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Forre una bandeja para hornear con papel pergamino."
+     ],
+     [
+      null,
+      "En un tazón, combine el yogur griego, el jarabe y el extracto de vainilla. Mezcle hasta que todo esté bien integrado."
+     ],
+     [
+      null,
+      "Vierta la mezcla de yogur griego sobre la bandeja preparada y extiéndala con una espátula en una capa uniforme."
+     ],
+     [
+      null,
+      "Esparza las fresas en rodajas y el chocolate oscuro picado sobre el yogur griego."
+     ],
+     [
+      null,
+      "Coloque la bandeja en el congelador y deje que la barra de yogur se congele durante al menos 3 horas o hasta que esté firme."
+     ],
+     [
+      null,
+      "Una vez congelada, rompa la barra en trozos. Guárdela en un recipiente hermético en el congelador."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "ألواح الزبادي اليوناني المجمّد بالفراولة والشوكولاتة الداكنة",
+    "description": "ألواح الزبادي اليوناني المجمّد بالفراولة والشوكولاتة الداكنة حلوى مثلجة شهية تجمع بين كريمية الزبادي اليوناني وحلاوة الفراولة والشوكولاتة الداكنة الغنية.",
+    "portions": "8",
+    "serving_size": "قطعتان (حوالي 91 جم)",
+    "ingredients": [
+     [
+      null,
+      "2 كوب زبادي يوناني سادة قليل الدسم"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة شراب خالٍ من السكر متعدد الاستخدامات"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خلاصة الفانيليا"
+     ],
+     [
+      null,
+      "1 كوب فراولة طازجة (مقطّعة شرائح)"
+     ],
+     [
+      null,
+      "2 أونصة رقائق شوكولاتة داكنة (بدون سكر مضاف)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "بطّن صينية خبز بورق الزبدة."
+     ],
+     [
+      null,
+      "في وعاء، اخلط الزبادي اليوناني والشراب وخلاصة الفانيليا. امزج حتى يتجانس الخليط جيدًا."
+     ],
+     [
+      null,
+      "اسكب خليط الزبادي اليوناني على الصينية المجهزة، ووزّعه بالملعقة العريضة (السباتولا) في طبقة متساوية."
+     ],
+     [
+      null,
+      "وزّع شرائح الفراولة والشوكولاتة الداكنة المفرومة فوق الزبادي اليوناني."
+     ],
+     [
+      null,
+      "ضع الصينية في الفريزر واترك ألواح الزبادي تتجمد لمدة 3 ساعات على الأقل أو حتى تتماسك."
+     ],
+     [
+      null,
+      "بعد أن تتجمد، اكسر الألواح إلى قطع. احفظها في وعاء محكم الإغلاق في الفريزر."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6378666,
+  "translations": {
+   "es": {
+    "title": "Vasitos de verduras con dip",
+    "description": "¡Es una botana perfecta para niños Y adultos! Preparar las verduras y el dip en porciones individuales ayuda a controlar el tamaño de la porción, ¡y puede mojar más de una vez en su propio vasito! Empaque estos vasitos con tapa para llevar, o prepare una tanda más grande para servir como aperitivo saludable cuando tenga invitados. Si no tiene todas las hierbas secas y especias, puede usar en su lugar 1 cucharada de mezcla en polvo para aderezo ranch.",
+    "portions": "4",
+    "serving_size": "1 taza de verduras + 1/4 de taza de dip",
+    "ingredients": [
+     [
+      null,
+      "1/4 de taza de suero de leche bajo en grasa"
+     ],
+     [
+      null,
+      "1/2 taza de yogur griego natural sin grasa"
+     ],
+     [
+      null,
+      "1/4 de taza de mayonesa light"
+     ],
+     [
+      null,
+      "1 cucharada de perejil fresco (picado fino)"
+     ],
+     [
+      null,
+      "1/2 cucharadita de eneldo seco"
+     ],
+     [
+      null,
+      "1/2 cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1/2 cucharadita de cebolla en polvo"
+     ],
+     [
+      null,
+      "1/8 de cucharadita de sal"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "4 tazas de palitos de verduras surtidas para mojar (zanahorias, pepinos, apio, pimiento, etc.)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón mediano, combine el suero de leche, el yogur, la mayonesa, el perejil, el eneldo, el ajo en polvo, la cebolla en polvo, la sal y la pimienta."
+     ],
+     [
+      null,
+      "Vierta 1/4 del dip en un vaso de cóctel de plástico o de vidrio."
+     ],
+     [
+      null,
+      "Acomode 1 taza de palitos de verduras surtidas en el vaso de modo que todos toquen el dip."
+     ],
+     [
+      null,
+      "Repita el proceso con 3 vasos más. Si no los va a servir de inmediato, guarde los palitos de verduras por separado y agréguelos a los vasos con el dip antes de servir."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "أكواب الخضار مع الغموس",
+    "description": "وجبة خفيفة مثالية للأطفال والكبار على حد سواء! تقسيم الخضار والغموس معًا إلى حصص جاهزة يساعد على التحكم في حجم الحصة، ويمكنك الغمس أكثر من مرة في كوبك الخاص! عبّئ هذه الأكواب في أكواب محكمة الإغلاق لتأخذها معك، أو حضّر كمية أكبر لتقديمها كمقبلات صحية عند استقبال الضيوف. وإذا لم تتوفر لديك جميع الأعشاب والتوابل المجففة، يمكنك استخدام 1 ملعقة كبيرة من مسحوق صلصة الرانش بدلًا منها.",
+    "portions": "4",
+    "serving_size": "1 كوب خضار + ¼ كوب غموس",
+    "ingredients": [
+     [
+      null,
+      "¼ كوب لبن الزبدة (باترميلك) قليل الدسم"
+     ],
+     [
+      null,
+      "½ كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "¼ كوب مايونيز خفيف"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة بقدونس طازج (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة شبت مجفف"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة مسحوق البصل"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "4 أكواب أعواد خضار متنوعة للغمس (جزر وخيار وكرفس وفلفل رومي وغيرها)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء متوسط، اخلط لبن الزبدة (الباترميلك) والزبادي والمايونيز والبقدونس والشبت ومسحوق الثوم ومسحوق البصل والملح والفلفل."
+     ],
+     [
+      null,
+      "اسكب ¼ الغموس في كوب كوكتيل بلاستيكي أو زجاجي."
+     ],
+     [
+      null,
+      "رتّب 1 كوب من أعواد الخضار المتنوعة في الكوب بحيث تلامس جميعها الغموس."
+     ],
+     [
+      null,
+      "كرّر العملية مع 3 أكواب أخرى. وإذا لم تقدّمها فورًا، فاحفظ أعواد الخضار منفصلة وأضفها إلى الأكواب مع الغموس قبل التقديم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6379140,
+  "translations": {
+   "es": {
+    "title": "Hamburguesa básica de frijoles",
+    "description": "¿Busca una hamburguesa sabrosa, llena de proteína, económica y perfecta para los lunes sin carne? Esta versión saludable del clásico es más barata, buena para el corazón y se prepara con ingredientes que probablemente ya tiene en la despensa. Para obtener más sabor del suroeste con menos carbohidratos, sirva cada hamburguesa de frijoles en una hoja de lechuga cubierta con 1 cucharada de salsa y una rebanada de aguacate. También es un excelente relleno sin carne para un taco o un burrito. Pero si prefiere un sabor más clásico, sírvala en un pan integral con 1 rebanada de queso cheddar, una hoja grande de lechuga y una rebanada gruesa de tomate.",
+    "portions": "8",
+    "serving_size": "1 hamburguesa",
+    "ingredients": [
+     [
+      null,
+      "2 latas (de 15 onzas) de frijoles en lata (de cualquier tipo) (escurridos y enjuagados)"
+     ],
+     [
+      null,
+      "1/2 taza de cebolla amarilla (picada fino)"
+     ],
+     [
+      null,
+      "1 taza de cereal integral cocido, como arroz integral, avena o quinoa"
+     ],
+     [
+      null,
+      "1 huevo grande"
+     ],
+     [
+      null,
+      "1 cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1/2 cucharadita de sal"
+     ],
+     [
+      null,
+      "1/2 cucharadita de pimienta negra molida"
+     ],
+     [
+      null,
+      "1 rociada, 0.25 g de aceite en aerosol antiadherente"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Ponga 1 1/2 tazas de los frijoles en un tazón grande con la cebolla. Con un tenedor o un machacador de papas, macháquelos hasta que estén casi suaves (quedarán ligeramente grumosos por la cebolla). Nota: Si tiene un procesador de alimentos, puede licuarlos hasta que estén suaves y luego pasarlos a un tazón."
+     ],
+     [
+      null,
+      "Agregue los frijoles restantes, el cereal cocido, el huevo, el ajo en polvo, la sal y la pimienta. Revuelva hasta que todo esté bien integrado."
+     ],
+     [
+      null,
+      "Forme con la mezcla de frijoles 8 hamburguesas de 1/2 pulgada de grosor."
+     ],
+     [
+      null,
+      "Rocíe aceite en aerosol en una sartén antiadherente a fuego medio. Agregue las hamburguesas de frijoles y cocínelas unos 2-3 minutos por lado, hasta que se doren ligeramente. Cocine por tandas si su sartén no es lo bastante grande para las 8 hamburguesas."
+     ],
+     [
+      null,
+      "Guárdelas en un recipiente hermético en el refrigerador hasta por 1 semana, o envuélvalas individualmente en bolsas o recipientes para congelador y congélelas hasta por 6 meses (congele solo las hamburguesas cocidas, no las crudas)."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "برغر الفاصولياء الأساسي",
+    "description": "هل تبحث عن برغر لذيذ وغني بالبروتين واقتصادي ومثالي لأيام الاثنين الخالية من اللحوم؟ هذه النسخة الصحية من الوصفة الكلاسيكية أرخص وصحية للقلب، وتُحضَّر من مكونات ربما تملكها في مخزنك. وللحصول على نكهة أكثر من الجنوب الغربي مع كربوهيدرات أقل، قدّم كل قرص برغر فاصولياء في ورقة خس مع 1 ملعقة كبيرة من الصلصة (السالسا) وشريحة أفوكادو. كما أنها حشوة رائعة خالية من اللحم للتاكو أو البوريتو. ولكن إذا كنت تفضّل مذاقًا أكثر كلاسيكية، فقدّمه على خبز برغر من الحبوب الكاملة مع 1 شريحة جبن شيدر وورقة خس كبيرة وشريحة سميكة من الطماطم.",
+    "portions": "8",
+    "serving_size": "1 برغر",
+    "ingredients": [
+     [
+      null,
+      "2 علبة (15 أونصة) فاصولياء معلّبة (أي نوع) (مصفاة ومشطوفة)"
+     ],
+     [
+      null,
+      "½ كوب بصل أصفر (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "1 كوب حبوب كاملة مطبوخة مثل الأرز البني أو الشوفان أو الكينوا"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة فلفل أسود مطحون"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع 1½ كوب من الفاصولياء في وعاء كبير مع البصل. باستخدام شوكة أو مهراس البطاطس، اهرسها حتى تصبح ناعمة في معظمها (ستبقى فيها بعض القطع بسبب البصل). ملاحظة: إذا كان لديك محضّر طعام، يمكنك خلطها حتى تصبح ناعمة ثم وضعها في وعاء."
+     ],
+     [
+      null,
+      "أضف باقي الفاصولياء والحبوب المطبوخة والبيض ومسحوق الثوم والملح والفلفل. قلّب حتى تمتزج المكونات جيدًا."
+     ],
+     [
+      null,
+      "شكّل خليط الفاصولياء 8 أقراص بسمك ½ بوصة."
+     ],
+     [
+      null,
+      "رشّ مقلاة غير لاصقة ببخاخ الطهي على نار متوسطة. ضع أقراص الفاصولياء واطهِها حوالي 2-3 دقائق لكل جانب حتى تحمرّ قليلًا. اطهها على دفعات إذا لم تتسع مقلاتك للأقراص الثمانية جميعها."
+     ],
+     [
+      null,
+      "احفظها في وعاء محكم الإغلاق في الثلاجة حتى أسبوع واحد، أو لفّ كل قرص على حدة في أكياس أو علب للتجميد وجمّدها حتى 6 أشهر (جمّد البرغر المطبوخ فقط، ولا تجمّد البرغر النيئ)."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6379199,
+  "translations": {
+   "es": {
+    "title": "Bocaditos de pepino y queso crema",
+    "description": "Los bocaditos de pepino y queso crema son un aperitivo refrescante y fácil de preparar que combina lo crujiente del pepino con lo cremoso del queso crema. Su textura crujiente y la combinación de sabores los convierten en un éxito entre los invitados, y puede ser creativo con distintos ingredientes para cubrirlos según su gusto, como tomates cherry o rodajas de rábano.",
+    "portions": "4",
+    "serving_size": "3 piezas",
+    "ingredients": [
+     [
+      null,
+      "4 onzas de queso crema light (sin grasa)"
+     ],
+     [
+      null,
+      "2 cucharadas de eneldo fresco (picado fino, más un poco para decorar)"
+     ],
+     [
+      null,
+      "1/2 cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1 cucharadita de ralladura de limón"
+     ],
+     [
+      null,
+      "1 pepino inglés grande (en rodajas finas de 1/4 de pulgada)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En un tazón, mezcle con una batidora de mano el queso crema, el eneldo fresco picado fino, el ajo en polvo y la ralladura de limón hasta que quede esponjoso."
+     ],
+     [
+      null,
+      "Cubra bien cada rodaja de pepino con una buena cucharada de la mezcla de queso crema."
+     ],
+     [
+      null,
+      "Decore con más eneldo."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "لقيمات الخيار والجبن الكريمي",
+    "description": "لقيمات الخيار والجبن الكريمي مقبلات منعشة وسهلة التحضير تجمع بين قرمشة الخيار وطعم الجبن الكريمي الغني. قوامها المقرمش وتمازج نكهاتها يجعلانها محبوبة لدى الجميع، ويمكنك الإبداع بإضافات مختلفة لتناسب ذوقك مثل طماطم الكرز أو شرائح الفجل.",
+    "portions": "4",
+    "serving_size": "3 قطع",
+    "ingredients": [
+     [
+      null,
+      "4 أونصات جبن كريمي خفيف (خالٍ من الدسم)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة شبت طازج (مفروم ناعمًا، مع كمية إضافية للتزيين)"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة قشر ليمون مبشور"
+     ],
+     [
+      null,
+      "1 حبة خيار إنجليزي كبيرة (مقطّعة حلقات رفيعة بسمك ¼ بوصة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء خلط، اخفق الجبن الكريمي والشبت الطازج المفروم ناعمًا ومسحوق الثوم وقشر الليمون بالخلاط اليدوي حتى يصبح الخليط هشًا."
+     ],
+     [
+      null,
+      "ادهن كل شريحة خيار جيدًا بكمية سخية من خليط الجبن الكريمي."
+     ],
+     [
+      null,
+      "زيّنها بمزيد من الشبت."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6379337,
+  "translations": {
+   "es": {
+    "title": "Guacamole de pepino",
+    "description": "¿A quién no le encanta un buen guacamole? Aunque los aguacates son muy buenos para nosotros y podemos disfrutarlos a diario, es clave cuidar el tamaño de la porción. Siempre que preparo guacamole, trato de complementar el aguacate con una verdura para que rinda más y reducir la cantidad de aguacate en la receta. El pepino es ideal porque es refrescante y no altera el sabor. El calabacín también quedaría muy bien. Sirva con rábanos en rodajas o jícama en lugar de totopos para una botana o aperitivo bajo en carbohidratos.",
+    "portions": "6",
+    "serving_size": "1/4 de taza",
+    "ingredients": [
+     [
+      null,
+      "1 aguacate Hass mediano (sin hueso y en cubos)"
+     ],
+     [
+      null,
+      "1 tomate roma mediano (en cubos)"
+     ],
+     [
+      null,
+      "1/2 pepino inglés (sin semillas) entero (de aprox. 4 onzas) (picado fino)"
+     ],
+     [
+      null,
+      "2 cucharadas de cilantro fresco (picado)"
+     ],
+     [
+      null,
+      "1 cucharada de jugo de limón verde"
+     ],
+     [
+      null,
+      "1 cucharada de vinagre de vino blanco"
+     ],
+     [
+      null,
+      "1/2 chile jalapeño entero (picado fino)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Machaque el aguacate de forma gruesa en un tazón mediano. Agregue el tomate, el pepino, el cilantro, el jugo de limón, el vinagre, el jalapeño y la sal, y mezcle bien. Sirva con rábanos en rodajas para mojar, si lo desea."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "جواكامولي بالخيار",
+    "description": "من لا يحب الجواكامولي اللذيذ؟ ورغم أن الأفوكادو مفيد جدًا لنا ويمكننا الاستمتاع به يوميًا، فإن الانتباه إلى حجم الحصة أمر أساسي. كلما حضّرت الجواكامولي أحاول أن أكمّل الأفوكادو بنوع من الخضار لزيادة الكمية وتقليل كمية الأفوكادو في الوصفة. الخيار رائع لأنه منعش ولا يغيّر النكهة. والكوسا ستكون رائعة أيضًا. قدّمه مع شرائح الفجل أو الجيكاما بدلًا من رقائق التورتيلا لوجبة خفيفة أو مقبلات قليلة الكربوهيدرات.",
+    "portions": "6",
+    "serving_size": "¼ كوب",
+    "ingredients": [
+     [
+      null,
+      "1 حبة أفوكادو هاس متوسطة (منزوعة النواة ومقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة طماطم روما (برقوقية) متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "½ حبة خيار إنجليزي (بدون بذور) كاملة (حوالي 4 أونصات) (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة كزبرة خضراء طازجة (مفرومة)"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة عصير ليمون أخضر"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة خل النبيذ الأبيض"
+     ],
+     [
+      null,
+      "½ حبة فلفل هالابينو كاملة (مفرومة)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اهرس الأفوكادو هرسًا خشنًا في وعاء متوسط. أضف الطماطم والخيار والكزبرة الخضراء وعصير الليمون الأخضر والخل والهالابينو والملح وامزج جيدًا. قدّمه مع شرائح الفجل للغمس إن رغبت."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6379941,
+  "translations": {
+   "ar": {
+    "title": "فطائر البطاطا الحلوة بالقمح الكامل",
+    "description": "يمكنك استبدال اليقطين المعلّب في هذه الوصفة للحصول على فطائر اليقطين، واستخدام توابل فطيرة اليقطين بدلًا من القرفة.",
+    "portions": "10",
+    "serving_size": "1 فطيرة",
+    "ingredients": [
+     [
+      null,
+      "⅓ كوب شوفان مسطّح تقليدي"
+     ],
+     [
+      null,
+      "⅓ كوب جنين القمح"
+     ],
+     [
+      null,
+      "1 كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "1 بيضة كبيرة"
+     ],
+     [
+      null,
+      "2 بياض بيض كامل"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خلاصة الفانيليا"
+     ],
+     [
+      null,
+      "1 كوب حليب خالٍ من الدسم"
+     ],
+     [
+      null,
+      "1 كوب بطاطا حلوة مهروسة"
+     ],
+     [
+      null,
+      "1 كوب دقيق قمح كامل"
+     ],
+     [
+      null,
+      "1½ ملعقة صغيرة بيكنج بودر"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة بيكربونات الصودا"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة قرفة مطحونة"
+     ],
+     [
+      null,
+      "⅓ كوب بديل سكر قليل السعرات"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في وعاء متوسط، اخلط الشوفان وجنين القمح والزبادي. اتركه حتى يلين الشوفان. أضف البيضة وبياض البيض والفانيليا والحليب الخالي من الدسم والبطاطا الحلوة المهروسة وامزج."
+     ],
+     [
+      null,
+      "في وعاء كبير، اخلط دقيق القمح الكامل والبيكنج بودر وبيكربونات الصودا والملح والقرفة والمُحلّي قليل السعرات أو الخالي منها."
+     ],
+     [
+      null,
+      "اصنع حفرة في وسط المكونات الجافة. اسكب الخليط الرطب كله في الحفرة وقلّبه برفق حتى يمتزج تمامًا."
+     ],
+     [
+      null,
+      "ادهن صاجًا أو مقلاة غير لاصقة ببخاخ الطهي وسخّنها على نار متوسطة. استخدم ⅓ كوب من العجين لكل فطيرة واطهِ حتى يحمرّ الوجه السفلي وتبدأ فقاعات بالانفجار عند الأطراف. اقلب الفطيرة واطهِ حتى تحمرّ وتصبح متماسكة قليلًا عند اللمس في الوسط."
+     ],
+     [
+      null,
+      "كرّر الإجراء للفطائر التسع المتبقية."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6379945,
+  "translations": {
+   "es": {
+    "title": "Sopa toscana básica de frijoles",
+    "description": "Llena de verduras coloridas y frijoles, esta sopa sustanciosa es un acompañamiento o plato principal perfecto. Agregue un panecillo crujiente y una ensalada para completar una comida, o sírvala con ½ sándwich o con pollo o cerdo asado.",
+    "portions": "9",
+    "serving_size": "1 taza",
+    "ingredients": [
+     [
+      null,
+      "1 cucharada de aceite de oliva"
+     ],
+     [
+      null,
+      "2 zanahorias medianas (en cubos)"
+     ],
+     [
+      null,
+      "2 tallos de apio (en cubos)"
+     ],
+     [
+      null,
+      "1 cebolla mediana (en cubos)"
+     ],
+     [
+      null,
+      "4 dientes de ajo (picados)"
+     ],
+     [
+      null,
+      "2 cucharaditas de romero fresco (picado)"
+     ],
+     [
+      null,
+      "30 onzas de garbanzos (aprox. 2 latas, enjuagados y escurridos)"
+     ],
+     [
+      null,
+      "1 lata (de 14 onzas) de tomates en cubos"
+     ],
+     [
+      null,
+      "5 tazas de caldo de pollo o de verduras (bajo en sodio)"
+     ],
+     [
+      null,
+      "2 cucharadas de albahaca fresca (picada)"
+     ],
+     [
+      null,
+      "2 cucharadas de vinagre balsámico"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una olla a fuego medio, caliente el aceite de oliva. Agregue la cebolla, el apio y las zanahorias y saltee 5 minutos. Agregue el ajo y el romero y saltee 1 minuto. Agregue los demás ingredientes, excepto el vinagre y la albahaca. Lleve a ebullición. Reduzca el fuego y cocine a fuego lento, parcialmente tapada, durante 20 minutos."
+     ],
+     [
+      null,
+      "Agregue el vinagre. Cubra con la albahaca antes de servir."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "حساء الفاصولياء التوسكاني الأساسي",
+    "description": "هذا الحساء المشبع، المليء بالخضار الملوّنة والفاصولياء، مثالي كطبق جانبي أو رئيسي. أضف رغيف خبز مقرمشًا وسلطة لتكتمل الوجبة، أو قدّمه مع نصف ساندويتش أو دجاج أو لحم خنزير مشوي.",
+    "portions": "9",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 جزرة متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "2 عود كرفس (مقطّع مكعبات)"
+     ],
+     [
+      null,
+      "1 حبة بصل متوسطة (مقطّعة مكعبات)"
+     ],
+     [
+      null,
+      "4 فص ثوم (مفروم)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة إكليل الجبل (روزماري) طازج (مفروم)"
+     ],
+     [
+      null,
+      "30 أونصة حمص (حوالي علبتين، مشطوف ومصفى)"
+     ],
+     [
+      null,
+      "1 علبة (14 أونصة) طماطم معلّبة مقطّعة مكعبات"
+     ],
+     [
+      null,
+      "5 أكواب مرق دجاج أو خضار (قليل الصوديوم)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة ريحان طازج (مفروم)"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة خل بلسمي"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "في قدر على نار متوسطة، سخّن زيت الزيتون. أضف البصل والكرفس والجزر وقلّبها لمدة 5 دقائق. أضف الثوم وإكليل الجبل وقلّب لمدة دقيقة واحدة. أضف باقي المكونات ما عدا الخل والريحان. أحضرها إلى الغليان. خفّف النار واتركها على نار هادئة والقدر مغطى جزئيًا لمدة 20 دقيقة."
+     ],
+     [
+      null,
+      "أضف الخل. زيّنها بالريحان قبل التقديم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6380287,
+  "translations": {
+   "ar": {
+    "title": "سلطة الذرة والطماطم والبازلاء والشبت",
+    "description": "استعد للصيف مع هذه السلطة المقرمشة والملوّنة. قدّمها بجانب الديك الرومي المشوي أو السمك المشوي لوجبة متوازنة ومشبعة.",
+    "portions": "4",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "1 ملعقة صغيرة فلفل مطحون طازجًا، حسب الذوق"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة ملح، حسب الذوق"
+     ],
+     [
+      null,
+      "10 أوراق ريحان طازج (ممزقة)"
+     ],
+     [
+      null,
+      "1 حزمة شبت صغير طازج (مفروم ناعمًا (حوالي 4 ملاعق كبيرة))"
+     ],
+     [
+      null,
+      "½ كوب طماطم كرز (مقسومة إلى نصفين)"
+     ],
+     [
+      null,
+      "1 كوب بازلاء سكر سناب أو بازلاء إنجليزية"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة زيت زيتون بكر ممتاز"
+     ],
+     [
+      null,
+      "1 كوب ذرة مجمدة (مذابة)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "ضع البازلاء في قدر وغطِّها بالماء. أحضرها إلى الغليان على نار عالية واطهِها لمدة 5 دقائق أو حتى تلين. صفِّها. اشطفها بالماء البارد."
+     ],
+     [
+      null,
+      "اخلط البازلاء والذرة والطماطم وزيت الزيتون والشبت والريحان والملح والفلفل في وعاء كبير. قلّب جيدًا للمزج. قدّمها بدرجة حرارة الغرفة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6380518,
+  "translations": {
+   "ar": {
+    "title": "سلطة الموزاريلا والطماطم والحمص",
+    "description": "تستغرق هذه السلطة 5 دقائق فقط للتحضير وهي غنية بالعناصر الغذائية. وهي طبق جانبي ملوّن، ويمكنك أيضًا تقديمها كطبق رئيسي خفيف للغداء أو العشاء.",
+    "portions": "6",
+    "serving_size": "½ كوب",
+    "ingredients": [
+     [
+      null,
+      "3 أونصات كرات موزاريلا طازجة (مصفاة)"
+     ],
+     [
+      null,
+      "1½ كوب طماطم كرز"
+     ],
+     [
+      null,
+      "1½ كوب حمص معلّب (بدون ملح مضاف)"
+     ],
+     [
+      null,
+      "2 ملعقة صغيرة زيت زيتون بكر ممتاز"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة ملح خشن"
+     ],
+     [
+      null,
+      "⅛ ملعقة صغيرة فلفل أسود مطحون طازجًا، حسب الذوق"
+     ],
+     [
+      null,
+      "12 أونصة سبانخ صغيرة (بيبي)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط كرات الموزاريلا والطماطم والحمص في وعاء متوسط. أضف زيت الزيتون. قلّب وتذوّق وأضف الملح والفلفل حسب الذوق."
+     ],
+     [
+      null,
+      "اغسل السبانخ ورتّبها طبقة في قاع وعاء التقديم. ضع ½ كوب من خليط الموزاريلا والطماطم والحمص فوق السبانخ. قدّمها بدرجة حرارة الغرفة."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6381004,
+  "translations": {
+   "es": {
+    "title": "Aderezo de aguacate y limón verde para ensalada",
+    "description": null,
+    "portions": "12",
+    "serving_size": "2 cucharadas",
+    "ingredients": [
+     [
+      null,
+      "1 aguacate (sin hueso y pelado)"
+     ],
+     [
+      null,
+      "1/4 de taza de yogur griego natural sin grasa"
+     ],
+     [
+      null,
+      "1/2 taza de agua"
+     ],
+     [
+      null,
+      "1/4 de taza de cilantro fresco (hojas y tallos)"
+     ],
+     [
+      null,
+      "3 cucharadas de jugo de limón verde"
+     ],
+     [
+      null,
+      "1 cucharada de ajo (picado)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de sal"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "En una licuadora o procesador de alimentos, licue todos los ingredientes hasta obtener una mezcla suave. Agregue más agua si desea un aderezo más ligero."
+     ],
+     [
+      null,
+      "Guárdelo en un frasco con tapa hermética u otro recipiente hermético en el refrigerador hasta por 7 días."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "صلصة سلطة الأفوكادو والليمون الأخضر",
+    "description": null,
+    "portions": "12",
+    "serving_size": "2 ملعقة كبيرة",
+    "ingredients": [
+     [
+      null,
+      "1 حبة أفوكادو (منزوعة النواة ومقشّرة)"
+     ],
+     [
+      null,
+      "¼ كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "½ كوب ماء"
+     ],
+     [
+      null,
+      "¼ كوب كزبرة خضراء طازجة (أوراق وسيقان)"
+     ],
+     [
+      null,
+      "3 ملاعق كبيرة عصير ليمون أخضر"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة ثوم (مفروم)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة ملح"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "اخلط جميع المكونات في خلاط أو محضّر طعام حتى تصبح ناعمة. أضف مزيدًا من الماء إذا كنت تفضّل صلصة أخف قوامًا."
+     ],
+     [
+      null,
+      "احفظها في برطمان بغطاء محكم أو في وعاء آخر محكم الإغلاق في الثلاجة حتى 7 أيام."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6381007,
+  "translations": {
+   "ar": {
+    "title": "طبقات التوت والشوكولاتة والفانيليا بحليب الصويا",
+    "description": "تتميز هذه الحلوى بطبقات متتالية من النكهة التي لا تثقل عليك، والقوام الكريمي، والتوت العصيري. حضّرها قبل يوم لتمتزج النكهات معًا. استخدم وعاءً زجاجيًا شفافًا بجوانب مستقيمة للحصول على أفضل مظهر. ولا بأس من تحضير نسخة استوائية بطبقات من البابايا والمانجو والأناناس والموز. ورشّ عليها قليلًا من جوز الهند أيضًا.",
+    "portions": "6",
+    "serving_size": "1 كوب",
+    "ingredients": [
+     [
+      null,
+      "1 كوب حليب صويا أو لوز بالشوكولاتة غير محلّى"
+     ],
+     [
+      null,
+      "1 كوب حليب صويا أو لوز بالفانيليا غير محلّى"
+     ],
+     [
+      null,
+      "2 ملعقة كبيرة مُحلٍّ قليل السعرات أو خالٍ منها (مقسّمة إلى نصفين)"
+     ],
+     [
+      null,
+      "4 ملاعق كبيرة نشا الذرة (مقسّمة إلى نصفين، كل نصف يُمزج مع ملعقة كبيرة من حليب الصويا أو اللوز البارد)"
+     ],
+     [
+      null,
+      "1 باينت توت العليق"
+     ],
+     [
+      null,
+      "1 باينت توت العُلّيق الأسود"
+     ],
+     [
+      null,
+      "1 باينت فراولة (منزوعة العنق ومقطّعة شرائح)"
+     ],
+     [
+      null,
+      "1 رشّة خفيفة مسحوق الكاكاو (للتزيين)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن نكهتي حليب الصويا في قدرين منفصلين على نار هادئة. أضف 1 ملعقة كبيرة من المُحلّي قليل السعرات أو الخالي منها و2 ملعقة كبيرة من النشا الممزوج بحليب الصويا البارد إلى كل قدر من حليب الصويا الذي يغلي بهدوء، وسخّنه حتى يتكاثف الحليب. ارفعه عن النار واتركه يبرد."
+     ],
+     [
+      null,
+      "في وعاء زجاجي كبير، ضع حليب الصويا بالشوكولاتة وبالفانيليا بالتناوب مع التوت لتكوين طبقات. اجعل الطبقة العليا من التوت ورشّ عليها مسحوق الكاكاو."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6382213,
+  "translations": {
+   "ar": {
+    "title": "أفضل دجاج مشوي",
+    "description": "تنتج هذه الوصفة المضمونة دجاجة مشوية ذهبية غنية بالنكهة، بالإضافة إلى مرق لذيذ تسكبه فوق الدجاج والأطباق الجانبية التي تقدّمها معه. احرص على الاطلاع على مدونتنا حول الخيارات الصحية لشيّ الدجاج.",
+    "portions": "8",
+    "serving_size": "3 أونصات دجاج",
+    "ingredients": [
+     [
+      null,
+      "حوالي 5 أغصان كاملة من الزعتر الطازج"
+     ],
+     [
+      null,
+      "حوالي 5 أغصان كاملة من البقدونس الطازج"
+     ],
+     [
+      null,
+      "2 عود كرفس (مفروم فرمًا خشنًا)"
+     ],
+     [
+      null,
+      "1 حبة بصل متوسطة (مقطّعة إلى بضع قطع كبيرة)"
+     ],
+     [
+      null,
+      "2 جزرة متوسطة (مقطّعة إلى بضع قطع كبيرة)"
+     ],
+     [
+      null,
+      "1 بخّة، 0.25 جم بخاخ طهي غير لاصق"
+     ],
+     [
+      null,
+      "1 دجاجة كاملة للشيّ (5½ أرطال)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة ملح (اختياري)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 ملعقة كبيرة زيت زيتون"
+     ],
+     [
+      null,
+      "2 حبة ليمون متوسطة (مقطّعة أسافين)"
+     ],
+     [
+      null,
+      "4 فص ثوم (مقشّر ومهروس)"
+     ],
+     [
+      null,
+      "1 كوب مرق دجاج خالٍ من الدهون ومخفض الصوديوم وخالٍ من الغلوتين"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن الفرن مسبقًا إلى 450 درجة فهرنهايت (230° مئوية). ادهن صينية خبز أو شيّ مقاس 9×13 ببخاخ الطهي."
+     ],
+     [
+      null,
+      "أضف البصل والجزر والكرفس المقطّعة إلى الصينية وضع فوقها البقدونس الطازج والزعتر الطازج. قلّب المكونات لتتوزع بالتساوي."
+     ],
+     [
+      null,
+      "أخرج الأحشاء والرقبة من تجويف الدجاجة وتخلّص منها. أزل الدهون الزائدة حول الرقبة وفتحة التجويف. جفّف الدجاجة بمنديل ورقي."
+     ],
+     [
+      null,
+      "ابدأ من جهة الرقبة، وافصل الجلد عن لحم الصدر بإصبعك. افرك الدجاجة كلها (بما في ذلك لحم الصدر تحت الجلد) بزيت الزيتون. تبّل الدجاجة من الخارج وتجويفها من الداخل بالملح والفلفل."
+     ],
+     [
+      null,
+      "املأ تجويف الدجاجة بأسافين الليمون والثوم المهروس وضع الدجاجة وصدرها إلى الأعلى في الصينية فوق الأعشاب والخضار."
+     ],
+     [
+      null,
+      "اسكب مرق الدجاج فوق الخضار واخبزها في الفرن لمدة 30 دقيقة. بعد 30 دقيقة، خفّض الحرارة إلى 350 درجة فهرنهايت (175° مئوية) واخبزها 45 دقيقة إضافية."
+     ],
+     [
+      null,
+      "أخرج الدجاجة من الصينية واتركها ترتاح مغطاة بورق الألمنيوم لمدة 20 دقيقة. صفِّ الخضار والأعشاب من المرق الموجود في قاع الصينية. أزل الدهن من المرق باستخدام فاصل الدهون أو بتبريده في الثلاجة، فسيطفو الدهن إلى السطح ويتجمد مما يسهّل كشطه. يجب أن تحصل على كوب واحد تقريبًا من المرق. تخلّص من الخضار لأن كل نكهتها وقيمتها الغذائية تسرّبت إلى المرق."
+     ],
+     [
+      null,
+      "بعد أن ترتاح الدجاجة، انزع الجلد وقطّعها إلى ثماني قطع، وتخلّص من الهيكل العظمي والليمون والثوم. اسكب المرق المنزوع الدهن فوق الدجاج وقدّم."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ },
+ {
+  "id": 6383220,
+  "translations": {
+   "es": {
+    "title": "Ensalada César de rotini con crutones de ajo",
+    "description": "Esta versión más ligera de la ensalada César combina un aderezo cremoso de yogur griego con pasta integral y lechuga romana crujiente para un platillo satisfactorio y rico en fibra. Los crutones de ajo caseros y el parmesano en láminas aportan textura crujiente y sabor. Con sustituciones inteligentes de ingredientes y pasta en porciones, es una versión equilibrada y apta para personas con diabetes de un clásico favorito.",
+    "portions": "4",
+    "serving_size": "1 oz de pasta + 1/4 de taza de crutones + 2 tazas de ensalada",
+    "ingredients": [
+     [
+      null,
+      "3 cucharaditas de aceite de oliva (divididas)"
+     ],
+     [
+      null,
+      "2 rebanadas de pan integral Ezekiel 4:9 (cortadas en cubitos)"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de orégano seco"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de ajo en polvo"
+     ],
+     [
+      null,
+      "1/2 taza de yogur griego natural sin grasa"
+     ],
+     [
+      null,
+      "3 cucharadas de jugo de limón"
+     ],
+     [
+      null,
+      "1 diente de ajo (picado fino)"
+     ],
+     [
+      null,
+      "1 cucharadita de mostaza Dijon"
+     ],
+     [
+      null,
+      "1/2 cucharadita de salsa Worcestershire"
+     ],
+     [
+      null,
+      "1/4 de cucharadita de pimienta negra"
+     ],
+     [
+      null,
+      "1 cabeza grande de lechuga romana (picada)"
+     ],
+     [
+      null,
+      "4 onzas de pimientos rojos asados (cortados en tiras)"
+     ],
+     [
+      null,
+      "4 onzas de pasta penne integral (cocida y fría)"
+     ],
+     [
+      null,
+      "2 onzas de queso parmesano (en láminas)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "Caliente 1 cucharadita de aceite de oliva en una sartén a fuego medio. Agregue los cubitos de pan y espolvoree con orégano seco y ajo en polvo. Tueste los cubitos, revolviendo con frecuencia, hasta que estén dorados y crujientes, unos 4-5 minutos. Retírelos de la sartén y deje que se enfríen."
+     ],
+     [
+      null,
+      "En un tazón pequeño, bata el yogur griego, el jugo de limón, el ajo picado, la mostaza Dijon, la salsa Worcestershire, 2 cucharaditas de aceite de oliva y la pimienta negra hasta obtener una mezcla suave y bien integrada."
+     ],
+     [
+      null,
+      "En un tazón grande, mezcle la lechuga romana picada y los pimientos con el aderezo, asegurándose de que todo quede bien cubierto."
+     ],
+     [
+      null,
+      "Incorpore suavemente la pasta cocida a la ensalada. Agregue los crutones tostados y mezcle ligeramente para combinar."
+     ],
+     [
+      null,
+      "Divida en 4 porciones y cubra con el queso parmesano en láminas."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   },
+   "ar": {
+    "title": "سلطة سيزر بمعكرونة الروتيني مع قطع الخبز المحمّص بالثوم",
+    "description": "تمزج هذه النسخة الأخف من سلطة سيزر بين صلصة الزبادي اليوناني الكريمية ومعكرونة الحبوب الكاملة والخس الروماني المقرمش لطبق مشبع وغني بالألياف. وتضيف قطع الخبز المحمّص بالثوم المصنوعة في المنزل وشرائح البارميزان قرمشة ونكهة. وبفضل استبدال المكونات بذكاء وتقسيم المعكرونة إلى حصص، هي نسخة متوازنة ومناسبة لمرضى السكري من طبق كلاسيكي مفضل.",
+    "portions": "4",
+    "serving_size": "1 أونصة معكرونة + ¼ كوب قطع خبز محمّص + 2 كوب سلطة",
+    "ingredients": [
+     [
+      null,
+      "3 ملاعق صغيرة زيت زيتون (مقسّمة)"
+     ],
+     [
+      null,
+      "2 شريحة خبز حبوب كاملة Ezekiel 4:9 (مقطّعة مكعبات صغيرة)"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة أوريجانو مجفف"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة مسحوق الثوم"
+     ],
+     [
+      null,
+      "½ كوب زبادي يوناني سادة خالٍ من الدسم"
+     ],
+     [
+      null,
+      "3 ملاعق كبيرة عصير ليمون"
+     ],
+     [
+      null,
+      "1 فص ثوم (مفروم ناعمًا)"
+     ],
+     [
+      null,
+      "1 ملعقة صغيرة خردل ديجون"
+     ],
+     [
+      null,
+      "½ ملعقة صغيرة صلصة ورسترشير"
+     ],
+     [
+      null,
+      "¼ ملعقة صغيرة فلفل أسود"
+     ],
+     [
+      null,
+      "1 رأس خس روماني (كبير، مفروم)"
+     ],
+     [
+      null,
+      "4 أونصات فلفل أحمر مشوي (مقطّع شرائح طويلة)"
+     ],
+     [
+      null,
+      "4 أونصات معكرونة بيني من القمح الكامل (مطبوخة ومبرّدة)"
+     ],
+     [
+      null,
+      "2 أونصة جبن بارميزان (مقشّر شرائح)"
+     ]
+    ],
+    "steps": [
+     [
+      null,
+      "سخّن 1 ملعقة صغيرة من زيت الزيتون في مقلاة على نار متوسطة. أضف مكعبات الخبز ثم رشّ عليها الأوريجانو المجفف ومسحوق الثوم. حمّص المكعبات مع التقليب المتكرر حتى تصبح ذهبية اللون ومقرمشة، حوالي 4-5 دقائق. ارفعها من المقلاة واتركها تبرد."
+     ],
+     [
+      null,
+      "في وعاء خلط صغير، اخفق الزبادي اليوناني وعصير الليمون والثوم المفروم وخردل ديجون وصلصة ورسترشير و2 ملعقة صغيرة من زيت الزيتون والفلفل الأسود حتى يصبح الخليط ناعمًا ومتجانسًا."
+     ],
+     [
+      null,
+      "في وعاء كبير، قلّب الخس الروماني المفروم والفلفل مع الصلصة، مع التأكد من تغطية كل شيء بالتساوي."
+     ],
+     [
+      null,
+      "أضف المعكرونة المطبوخة إلى السلطة بحذر وقلّبها برفق. أضف قطع الخبز المحمّص وقلّب بخفة للمزج."
+     ],
+     [
+      null,
+      "وزّع على 4 حصص وزيّنها بشرائح جبن البارميزان."
+     ]
+    ],
+    "hints": [],
+    "food_choices": []
+   }
+  }
+ }
+]

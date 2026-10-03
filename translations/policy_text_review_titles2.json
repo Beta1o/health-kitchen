@@ -1,0 +1,22 @@
+[
+ {
+  "field": "title",
+  "recipe_id": 2445,
+  "position": 0,
+  "text": {
+   "ar": "بيتزا الفاكهة من Susann من ولاية كارولاينا الشمالية",
+   "en": "Fruit Pizza by Susann from North Carolina",
+   "es": "Pizza de frutas de Susann de Carolina del Norte"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3894,
+  "position": 0,
+  "text": {
+   "ar": "أفضل سلطة ملفوف لاذعة من نيفادا",
+   "en": "Nevada’s Best Tangy Coleslaw",
+   "es": "La mejor ensalada de col ácida de Nevada"
+  }
+ }
+]

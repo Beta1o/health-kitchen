@@ -1,0 +1,8 @@
+{
+ "listed": 557,
+ "scraped": 557,
+ "with_image": 551,
+ "with_nutrients": 557,
+ "skipped": 0,
+ "notes": "Landing listing says 'Showing 557 recipes'; crawled 557 cards over all pages (12/page). 25 filter listings (special diets, meals & courses, main ingredient) crawled; 0 recipe URLs appear only in filter listings. Sitemap: 559 URLs under the three recipe paths (/guide-to-diabetes/recipes/, /living-with-diabetes/eating/recipes/, /living-with-diabetes/recipes/), 557 of them recipe pages. Recipes in sitemap but not listing: 0. Recipes in listing but not sitemap: 0. Non-recipe pages under recipe paths excluded: guide-to-the-symbols-used-in-the-recipes, nutritional-information-explained. Nutrition is per serving ('Each Ng serving contains ...'): kcal, carbs, fibre, protein, fat, saturates, sugars, salt, with Low/Medium/High traffic-light labels on fat, saturates, sugars and salt; full panel kept in nutrients_raw. sodium_mg = salt g x 400. Sugars are total sugars so added_sugar_g is null. Fruit/veg portions go in hints. Diet: Diabetes on all; Gluten free -> Gluten-free; Vegan/Vegetarian -> Vegetarian; Dairy free, Nut free, Low fat, Low sugar kept in nutrients_raw only. Freezer safe -> dish Freezer. Category from site main-ingredient/course filters plus title keywords. image_url is the original upload (og:image; some are multi-MB camera files up to 19 MB), while the downloaded copy is the 772px 'recipe_desktop' rendition shown on the page (originals under 1 MB from the first run kept). 6 recipes have no photo on the site: chicken-bravas, courgette-cornbread-muffins-salsa, gado-gado, garlic-and-pea-stuffed-mussels-parmesan-crust, lamb-tagine, paprika-roast-roots. robots.txt crawl-delay 5 honoured (one request per 5.5s)."
+}

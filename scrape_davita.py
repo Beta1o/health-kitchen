@@ -389,6 +389,8 @@ CREATE INDEX idx_hints ON hints(recipe_id);
 CREATE INDEX idx_fc ON food_choices(recipe_id);
 CREATE INDEX idx_rt_term ON recipe_terms(term_id);
 CREATE INDEX idx_rec_cat ON recipes(category_en);
+CREATE INDEX idx_rec_canon ON recipes(canonical_id);
+CREATE INDEX idx_rt_recipe ON recipe_terms(recipe_id);
 
 CREATE VIEW recipe_overview AS
 SELECT r.id, r.language, r.title, r.category_en AS category, r.portions, r.serving_size, r.rating, r.comment_count,

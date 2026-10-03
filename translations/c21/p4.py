@@ -1,0 +1,152 @@
+from h import *
+R=[]
+R.append((6793545,{
+"ar":L("فطيرة الراعي النباتية",
+"استمتع بهذا الطبق الكلاسيكي المريح وأنت مطمئن إلى أنه أصبح مناسبًا لمرضى السكري. باستبدال اللحم البقري المفروم بخليط من العدس والخضار، تنخفض السعرات الحرارية والدهون وترتفع جودة النكهة.",
+"8","1 كوب",
+["1 بخّة، 0.25 غرام، بخاخ زيت طهي غير لاصق","1 رطل عدس بني (جاف)","32 أونصة مرق خضار (قليل الصوديوم)","1 ملعقة كبيرة زيت زيتون","16 أونصة فطر أبيض (شامبينيون) (مقطّع شرائح)","1 بصلة صفراء كبيرة (مقطّعة مكعبات)","2 جزرة كبيرة (مقشّرة ومقطّعة مكعبات)","2 ساق كرفس (مقطّعة مكعبات)","1 رطل فاصوليا خضراء طازجة (مقطوعة الأطراف ومقطّعة مكعبات)","2 فص ثوم (مفروم)","1½ كوب حليب لوز غير محلّى (مقسّم)","1 ملعقة صغيرة ملح (مقسّمة)","½ ملعقة صغيرة فلفل أسود","¼ كوب بقدونس طازج (مفروم)"],
+["سخّن الفرن مسبقًا إلى 375 درجة فهرنهايت (190° مئوية). ادهن طبق خبز مقاس 9×13 بوصة ببخاخ الطهي.",
+"أثناء طهي العدس، ضع زيت الزيتون في مقلاة كبيرة على حرارة متوسطة إلى عالية. أضف الفطر وقلّبه حتى ينضج وتتبخر كل السوائل.",
+"أضف البصل والجزر والكرفس والفاصوليا الخضراء والثوم وقلّبها حتى يصبح البصل شفافًا ويبدأ الجزر في اللين.",
+"أضف كوبًا واحدًا من العدس المطبوخ مع أي سائل إلى الخضار وقلّب للمزج. احتفظ بباقي العدس جانبًا. اسكب كوبًا واحدًا من حليب اللوز على الخضار. قلّب للمزج. أضف ½ ملعقة صغيرة من الملح (اختياري) والفلفل.",
+"اسكب خليط الخضار في طبق الخبز مقاس 9×13 بوصة. ضعه جانبًا.",
+"في وعاء كبير، اخلط باقي العدس مع بقية حليب اللوز و½ ملعقة صغيرة المتبقية من الملح (اختياري) والبقدونس. اخفق الخليط بالخلاط الكهربائي حتى يصبح هشًّا.",
+"وزّع العدس بالملعقة فوق خليط العدس والخضار وافرده برفق ليغطي السطح بالكامل.",
+"غطِّ الطبق بورق الألومنيوم واخبزه لمدة 45 دقيقة. اكشف الغطاء واخبزه 30 دقيقة إضافية أو حتى يبدأ السطح بالتحول إلى اللون الذهبي ويتفقع الحشو.",
+"اترك فطيرة الراعي ترتاح لمدة 10 دقائق خارج الفرن قبل التقديم."])}))
+R.append((6793700,{
+"ar":L("سلطة البروكلي وبذور عباد الشمس بالطبقات",
+"ستود تجربة هذه السلطة اللذيذة الغنية بالعناصر الغذائية، وهي مثالية لنزهة صيفية. كل حصة غنية بفيتامين C.",
+"6","1½ كوب",
+["8 كوب بروكلي (8 أكواب، مقطّع إلى قطع بحجم لقمة)","½ حبة بصل أحمر متوسطة (مقطّعة شرائح رفيعة)","⅓ كوب زبيب (أو كرز حامض مجفف)","⅓ كوب جبن شيدر (مبشور طازجًا، حاد جدًا)","½ كوب زبادي عادي (خالٍ من الدسم)","2 ملعقة كبيرة خل التفاح","1½ ملعقة كبيرة عسل","1 ملعقة كبيرة مايونيز خفيف","2 ملعقة كبيرة بذور عباد الشمس (مملحة، محمّصة)"],
+["في وعاء زجاجي كبير للتريفل أو للتقديم، ضع طبقات من البروكلي والبصل والزبيب (أو الكرز الحامض المجفف) والجبن.",
+"في وعاء صغير، اخفق الزبادي والخل والعسل والمايونيز. اسكب الصلصة بالتساوي فوق السلطة.",
+"غطِّ السلطة وضعها في الثلاجة حتى وقت التقديم. رشّ بذور عباد الشمس قبل التقديم مباشرة."])}))
+R.append((6794979,{
+"ar":L("فطائر اليد بالقمح الكامل",
+"بعد خَبز هذه الفطائر، يمكن تجميدها في أكياس تجميد محكمة الإغلاق للحصول على عشاء سهل في وقت لاحق.",
+"8","1 فطيرة يد",
+["1 كوب ماء دافئ (نحو 100 درجة فهرنهايت (40° مئوية))","1 ملعقة كبيرة بديل السكر البني قليل السعرات","1 كيس خميرة جافة نشطة","2 كوب دقيق قمح كامل","1 بخّة، 0.25 غرام، بخاخ زيت طهي غير لاصق","1 ملعقة صغيرة زيت زيتون","8 أونصات فطر أبيض (شامبينيون) (مقطّع مكعبات)","1 كوب سبانخ مطبوخة","1 فص ثوم (مفروم)","1½ ملعقة صغيرة ملح كوشر (مقسّم)","½ ملعقة صغيرة فلفل أسود","¾ كوب جبن موزاريلا (قليل الدسم)","1 بيضة كبيرة (مخفوقة مع 1 ملعقة كبيرة ماء)"],
+["جهّز خلّاطًا مزوّدًا بملحق عجن العجين. إذا لم يكن لديك خلّاط، فجهّز محضّرة الطعام.",
+"ضع الماء الدافئ وبديل السكر البني والخميرة في وعاء الخلّاط أو وعاء محضّرة الطعام واترك الخميرة تتفاعل لمدة 5 دقائق. يجب أن تبدأ الخميرة بتكوين رغوة.",
+"أضف الدقيق و1 ملعقة صغيرة من ملح الكوشر واخلط على سرعة منخفضة حتى يمتزج الدقيق. إذا كنت تستخدم خلّاطًا مزوّدًا بملحق العجن، ارفع السرعة إلى متوسطة واعجن العجين لمدة 5 دقائق. وإذا كنت تستخدم محضّرة الطعام، اقلب العجين على لوح أو سطح عمل نظيف مرشوش بالدقيق واعجنه يدويًا من 5 إلى 7 دقائق. إذا كان العجين لزجًا جدًا، فأضف ملعقة كبيرة واحدة من الدقيق في كل مرة حتى يتكوّن عجين ناعم.",
+"ضع العجين المعجون في وعاء كبير مدهون ببخاخ الطهي، وغطِّه وضعه في مكان دافئ لمدة ساعة واحدة حتى يختمر.",
+"أثناء اختمار العجين، سخّن الفرن مسبقًا إلى 400 درجة فهرنهايت (200° مئوية). ادهن صينية خبز ببخاخ الطهي. ضعها جانبًا.",
+"في مقلاة متوسطة، سخّن زيت الزيتون على حرارة متوسطة إلى عالية. أضف الفطر وقلّبه حتى يلين وتتبخر كل سوائله.",
+"في وعاء متوسط، اخلط الفطر والسبانخ والثوم و½ ملعقة صغيرة من ملح الكوشر والفلفل وجبن الموزاريلا. ضعه جانبًا.",
+"قسّم العجين إلى ثماني كرات واتركها ترتاح مغطّاة بغلاف بلاستيكي لنحو 15 دقيقة.",
+"افرد كل قرص عجين بسمك ¼ بوصة. ضع ⅛ من الحشو (نحو ½ كوب) على كل قرص. اطوِه لتكوين فطيرة يد واضغط الحواف لإغلاقها. كرّر العملية مع باقي أقراص العجين الثمانية وضعها على صينية الخبز.",
+"ادهن كل فطيرة بخليط البيض واخبزها لمدة 25 دقيقة أو حتى يصبح لونها ذهبيًا."])}))
+R.append((6796988,{
+"ar":L("سلطة البروكلي على الطريقة الجنوبية",
+"تتناسب سلطة البروكلي المنعشة هذه جيدًا مع أي دجاج مشوي على الفحم أو سمك مشوي أو شرائح لحم الخنزير.",
+"6","⅔ كوب",
+["⅛ ملعقة صغيرة فلفل أسود","½ ملعقة صغيرة ملح","1½ ملعقة كبيرة عسل","¼ كوب زبادي يوناني عادي خالٍ من الدسم","¼ كوب مايونيز خفيف","⅓ كوب جبن شيدر (قليل الدسم، مبشور، 1½ أونصة)","¾ كوب كرفس (مفروم)","¼ كوب بصل (مفروم ناعمًا)","3 كوب زهيرات بروكلي"],
+["في وعاء متوسط، اخلط البروكلي والبصل والكرفس والجبن؛ وضعه جانبًا.",
+"في وعاء صغير، اخلط باقي المكوّنات. أضف خليط المايونيز إلى خليط الخضار وقلّب.",
+"غطِّ السلطة وضعها في الثلاجة لمدة ساعتين على الأقل لتتمازج النكهات."])}))
+R.append((6798255,{
+"es":L("Ensalada de frijoles negros y elote",
+"Fresca y sabrosa, esta deliciosa ensalada de frijoles negros y elote es una gran opción cuando se antoja comida tex-mex.",
+"8","3/4 taza",
+["2 latas (de 15 oz) de frijoles negros (bajos en sodio, escurridos y enjuagados)","1 1/2 tazas de elote congelado (descongelado)","1 pimiento rojo mediano (en cubos)","3/4 taza de tomates cherry (partidos por la mitad)","1/4 de cebolla morada mediana (finamente picada)","1/4 taza de cilantro fresco (picado)","2 limones verdes enteros (exprimidos)","3 cucharadas de aceite de oliva","1 cucharadita de comino molido","1/4 cucharadita de sal kosher","1/2 cucharadita de pimienta negra","1 aguacate mediano (en rodajas, para servir)"],
+["En un tazón grande, combine los frijoles negros, el elote descongelado, el pimiento rojo en cubos, los tomates cherry, la cebolla morada picada y el cilantro fresco.",
+"Exprima los dos limones verdes en un tazón pequeño. Agregue el aceite de oliva, el comino molido, la sal kosher y la pimienta. Bata hasta integrar.",
+"Vierta el aderezo sobre la mezcla de frijoles negros y elote. Mezcle bien para cubrir todos los ingredientes de manera uniforme.",
+"Tape el tazón y refrigere durante al menos 30 minutos para que los sabores se integren.",
+"Antes de servir, mezcle la ensalada con suavidad. Si lo desea, decore con más cilantro y rodajas de aguacate."]),
+"ar":L("سلطة الفاصوليا السوداء والذرة",
+"هذه السلطة اللذيذة طازجة وغنية بالنكهة، وهي خيار رائع عند الرغبة في الطعام التكس مكس.",
+"8","¾ كوب",
+["2 علبة (15 أونصة) فاصوليا سوداء (قليلة الصوديوم، مصفّاة ومشطوفة)","1½ كوب ذرة مجمدة (مذابة الجليد)","1 حبة فلفل رومي أحمر متوسطة (مقطّعة مكعبات)","¾ كوب طماطم كرزية (مقسومة إلى نصفين)","¼ حبة بصل أحمر متوسطة (مفرومة ناعمًا)","¼ كوب كزبرة خضراء طازجة (مفرومة)","2 ليمة كاملة (معصورة)","3 ملعقة كبيرة زيت زيتون","1 ملعقة صغيرة كمون مطحون","¼ ملعقة صغيرة ملح كوشر","½ ملعقة صغيرة فلفل أسود","1 حبة أفوكادو متوسطة (مقطّعة شرائح، للتقديم)"],
+["في وعاء خلط كبير، اخلط الفاصوليا السوداء والذرة المذابة والفلفل الرومي الأحمر المقطّع مكعبات والطماطم الكرزية والبصل الأحمر المفروم والكزبرة الخضراء الطازجة.",
+"اعصر الليمتين في وعاء صغير. أضف زيت الزيتون والكمون المطحون وملح الكوشر والفلفل. اخفق حتى يمتزج.",
+"اسكب الصلصة فوق خليط الفاصوليا السوداء والذرة. قلّب جيدًا لتتغطى جميع المكوّنات بالتساوي.",
+"غطِّ الوعاء وضعه في الثلاجة لمدة 30 دقيقة على الأقل لتتمازج النكهات.",
+"قبل التقديم، قلّب السلطة برفق. إن رغبت، زيّنها بمزيد من الكزبرة الخضراء وشرائح الأفوكادو."])}))
+R.append((6800112,{
+"es":L("Bastones de apio con hummus y pimiento rojo",
+"Esta es una nueva versión del clásico refrigerio \"hormigas en un tronco\". Esta versión salada reemplaza la mantequilla de maní por hummus y las pasas por trocitos de pimiento. Pruebe diferentes sabores de hummus: ¡el de pimiento rojo asado quedaría muy bien!",
+"4","3 piezas",
+["4 tallos de apio","4 cucharadas de hummus","1/2 pimiento rojo mediano (cortado en cuadritos de 1/4 de pulgada)"],
+["Rellene cada tallo de apio con 1 cucharada de hummus y luego corte cada tallo en 3 piezas iguales. Coloque 2 trozos de pimiento rojo sobre cada pieza de apio."]),
+"ar":L("أعواد الكرفس بالحمص والفلفل الأحمر",
+"إليك فكرة جديدة للوجبة الخفيفة الكلاسيكية \"النمل على جذع\". تستبدل هذه النسخة المالحة زبدة الفول السوداني بالحمص والزبيب بقطع الفلفل الرومي. جرّب نكهات مختلفة من الحمص، فنكهة الفلفل الأحمر المحمّص ستكون رائعة!",
+"4","3 قطع",
+["4 عيدان كرفس","4 ملعقة كبيرة حمص","½ حبة فلفل رومي أحمر متوسطة (مقطّعة إلى مربعات بحجم ¼ بوصة)"],
+["املأ كل عود كرفس بملعقة كبيرة واحدة من الحمص، ثم قطّع كل عود إلى 3 قطع متساوية. ضع قطعتين من الفلفل الأحمر على كل قطعة كرفس."])}))
+R.append((6800231,{
+"es":L("Granola casera endulzada con fruta",
+"A pesar de su \"halo de salud\", la granola comprada en tiendas suele tener mucha grasa y azúcares añadidos. Esta receta sumamente sencilla obtiene su dulzor de la compota de manzana y no lleva grasa añadida. Es perfecta para cubrir yogur, empanizar pollo al horno o agregar una cubierta crujiente a un postre a base de fruta. Prepare una tanda grande para organizar sus comidas y guárdela en un frasco cerrado hasta por una semana.",
+"8","1/3 taza",
+["1 1/2 tazas de avena tradicional en hojuelas","1/2 taza de almendras en tiras","1 cucharadita de canela molida","1/2 taza de compota de manzana sin azúcar","1/2 cucharadita de extracto de vainilla"],
+["Precaliente el horno a 300° F. Forre una bandeja para hornear con papel pergamino sin blanquear.",
+"En un tazón mediano, mezcle todos los ingredientes. Extienda en una capa uniforme sobre la bandeja.",
+"Hornee hasta que esté tostada, aproximadamente 35 minutos. No es necesario revolver. Deje enfriar en la bandeja sobre una rejilla. Sirva o guarde en un frasco o recipiente cerrado hasta por una semana."]),
+"ar":L("جرانولا منزلية محلّاة بالفاكهة",
+"على الرغم من \"هالة الصحة\" التي تحيط بها، فإن الجرانولا الجاهزة غالبًا ما تحتوي على الكثير من الدهون والسكريات المضافة. تستمد هذه الوصفة البسيطة جدًا حلاوتها من هريس التفاح ولا تحتوي على دهون مضافة. مثالية لتزيين الزبادي أو لتغطية الدجاج المخبوز أو لإضافة طبقة مفتّتة إلى حلوى قائمة على الفاكهة. حضّر كمية كبيرة لتجهيز وجباتك مسبقًا واحفظها في برطمان محكم الإغلاق حتى أسبوع.",
+"8","⅓ كوب",
+["1½ كوب شوفان مجروش تقليدي","½ كوب لوز شرائح","1 ملعقة صغيرة قرفة مطحونة","½ كوب هريس تفاح غير محلّى","½ ملعقة صغيرة خلاصة الفانيليا"],
+["سخّن الفرن مسبقًا إلى 300°F (150° مئوية). بطّن صينية خبز بورق زبدة غير مبيّض.",
+"في وعاء متوسط، اخلط جميع المكوّنات. افردها في طبقة متساوية على صينية الخبز.",
+"اخبزها في الفرن حتى تحمّص، نحو 35 دقيقة. لا حاجة إلى التقليب. اتركها تبرد على الصينية فوق رف تبريد. قدّمها أو احفظها في برطمان أو وعاء محكم الإغلاق حتى أسبوع."])}))
+R.append((6806074,{
+"ar":L("يخنة العدس الحارة",
+"جرّب يخنة العدس الحارة لدينا. يمكنك جعل هذه اليخنة الغنية أكثر حدّة بإضافة ملعقة صغيرة من رقائق الفلفل الأحمر المجروش عند تقليب الخضار. أو خفّف حدّتها باستخدام نقانق الدجاج بنكهة التفاح أو الإيطالية أو المتوسطية.",
+"9","1 كوب",
+["1 بخّة كاملة من بخاخ زيت الطهي غير اللاصق","2 ساق كرفس (مقطّعة مكعبات متوسطة)","14 أونصة نقانق دجاج حارة (بالهالابينو أو الأندوي)","1 بصلة متوسطة (مقطّعة مكعبات)","2 جزرة متوسطة (مقطّعة مكعبات)","1 حبة فلفل رومي أحمر متوسطة (مقطّعة مكعبات)","3 كوب ماء","14½ أونصة مرق دجاج قليل الصوديوم","1 كوب عدس جاف","1 ملعقة صغيرة فلفل أسود","1 ورقة غار","¼ كوب بقدونس طازج (مفروم)"],
+["ادهن قدر شوربة كبيرة ببخاخ الطهي. على حرارة متوسطة إلى عالية، قلّب النقانق حتى يصبح لونها بنيًا فاتحًا.",
+"أضف الكرفس والبصل والجزر والفلفل الرومي الأحمر إلى القدر وقلّبها على حرارة متوسطة إلى عالية لمدة 4 دقائق تقريبًا أو حتى يبدأ البصل بالتحول إلى شفاف.",
+"أضف الماء والمرق والعدس والملح والفلفل وورقة الغار. اتركها حتى تغلي ثم خفّض الحرارة. اتركها على نار هادئة لمدة ساعة واحدة.",
+"أزل ورقة الغار. رشّ البقدونس وقدّم."])}))
+R.append((6807069,{
+"es":L("Salsa de tomate con pimientos rojos asados",
+"Los tomates son ricos en potasio, por lo que la salsa de tomate suele estar prohibida para quien controla la enfermedad renal con una dieta baja en potasio. Esta salsa apta para los riñones reemplaza la mitad de los tomates con pimientos rojos asados para obtener una salsa más baja en potasio que puede usarse en pasta, pizza o como sustituto de la salsa de tomate en recetas. ¡Y tiene un sabor excelente! Puede usar pimientos rojos asados comprados en la tienda (busque la opción con menos sodio) o asar pimientos rojos en casa. Puede duplicar o triplicar fácilmente esta receta para preparar una tanda más grande y congelar una parte para más adelante.",
+"4","1/4 taza",
+["1/4 cucharadita de hojuelas de pimiento rojo triturado, o al gusto","1 cucharadita de condimento italiano","1/2 taza de salsa de tomate baja en sodio","1 diente de ajo","1/2 taza de pimientos rojos asados (escurridos)"],
+["Coloque los pimientos y el ajo en un procesador de alimentos o licuadora y procese hasta obtener una mezcla suave. Agregue la salsa de tomate, el aceite de oliva y el condimento italiano. Procese hasta que se mezcle bien. Lista para usar en pizza, pasta o como sustituto de la salsa de tomate en recetas. Se puede refrigerar hasta por 3 días o congelar hasta el momento de usarla."]),
+"ar":L("صلصة الطماطم بالفلفل الأحمر المحمّص",
+"الطماطم غنية بالبوتاسيوم، ما يعني أن صلصة الطماطم تكون عادةً ممنوعة على من يتعامل مع مرض الكلى باتباع نظام غذائي منخفض البوتاسيوم. تستبدل هذه الصلصة المناسبة لمرضى الكلى نصف كمية الطماطم بالفلفل الأحمر المحمّص للحصول على صلصة أقل بوتاسيومًا يمكن استخدامها مع المعكرونة أو البيتزا أو بديلًا لصلصة الطماطم في الوصفات. ومذاقها رائع أيضًا! يمكنك استخدام الفلفل الأحمر المحمّص الجاهز (ابحث عن الخيار الأقل صوديومًا) أو تحميص الفلفل الرومي الأحمر في المنزل. يمكنك بسهولة مضاعفة هذه الوصفة مرتين أو ثلاث مرات لتحضير كمية أكبر وتجميد جزء منها لوقت لاحق.",
+"4","¼ كوب",
+["¼ ملعقة صغيرة رقائق فلفل أحمر مجروش، أو حسب الذوق","1 ملعقة صغيرة توابل إيطالية","½ كوب صلصة طماطم قليلة الصوديوم","1 فص ثوم","½ كوب فلفل أحمر محمّص (مصفّى)"],
+["ضع الفلفل والثوم في محضّرة الطعام أو الخلاط وشغّلها حتى يصبح الخليط ناعمًا. أضف صلصة الطماطم وزيت الزيتون والتوابل الإيطالية. اخلط حتى تمتزج جيدًا. جاهزة للاستخدام على البيتزا أو المعكرونة أو بديلًا لصلصة الطماطم في الوصفات. يمكن حفظها في الثلاجة حتى 3 أيام أو تجميدها حتى وقت الاستخدام."])}))
+R.append((6807355,{
+"es":L("Arándanos azules, 1/2 taza","Información nutricional de los arándanos azules","1","1/2 taza",["1/2 taza de arándanos azules (lavados)"],[]),
+"ar":L("توت أزرق، ½ كوب","المعلومات الغذائية للتوت الأزرق","1","½ كوب",["½ كوب توت أزرق (مغسول)"],[])}))
+R.append((6808134,{
+"es":L("Enchiladas fáciles de espinaca y ricota",
+"Pruebe una nueva versión saludable de las enchiladas, con una porción extra de verduras escondida en esta fácil receta de enchiladas de espinaca y ricota. Lista para comer en 30 minutos, ¡este platillo apto para personas con diabetes seguramente se convertirá en un nuevo favorito de la familia!",
+"6","2 enchiladas",
+["1 cucharadita de aceite de oliva","1 cebolla amarilla pequeña (en cubos)","1/4 cucharadita de pimienta negra","10 onzas de espinacas congeladas (descongeladas y sin el exceso de agua)","4 onzas de queso ricota bajo en grasa","7 onzas de requesón (sin grasa)","12 tortillas de maíz (de 5 pulgadas)","1 taza de salsa roja para enchiladas enlatada","1 1/2 onzas de queso Monterey Jack (rallado)","1 manojo de cebollines (cebolla verde) (en rodajas)"],
+["Precaliente el horno a 400 grados F.",
+"Caliente un sartén grande a fuego medio. Agregue el aceite, la cebolla y la pimienta. Cocine, revolviendo de vez en cuando, hasta que la cebolla se ablande, de 4 a 5 minutos.",
+"Pase la cebolla cocida a un tazón grande. Agregue las espinacas, la ricota y el requesón. Mezcle para combinar.",
+"Envuelva las tortillas en una toalla de papel húmeda y caliéntelas en el microondas durante 30 segundos.",
+"Rocíe un refractario con aceite en aerosol. Divida el relleno de espinaca en partes iguales entre las tortillas. Enrolle y coloque con la unión hacia abajo en el refractario.",
+"Vierta la salsa para enchiladas sobre las tortillas. Cubra con el queso rallado. Hornee de 10 a 15 minutos, hasta que el queso se derrita y burbujee.",
+"Divida las enchiladas entre los platos y cubra con los cebollines."]),
+"ar":L("إنتشيلادا السبانخ والريكوتا السهلة",
+"جرّب لمسة جديدة وصحية على الإنتشيلادا بإضافة حصة إضافية من الخضار بطريقة خفية في وصفة إنتشيلادا السبانخ والريكوتا السهلة هذه. تكون جاهزة للأكل في 30 دقيقة، وهذا الطبق المناسب لمرضى السكري سيصبح بالتأكيد طبقًا مفضلًا جديدًا لعائلتك!",
+"6","2 إنتشيلادا",
+["1 ملعقة صغيرة زيت زيتون","1 بصلة صفراء صغيرة (مقطّعة مكعبات)","¼ ملعقة صغيرة فلفل أسود","10 أونصات سبانخ مجمدة (مذابة الجليد ومعصورة من الماء الزائد)","4 أونصات جبن ريكوتا قليل الدسم","7 أونصات جبن قريش (خالٍ من الدسم)","12 تورتيلا ذرة (5 بوصات)","1 كوب صلصة إنتشيلادا حمراء معلّبة","1½ أونصة جبن مونتيري جاك (مبشور)","1 حزمة بصل أخضر (مقطّع شرائح)"],
+["سخّن الفرن مسبقًا إلى 400 درجة فهرنهايت (200° مئوية).",
+"سخّن مقلاة كبيرة على نار متوسطة. أضف الزيت والبصل والفلفل. اطهُ مع التقليب من حين لآخر حتى يلين البصل، من 4 إلى 5 دقائق.",
+"انقل البصل المطبوخ إلى وعاء كبير. أضف السبانخ والريكوتا والجبن القريش. قلّب للمزج.",
+"لفّ التورتيلا بمنشفة ورقية مبللة وسخّنها في الميكروويف لمدة 30 ثانية.",
+"رشّ طبق خبز ببخاخ الطهي. وزّع حشوة السبانخ بالتساوي على التورتيلا. لفّها وضعها في الطبق مع جعل خط الالتصاق لأسفل.",
+"اسكب صلصة الإنتشيلادا فوق التورتيلا. غطِّها بالجبن المبشور. اخبزها من 10 إلى 15 دقيقة، حتى يذوب الجبن ويتفقع.",
+"وزّع الإنتشيلادا على الأطباق وزيّنها بالبصل الأخضر."])}))
+R.append((6809517,{
+"es":L("Edamame cocido","Información nutricional del edamame","1","1/2 taza cocido",["1/2 taza de edamame (cocido)"],[]),
+"ar":L("إدامامي مطبوخ","المعلومات الغذائية للإدامامي","1","½ كوب مطبوخ",["½ كوب إدامامي (مطبوخ)"],[])}))
+R.append((6810489,{
+"ar":L("كرات القرنبيط بالجبن",
+"قدّم كرات القرنبيط الصغيرة اللذيذة هذه للعائلة كطبق جانبي مع العشاء. فهي ليست فقط نسخة أكثر صحة ومناسبة لمرضى السكري من كرات البطاطس الكلاسيكية (تاتر توتس)، بل إن نكهتها قريبة جدًا منها لدرجة أنهم قد لا يدركون أنهم يأكلون القرنبيط!",
+"7","5 كرات",
+["1 بخّة، 0.25 غرام، بخاخ زيت طهي غير لاصق","1 رأس قرنبيط (مقطوع الأطراف (نحو 1½ رطل))","1 بيضة كبيرة","1 بياض بيضة كبيرة","½ كوب جبن شيدر (قليل الدسم، مبشور)","⅓ كوب فتات الخبز","2 ساق بصل أخضر (الجزء الأبيض والأخضر، مفروم ناعمًا)","½ ملعقة صغيرة ملح (اختياري)","¼ ملعقة صغيرة فلفل أسود"],
+["سخّن الفرن مسبقًا إلى 400 درجة فهرنهايت (200° مئوية). ادهن صينية خبز كبيرة واحدة أو صينيتين صغيرتين ببخاخ الطهي. ضعها جانبًا.",
+"اطهُ القرنبيط على البخار من 10 إلى 12 دقيقة أو حتى يلين. ضعه جانبًا ليبرد. وبعد أن يبرد، افرمه ناعمًا.",
+"أضف باقي المكوّنات إلى القرنبيط المفروم وقلّب، ثم اترك الخليط يرتاح لمدة 10 دقائق.",
+"بعد الراحة، قلّب الخليط مرة أخرى. اغرف القرنبيط بملعقة كبيرة قياس وضعه على صينية الخبز المرشوشة. شكّل الكرة على هيئة كرة بطاطس (تاتر توت). كرّر العملية للحصول على 35 كرة.",
+"رشّ أعلى كل كرة ببخاخ الطهي. اخبزها لمدة 15 دقيقة. اقلب الكرات واخبزها 10 دقائق إضافية أو حتى يصبح لونها ذهبيًا."])}))
+save("out_c21_part4.json",R)

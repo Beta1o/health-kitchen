@@ -202,6 +202,18 @@ def apply_fixes():
             db.execute(f"DELETE FROM {table} WHERE recipe_id=? AND lang=?", (rid, lang))
             db.executemany(f"INSERT INTO {table} VALUES (?,?,?,?,?)",
                            [(rid, lang, i, g, t) for i, (_, g, t) in enumerate(rows, 1)])
+    # cuisine labels for recipes that had none (translations/cuisine_out.json)
+    cpath = TR / "cuisine_out.json"
+    if cpath.exists():
+        term_id = {n: i for i, n in db.execute("SELECT id, name FROM terms WHERE taxonomy='cuisine' ORDER BY site != 'davita.com'")}
+        nxt = (db.execute("SELECT max(id) FROM terms WHERE id >= 9000000").fetchone()[0] or 9_000_000) + 1
+        added = 0
+        for rid, name in json.loads(cpath.read_text(encoding="utf-8")).items():
+            if name not in term_id:
+                db.execute("INSERT INTO terms VALUES (?,?,?,?,?,?)", (nxt, "external", "cuisine", name, None, None))
+                term_id[name] = nxt; nxt += 1
+            added += db.execute("INSERT OR IGNORE INTO recipe_terms VALUES (?,?,?)", (int(rid), term_id[name], "cuisine")).rowcount
+        print(f"cuisines added: {added}")
     db.commit()
     print(f"policy text fixes: {changed} rewritten, {deleted} removed")
 

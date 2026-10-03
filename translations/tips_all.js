@@ -1,0 +1,92 @@
+const TIPS = {
+  kidney: { en: [
+      ["🥔", "Lower the potassium in potatoes and root vegetables: peel, dice and soak them, or boil them twice in fresh water."],
+      ["🏷️", "Check ingredient lists for phosphate additives (words containing \"phos\"). The body absorbs additive phosphorus almost completely."],
+      ["🌿", "Flavour food with herbs, lemon, garlic and spices instead of salt. Avoid salt substitutes made with potassium chloride."],
+      ["💧", "If you have a fluid limit, count soups, ice and juicy fruit as fluid too."],
+      ["💊", "Take phosphate binders with meals and snacks exactly as prescribed."] ],
+    es: [
+      ["🥔", "Reduzca el potasio de papas y raíces: pélelas, córtelas en cubos y remójelas, o hiérvalas dos veces en agua nueva."],
+      ["🏷️", "Revise los ingredientes en busca de aditivos de fosfato (palabras con \"fos\"). El cuerpo absorbe casi todo el fósforo de los aditivos."],
+      ["🌿", "Dé sabor con hierbas, limón, ajo y especias en lugar de sal. Evite sustitutos de sal con cloruro de potasio."],
+      ["💧", "Si tiene límite de líquidos, cuente también sopas, hielo y frutas jugosas."],
+      ["💊", "Tome los quelantes de fósforo con comidas y refrigerios, tal como se los recetaron."] ],
+    ar: [
+      ["🥔", "قلّل البوتاسيوم في البطاطس والخضار الجذرية: قشّرها وقطّعها وانقعها في الماء، أو اسلقها مرتين بماء جديد."],
+      ["🏷️", "افحص قائمة المكونات بحثًا عن إضافات الفوسفات (كلمات تحتوي على \"فوس\")؛ إذ يمتص الجسم فوسفور الإضافات بالكامل تقريبًا."],
+      ["🌿", "أضف النكهة بالأعشاب والليمون والثوم والتوابل بدل الملح، وتجنّب بدائل الملح المصنوعة من كلوريد البوتاسيوم."],
+      ["💧", "إذا كان لديك حد للسوائل، فاحسب الشوربة والثلج والفواكه الغنية بالعصارة ضمن السوائل."],
+      ["💊", "تناول رابطات الفوسفات مع الوجبات والوجبات الخفيفة كما وصفها الطبيب تمامًا."] ] },
+  diabetes: { en: [
+      ["🍽️", "Use the plate method: half non-starchy vegetables, a quarter lean protein, a quarter carbohydrate foods."],
+      ["⚖️", "Keep carbohydrate portions similar at each meal. One carbohydrate choice is about 15 g."],
+      ["🌾", "Choose whole grains, beans and lentils; their fibre slows the rise in blood sugar."],
+      ["🥤", "Swap sweetened drinks for water, unsweetened tea or coffee."],
+      ["🍎", "Eat fruit with some protein or healthy fat, and spread it through the day."] ],
+    es: [
+      ["🍽️", "Use el método del plato: la mitad verduras sin almidón, un cuarto proteína magra y un cuarto carbohidratos."],
+      ["⚖️", "Mantenga porciones de carbohidratos parecidas en cada comida. Una opción de carbohidratos son unos 15 g."],
+      ["🌾", "Elija granos integrales, frijoles y lentejas; su fibra hace más lento el aumento del azúcar en sangre."],
+      ["🥤", "Cambie las bebidas azucaradas por agua, té o café sin azúcar."],
+      ["🍎", "Coma la fruta con algo de proteína o grasa saludable y repártala durante el día."] ],
+    ar: [
+      ["🍽️", "استخدم طريقة الطبق: نصفه خضار غير نشوية، وربعه بروتين قليل الدهن، وربعه أطعمة نشوية."],
+      ["⚖️", "حافظ على كميات متقاربة من الكربوهيدرات في كل وجبة؛ فالحصة الواحدة من الكربوهيدرات نحو 15 غ."],
+      ["🌾", "اختر الحبوب الكاملة والفاصوليا والعدس؛ فأليافها تبطئ ارتفاع سكر الدم."],
+      ["🥤", "استبدل المشروبات المحلاة بالماء أو الشاي أو القهوة دون سكر."],
+      ["🍎", "تناول الفاكهة مع قليل من البروتين أو الدهون الصحية، ووزّعها على مدار اليوم."] ] },
+  bp: { en: [
+      ["🧂", "Most sodium comes from bread, processed meat, canned soup, pickles and restaurant food, not the salt shaker."],
+      ["🥬", "Eat plenty of potassium-rich vegetables, fruit and beans, unless your doctor limits potassium."],
+      ["🥛", "Choose low-fat dairy and whole grains, as in the DASH eating plan."],
+      ["🥫", "Rinse canned beans and vegetables to wash away up to a third of the sodium."],
+      ["🚶", "Move for about 30 minutes on most days; even a short walk after meals helps."] ],
+    es: [
+      ["🧂", "La mayor parte del sodio viene del pan, embutidos, sopas enlatadas, encurtidos y comida de restaurante, no del salero."],
+      ["🥬", "Coma muchas verduras, frutas y frijoles ricos en potasio, salvo que su médico limite el potasio."],
+      ["🥛", "Elija lácteos bajos en grasa y granos integrales, como en el plan DASH."],
+      ["🥫", "Enjuague los frijoles y verduras enlatados para quitar hasta un tercio del sodio."],
+      ["🚶", "Muévase unos 30 minutos casi todos los días; incluso una caminata corta después de comer ayuda."] ],
+    ar: [
+      ["🧂", "يأتي معظم الصوديوم من الخبز واللحوم المصنّعة والشوربات المعلبة والمخللات وطعام المطاعم، لا من المملحة."],
+      ["🥬", "أكثِر من الخضار والفواكه والبقوليات الغنية بالبوتاسيوم، ما لم يحدّ طبيبك من البوتاسيوم."],
+      ["🥛", "اختر الألبان قليلة الدسم والحبوب الكاملة كما في نظام DASH الغذائي."],
+      ["🥫", "اشطف الفاصوليا والخضار المعلبة للتخلص من ثلث الصوديوم تقريبًا."],
+      ["🚶", "تحرّك نحو 30 دقيقة في معظم الأيام؛ فحتى المشي القصير بعد الوجبات مفيد."] ] },
+  heart: { en: [
+      ["🫒", "Cook with olive or canola oil instead of butter or ghee."],
+      ["🐟", "Eat fish twice a week, especially oily fish such as salmon or sardines."],
+      ["🥩", "Choose lean cuts of meat and remove visible fat and skin."],
+      ["🥣", "Oats, barley, beans and lentils contain soluble fibre that helps lower LDL cholesterol."],
+      ["🍬", "Keep added sugar under about 25 g a day for women and 36 g for men."] ],
+    es: [
+      ["🫒", "Cocine con aceite de oliva o canola en lugar de mantequilla o manteca clarificada."],
+      ["🐟", "Coma pescado dos veces por semana, sobre todo pescados grasos como salmón o sardinas."],
+      ["🥩", "Elija cortes de carne magros y quite la grasa visible y la piel."],
+      ["🥣", "La avena, la cebada, los frijoles y las lentejas tienen fibra soluble que ayuda a bajar el colesterol LDL."],
+      ["🍬", "Mantenga el azúcar añadida por debajo de unos 25 g al día en mujeres y 36 g en hombres."] ],
+    ar: [
+      ["🫒", "اطبخ بزيت الزيتون أو زيت الكانولا بدل الزبدة أو السمن."],
+      ["🐟", "تناول السمك مرتين أسبوعيًا، خاصة الأسماك الدهنية كالسلمون والسردين."],
+      ["🥩", "اختر قطع اللحم قليلة الدهن، وأزل الدهون الظاهرة والجلد."],
+      ["🥣", "يحتوي الشوفان والشعير والفاصوليا والعدس على ألياف ذائبة تساعد على خفض الكوليسترول الضار."],
+      ["🍬", "اجعل السكر المضاف أقل من 25 غ يوميًا تقريبًا للنساء و36 غ للرجال."] ] },
+  gen: { en: [
+      ["📅", "Plan the week's meals ahead; it saves money and keeps nutrition on track."],
+      ["💧", "Drink water through the day, unless you have a fluid limit."],
+      ["🍇", "Eat vegetables and fruit of many colours for a wider range of nutrients."],
+      ["🏷️", "Read nutrition labels per serving, and check how many servings are in the pack."],
+      ["🥕", "Keep easy snacks ready: fruit, vegetable sticks or yoghurt."] ],
+    es: [
+      ["📅", "Planee las comidas de la semana; ahorra dinero y mantiene la nutrición en orden."],
+      ["💧", "Beba agua durante el día, salvo que tenga un límite de líquidos."],
+      ["🍇", "Coma verduras y frutas de muchos colores para obtener más nutrientes."],
+      ["🏷️", "Lea las etiquetas por porción y revise cuántas porciones trae el paquete."],
+      ["🥕", "Tenga refrigerios listos: fruta, palitos de verdura o yogur."] ],
+    ar: [
+      ["📅", "خطّط لوجبات الأسبوع مسبقًا؛ فذلك يوفر المال ويحافظ على تغذية متوازنة."],
+      ["💧", "اشرب الماء على مدار اليوم، ما لم يكن لديك حد للسوائل."],
+      ["🍇", "تناول خضارًا وفواكه بألوان متعددة للحصول على عناصر غذائية متنوعة."],
+      ["🏷️", "اقرأ البطاقة الغذائية لكل حصة، وتحقق من عدد الحصص في العبوة."],
+      ["🥕", "جهّز وجبات خفيفة سهلة: فاكهة أو أصابع خضار أو زبادي."] ] },
+};

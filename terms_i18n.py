@@ -94,6 +94,12 @@ TERMS = {
     "Native American": ("Nativa americana", "أمريكي أصلي"),
     "South American": ("Sudamericana", "أمريكي جنوبي"),
     "Southern": ("Sureña (EE. UU.)", "جنوب أمريكي (الجنوب الأمريكي)"),
+    "British": ("Británica", "بريطاني"),
+    "Thai": ("Tailandesa", "تايلاندي"),
+    "Korean": ("Coreana", "كوري"),
+    "Spanish": ("Española", "إسباني"),
+    "African": ("Africana", "أفريقي"),
+    "International": ("Internacional", "عالمي"),
 }
 
 ES_TO_EN = {

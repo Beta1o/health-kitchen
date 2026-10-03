@@ -8,3 +8,5 @@ __pycache__/
 *.pyc
 .venv/
 gallery/artifact.html
+server/__pycache__/
+translations/out_*_part*.json

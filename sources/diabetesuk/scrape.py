@@ -34,6 +34,7 @@ CACHE = os.path.join(HERE, "cache")
 IMAGES = os.path.join(HERE, "images")
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+MAX_KEEP = 1024 * 1024       # re-download (as the 772px derivative) anything larger
 MIN_INTERVAL = 5.5          # robots.txt crawl-delay: 5
 FRESH_LISTING = os.environ.get("DUK_FRESH_LISTING") == "1"
 _last = [0.0]
@@ -510,6 +511,14 @@ def parse_recipe(url, text):
         image_url = urljoin(BASE, im) if im else None
     if image_url and ("logo" in image_url.lower() and "recipe" not in image_url.lower()):
         image_url = None
+    # download the 772px "recipe_desktop" derivative shown on the page; some
+    # originals are multi-megabyte camera files (up to ~19 MB)
+    image_dl = None
+    dm = re.search(r'<source srcset="([^" ]*/styles/recipe_desktop/[^" ]+)', card)
+    if dm:
+        image_dl = urljoin(BASE, html.unescape(dm.group(1)))
+    elif image_url:
+        image_dl = image_url
     video = re.search(r'<iframe[^>]+src="([^"]*(?:youtube|vimeo)[^"]*)"', body)
     return {
         "is_recipe": ld is not None or bool(ingredients and steps),
@@ -519,6 +528,7 @@ def parse_recipe(url, text):
         "nut_head": head, "nut_rows": rows, "ingredients": ingredients,
         "steps": steps, "hints": hints, "image_url": image_url,
         "video_url": html.unescape(video.group(1)) if video else None,
+        "image_dl": image_dl,
         "extra_fields": extra_fields,
     }
 
@@ -541,7 +551,9 @@ def categorize(title, courses, mains, ingredients_text):
     if kw(t, ["sauce", "dip\\b", "dips\\b", "salsa", "chutney", "pesto", "raita", "relish",
               "hummus", "houmous", "gravy", "marinade", "spice mix", "seasoning", "jam\\b",
               "guacamole", "tzatziki", "ketchup", "mayo", "compote", "coulis"]) \
-            and not kw(t, ["with", "in .* sauce", "and .* sauce"]):
+            and not kw(t, ["with\\b", "in .* sauce", "chicken", "turkey", "beef", "lamb", "pork",
+                           "meatloaf", "meatball", "sausage", "fish", "salmon", "prawn", "cod\\b",
+                           "pasta", "spaghetti", "fritter", "burger", "pie\\b", "steak"]):
         return "Sauces & Seasonings"
     if kw(t, ["pizza", "sandwich", "wrap", "toastie", "burger", "panini", "bruschetta",
               "pitta", "quesadilla", "tortilla", "bagel", "taco", "burrito", "fajita",
@@ -635,7 +647,8 @@ def dish_of(title, tags):
         d.append("Muffin")
     if kw(t, ["\\bpie\\b", "pies\\b"]):
         d.append("Pie")
-    if kw(t, ["bread", "loaf", "rolls?\\b", "scone", "naan", "chapati", "focaccia"]) and "Cake" not in d:
+    if kw(t, ["bread", "loaf", "rolls?\\b", "scone", "naan", "chapati", "focaccia"]) and "Cake" not in d \
+            and not kw(t, ["sauce", "pudding", "crumb"]):
         d.append("Bread")
     return d
 
@@ -648,7 +661,7 @@ CUISINE_KW = [("Indian", ["curry", "tikka", "masala", "dhal", "dal\\b", "biryani
               ("Italian", ["italian", "risotto", "lasagne", "bolognese", "pizza", "pesto", "minestrone",
                            "carbonara", "arrabbiata", "focaccia", "bruschetta", "cacciatore", "tiramisu"]),
               ("Mexican", ["mexican", "fajita", "burrito", "taco", "quesadilla", "enchilada",
-                           "salsa", "guacamole", "chilli con carne", "nachos"]),
+                           "guacamole", "chilli con carne", "nachos"]),
               ("Greek", ["greek", "tzatziki", "moussaka", "souvlaki", "spanakopita"]),
               ("Middle Eastern", ["shakshuka", "falafel", "hummus", "houmous", "tabbouleh", "fattoush",
                                   "tagine", "shawarma", "za'atar", "harissa", "kofta", "afghan", "persian"]),
@@ -800,11 +813,12 @@ def main():
             "prep_time": p["prep"], "cook_time": p["cook"], "total_time": p["total"],
             "translation_of": None,
         }
+        rec["_image_dl"] = p["image_dl"]
         recipes.append(rec)
 
     # 6. images
     for rec in recipes:
-        iu = rec["image_url"]
+        iu = rec.pop("_image_dl", None) or rec["image_url"]
         if not iu:
             continue
         ext = os.path.splitext(urlparse(iu).path)[1].lower() or ".jpg"
@@ -812,7 +826,7 @@ def main():
             ext = ".jpg"
         rel = "sources/%s/images/%s%s" % (KEY, rec["source_id"], ext)
         dest = os.path.join(IMAGES, rec["source_id"] + ext)
-        if os.path.exists(dest) and os.path.getsize(dest) > 0:
+        if os.path.exists(dest) and 0 < os.path.getsize(dest) <= MAX_KEEP:
             rec["image_path"] = rel
             continue
         if blocked_note:
@@ -865,9 +879,13 @@ def main():
                  "sugars so added_sugar_g is null. Fruit/veg portions go in hints. Diet: Diabetes on all; "
                  "Gluten free -> Gluten-free; Vegan/Vegetarian -> Vegetarian; Dairy free, Nut free, Low fat, "
                  "Low sugar kept in nutrients_raw only. Freezer safe -> dish Freezer. Category from site "
-                 "main-ingredient/course filters plus title keywords. Images are the original upload "
-                 "(og:image, typically 772x462 webp or 465x280 jpg for older recipes). robots.txt crawl-delay 5 "
-                 "honoured (one request per 5.5s).")
+                 "main-ingredient/course filters plus title keywords. image_url is the original upload "
+                 "(og:image; some are multi-MB camera files up to 19 MB), while the downloaded copy is the 772px "
+                 "'recipe_desktop' rendition shown on the page (originals under 1 MB from the first run kept). "
+                 "%d recipes have no photo on the site: %s. robots.txt crawl-delay 5 "
+                 "honoured (one request per 5.5s)." % (
+                     sum(1 for r in recipes if not r["image_url"]),
+                     ", ".join(r["source_id"] for r in recipes if not r["image_url"])))
     if unknown_labels:
         notes.append("Unmapped nutrition labels: %s." % unknown_labels)
     if blocked_note:

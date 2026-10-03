@@ -336,20 +336,64 @@ def parse_ingredients(h):
     return out
 
 
+def top_level_items(seg):
+    """Contents of the top-level <li> elements of the first <ol>/<ul> in seg (nested lists kept inside)."""
+    m = re.search(r"<(ol|ul)[^>]*>", seg)
+    if not m:
+        return []
+    items, depth, start, pos = [], 0, None, m.end()
+    for t in re.finditer(r"<(/?)(ol|ul|li)\b[^>]*>", seg[pos:]):
+        close, tag = t.group(1) == "/", t.group(2)
+        a, b = pos + t.start(), pos + t.end()
+        if tag in ("ol", "ul"):
+            if close and depth == 0:
+                break
+            depth += -1 if close else 1
+        elif depth == 0:
+            if not close:
+                start = b
+            elif start is not None:
+                items.append(seg[start:a])
+                start = None
+    return items
+
+
+CHOICES_RE = re.compile(r"^(?:Diabetes\s+)?(?:Choices|Exchanges|Choices/Exchanges|Intercambios|Opciones)\s*:\s*(.+)$", re.I)
+
+
 def parse_steps(h):
-    seg = section(h, 'id="recipe-steps-section"', ["</ol>"])
-    steps = []
-    for li in re.findall(r"<li[^>]*>(.*?)</li>", seg, re.S):
-        t = clean(li)
-        if t:
-            steps.append([None, t])
+    """Return (steps, food_choices). A 'Choices: 1 Starch, ...' line in the steps becomes food_choices."""
+    seg = section(h, 'id="recipe-steps-section"', ['class="recipe-tags-section"', 'class="addtoany'])
+    steps, choices = [], []
+    for li in top_level_items(seg):
+        # nested list (e.g. layering order) -> "intro: a; b; c"
+        inner = [clean(x) for x in re.findall(r"<li[^>]*>(.*?)</li>", li, re.S)]
+        head = clean(re.sub(r"<(ol|ul)[^>]*>.*</\1>", "", li, flags=re.S))
+        t = head
+        if inner and re.search(r"<(ol|ul)\b", li):
+            t = ((head + " ") if head else "") + "; ".join(x for x in inner if x)
+        if not t:
+            continue
+        m = CHOICES_RE.match(t)
+        if m:
+            choices += [c.strip().rstrip(".") for c in re.split(r",|;", m.group(1)) if c.strip()]
+            continue
+        steps.append([None, t])
     if not steps:   # some recipes may use paragraphs instead of a list
         body = re.sub(r"<h3>.*?</h3>", "", seg, flags=re.S)
         for p in re.findall(r"<p[^>]*>(.*?)</p>", body, re.S):
             t = clean(p)
             if t:
                 steps.append([None, t])
-    return steps
+    return steps, choices
+
+
+def parse_video(h):
+    m = re.search(r'<iframe[^>]+src="([^"]*media/oembed\?url=([^"&]+)[^"]*)"', h)
+    if m:
+        return unquote(htmlmod.unescape(m.group(2)))
+    m = re.search(r'<iframe[^>]+src="(https?://(?:www\.)?(?:youtube\.com/embed|player\.vimeo\.com)/[^"]+)"', h)
+    return htmlmod.unescape(m.group(1)) if m else None
 
 
 ES_WORDS = re.compile(r"\b(de|la|el|los|las|con|y|en|para|una?|del|al|hasta|minutos|agrega|añade|mezcla|taza|cucharadas?)\b", re.I)
@@ -378,6 +422,7 @@ def parse_page(url, h):
         desc = "\n\n".join(ps)
     elif ld.get("description"):
         desc = clean(ld["description"])
+    steps, choices = parse_steps(h)
     hero = section(h, "recipe-hero__information", ["recipe-hero__img"]) if "recipe-hero__information" in h else ""
     # times / servings from the hero block (first occurrence)
     def span_pair(cls):
@@ -420,7 +465,8 @@ def parse_page(url, h):
         "lang": lang, "title": title, "description": desc, "prep": prep, "cook": cook, "total": total,
         "portions": portions, "serving_size": serving_size, "tags": tags,
         "nutrients": nutrients, "extra": extra, "nutrients_raw": raw,
-        "ingredients": parse_ingredients(h), "steps": parse_steps(h), "credits": credits,
+        "ingredients": parse_ingredients(h), "steps": steps, "food_choices": choices,
+        "video_url": parse_video(h), "credits": credits,
         "image_orig": urljoin(BASE, quote(htmlmod.unescape(img_url), safe="/:%?=&")) if img_url else None,
         "image_2x": urljoin(BASE, htmlmod.unescape(hero2x.group(1))) if hero2x else None,
         "image_1x": urljoin(BASE, htmlmod.unescape(hero1x.group(1))) if hero1x else None,
@@ -559,6 +605,21 @@ def pick_category(title, tags, ing_text):
             if re.search(pat, ing):
                 return cat
     return "Vegetables"
+
+
+SINGLE_FOOD = [   # meal-plan single-food entries (no steps, one ingredient)
+    ("Chicken & Turkey", T("chicken", "turkey")),
+    ("Breakfast & Brunch", T("oatmeal", "granola")),
+    ("Pasta, Rice & Grains", T("rice", "quinoa", "farro", "barley", "pasta")),
+    ("Breads", T("bread", "toast", "muffin", "bun", "roll", "pita", "tortilla")),
+    ("Beverages", T("soymilk", "milk")),
+    ("Sauces & Seasonings", T("dressing", "jam", "margarine", "nutritional yeast")),
+    ("Appetizers & Snacks", T("yogurt", "cottage cheese", "cheese stick", "cheese", "nuts", "almonds?", "pecans",
+                              "walnuts", "cashews", "peanuts", "pistachios", "seeds", "flaxseeds", "crackers", "hummus",
+                              "raisins", "cherries", "grapes", "apple", "banana", "orange", "pear", "peach",
+                              "berries", "blueberries", "strawberries", "raspberries", "cantaloupe", "butter",
+                              "roasted chickpeas", "roasted edamame")),
+]
 
 
 def pick_diet(tags):
@@ -722,6 +783,9 @@ def record(url, sid, p, lang, translation_of=None):
     ing_text = " ".join(x for _, x in p["ingredients"])
     steps_text = " ".join(x for _, x in p["steps"])
     cat = pick_category(p["title"], p["tags"], ing_text)
+    if not p["steps"] and len(p["ingredients"]) <= 1:
+        t = (p["title"] or "").lower()
+        cat = next((c for c, pat in SINGLE_FOOD if re.search(pat, t)), "Vegetables")
     diet = pick_diet(p["tags"])
     return {
         "source": KEY, "source_name": SOURCE_NAME, "source_id": sid, "url": url, "lang": lang,
@@ -734,7 +798,7 @@ def record(url, sid, p, lang, translation_of=None):
         "method": pick_method(p["title"], p["tags"], steps_text),
         "nutrients": p["nutrients"], "nutrients_raw": p["nutrients_raw"],
         "ingredients": p["ingredients"], "steps": p["steps"], "hints": [],
-        "food_choices": [], "carb_choices": None, "video_url": None,
+        "food_choices": p["food_choices"], "carb_choices": None, "video_url": p["video_url"],
         "prep_time": p["prep"], "cook_time": p["cook"], "total_time": p["total"],
         "translation_of": translation_of,
         "tags": [t for _, t in p["tags"]],
@@ -756,7 +820,7 @@ def build(en, es, total, status):
             continue
         p = parse_page(loc, h)
         if p["canonical"] in (BASE + "/", BASE + "/es", BASE + "/es/"):
-            skipped.append({"url": loc, "reason": "301 redirect to the homepage (recipe no longer published)"})
+            skipped.append({"url": loc, "reason": "301 redirect to the homepage for anonymous visitors (no recipe content served)"})
             continue
         if not p["has_recipe"] or not (p["ingredients"] or p["steps"]):
             skipped.append({"url": loc, "reason": "not a recipe page (landing/collection page in the recipes path)"})
@@ -794,6 +858,12 @@ def build(en, es, total, status):
             continue
         p = parsed[loc]
         sid = "es-" + ES_RE.match(loc).group(1)
+        if p["lang"] == "en":
+            dup = [u for u in en_ids if parsed[u]["image_orig"] == p["image_orig"]
+                   and parsed[u]["nutrients"]["calories"] == p["nutrients"]["calories"]]
+            if dup:
+                skipped.append({"url": loc, "reason": f"English text (html lang=en) at a Spanish URL; duplicate of {dup[0]}"})
+                continue
         en_url = alts.get("en")
         base = en_ids.get(en_url)
         if not base and p["image_orig"]:
@@ -842,8 +912,15 @@ def build(en, es, total, status):
             f"records stand alone (no English counterpart found). lang comes from <html lang>, except Spanish-language "
             f"recipes published under /recipes/ with lang=en, which are set to 'es'. Sitemap vs listing: of the "
             f"{len(en)} English sitemap URLs, {sum(1 for x in skipped if 'homepage' in x['reason'] and '/es/' not in x['url'])} "
-            f"301-redirect to the homepage (unpublished) and {sum(1 for x in skipped if 'landing' in x['reason'] and '/es/' not in x['url'])} "
-            f"is a landing page; see skipped.json. Per language: en {s_en}, es {s_es}. "
+            f"301-redirect to the homepage for anonymous visitors and {sum(1 for x in skipped if 'landing' in x['reason'] and '/es/' not in x['url'])} "
+            f"is a landing page, which gives the listing's {total} if the listing counts the unpublished ones too "
+        f"(it cannot be paged under robots.txt to check); "
+        f"{sum(1 for x in skipped if 'homepage' in x['reason'] and '/es/' in x['url'])} Spanish URLs also 301 to the "
+        f"homepage; see skipped.json. {sum(1 for r in recipes if not r['steps'])} records have no steps because they "
+        f"are single-food entries used in the site's meal plans (e.g. 'Orange, medium', 'Almond butter'); they are kept. "
+        f"Spanish pages leave serving size blank and keep some ingredient notes in English, as published. "
+        f"Photos: image_url is the uploaded original; the downloaded copy is the site's 1440w hero rendition "
+        f"(recipe_hero_banner_720w_2x, at most 1440 px wide, usually ~973x779), with the original as fallback. Per language: en {s_en}, es {s_es}. "
             f"Parsed from page HTML (the JSON-LD splits ingredients/steps on commas and omits potassium). Nutrition panel "
             f"mapped per serving; added_sugar_g only from the 'Added Sugars' row; saturated/trans fat and total sugars "
             f"are kept in nutrients_extra. No phosphorus/calcium values or diabetes exchanges/choices appear on the "

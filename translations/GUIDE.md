@@ -59,3 +59,17 @@ Readers are kidney patients (dialysis and CKD) and their families. Translate the
 | high calorie | عالي السعرات | low-potassium vegetable | خضار منخفضة البوتاسيوم |
 | medium-potassium fruit | فاكهة متوسطة البوتاسيوم | high-potassium vegetable | خضار عالية البوتاسيوم |
 | dialysis | غسيل الكلى | kidney-friendly | مناسب لمرضى الكلى |
+
+## Additional languages (ur, hi, fr, id, bn, tl)
+Translate from the English text (`source_lang` is always `en` for these jobs). Use the same output format as above with the language code as the key, e.g. `{"id": 2430, "translations": {"ur": {...}}}`.
+
+| Code | Language | Style |
+|---|---|---|
+| `ur` | Urdu | Clear standard Urdu in Nastaliq/Arabic script, polite آپ form ("اوون کو پہلے سے گرم کریں"). Western digits. Units: کپ، کھانے کا چمچ، چائے کا چمچ، گرام، ملی لیٹر. |
+| `hi` | Hindi | Simple standard Hindi in Devanagari, polite आप form ("ओवन को पहले से गरम करें"). Western digits. Units: कप, बड़ा चम्मच, छोटा चम्मच, ग्राम, मिलीलीटर. |
+| `fr` | French | Standard French, "vous" imperative ("Préchauffez le four"). Units: tasse, cuillère à soupe, cuillère à café, g, ml. |
+| `id` | Indonesian | Standard Bahasa Indonesia, polite imperative ("Panaskan oven terlebih dahulu"). Units: cangkir, sendok makan, sendok teh, gram, ml. |
+| `bn` | Bengali | Standard Bengali in Bengali script, polite আপনি form. Western digits. Units: কাপ, টেবিল চামচ, চা চামচ, গ্রাম, মিলি. |
+| `tl` | Tagalog (Filipino) | Natural Filipino/Tagalog as used in recipes; common English cooking words may stay where Filipinos normally use them. Units: tasa, kutsara, kutsarita, gramo, ml. |
+
+For all of these: keep every number and quantity exactly as in the English (unit names translated, values unchanged), keep brand names in Latin script, and translate medical words precisely (sodium, potassium, phosphorus, dialysis, kidney disease, diabetes).

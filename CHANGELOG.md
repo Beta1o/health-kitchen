@@ -2,6 +2,26 @@
 
 All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
+## [0.4.0] - 2026-10-03
+### Added
+- Diabetes Food Hub (ADA) and Diabetes UK recipes: 3,310 unique recipes in total.
+- Accounts on a local server (`server/`): sign up with email and password, with profile, health plan, weight log, My day, saved recipes and settings stored in PostgreSQL. Row-level security limits each user to their own rows; admins get an Admin page for users and roles.
+- Dashboard with condition switcher, daily targets, recommended meals sized to your targets, tips, calculators and a weight tracker.
+- Interface in Urdu, Hindi, French, Indonesian, Bengali and Tagalog. A recipe appears in a language only once its full translation is in, so text never mixes languages.
+- Feminine forms of address for Arabic instructions ("Speak to me as").
+- About page with sources and latest updates.
+
+### Changed
+- English, Spanish and Arabic now cover every recipe (3,310 each).
+- The language picker is in Settings only; the header no longer has one.
+- My information (profile, goals, foods to avoid, doctor's notes) moved from Settings to the Account page.
+- Settings sections are collapsible.
+- Gallery build is much faster (added database indexes).
+
+### Fixed
+- Hidden overlays (such as the sign-in screen) could stay visible because their display style overrode `hidden`.
+- Links like `#ar-dash` now open in the right language.
+
 ## [0.3.0] - 2026-10-02
 ### Added
 - External sources: AAKP (198 recipes), Kidney Care UK (48), My Renal Nutrition (82) and DaVita Saudi Arabia (8 new recipes plus photos for 5 DaVita recipes), stored in a shared format (`sources/FORMAT.md`) and loaded by `import_sources.py`.

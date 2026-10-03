@@ -6,7 +6,7 @@
 
 <p align="center">
   Recipes for kidney disease, diabetes, high blood pressure and heart health,<br>
-  in <b>English</b>, <b>Español</b> and <b>العربية</b>, with nutrition plans built in.<br><br>
+  in <b>English</b>, <b>Español</b>, <b>العربية</b> and six more languages, with nutrition plans built in.<br><br>
   <a href="https://beta1o.github.io/health-kitchen/"><b>Open the app →</b></a>
 </p>
 
@@ -16,10 +16,10 @@
 
 | | |
 |---|---|
-| Recipes in the app | **1,469** unique recipes |
-| Sources | DaVita (davita.com, espanol.davita.com, davita.sa), AAKP, Kidney Care UK, My Renal Nutrition |
-| Languages | English, Spanish and Arabic for every recipe. Official text is used where the source publishes it; the rest is translated |
-| Photos | 774 recipes. Recipes without one get a colour-coded illustrated title card |
+| Recipes in the app | **3,310** unique recipes |
+| Sources | DaVita (davita.com, espanol.davita.com, davita.sa), AAKP, Kidney Care UK, My Renal Nutrition, Diabetes Food Hub (ADA), Diabetes UK |
+| Languages | English, Spanish and Arabic for every recipe; Urdu, Hindi, French, Indonesian, Bengali and Tagalog being completed (a recipe appears in a language once its full translation is in). Official text is used where the source publishes it; the rest is translated |
+| Photos | 2,609 recipes. Recipes without one get a colour-coded illustrated title card |
 | Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
 
 ## The app
@@ -42,6 +42,29 @@ Nutrition levels and plan amounts are a guide only. Patients should follow the l
 Recipes containing pork or pork products, pork-derived gelatin (gelatin, Jell-O, marshmallows) or alcohol (wine, beer, spirits, mirin, cooking wine) are left out. That is **219** recipes: 100 pork, 58 gelatin and 70 alcohol, where a recipe can have more than one reason. Each one is recorded with the exact matching ingredient lines in the `excluded_recipes` table.
 
 Wine vinegar, root beer and marshmallow crème are kept. Hints and descriptions that suggested pork or alcohol as a swap or serving idea were rewritten in all three languages (`translations/policy_text_fixes*.json`).
+
+## Accounts (local server with PostgreSQL)
+
+The app also runs with real accounts on a local server. Users sign up with email and password and keep their profile, health plan, weight log, My day, saved recipes and settings in a PostgreSQL database. An admin page lists users and manages roles.
+
+```bash
+# one-time setup (no sudo needed): a PostgreSQL cluster owned by you on port 5440
+/usr/lib/postgresql/16/bin/initdb -D ~/.local/share/health-kitchen/pgdata -U hk_owner --auth=scram-sha-256 --pwprompt
+/usr/lib/postgresql/16/bin/pg_ctl -D ~/.local/share/health-kitchen/pgdata -o "-p 5440 -k /tmp" -l ~/.local/share/health-kitchen/pg.log start
+psql -h 127.0.0.1 -p 5440 -U hk_owner -d postgres -c "CREATE DATABASE health_kitchen"
+psql -h 127.0.0.1 -p 5440 -U hk_owner -d health_kitchen -f server/schema.sql
+psql -h 127.0.0.1 -p 5440 -U hk_owner -d health_kitchen -c "ALTER ROLE hk_api PASSWORD 'choose-a-password'"
+python3 -m venv ~/.venvs/hk && ~/.venvs/hk/bin/pip install "psycopg[binary]" psycopg_pool fastapi uvicorn
+
+# run (starts PostgreSQL if needed, then the server)
+HK_DB_URL=postgresql://hk_api:choose-a-password@127.0.0.1:5440/health_kitchen server/run.sh
+# open http://localhost:8100
+```
+
+- **The first account you create becomes the admin.** Admins can promote other users or remove accounts from the Admin page (Account → Admin).
+- **Security:** passwords are hashed with scrypt, and sessions are random tokens stored hashed with a 30-day expiry. The API connects as `hk_api`, a role with no superuser rights and no `BYPASSRLS`. Every request sets the signed-in user, and PostgreSQL **row-level security** (`server/schema.sql`) lets each user read and write only their own rows. Admins can read all of them.
+- **Without the server:** the GitHub Pages version and opening `gallery/index.html` directly both work without accounts, keeping data on the device only.
+- **Outside this computer:** to reach the server from other devices, put it behind HTTPS (for example a reverse proxy) before sharing it.
 
 ## Rebuild the data
 
@@ -88,4 +111,4 @@ SELECT text FROM ingredients_i18n WHERE recipe_id = 2430 AND lang = 'es' ORDER B
 
 ## Credits
 
-Recipe text, nutrition data and photos belong to their publishers: DaVita Inc., the American Association of Kidney Patients, Kidney Care UK and My Renal Nutrition (Vitaflo). Every recipe links back to its original page. The project code is provided as-is for personal and educational use.
+Recipe text, nutrition data and photos belong to their publishers: DaVita Inc., the American Association of Kidney Patients, Kidney Care UK, My Renal Nutrition (Vitaflo), the American Diabetes Association (Diabetes Food Hub) and Diabetes UK. Every recipe links back to its original page. The project code is provided as-is for personal and educational use.

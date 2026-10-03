@@ -1,0 +1,22 @@
+[
+ {
+  "field": "title",
+  "recipe_id": 2445,
+  "position": 0,
+  "text": {
+   "ar": "بيتزا الفواكه",
+   "en": "Fruit Pizza",
+   "es": "Pizza de frutas"
+  }
+ },
+ {
+  "field": "title",
+  "recipe_id": 3894,
+  "position": 0,
+  "text": {
+   "ar": "سلطة الملفوف المنعشة",
+   "en": "Tangy Coleslaw",
+   "es": "Ensalada de col agridulce"
+  }
+ }
+]

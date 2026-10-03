@@ -31,7 +31,7 @@ THUMB_W = 520
 PHOTO_W = 1280
 PHOTOS = OUT / "photos"
 CHUNK_SIZE = 90
-LANGS = ("en", "es", "ar")
+LANGS = ("en", "es", "ar", "ur", "hi", "fr", "id", "bn", "tl")
 
 NUTRIENTS = ["calories", "protein_g", "carbohydrates_g", "fat_g", "cholesterol_mg", "sodium_mg",
              "potassium_mg", "phosphorus_mg", "calcium_mg", "fiber_g", "added_sugar_g"]
@@ -171,22 +171,42 @@ def main():
     if missing:
         print("warning: no translation for", missing)
 
-    payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms,
+    # split text by language: core data keeps English (or the source text) and a list of available
+    # languages; every other language goes to text/<lang>.js, loaded only when the reader picks it
+    import hashlib, shutil
+    TEXT = OUT / "text"; TEXT.mkdir(exist_ok=True)
+    per_lang = {}
+    for rec in recipes:
+        rec["L"] = sorted(k for k in rec["t"] if k != "arf")
+        keep = "en" if "en" in rec["t"] else rec["src"]
+        for k, v in list(rec["t"].items()):
+            if k != keep:
+                per_lang.setdefault(k, {})[rec["id"]] = v
+        rec["t"] = {keep: rec["t"][keep]}
+    vers = {}
+    for k, m in per_lang.items():
+        js = json.dumps(m, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+        vers[k] = hashlib.md5(js.encode()).hexdigest()[:8]
+        (TEXT / f"{k}.js").write_text(f"HK_TEXT({json.dumps(k)},{js});", encoding="utf-8")
+    # interface strings for added languages (translations/ui/<lang>.js)
+    UIDIR = OUT / "ui"; UIDIR.mkdir(exist_ok=True)
+    for f in (HERE / "translations" / "ui").glob("*.js"):
+        shutil.copy(f, UIDIR / f.name)
+        vers["ui_" + f.stem] = hashlib.md5(f.read_bytes()).hexdigest()[:8]
+
+    payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers,
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     fonts = (HERE / "fonts" / "fonts.css").read_text(encoding="utf-8")  # built by fonts/fetch_fonts.py
     tpl = TEMPLATE.read_text(encoding="utf-8").replace("/*__FONTS__*/", fonts)
-    # artifact: everything inline. index.html: data in data.js so the page itself paints quickly
-    (OUT / "artifact.html").write_text(tpl.replace("<!--__DATA_SCRIPT__-->", "").replace("/*__DATA__*/null", data), encoding="utf-8")
     (OUT / "data.js").write_text("window.HK_DATA=" + data + ";", encoding="utf-8")
-    import hashlib
     ver = hashlib.md5(data.encode()).hexdigest()[:8]
     body = tpl.replace("<!--__DATA_SCRIPT__-->", f'<script src="data.js?v={ver}"></script>').replace("/*__DATA__*/null", "null")
     page = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
             '</head>\n<body>\n' + body + '\n</body>\n</html>\n')
     (OUT / "index.html").write_text(page, encoding="utf-8")
-    cover = {lang: sum(1 for x in recipes if lang in x["t"]) for lang in LANGS}
+    cover = {lang: sum(1 for x in recipes if lang in x["L"]) for lang in LANGS}
     print(f"{len(recipes)} recipes, {sum(1 for x in recipes if x['img'] is not None)} photos, {chunk_no} image chunks, "
           f"language coverage {cover}, index.html {(OUT / 'index.html').stat().st_size / 1e6:.1f} MB")
 
