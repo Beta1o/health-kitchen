@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-2pAY2U/o9FkaewLf+dyacOPlT6cq6H6fnxoe0yDsm8g=' 'sha256-WXmQtS+D+GWYjm9LmFA/Ks9U8DElK6jsMs2IGL9oR0s=' 'sha256-pYD9mZGcM0wzP4JrRGlOq8TwFBBqNIJf0WABavxhZBo=' 'sha256-D+4ACB8bF0R3Xo/mrisf2DjTuHFuxEBxVdclUDbPsIQ=' 'sha256-jZ2mafhcEppiHeAeKNqlokK7EjlgY4zXB7IUn4Mvc1E='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://soxrozrunkdlvtgthvqr.supabase.co wss://soxrozrunkdlvtgthvqr.supabase.co http://localhost:8099 http://localhost:8100 http://127.0.0.1:8099 http://127.0.0.1:8100; media-src 'self' https:; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; worker-src 'self'; manifest-src 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-2pAY2U/o9FkaewLf+dyacOPlT6cq6H6fnxoe0yDsm8g=' 'sha256-WXmQtS+D+GWYjm9LmFA/Ks9U8DElK6jsMs2IGL9oR0s=' 'sha256-pYD9mZGcM0wzP4JrRGlOq8TwFBBqNIJf0WABavxhZBo=' 'sha256-D+4ACB8bF0R3Xo/mrisf2DjTuHFuxEBxVdclUDbPsIQ=' 'sha256-qWGiIFLR1PFBmI/AXbye/v69DPB9SGoe1vnX9RhN0es='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; font-src 'self' data:; connect-src 'self' https://soxrozrunkdlvtgthvqr.supabase.co wss://soxrozrunkdlvtgthvqr.supabase.co http://localhost:8099 http://localhost:8100 http://127.0.0.1:8099 http://127.0.0.1:8100; media-src 'self' https:; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; worker-src 'self'; manifest-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="Health Kitchen: thousands of recipes for kidney disease, diabetes, blood pressure and heart health, in 9 languages, with nutrition per serving, portions sized to your plan and meal plans.">
@@ -271,8 +271,35 @@ ol.steps li.done::before { content: "✓"; background: var(--accent); color: var
 .nv b { font-weight: 500; text-align: end; font-family: var(--font-data); font-variant-numeric: tabular-nums; }
 .nv i { font-style: normal; text-align: start; color: var(--muted); font-size: .85em; font-family: var(--font-body); }
 .ntable tr.key td:first-child { font-weight: 700; }
+.ntable table:has(td:nth-child(3)) td { padding-inline: 9px; }
+.ntable td.foot-note { white-space: normal; overflow-wrap: anywhere; }
+@media (max-width: 1023px) {   /* tablets too: recipe toolbar on one line, icons only (the source link keeps its name) */
+  .sheet-bar { flex-wrap: nowrap; gap: 6px; }
+  .sheet-bar .grp { flex-wrap: nowrap; gap: 5px; }
+  .sheet-bar .grp:last-child { overflow-x: auto; scrollbar-width: none; }
+  .sheet-bar .icon-btn:not([data-act="close"]):not([href]) { padding: 0; width: 40px; height: 40px; justify-content: center; flex: none; }
+  .sheet-bar .icon-btn:not([data-act="close"]):not([href]) .lbl { display: none; }
+}
+@media (max-width: 380px) {   /* small phones: header fits on one line */
+  .top-in { gap: 6px; padding-inline: 8px; }
+  .brand-txt h1 { font-size: 1.15rem; }
+  .brand .logo { width: 32px; height: 32px; }
+  .top .icon-btn.round, .top #shopBtn, .top #adminBtn { width: 36px; height: 36px; min-width: 36px; padding: 0; justify-content: center; }
+  .top #shopBtn .fav-label, .top #adminBtn .fav-label { display: none; }
+  .acc-btn { height: 36px; padding: 0 8px 0 3px; }
+}   /* column headings wrap ("my portion (×½)") */
+.acc-card > *, .ad-detail .acc-head > div { min-width: 0; }
+.ad-detail .targets { grid-template-columns: repeat(auto-fill, minmax(min(130px, 100%), 1fr)); }
+.ad-detail p, .ad-detail h3 { overflow-wrap: anywhere; }
+.ntable table:has(td:nth-child(3)) .nv { grid-template-columns: auto auto; column-gap: 3px; }
+@media (max-width: 640px) {   /* phones: number columns as narrow as their numbers, badge under the nutrient name */
+  .ntable td { padding: 8px 8px; font-size: .88rem; }
+  .nv { grid-template-columns: auto auto; column-gap: 3px; }
+  .ntable td:first-child .lvl { display: block; width: fit-content; margin: 3px 0 0; }
+}
 .lvl { font-size: .68rem; font-weight: 700; padding: 2px 7px; border-radius: 999px; margin-inline-start: 8px; vertical-align: 1px; }
-.side { display: grid; gap: 20px; }
+.side { display: grid; gap: 20px; grid-template-columns: minmax(0, 1fr); }
+.side > *, .dv > *, .meters > * { min-width: 0; }   /* long numbers or labels wrap instead of widening the column */
 .fitbox { background: linear-gradient(135deg, var(--accent-soft), var(--surface)); border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--line)); border-radius: 16px; padding: 14px 16px; display: grid; gap: 10px; }
 .fitbox > div { display: grid; gap: 4px; }
 .fitbox b { font-family: var(--font-display); }
@@ -368,7 +395,7 @@ body.no-submit [data-acc="tab"][data-v="myrecipes"], body.no-cook [data-act="coo
   .sheet-bar .grp:last-child { max-width: none; flex: 1; justify-content: flex-end; }
   .icon-btn, .seg2 button, .chip, .linkish { min-height: 36px; }
 }
-[data-admsec] { display: grid; gap: 14px; }
+[data-admsec] { display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
 .announce { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 12px 16px; border-radius: 14px; margin-bottom: 14px; font-weight: 600; }
 .announce.info { background: var(--accent-soft); color: var(--ink); border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
 .announce.warn { background: var(--hi-bg); color: var(--hi); border: 1px solid color-mix(in srgb, var(--hi) 35%, transparent); }
@@ -449,7 +476,7 @@ select option { background: var(--surface); color: var(--ink); }
 .bars { display: flex; align-items: flex-end; gap: 3px; height: 90px; }
 .bars i { flex: 1; background: var(--accent); border-radius: 3px 3px 0 0; opacity: .85; min-width: 2px; }
 .admin-table tr.off td { opacity: .55; }
-.ad-detail input { padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font: inherit; }
+.ad-detail input { min-width: 0; flex: 1 1 140px; max-width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); font: inherit; }
 .icon-btn.danger { color: var(--hi); }
 .sugg { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
 .sugg:empty { display: none; }
@@ -651,14 +678,14 @@ dialog.panel-dlg[open] { animation: sheetIn .35s cubic-bezier(.2,.8,.2,1); }
 .plan-card b { font-family: var(--font-display); }
 .plan-card select { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2); }
 .plan-card .lims { font-size: .8rem; color: var(--muted); line-height: 1.7; }
-.meters { display: grid; gap: 12px; }
+.meters { display: grid; gap: 12px; grid-template-columns: minmax(0, 1fr); }
 .meter-top { display: flex; justify-content: space-between; gap: 8px; font-size: .9rem; align-items: baseline; flex-wrap: wrap; }
 .meter-top b { font-weight: 700; }
 .meter-top span { color: var(--muted); font-size: .8rem; }
 .bar { height: 9px; border-radius: 999px; background: var(--surface-2); overflow: hidden; border: 1px solid var(--line); }
 .bar i { display: block; height: 100%; border-radius: 999px; max-inline-size: 100%; }
 .bar i.lv-lo { background: var(--lo); } .bar i.lv-mid { background: var(--mid); } .bar i.lv-hi { background: var(--hi); } .bar i.goal { background: var(--accent); }
-.dv { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; display: grid; gap: 14px; }
+.dv { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; display: grid; gap: 14px; grid-template-columns: minmax(0, 1fr); }
 .dv h3 { font-size: 1.1rem; display: flex; justify-content: space-between; gap: 8px; align-items: baseline; flex-wrap: wrap; }
 .dv-notes { margin: 0; padding-inline-start: 18px; display: grid; gap: 6px; font-size: .92rem; }
 .ratio { display: flex; gap: 12px; align-items: center; background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
@@ -3546,6 +3573,7 @@ async function initAuth() {
 // ---------- views: dashboard / recipes ----------
 let view = "dash";
 function setView(v, push = true) {
+  if (v !== "recipes" && document.body.classList.contains("reading")) { $("#sheet").hidden = true; document.body.classList.remove("reading"); current = null; }   // leaving an open recipe closes it
   view = v; for (const k of ["dash", "recipes", "about", "account", "admin", "shop"]) document.body.classList.toggle("view-" + k, v === k);
   document.querySelectorAll(".bottom-nav [data-nav]").forEach(b => b.classList.toggle("on", b.dataset.nav === v && !state.favOnly));
   document.querySelectorAll(".view-tabs [data-vtab]").forEach(b => b.classList.toggle("on", b.dataset.vtab === v));
