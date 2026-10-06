@@ -1,0 +1,159 @@
+{
+ "dt": {
+  "title": "Mi plan de alimentación",
+  "madeOn": "Creado el",
+  "print": "Imprimir / guardar como PDF",
+  "newMenu": "Nuevo menú",
+  "intro": "Tu plan personal, creado a partir de tu perfil: plan de salud, medidas corporales, actividad, objetivo y preferencias de comida. Revísalo con tu médico o dietista.",
+  "needInfo": "Añade tu edad, altura y peso en Mis datos para que el plan se ajuste a ti.",
+  "editInfo": "Editar mis datos",
+  "secYou": "Sobre ti",
+  "healthy": "Peso saludable para tu altura",
+  "healthyNote": "BMI 18,5–24,9",
+  "secJourney": "Tu camino",
+  "now": "Ahora",
+  "goalFig": "Tu meta",
+  "cheerKeep": "Sigue así: un peso estable, buena comida y moverte cada día protegen tu salud.",
+  "cheerDone": "Ya estás en tu meta. ¡Sigue así!",
+  "benefits": [
+   "Presión arterial más baja y menos esfuerzo para el corazón y los riñones",
+   "Azúcar en sangre más estable",
+   "Más energía, más facilidad para moverte y mejor sueño"
+  ],
+  "secDaily": "Tus objetivos diarios",
+  "kcalLose": "unas 500 menos de las que gastas",
+  "kcalGain": "unas 300 más de las que gastas",
+  "kcalKeep": "lo que gastas en un día",
+  "protKidney": "ajustada a tu plan renal",
+  "carbLimit": "el límite de tu plan",
+  "carbHalf": "aproximadamente la mitad de tus calorías",
+  "fat": "Grasa",
+  "fatNote": "alrededor del 30 % de las calorías, sobre todo de aceite de oliva, frutos secos y pescado",
+  "fluids": "Líquidos",
+  "fluidLimit": "tu límite (orina + 750 ml); sigue las indicaciones de tu equipo de salud",
+  "fluidGen": "al día, salvo que tu equipo de salud limite los líquidos",
+  "secTimeline": "Tu camino hacia la meta",
+  "tlKeep": "Tu meta es mantener tu peso: come aproximadamente tus calorías diarias y mantente activo.",
+  "tlNoTarget": "Indica un peso objetivo en Salud y metas para ver tu calendario.",
+  "tlReached": "Ya estás en tu peso objetivo.",
+  "tlLow": "Tu objetivo está por debajo de un peso saludable para tu altura (BMI 18,5). Consúltalo con tu médico.",
+  "tlHowGain": "Cómo: unas 300 kcal más al día, con proteína en cada comida y ejercicios de fuerza dos veces por semana.",
+  "week": "Semana",
+  "expected": "Peso esperado",
+  "secSplit": "Cómo repartir tu día",
+  "splitNote": "Haz tus comidas a horas regulares; la merienda es opcional. Añade verduras al almuerzo y a la cena.",
+  "secMenu": "Tu menú de 7 días",
+  "menuNote": "Hecho con recetas que encajan con tu plan de salud y tus preferencias. La porción (×) se ajusta a tus calorías y límites. Toca una receta para abrirla.",
+  "dayTotal": "Total del día",
+  "secChoose": "Elige más a menudo",
+  "secLimit": "Limita o evita",
+  "avoidMine": "También evitados para ti",
+  "secExercise": "Tu plan de ejercicio",
+  "exWeekly": "Actividad semanal",
+  "exModerate": "moderada: puedes hablar, pero no cantar",
+  "exStrengthT": "Fuerza",
+  "exStrengthV": "2 días a la semana",
+  "exSteps": "Pasos diarios",
+  "exStepsNote": "añade unos 500 cada semana",
+  "exBurn": "El ejercicio quema",
+  "exPerWeek": "a la semana",
+  "exActivity": "Actividad",
+  "exMinutes": "Minutos",
+  "exIntensity": "Intensidad",
+  "moderate": "Moderada",
+  "light": "Ligera",
+  "ex": {
+   "walk": "Caminar a paso rápido",
+   "bike": "Bicicleta o natación",
+   "strength": "Fuerza (bandas elásticas, pesas ligeras o tu propio peso)",
+   "stretch": "Estiramientos y equilibrio"
+  },
+  "exProgress": "Empieza con 10–15 minutos cada vez y añade 5 minutos cada semana hasta llegar a tu objetivo. Las sesiones cortas (10 minutos) también suman.",
+  "exOlder": "Incluye ejercicios de equilibrio (apoyarte en un pie cerca de una pared, caminar poniendo un talón delante de la punta del otro pie) para prevenir caídas.",
+  "exSafety": {
+   "kidney": "Haz ejercicio los días sin diálisis o según te indique tu equipo de salud; no levantes peso ni hagas presión con el brazo de la fístula; cuenta lo que bebas durante el ejercicio dentro de tu límite de líquidos.",
+   "diabetes": "Mide tu azúcar en sangre antes y después del ejercicio, lleva contigo azúcar de acción rápida (zumo o tabletas de glucosa) y haz ejercicio 1–3 horas después de comer.",
+   "heart": "Calienta y enfría durante 5–10 minutos, no aguantes la respiración al levantar peso y para si notas dolor en el pecho, mareo o una falta de aire poco habitual.",
+   "gen": "Empieza poco a poco, bebe agua y para si notas dolor o mareo."
+  },
+  "secHabits": "Hábitos semanales",
+  "habits": [
+   "Pésate una vez a la semana, el mismo día y a la misma hora, y anótalo en Peso",
+   "Registra lo que comes en Mi día",
+   "Usa el plan de comidas y la lista de la compra para comprar una vez a la semana",
+   "Duerme 7–9 horas",
+   "Toma tus medicamentos como te los recetaron y no faltes a tus citas"
+  ],
+  "disclaimer": "Este plan es una orientación general basada en los datos que has introducido. No sustituye los consejos de tu médico o dietista, sobre todo si tienes enfermedad renal, diabetes o problemas de corazón.",
+  "foods": {
+   "kidney": {
+    "choose": [
+     "Fruta baja en potasio: manzanas, frutos rojos, uvas, piña",
+     "Verduras: col, coliflor, pimientos, pepino, cebolla",
+     "Arroz blanco, pasta, pan sin sal",
+     "Carne fresca, pollo, pescado y huevos en las porciones de tu plan",
+     "Hierbas, limón y especias en lugar de sal"
+    ],
+    "limit": [
+     "Sal, pastillas de caldo, encurtidos, alimentos procesados y enlatados",
+     "Alimentos ricos en potasio: plátanos, naranjas, patatas, tomates, fruta desecada",
+     "Alimentos ricos en fósforo: lácteos, refrescos de cola, queso procesado, frutos secos, cereales integrales",
+     "Alimentos con aditivos de fosfato (“fosf” en la etiqueta)",
+     "Sustitutos de la sal (contienen potasio)"
+    ]
+   },
+   "diabetes": {
+    "choose": [
+     "Verduras en cada comida (la mitad del plato)",
+     "Cereales integrales: avena, arroz integral, pan integral",
+     "Alubias, lentejas y garbanzos",
+     "Proteína magra: pescado, pollo, huevos, yogur",
+     "Agua y bebidas sin azúcar"
+    ],
+    "limit": [
+     "Azúcar, dulces y bebidas azucaradas, incluidos los zumos",
+     "Pan blanco, arroz blanco y bollería en porciones grandes",
+     "Fritos y comida rápida",
+     "Dátiles y fruta desecada en grandes cantidades"
+    ]
+   },
+   "heart": {
+    "choose": [
+     "Verduras y fruta, 5 raciones al día",
+     "Cereales integrales y fibra",
+     "Pescado dos veces por semana, alubias y lentejas",
+     "Aceite de oliva, frutos secos y semillas sin sal",
+     "Lácteos bajos en grasa"
+    ],
+    "limit": [
+     "Sal y alimentos salados (pan, queso, encurtidos, platos preparados)",
+     "Carnes grasas y procesadas",
+     "Mantequilla, ghee y fritos",
+     "Azúcar y bebidas azucaradas"
+    ]
+   },
+   "gen": {
+    "choose": [
+     "Verduras y fruta, 5 raciones al día",
+     "Cereales integrales",
+     "Proteína magra: pescado, pollo, legumbres, huevos",
+     "Agua",
+     "Comida casera"
+    ],
+    "limit": [
+     "Azúcar y bebidas azucaradas",
+     "Sal y alimentos procesados",
+     "Fritos y comida rápida",
+     "Porciones grandes por la noche"
+    ]
+   }
+  }
+ },
+ "fn": {
+  "tlLose": "(kg, wk, date, rate) => `Pierde unos ${kg} kg en ${wk} semanas (hacia ${date}), a un ritmo de unos ${rate} kg por semana.`",
+  "tlGain": "(kg, wk, date, rate) => `Gana unos ${kg} kg en ${wk} semanas (hacia ${date}), a un ritmo de unos ${rate} kg por semana.`",
+  "tlHowLose": "(food, ex) => `Cómo: unas ${food} kcal menos al día con la comida, más el ejercicio de abajo (unas ${ex} kcal a la semana).`",
+  "inWeeks": "w => `${w} semanas`",
+  "cheer": "(kg, w) => `${kg} kg en ${w} semanas, una comida y un paseo cada vez. ¡Tú puedes!`"
+ }
+}

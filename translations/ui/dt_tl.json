@@ -1,0 +1,159 @@
+{
+ "dt": {
+  "title": "Aking diet plan",
+  "madeOn": "Ginawa noong",
+  "print": "I-print / i-save bilang PDF",
+  "newMenu": "Bagong menu",
+  "intro": "Ang iyong personal na plano, ginawa mula sa iyong profile: health plan, sukat ng katawan, aktibidad, layunin at mga gustong pagkain. Suriin ito kasama ng iyong doktor o dietitian.",
+  "needInfo": "Ilagay ang iyong edad, taas at timbang sa Aking impormasyon para umangkop sa iyo ang plano.",
+  "editInfo": "I-edit ang aking impormasyon",
+  "secYou": "Tungkol sa iyo",
+  "healthy": "Malusog na timbang para sa iyong taas",
+  "healthyNote": "BMI 18.5–24.9",
+  "secJourney": "Ang iyong paglalakbay",
+  "now": "Ngayon",
+  "goalFig": "Ang iyong layunin",
+  "cheerKeep": "Ituloy mo lang: ang matatag na timbang, masustansyang pagkain at araw-araw na paggalaw ay nagpoprotekta sa iyong kalusugan.",
+  "cheerDone": "Naabot mo na ang iyong layunin — ipagpatuloy mo!",
+  "benefits": [
+   "Mas mababang presyon ng dugo at mas magaan na pasanin sa puso at bato",
+   "Mas matatag na blood sugar",
+   "Mas maraming lakas, mas madaling paggalaw at mas mahimbing na tulog"
+  ],
+  "secDaily": "Ang iyong mga target bawat araw",
+  "kcalLose": "mga 500 na mas kaunti sa iyong nasusunog",
+  "kcalGain": "mga 300 na mas marami sa iyong nasusunog",
+  "kcalKeep": "katumbas ng iyong nasusunog sa isang araw",
+  "protKidney": "itinakda para sa iyong kidney plan",
+  "carbLimit": "limitasyon ng iyong plano",
+  "carbHalf": "mga kalahati ng iyong calories",
+  "fat": "Taba",
+  "fatNote": "mga 30% ng calories, karamihan mula sa olive oil, mani at isda",
+  "fluids": "Likido",
+  "fluidLimit": "ang iyong limitasyon (ihi + 750 ml); sundin ang iyong care team",
+  "fluidGen": "bawat araw, maliban kung nililimitahan ng iyong care team ang likido",
+  "secTimeline": "Ang iyong daan patungo sa layunin",
+  "tlKeep": "Ang layunin mo ay panatilihin ang iyong timbang: kumain nang halos katumbas ng iyong calories bawat araw at manatiling aktibo.",
+  "tlNoTarget": "Maglagay ng target na timbang sa Kalusugan at mga layunin para makita ang iyong timeline.",
+  "tlReached": "Nasa target na timbang ka na.",
+  "tlLow": "Ang iyong target ay mas mababa sa malusog na timbang para sa iyong taas (BMI 18.5). Pakikonsulta ito sa iyong doktor.",
+  "tlHowGain": "Paano: mga 300 kcal na dagdag bawat araw, may protina sa bawat kain, at strength training dalawang beses sa isang linggo.",
+  "week": "Linggo",
+  "expected": "Inaasahang timbang",
+  "secSplit": "Paano hatiin ang iyong araw",
+  "splitNote": "Kumain sa regular na oras; opsyonal ang meryenda. Magdagdag ng gulay sa tanghalian at hapunan.",
+  "secMenu": "Ang iyong 7-araw na menu",
+  "menuNote": "Binuo mula sa mga recipe na angkop sa iyong health plan at mga gusto. Ang bahagi (×) ay iniangkop sa iyong calories at mga limitasyon. I-tap ang isang recipe para buksan ito.",
+  "dayTotal": "Kabuuan sa araw",
+  "secChoose": "Mas madalas piliin",
+  "secLimit": "Limitahan o iwasan",
+  "avoidMine": "Iniiwasan din para sa iyo",
+  "secExercise": "Ang iyong exercise plan",
+  "exWeekly": "Lingguhang aktibidad",
+  "exModerate": "katamtaman: kaya mong magsalita pero hindi kumanta",
+  "exStrengthT": "Strength training",
+  "exStrengthV": "2 araw sa isang linggo",
+  "exSteps": "Hakbang bawat araw",
+  "exStepsNote": "magdagdag ng mga 500 bawat linggo",
+  "exBurn": "Nasusunog sa ehersisyo",
+  "exPerWeek": "bawat linggo",
+  "exActivity": "Aktibidad",
+  "exMinutes": "Minuto",
+  "exIntensity": "Tindi",
+  "moderate": "Katamtaman",
+  "light": "Magaan",
+  "ex": {
+   "walk": "Mabilis na paglalakad",
+   "bike": "Pagbibisikleta o paglangoy",
+   "strength": "Strength training (resistance band, magagaang pabigat o sariling bigat ng katawan)",
+   "stretch": "Pag-stretch at balanse"
+  },
+  "exProgress": "Magsimula sa 10–15 minuto bawat beses at magdagdag ng 5 minuto bawat linggo hanggang maabot mo ang iyong target. Nadaragdag din ang maiikling session (10 minuto).",
+  "exOlder": "Isama ang mga ehersisyo sa balanse (pagtayo sa isang paa malapit sa pader, paglalakad nang sakong-sa-daliri) para maiwasan ang pagkahulog.",
+  "exSafety": {
+   "kidney": "Mag-ehersisyo sa mga araw na walang dialysis o ayon sa payo ng iyong care team; huwag magbuhat o magdiin gamit ang braso na may fistula; isama sa iyong limitasyon sa likido ang mga iniinom habang nag-eehersisyo.",
+   "diabetes": "Suriin ang iyong blood sugar bago at pagkatapos mag-ehersisyo, magdala ng mabilis na asukal (juice o glucose tablets), at mag-ehersisyo 1–3 oras pagkatapos kumain.",
+   "heart": "Mag-warm up at mag-cool down nang 5–10 minuto, huwag pigilan ang hininga habang nagbubuhat, at huminto kung makaramdam ng pananakit ng dibdib, pagkahilo o kakaibang hirap sa paghinga.",
+   "gen": "Magsimula nang dahan-dahan, uminom ng tubig, at huminto kung makaramdam ng sakit o pagkahilo."
+  },
+  "secHabits": "Mga lingguhang gawi",
+  "habits": [
+   "Timbangin ang sarili isang beses sa isang linggo, sa parehong araw at oras, at ilagay ito sa Timbang",
+   "Itala ang iyong kinakain sa Aking araw",
+   "Gamitin ang meal plan at shopping list para mamili isang beses sa isang linggo",
+   "Matulog nang 7–9 oras",
+   "Inumin ang iyong mga gamot ayon sa reseta at pumunta sa iyong mga appointment"
+  ],
+  "disclaimer": "Ang planong ito ay pangkalahatang gabay batay sa impormasyong inilagay mo. Hindi nito pinapalitan ang payo ng iyong doktor o dietitian, lalo na kung may sakit ka sa bato, diabetes o kondisyon sa puso.",
+  "foods": {
+   "kidney": {
+    "choose": [
+     "Prutas na mababa sa potassium: mansanas, berries, ubas, pinya",
+     "Gulay: repolyo, cauliflower, bell pepper, pipino, sibuyas",
+     "Puting kanin, pasta, tinapay na walang asin",
+     "Sariwang karne, manok, isda at itlog sa mga bahaging nasa iyong plano",
+     "Herbs, kalamansi o lemon at pampalasa sa halip na asin"
+    ],
+    "limit": [
+     "Asin, bouillon cube, atsara, processed at de-latang pagkain",
+     "Pagkaing mataas sa potassium: saging, dalandan, patatas, kamatis, pinatuyong prutas",
+     "Pagkaing mataas sa phosphorus: gatas at mga produkto nito, cola, processed cheese, mani, whole grains",
+     "Pagkaing may phosphate additives (“phos” sa label)",
+     "Mga pamalit sa asin (may potassium ang mga ito)"
+    ]
+   },
+   "diabetes": {
+    "choose": [
+     "Gulay sa bawat kain (kalahati ng plato)",
+     "Whole grains: oats, brown rice, whole-wheat na tinapay",
+     "Beans, lentils at garbanzos",
+     "Lean protein: isda, manok, itlog, yogurt",
+     "Tubig at inuming walang asukal"
+    ],
+    "limit": [
+     "Asukal, matatamis at matatamis na inumin, kasama ang juice",
+     "Malalaking bahagi ng puting tinapay, puting kanin at pastries",
+     "Pritong pagkain at fast food",
+     "Maraming datiles at pinatuyong prutas"
+    ]
+   },
+   "heart": {
+    "choose": [
+     "Gulay at prutas, 5 bahagi bawat araw",
+     "Whole grains at fiber",
+     "Isda dalawang beses sa isang linggo, beans at lentils",
+     "Olive oil, mani at buto na walang asin",
+     "Low-fat na gatas at mga produkto nito"
+    ],
+    "limit": [
+     "Asin at maaalat na pagkain (tinapay, keso, atsara, ready-to-eat na pagkain)",
+     "Matatabang karne at processed meat",
+     "Mantikilya, ghee at pritong pagkain",
+     "Asukal at matatamis na inumin"
+    ]
+   },
+   "gen": {
+    "choose": [
+     "Gulay at prutas, 5 bahagi bawat araw",
+     "Whole grains",
+     "Lean protein: isda, manok, beans, itlog",
+     "Tubig",
+     "Lutong-bahay na pagkain"
+    ],
+    "limit": [
+     "Asukal at matatamis na inumin",
+     "Asin at processed na pagkain",
+     "Pritong pagkain at fast food",
+     "Malalaking bahagi sa gabi"
+    ]
+   }
+  }
+ },
+ "fn": {
+  "tlLose": "(kg, wk, date, rate) => `Magbawas ng mga ${kg} kg sa loob ng ${wk} linggo (bandang ${date}), mga ${rate} kg bawat linggo.`",
+  "tlGain": "(kg, wk, date, rate) => `Magdagdag ng mga ${kg} kg sa loob ng ${wk} linggo (bandang ${date}), mga ${rate} kg bawat linggo.`",
+  "tlHowLose": "(food, ex) => `Paano: mga ${food} kcal na bawas bawat araw mula sa pagkain, dagdag ang ehersisyo sa ibaba (mga ${ex} kcal bawat linggo).`",
+  "inWeeks": "w => `${w} linggo`",
+  "cheer": "(kg, w) => `${kg} kg sa loob ng ${w} linggo — isang kain at isang lakad sa bawat pagkakataon. Kaya mo ito!`"
+ }
+}
