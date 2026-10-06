@@ -25,7 +25,7 @@ from PIL import Image
 from terms_i18n import ES_TO_EN, TERMS
 
 HERE = Path(__file__).resolve().parent
-DB = HERE / "davita_recipes.db"
+DB = Path(os.environ.get("HK_DB") or HERE / "davita_recipes.db")   # HK_DB: a copy on a faster disk (SQLite locking can stall on /mnt/c)
 OUT = HERE / "gallery"
 THUMBS = OUT / "thumbs"
 CHUNKS = OUT / "img"
