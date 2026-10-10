@@ -17,11 +17,14 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 - Body figures follow the sex: a woman with long hair and a dress, a man with short hair and broader shoulders.
 - Account overview: glycemic load today and the 7-day average.
 - Admins can give any role, including admin, to other users (listed admin emails always stay admin).
+- Account: a Glycemic index tab with today's glycemic load from My day, the last 14 days, about 50 foods by GI (from the University of Sydney data) linked to the recipes whose ingredients use them, and low glycemic load recipes for the plan.
+- My diet plan: choose one or more cuisines for the menus; on the free day the planned meals are replaced (a free meal replaces dinner).
 - All new text in 9 languages.
 
 ### Fixed
 - Printed diet plan: the food lists no longer overlap the menu; Arabic shows ranges, fractions (1½) and arrows in the right order, "at most" in words instead of a mirrored ≤, Arabic units, and weight and BMI on separate lines.
 - Removed the supervisor note under the role buttons.
+- Exercise plan: walking and cycling add up exactly to the weekly minutes, with a total row that matches the calories burned.
 - The access table showed "undefined" for the My diet plan module.
 - The Supabase connection details on the admin page are masked until "Show" is pressed.
 

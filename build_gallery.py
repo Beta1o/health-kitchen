@@ -215,13 +215,15 @@ def main():
     # glycemic index and load per serving, and the ingredient lines that raise blood sugar most (glycemic.py);
     # line positions are the same in every language
     import glycemic
-    gl_n = 0
+    gl_n, gi_recipes = 0, {}
     for rec in recipes:
         en = rec["t"].get("en")
         if not en:
             continue
         r = recipe_rows[rec["id"]]
-        out, _ = glycemic.recipe([x[1] for x in en["ing"]], rec["serv"], r["carbohydrates_g"], r["fiber_g"], rec["sourceName"], r["portions"])
+        out, info = glycemic.recipe([x[1] for x in en["ing"]], rec["serv"], r["carbohydrates_g"], r["fiber_g"], rec["sourceName"], r["portions"])
+        for g in {glycemic.base_group(p[1]) for p in info["parts"]}:   # which GI foods each recipe uses, for the food guide
+            gi_recipes.setdefault(g, []).append(rec["id"])
         if out:
             rec.update({k: v for k, v in out.items() if v not in (None, [])})
             gl_n += 1
@@ -270,7 +272,9 @@ def main():
     vers["shop"] = hashlib.md5(shop_js.encode()).hexdigest()[:8]
     print("shopping:", shop_rep)
 
-    payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers,
+    # median GI of each ingredient group, for the food guide in the Glycemic index tab
+    gi_foods = {glycemic.base_group(g): gi[0] for g, _, gi, *_ in glycemic.COMPILED if gi}
+    payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers, "giFoods": gi_foods, "giRecipes": gi_recipes,
                "excluded": db.execute("SELECT count(*) FROM excluded_recipes").fetchone()[0]}
     data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     # fonts (built by fonts/fetch_fonts.py) go in their own cached file instead of inside every page load

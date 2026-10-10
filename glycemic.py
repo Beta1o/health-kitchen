@@ -227,6 +227,15 @@ NET_CARB_SOURCES = {"Diabetes UK", "Kidney Care UK", "My Renal Nutrition"}
 GI_BANDS, GL_BANDS = (55, 69), (10, 19)
 
 
+# cooked, dry and canned forms of one food share its entry in the app's food guide
+BASE = {"oatmeal cooked": "oats", "chickpeas dry": "chickpeas", "beans dry": "beans", "pumpkin puree": "pumpkin", "peach canned": "peach",
+        "pineapple canned": "pineapple", "rice noodles cooked": "rice noodles"}
+
+
+def base_group(g):
+    return BASE.get(g) or (g[:-7] if g.endswith(" cooked") else g)
+
+
 def group_of(line):
     low = line.lower()
     for g, rx, gi, carbs, dens, pc in COMPILED:
