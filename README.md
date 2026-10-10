@@ -21,12 +21,14 @@
 | Languages | English, Spanish and Arabic for every recipe; Urdu, Hindi, French, Indonesian, Bengali and Tagalog being completed (a recipe appears in a language once its full translation is in). Official text is used where the source publishes it; the rest is translated |
 | Photos | 2,609 recipes. Recipes without one get a colour-coded illustrated title card |
 | Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
+| Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 3,281 recipes, from the University of Sydney GI database |
 
 ## The app
 
 Open `gallery/index.html` in any modern browser, or use the hosted version at **https://beta1o.github.io/health-kitchen/**. It works offline: data, fonts and images all ship with the page.
 
 - **Health plans:** kidney (dialysis, CKD, CKD with diabetes), diabetes, high blood pressure (DASH), heart health and general eating. Each plan tracks the nutrients that matter for it, as limits or goals, using values you can edit.
+- **Blood sugar impact:** each recipe shows its estimated glycemic index and glycemic load per serving (low, medium or high), and marks the ingredient lines that raise blood sugar most, with their GI and share of the sugar load. Filter and sort by glycemic load. With a diabetes plan, cards show the GL, the dietitian's view adds a note, and My day adds up the day's glycemic load.
 - **Recipe cards** show the active plan's key nutrients, coloured by their share of one meal.
 - **Dietitian's view** on each recipe: meters against your plan, the phosphorus-to-protein ratio for kidney plans, and automatic notes.
 - **My day:** add recipes to today's plan and watch the daily rings fill.
@@ -80,10 +82,14 @@ python3 i18n.py import              # 6. load translations/out_*.json
 python3 i18n.py fixes               # 7. apply text policy fixes (safe to repeat)
 python3 i18n.py status              #    coverage per language
 python3 fonts/fetch_fonts.py        # 8. (once) embed the app fonts
+python3 nutrition/gi_sydney.py      #    (once) GI data                       -> nutrition/gi_sydney.json
+python3 glycemic.py                 #    GI/GL coverage report (--foods: database foods behind each ingredient group)
 python3 build_gallery.py            # 9. build gallery/
 ```
 
 The steps must run in this order, because each one builds on the previous. To translate recipes that are still missing a language, run `python3 i18n.py export`, translate the new `translations/jobs_*.json` files following `translations/GUIDE.md`, check them with `translations/validate.py` and `translations/crosscheck.py`, then repeat steps 6, 7 and 9.
+
+**Glycemic index and load.** `nutrition/gi_sydney.py` downloads the University of Sydney GI database (glycemicindex.com, one page request) and leaves out foods with pork, gelatin or alcohol. `glycemic.py` matches each English ingredient line to an ingredient group (white rice, basmati, wholemeal bread, lentils, dates and about 110 more, telling cooked, dry and canned apart). Each group takes the median GI of the database foods it matches, and its available carbohydrate per 100 g comes from USDA. A recipe's GI is the carbohydrate-weighted average of its ingredients (the standard mixed-meal method). GL per serving = GI × the recipe's published available carbohydrate ÷ 100. A GI is only given when the matched ingredients explain enough of the published carbohydrate. Bands: GI low ≤ 55, high ≥ 70; GL low ≤ 10, high ≥ 20 per serving. Fat, protein, acid and cooking change the real response, so the app labels these as estimates.
 
 Raw downloads (`cache/`, `images/`, `sources/*/cache`, `sources/*/images`) are not in the repository; the scrapers recreate them.
 
@@ -117,4 +123,4 @@ SELECT text FROM ingredients_i18n WHERE recipe_id = 2430 AND lang = 'es' ORDER B
 
 ## Credits
 
-Recipe text, nutrition data and photos belong to their publishers: DaVita Inc., the American Association of Kidney Patients, Kidney Care UK, My Renal Nutrition (Vitaflo), the American Diabetes Association (Diabetes Food Hub) and Diabetes UK. Every recipe links back to its original page. The project code is provided as-is for personal and educational use.
+Recipe text, nutrition data and photos belong to their publishers: DaVita Inc., the American Association of Kidney Patients, Kidney Care UK, My Renal Nutrition (Vitaflo), the American Diabetes Association (Diabetes Food Hub) and Diabetes UK. Every recipe links back to its original page. Glycemic index data © GI News, University of Sydney ([glycemicindex.com](https://glycemicindex.com), [GI News](https://ginews.blogspot.com)), credited under its [copyright terms](https://glycemicindex.com/copyright-and-permission/). The database itself is not in this repository; `nutrition/gi_sydney.py` downloads it, and the app ships only the per-recipe estimates. The project code is provided as-is for personal and educational use.

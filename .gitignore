@@ -19,3 +19,4 @@ server/config.json
 server/.hk_secret
 supabase.json
 davita_recipes.db
+nutrition/gi_sydney.json

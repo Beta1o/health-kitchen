@@ -2,6 +2,15 @@
 
 All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
+## [0.6.0] - 2026-10-10
+### Added
+- Glycemic index and glycemic load: an estimated GI and GL per serving for 3,281 recipes, worked out from the ingredients with values from the University of Sydney GI database (glycemicindex.com; foods with pork, gelatin or alcohol left out).
+- A "Blood sugar impact" panel on each recipe: GI and GL with low/medium/high bands, GL for my portion, the ingredients that raise blood sugar most with their share of the sugar load, and a tip when the load is high.
+- Ingredient lines that carry the sugar load are marked with their GI, in every language.
+- A glycemic load filter (low, medium, high) and a "Lowest glycemic load" sort.
+- With a diabetes plan: the GL on recipe cards, a GL note in the dietitian's view and the day's glycemic load in My day.
+- All new text in 9 languages.
+
 ## [0.5.0] - 2026-10-03
 ### Added
 - Saudi kitchen: over 120 home dishes (kabsa, mandi, jareesh, marqooq, qursan, saleeq, kleeja and more) written from the encyclopediacooking.com Saudi listing, each checked against at least two other sources, made healthier (less salt and fat, no stock cubes, lean meat, measured rice) with nutrition computed from USDA data and a "Suitable for" line.

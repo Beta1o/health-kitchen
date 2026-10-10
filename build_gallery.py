@@ -124,6 +124,7 @@ def main():
             chunk, chunk_no = {}, chunk_no + 1
 
     rows = db.execute("SELECT * FROM recipes WHERE canonical_id = id ORDER BY title COLLATE NOCASE").fetchall()
+    recipe_rows = {r["id"]: r for r in rows}
     for r in rows:
         rid = r["id"]
         pages = {p["language"]: p for p in db.execute("SELECT * FROM recipes WHERE canonical_id=?", (rid,))}
@@ -210,6 +211,21 @@ def main():
             rl = rules.get("ar" if l == "arf" else l)
             if rl:
                 rec["t"][l] = clean(rec["t"][l], rl)
+
+    # glycemic index and load per serving, and the ingredient lines that raise blood sugar most (glycemic.py);
+    # line positions are the same in every language
+    import glycemic
+    gl_n = 0
+    for rec in recipes:
+        en = rec["t"].get("en")
+        if not en:
+            continue
+        r = recipe_rows[rec["id"]]
+        out, _ = glycemic.recipe([x[1] for x in en["ing"]], rec["serv"], r["carbohydrates_g"], r["fiber_g"], rec["sourceName"], r["portions"])
+        if out:
+            rec.update({k: v for k, v in out.items() if v not in (None, [])})
+            gl_n += 1
+    print(f"glycemic: {gl_n} of {len(recipes)} recipes have a glycemic load")
 
     import shopping   # needs every language's ingredient lines, so before the split below
     shop, shop_rep = shopping.build(recipes, [l for l in LANGS if l != "en"])
