@@ -272,6 +272,16 @@ def main():
     vers["shop"] = hashlib.md5(shop_js.encode()).hexdigest()[:8]
     print("shopping:", shop_rep)
 
+    # the whole GI database (pork, gelatin and alcohol foods left out by nutrition/gi_sydney.py) for the search in the
+    # Glycemic index tab, loaded only when that tab opens; values as published, categories spelt one way
+    CAT_FIX = {"Breastfast Cereals": "Breakfast Cereals", "Nutritional Support Products": "Nutrition Support Products",
+               "Regional Or Traditional Foods": "Regional or Traditional Foods", "Legumes, other": "Legumes", "": "Other"}
+    rows = [[f["name"], f["gi"], f["maker"], CAT_FIX.get(f["category"], f["category"]), f["country"], f["serving_g"], f["carbs_g"], f["gl"], f["year"]]
+            for f in glycemic.FOODS]
+    gi_js = "window.HK_GI=" + json.dumps({"cols": ["name", "gi", "maker", "category", "country", "serving_g", "carbs_g", "gl", "year"], "rows": rows},
+                                         ensure_ascii=False, separators=(",", ":")) + ";"
+    (OUT / "gi.js").write_text(gi_js, encoding="utf-8")
+    vers["gi"] = hashlib.md5(gi_js.encode()).hexdigest()[:8]
     # median GI of each ingredient group, for the food guide in the Glycemic index tab
     gi_foods = {glycemic.base_group(g): gi[0] for g, _, gi, *_ in glycemic.COMPILED if gi}
     payload = {"recipes": recipes, "chunks": chunk_no, "terms": terms, "vers": vers, "giFoods": gi_foods, "giRecipes": gi_recipes,

@@ -19,6 +19,9 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 - Admins can give any role, including admin, to other users (listed admin emails always stay admin).
 - Account: a Glycemic index tab with today's glycemic load from My day, the last 14 days, about 50 foods by GI (from the University of Sydney data) linked to the recipes whose ingredients use them, and low glycemic load recipes for the plan.
 - My diet plan: choose one or more cuisines for the menus; on the free day the planned meals are replaced (a free meal replaces dinner).
+- Glycemic index tab: search the whole University of Sydney GI database (4,361 foods, values as published, pork, gelatin and alcohol foods left out) by name, category, country, GI and GL band, serving size and carbohydrate per serving; loaded only when the tab opens.
+- Combined GI of a whole meal or day (carbohydrate-weighted) in My day, the diet plan menus and the Glycemic index tab; the recipe panel explains the GI is of the whole dish.
+- For each ingredient that raises blood sugar: what leaving it out, or using half, would do to the dish's GI and GL.
 - All new text in 9 languages.
 
 ### Fixed

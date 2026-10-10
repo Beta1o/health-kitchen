@@ -313,7 +313,21 @@ def recipe(lines, servings, carbs, fiber, source, portions=None):
         out = {"gi": gi, "gl": round(gi * avail / 100, 1)}
     load = sum(x[2] * x[3] for x in parts)
     gx = sorted(((x[0], x[2], round(x[2] * x[3] / load * 100)) for x in parts if load), key=lambda t: -t[2])
-    out["gx"] = [list(t) for t in gx if t[2] >= 8][:5]
+    gx = [list(t) for t in gx if t[2] >= 8][:5]
+    # what leaving out an ingredient, or using half, would do: its carbohydrate leaves the serving and the GI is
+    # recomputed from the rest; [.., GI without, GL without, GI with half, GL with half] (GI None: no other carb-rich ingredient)
+    if avail >= 5 and gi is not None:
+        for t in gx:
+            mine = [x for x in parts if x[0] == t[0]]
+            c = sum(x[3] for x in mine) / serv * (avail / est if est > avail else 1)   # this line's carbs per serving, never more than published
+            def what_if(f):
+                w = [(x[2], x[3] * (f if x[0] == t[0] else 1)) for x in parts]
+                tot = sum(v for _, v in w)
+                g2 = round(sum(a * v for a, v in w) / tot) if tot else None
+                rest = max(0.0, avail - c * (1 - f))
+                return g2, round((g2 if g2 is not None else 0) * rest / 100, 1) if g2 is not None else None
+            t += [*what_if(0), *what_if(.5)]
+    out["gx"] = gx
     return out, info
 
 
