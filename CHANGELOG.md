@@ -10,9 +10,18 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 - A glycemic load filter (low, medium, high) and a "Lowest glycemic load" sort.
 - With a diabetes plan: the GL on recipe cards, a GL note in the dietitian's view and the day's glycemic load in My day.
 - Glycemic index is a module in the admin's access table, so it can be turned on or off per role (admin, supervisor, user, visitor).
+- My diet plan: a menu for the whole journey, one week per stage, each sized to the calories for the weight in that stage, placed after the main information.
+- My diet plan: a blood sugar section (daily glycemic load of the menu, GI and GL bands, tips) and the GL of every menu item and day.
+- My diet plan: a free day (or, with diabetes or kidney disease, a free meal) on a chosen weekday, with when and how much; the most active day is suggested.
+- Meal plans pick recipes made for the plan's condition (diabetes, dialysis, CKD); diabetes plans leave out high glycemic load recipes.
+- Body figures follow the sex: a woman with long hair and a dress, a man with short hair and broader shoulders.
+- Account overview: glycemic load today and the 7-day average.
+- Admins can give any role, including admin, to other users (listed admin emails always stay admin).
 - All new text in 9 languages.
 
 ### Fixed
+- Printed diet plan: the food lists no longer overlap the menu; Arabic shows ranges, fractions (1½) and arrows in the right order, "at most" in words instead of a mirrored ≤, Arabic units, and weight and BMI on separate lines.
+- Removed the supervisor note under the role buttons.
 - The access table showed "undefined" for the My diet plan module.
 - The Supabase connection details on the admin page are masked until "Show" is pressed.
 

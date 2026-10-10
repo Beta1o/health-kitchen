@@ -378,12 +378,12 @@ def admin_disable(uid: str, body: Active, user=Depends(admin)):
 
 
 class RoleBody(BaseModel):
-    role: str = Field(pattern="^(user|supervisor)$")
+    role: str = Field(pattern="^(user|supervisor|admin)$")
 
 
 @app.put("/api/admin/users/{uid}/role")
 def admin_role(uid: str, body: RoleBody, user=Depends(admin)):
-    """User or supervisor; admin comes only from the admin email list."""
+    """Any role for another user; emails in the admin list always stay admin."""
     if uid == str(user["id"]):
         raise HTTPException(400, "You can't change your own role")
     with as_user(user["id"], "admin") as c:
