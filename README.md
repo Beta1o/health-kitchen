@@ -21,7 +21,7 @@
 | Languages | English, Spanish and Arabic for every recipe; Urdu, Hindi, French, Indonesian, Bengali and Tagalog being completed (a recipe appears in a language once its full translation is in). Official text is used where the source publishes it; the rest is translated |
 | Photos | 2,609 recipes. Recipes without one get a colour-coded illustrated title card |
 | Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
-| Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 3,281 recipes, from the University of Sydney GI database |
+| Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 2,897 recipes, from the University of Sydney GI database |
 
 ## The app
 
@@ -87,9 +87,11 @@ python3 glycemic.py                 #    GI/GL coverage report (--foods: databas
 python3 build_gallery.py            # 9. build gallery/
 ```
 
+Checks: the build runs `tests/gi_regression.py` (20 recipes' carbohydrate, potassium, GI and GL; `--update` accepts a deliberate change). For a browser check, serve `gallery/` (`python3 -m http.server 8731 -d gallery`) and run `PW=<path to playwright> node tests/smoke.js`.
+
 The steps must run in this order, because each one builds on the previous. To translate recipes that are still missing a language, run `python3 i18n.py export`, translate the new `translations/jobs_*.json` files following `translations/GUIDE.md`, check them with `translations/validate.py` and `translations/crosscheck.py`, then repeat steps 6, 7 and 9.
 
-**Glycemic index and load.** `nutrition/gi_sydney.py` downloads the University of Sydney GI database (glycemicindex.com, one page request) and leaves out foods with pork, gelatin or alcohol. `glycemic.py` matches each English ingredient line to an ingredient group (white rice, basmati, wholemeal bread, lentils, dates and about 110 more, telling cooked, dry and canned apart). Each group takes the median GI of the database foods it matches, and its available carbohydrate per 100 g comes from USDA. A recipe's GI is the carbohydrate-weighted average of its ingredients (the standard mixed-meal method). GL per serving = GI × the recipe's published available carbohydrate ÷ 100. A GI is only given when the matched ingredients explain enough of the published carbohydrate. Bands: GI low ≤ 55, high ≥ 70; GL low ≤ 10, high ≥ 20 per serving. Fat, protein, acid and cooking change the real response, so the app labels these as estimates.
+**Glycemic index and load.** `nutrition/gi_sydney.py` downloads the University of Sydney GI database (glycemicindex.com, one page request) and leaves out foods with pork, gelatin or alcohol. `glycemic.py` matches each English ingredient line to an ingredient group (white rice, basmati, wholemeal bread, lentils, dates and about 110 more, telling cooked, dry and canned apart). Each group takes the median GI of the database foods it matches, and its available carbohydrate per 100 g comes from USDA. A recipe's GI is the carbohydrate-weighted average of its ingredients (the standard mixed-meal method). GL per serving = GI × the recipe's published available carbohydrate ÷ 100. A GI is only given when the matched ingredients, plus non-starchy vegetables, explain at least 70% of the published carbohydrate. Bands: GI low ≤ 55, high ≥ 70; GL low ≤ 10, high ≥ 20 per serving. Fat, protein, acid and cooking change the real response, so the app labels these as estimates.
 
 Raw downloads (`cache/`, `images/`, `sources/*/cache`, `sources/*/images`) are not in the repository; the scrapers recreate them.
 

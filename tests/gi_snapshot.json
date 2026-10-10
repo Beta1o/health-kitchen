@@ -1,0 +1,122 @@
+{
+ "Savory White Rice": {
+  "carbs_g": 17.0,
+  "potassium_mg": 85.0,
+  "gi": 70,
+  "gl": 11.6
+ },
+ "Basmati Summer Salad": {
+  "carbs_g": 43.0,
+  "potassium_mg": 397.0,
+  "gi": 45,
+  "gl": 16.2
+ },
+ "Curried Lentil Soup": {
+  "carbs_g": 35.0,
+  "potassium_mg": 502.0,
+  "gi": 28,
+  "gl": 8.1
+ },
+ "Lentil Soup with California Dates and Spinach": {
+  "carbs_g": 28.0,
+  "potassium_mg": 440.0,
+  "gi": 31,
+  "gl": 6.8
+ },
+ "Lemon Pound Cake": {
+  "carbs_g": 54.0,
+  "potassium_mg": 77.0,
+  "gi": 66,
+  "gl": 35.2
+ },
+ "Maple Pancakes": {
+  "carbs_g": 25.0,
+  "potassium_mg": 126.0,
+  "gi": 66,
+  "gl": 16.0
+ },
+ "Mixed Berry and Basil Fruit Salad": {
+  "carbs_g": 13.0,
+  "potassium_mg": 160.0,
+  "gi": 48,
+  "gl": 5.1
+ },
+ "Baked Potato, small": {
+  "carbs_g": 14.0,
+  "potassium_mg": 253.0,
+  "gi": 66,
+  "gl": 8.6
+ },
+ "Air Fryer Sweet Potato Cubes": {
+  "carbs_g": 47.0,
+  "potassium_mg": null,
+  "gi": 75,
+  "gl": 30.0
+ },
+ "Chicken Fruit Salad": {
+  "carbs_g": 31.0,
+  "potassium_mg": 291.0,
+  "gi": 48,
+  "gl": 14.1
+ },
+ "Palacsinta (Dessert Pancakes)": {
+  "carbs_g": 20.0,
+  "potassium_mg": 119.0,
+  "gi": 67,
+  "gl": 13.1
+ },
+ "Cottage Cheese Pancakes with Fresh Strawberries": {
+  "carbs_g": 21.0,
+  "potassium_mg": 217.0,
+  "gi": null,
+  "gl": null
+ },
+ "Fruit Salad Slaw": {
+  "carbs_g": 11.0,
+  "potassium_mg": 116.0,
+  "gi": 50,
+  "gl": 5.0
+ },
+ "Mediterranean Lentil Soup": {
+  "carbs_g": 19.0,
+  "potassium_mg": 290.0,
+  "gi": 28,
+  "gl": 4.5
+ },
+ "Roast butternut squash and red lentil soup": {
+  "carbs_g": 32.0,
+  "potassium_mg": null,
+  "gi": null,
+  "gl": null
+ },
+ "Zucchini-Onion Latkes (Pancakes)": {
+  "carbs_g": 7.0,
+  "potassium_mg": 322.0,
+  "gi": 71,
+  "gl": 3.9
+ },
+ "Creamy Fruit Salad": {
+  "carbs_g": 19.0,
+  "potassium_mg": 175.0,
+  "gi": 46,
+  "gl": 7.7
+ },
+ "Baby baked potatoes with beef and horseradish": {
+  "carbs_g": 8.4,
+  "potassium_mg": null,
+  "gi": 63,
+  "gl": 5.3
+ },
+ "Spicy Peaches": {
+  "carbs_g": 16.0,
+  "potassium_mg": 104.0,
+  "gi": 53,
+  "gl": 7.7
+ },
+ "Tuna Koko Sandwich": {
+  "carbs_g": 34.0,
+  "potassium_mg": 280.0,
+  "gi": 71,
+  "gl": 22.2
+ }
+}

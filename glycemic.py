@@ -222,6 +222,19 @@ for g, line, gi_rx, ex, carbs, dens, pc in GROUPS:
         if not hits:
             print(f"glycemic: no GI database food for group {g!r}", file=sys.stderr)
     COMPILED.append((g, re.compile(line, re.I), gi, carbs, dens, pc))
+# non-starchy vegetables: little available carbohydrate and no measured GI, so they are left out of the GI average but
+# count as explained carbohydrate when deciding whether a recipe's GI is well enough supported
+# (pattern, available carbs g/100 g from USDA SR Legacy, g per ml, g per piece)
+VEG = [(re.compile(p, re.I), c, d, pc) for p, c, d, pc in [
+    (r"tomato (paste|pur[eé]e)|passata", 14.2, 1.1, None), (r"tomato sauce|marinara|salsa\b", 5.5, 1.0, None),
+    (r"(canned|tinned|crushed|diced|chopped) tomato|tomatoes,? (canned|tinned)|tin(ned)? tomato", 3.0, 1.0, None),
+    (r"cherry tomato|grape tomato", 2.7, .6, 17), (r"tomato", 2.7, .76, 123), (r"shallot", 13.8, .67, 25),
+    (r"(green|spring) onion|scallion", 4.7, .4, 15), (r"\bonions?\b", 7.6, .67, 110), (r"\bleeks?\b", 12.3, .4, 89),
+    (r"garlic", 31.0, .55, 3), (r"celery", 1.4, .5, 40), (r"cucumber", 3.1, .55, 300), (r"(bell|sweet) peppers?|capsicum|red pepper|green pepper|yellow pepper", 3.9, .62, 120),
+    (r"spinach", 1.4, .2, None), (r"zucchini|courgette", 2.1, .52, 196), (r"mushroom", 2.3, .3, 18), (r"broccoli", 4.0, .38, None),
+    (r"cauliflower", 3.0, .45, 575), (r"cabbage|coleslaw|slaw mix", 3.3, .37, None), (r"lettuce|kale|arugula|rocket|greens|chard|watercress", 1.5, .2, None),
+    (r"green beans?|string beans?", 4.3, .5, None), (r"eggplant|aubergine", 2.9, .35, 458), (r"asparagus", 1.8, .6, 16), (r"okra", 4.3, .4, 12),
+    (r"radish", 1.8, .5, 5), (r"jalape|chil(l)?i(es)? pepper|\bchil(l)?ies?\b", 6.0, .5, 14)]]
 # sources whose published carbohydrate already excludes fiber (UK labelling); the rest list total carbohydrate
 NET_CARB_SOURCES = {"Diabetes UK", "Kidney Care UK", "My Renal Nutrition"}
 GI_BANDS, GL_BANDS = (55, 69), (10, 19)
@@ -267,18 +280,23 @@ def band(v, cut):
 
 def recipe(lines, servings, carbs, fiber, source, portions=None):
     """{'gi', 'gl', 'gx': [[line position, GI, share of the sugar load %], ...]} or None, plus report details."""
-    parts, unknown, unmatched = [], [], []
+    parts, unknown, unmatched, veg = [], [], [], 0.0
     for pos, line in enumerate(lines):
         p = parse(line)
         if not p:
             continue
         hit = group_of(line)
-        if not hit:
-            unmatched.append(p[2])
+        if not hit or hit[1] is None:
+            v = next((x for x in VEG if x[0].search(line)), None)
+            if v:
+                w = grams(p[0], p[1], v[2], v[3], line)
+                if w:
+                    veg += w * v[1] / 100
+                continue
+            if not hit:
+                unmatched.append(p[2])
             continue
         g, gi, c100, dens, pc = hit
-        if gi is None:
-            continue
         w = grams(p[0], p[1], dens, pc, line)
         if w is None:
             unknown.append(g)
@@ -298,19 +316,19 @@ def recipe(lines, servings, carbs, fiber, source, portions=None):
     if avail is None:
         return None, info
     gi = round(sum(x[2] * x[3] for x in parts) / total) if total else None
-    # trust the GI only when the matched ingredients explain a good part of the published carbohydrate
-    covered = stated is None or stated < 1 or est >= 0.4 * stated
-    if not covered and not unknown:
-        covered = est >= 0.25 * stated
-    if avail < 5:   # a few grams of carbohydrate: the load is low whatever the GI
-        gl = round(avail * (gi or 55) / 100, 1)
-        out = {"gl": gl}
+    # a GI is shown only when the matched ingredients explain at least 70% of the published carbohydrate
+    coverage = 1.0 if stated is None or stated < 1 else min(1.0, (est + veg / serv) / stated)
+    covered = coverage >= 0.7
+    if avail < 5:   # a few grams of carbohydrate: the load is low whatever the GI; without a GI, GL is given as its ceiling (GI 100)
+        out = {"gl": round(avail * gi / 100, 1)} if gi is not None and covered else {"gl": round(avail, 1), "glMax": 1}
         if gi is not None and covered:
             out["gi"] = gi
     elif gi is None or not covered:
         return None, info
     else:
         out = {"gi": gi, "gl": round(gi * avail / 100, 1)}
+    if "gi" in out:
+        out["gc"] = round(coverage * 100)   # share of the published carbohydrate the matched ingredients explain
     load = sum(x[2] * x[3] for x in parts)
     gx = sorted(((x[0], x[2], round(x[2] * x[3] / load * 100)) for x in parts if load), key=lambda t: -t[2])
     gx = [list(t) for t in gx if t[2] >= 8][:5]

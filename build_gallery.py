@@ -228,6 +228,10 @@ def main():
             rec.update({k: v for k, v in out.items() if v not in (None, [])})
             gl_n += 1
     print(f"glycemic: {gl_n} of {len(recipes)} recipes have a glycemic load")
+    # the estimates for 20 fixed recipes must not change by accident (tests/gi_regression.py --update accepts a deliberate change)
+    import subprocess, sys
+    if subprocess.run([sys.executable, str(HERE / "tests" / "gi_regression.py")], env={**os.environ, "HK_DB": str(DB)}).returncode:
+        raise SystemExit("glycemic estimates changed: check tests/gi_regression.py output, then run it with --update if the change is intended")
 
     import shopping   # needs every language's ingredient lines, so before the split below
     shop, shop_rep = shopping.build(recipes, [l for l in LANGS if l != "en"])

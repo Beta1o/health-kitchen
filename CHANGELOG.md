@@ -2,6 +2,17 @@
 
 All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
+## [0.7.0] - 2026-10-10
+Safety review (an "LLM council" of five independent reviews, peer review and a chairman's verdict).
+### Changed
+- Kidney plans: CKD and CKD-with-diabetes menus keep within the protein limit (dialysis keeps protein as a goal); no weight-loss calorie cut and no weight timeline with kidney disease (plan it with the nephrologist or renal dietitian); kidney-safe blood sugar tips instead of "beans, lentils, whole grains".
+- Diet plan asks about diabetes medicines. With insulin or sulfonylureas it shows a low blood sugar warning, has no free day or free meal, and keeps calories at maintenance unless the doctor approved a cut. "This is a guide. Show this plan to your doctor or dietitian." is printed at the top.
+- Glycemic estimates are shown only when the matched ingredients (plus non-starchy vegetables) explain at least 70% of the published carbohydrate (2,897 recipes); no hidden default GI; low-carbohydrate dishes without a GI show GL as a ceiling; each panel says how much of the carbohydrate the GI is based on.
+- The blood sugar panel leads with carbohydrate per serving, and shows it even when there is no GI estimate.
+### Added
+- tests/gi_regression.py: 20 fixed recipes whose carbohydrate, potassium, GI and GL must not change by accident; the build stops if they do.
+- tests/smoke.js: browser checks in English, Arabic and Spanish, plus diet plan safety rules for CKD, CKD with diabetes, dialysis and insulin.
+
 ## [0.6.0] - 2026-10-10
 ### Added
 - Glycemic index and glycemic load: an estimated GI and GL per serving for 3,281 recipes, worked out from the ingredients with values from the University of Sydney GI database (glycemicindex.com; foods with pork, gelatin or alcohol left out).
