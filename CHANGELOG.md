@@ -22,6 +22,8 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 - Glycemic index tab: search the whole University of Sydney GI database (4,361 foods, values as published, pork, gelatin and alcohol foods left out) by name, category, country, GI and GL band, serving size and carbohydrate per serving; loaded only when the tab opens.
 - Combined GI of a whole meal or day (carbohydrate-weighted) in My day, the diet plan menus and the Glycemic index tab; the recipe panel explains the GI is of the whole dish.
 - For each ingredient that raises blood sugar: what leaving it out, or using half, would do to the dish's GI and GL.
+- GI database search: food names in all 9 languages (translations/gi_names), countries in the reader's language, each food linked to the app's ingredient group and the recipes that use it, and a filter for foods used in the recipes.
+- Standard categories shared by recipes and the GI database: the recipe categories plus Fruit, Legumes, Dairy, Nuts & Seeds, Sugars & Sweeteners, Traditional Dishes, Special Nutrition and Other, in every language.
 - All new text in 9 languages.
 
 ### Fixed

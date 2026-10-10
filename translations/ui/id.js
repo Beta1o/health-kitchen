@@ -344,3 +344,4 @@ if (UI.id.dt) UI.id.dt.exAerobic = "Jalan dan bersepeda";
 Object.assign(UI.id, {gsT: "Cari di basis data IG", gsName: "Nama makanan", gsCat: "Kategori", gsCountry: "Negara", gsAny: "Semua", gsServ: "Porsi (g)", gsCarbs: "Karbohidrat per porsi (g)", gsSort: "Urutkan", gsSorts: ["IG terendah", "IG tertinggi", "BG terendah", "Nama"], gsMore: "Tampilkan lagi", gsN: n => `${n} makanan`, gsNote: n => `Basis data IG University of Sydney: ${n} makanan dengan IG terukur, seperti diterbitkan (nama dalam bahasa Inggris). Makanan berisi babi, gelatin, atau alkohol tidak dimasukkan.`, gsMin: "min", gsMax: "maks", gsLoading: "Memuat…"});
 Object.assign(UI.id, {dayGi: "IG gabungan", giWhole: "IG seluruh hidangan: semua bahan berkarbohidrat bersama, masing-masing ditimbang menurut karbohidrat yang disumbangkannya."});
 Object.assign(UI.id, {giWithout: "Tanpa bahan ini", giHalf: "Dengan setengahnya"});
+UI.id.gsLinked = "Hanya makanan yang dipakai di resep kami";

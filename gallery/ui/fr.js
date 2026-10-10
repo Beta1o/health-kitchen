@@ -343,3 +343,4 @@ if (UI.fr.dt) UI.fr.dt.exAerobic = "Marche et vélo";
 Object.assign(UI.fr, {gsT: "Rechercher dans la base d'IG", gsName: "Aliment", gsCat: "Catégorie", gsCountry: "Pays", gsAny: "Tous", gsServ: "Portion (g)", gsCarbs: "Glucides par portion (g)", gsSort: "Trier", gsSorts: ["IG le plus bas", "IG le plus élevé", "CG la plus basse", "Nom"], gsMore: "Voir plus", gsN: n => `${n} aliments`, gsNote: n => `Base d'IG de l'Université de Sydney : ${n} aliments avec leur IG mesuré, tels que publiés (noms en anglais). Les aliments contenant du porc, de la gélatine ou de l'alcool sont exclus.`, gsMin: "min", gsMax: "max", gsLoading: "Chargement…"});
 Object.assign(UI.fr, {dayGi: "IG combiné", giWhole: "L'IG du plat entier : tous ses ingrédients glucidiques ensemble, chacun pondéré par les glucides qu'il apporte."});
 Object.assign(UI.fr, {giWithout: "Sans", giHalf: "Avec la moitié"});
+UI.fr.gsLinked = "Seulement les aliments de nos recettes";

@@ -349,3 +349,4 @@ if (UI.tl.dt) UI.tl.dt.exAerobic = "Paglalakad at pagbibisikleta";
 Object.assign(UI.tl, {gsT: "Maghanap sa GI database", gsName: "Pangalan ng pagkain", gsCat: "Kategorya", gsCountry: "Bansa", gsAny: "Lahat", gsServ: "Serving (g)", gsCarbs: "Carbs bawat serving (g)", gsSort: "Ayusin", gsSorts: ["Pinakamababang GI", "Pinakamataas na GI", "Pinakamababang GL", "Pangalan"], gsMore: "Ipakita pa", gsN: n => `${n} pagkain`, gsNote: n => `GI database ng University of Sydney: ${n} pagkain na may nasukat na GI, gaya ng inilathala (pangalan sa Ingles). Hindi kasama ang may baboy, gelatin o alak.`, gsMin: "min", gsMax: "max", gsLoading: "Naglo-load…"});
 Object.assign(UI.tl, {dayGi: "Pinagsamang GI", giWhole: "Ang GI ng buong ulam: lahat ng sangkap na may carbohydrate, bawat isa ayon sa dami ng carbohydrate na idinadagdag nito."});
 Object.assign(UI.tl, {giWithout: "Kung wala ito", giHalf: "Kung kalahati"});
+UI.tl.gsLinked = "Mga pagkaing ginagamit lang sa aming recipe";

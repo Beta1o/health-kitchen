@@ -274,12 +274,47 @@ def main():
 
     # the whole GI database (pork, gelatin and alcohol foods left out by nutrition/gi_sydney.py) for the search in the
     # Glycemic index tab, loaded only when that tab opens; values as published, categories spelt one way
-    CAT_FIX = {"Breastfast Cereals": "Breakfast Cereals", "Nutritional Support Products": "Nutrition Support Products",
-               "Regional Or Traditional Foods": "Regional or Traditional Foods", "Legumes, other": "Legumes", "": "Other"}
-    rows = [[f["name"], f["gi"], f["maker"], CAT_FIX.get(f["category"], f["category"]), f["country"], f["serving_g"], f["carbs_g"], f["gl"], f["year"]]
-            for f in glycemic.FOODS]
-    gi_js = "window.HK_GI=" + json.dumps({"cols": ["name", "gi", "maker", "category", "country", "serving_g", "carbs_g", "gl", "year"], "rows": rows},
+    # database categories mapped onto the app's standard categories (the recipe categories plus food groups recipes may use too)
+    CAT_FIX = {"Breads": "Breads", "Bakery Products": "Breads", "Cereal Grains": "Pasta, Rice & Grains", "Rice": "Pasta, Rice & Grains",
+               "Pasta and Noodles": "Pasta, Rice & Grains", "Breakfast Cereals": "Breakfast & Brunch", "Breastfast Cereals": "Breakfast & Brunch",
+               "Snack Foods and Confectionery": "Appetizers & Snacks", "Crackers": "Appetizers & Snacks", "Cookies": "Desserts", "Soups": "Soups & Stews",
+               "Vegetables": "Vegetables", "Beverages": "Beverages", "Fruit and Fruit Products": "Fruit", "Legumes": "Legumes", "Legumes, other": "Legumes",
+               "Dairy Products and Alternatives": "Dairy", "Nuts": "Nuts & Seeds", "Sugars and Syrups": "Sugars & Sweeteners", "Honey": "Sugars & Sweeteners",
+               "Regional or Traditional Foods": "Traditional Dishes", "Regional Or Traditional Foods": "Traditional Dishes",
+               "Nutrition Support Products": "Special Nutrition", "Nutritional Support Products": "Special Nutrition",
+               "Meal Replacement & Weight Management Products": "Special Nutrition", "Infant Formula and Weaning Foods": "Special Nutrition", "": "Other"}
+    # each food is linked to the app's ingredient group whose GI it feeds (the same matching glycemic.py uses for recipes),
+    # countries get a region code so the app can name them in the reader's language
+    group_of = {}
+    for g, _, gi, *_ in glycemic.COMPILED:
+        for f in (gi[1] if gi else []):
+            group_of.setdefault(id(f), glycemic.base_group(g))
+    COUNTRY = {"Algeria": "DZ", "Australia": "AU", "Bangladesh": "BD", "Belgium": "BE", "Botswana": "BW", "Brazil": "BR", "Cambodia": "KH", "Cameroon": "CM",
+               "Canada": "CA", "Chile": "CL", "China": "CN", "Co?te d’Ivoire": "CI", "Cote d-Ivorie": "CI", "Costa Rica": "CR", "Crete": "GR", "Croatia": "HR",
+               "Czech Republic": "CZ", "Denmark": "DK", "Egypt": "EG", "Ethiopia": "ET", "Fiji": "FJ", "Finland": "FI", "France": "FR", "Germany": "DE",
+               "Ghana": "GH", "Greece": "GR", "Hong Kong": "HK", "Hungary": "HU", "India": "IN", "Indonesia": "ID", "Iran": "IR", "Ireland": "IE", "Israel": "IL",
+               "Italy": "IT", "Jamaica": "JM", "Japan": "JP", "Jordan": "JO", "Kenya": "KE", "Kuwait": "KW", "Lebanon": "LB", "Malaysia": "MY", "Mauritius": "MU",
+               "Mexico": "MX", "Netherlands": "NL", "New Zealand": "NZ", "Nigeria": "NG", "Norway": "NO", "Oman": "OM", "Pakistan": "PK", "Philippines": "PH",
+               "Poland": "PL", "Qatar": "QA", "Romania": "RO", "Russia": "RU", "Saudi Arabia": "SA", "Serbia": "RS", "Singapore": "SG", "South Africa": "ZA",
+               "South Korea": "KR", "Spain": "ES", "Sri Lanka": "LK", "Suriname": "SR", "Sweden": "SE", "Switzerland": "CH", "Taiwan": "TW", "Thailand": "TH",
+               "Trinidad": "TT", "Tunisia": "TN", "Turkey": "TR", "Turkiye": "TR", "UAE": "AE", "UK": "GB", "USA": "US", "Venezuela": "VE", "Vietnam": "VN"}
+    clean = lambda n: n.strip().rstrip("#").strip()
+    rows = [[clean(f["name"]), f["gi"], f["maker"], CAT_FIX.get(f["category"], "Other"), COUNTRY.get(f["country"], f["country"] if f["country"] not in ("", "-", "NS", "Breads") else ""),
+             f["serving_g"], f["carbs_g"], f["gl"], f["year"], group_of.get(id(f), "")] for f in glycemic.FOODS]
+    gi_js = "window.HK_GI=" + json.dumps({"cols": ["name", "gi", "maker", "category", "country", "serving_g", "carbs_g", "gl", "year", "group"], "rows": rows},
                                          ensure_ascii=False, separators=(",", ":")) + ";"
+    # food names in each language (translations/gi_names/<lang>_NN.json), in row order, one file per language
+    for f in OUT.glob("gi_*.js"):
+        f.unlink()
+    for L in LANGS[1:]:
+        tr = {}
+        for part in sorted((HERE / "translations" / "gi_names").glob(f"{L}_*.json")):
+            tr.update(json.loads(part.read_text(encoding="utf-8")))
+        if not tr:
+            continue
+        js = "window.HK_GI_N=" + json.dumps({"lang": L, "names": [tr.get(r[0], "") for r in rows]}, ensure_ascii=False, separators=(",", ":")) + ";"
+        (OUT / f"gi_{L}.js").write_text(js, encoding="utf-8")
+        vers["gi_" + L] = hashlib.md5(js.encode()).hexdigest()[:8]
     (OUT / "gi.js").write_text(gi_js, encoding="utf-8")
     vers["gi"] = hashlib.md5(gi_js.encode()).hexdigest()[:8]
     # median GI of each ingredient group, for the food guide in the Glycemic index tab
