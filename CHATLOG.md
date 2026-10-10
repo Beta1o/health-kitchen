@@ -47,6 +47,23 @@ A summary of the requests that shaped this project, in order, and how each was h
 | 36 | A Glycemic index tab; cuisines in the plan; search the whole database like the original site, translated and linked to ingredients; standard categories | Account tab with today's load, 14 days, food guide, full database search (4,361 foods, names translated into 9 languages by translation agents, countries localised, linked to recipe ingredients), cuisine choice, standard categories shared by recipes and the database |
 | 37 | GI of the whole meal; what removing an ingredient does | Combined (carb-weighted) GI of a meal or day; per ingredient, the GI and GL without it or with half |
 | 38 | Use claude-skills-llm-council to make the best version | Ran the council (5 advisors, anonymous peer review, chairman). Verdict: safety first. Built: protein limits for CKD menus, no calorie cut with kidney disease, kidney-safe tips, diabetes medicines question with low blood sugar warning, GI only with 70% evidence, carbohydrate per serving first, GI regression check and browser smoke test |
+| 39 | Record the open decisions and tasks in the changelog and chat log, to continue later | Added this session's table, the "Pick up here" list below, and an "Unreleased / Open" entry in CHANGELOG.md |
+| 40 | Add the end-of-session summary to the chat log | Added the summary below, as given in the chat |
+
+### Session summary (as given at the end of the session)
+- **CHATLOG.md**: a new section for this session, with requests 25–40 and what was done for each, from adding the glycemic index through the council review. Under it is the "Pick up here" section with:
+  - **3 decisions for the owner:**
+    - Should the full GI database search stay public, or be admins-only until the University of Sydney replies?
+    - Keep or reword the "without it / with half" numbers.
+    - Whether to add a test copy of the site to check before each release.
+  - **Owner tasks:**
+    - Run the Admin role SQL in Supabase (the link is below).
+    - Email the University of Sydney for permission.
+    - Have a dietitian review recipes and the kidney rules, and a native speaker review the Arabic screens.
+    - Check the Saudi SFDA and PDPL rules.
+  - **Ideas on hold:** Ramadan mode, blood sugar logging, a clinic view, a combined kidney-and-sugar verdict, and measuring the GI of Saudi dishes.
+  - **How to test a change:** the commands for the regression check and the browser test.
+- **CHANGELOG.md**: an "Unreleased / Open" entry at the top pointing to the open decisions, above the safety release (0.7.0).
 
 ## Pick up here (open as of 2026-10-10)
 
