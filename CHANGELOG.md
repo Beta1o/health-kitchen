@@ -9,7 +9,11 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 - Ingredient lines that carry the sugar load are marked with their GI, in every language.
 - A glycemic load filter (low, medium, high) and a "Lowest glycemic load" sort.
 - With a diabetes plan: the GL on recipe cards, a GL note in the dietitian's view and the day's glycemic load in My day.
+- Glycemic index is a module in the admin's access table, so it can be turned on or off per role (admin, supervisor, user, visitor).
 - All new text in 9 languages.
+
+### Fixed
+- The access table showed "undefined" for the My diet plan module.
 
 ## [0.5.0] - 2026-10-03
 ### Added
