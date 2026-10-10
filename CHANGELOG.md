@@ -14,6 +14,7 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
 ### Fixed
 - The access table showed "undefined" for the My diet plan module.
+- The Supabase connection details on the admin page are masked until "Show" is pressed.
 
 ## [0.5.0] - 2026-10-03
 ### Added

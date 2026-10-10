@@ -220,3 +220,4 @@ Object.assign(UI.bn, {"gl": "গ্লাইসেমিক লোড", "glBand"
 UI.bn.giTipKid = "লোড বেশি: ছোট অংশ খান, অথবা দুই বেলার খাবারে ভাগ করে নিন।";
 if (UI.bn.sorts) UI.bn.sorts.gl = "সবচেয়ে কম গ্লাইসেমিক লোড";
 Object.assign(UI.bn.feat || (UI.bn.feat = {}), {"dieter": "আমার খাদ্য পরিকল্পনা", "gi": "গ্লাইসেমিক ইনডেক্স"});
+Object.assign(UI.bn, {sbShow: "দেখান", sbHide: "লুকান"});

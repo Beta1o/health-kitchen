@@ -337,3 +337,4 @@ Object.assign(UI.ur, {"gl": "گلائسیمک لوڈ", "glBand": {"lo": "کم", 
 UI.ur.giTipKid = "لوڈ زیادہ ہے: چھوٹا حصہ لیں، یا اسے دو کھانوں میں بانٹ لیں۔";
 if (UI.ur.sorts) UI.ur.sorts.gl = "سب سے کم گلائسیمک لوڈ";
 Object.assign(UI.ur.feat || (UI.ur.feat = {}), {"dieter": "میرا غذائی پلان", "gi": "گلائسیمک انڈیکس"});
+Object.assign(UI.ur, {sbShow: "دکھائیں", sbHide: "چھپائیں"});

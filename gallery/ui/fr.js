@@ -332,3 +332,4 @@ Object.assign(UI.fr, {"gl": "Charge glycémique", "glBand": {"lo": "Faible", "mi
 UI.fr.giTipKid = "Charge élevée : prenez une plus petite portion, ou répartissez-la sur deux repas.";
 if (UI.fr.sorts) UI.fr.sorts.gl = "Charge glycémique la plus faible";
 Object.assign(UI.fr.feat || (UI.fr.feat = {}), {"dieter": "Mon plan alimentaire", "gi": "Index glycémique"});
+Object.assign(UI.fr, {sbShow: "Afficher", sbHide: "Masquer"});

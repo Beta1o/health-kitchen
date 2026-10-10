@@ -333,3 +333,4 @@ Object.assign(UI.id, {"gl": "Beban glikemik", "glBand": {"lo": "Rendah", "mid": 
 UI.id.giTipKid = "Beban tinggi: makan porsi lebih kecil, atau bagi menjadi dua kali makan.";
 if (UI.id.sorts) UI.id.sorts.gl = "Beban glikemik terendah";
 Object.assign(UI.id.feat || (UI.id.feat = {}), {"dieter": "Rencana diet saya", "gi": "Indeks glikemik"});
+Object.assign(UI.id, {sbShow: "Tampilkan", sbHide: "Sembunyikan"});

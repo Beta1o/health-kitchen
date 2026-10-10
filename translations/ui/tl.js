@@ -338,3 +338,4 @@ Object.assign(UI.tl, {"gl": "Glycemic load", "glBand": {"lo": "Mababa", "mid": "
 UI.tl.giTipKid = "Mataas ang load: kumain ng mas maliit na bahagi, o hatiin ito sa dalawang kainan.";
 if (UI.tl.sorts) UI.tl.sorts.gl = "Pinakamababang glycemic load";
 Object.assign(UI.tl.feat || (UI.tl.feat = {}), {"dieter": "Aking diet plan", "gi": "Glycemic index"});
+Object.assign(UI.tl, {sbShow: "Ipakita", sbHide: "Itago"});
