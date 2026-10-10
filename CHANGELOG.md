@@ -2,6 +2,10 @@
 
 All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 
+## [Unreleased]
+### Open
+- Owner decisions: full GI database search public or admin-only until the University of Sydney replies; keep or reword the "without it / with half" numbers; staging before release. Details and owner tasks in CHATLOG.md, "Pick up here".
+
 ## [0.7.0] - 2026-10-10
 Safety review (an "LLM council" of five independent reviews, peer review and a chairman's verdict).
 ### Changed

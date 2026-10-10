@@ -29,6 +29,43 @@ A summary of the requests that shaped this project, in order, and how each was h
 | 23 | A proper logo, linked | Added a bowl-and-leaf-heart logo and favicon; the header logo links home |
 | 24 | Add a chat log and a changelog | Added this file and CHANGELOG.md |
 
+## Session of 2026-10-10: glycemic index, diet plan and safety review
+
+| # | Request | What was done |
+|---|---|---|
+| 25 | Add the glycemic index for diabetes, so users know what raises their sugar; research it and include glycemic load | Researched GI/GL bands (Atkinson, Foster-Powell & Brand-Miller). glycemic.py estimates each recipe's GI (carb-weighted over its ingredients) and GL per serving, and marks the ingredients that raise blood sugar most |
+| 26 | Pull the data of glycemicindex.com, skipping anything not permitted | nutrition/gi_sydney.py downloads the University of Sydney GI database in one request and leaves out foods with pork, gelatin or alcohol (21 foods). Values are credited "© GI News, University of Sydney" |
+| 27 | Link current recipes with the glycemic index; make the best comparison | 113 ingredient groups matched to the database (median GI per group), cooked, dry and canned told apart; recipe panel, GI tags on ingredients, GL filter and sort, GL on cards and in My day for diabetes plans |
+| 28 | Push to GitHub and update Pages; give the app and local URLs | Pushed each round; Pages deploys from gallery/ on main. App: https://beta1o.github.io/health-kitchen/ · local test server: http://localhost:8731 (python3 -m http.server 8731 -d gallery) |
+| 29 | Glycemic index as a module in the admin table; fix "undefined" | Added a Glycemic index module (on/off per role) and the missing My diet plan label |
+| 30 | Hide the connection details on the admin page | Supabase project, URL and key are masked with Show/Hide; copy still works |
+| 31 | The printed diet plan is not proper (Arabic) | Fixed overlapping sections, reversed numbers and fractions, mirrored ≤, units and weight/BMI lines |
+| 32 | Body shapes by sex; menu for the whole journey, placed last; recipes by diet type; glycemic info in the plan and overview | Male and female figures; one week of meals per stage sized to the calories for that weight; diabetes/kidney recipes picked by diet type (diabetes skips high-GL); blood sugar section; overview tiles |
+| 33 | A free day, and when it could be; remove the meals on it | Free day (or free meal with diabetes/kidney disease) on a chosen weekday, suggested on the most active day, with when and how much |
+| 34 | Admins can give any role; remove the supervisor note | Admin role grantable (Supabase migration 20261010120000_admin_role.sql, run once in the SQL editor); note removed |
+| 35 | Exercise minutes add up to more than the plan | Walking and cycling now add up exactly to the weekly minutes, with a total row |
+| 36 | A Glycemic index tab; cuisines in the plan; search the whole database like the original site, translated and linked to ingredients; standard categories | Account tab with today's load, 14 days, food guide, full database search (4,361 foods, names translated into 9 languages by translation agents, countries localised, linked to recipe ingredients), cuisine choice, standard categories shared by recipes and the database |
+| 37 | GI of the whole meal; what removing an ingredient does | Combined (carb-weighted) GI of a meal or day; per ingredient, the GI and GL without it or with half |
+| 38 | Use claude-skills-llm-council to make the best version | Ran the council (5 advisors, anonymous peer review, chairman). Verdict: safety first. Built: protein limits for CKD menus, no calorie cut with kidney disease, kidney-safe tips, diabetes medicines question with low blood sugar warning, GI only with 70% evidence, carbohydrate per serving first, GI regression check and browser smoke test |
+
+## Pick up here (open as of 2026-10-10)
+
+Decisions for the owner:
+1. **Full GI database search**: keep it public, or show it to admins only until the University of Sydney answers the permission request?
+2. **"Without it / with half" numbers** on each ingredient: keep, or show only "main sugar sources"? (The council worried they read like dosing advice.)
+3. **Staging**: publish from a `release` branch or a `/beta/` folder first and check there before each release?
+
+Tasks for the owner:
+- Run `supabase/migrations/20261010120000_admin_role.sql` in the Supabase SQL editor (https://supabase.com/dashboard/project/soxrozrunkdlvtgthvqr/sql/new) if the Admin role button still fails.
+- Email glycemic.index@gmail.com for permission to translate and adapt the GI data.
+- Have a dietitian check about 30 recipes, the kidney plan rules (CKD, CKD with diabetes, dialysis) and the medicines wording; then turn `tests/gi_snapshot.json` into hand-checked values.
+- Have a native speaker review the Arabic diabetes and diet plan screens.
+- Check whether Saudi SFDA (medical software) and PDPL (health data) rules apply before adding blood sugar logging.
+
+Ideas parked by the council until the above is done: Ramadan mode (suhoor/iftar plan, who should not fast), logging real blood sugar readings, a clinic view for supervisors, a combined "safe for kidneys and blood sugar" verdict per recipe, measuring the GI of Saudi dishes with a university.
+
+How to check a change: the build runs `tests/gi_regression.py`; for the browser, `python3 -m http.server 8731 -d gallery` then `PW=<path to playwright> node tests/smoke.js`.
+
 ## Source data notes raised during translation
 Translators kept the source text as published and flagged the problems below:
 
