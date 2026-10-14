@@ -79,6 +79,10 @@ Tasks for the owner:
 - Have a native speaker review the Arabic diabetes and diet plan screens.
 - Check whether Saudi SFDA (medical software) and PDPL (health data) rules apply before adding blood sugar logging.
 
+Added 2026-10-15 (diet types and estimated nutrients, CHANGELOG 0.8.0):
+- Have the dietitian review `diet_tags_report.json` (publisher tags the published numbers contradict, e.g. DaVita "Lower Protein" on 20 g protein dishes, Diabetes UK "Diabetes" above 45 g carbohydrate) and the limits in the header of `diet_tags.py`.
+- 479 recipes still have no potassium or phosphorus; the remaining calculations for them are in `nutrition/estimate/calc/` and could be corrected by hand (`python3 nutrition/estimate/merge.py` reports how many pass).
+
 Ideas parked by the council until the above is done: Ramadan mode (suhoor/iftar plan, who should not fast), logging real blood sugar readings, a clinic view for supervisors, a combined "safe for kidneys and blood sugar" verdict per recipe, measuring the GI of Saudi dishes with a university.
 
 How to check a change: the build runs `tests/gi_regression.py`; for the browser, `python3 -m http.server 8731 -d gallery` then `PW=<path to playwright> node tests/smoke.js`.

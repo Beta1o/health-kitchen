@@ -257,8 +257,8 @@ def main():
     sys.path.insert(0, str(HERE / "nutrition" / "estimate"))
     import merge as nut_estimate
     est = nut_estimate.fill(recipes)
-    print(f"estimated nutrients: {est['passed']} recipes filled ({est['filled']}), {len(est['failed'])} of {est['calc_files']}"
-          " calculations left out because they did not match the published numbers")
+    print(f"estimated nutrients: {est['passed']} recipes filled ({est['filled']}; {len(est['rescaled'])} scaled to the published servings),"
+          f" {len(est['failed'])} of {est['calc_files']} calculations left out because they did not match the published numbers")
 
     # diet-type tags from each recipe's own nutrition (diet_tags.py): the same rules for every source, publisher tags kept
     import diet_tags

@@ -9,12 +9,17 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 ## [0.8.0] - 2026-10-15
 Diet types and nutrients filled for every recipe the numbers allow.
 ### Added
-- Missing potassium, phosphorus, calcium, cholesterol and added sugar estimated from the ingredient list (USDA SR Legacy, `nutrition/estimate/`), for 1,692 recipes. An estimate is used only when the calculation reproduces the publisher's calories and protein or carbohydrate within 25%, never replaces a published number, and is marked "≈" with a note in the nutrition table (9 languages). Checked blind on 1,029 ADA recipes that publish potassium: 83% within 30%, median +2%. Recipes with salt substitutes or sodium-free stock (potassium chloride) get no potassium estimate; nutrients USDA lacks for more than 10% of the recipe's weight are not estimated.
+- Missing potassium, phosphorus, calcium, cholesterol and added sugar estimated from the ingredient list (USDA SR Legacy, `nutrition/estimate/`) for 1,902 recipes. An estimate is used only when the calculation reproduces the publisher's calories and protein or carbohydrate within 25% (or does after scaling by one consistent factor, when the serving count differs: 210 recipes). It never replaces a published number and is marked "≈" with a note in the nutrition table (9 languages).
+  - Checked blind against published values: potassium on 1,029 ADA recipes, 83% within 30%, median +2%; potassium and phosphorus on 120 DaVita/AAKP recipes, 89% and 88% within 30%, median 0%. With the 15% margin, no DaVita/AAKP recipe was wrongly put under the CKD/dialysis phosphorus or potassium limits (2% of ADA recipes for potassium).
+  - No potassium estimate for recipes with salt substitutes or sodium-free stock (potassium chloride), or ones the publisher labels lower in potassium (kidney publishers count leaching, which raw USDA values do not). Nutrients USDA lacks for more than 10% of the recipe's weight are not estimated.
 - Diet-type tags from each recipe's own nutrition, with the same rules for every source (`diet_tags.py`): Lower/Higher Potassium, Lower Protein, CKD non-dialysis, Dialysis, Diabetes. CKD and dialysis limits were set against the tags DaVita and AAKP dietitians gave their recipes (83% and 94% agreement). Estimated values must clear a limit by 15%. Publisher tags are kept; those the published numbers contradict are listed in `diet_tags_report.json` for a dietitian.
 - Cooking method read from the steps for 1,089 recipes whose publisher gives none.
 ### Changed
 - Kidney meal plans: a "Lower Protein" tag alone qualifies a recipe for CKD menus only when potassium and phosphorus are known and within the CKD limits.
-- Recipes with known potassium and phosphorus: 1,532 → 3,214 of 3,865. "Heart Healthy" stays a publisher tag (no numeric rule reproduced it; the Heart-healthy quick pick filters by the numbers).
+- Recipes with known potassium and phosphorus: 1,532 → 3,386 of 3,865. "Heart Healthy" stays a publisher tag (no numeric rule reproduced it; the Heart-healthy quick pick filters by the numbers).
+### Not filled (on purpose)
+- 479 recipes still lack potassium or phosphorus: their calculation did not match the published numbers (Diabetes UK 174, ADA 192 phosphorus only, This Healthy Kitchen 58, Kidney Care UK 48 potassium, others 7).
+- Cuisine (474 recipes) and dish type are not guessed; GL stays empty for 968 recipes under the 70% rule.
 
 ## [0.7.0] - 2026-10-10
 Safety review (an "LLM council" of five independent reviews, peer review and a chairman's verdict).
