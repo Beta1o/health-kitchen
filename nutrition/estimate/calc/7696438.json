@@ -1,0 +1,43 @@
+{
+ "id": 7696438,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170688,
+   "g": 100,
+   "name": "Bulgur, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 450,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 10,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Handful of herbs ~10 g as parsley."
+}

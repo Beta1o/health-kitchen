@@ -1,0 +1,85 @@
+{
+ "id": 6032146,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 171816,
+   "g": 680,
+   "name": "Beef, round, top round, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172889,
+   "g": 600,
+   "name": "Soup, beef broth, less/reduced sodium, ready to serve"
+  },
+  {
+   "line": 7,
+   "fdc": 168162,
+   "g": 87,
+   "name": "Plums, dried (prunes), uncooked"
+  },
+  {
+   "line": 9,
+   "fdc": 168482,
+   "g": 340,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 3.9,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "lean stew meat -> top round lean"
+}

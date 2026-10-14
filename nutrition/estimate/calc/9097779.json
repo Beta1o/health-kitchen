@@ -1,0 +1,79 @@
+{
+ "id": 9097779,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 171688,
+   "g": 125,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 51,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170182,
+   "g": 36,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 4,
+   "fdc": 171723,
+   "g": 30,
+   "name": "cranberries, dried, sweetened (for unsweetened dried cranberries)"
+  },
+  {
+   "line": 5,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 8,
+   "fdc": 171331,
+   "g": 1.5,
+   "name": "spices, poultry seasoning"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 90,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 174081,
+   "g": 420,
+   "name": "tortillas, whole wheat"
+  }
+ ],
+ "notes": "unsweetened dried cranberries modeled with sweetened entry (not flagged added sugar); 10-inch tortilla ~70 g each; ranch dip without amount left out"
+}

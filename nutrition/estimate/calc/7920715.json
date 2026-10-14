@@ -1,0 +1,62 @@
+{
+ "id": 7920715,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "canola oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169103,
+   "g": 12,
+   "name": "orange peel"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 170,
+   "name": "orange juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 75,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 132,
+   "name": "egg white"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 25,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 30,
+   "name": "orange juice"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 0.5,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 173442,
+   "g": 60,
+   "name": "sour cream reduced fat (half-fat creme fraiche)"
+  }
+ ],
+ "notes": "orange extract via vanilla extract; half-fat creme fraiche via reduced-fat sour cream"
+}

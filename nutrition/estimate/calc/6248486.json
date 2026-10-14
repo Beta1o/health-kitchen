@@ -1,0 +1,79 @@
+{
+ "id": 6248486,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168472,
+   "g": 860,
+   "name": "squash, winter, acorn, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170398,
+   "g": 220,
+   "name": "cauliflower, frozen, unprepared"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170187,
+   "g": 29,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 10,
+   "fdc": 170938,
+   "g": 1,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "spices, sage, ground"
+  }
+ ],
+ "notes": "2 acorn squash taken as ~430 g edible flesh each."
+}

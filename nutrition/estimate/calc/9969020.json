@@ -1,0 +1,49 @@
+{
+ "id": 9969020,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168559,
+   "g": 200,
+   "name": "pimento, canned (roasted red peppers, drained)"
+  },
+  {
+   "line": 1,
+   "fdc": 173800,
+   "g": 255,
+   "name": "chickpeas canned drained"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 4.5,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  }
+ ],
+ "notes": "roasted red peppers modelled as canned pimento"
+}

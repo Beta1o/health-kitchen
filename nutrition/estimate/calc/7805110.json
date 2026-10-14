@@ -1,0 +1,85 @@
+{
+ "id": 7805110,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169703,
+   "g": 60,
+   "name": "rice, brown, long-grain, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 125,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 169287,
+   "g": 150,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 11,
+   "fdc": 175037,
+   "g": 140,
+   "name": "tortilla, flour"
+  },
+  {
+   "line": 12,
+   "fdc": 169079,
+   "g": 15,
+   "name": "cream cheese, low fat"
+  }
+ ],
+ "notes": "Large tortillas 70 g each; serving salad without amount left out."
+}

@@ -1,0 +1,37 @@
+{
+ "id": 7446938,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 200,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173950,
+   "g": 200,
+   "name": "blueberries, frozen, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 171726,
+   "g": 80,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 258,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 30.8,
+   "name": "lime juice"
+  }
+ ],
+ "notes": "Soft dates 8 g each."
+}

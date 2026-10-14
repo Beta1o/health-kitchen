@@ -1,0 +1,79 @@
+{
+ "id": 7962332,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 54,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 50,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169383,
+   "g": 50,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170459,
+   "g": 5,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 173475,
+   "g": 1,
+   "name": "spearmint, fresh"
+  }
+ ],
+ "notes": "Orange pepper modelled as yellow pepper; 120 g unprepared peppers taken as 100 g edible."
+}

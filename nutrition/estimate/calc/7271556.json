@@ -1,0 +1,50 @@
+{
+ "id": 7271556,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175223,
+   "g": 618,
+   "name": "soymilk, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 173471,
+   "g": 1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 172184,
+   "g": 68,
+   "name": "egg yolk, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169656,
+   "g": 16,
+   "name": "powdered sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 173963,
+   "g": 170,
+   "name": "blackcurrants, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168209,
+   "g": 200,
+   "name": "raspberries, frozen, unsweetened"
+  }
+ ],
+ "notes": "Canned blackcurrants in juice, drained, as 170 g raw blackcurrants."
+}

@@ -1,0 +1,31 @@
+{
+ "id": 9401943,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 68.5,
+   "name": "cashew"
+  },
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 15,
+   "name": "nutritional yeast as active dry yeast"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "garp"
+  }
+ ],
+ "notes": "Nutritional yeast has no SR entry: used baker's active dry yeast (3 tbsp ~15 g)."
+}

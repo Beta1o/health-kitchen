@@ -1,0 +1,91 @@
+{
+ "id": 6114026,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171477,
+   "g": 454,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 240,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170187,
+   "g": 29,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 29,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169134,
+   "g": 43.5,
+   "name": "pomegranates, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 38,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 168203,
+   "g": 90,
+   "name": "apples, raw, granny smith, with skin"
+  },
+  {
+   "line": 7,
+   "fdc": 167787,
+   "g": 31,
+   "name": "pomegranate juice, bottled"
+  },
+  {
+   "line": 8,
+   "fdc": 172336,
+   "g": 27,
+   "name": "oil, canola"
+  },
+  {
+   "line": 9,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 10,
+   "fdc": 172240,
+   "g": 5,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 11,
+   "fdc": 169878,
+   "g": 5,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Fat-free feta has no SR entry: regular feta used (overstates fat/calories). White wine vinegar mapped to red wine vinegar."
+}

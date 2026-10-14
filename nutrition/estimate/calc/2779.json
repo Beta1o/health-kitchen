@@ -1,0 +1,50 @@
+{
+ "id": 2779,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173430,
+   "g": 75,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169126,
+   "g": 246,
+   "name": "pineapple, canned, juice pack, solids and liquids"
+  },
+  {
+   "line": 2,
+   "fdc": 167766,
+   "g": 30,
+   "name": "maraschino cherries",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 67,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168894,
+   "g": 281,
+   "name": "wheat flour, all-purpose, enriched"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder, double-acting, SAS"
+  }
+ ]
+}

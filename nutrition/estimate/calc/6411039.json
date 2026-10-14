@@ -1,0 +1,67 @@
+{
+ "id": 6411039,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169383,
+   "g": 110,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 250,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168462,
+   "g": 142,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 175247,
+   "g": 170,
+   "name": "Beans, pinto, mature seeds, canned, solids and liquids, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 169704,
+   "g": 98,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 172223,
+   "g": 30,
+   "name": "Cheese, fresh, queso fresco"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 40,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 4,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Garlicky Cilantro Lime Dressing (separate recipe, unknown) guessed as 2 tbsp olive oil + lime juice + garlic + cilantro. Low-sodium pinto beans: solids-and-liquids low sodium entry."
+}

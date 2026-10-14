@@ -1,0 +1,115 @@
+{
+ "id": 6693002,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172232,
+   "g": 30,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 2.8,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 735,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 9,
+   "fdc": 170847,
+   "g": 25,
+   "name": "cheese, mozzarella, part skim"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 0.9,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 14,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 168910,
+   "g": 280,
+   "name": "pasta, whole-wheat, cooked"
+  },
+  {
+   "line": 16,
+   "fdc": 171247,
+   "g": 10,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 17,
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes, red, ripe, raw"
+  }
+ ],
+ "notes": "reduced-fat Italian cheese as part-skim mozzarella; Italian seasoning as dried oregano; cooked ww penne 140 g/cup"
+}

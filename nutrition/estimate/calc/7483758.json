@@ -1,0 +1,49 @@
+{
+ "id": 7483758,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170404,
+   "g": 450,
+   "name": "chicory, witloof, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170591,
+   "g": 25,
+   "name": "nuts, pine nuts, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Chicory heads guessed at 75 g each."
+}

@@ -1,0 +1,42 @@
+{
+ "id": 7026697,
+ "servings": 36,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172814,
+   "g": 350,
+   "name": "pie crust, standard-type, unbaked (shortcrust)"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173442,
+   "g": 150,
+   "name": "sour cream, reduced fat (light creme fraiche)"
+  },
+  {
+   "line": 3,
+   "fdc": 169994,
+   "g": 6,
+   "name": "chives, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171985,
+   "g": 75,
+   "name": "smoked salmon, lox"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ]
+}

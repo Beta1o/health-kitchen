@@ -1,0 +1,67 @@
+{
+ "id": 6105903,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168609,
+   "g": 567,
+   "name": "beef, flank steak, lean, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "chili powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 30.8,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 175036,
+   "g": 312,
+   "name": "tortillas, corn"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 100,
+   "name": "tomatoes, raw (pico)"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 25,
+   "name": "onions, raw (pico)"
+  },
+  {
+   "line": 7,
+   "fdc": 168576,
+   "g": 5,
+   "name": "jalapeno (pico)"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 5,
+   "name": "cilantro (pico)"
+  }
+ ],
+ "notes": "Pico de gallo split into tomato/onion/jalapeno/cilantro; tortillas 26 g each."
+}

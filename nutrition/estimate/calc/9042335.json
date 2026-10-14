@@ -1,0 +1,79 @@
+{
+ "id": 9042335,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 216,
+   "name": "carrot"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "redpep"
+  },
+  {
+   "line": 3,
+   "fdc": 169738,
+   "g": 450,
+   "name": "whole grain spaghetti dry"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 45,
+   "name": "scallion"
+  },
+  {
+   "line": 5,
+   "fdc": 174294,
+   "g": 64,
+   "name": "pb"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limejuice"
+  },
+  {
+   "line": 7,
+   "fdc": 173469,
+   "g": 45,
+   "name": "rice vinegar (as cider vinegar)"
+  },
+  {
+   "line": 8,
+   "fdc": 174278,
+   "g": 48,
+   "name": "tamari"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlicpow"
+  },
+  {
+   "line": 10,
+   "fdc": 171186,
+   "g": 25,
+   "name": "sriracha 1.5 tbsp"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 12,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "gingerpow"
+  }
+ ],
+ "notes": "Rice vinegar modelled as cider vinegar."
+}

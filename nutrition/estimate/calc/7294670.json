@@ -1,0 +1,50 @@
+{
+ "id": 7294670,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 300,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 170556,
+   "g": 35,
+   "name": "Seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 35,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 172183,
+   "g": 33,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170257,
+   "g": 1.5,
+   "added_sugar": true,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 6,
+   "fdc": 173941,
+   "g": 75,
+   "name": "Apricots, dried, sulfured, uncooked"
+  }
+ ],
+ "notes": "Sweetener as sucralose granular, 3 tsp ~1.5 g."
+}

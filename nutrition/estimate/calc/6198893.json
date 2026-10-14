@@ -1,0 +1,49 @@
+{
+ "id": 6198893,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173435,
+   "g": 28,
+   "name": "Cheese, goat, soft type"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 169098,
+   "g": 31,
+   "name": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 172791,
+   "g": 43,
+   "name": "Phyllo dough"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 0.5,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 24,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 6,
+   "fdc": 173021,
+   "g": 256,
+   "name": "Figs, raw"
+  }
+ ],
+ "notes": "Mini phyllo shells entered as phyllo dough, 3.6 g each (prebaked shells contain more fat)."
+}

@@ -1,0 +1,73 @@
+{
+ "id": 6870016,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169214,
+   "g": 520,
+   "name": "corn canned drained 2 cans"
+  },
+  {
+   "line": 1,
+   "fdc": 169215,
+   "g": 425,
+   "name": "corn cream style"
+  },
+  {
+   "line": 2,
+   "fdc": 169697,
+   "g": 122,
+   "name": "cornmeal"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomato large"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 173430,
+   "g": 113,
+   "name": "butter unsalted"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 42,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "baking powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 169994,
+   "g": 2,
+   "name": "chives"
+  }
+ ]
+}

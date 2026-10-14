@@ -1,0 +1,36 @@
+{
+ "id": 6774328,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 908,
+   "name": "potatoes, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170872,
+   "g": 122,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 2,
+   "fdc": 173430,
+   "g": 14,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  }
+ ]
+}

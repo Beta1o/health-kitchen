@@ -1,0 +1,116 @@
+{
+ "id": 9774483,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 60,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 357,
+   "name": "peppers, sweet, raw (3 bell peppers)"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "jerk seasoning: salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171315,
+   "g": 3,
+   "name": "jerk seasoning: allspice"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 2,
+   "name": "jerk seasoning: thyme"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 2,
+   "name": "jerk seasoning: onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 2,
+   "name": "jerk seasoning: garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 1,
+   "name": "jerk seasoning: cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 168833,
+   "g": 1,
+   "name": "jerk seasoning: sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171583,
+   "g": 240,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 245,
+   "name": "tomato sauce, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 173800,
+   "g": 246,
+   "name": "chickpeas, canned, drained solids"
+  },
+  {
+   "line": 10,
+   "fdc": 170173,
+   "g": 226,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Jerk seasoning (2 tbsp, ~14 g) modelled as salt 3 g + allspice, thyme, onion/garlic powder, cayenne, sugar; salt content of the brand unknown. Vegan parmesan topping (no amount) left out."
+}

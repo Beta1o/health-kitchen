@@ -1,0 +1,67 @@
+{
+ "id": 6396740,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169287,
+   "g": 454,
+   "name": "spinach, frozen, 16 oz"
+  },
+  {
+   "line": 2,
+   "fdc": 173420,
+   "g": 19,
+   "name": "feta, reduced-fat (regular feta entry)"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.7,
+   "name": "coarse salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 172239,
+   "g": 0.5,
+   "name": "dried mint"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "cooking spray"
+  },
+  {
+   "line": 7,
+   "fdc": 175167,
+   "g": 400,
+   "name": "salmon, 4 x 3.5 oz"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 480,
+   "name": "vegetable stock, low sodium (home-prepared stock entry)"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Reduced-fat feta has no SR entry, regular feta used; low-sodium vegetable stock mapped to home-prepared stock; all poaching stock counted."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 9250282,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170556,
+   "g": 129,
+   "name": "pumpkin seed kernels, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (sea salt)"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "black salt as table salt"
+  }
+ ],
+ "notes": "Black salt (kala namak) entered as table salt."
+}

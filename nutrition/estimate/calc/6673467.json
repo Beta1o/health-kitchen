@@ -1,0 +1,85 @@
+{
+ "id": 6673467,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 700,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 7,
+   "fdc": 170138,
+   "g": 242,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 10,
+   "fdc": 170900,
+   "g": 56,
+   "name": "cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 11,
+   "fdc": 171247,
+   "g": 10,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 12,
+   "fdc": 172232,
+   "g": 5.3,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Small cabbage head guessed at 700 g. Crushed tomatoes no salt added mapped to canned tomatoes no salt added."
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6389870,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 175036,
+   "g": 208,
+   "name": "corn tortillas"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 172465,
+   "g": 425,
+   "name": "refried beans fat-free"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 60,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 171477,
+   "g": 454,
+   "name": "chicken breast meat roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 172216,
+   "g": 50,
+   "name": "mexican blend cheese reduced fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 8,
+   "fdc": 174524,
+   "g": 130,
+   "name": "salsa"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169248,
+   "g": 60,
+   "name": "lettuce iceberg"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 122,
+   "name": "greek yogurt nonfat"
+  }
+ ],
+ "notes": "optional 1/2 tsp salt included"
+}

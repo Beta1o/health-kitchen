@@ -1,0 +1,37 @@
+{
+ "id": 6123574,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 340,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 174266,
+   "g": 64,
+   "name": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 171723,
+   "g": 30,
+   "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170187,
+   "g": 22,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 4,
+   "fdc": 170170,
+   "g": 7,
+   "name": "Nuts, coconut meat, dried (desiccated), not sweetened"
+  }
+ ]
+}

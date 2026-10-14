@@ -1,0 +1,87 @@
+{
+ "id": 9928413,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175215,
+   "g": 243,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169741,
+   "g": 270,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 96,
+   "name": "sugars, brown (for coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171711,
+   "g": 160,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169656,
+   "g": 60,
+   "name": "sugars, powdered",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "coconut sugar as brown sugar"
+}

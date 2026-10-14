@@ -1,0 +1,73 @@
+{
+ "id": 9109371,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168448,
+   "g": 907,
+   "name": "pumpkin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 171583,
+   "g": 480,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170182,
+   "g": 50,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 5,
+   "fdc": 171723,
+   "g": 40,
+   "name": "cranberries, dried, sweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 7,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 8,
+   "fdc": 169661,
+   "g": 60,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  }
+ ]
+}

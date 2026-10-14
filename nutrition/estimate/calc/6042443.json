@@ -1,0 +1,55 @@
+{
+ "id": 6042443,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169961,
+   "g": 454,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170029,
+   "g": 1038,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 2.2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170930,
+   "g": 0.13,
+   "name": "Spices, parsley, dried"
+  }
+ ],
+ "notes": "Garlic salt split as salt + garlic powder."
+}

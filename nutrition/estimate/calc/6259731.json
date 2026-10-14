@@ -1,0 +1,44 @@
+{
+ "id": 6259731,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 174523,
+   "g": 96,
+   "name": "sauce, barbecue",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 174090,
+   "g": 240,
+   "name": "rolls, hamburger, whole wheat (mini buns 30 g)"
+  }
+ ],
+ "notes": "Mini buns assumed 30 g each."
+}

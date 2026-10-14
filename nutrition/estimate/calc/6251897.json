@@ -1,0 +1,67 @@
+{
+ "id": 6251897,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169994,
+   "g": 6,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171319,
+   "g": 0.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 22,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 53,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172232,
+   "g": 12,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 167765,
+   "g": 304,
+   "name": "Watermelon, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 546,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "sherry vinegar as red wine vinegar"
+}

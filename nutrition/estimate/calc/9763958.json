@@ -1,0 +1,36 @@
+{
+ "id": 9763958,
+ "servings": 26,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 200,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171726,
+   "g": 89,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 145,
+   "name": "almonds, blanched"
+  },
+  {
+   "line": 4,
+   "fdc": 170170,
+   "g": 12.5,
+   "name": "coconut, dried, unsweetened"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": 6228270,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170465,
+   "g": 488,
+   "name": "Turnips, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

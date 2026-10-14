@@ -1,0 +1,49 @@
+{
+ "id": 6942761,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 75,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled (for rice vinegar)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, shoyu, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 169703,
+   "g": 185,
+   "name": "rice, brown, long-grain, raw"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth modelled as home-prepared chicken stock (no low-sodium vegetable broth entry)."
+}

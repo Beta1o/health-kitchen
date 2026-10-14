@@ -1,0 +1,25 @@
+{
+ "id": 9743063,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 150,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174267,
+   "g": 100,
+   "name": "peanut flour, defatted"
+  },
+  {
+   "line": 2,
+   "fdc": 170568,
+   "g": 100,
+   "name": "almonds, blanched"
+  }
+ ],
+ "notes": "Powdered peanut butter as defatted peanut flour; almond flour as blanched almonds."
+}

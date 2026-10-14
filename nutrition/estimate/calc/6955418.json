@@ -1,0 +1,90 @@
+{
+ "id": 6955418,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 75,
+   "name": "greenpep"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 172850,
+   "g": 170,
+   "name": "turkey93"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 907,
+   "name": "low sodium chicken broth"
+  },
+  {
+   "line": 6,
+   "fdc": 170501,
+   "g": 121,
+   "name": "tomcrush"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "basildr"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme"
+  },
+  {
+   "line": 9,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "rosedr"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 173760,
+   "g": 250,
+   "name": "black-eyed peas canned drained"
+  },
+  {
+   "line": 12,
+   "fdc": 168421,
+   "g": 90,
+   "name": "kale"
+  },
+  {
+   "line": 13,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parm_gr"
+  }
+ ]
+}

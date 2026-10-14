@@ -1,0 +1,32 @@
+{
+ "id": 9572814,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170182,
+   "g": 297,
+   "name": "pecan"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 13.8,
+   "name": "coconut sugar as brown sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2,
+   "name": "cin"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ],
+ "notes": "Coconut sugar mapped to brown sugar. Cinnamon 1/2-1 tsp midpoint."
+}

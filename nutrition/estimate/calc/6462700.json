@@ -1,0 +1,61 @@
+{
+ "id": 6462700,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174928,
+   "g": 108,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 1,
+   "fdc": 171247,
+   "g": 50,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 392,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ],
+ "notes": "Low-sodium Parmesan has no SR entry; regular grated Parmesan used (sodium overestimated). All breading counted."
+}

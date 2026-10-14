@@ -1,0 +1,56 @@
+{
+ "id": 9811020,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 100,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 20,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169994,
+   "g": 12,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 60,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170189,
+   "g": 30,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  }
+ ],
+ "notes": "Optional maple syrup included. Small avocado ~100 g."
+}

@@ -1,0 +1,24 @@
+{
+ "id": 6800112,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169988,
+   "g": 160,
+   "name": "celery"
+  },
+  {
+   "line": 1,
+   "fdc": 174289,
+   "g": 60,
+   "name": "hummus"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 60,
+   "name": "redp"
+  }
+ ]
+}

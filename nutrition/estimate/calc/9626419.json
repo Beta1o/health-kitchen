@@ -1,0 +1,32 @@
+{
+ "id": 9626419,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 780,
+   "name": "sweet potato, raw (2 lb, peeled)"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 9,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "2 lb sweet potatoes taken as ~780 g edible after peeling; salt 1.5 tsp (midpoint)."
+}

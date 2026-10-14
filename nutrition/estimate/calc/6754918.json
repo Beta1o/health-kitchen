@@ -1,0 +1,79 @@
+{
+ "id": 6754918,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169130,
+   "g": 358,
+   "name": "plantains, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 100,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173573,
+   "g": 4.5,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 180,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 170499,
+   "g": 40,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173044,
+   "g": 41,
+   "name": "guavas, common, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 172223,
+   "g": 61,
+   "name": "cheese, fresh, queso fresco"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 0.7,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Poblano approximated by green bell pepper (100 g). Rice vinegar as distilled vinegar. Plantains taken as ripe (yellow)."
+}

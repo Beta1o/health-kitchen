@@ -1,0 +1,36 @@
+{
+ "id": 6925969,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 300,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 35,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 170929,
+   "g": 0.25,
+   "name": "Spices, mustard seed, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

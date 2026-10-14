@@ -1,0 +1,38 @@
+{
+ "id": 9523761,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171711,
+   "g": 592,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 81,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170554,
+   "g": 64,
+   "name": "seeds, chia seeds, dried"
+  }
+ ],
+ "notes": "Optional maple syrup included (amount given)."
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6814777,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 1,
+   "fdc": 172231,
+   "g": 0.75,
+   "name": "turmeric"
+  },
+  {
+   "line": 2,
+   "fdc": 171315,
+   "g": 0.5,
+   "name": "allspice"
+  },
+  {
+   "line": 3,
+   "fdc": 170922,
+   "g": 0.45,
+   "name": "coriander"
+  },
+  {
+   "line": 4,
+   "fdc": 170419,
+   "g": 454,
+   "name": "green peas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 120,
+   "name": "low sodium vegetable broth (home-prepared stock entry)"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 175167,
+   "g": 454,
+   "name": "salmon"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 20,
+   "name": "lemon wedges, juice squeezed over"
+  }
+ ],
+ "notes": "Lemon wedges counted as 20 g juice."
+}

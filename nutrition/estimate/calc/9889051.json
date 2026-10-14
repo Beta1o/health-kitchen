@@ -1,0 +1,54 @@
+{
+ "id": 9889051,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172456,
+   "g": 366,
+   "name": "soymilk, original and vanilla, with added calcium, vitamins a and d"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 7.5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 81,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 170554,
+   "g": 24,
+   "name": "seeds, chia seeds, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170148,
+   "g": 20,
+   "name": "seeds, hemp seed, hulled"
+  },
+  {
+   "line": 5,
+   "fdc": 174288,
+   "g": 30,
+   "name": "chickpea flour (besan)"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 171711,
+   "g": 148,
+   "name": "blueberries, raw"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "id": 3571404,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 27,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "cumin seed"
+  },
+  {
+   "line": 2,
+   "fdc": 171206,
+   "g": 500,
+   "name": "beef, chuck for stew, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173430,
+   "g": 30,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171324,
+   "g": 1.85,
+   "name": "fenugreek seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 300,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 18,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171319,
+   "g": 2.6,
+   "name": "chili powder"
+  },
+  {
+   "line": 11,
+   "fdc": 169231,
+   "g": 15,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170922,
+   "g": 3.6,
+   "name": "coriander seed"
+  },
+  {
+   "line": 13,
+   "fdc": 169655,
+   "g": 4.2,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 169961,
+   "g": 100,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 170859,
+   "g": 30,
+   "name": "cream, heavy whipping (double cream)"
+  },
+  {
+   "line": 16,
+   "fdc": 170924,
+   "g": 4,
+   "name": "curry powder (masala stand-in)"
+  },
+  {
+   "line": 17,
+   "fdc": 169997,
+   "g": 10,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 18,
+   "fdc": 168877,
+   "g": 240,
+   "name": "rice, white, long-grain, raw"
+  }
+ ],
+ "notes": "Butter option chosen over olive oil; optional double cream included (amount given); garam masala as curry powder."
+}

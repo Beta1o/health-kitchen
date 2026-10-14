@@ -1,0 +1,93 @@
+{
+ "id": 7649613,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168164,
+   "g": 75,
+   "name": "raisins, golden"
+  },
+  {
+   "line": 1,
+   "fdc": 168165,
+   "g": 100,
+   "name": "raisins, dark"
+  },
+  {
+   "line": 2,
+   "fdc": 167781,
+   "g": 25,
+   "name": "candied fruit",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 118,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 68,
+   "name": "oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168893,
+   "g": 150,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 11,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 12,
+   "fdc": 171332,
+   "g": 5,
+   "name": "pumpkin pie spice (mixed spice)"
+  },
+  {
+   "line": 13,
+   "fdc": 167781,
+   "g": 30,
+   "name": "candied fruit",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 170568,
+   "g": 20,
+   "name": "almonds, blanched"
+  }
+ ],
+ "notes": "glace cherries and candied peel as candied fruit; mixed spice as pumpkin pie spice"
+}

@@ -1,0 +1,60 @@
+{
+ "id": 6306893,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171319,
+   "g": 0.65,
+   "name": "chili powder"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onion, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171705,
+   "g": 50,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168173,
+   "g": 75,
+   "name": "strawberries, frozen, unsweetened"
+  },
+  {
+   "line": 8,
+   "fdc": 173950,
+   "g": 78,
+   "name": "blueberries, frozen, unsweetened"
+  }
+ ]
+}

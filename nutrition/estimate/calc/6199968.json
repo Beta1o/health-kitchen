@@ -1,0 +1,98 @@
+{
+ "id": 6199968,
+ "servings": 17,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 175238,
+   "g": 255,
+   "name": "Beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 250,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174902,
+   "g": 240,
+   "name": "Biscuits, plain or buttermilk, dry mix"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171326,
+   "g": 0.6,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 169593,
+   "g": 43,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 172183,
+   "g": 66,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170257,
+   "g": 6,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 169878,
+   "g": 64,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 14,
+   "fdc": 172336,
+   "g": 40.8,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 15,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  }
+ ],
+ "notes": "Gluten-free baking mix (Pamela's) has no SR entry: biscuit dry mix used (2 cups = 240 g). Sugar-free baking substitute as sucralose sweetener at 1.5 g/tbsp."
+}

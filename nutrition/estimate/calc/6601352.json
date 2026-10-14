@@ -1,0 +1,44 @@
+{
+ "id": 6601352,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 109,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 167973,
+   "g": 255,
+   "name": "Candies, carob, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 12,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 150,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 169593,
+   "g": 43,
+   "name": "Cocoa, dry powder, unsweetened"
+  }
+ ],
+ "notes": "Carob chips entered as unsweetened carob candy (1.5 cups = 255 g). Sugar substitute as sucralose sweetener at 1.5 g/tbsp."
+}

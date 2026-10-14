@@ -1,0 +1,55 @@
+{
+ "id": 7002703,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 250,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 136,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169249,
+   "g": 90,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 175167,
+   "g": 200,
+   "name": "salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 6.9,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 86,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared, yellow"
+  }
+ ],
+ "notes": "wholegrain mustard as prepared mustard; juice of 1 orange ~86 g"
+}

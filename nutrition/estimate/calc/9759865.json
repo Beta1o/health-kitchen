@@ -1,0 +1,67 @@
+{
+ "id": 9759865,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "redp"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 960,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 3,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentil"
+  },
+  {
+   "line": 4,
+   "fdc": 174284,
+   "g": 192,
+   "name": "redlent"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 32,
+   "name": "paste"
+  },
+  {
+   "line": 6,
+   "fdc": 174278,
+   "g": 32,
+   "name": "tamari"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 170054,
+   "g": 245,
+   "name": "tsauce"
+  }
+ ],
+ "notes": "Buns, coleslaw, pickles to serve, no item."
+}

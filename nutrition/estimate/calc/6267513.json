@@ -1,0 +1,30 @@
+{
+ "id": 6267513,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171711,
+   "g": 296,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "canola (rapeseed) oil"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  }
+ ]
+}

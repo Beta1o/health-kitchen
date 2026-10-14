@@ -1,0 +1,42 @@
+{
+ "id": 6422262,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 454,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 27.2,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 26.7,
+   "name": "soy sauce, shoyu, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled (for rice vinegar)"
+  },
+  {
+   "line": 4,
+   "fdc": 170151,
+   "g": 9,
+   "name": "seeds, sesame, roasted and toasted"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  }
+ ]
+}

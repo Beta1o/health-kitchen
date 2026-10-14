@@ -1,0 +1,79 @@
+{
+ "id": 6935912,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 3,
+   "fdc": 174290,
+   "g": 340,
+   "name": "Tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 4,
+   "fdc": 169742,
+   "g": 42.5,
+   "name": "Rice noodles, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 169249,
+   "g": 48,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169910,
+   "g": 200,
+   "name": "Mangos, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169225,
+   "g": 120,
+   "name": "Cucumber, peeled, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 75,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 10,
+   "fdc": 169058,
+   "g": 160,
+   "name": "Jams and preserves, no sugar (with sodium saccharin), any flavor"
+  },
+  {
+   "line": 11,
+   "fdc": 172473,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 12,
+   "fdc": 171186,
+   "g": 3,
+   "name": "Sauce, hot chile, sriracha"
+  }
+ ],
+ "notes": "Rice paper wrappers have no SR entry: dry rice noodles used. No-sugar-added apricot preserves as SR 'jams, no sugar' (not flagged added sugar). Chili garlic sauce as sriracha."
+}

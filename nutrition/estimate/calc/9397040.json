@@ -1,0 +1,50 @@
+{
+ "id": 9397040,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169124,
+   "g": 360,
+   "name": "pineapple, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine, 80% fat, tub, with salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170162,
+   "g": 20,
+   "name": "cashew nuts, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  }
+ ],
+ "notes": "Cashew cream (3 tbsp) as 20 g cashews; optional vegan butter included as margarine. Possibly the dip is a separate component."
+}

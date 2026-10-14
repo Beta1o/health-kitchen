@@ -1,0 +1,55 @@
+{
+ "id": 9336436,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 480,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 35,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171609,
+   "g": 210,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 20,
+   "name": "leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 6,
+   "fdc": 174278,
+   "g": 36,
+   "name": "soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  }
+ ],
+ "notes": "Nutritional yeast as active dry yeast (no SR entry); low-sodium vegetable broth as canned low-sodium chicken broth; salt to taste left out."
+}

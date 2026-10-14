@@ -1,0 +1,55 @@
+{
+ "id": 3240039,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 4.5,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170471,
+   "g": 250,
+   "name": "Vegetables, mixed, frozen, unprepared"
+  },
+  {
+   "line": 5,
+   "fdc": 170899,
+   "g": 30,
+   "name": "Cheese, cheddar, sharp, sliced"
+  },
+  {
+   "line": 6,
+   "fdc": 174924,
+   "g": 144,
+   "name": "Bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+   "line": 7,
+   "fdc": 173430,
+   "g": 20,
+   "name": "Butter, without salt"
+  }
+ ],
+ "notes": "4 slices bread guessed 36 g each (white). Dried mixed herbs as oregano."
+}

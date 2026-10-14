@@ -1,0 +1,55 @@
+{
+ "id": 7463414,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175167,
+   "g": 250,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170068,
+   "g": 100,
+   "name": "Watercress, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170886,
+   "g": 15,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175009,
+   "g": 160,
+   "name": "Pancakes, plain, prepared from recipe"
+  },
+  {
+   "line": 5,
+   "fdc": 169079,
+   "g": 15,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 172233,
+   "g": 1,
+   "name": "Dill weed, fresh"
+  }
+ ],
+ "notes": "Blinis -> plain pancakes prepared from recipe. Garnish counted as 1 g dill."
+}

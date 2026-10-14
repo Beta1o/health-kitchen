@@ -1,0 +1,104 @@
+{
+ "id": 9668816,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171412,
+   "g": 13.6,
+   "name": "coconutoil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 18,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 238,
+   "name": "redpep"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrot"
+  },
+  {
+   "line": 6,
+   "fdc": 170379,
+   "g": 350,
+   "name": "1 head broccoli florets"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 240,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 8,
+   "fdc": 170173,
+   "g": 390,
+   "name": "coconutmilk"
+  },
+  {
+   "line": 9,
+   "fdc": 170106,
+   "g": 50,
+   "name": "red curry paste: chili part"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 12,
+   "name": "red curry paste: garlic/aromatics"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 13,
+   "name": "red curry paste: salt"
+  },
+  {
+   "line": 10,
+   "fdc": 174278,
+   "g": 32,
+   "name": "tamari"
+  },
+  {
+   "line": 11,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limejuice"
+  }
+ ],
+ "notes": "No curry paste in SR Legacy: 5 tbsp (75 g) Thai red curry paste modelled as chili + garlic + 13 g salt (about 7% sodium). Broccoli head guessed 350 g florets. Serving rice/garnish lines left out."
+}

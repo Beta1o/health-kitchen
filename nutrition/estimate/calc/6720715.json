@@ -1,0 +1,48 @@
+{
+ "id": 6720715,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169225,
+   "g": 280,
+   "name": "cucumber, peeled, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 298,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "salt, table"
+  }
+ ]
+}

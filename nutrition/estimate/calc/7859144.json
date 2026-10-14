@@ -1,0 +1,55 @@
+{
+ "id": 7859144,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168931,
+   "g": 100,
+   "name": "Rice, white, short-grain, raw, unenriched"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 150,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 5,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 168559,
+   "g": 230,
+   "name": "Pimento, canned"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Risotto rice as short-grain white rice raw. Pimentos 400 g tin drained ~230 g."
+}

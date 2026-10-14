@@ -1,0 +1,72 @@
+{
+ "id": 9195537,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169704,
+   "g": 195,
+   "name": "brown rice cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 168917,
+   "g": 185,
+   "name": "quinoa cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 173800,
+   "g": 246,
+   "name": "chickpeas canned drained"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 149,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 80,
+   "name": "red onion"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 8,
+   "fdc": 173469,
+   "g": 45,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 9,
+   "fdc": 172240,
+   "g": 15,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  }
+ ]
+}

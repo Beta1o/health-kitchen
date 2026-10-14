@@ -1,0 +1,91 @@
+{
+ "id": 6373822,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170284,
+   "g": 120,
+   "name": "barley, pearled, raw (quick-cooking)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 173880,
+   "g": 170,
+   "name": "sausage, chicken, italian style, lower sodium (roasted garlic links)"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 10,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes, canned, no salt added (reduced sodium)"
+  },
+  {
+   "line": 11,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay leaf"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Servings 6 from portions. Chicken sausage links assumed 85 g each; optional salt with amount counted; reduced-sodium tomatoes as no-salt entry."
+}

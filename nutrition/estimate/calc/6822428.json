@@ -1,0 +1,55 @@
+{
+ "id": 6822428,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173475,
+   "g": 3.2,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173473,
+   "g": 3.4,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 167746,
+   "g": 30,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 3,
+   "fdc": 173717,
+   "g": 560,
+   "name": "trout, rainbow, farmed, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "4 whole trout ~200 g each with bones; edible flesh taken as 560 g. Lemons: one juiced, one sliced (partly eaten)."
+}

@@ -1,0 +1,54 @@
+{
+ "id": 7482026,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 100,
+   "name": "pasta, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170016,
+   "g": 80,
+   "name": "peas, frozen"
+  },
+  {
+   "line": 2,
+   "fdc": 168398,
+   "g": 80,
+   "name": "corn, frozen"
+  },
+  {
+   "line": 3,
+   "fdc": 173582,
+   "g": 15,
+   "name": "vegetable oil spread 60%"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 15,
+   "name": "plain flour"
+  },
+  {
+   "line": 5,
+   "fdc": 171267,
+   "g": 309,
+   "name": "milk, 2% (semi-skimmed)"
+  },
+  {
+   "line": 6,
+   "fdc": 173414,
+   "g": 20,
+   "name": "cheddar"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ]
+}

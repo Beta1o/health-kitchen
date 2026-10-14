@@ -1,0 +1,60 @@
+{
+ "id": 6549589,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171719,
+   "g": 465,
+   "name": "cherries, sweet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 45,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 61,
+   "name": "oats, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 170568,
+   "g": 28,
+   "name": "almonds, blanched (ground/almond flour)"
+  },
+  {
+   "line": 6,
+   "fdc": 170187,
+   "g": 29,
+   "name": "walnuts, english"
+  },
+  {
+   "line": 7,
+   "fdc": 172370,
+   "g": 27,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ]
+}

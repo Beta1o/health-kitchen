@@ -1,0 +1,55 @@
+{
+ "id": 9564162,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171583,
+   "g": 780,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 402,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 169736,
+   "g": 227,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 30,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Vegan parmesan approximated as raw cashews plus a little salt."
+}

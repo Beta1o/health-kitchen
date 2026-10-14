@@ -1,0 +1,61 @@
+{
+ "id": 9021515,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168147,
+   "g": 130,
+   "name": "vital wheat gluten"
+  },
+  {
+   "line": 1,
+   "fdc": 174290,
+   "g": 350,
+   "name": "tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 24,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 174277,
+   "g": 32,
+   "name": "soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+   "line": 5,
+   "fdc": 171331,
+   "g": 4.5,
+   "name": "spices, poultry seasoning"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173469,
+   "g": 5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "liquid smoke left out (no SR entry, negligible); nutritional yeast as active dry yeast"
+}

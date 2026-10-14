@@ -1,0 +1,68 @@
+{
+ "id": 7521021,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 200,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 169145,
+   "g": 100,
+   "name": "Beets, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 100,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 169655,
+   "g": 100,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 169126,
+   "g": 435,
+   "name": "Pineapple, canned, juice pack, solids and liquids"
+  },
+  {
+   "line": 9,
+   "fdc": 169656,
+   "g": 8,
+   "name": "Sugars, powdered",
+   "added_sugar": true
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": 6647980,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 48,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 64.5,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 170273,
+   "g": 85,
+   "name": "Chocolate, dark, 70-85% cacao solids"
+  },
+  {
+   "line": 6,
+   "fdc": 170187,
+   "g": 29,
+   "name": "Nuts, walnuts, english"
+  }
+ ],
+ "notes": "Powdered sugar substitute as sucralose sweetener (24 g/cup). Sugar-free chocolate chips as 70-85% dark chocolate (sugar overstated)."
+}

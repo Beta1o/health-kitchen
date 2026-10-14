@@ -1,0 +1,36 @@
+{
+ "id": 9693255,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 120,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 1,
+   "fdc": 169593,
+   "g": 16,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 3,
+   "fdc": 175215,
+   "g": 243,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 13,
+   "name": "vanilla extract"
+  }
+ ]
+}

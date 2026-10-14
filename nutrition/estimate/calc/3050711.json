@@ -1,0 +1,151 @@
+{
+ "id": 3050711,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 200,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 120,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 120,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 175188,
+   "g": 240,
+   "name": "black beans canned"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 11,
+   "fdc": 171257,
+   "g": 80,
+   "name": "sour cream"
+  },
+  {
+   "line": 12,
+   "fdc": 171705,
+   "g": 140,
+   "name": "avocado raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 10,
+   "name": "lime juice"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 8,
+   "name": "onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 175037,
+   "g": 240,
+   "name": "tortilla, flour"
+  },
+  {
+   "line": 14,
+   "fdc": 169249,
+   "g": 200,
+   "name": "lettuce, green leaf"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 119,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 17,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 18,
+   "fdc": 173469,
+   "g": 10,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 19,
+   "fdc": 172234,
+   "g": 10,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 20,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Guacamole (160 g) modelled as avocado 140 g + lime juice 10 g + onion 8 g + salt 1 g. Flour tortillas assumed 60 g each; black beans 240 g drained."
+}

@@ -1,0 +1,30 @@
+{
+ "id": 9604269,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170187,
+   "g": 125,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 7.5,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

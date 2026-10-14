@@ -1,0 +1,91 @@
+{
+ "id": 7325527,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 170924,
+   "g": 4,
+   "name": "ras-el-hanout (as curry powder)"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 6,
+   "fdc": 168482,
+   "g": 250,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170393,
+   "g": 500,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173801,
+   "g": 130,
+   "name": "chickpeas, canned, drained, rinsed (200 g can)"
+  },
+  {
+   "line": 10,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, chopped"
+  },
+  {
+   "line": 11,
+   "fdc": 170568,
+   "g": 7,
+   "name": "almonds, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 169699,
+   "g": 120,
+   "name": "couscous, dry"
+  },
+  {
+   "line": 14,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "ras-el-hanout approximated by curry powder; 200 g can chickpeas taken as 130 g drained"
+}

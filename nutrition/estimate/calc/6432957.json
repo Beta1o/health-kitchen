@@ -1,0 +1,79 @@
+{
+ "id": 6432957,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174196,
+   "g": 454,
+   "name": "Fish, flatfish (flounder and sole species), raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 256,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170187,
+   "g": 27,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 174928,
+   "g": 4,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 120,
+   "name": "Spinach, raw"
+  }
+ ],
+ "notes": "'16 bunch asparagus spears' read as 16 spears (16 g each)."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 9264119,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174527,
+   "g": 240,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 120,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 170162,
+   "g": 46,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  }
+ ],
+ "notes": "Frank's RedHot as generic pepper/hot sauce"
+}

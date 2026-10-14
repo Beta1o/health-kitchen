@@ -1,0 +1,60 @@
+{
+ "id": 7496258,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173690,
+   "g": 212,
+   "name": "salmon, pink, canned, total can contents"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "line": 2,
+   "fdc": 172238,
+   "g": 9,
+   "name": "capers"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 60,
+   "name": "red pepper, half"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 40,
+   "name": "cucumber 5cm deseeded"
+  },
+  {
+   "line": 5,
+   "fdc": 172233,
+   "g": 4,
+   "name": "dill fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice, half lemon"
+  },
+  {
+   "line": 7,
+   "fdc": 170933,
+   "g": 0.5,
+   "name": "white pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 169079,
+   "g": 25,
+   "name": "cream cheese, low fat"
+  }
+ ]
+}

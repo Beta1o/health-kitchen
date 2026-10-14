@@ -1,0 +1,44 @@
+{
+ "id": 7942789,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168209,
+   "g": 70,
+   "name": "raspberries, frozen, red, unsweetened"
+  },
+  {
+   "line": 0,
+   "fdc": 173946,
+   "g": 70,
+   "name": "blackberries, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 168173,
+   "g": 60,
+   "name": "strawberries, frozen, unsweetened (includes foods for usda's food distribution program)\",) {'calcium_mg': 16.0, 'calories': 35.0, 'carbohydrates_g': 9.13, 'cholesterol_mg': 0.0, 'fat_g': 0.11, 'fiber_g': 2.1, 'phosphorus_mg': 13.0, 'potassium_mg': 148.0, 'protein_g': 0.43, 'sodium_mg': 2.0, 'sugars_g': 4.56}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 200,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 3,
+   "fdc": 170160,
+   "g": 13,
+   "name": "nuts, almond paste"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 12,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Mixed summer berries split raspberry/blackberry/strawberry; fromage frais as nonfat Greek yogurt; sweetener left out; optional amaretti (25 g) as almond paste + sugar."
+}

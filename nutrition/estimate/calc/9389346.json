@@ -1,0 +1,79 @@
+{
+ "id": 9389346,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 366,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170026,
+   "g": 907,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168398,
+   "g": 140,
+   "name": "corn, frozen"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 134,
+   "name": "peas, frozen"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170935,
+   "g": 0.35,
+   "name": "sage, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 169698,
+   "g": 32,
+   "name": "cornstarch"
+  },
+  {
+   "line": 12,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk, unsweetened (for cashew milk)"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth as home-prepared stock per guide; cashew milk as unsweetened almond milk."
+}

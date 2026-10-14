@@ -1,0 +1,54 @@
+{
+ "id": 6282423,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 227,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 350,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 122,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 110,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173420,
+   "g": 75,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  }
+ ]
+}

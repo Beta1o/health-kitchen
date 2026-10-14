@@ -1,0 +1,92 @@
+{
+ "id": 9539328,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 340,
+   "name": "Tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 168898,
+   "g": 20,
+   "name": "Rice flour, brown"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 172473,
+   "g": 85,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 168833,
+   "g": 73,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 8,
+   "fdc": 172237,
+   "g": 60,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171186,
+   "g": 17,
+   "name": "Sauce, hot chile, sriracha"
+  },
+  {
+   "line": 11,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 168898,
+   "g": 20,
+   "name": "Rice flour, brown"
+  },
+  {
+   "line": 14,
+   "fdc": 170005,
+   "g": 1,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 15,
+   "fdc": 170150,
+   "g": 1,
+   "name": "Seeds, sesame seeds, whole, dried"
+  }
+ ],
+ "notes": "Vermicelli/brown rice to serve has no amount and is left out. Coconut sugar -> brown sugar. Low sodium tamari -> low sodium soy sauce."
+}

@@ -1,0 +1,62 @@
+{
+ "id": 7733869,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 330,
+   "name": "eating apples x2, cored"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 1,
+   "name": "lemj"
+  },
+  {
+   "line": 2,
+   "fdc": 173410,
+   "g": 4.7,
+   "name": "butter"
+  },
+  {
+   "line": 3,
+   "fdc": 171326,
+   "g": 0.2,
+   "name": "nutmeg"
+  },
+  {
+   "line": 4,
+   "fdc": 169655,
+   "g": 25,
+   "name": "caster sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 172184,
+   "g": 15,
+   "name": "medium egg yolk"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 29,
+   "name": "medium egg white"
+  },
+  {
+   "line": 6,
+   "fdc": 173442,
+   "g": 30,
+   "name": "reduced-fat creme fraiche as reduced-fat sour cream"
+  },
+  {
+   "line": 7,
+   "fdc": 171326,
+   "g": 0.2,
+   "name": "nutmeg"
+  }
+ ],
+ "notes": "Creme fraiche mapped to reduced-fat sour cream. Apples 2 x 180 g less core."
+}

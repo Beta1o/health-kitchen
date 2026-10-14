@@ -1,0 +1,49 @@
+{
+ "id": 6876203,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168784,
+   "g": 28,
+   "name": "puddings, vanilla, dry mix, instant (proxy for sugar-free cheesecake mix)"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 407,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170902,
+   "g": 245,
+   "name": "yogurt, greek, vanilla, nonfat"
+  },
+  {
+   "line": 6,
+   "fdc": 174956,
+   "g": 49,
+   "name": "cookies, gingersnaps"
+  }
+ ],
+ "notes": "Sugar-free fat-free cheesecake pudding mix has no SR entry; regular vanilla instant mix used (similar calories, overstates sugar). Gingersnaps 7 g each."
+}

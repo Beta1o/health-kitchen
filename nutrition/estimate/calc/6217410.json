@@ -1,0 +1,86 @@
+{
+ "id": 6217410,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 0,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon/lime peel"
+  },
+  {
+   "line": 1,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 567,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170427,
+   "g": 238,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 175036,
+   "g": 260,
+   "name": "tortillas, corn"
+  },
+  {
+   "line": 11,
+   "fdc": 174524,
+   "g": 160,
+   "name": "salsa"
+  }
+ ],
+ "notes": "Honey chosen over artificial sweetener option."
+}

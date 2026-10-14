@@ -1,0 +1,79 @@
+{
+ "id": 7356307,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 125,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 168410,
+   "g": 50,
+   "name": "edamame, frozen, unprepared"
+  },
+  {
+   "line": 4,
+   "fdc": 169249,
+   "g": 30,
+   "name": "lettuce, green leaf (mixed leaves)"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring/green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168409,
+   "g": 40,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168407,
+   "g": 8,
+   "name": "cress, garden, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 15,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 10,
+   "fdc": 170189,
+   "g": 5,
+   "name": "tahini"
+  },
+  {
+   "line": 11,
+   "fdc": 170150,
+   "g": 1.4,
+   "name": "sesame seeds, whole, dried"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Lemon wedges counted as 10 g juice; boiling water (for cooking) left out."
+}

@@ -1,0 +1,66 @@
+{
+ "id": 9131956,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 192,
+   "name": "Lentils, pink or red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 72,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168013,
+   "g": 64,
+   "name": "Bread, multi-grain (includes whole-grain)"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 34,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 168398,
+   "g": 34,
+   "name": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "Spices, oregano, dried"
+  }
+ ]
+}

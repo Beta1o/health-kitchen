@@ -1,0 +1,62 @@
+{
+ "id": 9762208,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168483,
+   "g": 85,
+   "name": "sweet potato, cooked, baked in skin, flesh, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 168917,
+   "g": 92,
+   "name": "quinoa, cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 120,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 100,
+   "name": "nuts, almonds, blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 169741,
+   "g": 90,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 172803,
+   "g": 11.5,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 8,
+   "fdc": 167976,
+   "g": 42,
+   "name": "candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ]
+}

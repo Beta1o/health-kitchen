@@ -1,0 +1,60 @@
+{
+ "id": 6459025,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken, broilers or fryers, breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 245,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

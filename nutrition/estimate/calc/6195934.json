@@ -1,0 +1,55 @@
+{
+ "id": 6195934,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171323,
+   "g": 4,
+   "name": "Spices, fennel seed"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 16,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "fresh oregano -> dried oregano at 1 g"
+}

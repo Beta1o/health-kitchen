@@ -1,0 +1,103 @@
+{
+ "id": 7719810,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 150,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 250,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 6.75,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2.5,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 32,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 10,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 175243,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 12,
+   "fdc": 175254,
+   "g": 240,
+   "name": "Lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 13,
+   "fdc": 174081,
+   "g": 260,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 14,
+   "fdc": 170886,
+   "g": 200,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 15,
+   "fdc": 171292,
+   "g": 75,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "mixed beans -> kidney beans rinsed; tinned green lentils -> boiled lentils with salt, 240 g drained"
+}

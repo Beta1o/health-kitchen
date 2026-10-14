@@ -1,0 +1,37 @@
+{
+ "id": 9615018,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 255,
+   "name": "quinoa uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170173,
+   "g": 160,
+   "name": "lite coconut milk ~ 40% of canned"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 8,
+   "name": "cilantro"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice of 1 lime"
+  }
+ ],
+ "notes": "lite coconut milk modelled as 160 g canned coconut milk; sriracha without amount left out"
+}

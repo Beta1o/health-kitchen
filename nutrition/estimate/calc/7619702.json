@@ -1,0 +1,43 @@
+{
+ "id": 7619702,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173717,
+   "g": 200,
+   "name": "Fish, trout, rainbow, farmed, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 85,
+   "name": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169103,
+   "g": 2,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 173442,
+   "g": 30,
+   "name": "Sour cream, reduced fat"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Half-fat creme fraiche as reduced-fat sour cream."
+}

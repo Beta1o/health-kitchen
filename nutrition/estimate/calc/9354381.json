@@ -1,0 +1,73 @@
+{
+ "id": 9354381,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172461,
+   "g": 340,
+   "name": "tofu, silken, firm"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 120,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 10,
+   "name": "yeast, baker's, active dry (proxy for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.13,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 90,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 283,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  }
+ ],
+ "notes": "Three handfuls of spinach taken as 90 g; nutritional yeast mapped to active dry yeast. Garnishes left out."
+}

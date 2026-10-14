@@ -1,0 +1,67 @@
+{
+ "id": 6207672,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175250,
+   "g": 480,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 300,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 119,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 50,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 169249,
+   "g": 180,
+   "name": "Lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Low-sodium chickpeas ~240 g per can drained. Reduced-fat feta -> regular feta. Baby greens -> green leaf lettuce, 30 g/cup."
+}

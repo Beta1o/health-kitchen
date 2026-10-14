@@ -1,0 +1,38 @@
+{
+ "id": 6494336,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168568,
+   "g": 454,
+   "name": "carrots, baby, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 20,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "honey (first option) used"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 9214034,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 168546,
+   "g": 260,
+   "name": "peppers, sweet, red, canned (roasted red peppers)"
+  },
+  {
+   "line": 3,
+   "fdc": 171583,
+   "g": 240,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 15,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Roasted red peppers (12 oz jar) as ~260 g canned red peppers; nutritional yeast as active dry yeast; vegan parmesan/hot oil toppings left out."
+}

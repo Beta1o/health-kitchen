@@ -1,0 +1,30 @@
+{
+ "id": 6931030,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172346,
+   "g": 14,
+   "name": "margarine, stick, with salt"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 11.7,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 163,
+   "name": "milk, nonfat"
+  }
+ ]
+}

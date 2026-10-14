@@ -1,0 +1,68 @@
+{
+ "id": 6456614,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 454,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 360,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 4,
+   "fdc": 170675,
+   "g": 9,
+   "name": "sugar substitute granulated brown",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "thyme dried"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay leaf"
+  },
+  {
+   "line": 8,
+   "fdc": 170379,
+   "g": 170,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169986,
+   "g": 170,
+   "name": "cauliflower raw"
+  }
+ ],
+ "notes": "low-calorie brown sugar substitute: granulated brown substitute, 3 tbsp guessed at 9 g; Dijon as prepared mustard"
+}

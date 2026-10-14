@@ -1,0 +1,42 @@
+{
+ "id": 6103875,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 169242,
+   "g": 227,
+   "name": "shiitake"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 168421,
+   "g": 240,
+   "name": "kale, 8 cups"
+  }
+ ]
+}

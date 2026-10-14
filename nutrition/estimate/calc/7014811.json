@@ -1,0 +1,103 @@
+{
+ "id": 7014811,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 400,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 2,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169961,
+   "g": 150,
+   "name": "green beans raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric"
+  },
+  {
+   "line": 9,
+   "fdc": 169096,
+   "g": 25,
+   "name": "green olives"
+  },
+  {
+   "line": 10,
+   "fdc": 173941,
+   "g": 75,
+   "name": "apricots dried"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 11,
+   "fdc": 167749,
+   "g": 3,
+   "name": "lemon peel"
+  },
+  {
+   "line": 12,
+   "fdc": 173475,
+   "g": 4,
+   "name": "spearmint fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 172884,
+   "g": 200,
+   "name": "stock home-prepared (low sodium)"
+  },
+  {
+   "line": 14,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Cinnamon sticks mostly removed: counted as 2 g ground cinnamon."
+}

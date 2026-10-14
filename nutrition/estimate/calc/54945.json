@@ -1,0 +1,43 @@
+{
+ "id": 54945,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171477,
+   "g": 85,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 168429,
+   "g": 110,
+   "name": "lettuce, butterhead"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 83,
+   "name": "strawberries raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169124,
+   "g": 41,
+   "name": "pineapple raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168184,
+   "g": 50,
+   "name": "mandarin oranges, canned, juice pack, drained"
+  },
+  {
+   "line": 5,
+   "fdc": 171045,
+   "g": 22,
+   "name": "salad dressing, caesar, fat-free"
+  }
+ ],
+ "notes": "Sugar-free poppyseed dressing approximated with fat-free caesar dressing."
+}

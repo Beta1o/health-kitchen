@@ -1,0 +1,55 @@
+{
+ "id": 9582665,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175254,
+   "g": 260,
+   "name": "lentils, boiled, with salt"
+  },
+  {
+   "line": 1,
+   "fdc": 170187,
+   "g": 100,
+   "name": "walnuts, english"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 56,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 120,
+   "name": "lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Servings '4-6' taken as 4; canned lentils -> boiled with salt, ~260 g; lettuce leaves guessed 120 g."
+}

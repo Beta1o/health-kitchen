@@ -1,0 +1,48 @@
+{
+ "id": 7805746,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw (lime zest)"
+  },
+  {
+   "line": 2,
+   "fdc": 175167,
+   "g": 200,
+   "name": "salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169736,
+   "g": 150,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 4,
+   "fdc": 170010,
+   "g": 100,
+   "name": "peas, edible-podded, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes, red, ripe, raw"
+  }
+ ]
+}

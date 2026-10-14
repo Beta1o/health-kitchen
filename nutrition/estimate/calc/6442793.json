@@ -1,0 +1,73 @@
+{
+ "id": 6442793,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170383,
+   "g": 680,
+   "name": "brussels sprouts raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168434,
+   "g": 227,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170872,
+   "g": 15,
+   "name": "milk 1%"
+  },
+  {
+   "line": 9,
+   "fdc": 170900,
+   "g": 28,
+   "name": "mozzarella, part-skim, shredded"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 31,
+   "name": "greek yogurt nonfat plain"
+  }
+ ],
+ "notes": "Italian seasoning approximated with dried oregano."
+}

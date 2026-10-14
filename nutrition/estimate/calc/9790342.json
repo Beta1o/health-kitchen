@@ -1,0 +1,44 @@
+{
+ "id": 9790342,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 350,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 64,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 60,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 6.8,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch (tapioca starch)"
+  }
+ ],
+ "notes": "Liquid smoke left out (no SR entry, negligible); reserved marinade not counted twice."
+}

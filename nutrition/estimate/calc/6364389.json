@@ -1,0 +1,42 @@
+{
+ "id": 6364389,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 340,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 120,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 124,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171477,
+   "g": 140,
+   "name": "chicken breast, roasted"
+  },
+  {
+   "line": 4,
+   "fdc": 170562,
+   "g": 36,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 5,
+   "fdc": 173593,
+   "g": 90,
+   "name": "ranch dressing, reduced fat"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": 6077307,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168784,
+   "g": 28,
+   "name": "pudding, vanilla, instant dry mix"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 488,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 167687,
+   "g": 227,
+   "name": "whipped topping, low fat",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 167755,
+   "g": 308,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171711,
+   "g": 370,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167762,
+   "g": 249,
+   "name": "strawberries, raw"
+  }
+ ],
+ "notes": "sugar-free pudding mix: regular vanilla instant mix entry used, not flagged as added sugar (overstates sugar); light whipped topping as low-fat whipped topping"
+}

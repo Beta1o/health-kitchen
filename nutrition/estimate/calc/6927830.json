@@ -1,0 +1,73 @@
+{
+ "id": 6927830,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174916,
+   "g": 64,
+   "name": "bread, pita, whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 1,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173462,
+   "g": 63,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168114,
+   "g": 56,
+   "name": "cottage cheese, 1%, no sodium added"
+  },
+  {
+   "line": 5,
+   "fdc": 169384,
+   "g": 14,
+   "name": "tomatoes, sun-dried, packed in oil, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "basil, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171244,
+   "g": 14,
+   "name": "mozzarella, low moisture, part-skim"
+  }
+ ],
+ "notes": "'1 oz cooking spray' read as a light coat (1 g oil), not 28 g."
+}

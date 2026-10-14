@@ -1,0 +1,43 @@
+{
+ "id": 6631665,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174289,
+   "g": 308,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 298,
+   "name": "grape tomatoes"
+  },
+  {
+   "line": 2,
+   "fdc": 170010,
+   "g": 189,
+   "name": "sugar snap peas"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 213,
+   "name": "broccoli florets"
+  },
+  {
+   "line": 4,
+   "fdc": 169225,
+   "g": 180,
+   "name": "cucumber peeled"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 238,
+   "name": "red bell pepper"
+  }
+ ],
+ "notes": "Red pepper hummus as plain commercial hummus. Grape tomatoes 1 pint = 298 g; snap peas whole 63 g/cup; florets 71 g/cup."
+}

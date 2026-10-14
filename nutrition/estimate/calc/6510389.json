@@ -1,0 +1,42 @@
+{
+ "id": 6510389,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 92,
+   "name": "greek yogurt, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 171247,
+   "g": 25,
+   "name": "parmesan"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 6,
+   "name": "green onions"
+  }
+ ]
+}

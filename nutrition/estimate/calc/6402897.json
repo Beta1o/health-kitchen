@@ -1,0 +1,60 @@
+{
+ "id": 6402897,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "coriander"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "dried oregano"
+  },
+  {
+   "line": 6,
+   "fdc": 168726,
+   "g": 680,
+   "name": "sirloin steak"
+  },
+  {
+   "line": 7,
+   "fdc": 171688,
+   "g": 894,
+   "name": "small red apples, 6"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 0.3,
+   "name": "cinnamon"
+  }
+ ]
+}

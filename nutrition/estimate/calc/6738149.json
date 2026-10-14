@@ -1,0 +1,73 @@
+{
+ "id": 6738149,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175238,
+   "g": 390,
+   "name": "beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 168482,
+   "g": 360,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 30.0, 'calories': 86.0, 'carbohydrates_g': 20.12, 'cholesterol_mg': 0.0, 'fat_g': 0.05, 'fiber_g': 3.0, 'phosphorus_mg': 47.0, 'potassium_mg': 337.0, 'protein_g': 1.57, 'sodium_mg': 55.0, 'sugars_g': 4.18}\n"
+  },
+  {
+   "line": 6,
+   "fdc": 171609,
+   "g": 720,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 7,
+   "fdc": 170173,
+   "g": 80,
+   "name": "nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 397,
+   "name": "tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 10,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  }
+ ],
+ "notes": "22 oz black beans taken as can net weight, ~390 g drained; lite coconut milk (198 g) counted as 80 g regular canned coconut milk (rest water)."
+}

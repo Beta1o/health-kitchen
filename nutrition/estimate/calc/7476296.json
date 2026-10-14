@@ -1,0 +1,37 @@
+{
+ "id": 7476296,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171447,
+   "g": 1360,
+   "name": "chicken, broilers, meat and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167746,
+   "g": 58,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 2,
+   "fdc": 173473,
+   "g": 5,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173470,
+   "g": 5,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "2 kg whole chicken -> ~1360 g meat and skin (68% edible); skin assumed eaten; lemon is stuffing, counted"
+}

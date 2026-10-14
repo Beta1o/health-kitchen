@@ -1,0 +1,73 @@
+{
+ "id": 9957667,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 64,
+   "name": "celery"
+  },
+  {
+   "line": 3,
+   "fdc": 169295,
+   "g": 907,
+   "name": "butternut"
+  },
+  {
+   "line": 4,
+   "fdc": 170026,
+   "g": 454,
+   "name": "potato"
+  },
+  {
+   "line": 5,
+   "fdc": 168203,
+   "g": 200,
+   "name": "gsmith"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 1200,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 7,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "nutmeg"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "gingerg"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cin"
+  },
+  {
+   "line": 10,
+   "fdc": 174832,
+   "g": 240,
+   "name": "cashew milk as unsweetened almond milk"
+  }
+ ],
+ "notes": "Cashew milk mapped to unsweetened almond milk. Cashew cream garnish no item. 5 cups low-sodium broth as home-prepared stock (likely overstates kcal/protein)."
+}

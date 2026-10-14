@@ -1,0 +1,72 @@
+{
+ "id": 6510951,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171333,
+   "g": 1.2,
+   "name": "rosemary dried"
+  },
+  {
+   "line": 1,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 480,
+   "name": "chicken stock home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 216,
+   "name": "carrots (3 large)"
+  },
+  {
+   "line": 10,
+   "fdc": 170026,
+   "g": 340,
+   "name": "potatoes (fingerling)"
+  }
+ ]
+}

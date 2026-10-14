@@ -1,0 +1,73 @@
+{
+ "id": 6844655,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172183,
+   "g": 198,
+   "name": "egg, white, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 81,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 9,
+   "fdc": 170896,
+   "g": 126,
+   "name": "cheese spread, reduced fat"
+  }
+ ],
+ "notes": "asparagus bunch ~340 g trimmed; Laughing Cow Light wedges as reduced-fat cheese spread, 21 g each"
+}

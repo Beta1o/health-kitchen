@@ -1,0 +1,116 @@
+{
+ "id": 6406409,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 121.5,
+   "name": "oats, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 169741,
+   "g": 104,
+   "name": "oat flour"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 60,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 4,
+   "fdc": 170675,
+   "g": 12,
+   "name": "sweetener, sugar substitute, granulated, brown"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 6,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "baking soda"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 171723,
+   "g": 60,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 170567,
+   "g": 46,
+   "name": "nuts, almonds"
+  },
+  {
+   "line": 11,
+   "fdc": 170874,
+   "g": 327,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 12,
+   "fdc": 170894,
+   "g": 122,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 13,
+   "fdc": 172336,
+   "g": 54.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 14,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 16,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 17,
+   "fdc": 169414,
+   "g": 14,
+   "name": "seeds, flaxseed"
+  }
+ ],
+ "notes": "low-calorie brown sugar substitute as granulated brown sugar substitute at 12 g per 1/4 cup (uncertain product); almond extract as vanilla extract; coarse salt 1/2 tsp ~2.4 g"
+}

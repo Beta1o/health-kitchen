@@ -1,0 +1,67 @@
+{
+ "id": 6912355,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 200,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169096,
+   "g": 32,
+   "name": "Olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 173417,
+   "g": 452,
+   "name": "Cheese, cottage, lowfat, 1% milkfat"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Kalamata olives -> pickled olives; low-fat cottage cheese -> 1% milkfat"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6914849,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173470,
+   "g": 2,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod, atlantic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168576,
+   "g": 7,
+   "name": "jalapeno, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167746,
+   "g": 100,
+   "name": "lemons, raw (sliced, peel on)"
+  },
+  {
+   "line": 7,
+   "fdc": 169097,
+   "g": 140,
+   "name": "oranges, raw (sliced, peel on)"
+  },
+  {
+   "line": 8,
+   "fdc": 169385,
+   "g": 234,
+   "name": "fennel bulb, raw"
+  }
+ ],
+ "notes": "Lemon and orange slices with peel modeled with fruit entries."
+}

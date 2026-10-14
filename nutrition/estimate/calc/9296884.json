@@ -1,0 +1,55 @@
+{
+ "id": 9296884,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 642,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 172442,
+   "g": 17,
+   "name": "miso"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 20,
+   "name": "leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, mature seeds, canned"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth mapped to home-prepared stock per guide. Nutritional yeast (no SR entry) approximated by active dry yeast. Lemon juice taken as 1 tbsp. Cannellini drained+rinsed mapped to canned white beans (salted)."
+}

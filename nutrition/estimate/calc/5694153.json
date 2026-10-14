@@ -1,0 +1,25 @@
+{
+ "id": 5694153,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 400,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 100,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171279,
+   "g": 103,
+   "name": "human milk"
+  }
+ ],
+ "notes": "half butternut squash guessed at 400 g; milk as breast milk"
+}

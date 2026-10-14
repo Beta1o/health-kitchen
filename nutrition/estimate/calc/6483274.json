@@ -1,0 +1,48 @@
+{
+ "id": 6483274,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 238,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171016,
+   "g": 20.4,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 22.5,
+   "name": "vinegar, distilled (for rice vinegar)"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 42.7,
+   "name": "soy sauce, shoyu, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174290,
+   "g": 397,
+   "name": "tofu, extra firm, nigari"
+  }
+ ]
+}

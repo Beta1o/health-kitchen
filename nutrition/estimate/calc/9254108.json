@@ -1,0 +1,55 @@
+{
+ "id": 9254108,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 350,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 1,
+   "fdc": 174278,
+   "g": 36,
+   "name": "soy sauce (tamari)"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Rice vinegar as cider vinegar; optional salt included."
+}

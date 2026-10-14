@@ -1,0 +1,85 @@
+{
+ "id": 7194911,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 120,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168434,
+   "g": 300,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 183,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171816,
+   "g": 400,
+   "name": "beef top round, lean, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175204,
+   "g": 480,
+   "name": "beans, white, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 172883,
+   "g": 1000,
+   "name": "beef stock, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 171610,
+   "g": 17,
+   "name": "worcestershire"
+  },
+  {
+   "line": 10,
+   "fdc": 172790,
+   "g": 150,
+   "name": "puff pastry"
+  },
+  {
+   "line": 11,
+   "fdc": 172184,
+   "g": 17,
+   "name": "egg yolk"
+  },
+  {
+   "line": 12,
+   "fdc": 170406,
+   "g": 500,
+   "name": "collards, raw"
+  }
+ ],
+ "notes": "Stewing beef (fat removed) as lean top round; cannellini as canned white beans; reduced-fat puff pastry as regular puff pastry; spring greens as collards."
+}

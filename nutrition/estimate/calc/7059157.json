@@ -1,0 +1,31 @@
+{
+ "id": 7059157,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173941,
+   "g": 50,
+   "name": "Apricots, dried, sulfured, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 150,
+   "name": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 50,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 170554,
+   "g": 15,
+   "name": "Seeds, chia seeds, dried"
+  }
+ ],
+ "notes": "Orange or apple juice -> orange juice; chia or linseed -> chia."
+}

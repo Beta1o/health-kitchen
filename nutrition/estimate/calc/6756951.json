@@ -1,0 +1,79 @@
+{
+ "id": 6756951,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173462,
+   "g": 251,
+   "name": "egg substitute"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 174600,
+   "g": 46,
+   "name": "chicken breakfast sausage links (turkey breakfast link entry)"
+  },
+  {
+   "line": 4,
+   "fdc": 168114,
+   "g": 56,
+   "name": "cottage cheese 1%, no salt added"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onion"
+  },
+  {
+   "line": 6,
+   "fdc": 168434,
+   "g": 36,
+   "name": "cremini"
+  },
+  {
+   "line": 7,
+   "fdc": 168462,
+   "g": 30,
+   "name": "baby spinach"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 102,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 68,
+   "name": "avocado half"
+  },
+  {
+   "line": 10,
+   "fdc": 169994,
+   "g": 1,
+   "name": "chives"
+  },
+  {
+   "line": 11,
+   "fdc": 168156,
+   "g": 5,
+   "name": "lime juice"
+  }
+ ],
+ "notes": "Chicken sausage links mapped to turkey breakfast links, 23 g each."
+}

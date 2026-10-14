@@ -1,0 +1,67 @@
+{
+ "id": 6050475,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 1070,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 300,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 5,
+   "fdc": 170872,
+   "g": 854,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170848,
+   "g": 75,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 11,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "coarse salt 1/2 tsp ~2.4 g"
+}

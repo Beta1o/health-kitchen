@@ -1,0 +1,37 @@
+{
+ "id": 6270488,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170173,
+   "g": 25,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 1,
+   "fdc": 169124,
+   "g": 82,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 59,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 169414,
+   "g": 2.5,
+   "name": "Seeds, flaxseed"
+  }
+ ],
+ "notes": "Unsweetened coconut milk (carton beverage) approximated as 25 g canned coconut milk (similar calories/fat to 1/2 cup beverage)."
+}

@@ -1,0 +1,105 @@
+{
+ "id": 7393623,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 150,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 68,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 3,
+   "fdc": 168165,
+   "g": 90,
+   "name": "raisins"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 45,
+   "name": "sugar granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171688,
+   "g": 75,
+   "name": "apple raw with skin"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 50,
+   "name": "carrots raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170562,
+   "g": 9,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 7,
+   "fdc": 171315,
+   "g": 2.5,
+   "name": "allspice (mixed spice)"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 90,
+   "name": "apple raw with skin"
+  },
+  {
+   "line": 9,
+   "fdc": 169118,
+   "g": 89,
+   "name": "pear raw"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 2,
+   "name": "lemon juice"
+  },
+  {
+   "line": 11,
+   "fdc": 173021,
+   "g": 50,
+   "name": "fig raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170187,
+   "g": 6,
+   "name": "walnuts"
+  },
+  {
+   "line": 13,
+   "fdc": 167766,
+   "g": 15,
+   "name": "maraschino (glace) cherries",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 170567,
+   "g": 3.5,
+   "name": "almonds"
+  },
+  {
+   "line": 15,
+   "fdc": 169103,
+   "g": 1,
+   "name": "orange peel"
+  }
+ ],
+ "notes": "No USDA mincemeat: 150 g vegetarian mincemeat split as 90 g raisins + 45 g sugar (suet/fat ignored). Mixed spice as allspice."
+}

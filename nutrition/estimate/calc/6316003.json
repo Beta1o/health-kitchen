@@ -1,0 +1,85 @@
+{
+ "id": 6316003,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169298,
+   "g": 1600,
+   "name": "squash, winter, spaghetti, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173880,
+   "g": 170,
+   "name": "sausage, chicken or turkey, Italian style, lower sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "wheat flour, white, all-purpose, enriched"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 490,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 170900,
+   "g": 56,
+   "name": "cheese, mozzarella, part-skim, shredded"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 25,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "5 lb squash taken as 1600 g flesh; optional 1 tsp salt included"
+}

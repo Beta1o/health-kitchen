@@ -1,0 +1,85 @@
+{
+ "id": 9719129,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173760,
+   "g": 255,
+   "name": "cowpeas (black-eyed), canned"
+  },
+  {
+   "line": 1,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans canned"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 120,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 124,
+   "name": "roma tomatoes"
+  },
+  {
+   "line": 4,
+   "fdc": 168398,
+   "g": 136,
+   "name": "corn frozen"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 53,
+   "name": "red onion"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 14,
+   "name": "jalapeno"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 8,
+   "name": "cilantro"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 10,
+   "fdc": 172241,
+   "g": 32,
+   "name": "balsamic vinegar"
+  },
+  {
+   "line": 11,
+   "fdc": 169661,
+   "g": 30,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  }
+ ]
+}

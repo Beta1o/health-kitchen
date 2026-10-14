@@ -1,0 +1,73 @@
+{
+ "id": 6694475,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168398,
+   "g": 145,
+   "name": "corn, sweet, yellow, frozen, kernels, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 168893,
+   "g": 60,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Zucchini weight raw before squeezing (water loss only)."
+}

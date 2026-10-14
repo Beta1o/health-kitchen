@@ -1,0 +1,37 @@
+{
+ "id": 6426164,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 140,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169079,
+   "g": 174,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 3,
+   "fdc": 174605,
+   "g": 85,
+   "name": "Sausage, chicken, beef, pork, skinless, smoked"
+  },
+  {
+   "line": 4,
+   "fdc": 174592,
+   "g": 150,
+   "name": "Bacon, turkey, unprepared"
+  }
+ ],
+ "notes": "andouille chicken sausage -> smoked chicken/beef/pork sausage; turkey bacon slice ~15 g"
+}

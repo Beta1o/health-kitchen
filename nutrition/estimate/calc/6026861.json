@@ -1,0 +1,79 @@
+{
+ "id": 6026861,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 94,
+   "name": "lettuce, romaine"
+  },
+  {
+   "line": 1,
+   "fdc": 169961,
+   "g": 110,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 134,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170016,
+   "g": 134,
+   "name": "peas, frozen"
+  },
+  {
+   "line": 4,
+   "fdc": 170010,
+   "g": 98,
+   "name": "peas, edible-podded"
+  },
+  {
+   "line": 5,
+   "fdc": 172241,
+   "g": 64,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 75,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169094,
+   "g": 8,
+   "name": "olives, ripe"
+  },
+  {
+   "line": 12,
+   "fdc": 169655,
+   "g": 2,
+   "name": "sugar",
+   "added_sugar": true
+  }
+ ]
+}

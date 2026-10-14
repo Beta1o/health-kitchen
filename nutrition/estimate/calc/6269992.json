@@ -1,0 +1,85 @@
+{
+ "id": 6269992,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 2,
+   "fdc": 173791,
+   "g": 255,
+   "name": "great northern beans, canned, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 112,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 8,
+   "name": "green onion raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 8,
+   "name": "coriander leaves (cilantro), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 0.8,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  }
+ ],
+ "notes": "No-salt-added navy/great northern beans as low-sodium canned great northern beans; lime wedges counted as 30 g juice."
+}

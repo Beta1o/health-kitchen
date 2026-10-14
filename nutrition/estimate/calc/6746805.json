@@ -1,0 +1,97 @@
+{
+ "id": 6746805,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171689,
+   "g": 900,
+   "name": "apples peeled, 6 x 150 g"
+  },
+  {
+   "line": 1,
+   "fdc": 171722,
+   "g": 100,
+   "name": "cranberries raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170684,
+   "g": 8,
+   "name": "arrowroot flour"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange zest"
+  },
+  {
+   "line": 6,
+   "fdc": 170568,
+   "g": 96,
+   "name": "almond flour -> blanched almonds"
+  },
+  {
+   "line": 7,
+   "fdc": 173904,
+   "g": 162,
+   "name": "oats dry"
+  },
+  {
+   "line": 8,
+   "fdc": 168893,
+   "g": 60,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 9,
+   "fdc": 170556,
+   "g": 32,
+   "name": "pumpkin seeds"
+  },
+  {
+   "line": 10,
+   "fdc": 170567,
+   "g": 23,
+   "name": "almonds sliced"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 12,
+   "fdc": 172336,
+   "g": 27,
+   "name": "canola oil"
+  },
+  {
+   "line": 13,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 14,
+   "fdc": 169661,
+   "g": 107,
+   "name": "maple syrup",
+   "added_sugar": true
+  }
+ ]
+}

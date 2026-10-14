@@ -1,0 +1,37 @@
+{
+ "id": 6396043,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170675,
+   "g": 3,
+   "name": "sweetener, sugar substitute, granulated, brown"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 168421,
+   "g": 454,
+   "name": "kale, raw"
+  }
+ ],
+ "notes": "brown sugar substitute as granulated brown sugar substitute ~3 g"
+}

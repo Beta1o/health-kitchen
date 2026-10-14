@@ -1,0 +1,73 @@
+{
+ "id": 6169737,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 480,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 169225,
+   "g": 250,
+   "name": "Cucumber, peeled, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 298,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173420,
+   "g": 75,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 60,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 172234,
+   "g": 7.5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 10,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  }
+ ],
+ "notes": "reduced-fat feta -> regular feta; Dijon -> prepared mustard"
+}

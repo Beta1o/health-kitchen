@@ -1,0 +1,49 @@
+{
+ "id": 6265858,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 567,
+   "name": "green beans, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170581,
+   "g": 21,
+   "name": "hazelnuts"
+  },
+  {
+   "line": 3,
+   "fdc": 171723,
+   "g": 20,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  }
+ ]
+}

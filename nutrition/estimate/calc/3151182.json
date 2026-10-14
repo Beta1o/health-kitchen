@@ -1,0 +1,55 @@
+{
+ "id": 3151182,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 350,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 1,
+   "fdc": 175041,
+   "g": 3,
+   "name": "cream of tartar"
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 173430,
+   "g": 50,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 173414,
+   "g": 100,
+   "name": "cheese, cheddar"
+  },
+  {
+   "line": 5,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "sage, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175218,
+   "g": 255,
+   "name": "soymilk, plain"
+  }
+ ],
+ "notes": "Organic soya milk as plain soymilk (SILK plain, slightly sweetened)."
+}

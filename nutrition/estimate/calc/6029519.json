@@ -1,0 +1,67 @@
+{
+ "id": 6029519,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171477,
+   "g": 340,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 2,
+   "fdc": 169287,
+   "g": 255,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171292,
+   "g": 75,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 8,
+   "fdc": 175036,
+   "g": 312,
+   "name": "tortillas, corn"
+  },
+  {
+   "line": 9,
+   "fdc": 171824,
+   "g": 180,
+   "name": "salsa verde (green enchilada sauce)"
+  }
+ ],
+ "notes": "Green enchilada sauce as salsa verde."
+}

@@ -1,0 +1,80 @@
+{
+ "id": 9291733,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169977,
+   "g": 907,
+   "name": "cabbage, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170556,
+   "g": 129,
+   "name": "pumpkin seed kernels (vegan mayo)"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar (vegan mayo)"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice (vegan mayo)"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard (vegan mayo)"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder (vegan mayo)"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (vegan mayo)"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 30,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 22.5,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "1 cup oil-free vegan mayo modelled as the site's pumpkin-seed mayo recipe (1 batch = about 1 cup)."
+}

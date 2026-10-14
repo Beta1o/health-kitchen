@@ -1,0 +1,49 @@
+{
+ "id": 6288136,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 175176,
+   "g": 454,
+   "name": "fish, tilapia, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 75,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169096,
+   "g": 50,
+   "name": "olives, green, pickled"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 0.3,
+   "name": "oregano, dried (for fresh)"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Tilapia 4 fillets assumed 4 oz raw each."
+}

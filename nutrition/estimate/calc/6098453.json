@@ -1,0 +1,31 @@
+{
+ "id": 6098453,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 171711,
+   "g": 55,
+   "name": "blueberries"
+  },
+  {
+   "line": 1,
+   "fdc": 167755,
+   "g": 53,
+   "name": "raspberries raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170554,
+   "g": 24,
+   "name": "chia seeds"
+  }
+ ],
+ "notes": "Mixed berries split blueberries/raspberries."
+}

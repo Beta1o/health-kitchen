@@ -1,0 +1,31 @@
+{
+ "id": 6499683,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172684,
+   "g": 128,
+   "name": "bread, rye"
+  },
+  {
+   "line": 1,
+   "fdc": 169276,
+   "g": 9,
+   "name": "radishes, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169994,
+   "g": 12,
+   "name": "chives, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171248,
+   "g": 227,
+   "name": "ricotta, part skim"
+  }
+ ],
+ "notes": "reduced-fat ricotta as part-skim ricotta"
+}

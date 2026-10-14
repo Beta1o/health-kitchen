@@ -1,0 +1,39 @@
+{
+ "id": 9106033,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170187,
+   "g": 256,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 73,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  }
+ ],
+ "notes": "walnut butter as walnuts"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 7953493,
+ "servings": 4,
+ "items": [
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 20,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 15,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 175254,
+   "g": 240,
+   "name": "lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 80,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 8,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168409,
+   "g": 100,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169247,
+   "g": 80,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 204,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "Sumac (1 heaped tsp) has no SR entry, left out; canned lentils as boiled lentils with salt; little gem heart as 80 g romaine; pepper without amount left out."
+}

@@ -1,0 +1,97 @@
+{
+ "id": 6139340,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 400,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 32,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 169291,
+   "g": 784,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 171192,
+   "g": 250,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve"
+  },
+  {
+   "line": 14,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "Parmesan amount '1/4' read as 1/4 cup grated. Almond flour entered as blanched almonds. No-sugar-added marinara entered as regular marinara."
+}

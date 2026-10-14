@@ -1,0 +1,73 @@
+{
+ "id": 7639641,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 260,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 150,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170377,
+   "g": 50,
+   "name": "broadbeans, immature seeds, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 50,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 150,
+   "name": "spring onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168558,
+   "g": 36,
+   "name": "pickles, dill"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 50,
+   "name": "greek yogurt, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 173594,
+   "g": 15,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 9,
+   "fdc": 172234,
+   "g": 6,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "2 sweet potatoes ~260 g; 9 cornichons ~36 g"
+}

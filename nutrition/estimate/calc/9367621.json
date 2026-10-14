@@ -1,0 +1,67 @@
+{
+ "id": 9367621,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 1680,
+   "name": "low sodium broth 7 cups"
+  },
+  {
+   "line": 4,
+   "fdc": 172428,
+   "g": 196,
+   "name": "split"
+  },
+  {
+   "line": 5,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentil"
+  },
+  {
+   "line": 6,
+   "fdc": 170016,
+   "g": 67,
+   "name": "peasfz"
+  },
+  {
+   "line": 7,
+   "fdc": 168398,
+   "g": 68,
+   "name": "cornfz"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garp"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  }
+ ],
+ "notes": "Broth 6-8 cups: midpoint 7, as home-prepared stock (likely overstates kcal/protein)."
+}

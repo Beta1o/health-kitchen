@@ -1,0 +1,24 @@
+{
+ "id": 6999413,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 175159,
+   "g": 454,
+   "name": "ahi (yellowfin) tuna"
+  },
+  {
+   "line": 2,
+   "fdc": 171580,
+   "g": 64,
+   "name": "jarred pesto"
+  }
+ ]
+}

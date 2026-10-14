@@ -1,0 +1,30 @@
+{
+ "id": 6092225,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168410,
+   "g": 310,
+   "name": "edamame, frozen, shelled"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "black pepper"
+  }
+ ]
+}

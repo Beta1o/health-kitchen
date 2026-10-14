@@ -1,0 +1,61 @@
+{
+ "id": 6421780,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 32,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168464,
+   "g": 196,
+   "name": "squash, summer, crookneck, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174081,
+   "g": 248,
+   "name": "tortillas, whole wheat"
+  },
+  {
+   "line": 7,
+   "fdc": 174289,
+   "g": 123,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 4,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Low-carb 10-inch tortillas as regular whole wheat tortillas (62 g each); real low-carb product has less carbohydrate."
+}

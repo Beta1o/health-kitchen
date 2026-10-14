@@ -1,0 +1,31 @@
+{
+ "id": 6315562,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 1,
+   "fdc": 168421,
+   "g": 170,
+   "name": "kale raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 171316,
+   "g": 0.5,
+   "name": "anise seed (for five-spice)"
+  }
+ ],
+ "notes": "bunch kale assumed 170 g trimmed; five-spice via anise seed"
+}

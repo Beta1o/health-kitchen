@@ -1,0 +1,49 @@
+{
+ "id": 6566186,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 227,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 58,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170054,
+   "g": 64,
+   "name": "Tomato products, canned, sauce"
+  },
+  {
+   "line": 4,
+   "fdc": 174081,
+   "g": 98,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 5,
+   "fdc": 169248,
+   "g": 18,
+   "name": "Lettuce, iceberg (includes crisphead types), raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 90,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "no-sugar-added barbecue sauce -> canned tomato sauce stand-in; 8-inch whole wheat tortillas ~49 g each"
+}

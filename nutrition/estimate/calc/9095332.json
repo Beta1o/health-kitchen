@@ -1,0 +1,30 @@
+{
+ "id": 9095332,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170150,
+   "g": 6,
+   "name": "sesame seeds, whole, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ]
+}

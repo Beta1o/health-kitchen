@@ -1,0 +1,49 @@
+{
+ "id": 7859226,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 125,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 90,
+   "name": "Leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174254,
+   "g": 130,
+   "name": "Lima beans, large, mature seeds, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 1,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 171256,
+   "g": 15,
+   "name": "Cream, sour, reduced fat, cultured"
+  },
+  {
+   "line": 4,
+   "fdc": 171583,
+   "g": 15,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Butter beans as canned large lima beans (130 g drained); reduced-fat creme fraiche as reduced-fat sour cream."
+}

@@ -6,6 +6,16 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 ### Open
 - Owner decisions: full GI database search public or admin-only until the University of Sydney replies; keep or reword the "without it / with half" numbers; staging before release. Details and owner tasks in CHATLOG.md, "Pick up here".
 
+## [0.8.0] - 2026-10-15
+Diet types and nutrients filled for every recipe the numbers allow.
+### Added
+- Missing potassium, phosphorus, calcium, cholesterol and added sugar estimated from the ingredient list (USDA SR Legacy, `nutrition/estimate/`), for 1,692 recipes. An estimate is used only when the calculation reproduces the publisher's calories and protein or carbohydrate within 25%, never replaces a published number, and is marked "≈" with a note in the nutrition table (9 languages). Checked blind on 1,029 ADA recipes that publish potassium: 83% within 30%, median +2%. Recipes with salt substitutes or sodium-free stock (potassium chloride) get no potassium estimate; nutrients USDA lacks for more than 10% of the recipe's weight are not estimated.
+- Diet-type tags from each recipe's own nutrition, with the same rules for every source (`diet_tags.py`): Lower/Higher Potassium, Lower Protein, CKD non-dialysis, Dialysis, Diabetes. CKD and dialysis limits were set against the tags DaVita and AAKP dietitians gave their recipes (83% and 94% agreement). Estimated values must clear a limit by 15%. Publisher tags are kept; those the published numbers contradict are listed in `diet_tags_report.json` for a dietitian.
+- Cooking method read from the steps for 1,089 recipes whose publisher gives none.
+### Changed
+- Kidney meal plans: a "Lower Protein" tag alone qualifies a recipe for CKD menus only when potassium and phosphorus are known and within the CKD limits.
+- Recipes with known potassium and phosphorus: 1,532 → 3,214 of 3,865. "Heart Healthy" stays a publisher tag (no numeric rule reproduced it; the Heart-healthy quick pick filters by the numbers).
+
 ## [0.7.0] - 2026-10-10
 Safety review (an "LLM council" of five independent reviews, peer review and a chairman's verdict).
 ### Changed

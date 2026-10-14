@@ -1,0 +1,48 @@
+{
+ "id": 6089365,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 454,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 174928,
+   "g": 54,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 3,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

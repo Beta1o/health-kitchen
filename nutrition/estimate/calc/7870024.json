@@ -1,0 +1,60 @@
+{
+ "id": 7870024,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 600,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170026,
+   "g": 500,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 4,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 90,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 174536,
+   "g": 200,
+   "name": "Soup, chicken broth, ready-to-serve"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

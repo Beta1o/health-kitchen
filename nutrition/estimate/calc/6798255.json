@@ -1,0 +1,78 @@
+{
+ "id": 6798255,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175238,
+   "g": 510,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 168398,
+   "g": 204,
+   "name": "corn, yellow, frozen kernels, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 112,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 27.5,
+   "name": "onion, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 60,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  }
+ ]
+}

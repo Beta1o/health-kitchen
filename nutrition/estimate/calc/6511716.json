@@ -1,0 +1,61 @@
+{
+ "id": 6511716,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169999,
+   "g": 320,
+   "name": "corn, sweet, yellow, cooked, boiled, without salt (kernels of 4 ears)"
+  },
+  {
+   "line": 5,
+   "fdc": 175188,
+   "g": 255,
+   "name": "beans, black, canned, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Kernels from 4 medium ears taken as 80 g each. Regular (salted) canned black beans assumed."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 6562343,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168434,
+   "g": 454,
+   "name": "cremini mushrooms"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "fresh thyme"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "coarse salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Optional salt, pepper, lemon juice included (amounts given)."
+}

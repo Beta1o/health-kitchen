@@ -1,0 +1,85 @@
+{
+ "id": 7034454,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168165,
+   "g": 350,
+   "name": "raisins"
+  },
+  {
+   "line": 1,
+   "fdc": 174665,
+   "g": 25,
+   "name": "figs dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171315,
+   "g": 1.9,
+   "name": "allspice (mixed spice)"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "ginger ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171321,
+   "g": 0.3,
+   "name": "cloves ground"
+  },
+  {
+   "line": 7,
+   "fdc": 173944,
+   "g": 150,
+   "name": "banana"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apple raw with skin"
+  },
+  {
+   "line": 9,
+   "fdc": 173904,
+   "g": 75,
+   "name": "oats"
+  },
+  {
+   "line": 10,
+   "fdc": 170568,
+   "g": 60,
+   "name": "almonds blanched"
+  },
+  {
+   "line": 11,
+   "fdc": 170562,
+   "g": 25,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 12,
+   "fdc": 169103,
+   "g": 4,
+   "name": "orange peel"
+  },
+  {
+   "line": 13,
+   "fdc": 171025,
+   "g": 9,
+   "name": "oil, sunflower"
+  }
+ ],
+ "notes": "Mixed vine fruits as raisins; fine oatmeal as oats; mixed spice as allspice; oil for oiling counted in full."
+}

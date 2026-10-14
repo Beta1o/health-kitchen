@@ -1,0 +1,37 @@
+{
+ "id": 7614740,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 450,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168454,
+   "g": 450,
+   "name": "rutabagas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171038,
+   "g": 25,
+   "name": "margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin d"
+  },
+  {
+   "line": 3,
+   "fdc": 171833,
+   "g": 30,
+   "name": "sauce, horseradish"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Vegetable oil spread as 60% fat spread with salt; creamed horseradish as horseradish sauce."
+}

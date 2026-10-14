@@ -1,0 +1,61 @@
+{
+ "id": 6944484,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169298,
+   "g": 640,
+   "name": "squash, winter, spaghetti, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 868,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 25,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 172232,
+   "g": 24,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 171247,
+   "g": 15,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "2 lb squash taken as 640 g flesh"
+}

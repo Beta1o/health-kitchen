@@ -1,0 +1,30 @@
+{
+ "id": 6884440,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169988,
+   "g": 160,
+   "name": "celery, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172207,
+   "g": 58,
+   "name": "cheese, cream, fat free"
+  },
+  {
+   "line": 2,
+   "fdc": 170556,
+   "g": 16,
+   "name": "seeds, pumpkin kernels, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170562,
+   "g": 17.5,
+   "name": "seeds, sunflower kernels, dried"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6226273,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 130,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170022,
+   "g": 90,
+   "name": "peppers, green, frozen"
+  },
+  {
+   "line": 2,
+   "fdc": 170410,
+   "g": 90,
+   "name": "onions, frozen, chopped"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172216,
+   "g": 28,
+   "name": "cheese, mexican blend, reduced fat"
+  },
+  {
+   "line": 5,
+   "fdc": 174524,
+   "g": 65,
+   "name": "salsa"
+  },
+  {
+   "line": 6,
+   "fdc": 169276,
+   "g": 77,
+   "name": "radishes, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 68,
+   "name": "tomatoes, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169247,
+   "g": 23.5,
+   "name": "lettuce, romaine, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173443,
+   "g": 30,
+   "name": "sour cream, light"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Pepper-and-onion blend split half peppers, half onions; cherry tomatoes 17 g each."
+}

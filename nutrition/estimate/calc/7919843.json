@@ -1,0 +1,62 @@
+{
+ "id": 7919843,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 500,
+   "name": "s Food Distribution Program)\",) {"
+  },
+  {
+   "line": 2,
+   "fdc": 168164,
+   "g": 25,
+   "name": "Raisins, golden, seedless"
+  },
+  {
+   "line": 3,
+   "fdc": 173941,
+   "g": 25,
+   "name": "Apricots, dried, sulfured, uncooked"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 170257,
+   "g": 1.5,
+   "added_sugar": true,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 7,
+   "fdc": 169103,
+   "g": 6,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172791,
+   "g": 105,
+   "name": "Phyllo dough"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 2.1,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ],
+ "notes": "Almond extract as vanilla extract; 3 filo sheets taken as 105 g; sultanas as golden raisins."
+}

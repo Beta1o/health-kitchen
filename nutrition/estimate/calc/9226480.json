@@ -1,0 +1,61 @@
+{
+ "id": 9226480,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, canned (cannellini)"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174278,
+   "g": 16,
+   "name": "soy sauce (tamari)"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 2.3,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.8,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 1,
+   "name": "chives"
+  },
+  {
+   "line": 9,
+   "fdc": 170150,
+   "g": 1,
+   "name": "everything bagel seasoning (as sesame)"
+  }
+ ],
+ "notes": "Chips/crackers to serve left out; cannellini as canned drained."
+}

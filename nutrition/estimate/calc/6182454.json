@@ -1,0 +1,61 @@
+{
+ "id": 6182454,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 3,
+   "fdc": 172442,
+   "g": 12,
+   "name": "miso"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169979,
+   "g": 304,
+   "name": "napa cabbage raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170010,
+   "g": 196,
+   "name": "snow peas raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171186,
+   "g": 17,
+   "name": "sriracha"
+  }
+ ],
+ "notes": "Instant miso soup powder (1 tbsp) approximated as 12 g miso paste; white fish as cod."
+}

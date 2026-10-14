@@ -1,0 +1,48 @@
+{
+ "id": 7468432,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170887,
+   "g": 500,
+   "name": "yogurt, plain, skim"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 1,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 2,
+   "fdc": 170184,
+   "g": 3,
+   "name": "pistachios, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 6,
+   "name": "almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 170919,
+   "g": 0.5,
+   "name": "cardamom"
+  },
+  {
+   "line": 5,
+   "fdc": 170934,
+   "g": 0.02,
+   "name": "saffron"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 15,
+   "name": "milk, nonfat"
+  }
+ ]
+}

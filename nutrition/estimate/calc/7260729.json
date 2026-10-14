@@ -1,0 +1,73 @@
+{
+ "id": 7260729,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170924,
+   "g": 5,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 174536,
+   "g": 300,
+   "name": "Soup, chicken broth, ready-to-serve"
+  },
+  {
+   "line": 4,
+   "fdc": 171481,
+   "g": 200,
+   "name": "Turkey, whole, meat only, cooked, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 173801,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 171304,
+   "g": 35,
+   "name": "Yogurt, Greek, plain, whole milk"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Curry paste has no SR entry: approximated as curry powder 5 g + oil 5 g + salt 0.5 g."
+}

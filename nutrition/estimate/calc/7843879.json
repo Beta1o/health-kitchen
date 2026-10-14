@@ -1,0 +1,49 @@
+{
+ "id": 7843879,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 350,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 22,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  }
+ ],
+ "notes": "Lime to serve counted as 15 g juice."
+}

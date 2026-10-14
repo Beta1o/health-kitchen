@@ -1,0 +1,61 @@
+{
+ "id": 6146820,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 160,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169888,
+   "g": 340,
+   "name": "Vegetarian meatloaf or patties"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 2,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 1.8,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 960,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 169738,
+   "g": 227,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 168421,
+   "g": 60,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 92,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "meatless ground beef crumbles as vegetarian meatloaf/patties; Italian seasoning as dried oregano"
+}

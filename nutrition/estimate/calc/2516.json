@@ -1,0 +1,34 @@
+{
+ "id": 2516,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174973,
+   "g": 340,
+   "name": "cookies, vanilla wafers, lower fat",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 169650,
+   "g": 198,
+   "name": "puddings, banana, dry mix, regular",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171942,
+   "g": 600,
+   "name": "rice milk, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170868,
+   "g": 227,
+   "name": "dessert topping, semi solid, frozen",
+   "added_sugar": true
+  }
+ ],
+ "notes": "sweet products (wafers, pudding mix, topping) flagged as added sugar"
+}

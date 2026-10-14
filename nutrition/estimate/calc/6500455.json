@@ -1,0 +1,43 @@
+{
+ "id": 6500455,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 2,
+   "fdc": 174267,
+   "g": 24,
+   "name": "peanut flour defatted (powdered PB)"
+  },
+  {
+   "line": 3,
+   "fdc": 170554,
+   "g": 40,
+   "name": "chia seeds"
+  },
+  {
+   "line": 4,
+   "fdc": 171269,
+   "g": 245,
+   "name": "skim milk"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "powdered peanut butter via defatted peanut flour; skim milk chosen"
+}

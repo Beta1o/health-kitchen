@@ -1,0 +1,66 @@
+{
+ "id": 6373845,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170688,
+   "g": 47,
+   "name": "bulgur dry"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 30,
+   "name": "spearmint fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 62,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 20,
+   "name": "oil canola"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onion raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.25,
+   "name": "cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 340,
+   "name": "cucumber with peel"
+  }
+ ]
+}

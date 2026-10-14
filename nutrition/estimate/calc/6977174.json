@@ -1,0 +1,67 @@
+{
+ "id": 6977174,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 160,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 227,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170284,
+   "g": 80,
+   "name": "Barley, pearled, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171609,
+   "g": 960,
+   "name": "Soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 171496,
+   "g": 284,
+   "name": "Turkey, whole, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Quick-cooking barley as pearled barley raw (~80 g for 1/2 cup)."
+}

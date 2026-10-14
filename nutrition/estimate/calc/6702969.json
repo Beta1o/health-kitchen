@@ -1,0 +1,87 @@
+{
+ "id": 6702969,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170872,
+   "g": 183,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 2,
+   "fdc": 172806,
+   "g": 80,
+   "name": "bread crumbs, dry, seasoned"
+  },
+  {
+   "line": 3,
+   "fdc": 170002,
+   "g": 3.3,
+   "name": "onions, dehydrated flakes"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170935,
+   "g": 0.35,
+   "name": "sage, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171323,
+   "g": 1,
+   "name": "fennel seed"
+  },
+  {
+   "line": 7,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172850,
+   "g": 907,
+   "name": "turkey, ground, 93% lean, raw (for 95%)"
+  },
+  {
+   "line": 9,
+   "fdc": 168556,
+   "g": 60,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 168833,
+   "g": 27.5,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 170929,
+   "g": 2,
+   "name": "mustard seed, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 171610,
+   "g": 2.8,
+   "name": "worcestershire sauce"
+  }
+ ],
+ "notes": "95% lean turkey modeled with 93% entry."
+}

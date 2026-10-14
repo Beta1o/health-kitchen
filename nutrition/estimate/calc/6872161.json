@@ -1,0 +1,92 @@
+{
+ "id": 6872161,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 7,
+   "name": "yeast, active dry"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 3.5,
+   "added_sugar": true,
+   "name": "honey"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 169745,
+   "g": 30,
+   "name": "spelt, uncooked"
+  },
+  {
+   "line": 7,
+   "fdc": 168893,
+   "g": 60,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 8,
+   "fdc": 169383,
+   "g": 186,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169387,
+   "g": 60,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 173420,
+   "g": 85,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 12,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "oil, olive"
+  },
+  {
+   "line": 13,
+   "fdc": 172241,
+   "g": 32,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 14,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Spelt flour as spelt grain, uncooked; reduced-fat feta as regular feta; dusting flour left out."
+}

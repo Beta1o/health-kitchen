@@ -1,0 +1,43 @@
+{
+ "id": 6719399,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171711,
+   "g": 148,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169928,
+   "g": 300,
+   "name": "peaches, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170915,
+   "g": 170,
+   "name": "yogurt, greek, nonfat, fruit on bottom, strawberry, chobani"
+  },
+  {
+   "line": 4,
+   "fdc": 174832,
+   "g": 240,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 5,
+   "fdc": 169414,
+   "g": 14,
+   "name": "seeds, flaxseed"
+  }
+ ],
+ "notes": "Peach nonfat Greek yogurt as Chobani fruit-on-bottom nonfat Greek."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6458377,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169287,
+   "g": 340,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 1,
+   "fdc": 172850,
+   "g": 227,
+   "name": "turkey, ground 93%"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 174928,
+   "g": 14,
+   "name": "bread crumbs, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173420,
+   "g": 19,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Whole wheat bread crumbs mapped to plain dry bread crumbs; reduced-fat feta to feta."
+}

@@ -1,0 +1,72 @@
+{
+ "id": 7157800,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 500,
+   "name": "squash, winter, butternut, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 70,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2.5,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 170556,
+   "g": 8,
+   "name": "pumpkin seed kernels, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 102,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 173473,
+   "g": 2,
+   "name": "rosemary, fresh"
+  }
+ ]
+}

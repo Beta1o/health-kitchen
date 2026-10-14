@@ -1,0 +1,60 @@
+{
+ "id": 6933134,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 908,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 61,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170900,
+   "g": 100,
+   "name": "mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  }
+ ]
+}

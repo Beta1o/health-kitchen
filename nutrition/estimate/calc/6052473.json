@@ -1,0 +1,49 @@
+{
+ "id": 6052473,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 46,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 169741,
+   "g": 13,
+   "name": "Oat flour, partially debranned"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171711,
+   "g": 18.5,
+   "name": "Blueberries, raw"
+  }
+ ],
+ "notes": "'1/4 cinnamon' read as 1/4 tsp."
+}

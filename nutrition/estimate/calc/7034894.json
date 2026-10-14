@@ -1,0 +1,79 @@
+{
+ "id": 7034894,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 1600,
+   "name": "potatoes, russet, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 40.8,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 169079,
+   "g": 200,
+   "name": "cheese, cream, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 200,
+   "name": "yogurt, Greek, plain, nonfat (fat-free fromage frais)"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173475,
+   "g": 3,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 11.4,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, red, ripe"
+  },
+  {
+   "line": 9,
+   "fdc": 170106,
+   "g": 15,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 3,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "fat-free fromage frais as nonfat Greek yogurt"
+}

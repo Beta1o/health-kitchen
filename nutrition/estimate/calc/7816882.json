@@ -1,0 +1,79 @@
+{
+ "id": 7816882,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171964,
+   "g": 350,
+   "name": "haddock, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 173737,
+   "g": 240,
+   "name": "beans, cranberry (borlotti), canned"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 300,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 10,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 172232,
+   "g": 5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 5,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "olive oil"
+  },
+  {
+   "line": 7,
+   "fdc": 168558,
+   "g": 30,
+   "name": "pickles, dill"
+  },
+  {
+   "line": 8,
+   "fdc": 174183,
+   "g": 12,
+   "name": "anchovy, canned in oil, drained"
+  },
+  {
+   "line": 9,
+   "fdc": 173442,
+   "g": 30,
+   "name": "sour cream, reduced fat (light creme fraiche)"
+  }
+ ],
+ "notes": "2 large haddock fillets assumed 175 g each; handful of herbs guessed (10 g parsley, 5 g basil, 5 g mint); drained borlotti 240 g."
+}

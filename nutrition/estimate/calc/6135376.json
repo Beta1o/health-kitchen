@@ -1,0 +1,73 @@
+{
+ "id": 6135376,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 171507,
+   "g": 692,
+   "name": "Chicken, cornish game hens, meat and skin, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173473,
+   "g": 2,
+   "name": "Rosemary, fresh"
+  }
+ ],
+ "notes": "2 game hens 1.25 lb each -> 692 g edible meat and skin (61% yield); optional salt counted."
+}

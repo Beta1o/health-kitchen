@@ -1,0 +1,97 @@
+{
+ "id": 7836528,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 192,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 250,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato products, canned, paste, without salt added (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 6,
+   "fdc": 174268,
+   "g": 100,
+   "name": "meat extender"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 8,
+   "fdc": 171613,
+   "g": 10,
+   "name": "soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 167717,
+   "g": 12,
+   "name": "yeast extract spread"
+  },
+  {
+   "line": 10,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 168454,
+   "g": 750,
+   "name": "rutabagas, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170393,
+   "g": 400,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 14,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Frozen hydrated soya mince 300 g approximated as 100 g dry meat extender (TVP, ~1:2 hydration); low-salt stock cube 10 g."
+}

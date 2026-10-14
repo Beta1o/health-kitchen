@@ -1,0 +1,91 @@
+{
+ "id": 7066965,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 150,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 100,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 168567,
+   "g": 8,
+   "name": "Tomatoes, sun-dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 308,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 171845,
+   "g": 260,
+   "name": "Bread, naan, plain, commercially prepared, refrigerated"
+  },
+  {
+   "line": 11,
+   "fdc": 170847,
+   "g": 125,
+   "name": "Cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 13,
+   "fdc": 172232,
+   "g": 4.5,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "reduced-fat mozzarella as part-skim mozzarella"
+}

@@ -1,0 +1,74 @@
+{
+ "id": 9968027,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173143,
+   "g": 220,
+   "name": "tortilla chips, yellow, plain, salted"
+  },
+  {
+   "line": 1,
+   "fdc": 174687,
+   "g": 300,
+   "name": "jackfruit, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170459,
+   "g": 48,
+   "name": "tomato paste"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 60,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 174278,
+   "g": 36,
+   "name": "soy sauce, tamari"
+  },
+  {
+   "line": 8,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "onion powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171329,
+   "g": 1.2,
+   "name": "paprika"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  }
+ ],
+ "notes": "Young green jackfruit (brine) has no SR entry; raw ripe jackfruit used, 300 g drained from 20 oz can - overstates carbs/calories. Toppings without amounts (beans, corn, guacamole, sauces etc.) left out."
+}

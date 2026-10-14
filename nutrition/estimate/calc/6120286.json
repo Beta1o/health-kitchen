@@ -1,0 +1,42 @@
+{
+ "id": 6120286,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175192,
+   "g": 520,
+   "name": "great northern beans, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 169094,
+   "g": 34,
+   "name": "olives, ripe, canned (kalamata)"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170499,
+   "g": 30,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173473,
+   "g": 1.5,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 72,
+   "name": "oil, olive"
+  }
+ ]
+}

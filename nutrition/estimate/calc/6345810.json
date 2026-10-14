@@ -1,0 +1,61 @@
+{
+ "id": 6345810,
+ "servings": 9,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar (rice wine)"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard (Dijon)"
+  },
+  {
+   "line": 5,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 170257,
+   "g": 2,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 7,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise light"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170158,
+   "g": 54,
+   "name": "almonds dry roasted (slivered toasted)"
+  }
+ ],
+ "notes": "rice wine vinegar -> distilled vinegar"
+}

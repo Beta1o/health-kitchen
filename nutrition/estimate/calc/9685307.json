@@ -1,0 +1,50 @@
+{
+ "id": 9685307,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174294,
+   "g": 129,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 105,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 60,
+   "name": "almond milk unsweetened (dairy-free milk)"
+  },
+  {
+   "line": 3,
+   "fdc": 173904,
+   "g": 122,
+   "name": "oats, dry"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 100,
+   "name": "almonds, blanched (almond flour)"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 170272,
+   "g": 56,
+   "name": "chocolate, dark, 60-69% cacao (chips)",
+   "added_sugar": true
+  }
+ ]
+}

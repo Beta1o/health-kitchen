@@ -1,0 +1,38 @@
+{
+ "id": 9318277,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 125,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened (for cashew milk)"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 12,
+   "name": "coconut sugar (as brown sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "cashew milk as unsweetened almond milk; coconut sugar as brown sugar"
+}

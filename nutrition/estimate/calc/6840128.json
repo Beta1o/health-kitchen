@@ -1,0 +1,43 @@
+{
+ "id": 6840128,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 168141,
+   "g": 57,
+   "name": "cheese, swiss, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 1.5,
+   "name": "salt-free seasoning as onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 118,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168482,
+   "g": 260,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "Salt-free seasoning blend entered as onion powder."
+}

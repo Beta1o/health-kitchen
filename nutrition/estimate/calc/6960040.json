@@ -1,0 +1,90 @@
+{
+ "id": 6960040,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 168464,
+   "g": 196,
+   "name": "squash, summer, crookneck and straightneck, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170008,
+   "g": 35,
+   "name": "onions, sweet, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 14.6,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170930,
+   "g": 0.25,
+   "name": "spices, parsley, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 171955,
+   "g": 340,
+   "name": "fish, cod, atlantic, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168874,
+   "g": 57,
+   "name": "quinoa, uncooked"
+  }
+ ]
+}

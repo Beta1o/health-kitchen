@@ -1,0 +1,31 @@
+{
+ "id": 6995196,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 201,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167746,
+   "g": 58,
+   "name": "Lemons, raw, without peel"
+  },
+  {
+   "line": 2,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 6,
+   "name": "Spearmint, fresh"
+  }
+ ],
+ "notes": "infused water: cucumber, lemon and herbs counted whole although mostly not eaten; lemon as flesh without peel"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6239417,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 480,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 2,
+   "fdc": 171689,
+   "g": 300,
+   "name": "Apples, raw, without skin"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170187,
+   "g": 29,
+   "name": "Nuts, walnuts, english"
+  }
+ ]
+}

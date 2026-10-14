@@ -1,0 +1,66 @@
+{
+ "id": 6087185,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 227,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 119,
+   "name": "green bell pepper raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 794,
+   "name": "tomatoes canned in tomato juice"
+  },
+  {
+   "line": 6,
+   "fdc": 175192,
+   "g": 255,
+   "name": "great northern beans canned"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  }
+ ]
+}

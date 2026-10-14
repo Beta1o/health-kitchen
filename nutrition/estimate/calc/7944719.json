@@ -1,0 +1,48 @@
+{
+ "id": 7944719,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 250,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170591,
+   "g": 8.6,
+   "name": "pine nuts"
+  },
+  {
+   "line": 2,
+   "fdc": 173420,
+   "g": 30,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ]
+}

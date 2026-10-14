@@ -1,0 +1,86 @@
+{
+ "id": 6917425,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 170675,
+   "g": 3.75,
+   "name": "Sweeteners, sugar substitute, granulated, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171186,
+   "g": 6,
+   "name": "Sauce, hot chile, sriracha"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 5,
+   "fdc": 175159,
+   "g": 454,
+   "name": "Fish, tuna, fresh, yellowfin, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168389,
+   "g": 400,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170150,
+   "g": 2.7,
+   "name": "Seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 180,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 164,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 180,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 172237,
+   "g": 60,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 12,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "Oil, sesame, salad or cooking"
+  }
+ ],
+ "notes": "White (albacore) tuna has no raw SR entry: yellowfin used. Low-calorie brown sugar substitute entered as granulated brown sugar substitute at 1.5 g/tbsp. Rice wine vinegar as distilled vinegar. Asparagus after trimming 400 g."
+}

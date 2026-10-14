@@ -1,0 +1,66 @@
+{
+ "id": 7447100,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169236,
+   "g": 200,
+   "name": "jerusalem-artichokes, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 130,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 6,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 7,
+   "fdc": 170189,
+   "g": 10,
+   "name": "tahini"
+  },
+  {
+   "line": 8,
+   "fdc": 170894,
+   "g": 60,
+   "name": "yogurt, greek, nonfat"
+  }
+ ]
+}

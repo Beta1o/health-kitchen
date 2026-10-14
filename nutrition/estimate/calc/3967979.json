@@ -1,0 +1,70 @@
+{
+ "id": 3967979,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174957,
+   "g": 200,
+   "name": "Cookies, graham crackers, plain or honey (includes cinnamon)"
+  },
+  {
+   "line": 1,
+   "fdc": 173430,
+   "g": 190,
+   "name": "Butter, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169079,
+   "g": 600,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 150,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171711,
+   "g": 120,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169698,
+   "g": 80,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 169655,
+   "g": 45,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 170859,
+   "g": 284,
+   "name": "Cream, fluid, heavy whipping"
+  },
+  {
+   "line": 9,
+   "fdc": 169656,
+   "g": 5,
+   "name": "Sugars, powdered",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Digestive biscuits matched to graham crackers. Elderflower cordial (70 ml) modelled as 45 g sugar. Double cream as US heavy cream (lower fat than UK double cream). Icing sugar for dusting guessed 5 g."
+}

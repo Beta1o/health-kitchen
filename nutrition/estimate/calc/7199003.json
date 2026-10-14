@@ -1,0 +1,91 @@
+{
+ "id": 7199003,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "canola oil"
+  },
+  {
+   "line": 1,
+   "fdc": 168893,
+   "g": 50,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 2,
+   "fdc": 168894,
+   "g": 50,
+   "name": "all-purpose flour"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 15,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 5,
+   "fdc": 169593,
+   "g": 15,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 176,
+   "name": "egg"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 15,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 170257,
+   "g": 8,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 9,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 10,
+   "fdc": 172181,
+   "g": 200,
+   "name": "cottage cheese nonfat (for quark)"
+  },
+  {
+   "line": 11,
+   "fdc": 170257,
+   "g": 2,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 12,
+   "fdc": 167762,
+   "g": 175,
+   "name": "strawberries"
+  },
+  {
+   "line": 13,
+   "fdc": 167755,
+   "g": 125,
+   "name": "raspberries"
+  }
+ ],
+ "notes": "quark via nonfat cottage cheese; almond extract via vanilla extract; granulated sweetener via sucralose 2 g/tbsp"
+}

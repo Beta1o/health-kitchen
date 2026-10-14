@@ -1,0 +1,61 @@
+{
+ "id": 6245458,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg, white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174928,
+   "g": 15,
+   "name": "bread crumbs, dry, plain (panko)"
+  },
+  {
+   "line": 4,
+   "fdc": 168867,
+   "g": 39,
+   "name": "cornmeal, degermed, enriched, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171192,
+   "g": 190,
+   "name": "sauce, pasta, spaghetti/marinara, ready-to-serve"
+  }
+ ],
+ "notes": "Regular (salted) jarred marinara assumed."
+}

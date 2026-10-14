@@ -1,0 +1,49 @@
+{
+ "id": 6235196,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170497,
+   "g": 6,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168573,
+   "g": 5,
+   "name": "lemon grass, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sweetener, sucralose"
+  },
+  {
+   "line": 6,
+   "fdc": 173691,
+   "g": 454,
+   "name": "salmon, sockeye, raw"
+  }
+ ],
+ "notes": "Low-calorie brown sugar substitute as sucralose sweetener 1.5 g; all marinade counted."
+}

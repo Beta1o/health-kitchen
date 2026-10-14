@@ -1,0 +1,91 @@
+{
+ "id": 7844829,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 750,
+   "name": "potatoes, russet, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 2,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174317,
+   "g": 360,
+   "name": "lamb, leg, sirloin half, lean only, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 328,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169249,
+   "g": 150,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 200,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 173475,
+   "g": 1,
+   "name": "spearmint, fresh"
+  }
+ ],
+ "notes": "large mixed salad to serve (no amount) guessed as 150 g leaves + 250 g tomato + 200 g cucumber, to fit the 621 g serving"
+}

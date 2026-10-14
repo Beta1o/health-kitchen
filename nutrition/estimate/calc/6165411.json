@@ -1,0 +1,79 @@
+{
+ "id": 6165411,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 227,
+   "name": "beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 89,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171689,
+   "g": 320,
+   "name": "apples, raw, without skin"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 0.6,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 169098,
+   "g": 62,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Servings 6 from portions. Feta '1/8 tsp' taken literally (likely a typo)."
+}

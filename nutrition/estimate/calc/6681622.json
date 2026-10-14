@@ -1,0 +1,62 @@
+{
+ "id": 6681622,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 169910,
+   "g": 207,
+   "name": "mango, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 14,
+   "name": "jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 164,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 7,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 168429,
+   "g": 75,
+   "name": "butterhead lettuce"
+  }
+ ],
+ "notes": "Honey chosen over the sweetener option."
+}

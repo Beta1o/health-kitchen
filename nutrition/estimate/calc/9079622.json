@@ -1,0 +1,61 @@
+{
+ "id": 9079622,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 907,
+   "name": "sweet potato"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 284,
+   "name": "broccoli"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 960,
+   "name": "stock home-prepared (low sodium veg broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 30,
+   "name": "yeast active dry (nutritional yeast)"
+  },
+  {
+   "line": 6,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsley dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170920,
+   "g": 1,
+   "name": "celery seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "red pepper flakes"
+  }
+ ],
+ "notes": "nutritional yeast not in SR Legacy: active dry yeast used, 1/2 cup ~30 g"
+}

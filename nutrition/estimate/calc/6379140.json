@@ -1,0 +1,55 @@
+{
+ "id": 6379140,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173797,
+   "g": 510,
+   "name": "Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169704,
+   "g": 195,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "Oil, canola"
+  }
+ ],
+ "notes": "'any type' beans -> pinto, canned, rinsed; whole grain -> cooked brown rice"
+}

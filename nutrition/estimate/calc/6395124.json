@@ -1,0 +1,103 @@
+{
+ "id": 6395124,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 61,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169387,
+   "g": 20,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172232,
+   "g": 21,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170937,
+   "g": 1.2,
+   "name": "Spices, tarragon, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 33,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 13,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 174832,
+   "g": 30,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 8,
+   "fdc": 172850,
+   "g": 454,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170568,
+   "g": 7,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 11,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 12,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 14,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 15,
+   "fdc": 174090,
+   "g": 208,
+   "name": "Rolls, hamburger or hot dog, whole wheat"
+  }
+ ],
+ "notes": "fresh tarragon 1/4 cup -> 1.2 g dried; lean ground turkey -> 93% lean; almond flour -> blanched almonds; whole wheat buns ~52 g each"
+}

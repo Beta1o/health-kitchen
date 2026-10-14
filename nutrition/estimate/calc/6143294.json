@@ -1,0 +1,54 @@
+{
+ "id": 6143294,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169287,
+   "g": 150,
+   "name": "Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 300,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 132,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  }
+ ]
+}

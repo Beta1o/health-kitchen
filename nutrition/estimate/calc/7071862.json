@@ -1,0 +1,42 @@
+{
+ "id": 7071862,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 50,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 72,
+   "name": "Strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167755,
+   "g": 11,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171711,
+   "g": 20,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171269,
+   "g": 103,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 5,
+   "fdc": 170158,
+   "g": 5,
+   "name": "Nuts, almonds, dry roasted, without salt added"
+  }
+ ]
+}

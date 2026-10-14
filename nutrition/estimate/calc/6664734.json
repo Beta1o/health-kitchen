@@ -1,0 +1,55 @@
+{
+ "id": 6664734,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 62,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169094,
+   "g": 34,
+   "name": "olives, ripe, canned (kalamata stand-in)"
+  },
+  {
+   "line": 2,
+   "fdc": 170591,
+   "g": 25.5,
+   "name": "pine nuts"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171412,
+   "g": 13.6,
+   "name": "oil, coconut"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  }
+ ],
+ "notes": "Kalamata olives as ripe canned olives (kalamata saltier)."
+}

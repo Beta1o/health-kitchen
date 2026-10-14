@@ -1,0 +1,61 @@
+{
+ "id": 6682626,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 960,
+   "name": "stock, no salt (home-prepared stock entry)"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 168421,
+   "g": 105,
+   "name": "kale, 7 leaves stemmed"
+  },
+  {
+   "line": 6,
+   "fdc": 175168,
+   "g": 283,
+   "name": "salmon, cooked"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "No-salt vegetable stock mapped to home-prepared chicken stock entry (closest low-sodium stock); kale leaf weight guessed 15 g."
+}

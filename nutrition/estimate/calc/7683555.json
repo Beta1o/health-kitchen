@@ -1,0 +1,91 @@
+{
+ "id": 7683555,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 100,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174030,
+   "g": 250,
+   "name": "beef ground 90% raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168482,
+   "g": 150,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 5,
+   "name": "flour all-purpose"
+  },
+  {
+   "line": 7,
+   "fdc": 170459,
+   "g": 5.5,
+   "name": "tomato paste"
+  },
+  {
+   "line": 8,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "white pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170938,
+   "g": 0.3,
+   "name": "thyme dried"
+  },
+  {
+   "line": 10,
+   "fdc": 171613,
+   "g": 10,
+   "name": "bouillon low sodium dry"
+  },
+  {
+   "line": 11,
+   "fdc": 170016,
+   "g": 75,
+   "name": "peas frozen"
+  },
+  {
+   "line": 12,
+   "fdc": 172336,
+   "g": 0.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 13,
+   "fdc": 172791,
+   "g": 150,
+   "name": "phyllo dough"
+  }
+ ],
+ "notes": "Lean mince as 90% lean beef; reduced-salt stock cube as low-sodium bouillon 10 g."
+}

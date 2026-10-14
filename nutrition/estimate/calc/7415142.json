@@ -1,0 +1,55 @@
+{
+ "id": 7415142,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 88,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 72,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 4.5,
+   "name": "sweetener, sucralose (Splenda)"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 300,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168893,
+   "g": 200,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "75 ml oil plus part of the 2 tsp used to grease the tin; granulated sweetener as Splenda-type granulated (0.5 g/tsp)"
+}

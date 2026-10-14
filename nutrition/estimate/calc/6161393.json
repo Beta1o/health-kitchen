@@ -1,0 +1,61 @@
+{
+ "id": 6161393,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173709,
+   "g": 255,
+   "name": "fish, tuna, light, canned in water, drained solids (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 54,
+   "name": "bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 173594,
+   "g": 60,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 37,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "Canned protein taken as light tuna in water, 12-oz can drained ~255 g; whole grain crumbs as plain dry crumbs."
+}

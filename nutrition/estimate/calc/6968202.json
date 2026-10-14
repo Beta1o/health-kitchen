@@ -1,0 +1,61 @@
+{
+ "id": 6968202,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 960,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 2.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "poaching broth and vegetables counted in full although mostly discarded"
+}

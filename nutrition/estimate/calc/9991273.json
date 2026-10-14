@@ -1,0 +1,36 @@
+{
+ "id": 9991273,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 454,
+   "name": "potatoes, russet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171583,
+   "g": 22.5,
+   "name": "soup, vegetable broth"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  }
+ ]
+}

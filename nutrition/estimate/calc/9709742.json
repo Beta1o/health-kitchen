@@ -1,0 +1,79 @@
+{
+ "id": 9709742,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 64,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 400,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 600,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168482,
+   "g": 400,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 1440,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 172233,
+   "g": 3,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 172233,
+   "g": 1,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "carrot and sweet potato amounts conflict (counts vs cups) - midpoints used; low sodium vegetable broth as home-prepared stock; cashew cream topping without amount left out; salt to taste left out"
+}

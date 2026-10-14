@@ -1,0 +1,79 @@
+{
+ "id": 6886220,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 169282,
+   "g": 170,
+   "name": "soybeans, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169098,
+   "g": 15.5,
+   "name": "orange juice, raw (includes foods for usda's food distribution program)\",) {'calcium_mg': 11.0, 'calories': 45.0, 'carbohydrates_g': 10.4, 'cholesterol_mg': 0.0, 'fat_g': 0.2, 'fiber_g': 0.2, 'phosphorus_mg': 17.0, 'potassium_mg': 200.0, 'protein_g': 0.7, 'sodium_mg': 1.0, 'sugars_g': 8.4}\n"
+  },
+  {
+   "line": 5,
+   "fdc": 171705,
+   "g": 34,
+   "name": "avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169249,
+   "g": 170,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169383,
+   "g": 60,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170562,
+   "g": 17,
+   "name": "seeds, sunflower seed kernels, dried"
+  }
+ ],
+ "notes": "Orange bell pepper as yellow pepper."
+}

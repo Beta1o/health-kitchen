@@ -1,0 +1,115 @@
+{
+ "id": 6833394,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170287,
+   "g": 182,
+   "name": "bulgur, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 45,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 6,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 400,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 364,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 174928,
+   "g": 27,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 14,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 15,
+   "fdc": 169247,
+   "g": 28,
+   "name": "lettuce, romaine"
+  },
+  {
+   "line": 16,
+   "fdc": 174289,
+   "g": 123,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 17,
+   "fdc": 174916,
+   "g": 112,
+   "name": "bread, pita, whole-wheat"
+  }
+ ],
+ "notes": "Ground chicken breast as raw chicken breast. Small whole-wheat pitas 28 g each."
+}

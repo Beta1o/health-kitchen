@@ -1,0 +1,36 @@
+{
+ "id": 7263439,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 250,
+   "name": "wheat flour, white, all-purpose, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171326,
+   "g": 0.4,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9.1,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ]
+}

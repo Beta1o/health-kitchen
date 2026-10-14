@@ -1,0 +1,76 @@
+{
+ "id": 7842764,
+ "servings": 25,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 81.6,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 50,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 200,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171332,
+   "g": 2.5,
+   "name": "Spices, pumpkin pie spice"
+  },
+  {
+   "line": 8,
+   "fdc": 171724,
+   "g": 40,
+   "name": "Currants, zante, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 167781,
+   "g": 10,
+   "added_sugar": true,
+   "name": "Candied fruit"
+  },
+  {
+   "line": 10,
+   "fdc": 168894,
+   "g": 7.8,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 11,
+   "fdc": 169655,
+   "g": 4.2,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  }
+ ],
+ "notes": "stevia sweetener left out (no calories); mixed spice as pumpkin pie spice; mixed peel as candied fruit; rolling flour included"
+}

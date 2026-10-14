@@ -1,0 +1,55 @@
+{
+ "id": 6628712,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 0.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170675,
+   "g": 7,
+   "name": "sugar substitute, brown"
+  }
+ ],
+ "notes": "low-calorie brown sugar substitute as granulated brown sugar substitute (~7 g)"
+}

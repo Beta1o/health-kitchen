@@ -1,0 +1,49 @@
+{
+ "id": 6777975,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "lemon wedges counted as juice of 1 lemon"
+}

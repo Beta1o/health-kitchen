@@ -1,0 +1,68 @@
+{
+ "id": 9237195,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 720,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173745,
+   "g": 200,
+   "name": "beans, navy, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 360,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 80,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "spices, paprika (smoked)"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "4 sweet potatoes taken as 180 g each; toppings without amounts left out"
+}

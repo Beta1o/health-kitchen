@@ -1,0 +1,72 @@
+{
+ "id": 7305915,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170150,
+   "g": 4.5,
+   "name": "seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 54,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 169246,
+   "g": 60,
+   "name": "leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169986,
+   "g": 250,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 1.6,
+   "name": "oil, canola"
+  },
+  {
+   "line": 8,
+   "fdc": 174528,
+   "g": 5,
+   "name": "sauce, ready-to-serve, pepper, tabasco"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 6,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

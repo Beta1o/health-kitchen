@@ -1,0 +1,43 @@
+{
+ "id": 9491703,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171726,
+   "g": 147,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 1,
+   "fdc": 170162,
+   "g": 137,
+   "name": "cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173181,
+   "g": 15,
+   "name": "protein powder, soy based"
+  },
+  {
+   "line": 3,
+   "fdc": 173230,
+   "g": 6,
+   "name": "tea, instant, unsweetened, powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 170184,
+   "g": 31,
+   "name": "pistachio nuts, raw"
+  }
+ ],
+ "notes": "Matcha (no entry) as instant unsweetened tea powder; pumpkin seed protein powder as soy protein powder."
+}

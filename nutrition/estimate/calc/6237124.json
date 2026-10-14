@@ -1,0 +1,49 @@
+{
+ "id": 6237124,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 3,
+   "fdc": 168013,
+   "g": 104,
+   "name": "Bread, multi-grain (includes whole-grain)"
+  },
+  {
+   "line": 4,
+   "fdc": 173462,
+   "g": 251,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 80,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Whole grain bread 26 g/slice."
+}

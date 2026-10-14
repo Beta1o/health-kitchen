@@ -1,0 +1,85 @@
+{
+ "id": 7693850,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 600,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 75,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 150,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 150,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170848,
+   "g": 15,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 10,
+   "fdc": 170847,
+   "g": 50,
+   "name": "cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 3.5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Cauliflower ~600 g; chilli flakes as cayenne."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 7621440,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 4.5,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 168894,
+   "g": 12,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 3,
+   "fdc": 174924,
+   "g": 50,
+   "name": "bread, white"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 200,
+   "name": "chicken breast raw"
+  }
+ ],
+ "notes": "Breadcrumbs made from fresh white bread (50 g)."
+}

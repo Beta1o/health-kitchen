@@ -1,0 +1,80 @@
+{
+ "id": 6621196,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172241,
+   "g": 60,
+   "added_sugar": true,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 1,
+   "fdc": 171247,
+   "g": 33,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 2,
+   "fdc": 170567,
+   "g": 31,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 60,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169387,
+   "g": 20,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171705,
+   "g": 75,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 6,
+   "fdc": 169385,
+   "g": 234,
+   "name": "Fennel, bulb, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169928,
+   "g": 150,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171579,
+   "g": 48,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 9,
+   "fdc": 169986,
+   "g": 200,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170900,
+   "g": 60,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  }
+ ],
+ "notes": "Balsamic glaze as ~60 g balsamic vinegar equivalent, sugars marked added. Cauliflower pizza crust (product) guessed as 200 g cauliflower + 60 g part-skim mozzarella + 1 egg. Reduced-fat parmesan -> regular grated."
+}

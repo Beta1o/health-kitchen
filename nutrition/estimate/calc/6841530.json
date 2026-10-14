@@ -1,0 +1,49 @@
+{
+ "id": 6841530,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 164,
+   "name": "Beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 172240,
+   "g": 2.5,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 1.3,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 169387,
+   "g": 42.5,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173420,
+   "g": 28,
+   "name": "Cheese, feta"
+  }
+ ],
+ "notes": "fat-free feta -> regular feta (overstates fat/calories); white wine vinegar -> red wine vinegar"
+}

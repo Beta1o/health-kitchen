@@ -1,0 +1,67 @@
+{
+ "id": 6558830,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171016,
+   "g": 9.1,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 13,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 169298,
+   "g": 800,
+   "name": "squash, winter, spaghetti, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken, breast, meat only, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 171604,
+   "g": 5,
+   "name": "sauce, hot chili, mature red (sambal stand-in)"
+  },
+  {
+   "line": 6,
+   "fdc": 174531,
+   "g": 3,
+   "name": "sauce, fish"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 50,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 46,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "spaghetti squash 2.5 lb whole taken as 800 g flesh; lime for serving counted as juice"
+}

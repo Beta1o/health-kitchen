@@ -1,0 +1,61 @@
+{
+ "id": 7310597,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 300,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 100,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175254,
+   "g": 480,
+   "name": "Lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 15,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173435,
+   "g": 150,
+   "name": "Cheese, goat, soft type"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 0.5,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "800 g tin lentils drained ~480 g as boiled with salt; oregano as 1 tsp dried"
+}

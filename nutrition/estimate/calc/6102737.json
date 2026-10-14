@@ -1,0 +1,54 @@
+{
+ "id": 6102737,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168566,
+   "g": 454,
+   "name": "Tomatillos, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 8,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "Spices, cumin seed"
+  }
+ ]
+}

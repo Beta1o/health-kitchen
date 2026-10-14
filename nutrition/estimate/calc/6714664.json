@@ -1,0 +1,67 @@
+{
+ "id": 6714664,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice from 1 lemon (wedges)"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 20.25,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 173410,
+   "g": 7,
+   "name": "butter"
+  },
+  {
+   "line": 9,
+   "fdc": 170937,
+   "g": 0.6,
+   "name": "tarragon dried (for 1 tbsp fresh)"
+  },
+  {
+   "line": 10,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard prepared (coarse Dijon)"
+  }
+ ],
+ "notes": "lemon wedges counted as juice of 1 lemon; fresh tarragon via dried entry; Dijon via yellow mustard (Dijon is saltier)"
+}

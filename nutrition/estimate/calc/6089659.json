@@ -1,0 +1,85 @@
+{
+ "id": 6089659,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.1,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 0.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 411,
+   "name": "tomatoes, canned, packed in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 168398,
+   "g": 68,
+   "name": "corn, sweet, yellow, frozen"
+  },
+  {
+   "line": 10,
+   "fdc": 175188,
+   "g": 255,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 11,
+   "fdc": 172884,
+   "g": 1134,
+   "name": "soup, stock, chicken, home-prepared"
+  }
+ ],
+ "notes": "Adobo seasoning (no entry) as salt + garlic powder; fire-roasted tomatoes as canned tomatoes; black beans drained 255 g."
+}

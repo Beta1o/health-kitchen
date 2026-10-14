@@ -1,0 +1,115 @@
+{
+ "id": 7534283,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 1,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 172688,
+   "g": 14,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 174317,
+   "g": 200,
+   "name": "Lamb, leg, sirloin half, separable lean only, trimmed to 1/4\" fat, choice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 174370,
+   "g": 50,
+   "name": "Lamb, ground, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 174916,
+   "g": 280,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 11,
+   "fdc": 168409,
+   "g": 100,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169248,
+   "g": 100,
+   "name": "Lettuce, iceberg (includes crisphead types), raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 300,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "10% fat lamb mince as 200 g lean leg + 50 g regular ground lamb; cucumber amount not given, taken as 100 g; chilli flakes as cayenne"
+}

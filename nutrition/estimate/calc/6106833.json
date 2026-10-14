@@ -1,0 +1,73 @@
+{
+ "id": 6106833,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 1,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 66,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170182,
+   "g": 56.7,
+   "name": "Nuts, pecans"
+  },
+  {
+   "line": 6,
+   "fdc": 174515,
+   "g": 680,
+   "name": "Turkey, retail parts, breast, meat only, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168482,
+   "g": 340,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 170257,
+   "g": 3,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  }
+ ],
+ "notes": "Low-calorie brown sugar substitute as granular sucralose (~3 g)."
+}

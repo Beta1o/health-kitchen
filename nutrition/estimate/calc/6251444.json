@@ -1,0 +1,61 @@
+{
+ "id": 6251444,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 170,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 168421,
+   "g": 85,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171688,
+   "g": 125,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 38,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 170556,
+   "g": 16,
+   "name": "Seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 172241,
+   "g": 30,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Reduced-fat feta -> regular feta. White balsamic -> balsamic vinegar."
+}

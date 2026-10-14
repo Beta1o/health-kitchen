@@ -1,0 +1,48 @@
+{
+ "id": 7856586,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170923,
+   "g": 3,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 300,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

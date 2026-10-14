@@ -1,0 +1,55 @@
+{
+ "id": 6930473,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 173594,
+   "g": 120,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 5,
+   "fdc": 170107,
+   "g": 15,
+   "name": "peppers, hot chili, red, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Chipotle in adobo approximated by canned red hot chili peppers."
+}

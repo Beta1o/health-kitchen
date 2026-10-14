@@ -1,0 +1,60 @@
+{
+ "id": 7414318,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175174,
+   "g": 200,
+   "name": "salmon, sockeye (red), canned"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "red onion, half"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 50,
+   "name": "cucumber"
+  },
+  {
+   "line": 4,
+   "fdc": 170886,
+   "g": 50,
+   "name": "low-fat yogurt"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 174081,
+   "g": 140,
+   "name": "wholemeal tortillas"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 50,
+   "name": "salad leaves"
+  }
+ ]
+}

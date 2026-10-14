@@ -1,0 +1,61 @@
+{
+ "id": 6586304,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170406,
+   "g": 454,
+   "name": "collards raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar distilled"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion small"
+  },
+  {
+   "line": 5,
+   "fdc": 170026,
+   "g": 170,
+   "name": "potato raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 369,
+   "name": "tomatoes"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 8,
+   "fdc": 173791,
+   "g": 250,
+   "name": "great northern beans canned low sodium"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "red pepper flakes"
+  }
+ ],
+ "notes": "15 oz can drained ~250 g"
+}

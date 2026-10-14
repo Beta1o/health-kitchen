@@ -1,0 +1,55 @@
+{
+ "id": 6675538,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 75,
+   "name": "green bell pepper, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice"
+  }
+ ],
+ "notes": "No-salt-added beans as the low-sodium canned entry."
+}

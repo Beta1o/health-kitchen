@@ -1,0 +1,61 @@
+{
+ "id": 6946528,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 170043,
+   "g": 907,
+   "name": "Potatoes, hash brown, frozen, plain, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 172347,
+   "g": 4.7,
+   "name": "Margarine, regular, 80% fat, composite, tub, with salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171146,
+   "g": 298,
+   "name": "Soup, cream of chicken, canned, condensed"
+  },
+  {
+   "line": 6,
+   "fdc": 173444,
+   "g": 230,
+   "name": "Sour cream, fat free"
+  },
+  {
+   "line": 7,
+   "fdc": 171292,
+   "g": 125,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 245,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  }
+ ],
+ "notes": "Low-fat cream of chicken soup -> regular condensed cream of chicken (fat overstated)."
+}

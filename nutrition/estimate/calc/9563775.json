@@ -1,0 +1,43 @@
+{
+ "id": 9563775,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170581,
+   "g": 203,
+   "name": "nuts, hazelnuts or filberts"
+  },
+  {
+   "line": 1,
+   "fdc": 171726,
+   "g": 147,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 150,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 3,
+   "fdc": 169593,
+   "g": 16,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Cashew milk as unsweetened almond milk."
+}

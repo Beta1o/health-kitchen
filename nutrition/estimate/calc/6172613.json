@@ -1,0 +1,38 @@
+{
+ "id": 6172613,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 454,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 18,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 1,
+   "fdc": 169655,
+   "g": 12,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 170937,
+   "g": 0.3,
+   "name": "tarragon, dried"
+  }
+ ],
+ "notes": "Balsamic glaze modelled as 18 g balsamic vinegar + 12 g sugar."
+}

@@ -1,0 +1,62 @@
+{
+ "id": 7802312,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174081,
+   "g": 260,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 174613,
+   "g": 110,
+   "name": "Turkey, white, rotisserie, deli cut"
+  },
+  {
+   "line": 2,
+   "fdc": 172181,
+   "g": 75,
+   "name": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 3,
+   "fdc": 173470,
+   "g": 1,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171723,
+   "g": 25,
+   "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 169247,
+   "g": 40,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 40,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  }
+ ],
+ "notes": "Low-fat quark as nonfat cottage cheese. Sliced cooked turkey as deli rotisserie turkey."
+}

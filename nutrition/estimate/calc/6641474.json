@@ -1,0 +1,61 @@
+{
+ "id": 6641474,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169255,
+   "g": 640,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169287,
+   "g": 284,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 5,
+   "fdc": 169311,
+   "g": 113,
+   "name": "artichokes, boiled, with salt"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 169079,
+   "g": 113,
+   "name": "cream cheese, low fat"
+  },
+  {
+   "line": 9,
+   "fdc": 170900,
+   "g": 28,
+   "name": "mozzarella, part-skim, shredded"
+  }
+ ],
+ "notes": "Jarred artichoke hearts in brine mapped to boiled artichokes with salt; 8 large caps taken as 80 g each."
+}

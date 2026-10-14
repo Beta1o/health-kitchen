@@ -1,0 +1,73 @@
+{
+ "id": 6306338,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167765,
+   "g": 608,
+   "name": "Watermelon, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169225,
+   "g": 250,
+   "name": "Cucumber, peeled, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 20,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168576,
+   "g": 10,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 54,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "sherry vinegar as red wine vinegar"
+}

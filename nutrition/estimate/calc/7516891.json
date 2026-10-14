@@ -1,0 +1,61 @@
+{
+ "id": 7516891,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 9,
+   "name": "vegetable oil"
+  },
+  {
+   "line": 1,
+   "fdc": 174055,
+   "g": 400,
+   "name": "beef, top sirloin, lean, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 320,
+   "name": "yellow bell peppers"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 200,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "line": 6,
+   "fdc": 170390,
+   "g": 240,
+   "name": "pak choi, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170067,
+   "g": 140,
+   "name": "water chestnuts, canned (drained weight)"
+  },
+  {
+   "line": 8,
+   "fdc": 174529,
+   "g": 36,
+   "name": "oyster sauce"
+  }
+ ],
+ "notes": "2 pak choi taken as 240 g; water chestnut tin taken as 140 g drained."
+}

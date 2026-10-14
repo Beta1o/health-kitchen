@@ -1,0 +1,67 @@
+{
+ "id": 9827404,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 340,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173801,
+   "g": 255,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 4,
+   "fdc": 169703,
+   "g": 185,
+   "name": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 61,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171583,
+   "g": 60,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 7,
+   "fdc": 170150,
+   "g": 9,
+   "name": "Seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  }
+ ],
+ "notes": "1 cup brown rice taken as dry (185 g). Chickpeas as canned, rinsed. Salt+pepper to taste left out."
+}

@@ -1,0 +1,44 @@
+{
+ "id": 2401,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169491,
+   "g": 1814,
+   "name": "beef chuck arm pot roast, lean and fat, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168556,
+   "g": 204,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 55,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 80,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 5,
+   "fdc": 171315,
+   "g": 0.9,
+   "name": "allspice, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  }
+ ]
+}

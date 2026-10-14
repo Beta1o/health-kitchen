@@ -1,0 +1,25 @@
+{
+ "id": 9702792,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169703,
+   "g": 370,
+   "name": "rice brown long-grain raw (basmati)"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 160,
+   "name": "coconut milk canned (lite = ~40% of regular)"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  }
+ ],
+ "notes": "lite coconut milk 400 ml modeled as 160 g regular canned coconut milk plus water"
+}

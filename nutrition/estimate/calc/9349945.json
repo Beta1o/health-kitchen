@@ -1,0 +1,31 @@
+{
+ "id": 9349945,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170184,
+   "g": 123,
+   "name": "Nuts, pistachio nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 60,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  }
+ ],
+ "notes": "Salt to taste left out; water left out."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6697212,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 168203,
+   "g": 180,
+   "name": "apple granny smith with skin"
+  },
+  {
+   "line": 3,
+   "fdc": 170918,
+   "g": 1,
+   "name": "caraway seed"
+  },
+  {
+   "line": 4,
+   "fdc": 169655,
+   "g": 2.1,
+   "added_sugar": true,
+   "name": "sugar"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 60,
+   "name": "stock home-prepared (low sodium veg broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 169977,
+   "g": 210,
+   "name": "red cabbage"
+  },
+  {
+   "line": 7,
+   "fdc": 173933,
+   "g": 62,
+   "name": "apple juice unsweetened"
+  },
+  {
+   "line": 8,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar"
+  }
+ ]
+}

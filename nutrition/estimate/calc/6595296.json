@@ -1,0 +1,62 @@
+{
+ "id": 6595296,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 172234,
+   "g": 45,
+   "name": "honey dijon: mustard part"
+  },
+  {
+   "line": 1,
+   "fdc": 169640,
+   "g": 15,
+   "name": "honey dijon: honey part",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 173627,
+   "g": 454,
+   "name": "thigh"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.75,
+   "name": "thyme"
+  },
+  {
+   "line": 6,
+   "fdc": 168897,
+   "g": 328,
+   "name": "wild rice cooked"
+  },
+  {
+   "line": 7,
+   "fdc": 169967,
+   "g": 624,
+   "name": "broccoli steamed"
+  }
+ ],
+ "notes": "Honey Dijon mustard (1/4 cup, 60 g) split into prepared mustard 45 g + honey 15 g; no Dijon entry in SR."
+}

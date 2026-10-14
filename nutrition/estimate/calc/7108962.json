@@ -1,0 +1,66 @@
+{
+ "id": 7108962,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 200,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 173944,
+   "g": 200,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener (granulated)"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 7,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apple with skin"
+  },
+  {
+   "line": 9,
+   "fdc": 173941,
+   "g": 100,
+   "name": "apricots, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170556,
+   "g": 50,
+   "name": "pumpkin seed kernels, dried"
+  }
+ ]
+}

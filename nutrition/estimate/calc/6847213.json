@@ -1,0 +1,97 @@
+{
+ "id": 6847213,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 2,
+   "fdc": 168910,
+   "g": 280,
+   "name": "Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.9,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170900,
+   "g": 56,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 732,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 7,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 8,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 11,
+   "fdc": 171255,
+   "g": 30,
+   "name": "Cream, fluid, half and half"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 30,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 172232,
+   "g": 35,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 14,
+   "fdc": 168462,
+   "g": 142,
+   "name": "Spinach, raw"
+  }
+ ],
+ "notes": "Italian seasoning as dried oregano; low-fat Italian cheese as part-skim mozzarella."
+}

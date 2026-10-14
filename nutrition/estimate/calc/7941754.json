@@ -1,0 +1,49 @@
+{
+ "id": 7941754,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 30,
+   "name": "oats"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "sucralose sweetener (Splenda)"
+  },
+  {
+   "line": 3,
+   "fdc": 171267,
+   "g": 51.5,
+   "name": "milk, 2%"
+  },
+  {
+   "line": 4,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apple, raw, with skin"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 15,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170184,
+   "g": 10,
+   "name": "pistachios, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167762,
+   "g": 24,
+   "name": "strawberries, raw"
+  }
+ ],
+ "notes": "Semi-skimmed milk as 2% milk; unsweetened yoghurt as low-fat plain; sweetener (optional) 0.5 g."
+}

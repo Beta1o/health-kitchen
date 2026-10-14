@@ -1,0 +1,49 @@
+{
+ "id": 7577031,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170400,
+   "g": 700,
+   "name": "celeriac, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170026,
+   "g": 450,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173442,
+   "g": 60,
+   "name": "sour cream, reduced fat (half-fat creme fraiche)"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173582,
+   "g": 25,
+   "name": "margarine-like spread 60% fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Half-fat creme fraiche as reduced-fat sour cream; low-fat vegetable spread as 60% fat spread (actual spreads ~38% fat)."
+}

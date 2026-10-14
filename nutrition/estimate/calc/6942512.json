@@ -1,0 +1,55 @@
+{
+ "id": 6942512,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 500,
+   "name": "broccoli (2 heads trimmed)"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 33,
+   "name": "egg white"
+  },
+  {
+   "line": 4,
+   "fdc": 171292,
+   "g": 33,
+   "name": "cheddar reduced fat"
+  },
+  {
+   "line": 5,
+   "fdc": 174928,
+   "g": 36,
+   "name": "bread crumbs"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "2 heads trimmed broccoli guessed 500 g"
+}

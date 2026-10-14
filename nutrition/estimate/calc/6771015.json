@@ -1,0 +1,126 @@
+{
+ "id": 6771015,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 8.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170924,
+   "g": 6.3,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 2,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 173801,
+   "g": 510,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 8,
+   "fdc": 168893,
+   "g": 11.7,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 13,
+   "fdc": 170150,
+   "g": 9,
+   "name": "Seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 14,
+   "fdc": 170894,
+   "g": 245,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 15,
+   "fdc": 170189,
+   "g": 60,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 16,
+   "fdc": 174916,
+   "g": 256,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 17,
+   "fdc": 170457,
+   "g": 364,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 18,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 19,
+   "fdc": 169387,
+   "g": 40,
+   "name": "Arugula, raw"
+  }
+ ]
+}

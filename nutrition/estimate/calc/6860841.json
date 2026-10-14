@@ -1,0 +1,79 @@
+{
+ "id": 6860841,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 196,
+   "name": "zucchini"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 174592,
+   "g": 64,
+   "name": "bacon, turkey, unprepared"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "flour"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 367,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parmesan"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (optional)"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley"
+  }
+ ],
+ "notes": "Optional 1/2 tsp salt counted. Turkey bacon slice taken as 16 g."
+}

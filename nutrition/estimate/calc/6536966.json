@@ -1,0 +1,78 @@
+{
+ "id": 6536966,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174288,
+   "g": 23,
+   "name": "chickpea flour (besan)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onion, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 4,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 18.6,
+   "name": "green bell pepper, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 15,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 170922,
+   "g": 0.45,
+   "name": "coriander, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 172231,
+   "g": 0.19,
+   "name": "turmeric"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 0.16,
+   "name": "chili powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 0.37,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 12,
+   "fdc": 170894,
+   "g": 15,
+   "name": "greek yogurt, plain, nonfat"
+  }
+ ]
+}

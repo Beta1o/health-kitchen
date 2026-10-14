@@ -1,0 +1,61 @@
+{
+ "id": 6820987,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 462,
+   "name": "peaches raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 2.7,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 173582,
+   "g": 28,
+   "name": "margarine-like spread 60%"
+  },
+  {
+   "line": 5,
+   "fdc": 170675,
+   "g": 6,
+   "name": "brown sugar substitute"
+  },
+  {
+   "line": 6,
+   "fdc": 173904,
+   "g": 27,
+   "name": "oats"
+  },
+  {
+   "line": 7,
+   "fdc": 170187,
+   "g": 29,
+   "name": "walnuts"
+  },
+  {
+   "line": 8,
+   "fdc": 169414,
+   "g": 14,
+   "name": "flaxseed"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  }
+ ],
+ "notes": "Frozen unsweetened peaches as raw peaches; buttery spread as 60% vegetable oil spread; brown sugar substitute weight guessed."
+}

@@ -1,0 +1,91 @@
+{
+ "id": 6420755,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 340,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170016,
+   "g": 218,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 182,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175175,
+   "g": 280,
+   "name": "Fish, salmon, pink, canned, drained solids"
+  },
+  {
+   "line": 6,
+   "fdc": 172183,
+   "g": 198,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 150,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 168114,
+   "g": 170,
+   "name": "Cheese, cottage, lowfat, 1% milkfat, no sodium added"
+  },
+  {
+   "line": 9,
+   "fdc": 172233,
+   "g": 3,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170900,
+   "g": 56,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 13,
+   "fdc": 172689,
+   "g": 168,
+   "name": "Bread, whole-wheat, commercially prepared, toasted"
+  }
+ ],
+ "notes": "Canned salmon cans size unknown: 2 x 140 g drained assumed (pink); reduced-sodium cottage cheese as 1% no-salt-added; asparagus 1 lb -> 340 g trimmed."
+}

@@ -1,0 +1,78 @@
+{
+ "id": 6453245,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 600,
+   "name": "zucchini, 2 large"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 72,
+   "name": "large carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 37,
+   "name": "red pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "red onion"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 57,
+   "name": "egg whites"
+  },
+  {
+   "line": 6,
+   "fdc": 170872,
+   "g": 61,
+   "name": "low-fat milk"
+  },
+  {
+   "line": 7,
+   "fdc": 168893,
+   "g": 60,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 11,
+   "fdc": 171292,
+   "g": 28,
+   "name": "reduced-fat cheddar"
+  }
+ ]
+}

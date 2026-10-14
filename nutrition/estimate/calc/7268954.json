@@ -1,0 +1,73 @@
+{
+ "id": 7268954,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 1,
+   "fdc": 174317,
+   "g": 500,
+   "name": "lamb_leg_lean"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 330,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169246,
+   "g": 200,
+   "name": "leek"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 183,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 168482,
+   "g": 450,
+   "name": "sweetpot"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 8,
+   "name": "flour"
+  },
+  {
+   "line": 7,
+   "fdc": 171613,
+   "g": 10,
+   "name": "low-salt lamb stock cube"
+  },
+  {
+   "line": 8,
+   "fdc": 172428,
+   "g": 50,
+   "name": "splitpeas"
+  },
+  {
+   "line": 9,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "white pepper"
+  }
+ ],
+ "notes": "Sweet potato line says 300 g + 150 g but 'total 400 g': used 450 g."
+}

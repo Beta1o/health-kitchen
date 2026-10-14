@@ -1,0 +1,56 @@
+{
+ "id": 6913457,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 340,
+   "name": "broccoli raw (broccoli slaw)"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 183,
+   "name": "carrots raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172886,
+   "g": 48,
+   "name": "hoisin",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic"
+  },
+  {
+   "line": 6,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce low sodium"
+  },
+  {
+   "line": 7,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 8,
+   "fdc": 168429,
+   "g": 30,
+   "name": "butterhead lettuce"
+  }
+ ],
+ "notes": "broccoli slaw via broccoli raw"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 6229594,
+ "servings": 6,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 169706,
+   "g": 190,
+   "name": "rice brown medium-grain raw (sushi)"
+  },
+  {
+   "line": 2,
+   "fdc": 171028,
+   "g": 13.6,
+   "name": "grapeseed oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 57,
+   "name": "ginger"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 5,
+   "fdc": 170106,
+   "g": 8,
+   "name": "red chilies"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 16,
+   "name": "cilantro"
+  }
+ ]
+}

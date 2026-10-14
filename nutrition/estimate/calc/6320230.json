@@ -1,0 +1,79 @@
+{
+ "id": 6320230,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 170,
+   "name": "\"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 29.0, 'calories': 352.0, 'carbohydrates_g': 73.37, 'cholesterol_mg': 0.0, 'fat_g': 2.93, 'fiber_g': 9.2, 'phosphorus_mg': 343.0, 'potassium_mg': 434.0, 'protein_g': 13.87, 'sodium_mg': 6.0, 'sugars_g': 2.74}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 130,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 180,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169096,
+   "g": 34,
+   "name": "Olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 5,
+   "fdc": 172233,
+   "g": 2,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173420,
+   "g": 85,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 7,
+   "fdc": 170016,
+   "g": 67,
+   "name": "\"Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 22.0, 'calories': 77.0, 'carbohydrates_g': 13.62, 'cholesterol_mg': 0.0, 'fat_g': 0.4, 'fiber_g': 4.5, 'phosphorus_mg': 82.0, 'potassium_mg': 153.0, 'protein_g': 5.22, 'sodium_mg': 108.0, 'sugars_g': 5.0}\n"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 34,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 35,
+   "name": "Spinach, raw"
+  }
+ ],
+ "notes": "whole-wheat orzo 6 oz dry -> whole-wheat pasta dry; reduced-fat feta -> regular feta; Kalamata -> pickled olives"
+}

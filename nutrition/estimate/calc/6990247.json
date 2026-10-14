@@ -1,0 +1,61 @@
+{
+ "id": 6990247,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 173111,
+   "g": 454,
+   "name": "beef, ground, 97% lean, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170471,
+   "g": 540,
+   "name": "vegetables, mixed, frozen, unprepared"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 2.5,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 1,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 169731,
+   "g": 114,
+   "name": "noodles, egg, dry, enriched"
+  },
+  {
+   "line": 7,
+   "fdc": 172883,
+   "g": 960,
+   "name": "soup, stock, beef, home-prepared"
+  }
+ ],
+ "notes": "Togarashi modelled as chili powder + cayenne. Low-sodium beef broth as home-prepared beef stock."
+}

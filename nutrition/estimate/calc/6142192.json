@@ -1,0 +1,62 @@
+{
+ "id": 6142192,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169641,
+   "g": 40,
+   "name": "jams and preserves (mango chutney stand-in)",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 4,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 62,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 174527,
+   "g": 2.5,
+   "name": "sauce, pepper or hot"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  }
+ ],
+ "notes": "Mango chutney approximated by jam."
+}

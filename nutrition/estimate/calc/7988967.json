@@ -1,0 +1,79 @@
+{
+ "id": 7988967,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 120,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 300,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170924,
+   "g": 8,
+   "name": "curry powder"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170459,
+   "g": 8,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "garlic raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 3,
+   "name": "coriander leaves (cilantro), raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt nonfat plain"
+  }
+ ],
+ "notes": "Tikka paste (2 tbsp) modelled as curry powder 8 g + oil 9 g + salt 1.4 g + tomato paste 8 g."
+}

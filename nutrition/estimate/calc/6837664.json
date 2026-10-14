@@ -1,0 +1,90 @@
+{
+ "id": 6837664,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 173791,
+   "g": 510,
+   "name": "great northern beans, canned, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 169074,
+   "g": 245,
+   "name": "tomato sauce, no salt added"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 360,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 169228,
+   "g": 230,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169975,
+   "g": 140,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170917,
+   "g": 0.6,
+   "name": "bay leaf"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 2.25,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

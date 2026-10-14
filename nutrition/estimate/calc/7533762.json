@@ -1,0 +1,67 @@
+{
+ "id": 7533762,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 300,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170886,
+   "g": 15,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 492,
+   "name": "tomatoes (4)"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2,
+   "name": "garam masala (as cumin)"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 300,
+   "name": "red onions (2 large)"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  }
+ ],
+ "notes": "garam masala as cumin"
+}

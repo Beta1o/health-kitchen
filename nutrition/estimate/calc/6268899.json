@@ -1,0 +1,30 @@
+{
+ "id": 6268899,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168173,
+   "g": 75,
+   "name": "strawberries frozen unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 169928,
+   "g": 77,
+   "name": "peaches raw (no unsweetened frozen entry)"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt nonfat plain"
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk unsweetened"
+  }
+ ]
+}

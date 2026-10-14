@@ -1,0 +1,61 @@
+{
+ "id": 6201524,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170182,
+   "g": 36,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 1,
+   "fdc": 171326,
+   "g": 0.28,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "spices, cloves, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 168833,
+   "g": 13.8,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 173582,
+   "g": 42,
+   "name": "margarine-like spread, 60% fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168482,
+   "g": 454,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  }
+ ]
+}

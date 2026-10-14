@@ -1,0 +1,55 @@
+{
+ "id": 6788995,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 840,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 174832,
+   "g": 30,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 175043,
+   "g": 4,
+   "name": "leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Large cauliflower 840 g. Nutritional yeast approximated by active dry yeast."
+}

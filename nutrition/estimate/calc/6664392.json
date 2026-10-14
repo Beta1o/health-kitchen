@@ -1,0 +1,60 @@
+{
+ "id": 6664392,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 169998,
+   "g": 218,
+   "name": "corn, sweet, yellow, raw (1 1/2 cups kernels)"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 784,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168576,
+   "g": 7,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 20.3,
+   "name": "oil, olive"
+  }
+ ]
+}

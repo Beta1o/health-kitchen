@@ -1,0 +1,49 @@
+{
+ "id": 9847862,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169146,
+   "g": 80,
+   "name": "Beets, cooked, boiled, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 101,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 169414,
+   "g": 14,
+   "name": "Seeds, flaxseed"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 175215,
+   "g": 366,
+   "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  }
+ ],
+ "notes": "Toppings line without amounts left out. Roasted beet -> boiled beet entry."
+}

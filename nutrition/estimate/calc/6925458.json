@@ -1,0 +1,37 @@
+{
+ "id": 6925458,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170427,
+   "g": 119,
+   "name": "green bell pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 170052,
+   "g": 411,
+   "name": "tomatoes, canned, stewed"
+  },
+  {
+   "line": 3,
+   "fdc": 175176,
+   "g": 454,
+   "name": "tilapia, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 0.8,
+   "name": "seafood seasoning: spices (paprika)"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "seafood seasoning: salt"
+  }
+ ],
+ "notes": "seafood seasoning split into paprika and salt"
+}

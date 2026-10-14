@@ -1,0 +1,91 @@
+{
+ "id": 6358049,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174529,
+   "g": 18,
+   "name": "oyster sauce"
+  },
+  {
+   "line": 1,
+   "fdc": 172850,
+   "g": 567,
+   "name": "turkey ground 93% lean raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sriracha"
+  },
+  {
+   "line": 5,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "sesame oil"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 170887,
+   "g": 82,
+   "name": "yogurt plain skim"
+  },
+  {
+   "line": 11,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sriracha"
+  },
+  {
+   "line": 12,
+   "fdc": 168429,
+   "g": 90,
+   "name": "butterhead lettuce"
+  },
+  {
+   "line": 13,
+   "fdc": 168409,
+   "g": 126,
+   "name": "cucumber with peel"
+  }
+ ],
+ "notes": "chili garlic paste approximated by sriracha; optional 1/2 tsp salt included"
+}

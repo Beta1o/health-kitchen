@@ -1,0 +1,79 @@
+{
+ "id": 6384961,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 173573,
+   "g": 40.8,
+   "name": "Oil, avocado"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 15,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 172850,
+   "g": 340,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 323,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 110,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168421,
+   "g": 120,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169704,
+   "g": 390,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 11,
+   "fdc": 173806,
+   "g": 37,
+   "name": "Peanuts, all types, dry-roasted, without salt"
+  }
+ ],
+ "notes": "coconut aminos not in SR: low-sodium soy sauce, weight scaled to match coconut aminos sodium (~540 mg); sugar-free monk fruit syrup -> 'Syrups, sugar free'; brown rice cooked 195 g/cup"
+}

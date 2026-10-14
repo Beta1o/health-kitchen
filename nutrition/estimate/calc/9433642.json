@@ -1,0 +1,63 @@
+{
+ "id": 9433642,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169741,
+   "g": 180,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 4,
+   "fdc": 168833,
+   "g": 75,
+   "name": "sugars, brown (coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 7,
+   "fdc": 171726,
+   "g": 85,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 3.9,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "Coconut sugar as brown sugar."
+}

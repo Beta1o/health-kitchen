@@ -1,0 +1,50 @@
+{
+ "id": 6185754,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 602,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172233,
+   "g": 2.2,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 30,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 7,
+   "added_sugar": true,
+   "name": "Honey"
+  }
+ ],
+ "notes": "Dijon as prepared mustard"
+}

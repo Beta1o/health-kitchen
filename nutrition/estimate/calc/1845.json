@@ -1,0 +1,66 @@
+{
+ "id": 1845,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 169347,
+   "g": 227,
+   "name": "corn, canned, no salt added"
+  },
+  {
+   "line": 2,
+   "fdc": 175238,
+   "g": 227,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 18,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171022,
+   "g": 157,
+   "name": "italian dressing, regular, without salt"
+  },
+  {
+   "line": 8,
+   "fdc": 174527,
+   "g": 2.4,
+   "name": "hot sauce"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  }
+ ]
+}

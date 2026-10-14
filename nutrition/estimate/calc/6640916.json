@@ -1,0 +1,37 @@
+{
+ "id": 6640916,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 0,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 1,
+   "fdc": 171415,
+   "g": 28,
+   "name": "margarine spread 35-39% fat"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 169998,
+   "g": 360,
+   "name": "sweet corn raw"
+  }
+ ],
+ "notes": "lime zest via lemon peel; 90 g kernels per ear"
+}

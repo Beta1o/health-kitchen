@@ -1,0 +1,48 @@
+{
+ "id": 6155441,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 328,
+   "name": "beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 172175,
+   "g": 25,
+   "name": "cheese, blue"
+  },
+  {
+   "line": 5,
+   "fdc": 170583,
+   "g": 21.5,
+   "name": "hazelnuts, dry roasted, without salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ]
+}

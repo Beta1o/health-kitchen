@@ -1,0 +1,61 @@
+{
+ "id": 6796988,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 31.5,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, greek, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 5,
+   "fdc": 173439,
+   "g": 42.5,
+   "name": "cheese, cheddar, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 76,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170379,
+   "g": 213,
+   "name": "broccoli, raw"
+  }
+ ]
+}

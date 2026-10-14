@@ -1,0 +1,54 @@
+{
+ "id": 9114619,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170416,
+   "g": 60,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 169997,
+   "g": 15,
+   "name": "cilantro"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 60,
+   "name": "red wine vinegar"
+  }
+ ]
+}

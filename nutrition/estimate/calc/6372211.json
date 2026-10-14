@@ -1,0 +1,60 @@
+{
+ "id": 6372211,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172465,
+   "g": 454,
+   "name": "refried beans, canned, fat-free"
+  },
+  {
+   "line": 1,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171705,
+   "g": 225,
+   "name": "avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 5,
+   "fdc": 174524,
+   "g": 86,
+   "name": "sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 169247,
+   "g": 47,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171288,
+   "g": 100,
+   "name": "cheese, mexican blend"
+  }
+ ]
+}

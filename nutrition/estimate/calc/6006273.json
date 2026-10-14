@@ -1,0 +1,61 @@
+{
+ "id": 6006273,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 50,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 100,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173444,
+   "g": 32,
+   "name": "Sour cream, fat free"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 0.5,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 5,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170920,
+   "g": 0.25,
+   "name": "Spices, celery seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 172688,
+   "g": 86,
+   "name": "Bread, whole-wheat, commercially prepared"
+  }
+ ],
+ "notes": "Whole wheat sandwich thins ~43 g each -> whole-wheat bread."
+}

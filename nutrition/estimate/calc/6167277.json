@@ -1,0 +1,91 @@
+{
+ "id": 6167277,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175036,
+   "g": 208,
+   "name": "corn tortillas"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 118,
+   "name": "zucchini"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 248,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 240,
+   "name": "chicken stock home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 10,
+   "fdc": 170501,
+   "g": 242,
+   "name": "crushed tomatoes canned"
+  },
+  {
+   "line": 11,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg"
+  },
+  {
+   "line": 12,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "no-salt-added crushed tomatoes via regular crushed canned (no NSA entry), sodium may be high; low-sodium veg broth via home-prepared stock"
+}

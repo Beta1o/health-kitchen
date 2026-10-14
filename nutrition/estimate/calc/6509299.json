@@ -1,0 +1,43 @@
+{
+ "id": 6509299,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 15,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 45,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173420,
+   "g": 19,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.4,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 176,
+   "name": "egg, whole, raw"
+  }
+ ],
+ "notes": "Fat-free feta mapped to feta; fresh oregano as dried."
+}

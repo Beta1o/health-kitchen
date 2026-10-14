@@ -1,0 +1,49 @@
+{
+ "id": 6626676,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Asparagus bunch taken as 340 g trimmed."
+}

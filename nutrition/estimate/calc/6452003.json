@@ -1,0 +1,73 @@
+{
+ "id": 6452003,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170427,
+   "g": 238,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 227,
+   "name": "Mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171816,
+   "g": 340,
+   "name": "Beef, round, top round, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 3,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 171610,
+   "g": 17,
+   "name": "Sauce, worcestershire"
+  },
+  {
+   "line": 9,
+   "fdc": 170900,
+   "g": 28,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 10,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ],
+ "notes": "Italian seasoning as dried oregano."
+}

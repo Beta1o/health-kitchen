@@ -1,0 +1,115 @@
+{
+ "id": 6435172,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171816,
+   "g": 680,
+   "name": "Beef, round, top round, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 70,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172883,
+   "g": 907,
+   "name": "Soup, stock, beef, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 169074,
+   "g": 61,
+   "name": "Tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 7,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 2.6,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170917,
+   "g": 0.6,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 12,
+   "fdc": 169985,
+   "g": 340,
+   "name": "Cassava, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168215,
+   "g": 179,
+   "name": "Plantains, green, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170402,
+   "g": 200,
+   "name": "Chayote, fruit, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 182,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 16,
+   "fdc": 169997,
+   "g": 16,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Adobo seasoning 1 tbsp split as 7 g salt + 2.6 g garlic powder; cubanelle -> green bell pepper"
+}

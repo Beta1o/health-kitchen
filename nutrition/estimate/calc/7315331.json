@@ -1,0 +1,49 @@
+{
+ "id": 7315331,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 120,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171267,
+   "g": 154.5,
+   "name": "milk, 2% (semi-skimmed)"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 100,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 5,
+   "fdc": 171292,
+   "g": 50,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Semi-skimmed milk as 2% milk."
+}

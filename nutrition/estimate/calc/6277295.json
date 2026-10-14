@@ -1,0 +1,49 @@
+{
+ "id": 6277295,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 75,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 35,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 174081,
+   "g": 200,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 3,
+   "fdc": 174572,
+   "g": 216,
+   "name": "Turkey breast, low salt, prepackaged or deli, luncheon meat"
+  },
+  {
+   "line": 4,
+   "fdc": 170562,
+   "g": 11,
+   "name": "Seeds, sunflower seed kernels, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 123,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 169249,
+   "g": 30,
+   "name": "Lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Low-carb tortillas as whole-wheat tortillas (~50 g each; carbs overstated). No-salt-added deli turkey as low-salt deli turkey breast (12 slices ~216 g)."
+}

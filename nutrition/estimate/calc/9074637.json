@@ -1,0 +1,38 @@
+{
+ "id": 9074637,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 300,
+   "name": "peaches, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 175,
+   "name": "nuts, coconut milk, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 0.7,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "optional maple/vanilla/cinnamon included"
+}

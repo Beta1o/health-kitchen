@@ -1,0 +1,66 @@
+{
+ "id": 6360044,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans canned drained"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 75,
+   "name": "avocado"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 45.75,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "coarse salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 45,
+   "name": "green onion"
+  },
+  {
+   "line": 8,
+   "fdc": 169988,
+   "g": 160,
+   "name": "celery"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 244,
+   "name": "carrots"
+  }
+ ]
+}

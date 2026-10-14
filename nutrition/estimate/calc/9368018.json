@@ -1,0 +1,63 @@
+{
+ "id": 9368018,
+ "servings": 26,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 184,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 168820,
+   "g": 84,
+   "name": "molasses",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170189,
+   "g": 60,
+   "name": "sesame butter, tahini"
+  },
+  {
+   "line": 4,
+   "fdc": 169741,
+   "g": 220,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 7.8,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 8,
+   "fdc": 167976,
+   "g": 56,
+   "name": "candies, semisweet chocolate (chips)",
+   "added_sugar": true
+  }
+ ]
+}

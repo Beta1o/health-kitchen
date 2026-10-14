@@ -1,0 +1,61 @@
+{
+ "id": 6738854,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 454,
+   "name": "carrots"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 42,
+   "added_sugar": true,
+   "name": "honey"
+  },
+  {
+   "line": 3,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel (zest)"
+  },
+  {
+   "line": 3,
+   "fdc": 169098,
+   "g": 86,
+   "name": "orange juice"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 120,
+   "name": "stock home-prepared (low sodium veg broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 2.7,
+   "name": "thyme dried"
+  }
+ ]
+}

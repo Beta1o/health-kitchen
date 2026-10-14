@@ -1,0 +1,30 @@
+{
+ "id": 7209689,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 1250,
+   "name": "potatoes, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  }
+ ]
+}

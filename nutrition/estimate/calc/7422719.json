@@ -1,0 +1,91 @@
+{
+ "id": 7422719,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 500,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 120,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 320,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 173737,
+   "g": 240,
+   "name": "Beans, cranberry (roman), mature seeds, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 80,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172475,
+   "g": 360,
+   "name": "Tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 10,
+   "fdc": 170847,
+   "g": 62,
+   "name": "Cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 80,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 12,
+   "fdc": 170005,
+   "g": 50,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 13,
+   "fdc": 172232,
+   "g": 4,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "Borlotti -> cranberry beans, canned. Rapeseed oil -> canola."
+}

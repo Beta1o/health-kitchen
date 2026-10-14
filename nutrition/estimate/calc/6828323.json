@@ -1,0 +1,96 @@
+{
+ "id": 6828323,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.7,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 54.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 9,
+   "fdc": 172241,
+   "g": 32,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 2.6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 173470,
+   "g": 0.8,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 14,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ]
+}

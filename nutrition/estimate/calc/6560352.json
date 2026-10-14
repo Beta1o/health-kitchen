@@ -1,0 +1,49 @@
+{
+ "id": 6560352,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170417,
+   "g": 532,
+   "name": "parsnips, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173430,
+   "g": 28,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 60,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "medium parsnip ~133 g; low sodium vegetable broth as home-prepared stock"
+}

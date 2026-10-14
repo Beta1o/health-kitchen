@@ -1,0 +1,67 @@
+{
+ "id": 9733821,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 50,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 75,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 4,
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini"
+  },
+  {
+   "line": 5,
+   "fdc": 171723,
+   "g": 15,
+   "name": "cranberries, dried, sweetened (no unsweetened entry)"
+  },
+  {
+   "line": 6,
+   "fdc": 171322,
+   "g": 2,
+   "name": "dill weed, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Bread and toppings have no amounts and are left out (salad filling only). Unsweetened dried cranberries mapped to sweetened."
+}

@@ -1,0 +1,73 @@
+{
+ "id": 6238095,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172232,
+   "g": 21,
+   "name": "basil fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 170874,
+   "g": 245,
+   "name": "buttermilk lowfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 85,
+   "name": "balsamic vinegar"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 27,
+   "name": "almonds blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170427,
+   "g": 119,
+   "name": "green bell pepper raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 142,
+   "name": "lettuce green leaf"
+  },
+  {
+   "line": 8,
+   "fdc": 169225,
+   "g": 250,
+   "name": "cucumber peeled"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 240,
+   "name": "stock home-prepared (low sodium)"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Mixed greens as green leaf lettuce; unsalted vegetable stock as home-prepared stock."
+}

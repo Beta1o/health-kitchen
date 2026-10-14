@@ -1,0 +1,73 @@
+{
+ "id": 3154406,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172790,
+   "g": 320,
+   "name": "puff pastry frozen"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 400,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 180,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170150,
+   "g": 5,
+   "name": "sesame seeds whole dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173435,
+   "g": 60,
+   "name": "goat cheese soft"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 169248,
+   "g": 240,
+   "name": "lettuce iceberg"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 80,
+   "name": "cucumber with peel"
+  }
+ ],
+ "notes": "puff pastry sheet guessed at 320 g (UK ready-rolled); butternut squash ~400 g edible"
+}

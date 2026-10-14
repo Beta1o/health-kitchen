@@ -1,0 +1,38 @@
+{
+ "id": 3560541,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172791,
+   "g": 300,
+   "name": "phyllo dough (12 sheets)"
+  },
+  {
+   "line": 0,
+   "fdc": 173430,
+   "g": 100,
+   "name": "butter unsalted"
+  },
+  {
+   "line": 0,
+   "fdc": 172177,
+   "g": 250,
+   "name": "brie"
+  },
+  {
+   "line": 0,
+   "fdc": 173961,
+   "g": 75,
+   "added_sugar": true,
+   "name": "cranberry sauce"
+  },
+  {
+   "line": 0,
+   "fdc": 170187,
+   "g": 50,
+   "name": "walnuts"
+  }
+ ],
+ "notes": "all ingredients on one line; 12 filo sheets guessed 300 g; optional poppy seeds left out"
+}

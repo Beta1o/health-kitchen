@@ -1,0 +1,32 @@
+{
+ "id": 9957284,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167776,
+   "g": 356,
+   "name": "pears, bartlett, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 30,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171326,
+   "g": 0.28,
+   "name": "nutmeg"
+  }
+ ],
+ "notes": "Toppings without amounts left out."
+}

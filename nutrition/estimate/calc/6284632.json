@@ -1,0 +1,68 @@
+{
+ "id": 6284632,
+ "servings": 8,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 170383,
+   "g": 176,
+   "name": "Brussels sprouts, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 120,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 169655,
+   "g": 8.4,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  },
+  {
+   "line": 6,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 7,
+   "fdc": 172233,
+   "g": 2,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170929,
+   "g": 3,
+   "name": "Spices, mustard seed, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 170922,
+   "g": 3,
+   "name": "Spices, coriander seed"
+  }
+ ],
+ "notes": "All brine (vinegar, salt, sugar) counted though serving is drained, so sodium is likely overestimated. Pickling spice -> mustard seed + coriander seed."
+}

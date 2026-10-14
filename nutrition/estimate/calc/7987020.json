@@ -1,0 +1,72 @@
+{
+ "id": 7987020,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168896,
+   "g": 200,
+   "name": "wheat flour, white, bread, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 7,
+   "name": "yeast, baker's, active dry"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 171267,
+   "g": 77,
+   "name": "milk, reduced fat 2%"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 300,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174183,
+   "g": 25,
+   "name": "anchovy, canned in oil, drained"
+  },
+  {
+   "line": 7,
+   "fdc": 170591,
+   "g": 8.5,
+   "name": "nuts, pine nuts, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 168164,
+   "g": 9,
+   "name": "raisins, golden"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne (flakes)"
+  },
+  {
+   "line": 10,
+   "fdc": 169994,
+   "g": 0.7,
+   "name": "chives, raw"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": 6081956,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171474,
+   "g": 453,
+   "name": "chicken, broilers or fryers, breast, meat and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170938,
+   "g": 1.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Bone-in breasts 2 x 10 oz, edible meat and skin taken as 80% (453 g); herbes de Provence as dried thyme."
+}

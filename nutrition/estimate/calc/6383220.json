@@ -1,0 +1,91 @@
+{
+ "id": 6383220,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171850,
+   "g": 68,
+   "name": "Bread, wheat, sprouted"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.78,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45.75,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 171610,
+   "g": 2.8,
+   "name": "Sauce, worcestershire"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 169247,
+   "g": 600,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168546,
+   "g": 113,
+   "name": "Peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 12,
+   "fdc": 169738,
+   "g": 113,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 13,
+   "fdc": 170848,
+   "g": 57,
+   "name": "Cheese, parmesan, hard"
+  }
+ ],
+ "notes": "Ezekiel bread as sprouted wheat bread; 4 oz penne read as dry weight (serving 1 oz pasta); roasted red peppers as canned red peppers."
+}

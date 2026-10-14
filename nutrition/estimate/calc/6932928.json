@@ -1,0 +1,72 @@
+{
+ "id": 6932928,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 150,
+   "name": "grape tomatoes"
+  },
+  {
+   "line": 1,
+   "fdc": 168398,
+   "g": 165,
+   "name": "corn frozen"
+  },
+  {
+   "line": 2,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "red onion"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 171705,
+   "g": 136,
+   "name": "avocado medium"
+  },
+  {
+   "line": 8,
+   "fdc": 171955,
+   "g": 567,
+   "name": "cod 4 x 5 oz"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  }
+ ]
+}

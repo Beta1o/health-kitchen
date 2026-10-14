@@ -1,0 +1,61 @@
+{
+ "id": 6311574,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171246,
+   "g": 227,
+   "name": "neufchatel (light cream cheese)"
+  },
+  {
+   "line": 1,
+   "fdc": 174973,
+   "g": 120,
+   "name": "vanilla wafers lower fat"
+  },
+  {
+   "line": 2,
+   "fdc": 173443,
+   "g": 60,
+   "name": "sour cream light"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 6,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 168450,
+   "g": 184,
+   "name": "pumpkin canned no salt"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "nutmeg"
+  }
+ ],
+ "notes": "Mini vanilla wafers taken as 4 g each (120 g); sugar substitute as sucralose."
+}

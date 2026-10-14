@@ -1,0 +1,75 @@
+{
+ "id": 6019686,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171689,
+   "g": 600,
+   "name": "Apples, raw, without skin"
+  },
+  {
+   "line": 1,
+   "fdc": 169118,
+   "g": 630,
+   "name": "Pears, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 6,
+   "added_sugar": true,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 173904,
+   "g": 20,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 9,
+   "fdc": 170675,
+   "g": 3,
+   "added_sugar": true,
+   "name": "Sweeteners, sugar substitute, granulated, brown"
+  },
+  {
+   "line": 10,
+   "fdc": 172347,
+   "g": 28,
+   "name": "Margarine, regular, 80% fat, composite, tub, with salt"
+  }
+ ],
+ "notes": "Baking sugar substitute as sucralose granular (1/4 cup ~6 g) - if it is a sugar blend calories are understated; plant-based butter as 80% margarine with salt."
+}

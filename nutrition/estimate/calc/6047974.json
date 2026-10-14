@@ -1,0 +1,67 @@
+{
+ "id": 6047974,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173430,
+   "g": 14,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174205,
+   "g": 227,
+   "name": "crab, blue, cooked"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 172212,
+   "g": 242,
+   "name": "cream, half and half, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 169698,
+   "g": 16,
+   "name": "cornstarch"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.25,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 0.35,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171322,
+   "g": 0.1,
+   "name": "dill weed, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Old Bay (no entry) as salt + paprika; low-sodium broth as home-prepared chicken stock."
+}

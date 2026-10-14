@@ -1,0 +1,78 @@
+{
+ "id": 6028474,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 360,
+   "name": "sweet potato, raw (2 large)"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion (small)"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 172850,
+   "g": 567,
+   "name": "turkey, ground, 93% lean, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 411,
+   "name": "tomatoes, canned, diced"
+  },
+  {
+   "line": 6,
+   "fdc": 170471,
+   "g": 454,
+   "name": "vegetables, mixed, frozen"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 171610,
+   "g": 34,
+   "name": "worcestershire sauce"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 169698,
+   "g": 5.3,
+   "name": "cornstarch"
+  },
+  {
+   "line": 12,
+   "fdc": 172347,
+   "g": 28,
+   "name": "margarine, tub"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": 7075143,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil (sunflower, as canola)"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 50,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 174288,
+   "g": 6,
+   "name": "chickpea flour"
+  },
+  {
+   "line": 3,
+   "fdc": 171316,
+   "g": 3,
+   "name": "five-spice (as anise seed)"
+  },
+  {
+   "line": 4,
+   "fdc": 174928,
+   "g": 50,
+   "name": "bread crumbs (gluten-free wholemeal)"
+  },
+  {
+   "line": 5,
+   "fdc": 172448,
+   "g": 200,
+   "name": "tofu, firm"
+  }
+ ],
+ "notes": "gluten-free wholemeal breadcrumbs as plain dry breadcrumbs"
+}

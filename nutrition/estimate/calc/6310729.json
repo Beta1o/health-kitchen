@@ -1,0 +1,91 @@
+{
+ "id": 6310729,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174036,
+   "g": 227,
+   "name": "Beef, ground, 80% lean meat / 20% fat, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 1260,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 168505,
+   "g": 240,
+   "name": "Beans, snap, green, canned, no salt added, drained solids"
+  },
+  {
+   "line": 4,
+   "fdc": 170104,
+   "g": 250,
+   "name": "Peas, green, canned, no salt added, drained solids"
+  },
+  {
+   "line": 5,
+   "fdc": 169347,
+   "g": 250,
+   "name": "Corn, sweet, yellow, canned, vacuum pack, no salt added"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170026,
+   "g": 425,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168877,
+   "g": 46,
+   "name": "Rice, white, long-grain, regular, raw, enriched"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 14,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "Spices, garlic powder"
+  }
+ ],
+ "notes": "Ground chuck entered as 80/20 ground beef."
+}

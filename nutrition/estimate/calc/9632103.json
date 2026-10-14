@@ -1,0 +1,45 @@
+{
+ "id": 9632103,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 162,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 167976,
+   "g": 42,
+   "name": "candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Optional chocolate chips included as semisweet chocolate."
+}

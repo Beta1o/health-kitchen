@@ -1,0 +1,72 @@
+{
+ "id": 6248441,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170383,
+   "g": 176,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171688,
+   "g": 165,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared (dijon)"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

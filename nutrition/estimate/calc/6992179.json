@@ -1,0 +1,49 @@
+{
+ "id": 6992179,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168867,
+   "g": 78,
+   "name": "cornmeal, degermed, yellow"
+  },
+  {
+   "line": 2,
+   "fdc": 171247,
+   "g": 33,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 99,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, raw"
+  }
+ ],
+ "notes": "All of the coating counted although some may be left over."
+}

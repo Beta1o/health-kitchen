@@ -1,0 +1,99 @@
+{
+ "id": 7767561,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 450,
+   "name": "cod, Atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170106,
+   "g": 15,
+   "name": "red Thai curry paste: chilli"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 5,
+   "name": "red Thai curry paste: garlic"
+  },
+  {
+   "line": 1,
+   "fdc": 168573,
+   "g": 5,
+   "name": "red Thai curry paste: lemongrass"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 2.5,
+   "name": "red Thai curry paste: salt"
+  },
+  {
+   "line": 2,
+   "fdc": 172184,
+   "g": 17,
+   "name": "egg yolk, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169961,
+   "g": 75,
+   "name": "green beans, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 3,
+   "name": "coriander"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lime zest"
+  },
+  {
+   "line": 7,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 171595,
+   "g": 17,
+   "name": "chilli sauce (tomato chili sauce)",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper"
+  }
+ ],
+ "notes": "red Thai curry paste split into chilli, garlic, lemongrass and salt; chilli sauce as bottled tomato chili sauce"
+}

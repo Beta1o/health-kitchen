@@ -1,0 +1,37 @@
+{
+ "id": 9665970,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168472,
+   "g": 640,
+   "name": "squash, acorn, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 30,
+   "name": "soup, vegetable broth"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  }
+ ],
+ "notes": "2 lb whole squash; about 640 g edible after peeling and seeding (guess). Low-sodium broth taken as regular vegetable broth (tiny amount)."
+}

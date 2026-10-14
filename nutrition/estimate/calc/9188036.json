@@ -1,0 +1,57 @@
+{
+ "id": 9188036,
+ "servings": 48,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167793,
+   "g": 2090,
+   "name": "fuji apples, cored"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 80,
+   "name": "vinc"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 13,
+   "name": "van"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 7.8,
+   "name": "cin"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "nutmeg"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 168820,
+   "g": 60,
+   "name": "molasses 3 tbsp",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 60,
+   "name": "maple syrup 3 tbsp",
+   "added_sugar": true
+  }
+ ],
+ "notes": "servings field is 6 (cups yield); serving size 2 Tbsp, so 6 cups = 48 servings. Molasses and maple 2-4 tbsp: midpoint 3. Apples 5 lb less cores."
+}

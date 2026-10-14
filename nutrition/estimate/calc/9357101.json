@@ -1,0 +1,49 @@
+{
+ "id": 9357101,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "cashew"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 15,
+   "name": "nutritional yeast (as active dry yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 12,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onionpow"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 169736,
+   "g": 454,
+   "name": "macaroni dry"
+  }
+ ],
+ "notes": "Nutritional yeast not in SR Legacy: modelled as active dry yeast."
+}

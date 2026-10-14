@@ -1,0 +1,73 @@
+{
+ "id": 6249033,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170688,
+   "g": 70,
+   "name": "bulgur dry"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 120,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 6.4,
+   "name": "spearmint fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169225,
+   "g": 66,
+   "name": "cucumber peeled"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 50,
+   "name": "green onion"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 454,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 75,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 173801,
+   "g": 170,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  }
+ ],
+ "notes": "2 bunches parsley assumed 120 g"
+}

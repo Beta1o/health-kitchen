@@ -1,0 +1,49 @@
+{
+ "id": 6947476,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172241,
+   "g": 64,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 169058,
+   "g": 120,
+   "name": "Jams and preserves, no sugar (with sodium saccharin), any flavor"
+  },
+  {
+   "line": 5,
+   "fdc": 171697,
+   "g": 140,
+   "name": "Apricots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "Sugar-free apricot preserves as no-sugar jam (not flagged as added sugar)."
+}

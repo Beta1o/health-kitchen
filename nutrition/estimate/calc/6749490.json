@@ -1,0 +1,61 @@
+{
+ "id": 6749490,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 243,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 169994,
+   "g": 12,
+   "name": "chives, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 7,
+   "fdc": 174289,
+   "g": 30,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, raw"
+  }
+ ],
+ "notes": "quinoa assumed dry (1/2 cup = 85 g)"
+}

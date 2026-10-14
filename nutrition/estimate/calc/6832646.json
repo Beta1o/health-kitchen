@@ -1,0 +1,79 @@
+{
+ "id": 6832646,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 227,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169228,
+   "g": 250,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 227,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173470,
+   "g": 1.5,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 960,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 169745,
+   "g": 280,
+   "name": "Spelt, uncooked"
+  },
+  {
+   "line": 10,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 11,
+   "fdc": 175176,
+   "g": 454,
+   "name": "Fish, tilapia, raw"
+  }
+ ],
+ "notes": "Quick-cooking farro entered as uncooked spelt (1.5 cups = 280 g). Low sodium chicken broth as home-prepared stock."
+}

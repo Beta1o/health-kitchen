@@ -1,0 +1,31 @@
+{
+ "id": 7025833,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170106,
+   "g": 10,
+   "name": "red chili, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172688,
+   "g": 40,
+   "name": "bread, whole-wheat"
+  },
+  {
+   "line": 2,
+   "fdc": 175139,
+   "g": 100,
+   "name": "sardines, canned in oil, drained"
+  },
+  {
+   "line": 3,
+   "fdc": 169387,
+   "g": 40,
+   "name": "arugula, raw"
+  }
+ ],
+ "notes": "Sardine tin 120 g taken as 100 g drained fish."
+}

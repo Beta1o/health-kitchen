@@ -1,0 +1,103 @@
+{
+ "id": 6867665,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 45,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170016,
+   "g": 72,
+   "name": "peas green frozen"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 2.5,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 174196,
+   "g": 227,
+   "name": "sole raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171955,
+   "g": 227,
+   "name": "white fish -> cod raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169130,
+   "g": 90,
+   "name": "plantain ripe (yellow) raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots"
+  },
+  {
+   "line": 7,
+   "fdc": 170026,
+   "g": 340,
+   "name": "potatoes raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 15,
+   "name": "skim milk"
+  },
+  {
+   "line": 9,
+   "fdc": 169985,
+   "g": 420,
+   "name": "cassava raw (peeled)"
+  },
+  {
+   "line": 11,
+   "fdc": 171977,
+   "g": 480,
+   "name": "clam juice -> clam canned liquid"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 9,
+   "name": "cilantro"
+  },
+  {
+   "line": 13,
+   "fdc": 170108,
+   "g": 37,
+   "name": "red pepper"
+  },
+  {
+   "line": 14,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 15,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 16,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  }
+ ],
+ "notes": "cassava 1 lb assumed ~420 g after peeling"
+}

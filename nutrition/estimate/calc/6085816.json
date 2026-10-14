@@ -1,0 +1,66 @@
+{
+ "id": 6085816,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 454,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 150,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173462,
+   "g": 251,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 240,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168421,
+   "g": 42,
+   "name": "kale, raw"
+  }
+ ]
+}

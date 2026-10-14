@@ -1,0 +1,56 @@
+{
+ "id": 6917203,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174292,
+   "g": 227,
+   "name": "MORI-NU, Tofu, silken, soft"
+  },
+  {
+   "line": 1,
+   "fdc": 167787,
+   "g": 30,
+   "name": "Pomegranate juice, bottled"
+  },
+  {
+   "line": 2,
+   "fdc": 168209,
+   "g": 62,
+   "name": "Raspberries, frozen, red, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169577,
+   "g": 10,
+   "added_sugar": true,
+   "name": "Syrups, table blends, pancake, reduced-calorie"
+  },
+  {
+   "line": 4,
+   "fdc": 169134,
+   "g": 28,
+   "name": "Pomegranates, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173904,
+   "g": 20,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 168164,
+   "g": 5,
+   "name": "Raisins, golden, seedless"
+  },
+  {
+   "line": 5,
+   "fdc": 170567,
+   "g": 3,
+   "name": "Nuts, almonds"
+  }
+ ],
+ "notes": "Sugar-free syrup -> reduced-calorie pancake syrup (overstates carbs). Muesli -> oats + raisins + almonds."
+}

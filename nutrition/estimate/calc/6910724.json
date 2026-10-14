@@ -1,0 +1,80 @@
+{
+ "id": 6910724,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 85,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 169387,
+   "g": 142,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167765,
+   "g": 304,
+   "name": "Watermelon, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 5,
+   "fdc": 169415,
+   "g": 32,
+   "name": "Seeds, pumpkin and squash seed kernels, roasted, with salt added"
+  },
+  {
+   "line": 6,
+   "fdc": 173475,
+   "g": 14,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 169051,
+   "g": 113,
+   "name": "Cheese, mozzarella, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168155,
+   "g": 2,
+   "name": "Limes, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 20,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 169640,
+   "g": 7,
+   "added_sugar": true,
+   "name": "Honey"
+  }
+ ],
+ "notes": "fat-free feta approximated by nonfat mozzarella"
+}

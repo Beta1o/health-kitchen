@@ -1,0 +1,55 @@
+{
+ "id": 6656377,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169703,
+   "g": 185,
+   "name": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169968,
+   "g": 340,
+   "name": "Broccoli, frozen, chopped, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171410,
+   "g": 27.2,
+   "name": "Oil, peanut, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174055,
+   "g": 227,
+   "name": "Beef, top sirloin, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 60,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 169698,
+   "g": 8,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 7,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  }
+ ],
+ "notes": "frozen broccoli stir-fry blend -> frozen broccoli"
+}

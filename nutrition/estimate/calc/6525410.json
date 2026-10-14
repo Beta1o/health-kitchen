@@ -1,0 +1,90 @@
+{
+ "id": 6525410,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 600,
+   "name": "cucumbers 2 medium"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 490,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 60,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon zest"
+  },
+  {
+   "line": 4,
+   "fdc": 172233,
+   "g": 1,
+   "name": "dill fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 6,
+   "fdc": 175179,
+   "g": 227,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 173594,
+   "g": 60,
+   "name": "light mayonnaise"
+  },
+  {
+   "line": 10,
+   "fdc": 171705,
+   "g": 68,
+   "name": "avocado half"
+  },
+  {
+   "line": 11,
+   "fdc": 174527,
+   "g": 0.6,
+   "name": "hot sauce"
+  },
+  {
+   "line": 12,
+   "fdc": 169387,
+   "g": 20,
+   "name": "arugula"
+  },
+  {
+   "line": 13,
+   "fdc": 168013,
+   "g": 128,
+   "name": "whole grain bread 4 slices x 32 g"
+  }
+ ]
+}

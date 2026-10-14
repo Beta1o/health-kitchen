@@ -1,0 +1,67 @@
+{
+ "id": 9706219,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 588,
+   "name": "zucchini raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169998,
+   "g": 72,
+   "name": "corn sweet yellow raw"
+  },
+  {
+   "line": 3,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans canned"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "crema fresca, avocado slices and lime wedges for serving have no amount and are left out"
+}

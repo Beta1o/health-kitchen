@@ -1,0 +1,49 @@
+{
+ "id": 7235332,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 204,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169094,
+   "g": 35,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 173420,
+   "g": 50,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  }
+ ],
+ "notes": "Fresh oregano 1 tsp taken as 0.5 g dried oregano."
+}

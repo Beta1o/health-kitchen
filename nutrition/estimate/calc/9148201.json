@@ -1,0 +1,38 @@
+{
+ "id": 9148201,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 454,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 60,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine, 80% fat, tub, with salt"
+  }
+ ],
+ "notes": "Two alternative versions (sweet lines 1-4, savory lines 5-9); only the first (sweet) counted. Vegan butter as margarine."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 6425743,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169298,
+   "g": 965,
+   "name": "Squash, winter, spaghetti, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173880,
+   "g": 340,
+   "name": "Sausage, chicken or turkey, Italian style,  lower sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 171597,
+   "g": 750,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173431,
+   "g": 50,
+   "name": "Cheese, parmesan, shredded"
+  }
+ ],
+ "notes": "spaghetti squash: 2 x 680 g whole, ~71% edible flesh; fresh oregano -> dried 1 g"
+}

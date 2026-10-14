@@ -1,0 +1,84 @@
+{
+ "id": 6078258,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 227,
+   "name": "spinach"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 91,
+   "name": "broccoli"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 68,
+   "name": "avocado"
+  },
+  {
+   "line": 3,
+   "fdc": 171711,
+   "g": 37,
+   "name": "blueberries"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 38,
+   "name": "feta"
+  },
+  {
+   "line": 5,
+   "fdc": 170557,
+   "g": 32,
+   "name": "pumpkin seed kernels roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 170894,
+   "g": 122,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 170874,
+   "g": 61,
+   "name": "buttermilk lowfat"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 9,
+   "fdc": 171330,
+   "g": 2.8,
+   "name": "poppy seed"
+  },
+  {
+   "line": 10,
+   "fdc": 172233,
+   "g": 2,
+   "name": "dill fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 12,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel"
+  }
+ ]
+}

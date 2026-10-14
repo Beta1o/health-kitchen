@@ -1,0 +1,42 @@
+{
+ "id": 7721061,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 500,
+   "name": "beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 300,
+   "name": "carrots"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 500,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 9,
+   "name": "rapeseed oil"
+  }
+ ]
+}

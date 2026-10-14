@@ -1,0 +1,64 @@
+{
+ "id": 2265,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 156,
+   "name": "wheat flour, all-purpose, enriched"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 250,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 110,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170567,
+   "g": 48,
+   "name": "almonds"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 169656,
+   "g": 60,
+   "name": "sugars, powdered",
+   "added_sugar": true
+  }
+ ],
+ "notes": "brown sugar assumed packed"
+}

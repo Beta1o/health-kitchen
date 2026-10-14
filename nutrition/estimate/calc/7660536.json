@@ -1,0 +1,37 @@
+{
+ "id": 7660536,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173042,
+   "g": 200,
+   "name": "Grape juice, canned or bottled, unsweetened, without added ascorbic acid"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 1,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 170919,
+   "g": 0.6,
+   "name": "Spices, cardamom"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 169118,
+   "g": 600,
+   "name": "Pears, raw"
+  }
+ ],
+ "notes": "All poaching juice counted."
+}

@@ -1,0 +1,73 @@
+{
+ "id": 7716059,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170459,
+   "g": 32,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 170051,
+   "g": 1200,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 5,
+   "fdc": 169975,
+   "g": 250,
+   "name": "Cabbage, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 20,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 175254,
+   "g": 75,
+   "name": "Lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 8,
+   "fdc": 173442,
+   "g": 250,
+   "name": "Sour cream, reduced fat"
+  },
+  {
+   "line": 9,
+   "fdc": 169738,
+   "g": 250,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 10,
+   "fdc": 171292,
+   "g": 50,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "'2 handfuls dried basil, leaves picked' read as fresh basil 20 g; half-fat creme fraiche as reduced-fat sour cream; wholegrain lasagne as whole-wheat pasta dry"
+}

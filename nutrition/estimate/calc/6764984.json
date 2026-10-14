@@ -1,0 +1,67 @@
+{
+ "id": 6764984,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173420,
+   "g": 9,
+   "name": "feta"
+  },
+  {
+   "line": 1,
+   "fdc": 173475,
+   "g": 1.6,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 11,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 169228,
+   "g": 900,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cinnamon"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 8,
+   "fdc": 171192,
+   "g": 47,
+   "name": "marinara sauce"
+  }
+ ],
+ "notes": "Eggplant taken as 450 g each."
+}

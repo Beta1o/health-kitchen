@@ -1,0 +1,60 @@
+{
+ "id": 6619453,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172847,
+   "g": 454,
+   "name": "turkey, ground, fat free, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174928,
+   "g": 30,
+   "name": "bread crumbs, dry, plain (panko)"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 2,
+   "name": "italian seasoning (oregano, dried)"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170427,
+   "g": 238,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 169051,
+   "g": 170,
+   "name": "cheese, mozzarella, nonfat"
+  }
+ ]
+}

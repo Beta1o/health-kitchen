@@ -1,0 +1,54 @@
+{
+ "id": 7628199,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 150,
+   "name": "potatoes, raw (baby)"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 150,
+   "name": "mushrooms, white"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 90,
+   "name": "spring onions"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 4,
+   "name": "flour"
+  },
+  {
+   "line": 5,
+   "fdc": 171269,
+   "g": 155,
+   "name": "milk, nonfat (skimmed)"
+  },
+  {
+   "line": 6,
+   "fdc": 173414,
+   "g": 30,
+   "name": "cheese, cheddar"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ]
+}

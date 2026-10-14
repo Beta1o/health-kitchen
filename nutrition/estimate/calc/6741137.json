@@ -1,0 +1,43 @@
+{
+ "id": 6741137,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 490,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 170872,
+   "g": 81,
+   "name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 2,
+   "fdc": 170859,
+   "g": 30,
+   "name": "Cream, fluid, heavy whipping"
+  },
+  {
+   "line": 3,
+   "fdc": 169878,
+   "g": 60,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 171711,
+   "g": 148,
+   "name": "Blueberries, raw"
+  }
+ ],
+ "notes": "zero-calorie maple-type syrup -> sugar-free syrup entry"
+}

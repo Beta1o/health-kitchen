@@ -1,0 +1,49 @@
+{
+ "id": 9633263,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168483,
+   "g": 319,
+   "name": "sweet potato, cooked, baked in skin, flesh, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 112,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169741,
+   "g": 70,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 3,
+   "fdc": 168898,
+   "g": 50,
+   "name": "rice flour, brown"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 70,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  }
+ ]
+}

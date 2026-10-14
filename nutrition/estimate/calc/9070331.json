@@ -1,0 +1,49 @@
+{
+ "id": 9070331,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 840,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 30,
+   "name": "soup, vegetable broth"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Large cauliflower taken as 840 g; all counted although steaks may leave trimmings."
+}

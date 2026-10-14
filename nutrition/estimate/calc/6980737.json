@@ -1,0 +1,49 @@
+{
+ "id": 6980737,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169975,
+   "g": 280,
+   "name": "green cabbage, shredded"
+  },
+  {
+   "line": 2,
+   "fdc": 173430,
+   "g": 23.5,
+   "name": "unsalted butter"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon, juice"
+  },
+  {
+   "line": 5,
+   "fdc": 171330,
+   "g": 8.8,
+   "name": "poppy seeds"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Medium lemon counted as its juice."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6501487,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 170,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 168421,
+   "g": 60,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 150,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 171579,
+   "g": 84,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 7,
+   "fdc": 171988,
+   "g": 190,
+   "name": "Fish, tuna, white, canned in water, without salt, drained solids"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 240,
+   "name": "Lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Two 4.5 oz cans no-salt tuna drained ~95 g each, as white tuna; mixed greens as green leaf lettuce."
+}

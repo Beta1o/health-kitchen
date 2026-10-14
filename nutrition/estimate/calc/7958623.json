@@ -1,0 +1,78 @@
+{
+ "id": 7958623,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 1,
+   "fdc": 170026,
+   "g": 400,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 72,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 7.8,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 310,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 300,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 171496,
+   "g": 300,
+   "name": "Turkey, whole, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 10,
+   "fdc": 169347,
+   "g": 165,
+   "name": "Corn, sweet, yellow, canned, vacuum pack, no salt added"
+  },
+  {
+   "line": 11,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  }
+ ]
+}

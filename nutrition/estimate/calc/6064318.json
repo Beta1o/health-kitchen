@@ -1,0 +1,54 @@
+{
+ "id": 6064318,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168473,
+   "g": 680,
+   "name": "squash, winter, butternut, frozen"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 680,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170935,
+   "g": 0.25,
+   "name": "sage, ground"
+  }
+ ]
+}

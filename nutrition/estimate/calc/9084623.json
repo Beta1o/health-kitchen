@@ -1,0 +1,62 @@
+{
+ "id": 9084623,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170546,
+   "g": 272,
+   "name": "tomato puree with salt (no-sugar-added ketchup)"
+  },
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt (ketchup sodium)"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 80,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce low sodium (tamari)"
+  },
+  {
+   "line": 4,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sriracha"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  }
+ ],
+ "notes": "no-sugar-added ketchup modelled as salted tomato puree plus 6 g salt"
+}

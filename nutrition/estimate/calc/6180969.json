@@ -1,0 +1,37 @@
+{
+ "id": 6180969,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173444,
+   "g": 77,
+   "name": "Sour cream, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 171246,
+   "g": 45,
+   "name": "Cheese, neufchatel"
+  },
+  {
+   "line": 2,
+   "fdc": 174527,
+   "g": 3.5,
+   "name": "Sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 168568,
+   "g": 480,
+   "name": "Carrots, baby, raw"
+  }
+ ],
+ "notes": "Reduced-fat tub cream cheese -> neufchatel. Baby carrot ~10 g each."
+}

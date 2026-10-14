@@ -1,0 +1,55 @@
+{
+ "id": 6033272,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 99,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 60,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 4,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 3.6,
+   "name": "Spices, ginger, ground"
+  }
+ ],
+ "notes": "units missing in source: read as 1 cup water (left out), 4 eggs, 3 whites, 2 cups spinach, 2 tsp salt-free seasoning (as garlic powder), 2 tsp olive oil, 1 cup grape tomatoes, 1 medium onion, 2 tsp ground ginger; line 8 '(low-fat)' is unclear and may be a different ingredient"
+}

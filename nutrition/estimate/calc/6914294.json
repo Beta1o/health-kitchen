@@ -1,0 +1,84 @@
+{
+ "id": 6914294,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 174046,
+   "g": 680,
+   "name": "beef, bottom round roast, lean, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 48,
+   "name": "tomato paste"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 360,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170465,
+   "g": 488,
+   "name": "turnips, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 2.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "bay leaf"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 169074,
+   "g": 454,
+   "name": "tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 13,
+   "fdc": 172883,
+   "g": 411,
+   "name": "soup, stock, beef, home-prepared (low sodium broth)"
+  }
+ ]
+}

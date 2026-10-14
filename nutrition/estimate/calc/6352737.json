@@ -1,0 +1,66 @@
+{
+ "id": 6352737,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 400,
+   "name": "eggs hardboiled"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30,
+   "name": "small lemon juiced (zest not counted)"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 60,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 174524,
+   "g": 65,
+   "name": "salsa"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsf"
+  }
+ ]
+}

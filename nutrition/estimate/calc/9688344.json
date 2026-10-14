@@ -1,0 +1,55 @@
+{
+ "id": 9688344,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175215,
+   "g": 243,
+   "name": "soymilk, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 80,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 169697,
+   "g": 160,
+   "name": "cornmeal, whole-grain, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 168944,
+   "g": 150,
+   "name": "wheat flour, whole-grain, soft wheat (pastry flour)"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": 9922454,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171723,
+   "g": 120,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 170556,
+   "g": 65,
+   "name": "seeds, pumpkin kernels, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171726,
+   "g": 73,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 3,
+   "fdc": 170170,
+   "g": 25,
+   "name": "coconut, dried, not sweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 168588,
+   "g": 32,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "coconut includes a little extra for rolling"
+}

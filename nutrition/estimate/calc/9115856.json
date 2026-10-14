@@ -1,0 +1,42 @@
+{
+ "id": 9115856,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 112,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 2,
+   "fdc": 170568,
+   "g": 150,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 3,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  }
+ ]
+}

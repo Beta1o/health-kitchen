@@ -1,0 +1,49 @@
+{
+ "id": 6128345,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 340,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170390,
+   "g": 100,
+   "name": "Cabbage, chinese (pak-choi), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 173462,
+   "g": 502,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 6,
+   "fdc": 170900,
+   "g": 75,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  }
+ ],
+ "notes": "Asparagus bunch ~340 g trimmed; baby bok choy head ~100 g. Reduced-fat mozzarella -> part-skim shredded."
+}

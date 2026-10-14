@@ -1,0 +1,55 @@
+{
+ "id": 9231462,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172456,
+   "g": 366,
+   "name": "soymilk, original and vanilla, with added calcium, vitamins a and d"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 60,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 169741,
+   "g": 180,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 5,
+   "fdc": 171330,
+   "g": 26,
+   "name": "spices, poppy seed"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 169414,
+   "g": 14,
+   "name": "seeds, flaxseed"
+  }
+ ],
+ "notes": "Maple syrup and berries toppings without amount left out."
+}

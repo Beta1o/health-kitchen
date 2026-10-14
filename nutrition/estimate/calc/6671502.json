@@ -1,0 +1,62 @@
+{
+ "id": 6671502,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 40,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171016,
+   "g": 9,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 7,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 8,
+   "fdc": 170471,
+   "g": 340,
+   "name": "vegetables, mixed, frozen"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 175159,
+   "g": 454,
+   "name": "tuna, yellowfin, raw"
+  }
+ ],
+ "notes": "Stir-fry vegetable blend as mixed frozen vegetables; salt-free seasoning as onion powder."
+}

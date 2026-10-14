@@ -1,0 +1,50 @@
+{
+ "id": 6364308,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169256,
+   "g": 907,
+   "name": "mustard greens, raw (tender greens)"
+  },
+  {
+   "line": 1,
+   "fdc": 171029,
+   "g": 9,
+   "name": "oil, corn"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion"
+  },
+  {
+   "line": 4,
+   "fdc": 171613,
+   "g": 4,
+   "name": "bouillon cube, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 169655,
+   "g": 4.2,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 174528,
+   "g": 0.6,
+   "name": "tabasco"
+  }
+ ],
+ "notes": "'tender greens' taken as mustard greens"
+}

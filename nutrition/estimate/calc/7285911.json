@@ -1,0 +1,30 @@
+{
+ "id": 7285911,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168936,
+   "g": 100,
+   "name": "Wheat flour, white, all-purpose, enriched, unbleached"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171269,
+   "g": 309,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  }
+ ]
+}

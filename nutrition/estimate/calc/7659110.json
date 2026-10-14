@@ -1,0 +1,50 @@
+{
+ "id": 7659110,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 236,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 1,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 31,
+   "name": "yogurt, greek, plain, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 50,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171711,
+   "g": 50,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170277,
+   "g": 7,
+   "name": "syrup, agave",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Berries 'to serve' had no amount; 100 g mixed berries added because the listed serving is 427 g. Optional agave included."
+}

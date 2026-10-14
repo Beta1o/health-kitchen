@@ -1,0 +1,97 @@
+{
+ "id": 4457544,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171206,
+   "g": 600,
+   "name": "Beef, chuck for stew, separable lean and fat, all grades, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 240,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 27.2,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170920,
+   "g": 1,
+   "name": "Spices, celery seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170937,
+   "g": 0.6,
+   "name": "Spices, tarragon, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 13.8,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 130,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169988,
+   "g": 130,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170427,
+   "g": 130,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172883,
+   "g": 960,
+   "name": "Soup, stock, beef, home-prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 170688,
+   "g": 70,
+   "name": "Bulgur, dry"
+  },
+  {
+   "line": 12,
+   "fdc": 170284,
+   "g": 100,
+   "name": "Barley, pearled, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "servings missing: assumed 6 (about 2.3 L soup); 'spaghetti mix' frozen vegetables split as onion/celery/green pepper"
+}

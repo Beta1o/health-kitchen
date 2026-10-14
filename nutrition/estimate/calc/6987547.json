@@ -1,0 +1,55 @@
+{
+ "id": 6987547,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173709,
+   "g": 260,
+   "name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 169910,
+   "g": 100,
+   "name": "Mangos, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173594,
+   "g": 77,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 2,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168429,
+   "g": 60,
+   "name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170184,
+   "g": 15,
+   "name": "Nuts, pistachio nuts, raw"
+  }
+ ],
+ "notes": "12-oz can tuna drained ~260 g. Lime zest counted as lime."
+}

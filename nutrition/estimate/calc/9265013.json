@@ -1,0 +1,55 @@
+{
+ "id": 9265013,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170556,
+   "g": 65,
+   "name": "pumpkin seed kernels"
+  },
+  {
+   "line": 2,
+   "fdc": 168559,
+   "g": 227,
+   "name": "pimento, canned (roasted red peppers)"
+  },
+  {
+   "line": 3,
+   "fdc": 175043,
+   "g": 10,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar (rice)"
+  },
+  {
+   "line": 5,
+   "fdc": 171186,
+   "g": 17,
+   "name": "sriracha"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 6,
+   "name": "sea salt"
+  }
+ ],
+ "notes": "nutritional yeast modelled as active dry yeast; jarred roasted peppers as canned pimento"
+}

@@ -1,0 +1,31 @@
+{
+ "id": 6519498,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek"
+  },
+  {
+   "line": 1,
+   "fdc": 168209,
+   "g": 125,
+   "name": "frozen raspberries unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "van"
+  }
+ ]
+}

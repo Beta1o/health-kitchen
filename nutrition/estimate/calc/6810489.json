@@ -1,0 +1,61 @@
+{
+ "id": 6810489,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 680,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 33,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171292,
+   "g": 50,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 5,
+   "fdc": 174928,
+   "g": 36,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring/green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Optional salt included since an amount is given."
+}

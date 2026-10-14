@@ -1,0 +1,61 @@
+{
+ "id": 6475348,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169096,
+   "g": 227,
+   "name": "olives, pickled, green"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 200,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 2,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Olives are rinsed, so sodium may be a bit lower than the brined value."
+}

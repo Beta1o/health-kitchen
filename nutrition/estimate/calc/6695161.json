@@ -1,0 +1,80 @@
+{
+ "id": 6695161,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 2,
+   "fdc": 171029,
+   "g": 13.6,
+   "name": "oil, corn"
+  },
+  {
+   "line": 3,
+   "fdc": 168556,
+   "g": 120,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171610,
+   "g": 51,
+   "name": "worcestershire sauce"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170675,
+   "g": 24,
+   "name": "sugar substitute, brown"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170929,
+   "g": 4,
+   "name": "mustard seed, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "Sauce is a marinade/baste; all of it counted."
+}

@@ -1,0 +1,78 @@
+{
+ "id": 6027027,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 400,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170138,
+   "g": 240,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 200,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 5.3,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170591,
+   "g": 17,
+   "name": "nuts, pine nuts, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 11,
+   "fdc": 173703,
+   "g": 340,
+   "name": "fish, swordfish, raw"
+  }
+ ]
+}

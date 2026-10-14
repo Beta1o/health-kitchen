@@ -1,0 +1,61 @@
+{
+ "id": 6793068,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173709,
+   "g": 340,
+   "name": "tuna, light, canned in water, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 170887,
+   "g": 46,
+   "name": "yogurt, plain, skim"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169096,
+   "g": 27,
+   "name": "olives, green, pickled"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 168429,
+   "g": 45,
+   "name": "lettuce, butterhead, raw"
+  }
+ ],
+ "notes": "12 oz tuna taken as drained weight; Kalamata olives as green pickled olives (sodium); no wrap/tortilla listed"
+}

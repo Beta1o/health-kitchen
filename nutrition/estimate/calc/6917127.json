@@ -1,0 +1,79 @@
+{
+ "id": 6917127,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 90,
+   "name": "spinach raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172183,
+   "g": 165,
+   "name": "egg white raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 61,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 2.6,
+   "name": "basil fresh"
+  }
+ ],
+ "notes": "optional 1/2 tsp salt included"
+}

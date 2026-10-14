@@ -1,0 +1,74 @@
+{
+ "id": 6768400,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 60,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 30,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 24,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 8,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171186,
+   "g": 3,
+   "name": "Sauce, hot chile, sriracha"
+  },
+  {
+   "line": 6,
+   "fdc": 170672,
+   "g": 2.3,
+   "added_sugar": true,
+   "name": "Sweeteners, for baking, brown, contains sugar and sucralose"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175179,
+   "g": 567,
+   "name": "Crustaceans, shrimp, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170379,
+   "g": 273,
+   "name": "Broccoli, raw"
+  }
+ ],
+ "notes": "rice vinegar as distilled vinegar; brown sugar substitute as sugar/sucralose brown baking blend; low-sodium vegetable broth as home-prepared stock"
+}

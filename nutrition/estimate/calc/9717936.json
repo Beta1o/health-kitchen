@@ -1,0 +1,48 @@
+{
+ "id": 9717936,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 1.35,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  }
+ ]
+}

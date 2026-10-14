@@ -1,0 +1,54 @@
+{
+ "id": 6443719,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 173691,
+   "g": 227,
+   "name": "Fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170499,
+   "g": 40,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 168389,
+   "g": 128,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 1.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 1.5,
+   "name": "Lemon peel, raw"
+  }
+ ]
+}

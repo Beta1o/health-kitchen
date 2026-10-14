@@ -1,0 +1,43 @@
+{
+ "id": 6161139,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170257,
+   "g": 8,
+   "name": "sucralose sweetener (granulated)"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 81,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 174266,
+   "g": 129,
+   "name": "peanut butter, smooth, with salt"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 162,
+   "name": "oats, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 167976,
+   "g": 32,
+   "name": "semisweet chocolate (mini chips)",
+   "added_sugar": true
+  }
+ ]
+}

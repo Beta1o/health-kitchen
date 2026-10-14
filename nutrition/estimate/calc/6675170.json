@@ -1,0 +1,30 @@
+{
+ "id": 6675170,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 567,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171579,
+   "g": 63,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 3,
+   "fdc": 172232,
+   "g": 1.5,
+   "name": "Basil, fresh"
+  }
+ ]
+}

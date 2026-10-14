@@ -1,0 +1,42 @@
+{
+ "id": 9807540,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 300,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 16,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "Spices, pepper, red or cayenne"
+  }
+ ]
+}

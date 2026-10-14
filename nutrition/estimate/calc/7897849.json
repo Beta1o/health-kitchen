@@ -1,0 +1,49 @@
+{
+ "id": 7897849,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 400,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 13.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 171955,
+   "g": 400,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 8,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 200,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 171826,
+   "g": 10,
+   "name": "Sauce, tartar, ready-to-serve"
+  },
+  {
+   "line": 6,
+   "fdc": 170886,
+   "g": 10,
+   "name": "Yogurt, plain, low fat"
+  }
+ ],
+ "notes": "White fish entered as Atlantic cod; rapeseed oil as canola oil. Lemon and pepper to serve left out."
+}

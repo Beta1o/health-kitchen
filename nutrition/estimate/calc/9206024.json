@@ -1,0 +1,31 @@
+{
+ "id": 9206024,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 202,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Green bananas taken as ordinary raw bananas."
+}

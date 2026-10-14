@@ -1,0 +1,67 @@
+{
+ "id": 6226195,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174288,
+   "g": 92,
+   "name": "chickpea flour (besan)"
+  },
+  {
+   "line": 1,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 0.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 55,
+   "name": "carrots, grated"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 61,
+   "name": "greek yogurt, nonfat"
+  }
+ ],
+ "notes": "1 cup chickpea flour taken as 92 g (USDA)."
+}

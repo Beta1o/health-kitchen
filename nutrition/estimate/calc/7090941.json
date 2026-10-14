@@ -1,0 +1,80 @@
+{
+ "id": 7090941,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract (lemon extract proxy)"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 4.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 50,
+   "name": "oil, canola"
+  },
+  {
+   "line": 6,
+   "fdc": 168867,
+   "g": 100,
+   "name": "cornmeal, yellow, degermed"
+  },
+  {
+   "line": 7,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "baking soda"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 8,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 9,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 10,
+   "fdc": 169640,
+   "g": 14,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Lemon extract modelled with vanilla extract; granulated sweetener as sucralose."
+}

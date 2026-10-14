@@ -1,0 +1,31 @@
+{
+ "id": 6338529,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171052,
+   "g": 1130,
+   "name": "chicken, broilers or fryers, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171331,
+   "g": 3,
+   "name": "poultry seasoning (salt-free herb blend)"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  }
+ ],
+ "notes": "Whole 4 lb chicken: edible meat 1130 g raw assumed (10 x 3 oz cooked), skin not eaten; Mrs Dash as poultry seasoning."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6631528,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 171962,
+   "g": 454,
+   "name": "Fish, grouper, mixed species, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171415,
+   "g": 42,
+   "name": "Margarine,spread, 35-39% fat, tub"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 174527,
+   "g": 1.2,
+   "name": "Sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Light tub margarine as 35-39% fat tub spread; Dijon as prepared mustard."
+}

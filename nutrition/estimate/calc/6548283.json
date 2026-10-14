@@ -1,0 +1,25 @@
+{
+ "id": 6548283,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 245,
+   "name": "Greek yogurt, nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 168458,
+   "g": 20,
+   "name": "roasted seaweed snack (laver)"
+  },
+  {
+   "line": 2,
+   "fdc": 168411,
+   "g": 78,
+   "name": "edamame, shelled"
+  }
+ ],
+ "notes": "Roasted seaweed packet (~5 g dried) mapped to 20 g raw laver; snack oil/salt not counted."
+}

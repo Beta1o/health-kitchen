@@ -1,0 +1,68 @@
+{
+ "id": 6025540,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 700,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173594,
+   "g": 120,
+   "name": "light mayonnaise"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 42,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170920,
+   "g": 1,
+   "name": "celery seed"
+  }
+ ],
+ "notes": "small cabbage assumed 700 g"
+}

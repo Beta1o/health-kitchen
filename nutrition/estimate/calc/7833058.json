@@ -1,0 +1,62 @@
+{
+ "id": 7833058,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175120,
+   "g": 280,
+   "name": "mackerel, Atlantic, cooked, dry heat"
+  },
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 5.6,
+   "name": "salt, table"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 8.4,
+   "added_sugar": true,
+   "name": "sugars, granulated"
+  },
+  {
+   "line": 3,
+   "fdc": 171315,
+   "g": 0.6,
+   "name": "allspice, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 174916,
+   "g": 120,
+   "name": "bread, pita, whole-wheat"
+  },
+  {
+   "line": 5,
+   "fdc": 169387,
+   "g": 120,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "No smoked mackerel in SR: cooked Atlantic mackerel plus 2 g salt per 100 g fish for smoking cure. Juniper berries (no entry) as allspice. Wholemeal pitta 60 g each."
+}

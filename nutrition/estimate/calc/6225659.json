@@ -1,0 +1,103 @@
+{
+ "id": 6225659,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 54.4,
+   "name": "avocado oil"
+  },
+  {
+   "line": 1,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt coarse"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion small"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 5,
+   "name": "coriander ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 6,
+   "name": "cumin"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 3.5,
+   "name": "paprika smoked"
+  },
+  {
+   "line": 9,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 172884,
+   "g": 480,
+   "name": "chicken stock home-prepared"
+  },
+  {
+   "line": 12,
+   "fdc": 170138,
+   "g": 822,
+   "name": "tomatoes canned no salt added (2 x 14.5 oz)"
+  },
+  {
+   "line": 13,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms white"
+  },
+  {
+   "line": 14,
+   "fdc": 170108,
+   "g": 238,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 15,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  }
+ ],
+ "notes": "thighs taken as boneless 1 lb; cans assumed 14.5 oz"
+}

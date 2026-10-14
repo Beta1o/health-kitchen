@@ -1,0 +1,92 @@
+{
+ "id": 6305434,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 2,
+   "fdc": 174055,
+   "g": 454,
+   "name": "top sirloin lean only raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 22.5,
+   "name": "coconut aminos -> soy sauce low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 172886,
+   "g": 32,
+   "name": "hoisin sauce",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 3,
+   "name": "ginger root raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 8,
+   "fdc": 171028,
+   "g": 13.6,
+   "name": "grapeseed oil"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170379,
+   "g": 273,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169975,
+   "g": 210,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170005,
+   "g": 60,
+   "name": "green onion raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170398,
+   "g": 170,
+   "name": "cauliflower frozen"
+  }
+ ],
+ "notes": "coconut aminos has no SR entry; low-sodium soy sauce overstates sodium (~2x) and protein"
+}

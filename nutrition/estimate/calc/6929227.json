@@ -1,0 +1,67 @@
+{
+ "id": 6929227,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 132,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171269,
+   "g": 122,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 170170,
+   "g": 28,
+   "name": "coconut, desiccated, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 1,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 5,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 169311,
+   "g": 84,
+   "name": "artichokes, boiled, with salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173590,
+   "g": 60,
+   "name": "italian dressing, fat-free"
+  }
+ ],
+ "notes": "Coconut flour -> desiccated unsweetened coconut (no coconut flour entry; underestimates fiber/protein); canned artichoke hearts -> boiled with salt."
+}

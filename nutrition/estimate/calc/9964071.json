@@ -1,0 +1,62 @@
+{
+ "id": 9964071,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 280,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174294,
+   "g": 86,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 220,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 170148,
+   "g": 40,
+   "name": "hemp seed, hulled"
+  },
+  {
+   "line": 6,
+   "fdc": 169414,
+   "g": 42,
+   "name": "seeds, flaxseed"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder, double-acting"
+  }
+ ],
+ "notes": "Shredded zucchini squeezed; some water lost."
+}

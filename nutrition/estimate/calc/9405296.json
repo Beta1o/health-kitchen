@@ -1,0 +1,37 @@
+{
+ "id": 9405296,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 454,
+   "name": "pasta, dry (penne)"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 450,
+   "name": "broccoli, raw (florets of 1 large head)"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 54.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 3.5,
+   "name": "dried chili peppers as red pepper"
+  }
+ ],
+ "notes": "Dried chillies (6-8) as 3.5 g red pepper; reserved pasta water left out."
+}

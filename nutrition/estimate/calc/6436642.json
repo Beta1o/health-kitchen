@@ -1,0 +1,54 @@
+{
+ "id": 6436642,
+ "servings": 8,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 174284,
+   "g": 64,
+   "name": "lentils, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170189,
+   "g": 15,
+   "name": "tahini"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 1.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

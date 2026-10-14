@@ -1,0 +1,150 @@
+{
+ "id": 7179097,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 15,
+   "name": "ginger root"
+  },
+  {
+   "line": 4,
+   "fdc": 170497,
+   "g": 10,
+   "name": "green chili"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171324,
+   "g": 1.8,
+   "name": "fenugreek seed"
+  },
+  {
+   "line": 8,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "line": 9,
+   "fdc": 170924,
+   "g": 2,
+   "name": "curry powder (garam masala)"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 1.3,
+   "name": "chilli powder (cayenne)"
+  },
+  {
+   "line": 11,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 12,
+   "fdc": 174832,
+   "g": 400,
+   "name": "almond milk unsweetened"
+  },
+  {
+   "line": 13,
+   "fdc": 168434,
+   "g": 1000,
+   "name": "mushrooms, crimini (chestnut), raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170934,
+   "g": 0.1,
+   "name": "saffron"
+  },
+  {
+   "line": 15,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay leaf"
+  },
+  {
+   "line": 16,
+   "fdc": 171320,
+   "g": 2,
+   "name": "cinnamon (stick)"
+  },
+  {
+   "line": 17,
+   "fdc": 170887,
+   "g": 60,
+   "name": "yogurt, plain, skim"
+  },
+  {
+   "line": 18,
+   "fdc": 169997,
+   "g": 20,
+   "name": "cilantro"
+  },
+  {
+   "line": 19,
+   "fdc": 168877,
+   "g": 200,
+   "name": "rice, white, long-grain, raw (basmati)"
+  },
+  {
+   "line": 20,
+   "fdc": 171320,
+   "g": 2,
+   "name": "cinnamon (stick)"
+  },
+  {
+   "line": 21,
+   "fdc": 170919,
+   "g": 1,
+   "name": "cardamom"
+  },
+  {
+   "line": 22,
+   "fdc": 171321,
+   "g": 0.3,
+   "name": "cloves"
+  },
+  {
+   "line": 23,
+   "fdc": 170934,
+   "g": 0.1,
+   "name": "saffron"
+  }
+ ]
+}

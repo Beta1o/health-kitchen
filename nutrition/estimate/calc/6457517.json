@@ -1,0 +1,61 @@
+{
+ "id": 6457517,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168434,
+   "g": 320,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 168462,
+   "g": 120,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 75,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 173452,
+   "g": 50,
+   "name": "parmesan, reduced fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "16 large cremini caps assumed 20 g each."
+}

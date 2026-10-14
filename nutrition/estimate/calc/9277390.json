@@ -1,0 +1,97 @@
+{
+ "id": 9277390,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169255,
+   "g": 540,
+   "name": "portob"
+  },
+  {
+   "line": 1,
+   "fdc": 170162,
+   "g": 205,
+   "name": "cashew"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider"
+  },
+  {
+   "line": 3,
+   "fdc": 175043,
+   "g": 15,
+   "name": "nutritional yeast (as active dry yeast)"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlicpow"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 245,
+   "name": "tomsauce"
+  },
+  {
+   "line": 9,
+   "fdc": 170187,
+   "g": 58,
+   "name": "walnut"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 11,
+   "fdc": 171317,
+   "g": 0.2,
+   "name": "basildr"
+  },
+  {
+   "line": 12,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "oregano"
+  },
+  {
+   "line": 13,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlicpow"
+  },
+  {
+   "line": 14,
+   "fdc": 170162,
+   "g": 2,
+   "name": "vegan parmesan garnish"
+  },
+  {
+   "line": 15,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley"
+  }
+ ],
+ "notes": "Nutritional yeast as active dry yeast; vegan parmesan (no amount) as 2 g cashews."
+}

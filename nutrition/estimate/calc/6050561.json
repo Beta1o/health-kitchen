@@ -1,0 +1,43 @@
+{
+ "id": 6050561,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171689,
+   "g": 480,
+   "name": "apple without skin"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 30,
+   "name": "walnuts"
+  }
+ ]
+}

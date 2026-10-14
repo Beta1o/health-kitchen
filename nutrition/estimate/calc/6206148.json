@@ -1,0 +1,36 @@
+{
+ "id": 6206148,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169146,
+   "g": 170,
+   "name": "beets, cooked, boiled"
+  },
+  {
+   "line": 1,
+   "fdc": 170189,
+   "g": 80,
+   "name": "tahini"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 60,
+   "name": "greek yogurt, nonfat"
+  }
+ ]
+}

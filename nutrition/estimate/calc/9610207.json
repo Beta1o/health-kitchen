@@ -1,0 +1,49 @@
+{
+ "id": 9610207,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170687,
+   "g": 300,
+   "name": "buckwheat flour whole-groat"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 170150,
+   "g": 13,
+   "name": "sesame seeds whole dried"
+  }
+ ],
+ "notes": "1-2 tbsp mixed seeds taken as 1.5 tbsp sesame seeds"
+}

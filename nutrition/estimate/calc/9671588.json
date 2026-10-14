@@ -1,0 +1,61 @@
+{
+ "id": 9671588,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172232,
+   "g": 24,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 172421,
+   "g": 99,
+   "name": "lentils, boiled, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171583,
+   "g": 37,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 6,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 300,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172421,
+   "g": 99,
+   "name": "lentils, boiled, without salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 54,
+   "name": "almonds"
+  }
+ ],
+ "notes": "Lentils taken as cooked without salt; salt to taste left out."
+}

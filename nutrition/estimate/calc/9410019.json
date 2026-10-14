@@ -1,0 +1,48 @@
+{
+ "id": 9410019,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169124,
+   "g": 248,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 300,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169997,
+   "g": 5.3,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168576,
+   "g": 21,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  }
+ ]
+}

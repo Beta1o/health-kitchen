@@ -1,0 +1,97 @@
+{
+ "id": 7786545,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oliveoil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 172486,
+   "g": 450,
+   "name": "lean lamb raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170026,
+   "g": 650,
+   "name": "potato"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 171562,
+   "g": 10,
+   "name": "stock cube"
+  },
+  {
+   "line": 6,
+   "fdc": 171610,
+   "g": 2,
+   "name": "worc"
+  },
+  {
+   "line": 7,
+   "fdc": 171565,
+   "g": 8,
+   "name": "gravy powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "mixed dried herbs"
+  },
+  {
+   "line": 9,
+   "fdc": 168482,
+   "g": 650,
+   "name": "sweetpot"
+  },
+  {
+   "line": 10,
+   "fdc": 171267,
+   "g": 30,
+   "name": "semi-skimmed milk"
+  },
+  {
+   "line": 11,
+   "fdc": 173589,
+   "g": 14,
+   "name": "reduced-fat margarine"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper"
+  },
+  {
+   "line": 13,
+   "fdc": 170388,
+   "g": 350,
+   "name": "half savoy cabbage"
+  },
+  {
+   "line": 14,
+   "fdc": 170005,
+   "g": 100,
+   "name": "bunch spring onions"
+  }
+ ],
+ "notes": "Half savoy cabbage guessed 350 g, bunch spring onions 100 g, gravy powder 1 tbsp 8 g."
+}

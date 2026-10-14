@@ -1,0 +1,60 @@
+{
+ "id": 7291211,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 200,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171688,
+   "g": 250,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 175,
+   "name": "cereals, oats, regular and quick, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 173933,
+   "g": 155,
+   "name": "apple juice, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 168165,
+   "g": 40,
+   "name": "raisins, seedless"
+  },
+  {
+   "line": 5,
+   "fdc": 170562,
+   "g": 20,
+   "name": "seeds, sunflower kernels, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170556,
+   "g": 20,
+   "name": "seeds, pumpkin kernels, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 3.5,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  }
+ ]
+}

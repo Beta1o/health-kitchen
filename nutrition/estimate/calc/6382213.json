@@ -1,0 +1,85 @@
+{
+ "id": 6382213,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 5,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 6,
+   "fdc": 172395,
+   "g": 680,
+   "name": "chicken, roasting, meat only, roasted"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 11,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 172888,
+   "g": 240,
+   "name": "chicken broth, reduced sodium"
+  }
+ ],
+ "notes": "Chicken counted as served: 8 x 3 oz roasted meat without skin (680 g), not the whole 5.5 lb bird. Lemons in the cavity counted as 30 g juice. Optional 1 tsp salt included."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 6952937,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  }
+ ],
+ "notes": "Italian seasoning as dried oregano."
+}

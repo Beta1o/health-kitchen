@@ -1,0 +1,48 @@
+{
+ "id": 6182435,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 408,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  }
+ ]
+}

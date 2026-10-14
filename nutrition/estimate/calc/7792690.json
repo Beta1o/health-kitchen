@@ -1,0 +1,54 @@
+{
+ "id": 7792690,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 50,
+   "name": "carrot (small)"
+  },
+  {
+   "line": 4,
+   "fdc": 168482,
+   "g": 450,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 450,
+   "name": "stock, home-prepared (low-salt vegetable stock)"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ]
+}

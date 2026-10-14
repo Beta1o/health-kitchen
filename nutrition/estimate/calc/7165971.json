@@ -1,0 +1,103 @@
+{
+ "id": 7165971,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 200,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 171562,
+   "g": 10,
+   "name": "bouillon dry (fish stock cube)"
+  },
+  {
+   "line": 3,
+   "fdc": 169385,
+   "g": 175,
+   "name": "fennel bulb"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 140,
+   "name": "yellow pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169246,
+   "g": 150,
+   "name": "leek"
+  },
+  {
+   "line": 6,
+   "fdc": 172231,
+   "g": 0.2,
+   "name": "turmeric"
+  },
+  {
+   "line": 7,
+   "fdc": 170933,
+   "g": 0.5,
+   "name": "white pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 9,
+   "fdc": 172338,
+   "g": 9,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 10,
+   "fdc": 175142,
+   "g": 360,
+   "name": "sea bass raw (for bream)"
+  },
+  {
+   "line": 11,
+   "fdc": 175180,
+   "g": 150,
+   "name": "shrimp cooked (king prawns)"
+  },
+  {
+   "line": 12,
+   "fdc": 174217,
+   "g": 150,
+   "name": "mussels cooked"
+  },
+  {
+   "line": 13,
+   "fdc": 170457,
+   "g": 100,
+   "name": "tomato"
+  },
+  {
+   "line": 14,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 15,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "no fish stock cube entry: chicken bouillon dry 10 g used; bream -> sea bass"
+}

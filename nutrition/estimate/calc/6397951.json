@@ -1,0 +1,60 @@
+{
+ "id": 6397951,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 454,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169247,
+   "g": 113,
+   "name": "lettuce, romaine"
+  },
+  {
+   "line": 2,
+   "fdc": 169097,
+   "g": 184,
+   "name": "orange, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomato, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 15,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ]
+}

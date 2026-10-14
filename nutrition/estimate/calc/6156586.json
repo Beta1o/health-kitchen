@@ -1,0 +1,55 @@
+{
+ "id": 6156586,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170937,
+   "g": 2,
+   "name": "tarragon, dried (3 tbsp fresh)"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 45,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 168434,
+   "g": 54,
+   "name": "mushrooms, crimini"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  }
+ ],
+ "notes": "fresh tarragon entered as 2 g dried tarragon"
+}

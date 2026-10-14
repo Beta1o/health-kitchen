@@ -1,0 +1,44 @@
+{
+ "id": 7308711,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170272,
+   "g": 75,
+   "name": "dark chocolate 60-69%",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 170184,
+   "g": 15,
+   "name": "pistachios"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 175227,
+   "g": 200,
+   "name": "soy yogurt plain"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 173944,
+   "g": 136,
+   "name": "banana"
+  }
+ ],
+ "notes": "plant-based Greek-style yogurt via plain soy yogurt"
+}

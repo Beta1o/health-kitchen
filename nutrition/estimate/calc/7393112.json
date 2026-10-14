@@ -1,0 +1,73 @@
+{
+ "id": 7393112,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171447,
+   "g": 1020,
+   "name": "chicken, broilers, meat and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167746,
+   "g": 58,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 2,
+   "fdc": 170400,
+   "g": 850,
+   "name": "celeriac, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 4,
+   "fdc": 170937,
+   "g": 3,
+   "name": "tarragon, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170499,
+   "g": 150,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 10,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168421,
+   "g": 250,
+   "name": "kale, raw"
+  }
+ ],
+ "notes": "1.5 kg chicken -> ~1020 g meat and skin; celeriac peeled ~850 g; fresh tarragon bag ~15 g as 3 g dried; cavolo nero as kale; 5 shallots"
+}

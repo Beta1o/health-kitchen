@@ -1,0 +1,78 @@
+{
+ "id": 6957182,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173734,
+   "g": 283,
+   "name": "black beans dry"
+  },
+  {
+   "line": 2,
+   "fdc": 169703,
+   "g": 93,
+   "name": "brown rice raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 6,
+   "name": "sea salt"
+  },
+  {
+   "line": 4,
+   "fdc": 173573,
+   "g": 6.8,
+   "name": "avocado oil"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 3,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170427,
+   "g": 149,
+   "name": "green pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 75,
+   "name": "red pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onion"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 17,
+   "name": "garlic"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 4.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin"
+  },
+  {
+   "line": 12,
+   "fdc": 170917,
+   "g": 0.6,
+   "name": "bay leaves"
+  }
+ ]
+}

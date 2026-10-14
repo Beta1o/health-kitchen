@@ -1,0 +1,84 @@
+{
+ "id": 7654528,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169731,
+   "g": 150,
+   "name": "Noodles, egg, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 9,
+   "name": "Oil, sesame, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 15,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170106,
+   "g": 2,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169957,
+   "g": 150,
+   "name": "Mung beans, mature seeds, sprouted, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 10,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168409,
+   "g": 50,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 172430,
+   "g": 30,
+   "name": "Peanuts, all types, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 10,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": 7720686,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175119,
+   "g": 360,
+   "name": "fish, mackerel, atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172688,
+   "g": 36,
+   "name": "bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 2.3,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 172885,
+   "g": 100,
+   "name": "soup, stock, fish, home-prepared"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 500,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 169387,
+   "g": 120,
+   "name": "arugula, raw"
+  }
+ ],
+ "notes": "Mackerel 4 x 90 g as Atlantic mackerel raw; soya and linseed bread as whole-wheat bread 36 g; stock as fish stock."
+}

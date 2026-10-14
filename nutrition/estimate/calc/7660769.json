@@ -1,0 +1,115 @@
+{
+ "id": 7660769,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173475,
+   "g": 10,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 170497,
+   "g": 4,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170886,
+   "g": 250,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 0.3,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 173801,
+   "g": 480,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 7,
+   "fdc": 170444,
+   "g": 350,
+   "name": "potatoes, canned, drained"
+  },
+  {
+   "line": 8,
+   "fdc": 175243,
+   "g": 130,
+   "name": "kidney beans, canned, drained, rinsed"
+  },
+  {
+   "line": 9,
+   "fdc": 173760,
+   "g": 130,
+   "name": "cowpeas (black-eyed), canned, plain"
+  },
+  {
+   "line": 10,
+   "fdc": 169214,
+   "g": 165,
+   "name": "corn, sweet, yellow, canned, drained"
+  },
+  {
+   "line": 11,
+   "fdc": 171319,
+   "g": 1.3,
+   "name": "chili powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170497,
+   "g": 8,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170924,
+   "g": 1.2,
+   "name": "curry powder (masala stand-in)"
+  },
+  {
+   "line": 14,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 15,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170924,
+   "g": 2,
+   "name": "curry powder (masala stand-in)"
+  }
+ ],
+ "notes": "Drained weights estimated from tin sizes (400 g tin -> 240 g, 560 g potatoes -> 350 g, 220 g tins -> 130 g, 198 g corn -> 165 g); chaat/garam masala as curry powder."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 6501895,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173470,
+   "g": 3,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 169878,
+   "g": 8,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Half small bunch thyme guessed 3 g leaves; sugar-free maple-type syrup as sugar-free syrup."
+}

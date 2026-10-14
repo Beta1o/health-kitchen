@@ -1,0 +1,78 @@
+{
+ "id": 6628488,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172475,
+   "g": 397,
+   "name": "Tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 60,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 2,
+   "fdc": 174288,
+   "g": 23,
+   "name": "Chickpea flour (besan)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 0.75,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 169384,
+   "g": 37,
+   "name": "Tomatoes, sun-dried, packed in oil, drained"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170108,
+   "g": 37,
+   "name": "Peppers, sweet, red, raw"
+  }
+ ]
+}

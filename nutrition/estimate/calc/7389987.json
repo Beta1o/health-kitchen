@@ -1,0 +1,85 @@
+{
+ "id": 7389987,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 169383,
+   "g": 150,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 170427,
+   "g": 150,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 200,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 250,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 172241,
+   "g": 13,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 172675,
+   "g": 300,
+   "name": "Bread, french or vienna (includes sourdough)"
+  },
+  {
+   "line": 8,
+   "fdc": 173435,
+   "g": 100,
+   "name": "Cheese, goat, soft type"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 160,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "part-baked ciabatta -> French bread entry; goat's cheese assumed soft"
+}

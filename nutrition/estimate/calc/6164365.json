@@ -1,0 +1,73 @@
+{
+ "id": 6164365,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170844,
+   "g": 12.5,
+   "name": "cheese, monterey"
+  },
+  {
+   "line": 1,
+   "fdc": 174592,
+   "g": 30,
+   "name": "bacon, turkey, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 173462,
+   "g": 250,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 173443,
+   "g": 12,
+   "name": "sour cream, light"
+  },
+  {
+   "line": 6,
+   "fdc": 173871,
+   "g": 56,
+   "name": "sausage, turkey, cooked"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 10,
+   "fdc": 170043,
+   "g": 98,
+   "name": "potatoes, hash brown, frozen"
+  }
+ ],
+ "notes": "Turkey bacon 15 g/slice raw; precooked turkey sausage patties 28 g each as cooked turkey sausage."
+}

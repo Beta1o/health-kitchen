@@ -1,0 +1,57 @@
+{
+ "id": 9853178,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172470,
+   "g": 129,
+   "name": "Peanut butter, smooth style, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 80,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 30,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 169741,
+   "g": 25,
+   "name": "Oat flour, partially debranned"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 167990,
+   "g": 1,
+   "added_sugar": true,
+   "name": "Candies, hard"
+  }
+ ],
+ "notes": "peppermint extract as vanilla extract; crushed candy canes (no amount) as 1 g hard candy"
+}

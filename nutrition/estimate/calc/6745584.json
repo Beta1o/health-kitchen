@@ -1,0 +1,68 @@
+{
+ "id": 6745584,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172240,
+   "g": 30,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 7,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169917,
+   "g": 500,
+   "name": "Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 169385,
+   "g": 400,
+   "name": "Fennel, bulb, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169276,
+   "g": 27,
+   "name": "Radishes, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173475,
+   "g": 6,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 169387,
+   "g": 142,
+   "name": "Arugula, raw"
+  }
+ ],
+ "notes": "Sherry vinegar entered as red wine vinegar. Oranges 1.5 lb before peeling taken as 500 g peeled; fennel after coring 400 g."
+}

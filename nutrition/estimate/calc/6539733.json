@@ -1,0 +1,36 @@
+{
+ "id": 6539733,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169961,
+   "g": 227,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  }
+ ]
+}

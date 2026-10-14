@@ -1,0 +1,31 @@
+{
+ "id": 6605420,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 340,
+   "name": "zucchini/summer squash"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 149,
+   "name": "bell pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 171415,
+   "g": 28,
+   "name": "margarine spread 35%"
+  },
+  {
+   "line": 4,
+   "fdc": 172692,
+   "g": 50,
+   "name": "cornbread stuffing dry mix"
+  }
+ ],
+ "notes": "1 cup dry cornbread stuffing mix assumed 50 g"
+}

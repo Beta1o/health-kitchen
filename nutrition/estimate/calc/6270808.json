@@ -1,0 +1,121 @@
+{
+ "id": 6270808,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 61,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169994,
+   "g": 12,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 169247,
+   "g": 376,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168462,
+   "g": 71,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 301,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 12,
+   "fdc": 169276,
+   "g": 227,
+   "name": "Radishes, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 171985,
+   "g": 113,
+   "name": "Fish, salmon, chinook, smoked, (lox), regular"
+  },
+  {
+   "line": 15,
+   "fdc": 173424,
+   "g": 150,
+   "name": "Egg, whole, cooked, hard-boiled"
+  },
+  {
+   "line": 16,
+   "fdc": 171705,
+   "g": 75,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 17,
+   "fdc": 170150,
+   "g": 2,
+   "name": "Seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 17,
+   "fdc": 173468,
+   "g": 0.8,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "everything bagel seasoning (1 tsp) -> sesame seeds 2 g + salt 0.8 g; smoked salmon -> lox"
+}

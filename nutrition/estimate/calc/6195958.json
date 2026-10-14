@@ -1,0 +1,67 @@
+{
+ "id": 6195958,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 175188,
+   "g": 510,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174524,
+   "g": 195,
+   "name": "sauce, salsa"
+  },
+  {
+   "line": 5,
+   "fdc": 168867,
+   "g": 30,
+   "name": "cornmeal, degermed, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 169249,
+   "g": 72,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171705,
+   "g": 200,
+   "name": "avocados, raw"
+  }
+ ],
+ "notes": "Black beans 2 cans drained ~510 g."
+}

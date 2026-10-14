@@ -1,0 +1,78 @@
+{
+ "id": 6536371,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 454,
+   "name": "potatoes, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "italian seasoning (oregano, dried)"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 300,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175179,
+   "g": 680,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 9,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170848,
+   "g": 42.5,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil, fresh"
+  }
+ ]
+}

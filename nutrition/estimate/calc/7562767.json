@@ -1,0 +1,115 @@
+{
+ "id": 7562767,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170284,
+   "g": 125,
+   "name": "Barley, pearled, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 18,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 5,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 6,
+   "fdc": 172475,
+   "g": 150,
+   "name": "Tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169231,
+   "g": 8,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171323,
+   "g": 1,
+   "name": "Spices, fennel seed"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 25,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 120,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170108,
+   "g": 160,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169383,
+   "g": 160,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 169291,
+   "g": 140,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 170016,
+   "g": 100,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 16,
+   "fdc": 172473,
+   "g": 10.6,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 17,
+   "fdc": 169134,
+   "g": 80,
+   "name": "Pomegranates, raw"
+  }
+ ],
+ "notes": "Chinese 5-spice -> fennel seed"
+}

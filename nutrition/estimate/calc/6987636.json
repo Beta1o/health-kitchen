@@ -1,0 +1,84 @@
+{
+ "id": 6987636,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172847,
+   "g": 113,
+   "name": "turkey99"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oliveoil"
+  },
+  {
+   "line": 2,
+   "fdc": 170027,
+   "g": 227,
+   "name": "russet"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 230,
+   "name": "2 cups sliced onion"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach"
+  },
+  {
+   "line": 5,
+   "fdc": 168434,
+   "g": 144,
+   "name": "mush_crem"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 5.6,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg"
+  },
+  {
+   "line": 8,
+   "fdc": 172183,
+   "g": 132,
+   "name": "eggwhite"
+  },
+  {
+   "line": 9,
+   "fdc": 171269,
+   "g": 61,
+   "name": "skim"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 12,
+   "fdc": 171328,
+   "g": 0.2,
+   "name": "Italian seasoning"
+  }
+ ]
+}

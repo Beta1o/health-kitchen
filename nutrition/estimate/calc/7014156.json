@@ -1,0 +1,97 @@
+{
+ "id": 7014156,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 500,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172231,
+   "g": 6,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168482,
+   "g": 300,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170924,
+   "g": 7,
+   "name": "spices, curry powder"
+  },
+  {
+   "line": 8,
+   "fdc": 172336,
+   "g": 7,
+   "name": "oil, canola"
+  },
+  {
+   "line": 9,
+   "fdc": 171613,
+   "g": 10,
+   "name": "soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 170845,
+   "g": 100,
+   "name": "cheese, mozzarella, whole milk"
+  },
+  {
+   "line": 11,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas, canned, drained solids"
+  },
+  {
+   "line": 12,
+   "fdc": 170016,
+   "g": 80,
+   "name": "peas, green, frozen, unprepared"
+  },
+  {
+   "line": 13,
+   "fdc": 170887,
+   "g": 30,
+   "name": "yogurt, plain, skim milk"
+  }
+ ],
+ "notes": "Curry paste approximated as curry powder 7 g + oil 7 g. Paneer (no SR entry) approximated by whole-milk mozzarella. Low-salt stock cube 10 g."
+}

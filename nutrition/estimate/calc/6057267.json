@@ -1,0 +1,60 @@
+{
+ "id": 6057267,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 121.5,
+   "name": "oats, regular and quick, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170568,
+   "g": 70,
+   "name": "almonds, blanched"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 60,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 3,
+   "fdc": 170155,
+   "g": 32,
+   "name": "sunflower seed butter, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 171330,
+   "g": 5.6,
+   "name": "spices, poppy seed"
+  }
+ ]
+}

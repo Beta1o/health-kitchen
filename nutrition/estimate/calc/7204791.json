@@ -1,0 +1,85 @@
+{
+ "id": 7204791,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 1,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 450,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 3.5,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 3,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 800,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 9,
+   "fdc": 169888,
+   "g": 300,
+   "name": "Vegetarian meatloaf or patties"
+  },
+  {
+   "line": 10,
+   "fdc": 175243,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 150,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 20,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  }
+ ],
+ "notes": "frozen soya mince as vegetarian meatloaf/patties; lime as 30 g juice"
+}

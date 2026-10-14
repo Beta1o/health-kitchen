@@ -1,0 +1,49 @@
+{
+ "id": 6699442,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170406,
+   "g": 227,
+   "name": "collards raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 174592,
+   "g": 30,
+   "name": "turkey bacon raw 2 slices"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 168464,
+   "g": 196,
+   "name": "yellow squash (crookneck/straightneck) raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 240,
+   "name": "low sodium vegetable broth -> home-prepared stock"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  }
+ ],
+ "notes": "low-sodium vegetable broth modelled as home-prepared stock per guide"
+}

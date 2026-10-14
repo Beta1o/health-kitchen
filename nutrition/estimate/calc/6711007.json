@@ -1,0 +1,50 @@
+{
+ "id": 6711007,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 1920,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 1,
+   "fdc": 169717,
+   "g": 50,
+   "name": "Tapioca, pearl, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 170277,
+   "g": 63,
+   "added_sugar": true,
+   "name": "Sweetener, syrup, agave"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 2.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 236,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169998,
+   "g": 145,
+   "name": "Corn, sweet, yellow, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170150,
+   "g": 2.7,
+   "name": "Seeds, sesame seeds, whole, dried"
+  }
+ ],
+ "notes": "Coarse salt 1/2 tsp taken as 2.5 g."
+}

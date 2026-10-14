@@ -1,0 +1,91 @@
+{
+ "id": 6325867,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 300,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168464,
+   "g": 196,
+   "name": "Squash, summer, crookneck and straightneck, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168434,
+   "g": 284,
+   "name": "Mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170499,
+   "g": 120,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169383,
+   "g": 119,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 13,
+   "fdc": 173470,
+   "g": 1,
+   "name": "Thyme, fresh"
+  }
+ ],
+ "notes": "Small eggplant (no amount) guessed at 300 g; herb sprig garnish 1 g as thyme."
+}

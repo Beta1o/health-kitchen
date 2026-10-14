@@ -1,0 +1,61 @@
+{
+ "id": 6224028,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 172240,
+   "g": 5,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 169878,
+   "g": 1.2,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 5,
+   "fdc": 175180,
+   "g": 170,
+   "name": "shrimp, cooked"
+  },
+  {
+   "line": 6,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170848,
+   "g": 5,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 8,
+   "fdc": 170591,
+   "g": 5.6,
+   "name": "pine nuts, dried"
+  }
+ ],
+ "notes": "White wine vinegar -> red wine vinegar."
+}

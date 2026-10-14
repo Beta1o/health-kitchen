@@ -1,0 +1,78 @@
+{
+ "id": 6470482,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167767,
+   "g": 180,
+   "name": "pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 168184,
+   "g": 180,
+   "name": "mandarin oranges, canned, juice pack, drained"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 20,
+   "name": "green onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 37,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170170,
+   "g": 7,
+   "name": "coconut, dried, not sweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "cayenne / red pepper flakes"
+  },
+  {
+   "line": 6,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  }
+ ]
+}

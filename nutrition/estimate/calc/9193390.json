@@ -1,0 +1,75 @@
+{
+ "id": 9193390,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168448,
+   "g": 696,
+   "name": "pumpkin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169145,
+   "g": 408,
+   "name": "beets, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 36,
+   "name": "almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 171723,
+   "g": 30,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 60,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 10,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  }
+ ],
+ "notes": "unsweetened dried cranberries: only sweetened entry exists, used and flagged added sugar (overstates sugar)"
+}

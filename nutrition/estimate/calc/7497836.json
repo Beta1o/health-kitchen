@@ -1,0 +1,120 @@
+{
+ "id": 7497836,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 150,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 200,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169228,
+   "g": 300,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170106,
+   "g": 15,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169698,
+   "g": 4,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 12,
+   "fdc": 174266,
+   "g": 16,
+   "name": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 13,
+   "fdc": 172473,
+   "g": 5,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 14,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 15,
+   "fdc": 168409,
+   "g": 100,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 17,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 18,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  }
+ ]
+}

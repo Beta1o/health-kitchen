@@ -1,0 +1,67 @@
+{
+ "id": 6925171,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170874,
+   "g": 81,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 1,
+   "fdc": 174527,
+   "g": 1.2,
+   "name": "sauce, pepper or hot"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174648,
+   "g": 10.5,
+   "name": "corn flakes"
+  },
+  {
+   "line": 4,
+   "fdc": 169697,
+   "g": 23,
+   "name": "cornmeal, whole-grain, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "oil, cooking spray"
+  }
+ ],
+ "notes": "Whole buttermilk marinade counted although some is discarded."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 7683747,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 2.3,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170026,
+   "g": 250,
+   "name": "potatoes raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170924,
+   "g": 6.3,
+   "name": "curry powder"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 200,
+   "name": "cauliflower raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170016,
+   "g": 50,
+   "name": "peas frozen"
+  },
+  {
+   "line": 6,
+   "fdc": 168128,
+   "g": 400,
+   "name": "baked beans no salt added"
+  }
+ ],
+ "notes": "Curry paste/powder counted as curry powder; reduced sugar & salt baked beans as no-salt-added baked beans."
+}

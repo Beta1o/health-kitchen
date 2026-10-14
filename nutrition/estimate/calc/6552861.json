@@ -1,0 +1,44 @@
+{
+ "id": 6552861,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 907,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Coarse Dijon mustard approximated by prepared mustard."
+}

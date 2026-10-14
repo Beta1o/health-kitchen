@@ -1,0 +1,92 @@
+{
+ "id": 7482887,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173933,
+   "g": 200,
+   "name": "Apple juice, canned or bottled, unsweetened, without added ascorbic acid"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 1,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 171316,
+   "g": 0.5,
+   "name": "Spices, anise seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171689,
+   "g": 320,
+   "name": "Apples, raw, without skin"
+  },
+  {
+   "line": 4,
+   "fdc": 169118,
+   "g": 450,
+   "name": "Pears, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169949,
+   "g": 264,
+   "name": "Plums, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173021,
+   "g": 200,
+   "name": "Figs, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173946,
+   "g": 150,
+   "name": "Blackberries, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173904,
+   "g": 30,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 168894,
+   "g": 60,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 10,
+   "fdc": 168833,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 11,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 173589,
+   "g": 50,
+   "name": "Margarine Spread, 40-49% fat, tub"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 60,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Low-fat spread -> 40-49% fat margarine spread."
+}

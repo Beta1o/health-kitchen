@@ -1,0 +1,61 @@
+{
+ "id": 6779546,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171116,
+   "g": 454,
+   "name": "Chicken, ground, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168917,
+   "g": 62,
+   "name": "Quinoa, cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168421,
+   "g": 15,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 20,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170107,
+   "g": 15,
+   "name": "Peppers, hot chili, red, canned, excluding seeds, solids and liquids"
+  }
+ ],
+ "notes": "Chipotle in adobo (optional, included) -> red hot chili, canned, 15 g."
+}

@@ -1,0 +1,74 @@
+{
+ "id": 3592,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 360,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171505,
+   "g": 454,
+   "name": "turkey, ground, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168877,
+   "g": 92.5,
+   "name": "rice, white, long-grain, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171317,
+   "g": 0.2,
+   "name": "basil, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170930,
+   "g": 1,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 85,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169655,
+   "g": 12.5,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  }
+ ],
+ "notes": "cabbage leaves assumed 30 g each; only no-salt tomato paste in SR"
+}

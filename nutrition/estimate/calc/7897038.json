@@ -1,0 +1,91 @@
+{
+ "id": 7897038,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 170848,
+   "g": 15,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 50,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 400,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 8,
+   "fdc": 173475,
+   "g": 1,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 369,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "courgettes 200 g each; spring onions 15 g each"
+}

@@ -1,0 +1,90 @@
+{
+ "id": 6703167,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 140,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170061,
+   "g": 454,
+   "name": "turnip greens, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.7,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 8,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 9,
+   "fdc": 173760,
+   "g": 170,
+   "name": "cowpeas (black-eyed), canned"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 91,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 174527,
+   "g": 1.2,
+   "name": "hot sauce"
+  }
+ ]
+}

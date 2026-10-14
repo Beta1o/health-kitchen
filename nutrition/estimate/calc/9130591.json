@@ -1,0 +1,37 @@
+{
+ "id": 9130591,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 284,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.78,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  }
+ ],
+ "notes": "Optional vegan Parmesan and lemon wedges without amounts left out."
+}

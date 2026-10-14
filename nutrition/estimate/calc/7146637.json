@@ -1,0 +1,61 @@
+{
+ "id": 7146637,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 13.6,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 450,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172688,
+   "g": 240,
+   "name": "bread, whole-wheat"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1.4,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 173941,
+   "g": 100,
+   "name": "apricots, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170168,
+   "g": 200,
+   "name": "chestnuts, european, boiled and steamed"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Vacuum-packed chestnuts as boiled/steamed European chestnuts."
+}

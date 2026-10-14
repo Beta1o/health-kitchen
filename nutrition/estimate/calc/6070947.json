@@ -1,0 +1,42 @@
+{
+ "id": 6070947,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168013,
+   "g": 112,
+   "name": "bread multi-grain (4 thin slices)"
+  },
+  {
+   "line": 1,
+   "fdc": 171579,
+   "g": 32,
+   "name": "pesto"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 80,
+   "name": "roma tomato large"
+  },
+  {
+   "line": 3,
+   "fdc": 169051,
+   "g": 113,
+   "name": "mozzarella nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 172232,
+   "g": 2.6,
+   "name": "basil fresh"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": 6536401,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 172448,
+   "g": 397,
+   "name": "tofu, firm"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 170,
+   "name": "carrots"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 113,
+   "name": "mushrooms, crimini"
+  },
+  {
+   "line": 4,
+   "fdc": 169977,
+   "g": 227,
+   "name": "cabbage, red"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 8,
+   "name": "ginger"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onions"
+  },
+  {
+   "line": 8,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium (or coconut aminos)"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 30,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 12,
+   "fdc": 172240,
+   "g": 15,
+   "name": "sherry vinegar (as wine vinegar)"
+  },
+  {
+   "line": 13,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 14,
+   "fdc": 170150,
+   "g": 3,
+   "name": "furikake (as sesame seeds)"
+  }
+ ],
+ "notes": "coconut aminos taken as low-sodium soy sauce; furikake as sesame seeds"
+}

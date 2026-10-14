@@ -1,0 +1,54 @@
+{
+ "id": 6527440,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 1105,
+   "name": "sweet potato, raw (3 x 13 oz)"
+  },
+  {
+   "line": 1,
+   "fdc": 174592,
+   "g": 56,
+   "name": "bacon, turkey, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 120,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 30,
+   "name": "scallions, raw"
+  }
+ ]
+}

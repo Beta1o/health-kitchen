@@ -1,0 +1,73 @@
+{
+ "id": 6740803,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 170,
+   "name": "pasta, whole-wheat, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 454,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169228,
+   "g": 250,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 164,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 3,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "2 cups uncooked rotini taken as 170 g; optional salt included."
+}

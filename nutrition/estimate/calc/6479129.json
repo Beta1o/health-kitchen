@@ -1,0 +1,72 @@
+{
+ "id": 6479129,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175180,
+   "g": 227,
+   "name": "crustaceans, shrimp, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 174524,
+   "g": 65,
+   "name": "sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 68,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 25,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169124,
+   "g": 41,
+   "name": "pineapple, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 6,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168429,
+   "g": 30,
+   "name": "lettuce, butterhead (boston/bibb), raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

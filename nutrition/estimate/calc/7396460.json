@@ -1,0 +1,48 @@
+{
+ "id": 7396460,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 4.5,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 1,
+   "fdc": 168165,
+   "g": 75,
+   "name": "raisins, seedless"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 3.5,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 100,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 60,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 175,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 7,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "baking soda"
+  }
+ ]
+}

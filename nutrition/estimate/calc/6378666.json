@@ -1,0 +1,85 @@
+{
+ "id": 6378666,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170874,
+   "g": 61,
+   "name": "Milk, buttermilk, fluid, cultured, lowfat"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 122,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 171322,
+   "g": 0.5,
+   "name": "Spices, dill weed, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 125,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168409,
+   "g": 125,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169988,
+   "g": 125,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 125,
+   "name": "Peppers, sweet, red, raw"
+  }
+ ],
+ "notes": "assorted veg sticks split evenly carrot/cucumber/celery/pepper, 4 cups = 500 g"
+}

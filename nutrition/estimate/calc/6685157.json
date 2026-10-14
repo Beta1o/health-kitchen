@@ -1,0 +1,42 @@
+{
+ "id": 6685157,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169387,
+   "g": 142,
+   "name": "arugula"
+  },
+  {
+   "line": 1,
+   "fdc": 171405,
+   "g": 78,
+   "name": "italian dressing, reduced fat"
+  },
+  {
+   "line": 2,
+   "fdc": 173424,
+   "g": 200,
+   "name": "egg, hard-boiled"
+  },
+  {
+   "line": 3,
+   "fdc": 169094,
+   "g": 34,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 173709,
+   "g": 113,
+   "name": "tuna, light, canned in water, drained"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 298,
+   "name": "grape tomatoes"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": 6971311,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169298,
+   "g": 950,
+   "name": "spaghetti squash flesh from 3 lb"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 48,
+   "name": "lower sodium soy sauce"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limej"
+  },
+  {
+   "line": 4,
+   "fdc": 169655,
+   "g": 16.8,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "crushed red pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 168410,
+   "g": 340,
+   "name": "edam"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 110,
+   "name": "carrot"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 50,
+   "name": "gonion"
+  },
+  {
+   "line": 10,
+   "fdc": 173806,
+   "g": 57,
+   "name": "peanut"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 8,
+   "name": "cil"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime wedges, juice"
+  }
+ ],
+ "notes": "Spaghetti squash 3 lb whole, ~70% edible flesh = 950 g (guess)."
+}

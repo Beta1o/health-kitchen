@@ -1,0 +1,50 @@
+{
+ "id": 6531377,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173691,
+   "g": 680,
+   "name": "sockeye"
+  },
+  {
+   "line": 1,
+   "fdc": 170054,
+   "g": 34,
+   "name": "no-sugar-added ketchup (as tomato sauce)"
+  },
+  {
+   "line": 2,
+   "fdc": 170280,
+   "g": 20,
+   "name": "jam_fruit",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy_low"
+  },
+  {
+   "line": 4,
+   "fdc": 173469,
+   "g": 10,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 5,
+   "fdc": 174527,
+   "g": 1.2,
+   "name": "hotsauce"
+  },
+  {
+   "line": 6,
+   "fdc": 170151,
+   "g": 3,
+   "name": "sesame"
+  }
+ ],
+ "notes": "No-sugar-added ketchup modelled as canned tomato sauce."
+}

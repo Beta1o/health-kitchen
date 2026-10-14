@@ -1,0 +1,31 @@
+{
+ "id": 9272338,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 840,
+   "name": "cauli"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 960,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garp"
+  }
+ ],
+ "notes": "Toppings without amounts no item. Low-sodium broth as home-prepared stock (likely overstates kcal/protein)."
+}

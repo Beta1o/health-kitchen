@@ -1,0 +1,91 @@
+{
+ "id": 9807591,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168147,
+   "g": 120,
+   "name": "vital wheat gluten"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171323,
+   "g": 2,
+   "name": "spices, fennel seed"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "spices, parsley, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne (flakes)"
+  },
+  {
+   "line": 10,
+   "fdc": 172884,
+   "g": 120,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 170459,
+   "g": 32,
+   "name": "tomato paste, canned, no salt added"
+  },
+  {
+   "line": 12,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 13,
+   "fdc": 174277,
+   "g": 16,
+   "name": "soy sauce (shoyu)"
+  }
+ ],
+ "notes": "liquid smoke left out (no SR entry, negligible nutrients); low-sodium vegetable broth as home-prepared stock"
+}

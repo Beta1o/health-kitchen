@@ -1,0 +1,56 @@
+{
+ "id": 7809362,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169118,
+   "g": 450,
+   "name": "Pears, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 88,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 75,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 91,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 168893,
+   "g": 100,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 172804,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 20,
+   "name": "Nuts, almonds"
+  }
+ ],
+ "notes": "Almond essence as vanilla extract; rapeseed oil as canola."
+}

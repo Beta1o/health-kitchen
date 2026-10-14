@@ -1,0 +1,30 @@
+{
+ "id": 6052689,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 340,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 567,
+   "name": "squash, winter, butternut, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 2,
+   "name": "spices, thyme, dried"
+  }
+ ]
+}

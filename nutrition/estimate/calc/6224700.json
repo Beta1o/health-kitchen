@@ -1,0 +1,91 @@
+{
+ "id": 6224700,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172420,
+   "g": 96,
+   "name": "lentils raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 80,
+   "name": "red onion"
+  },
+  {
+   "line": 5,
+   "fdc": 168409,
+   "g": 200,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  },
+  {
+   "line": 8,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 11,
+   "fdc": 173420,
+   "g": 37.5,
+   "name": "feta (no reduced-fat entry)"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 13,
+   "fdc": 168013,
+   "g": 250,
+   "name": "multigrain bread (baguette)"
+  },
+  {
+   "line": 14,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "multigrain baguette weight guessed 250 g; reduced-fat feta via regular feta"
+}

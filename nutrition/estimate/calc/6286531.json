@@ -1,0 +1,73 @@
+{
+ "id": 6286531,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 340,
+   "name": "russet potatoes"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 173880,
+   "g": 454,
+   "name": "chicken sausage, lower sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "yellow onion"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 476,
+   "name": "bell peppers"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 2,
+   "name": "dried oregano"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 1.4,
+   "name": "dried basil"
+  },
+  {
+   "line": 8,
+   "fdc": 173470,
+   "g": 2,
+   "name": "fresh thyme"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "coarse salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Low-sodium chicken sausage mapped to lower-sodium chicken/turkey Italian sausage (high potassium in that entry, likely potassium salts)."
+}

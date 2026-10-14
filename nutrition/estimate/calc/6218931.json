@@ -1,0 +1,56 @@
+{
+ "id": 6218931,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170554,
+   "g": 96,
+   "name": "chia seeds, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 170872,
+   "g": 610,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 167755,
+   "g": 62,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 7.6,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 168907,
+   "g": 28,
+   "name": "soba noodles, cooked"
+  },
+  {
+   "line": 8,
+   "fdc": 169134,
+   "g": 87,
+   "name": "pomegranates, raw"
+  }
+ ],
+ "notes": "Rose water (2 tsp) left out as water."
+}

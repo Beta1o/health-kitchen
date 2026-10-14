@@ -1,0 +1,50 @@
+{
+ "id": 6115515,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169926,
+   "g": 157,
+   "name": "papaya, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek yogurt, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 170919,
+   "g": 0.5,
+   "name": "cardamom (garnish)"
+  },
+  {
+   "line": 7,
+   "fdc": 173475,
+   "g": 2,
+   "name": "mint (garnish)"
+  },
+  {
+   "line": 8,
+   "fdc": 170919,
+   "g": 0.5,
+   "name": "cardamom"
+  }
+ ],
+ "notes": "Mint bunch is garnish; 2 g counted."
+}

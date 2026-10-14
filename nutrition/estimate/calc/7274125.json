@@ -1,0 +1,72 @@
+{
+ "id": 7274125,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 750,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "spices, pepper, white"
+  },
+  {
+   "line": 7,
+   "fdc": 170016,
+   "g": 75,
+   "name": "peas, green, frozen, unprepared (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 8,
+   "fdc": 168164,
+   "g": 25,
+   "name": "raisins, golden, seedless"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170567,
+   "g": 6,
+   "name": "nuts, almonds"
+  }
+ ]
+}

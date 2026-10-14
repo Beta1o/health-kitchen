@@ -1,0 +1,61 @@
+{
+ "id": 6360759,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168890,
+   "g": 96,
+   "name": "Wheat, hard red winter"
+  },
+  {
+   "line": 1,
+   "fdc": 175167,
+   "g": 170,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171579,
+   "g": 29,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 3,
+   "fdc": 169387,
+   "g": 40,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 60,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169141,
+   "g": 62.5,
+   "name": "Beans, snap, green, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 75,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 170591,
+   "g": 8.6,
+   "name": "Nuts, pine nuts, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 5,
+   "name": "Lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Wheat berries as hard red winter wheat; microgreens as leaf lettuce."
+}

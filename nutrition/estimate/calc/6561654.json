@@ -1,0 +1,60 @@
+{
+ "id": 6561654,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 402,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 27.5,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172233,
+   "g": 1.1,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170185,
+   "g": 15,
+   "name": "pistachio nuts, dry roasted, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 15,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ]
+}

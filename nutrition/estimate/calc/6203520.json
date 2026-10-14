@@ -1,0 +1,60 @@
+{
+ "id": 6203520,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172802,
+   "g": 192,
+   "name": "wonton"
+  },
+  {
+   "line": 1,
+   "fdc": 171248,
+   "g": 186,
+   "name": "low-fat ricotta (part skim)"
+  },
+  {
+   "line": 2,
+   "fdc": 170900,
+   "g": 84,
+   "name": "mozz"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil"
+  },
+  {
+   "line": 7,
+   "fdc": 171597,
+   "g": 500,
+   "name": "marinara_low"
+  },
+  {
+   "line": 8,
+   "fdc": 171247,
+   "g": 25,
+   "name": "parm_gr"
+  }
+ ]
+}

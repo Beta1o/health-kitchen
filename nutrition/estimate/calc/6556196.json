@@ -1,0 +1,66 @@
+{
+ "id": 6556196,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168917,
+   "g": 185,
+   "name": "Quinoa, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 173462,
+   "g": 243,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 2,
+   "fdc": 175188,
+   "g": 170,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.2,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  }
+ ]
+}

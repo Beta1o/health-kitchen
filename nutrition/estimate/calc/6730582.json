@@ -1,0 +1,85 @@
+{
+ "id": 6730582,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 490,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 5,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 172237,
+   "g": 30,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 171850,
+   "g": 68,
+   "name": "Bread, wheat, sprouted"
+  }
+ ],
+ "notes": "fresh herbs -> parsley; Ezekiel bread -> sprouted wheat bread 34 g/slice; vinegar is poaching water (mostly discarded)"
+}

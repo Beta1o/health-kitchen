@@ -1,0 +1,80 @@
+{
+ "id": 7727187,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 508,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 7,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 50,
+   "name": "Sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171332,
+   "g": 5,
+   "name": "Spices, pumpkin pie spice"
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 118,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169103,
+   "g": 3,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 165,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 171267,
+   "g": 206,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 10,
+   "fdc": 168165,
+   "g": 125,
+   "name": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 11,
+   "fdc": 171025,
+   "g": 9,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  }
+ ],
+ "notes": "Mixed spice entered as pumpkin pie spice; mixed dried fruit as raisins; milk type unstated, 2% used."
+}

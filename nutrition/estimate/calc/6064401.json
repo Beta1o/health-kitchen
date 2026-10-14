@@ -1,0 +1,109 @@
+{
+ "id": 6064401,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 340,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "paprika"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek yogurt nonfat plain"
+  },
+  {
+   "line": 5,
+   "fdc": 171322,
+   "g": 1,
+   "name": "dill weed dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170075,
+   "g": 0.2,
+   "name": "chives, freeze-dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 13,
+   "fdc": 169247,
+   "g": 560,
+   "name": "lettuce, romaine"
+  },
+  {
+   "line": 14,
+   "fdc": 171640,
+   "g": 50,
+   "name": "bacon, turkey, low sodium"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 124,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 17,
+   "fdc": 172183,
+   "g": 70,
+   "name": "egg white raw"
+  }
+ ],
+ "notes": "Romaine head ~560 g chopped; 4 slices low-sodium turkey bacon ~50 g; rice vinegar as distilled vinegar; hard-boiled egg whites 1/2 cup ~70 g as raw egg white."
+}

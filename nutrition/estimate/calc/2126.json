@@ -1,0 +1,38 @@
+{
+ "id": 2126,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168751,
+   "g": 480,
+   "name": "almond milk, sweetened, vanilla",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 170554,
+   "g": 82,
+   "name": "chia seeds, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 168586,
+   "g": 23,
+   "name": "coconut, dried, sweetened, shredded",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171711,
+   "g": 37,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167762,
+   "g": 72,
+   "name": "strawberries, raw"
+  }
+ ]
+}

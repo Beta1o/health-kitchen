@@ -1,0 +1,49 @@
+{
+ "id": 9794865,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 816,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 30,
+   "name": "soup, vegetable broth"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Lines 7-9 (maple, cinnamon, extra salt) look like an alternative sweet version; only the savory version counted. Low-sodium broth as regular vegetable broth."
+}

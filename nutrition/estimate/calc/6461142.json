@@ -1,0 +1,61 @@
+{
+ "id": 6461142,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174648,
+   "g": 84,
+   "name": "corn flakes"
+  },
+  {
+   "line": 1,
+   "fdc": 170872,
+   "g": 30,
+   "name": "milk 1%"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171610,
+   "g": 11,
+   "name": "sauce, worcestershire"
+  },
+  {
+   "line": 4,
+   "fdc": 169640,
+   "g": 63,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171009,
+   "g": 110,
+   "name": "mayonnaise, regular"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  }
+ ]
+}

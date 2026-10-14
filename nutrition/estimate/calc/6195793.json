@@ -1,0 +1,67 @@
+{
+ "id": 6195793,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 61,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 173180,
+   "g": 30,
+   "name": "beverages, protein powder whey based"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 118,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 122,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 173471,
+   "g": 1.05,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  }
+ ],
+ "notes": "Protein powder 1 scoop taken as 30 g whey-based powder."
+}

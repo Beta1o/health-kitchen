@@ -1,0 +1,75 @@
+{
+ "id": 9596194,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 270,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 80,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171688,
+   "g": 188,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171695,
+   "g": 122,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 172446,
+   "g": 243,
+   "name": "Soymilk, original and vanilla, unfortified"
+  },
+  {
+   "line": 9,
+   "fdc": 168833,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  }
+ ],
+ "notes": "coconut sugar -> brown sugar (1/2 cup ~80 g)"
+}

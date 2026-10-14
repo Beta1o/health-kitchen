@@ -1,0 +1,68 @@
+{
+ "id": 6905037,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169074,
+   "g": 245,
+   "name": "Tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 30,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 21,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 171077,
+   "g": 680,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "Dijon matched to prepared yellow mustard; chicken tenderloins as raw breast meat; coarse salt at table-salt weight."
+}

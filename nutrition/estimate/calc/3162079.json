@@ -1,0 +1,49 @@
+{
+ "id": 3162079,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171054,
+   "g": 175,
+   "name": "chicken, meat only, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 171009,
+   "g": 50,
+   "name": "mayonnaise, regular"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170848,
+   "g": 50,
+   "name": "cheese, parmesan, hard"
+  },
+  {
+   "line": 4,
+   "fdc": 169248,
+   "g": 100,
+   "name": "lettuce, iceberg"
+  },
+  {
+   "line": 5,
+   "fdc": 171610,
+   "g": 1.4,
+   "name": "sauce, worcestershire"
+  },
+  {
+   "line": 7,
+   "fdc": 175037,
+   "g": 240,
+   "name": "tortilla, flour"
+  }
+ ],
+ "notes": "Black pepper without amount left out. Soft tortillas assumed 60 g each."
+}

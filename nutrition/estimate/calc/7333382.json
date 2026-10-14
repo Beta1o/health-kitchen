@@ -1,0 +1,79 @@
+{
+ "id": 7333382,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 160,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169255,
+   "g": 150,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 200,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171613,
+   "g": 10,
+   "name": "soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "spices, pepper, white"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 175204,
+   "g": 240,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 171269,
+   "g": 103,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 10,
+   "fdc": 168580,
+   "g": 150,
+   "name": "mushrooms, oyster, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 45,
+   "name": "yogurt, Greek, plain, nonfat"
+  }
+ ],
+ "notes": "4 garlic bulbs taken as 40 g of cloves each. Reduced-salt stock cube 10 g. Exotic mushrooms as oyster mushrooms."
+}

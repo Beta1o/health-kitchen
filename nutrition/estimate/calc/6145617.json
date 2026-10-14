@@ -1,0 +1,66 @@
+{
+ "id": 6145617,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 168421,
+   "g": 42,
+   "name": "kale, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175204,
+   "g": 60,
+   "name": "beans, white, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 170187,
+   "g": 39,
+   "name": "walnuts"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 172241,
+   "g": 16,
+   "name": "vinegar, balsamic"
+  }
+ ]
+}

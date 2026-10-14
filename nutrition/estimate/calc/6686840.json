@@ -1,0 +1,13 @@
+{
+ "id": 6686840,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168147,
+   "g": 40,
+   "name": "vital wheat gluten (seitan proxy)"
+  }
+ ],
+ "notes": "Seitan has no SR entry: 99 g seitan modelled as 40 g vital wheat gluten (seitan is gluten plus water); no salt added, so sodium likely underestimated."
+}

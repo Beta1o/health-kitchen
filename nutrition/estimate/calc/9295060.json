@@ -1,0 +1,74 @@
+{
+ "id": 9295060,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 907,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 360,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170016,
+   "g": 134,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 25,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 60,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170189,
+   "g": 15,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 6,
+   "fdc": 169661,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 169994,
+   "g": 12,
+   "name": "Chives, raw"
+  }
+ ],
+ "notes": "Asparagus 1 lb before trimming -> 360 g edible. Salt to taste left out."
+}

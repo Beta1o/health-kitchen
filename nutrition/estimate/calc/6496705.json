@@ -1,0 +1,61 @@
+{
+ "id": 6496705,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 219,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 12,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 132,
+   "name": "egg, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174524,
+   "g": 250,
+   "name": "sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 7,
+   "fdc": 175188,
+   "g": 510,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  }
+ ],
+ "notes": "two 16-oz cans black beans drained ~255 g each"
+}

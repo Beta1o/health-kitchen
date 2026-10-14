@@ -1,0 +1,94 @@
+{
+ "id": 7892992,
+ "servings": 25,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 169655,
+   "g": 20,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170926,
+   "g": 2.5,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 3.5,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171321,
+   "g": 1,
+   "name": "spices, cloves, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 168165,
+   "g": 40,
+   "name": "raisins, seedless"
+  },
+  {
+   "line": 7,
+   "fdc": 167781,
+   "g": 15,
+   "name": "candied fruit (candied peel)",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 168867,
+   "g": 100,
+   "name": "cornmeal, degermed, enriched, yellow (instant polenta)"
+  },
+  {
+   "line": 9,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 10,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 172336,
+   "g": 45.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 12,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 14,
+   "fdc": 167766,
+   "g": 15,
+   "name": "maraschino cherries (glace cherries)",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 170568,
+   "g": 7,
+   "name": "almonds, blanched"
+  },
+  {
+   "line": 14,
+   "fdc": 170591,
+   "g": 2.8,
+   "name": "nuts, pine nuts, dried"
+  }
+ ],
+ "notes": "stevia tablets left out (no calories)"
+}

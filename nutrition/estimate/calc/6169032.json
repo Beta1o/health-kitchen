@@ -1,0 +1,73 @@
+{
+ "id": 6169032,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171017,
+   "g": 56.9,
+   "name": "Oil, sunflower, linoleic (less than 60%)"
+  },
+  {
+   "line": 1,
+   "fdc": 168944,
+   "g": 180,
+   "name": "Wheat flour, whole-grain, soft wheat"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 30,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 172803,
+   "g": 3.5,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 4,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 173944,
+   "g": 338,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 6.3,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 9,
+   "fdc": 169103,
+   "g": 4,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169291,
+   "g": 323,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  }
+ ],
+ "notes": "whole wheat pastry flour as soft whole-grain wheat flour 120 g/cup"
+}

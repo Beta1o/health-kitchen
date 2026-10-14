@@ -1,0 +1,56 @@
+{
+ "id": 9361657,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172814,
+   "g": 180,
+   "name": "pie crust, standard-type, unbaked"
+  },
+  {
+   "line": 1,
+   "fdc": 172449,
+   "g": 300,
+   "name": "tofu, soft, nigari"
+  },
+  {
+   "line": 2,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 150,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169655,
+   "g": 67,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 1,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "vegan whole wheat pie crust (~180 g) modeled as standard pie crust; lime juice 5/8 cup; garnish 1 g"
+}

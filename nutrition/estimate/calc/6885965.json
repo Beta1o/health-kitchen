@@ -1,0 +1,79 @@
+{
+ "id": 6885965,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 18,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169228,
+   "g": 454,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173757,
+   "g": 340,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 794,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "No-salt-added canned chickpeas entered as chickpeas boiled without salt."
+}

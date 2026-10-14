@@ -1,0 +1,49 @@
+{
+ "id": 9057993,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172456,
+   "g": 486,
+   "name": "Soymilk, original and vanilla, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 10,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 170189,
+   "g": 30,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 240,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 169145,
+   "g": 120,
+   "name": "Beets, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  }
+ ],
+ "notes": "beetroot powder 2 tbsp (~14 g) entered as ~120 g raw beets equivalent"
+}

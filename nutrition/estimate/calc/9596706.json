@@ -1,0 +1,63 @@
+{
+ "id": 9596706,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 200,
+   "name": "Oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 170926,
+   "g": 3.6,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "Spices, cloves, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 5,
+   "fdc": 168820,
+   "g": 112,
+   "name": "Molasses",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 175215,
+   "g": 22,
+   "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 8,
+   "fdc": 169655,
+   "g": 31,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Plant milk 1-2 tbsp taken as 1.5 tbsp soy milk; rolling sugar 2-3 tbsp taken as 2.5 tbsp, all counted."
+}

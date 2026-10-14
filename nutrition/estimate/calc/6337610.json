@@ -1,0 +1,44 @@
+{
+ "id": 6337610,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 960,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 23,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 21.5,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 6,
+   "added_sugar": true,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 167687,
+   "g": 36,
+   "name": "Whipped topping, frozen, low fat"
+  }
+ ],
+ "notes": "Sugar substitute as sucralose granular (1/4 cup ~6 g); coconut extract as vanilla extract; fat-free whipped topping as low-fat frozen whipped topping 36 g."
+}

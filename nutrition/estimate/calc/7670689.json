@@ -1,0 +1,67 @@
+{
+ "id": 7670689,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 100,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 180,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170377,
+   "g": 150,
+   "name": "broadbeans, immature seeds, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170016,
+   "g": 100,
+   "name": "peas, green, frozen, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 22.0, 'calories': 77.0, 'carbohydrates_g': 13.62, 'cholesterol_mg': 0.0, 'fat_g': 0.4, 'fiber_g': 4.5, 'phosphorus_mg': 82.0, 'potassium_mg': 153.0, 'protein_g': 5.22, 'sodium_mg': 108.0, 'sugars_g': 5.0}\n"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 45,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170557,
+   "g": 8.6,
+   "name": "seeds, pumpkin and squash seed kernels, roasted, without salt"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 44,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Lime zest as lemon peel."
+}

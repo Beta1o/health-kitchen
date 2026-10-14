@@ -1,0 +1,32 @@
+{
+ "id": 9825585,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170173,
+   "g": 160,
+   "name": "lite coconut milk ~ 40% of canned coconut milk"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 61,
+   "name": "lime juice"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 136,
+   "name": "avocado"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 40,
+   "name": "maple syrup",
+   "added_sugar": true
+  }
+ ],
+ "notes": "lite coconut milk not in SR: 400 ml modelled as 160 g canned coconut milk"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 6709831,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173473,
+   "g": 3.5,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 171955,
+   "g": 227,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 2.25,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

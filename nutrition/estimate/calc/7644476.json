@@ -1,0 +1,79 @@
+{
+ "id": 7644476,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 400,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 140,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 160,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170284,
+   "g": 250,
+   "name": "Barley, pearled, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170933,
+   "g": 0.5,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 8,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 3,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 168097,
+   "g": 60,
+   "name": "Cream substitute, liquid, light"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "oat/soya cream -> light liquid cream substitute (no SR match); low-salt stock cube 10 g"
+}

@@ -1,0 +1,57 @@
+{
+ "id": 9244792,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 120,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 169593,
+   "g": 50,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 3,
+   "fdc": 168588,
+   "g": 128,
+   "name": "nuts, almond butter, no salt"
+  },
+  {
+   "line": 4,
+   "fdc": 168820,
+   "g": 84,
+   "name": "molasses",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 80,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 167976,
+   "g": 127,
+   "name": "candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ]
+}

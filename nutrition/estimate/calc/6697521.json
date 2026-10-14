@@ -1,0 +1,36 @@
+{
+ "id": 6697521,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170184,
+   "g": 48,
+   "name": "Nuts, pistachio nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170687,
+   "g": 30,
+   "name": "Buckwheat flour, whole-groat"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 66,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 175167,
+   "g": 454,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ]
+}

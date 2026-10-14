@@ -1,0 +1,60 @@
+{
+ "id": 6393242,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169998,
+   "g": 154,
+   "name": "corn kernels"
+  },
+  {
+   "line": 3,
+   "fdc": 168546,
+   "g": 37,
+   "name": "roasted red peppers -> sweet red canned"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 5,
+   "fdc": 171308,
+   "g": 61,
+   "name": "half and half lowfat"
+  },
+  {
+   "line": 6,
+   "fdc": 170900,
+   "g": 56,
+   "name": "mozzarella part-skim shredded"
+  },
+  {
+   "line": 7,
+   "fdc": 171430,
+   "g": 2.4,
+   "name": "olive oil spray 8 sprays"
+  },
+  {
+   "line": 8,
+   "fdc": 172791,
+   "g": 152,
+   "name": "phyllo 8 sheets x 19 g"
+  }
+ ]
+}

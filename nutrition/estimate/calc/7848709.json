@@ -1,0 +1,37 @@
+{
+ "id": 7848709,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169714,
+   "g": 100,
+   "name": "rice flour, white (ground rice)"
+  },
+  {
+   "line": 1,
+   "fdc": 169698,
+   "g": 25,
+   "name": "cornstarch (cornflour)"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171267,
+   "g": 309,
+   "name": "milk, 2% (semi-skimmed)"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 13.5,
+   "name": "oil for frying"
+  }
+ ],
+ "notes": "Oil for frying taken as 1 tbsp."
+}

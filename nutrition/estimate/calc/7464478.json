@@ -1,0 +1,74 @@
+{
+ "id": 7464478,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170417,
+   "g": 450,
+   "name": "parsnip"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 500,
+   "name": "carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 14,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 12,
+   "name": "reduced-salt tamari as low sodium soy sauce"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thymef"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oreg"
+  },
+  {
+   "line": 7,
+   "fdc": 170937,
+   "g": 0.8,
+   "name": "tarr"
+  },
+  {
+   "line": 8,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsd"
+  },
+  {
+   "line": 9,
+   "fdc": 170184,
+   "g": 50,
+   "name": "pist"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemj"
+  }
+ ],
+ "notes": "Reduced-salt tamari mapped to low-sodium shoyu (closest low-sodium soy sauce)."
+}

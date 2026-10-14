@@ -1,0 +1,31 @@
+{
+ "id": 9273315,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 101,
+   "name": "banana, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 40,
+   "name": "maple syrup",
+   "added_sugar": true
+  }
+ ]
+}

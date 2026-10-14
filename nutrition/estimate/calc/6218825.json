@@ -1,0 +1,61 @@
+{
+ "id": 6218825,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 174604,
+   "g": 255,
+   "name": "Italian turkey sausage smoked (for chicken sausage)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168421,
+   "g": 283,
+   "name": "kale raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 120,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 175204,
+   "g": 255,
+   "name": "white beans canned"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Italian chicken sausage approximated by smoked Italian turkey sausage; cannellini as white beans canned"
+}

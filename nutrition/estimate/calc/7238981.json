@@ -1,0 +1,122 @@
+{
+ "id": 7238981,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 134,
+   "name": "potatoes, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 168454,
+   "g": 133,
+   "name": "rutabaga (swede), raw"
+  },
+  {
+   "line": 0,
+   "fdc": 170417,
+   "g": 133,
+   "name": "parsnips, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 350,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 60,
+   "name": "red pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 60,
+   "name": "yellow pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 170427,
+   "g": 60,
+   "name": "green pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 200,
+   "name": "stock, home-prepared (low-salt vegetable stock)"
+  },
+  {
+   "line": 8,
+   "fdc": 170460,
+   "g": 60,
+   "name": "tomato puree, no salt (passata)"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 32,
+   "name": "tomato paste"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 11,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 12,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 13,
+   "fdc": 171610,
+   "g": 5.7,
+   "name": "worcestershire sauce"
+  },
+  {
+   "line": 14,
+   "fdc": 169641,
+   "g": 20,
+   "name": "mango chutney (as jam)",
+   "added_sugar": true
+  },
+  {
+   "line": 15,
+   "fdc": 170010,
+   "g": 100,
+   "name": "sugar snap peas"
+  },
+  {
+   "line": 16,
+   "fdc": 171267,
+   "g": 45,
+   "name": "milk, 2% (semi-skimmed)"
+  }
+ ],
+ "notes": "mango chutney approximated by jams and preserves"
+}

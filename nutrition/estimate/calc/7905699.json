@@ -1,0 +1,102 @@
+{
+ "id": 7905699,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 1,
+   "fdc": 171206,
+   "g": 500,
+   "name": "Beef, chuck for stew, separable lean and fat, all grades, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170919,
+   "g": 0.6,
+   "name": "Spices, cardamom"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171321,
+   "g": 0.2,
+   "name": "Spices, cloves, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170497,
+   "g": 20,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 172231,
+   "g": 3,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 170427,
+   "g": 238,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 13,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170026,
+   "g": 400,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 174284,
+   "g": 100,
+   "name": "Lentils, pink or red, raw"
+  }
+ ]
+}

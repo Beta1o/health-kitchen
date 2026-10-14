@@ -1,0 +1,56 @@
+{
+ "id": 9980070,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 174266,
+   "g": 64,
+   "name": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174278,
+   "g": 48,
+   "name": "Soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "Spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Servings kept at 2 as given (yield '2 Cups'); serving_size says 1 Tbsp, so per-tbsp would be 32 servings."
+}

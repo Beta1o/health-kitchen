@@ -1,0 +1,67 @@
+{
+ "id": 6287846,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173039,
+   "g": 60,
+   "name": "grapefruit juice"
+  },
+  {
+   "line": 1,
+   "fdc": 170499,
+   "g": 25,
+   "name": "shallot"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 54,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 172240,
+   "g": 15,
+   "name": "wine vinegar (champagne)"
+  },
+  {
+   "line": 4,
+   "fdc": 169640,
+   "g": 14,
+   "added_sugar": true,
+   "name": "honey"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 170379,
+   "g": 284,
+   "name": "broccoli"
+  },
+  {
+   "line": 8,
+   "fdc": 168184,
+   "g": 250,
+   "name": "mandarin oranges canned juice pack drained"
+  },
+  {
+   "line": 9,
+   "fdc": 170183,
+   "g": 27,
+   "name": "pecans dry roasted"
+  }
+ ]
+}

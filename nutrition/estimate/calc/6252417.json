@@ -1,0 +1,42 @@
+{
+ "id": 6252417,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 520,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 7.8,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "spices, ginger, ground"
+  }
+ ]
+}

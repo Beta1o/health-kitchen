@@ -1,0 +1,37 @@
+{
+ "id": 7984576,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173475,
+   "g": 8,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 60,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 2,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 3,
+   "fdc": 174842,
+   "g": 750,
+   "name": "Beverages, carbonated, club soda"
+  },
+  {
+   "line": 5,
+   "fdc": 168155,
+   "g": 67,
+   "name": "Limes, raw"
+  }
+ ],
+ "notes": "muddled lime chunks counted as juice; serving lime counted whole"
+}

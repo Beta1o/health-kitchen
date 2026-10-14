@@ -1,0 +1,54 @@
+{
+ "id": 6123989,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry (quick)"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "baking powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 81,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 59,
+   "name": "banana"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 170182,
+   "g": 13.6,
+   "name": "pecans"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "canola oil"
+  }
+ ]
+}

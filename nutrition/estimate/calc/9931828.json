@@ -1,0 +1,43 @@
+{
+ "id": 9931828,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168588,
+   "g": 64,
+   "name": "almond butter no salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 80,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 168450,
+   "g": 61,
+   "name": "pumpkin canned no salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 100,
+   "name": "almonds blanched (almond flour)"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "cinnamon"
+  }
+ ]
+}

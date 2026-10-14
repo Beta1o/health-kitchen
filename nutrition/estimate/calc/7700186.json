@@ -1,0 +1,109 @@
+{
+ "id": 7700186,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169742,
+   "g": 250,
+   "name": "rice noodles, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 90,
+   "name": "spring onions"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root"
+  },
+  {
+   "line": 5,
+   "fdc": 170106,
+   "g": 2,
+   "name": "Thai chilli"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 196,
+   "name": "courgette"
+  },
+  {
+   "line": 8,
+   "fdc": 170377,
+   "g": 100,
+   "name": "broad beans, immature, raw (frozen)"
+  },
+  {
+   "line": 9,
+   "fdc": 170390,
+   "g": 100,
+   "name": "pak choi"
+  },
+  {
+   "line": 10,
+   "fdc": 169957,
+   "g": 200,
+   "name": "mung bean sprouts"
+  },
+  {
+   "line": 11,
+   "fdc": 167767,
+   "g": 75,
+   "name": "pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander leaves"
+  },
+  {
+   "line": 15,
+   "fdc": 173806,
+   "g": 50,
+   "name": "peanuts, dry-roasted, without salt"
+  },
+  {
+   "line": 16,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice (wedges to serve)"
+  }
+ ],
+ "notes": "Lime wedges to serve counted as 15 g juice."
+}

@@ -1,0 +1,115 @@
+{
+ "id": 7392822,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172428,
+   "g": 75,
+   "name": "splitpeas"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 9,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onion"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 169295,
+   "g": 400,
+   "name": "butternut"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 6,
+   "name": "curry paste: oil"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 5,
+   "name": "curry paste: spices"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "curry paste: salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomcan"
+  },
+  {
+   "line": 9,
+   "fdc": 169228,
+   "g": 250,
+   "name": "eggplant"
+  },
+  {
+   "line": 10,
+   "fdc": 169260,
+   "g": 175,
+   "name": "okra"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 200,
+   "name": "spinach"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 25,
+   "name": "cilantro"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 30,
+   "name": "0% yogurt"
+  },
+  {
+   "line": 14,
+   "fdc": 169134,
+   "g": 80,
+   "name": "pomegr"
+  },
+  {
+   "line": 15,
+   "fdc": 168409,
+   "g": 80,
+   "name": "cuc"
+  },
+  {
+   "line": 16,
+   "fdc": 170005,
+   "g": 30,
+   "name": "scallion"
+  },
+  {
+   "line": 17,
+   "fdc": 170106,
+   "g": 5,
+   "name": "chilired"
+  }
+ ],
+ "notes": "Curry paste (1 tbsp) modelled as oil + curry powder + salt."
+}

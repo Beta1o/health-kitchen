@@ -1,0 +1,85 @@
+{
+ "id": 9727877,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170556,
+   "g": 129,
+   "name": "Seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 168567,
+   "g": 20,
+   "name": "Tomatoes, sun-dried"
+  },
+  {
+   "line": 2,
+   "fdc": 169986,
+   "g": 300,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 126,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 144,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 3,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 11,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "pumpkin seeds chosen over walnuts; serving toppings without amounts left out"
+}

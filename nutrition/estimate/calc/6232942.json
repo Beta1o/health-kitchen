@@ -1,0 +1,85 @@
+{
+ "id": 6232942,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 60,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 2.5,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 0.65,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171955,
+   "g": 454,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175036,
+   "g": 208,
+   "name": "Tortillas, ready-to-bake or -fry, corn"
+  },
+  {
+   "line": 9,
+   "fdc": 167762,
+   "g": 83,
+   "name": "Strawberries, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169910,
+   "g": 83,
+   "name": "Mangos, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170499,
+   "g": 25,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "chipotle chili powder -> chili powder; lime zest -> lemon peel entry"
+}

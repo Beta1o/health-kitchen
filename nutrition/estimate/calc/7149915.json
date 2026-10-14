@@ -1,0 +1,49 @@
+{
+ "id": 7149915,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 500,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171284,
+   "g": 125,
+   "name": "yogurt, plain, whole milk"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 172231,
+   "g": 3,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  }
+ ],
+ "notes": "Nigella seeds (no SR entry) approximated by cumin seed."
+}

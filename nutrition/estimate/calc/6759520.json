@@ -1,0 +1,54 @@
+{
+ "id": 6759520,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170499,
+   "g": 907,
+   "name": "shallots"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170383,
+   "g": 907,
+   "name": "brussels sprouts raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170591,
+   "g": 34,
+   "name": "pine nuts"
+  },
+  {
+   "line": 8,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel (zest)"
+  }
+ ]
+}

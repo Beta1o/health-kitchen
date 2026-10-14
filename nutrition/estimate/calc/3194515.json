@@ -1,0 +1,49 @@
+{
+ "id": 3194515,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169699,
+   "g": 150,
+   "name": "Couscous, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 174285,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 10,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "three bean salad in water (400 g tin, ~240 g drained) -> canned kidney beans drained"
+}

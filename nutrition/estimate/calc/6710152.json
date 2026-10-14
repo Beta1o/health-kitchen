@@ -1,0 +1,86 @@
+{
+ "id": 6710152,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170008,
+   "g": 70,
+   "name": "onions, sweet, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 6.3,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 169311,
+   "g": 240,
+   "name": "artichokes, (globe or french), cooked, boiled, drained, with salt"
+  },
+  {
+   "line": 12,
+   "fdc": 168567,
+   "g": 14,
+   "name": "tomatoes, sun-dried"
+  }
+ ],
+ "notes": "Canned artichoke hearts drained (~240 g) as boiled artichokes with salt; sun-dried tomatoes counted at dry weight (1/4 cup ~14 g)."
+}

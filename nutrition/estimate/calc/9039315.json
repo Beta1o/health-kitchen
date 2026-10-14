@@ -1,0 +1,73 @@
+{
+ "id": 9039315,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169704,
+   "g": 390,
+   "name": "brown rice cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 454,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 168421,
+   "g": 90,
+   "name": "kale, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170016,
+   "g": 67,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 7,
+   "fdc": 175043,
+   "g": 20,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 10,
+   "fdc": 169717,
+   "g": 49,
+   "name": "tapioca, pearl, dry (tapioca starch, 6.5 tbsp)"
+  }
+ ],
+ "notes": "nutritional yeast modelled as active dry yeast (not in SR Legacy); tapioca 6.5 tbsp of 5-8"
+}

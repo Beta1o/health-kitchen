@@ -1,0 +1,51 @@
+{
+ "id": 9863153,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175188,
+   "g": 240,
+   "name": "black beans canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 80,
+   "name": "brown sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 200,
+   "name": "almonds blanched (almond flour)"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 28.7,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 6,
+   "fdc": 167976,
+   "g": 42,
+   "name": "semisweet chocolate chips",
+   "added_sugar": true
+  }
+ ],
+ "notes": "coconut sugar via brown sugar (80 g)"
+}

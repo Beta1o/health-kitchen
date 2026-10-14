@@ -1,0 +1,55 @@
+{
+ "id": 6942919,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 800,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "all-purpose flour"
+  },
+  {
+   "line": 5,
+   "fdc": 172212,
+   "g": 488,
+   "name": "half and half fat free"
+  },
+  {
+   "line": 6,
+   "fdc": 173431,
+   "g": 50,
+   "name": "parmesan shredded"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "thyme fresh"
+  }
+ ],
+ "notes": "2 lb squash taken as ~800 g edible after peeling/seeding"
+}

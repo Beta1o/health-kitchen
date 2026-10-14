@@ -1,0 +1,49 @@
+{
+ "id": 6926611,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greekyog"
+  },
+  {
+   "line": 1,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 1.1,
+   "name": "vanilla"
+  },
+  {
+   "line": 3,
+   "fdc": 169928,
+   "g": 330,
+   "name": "peach"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 5,
+   "fdc": 170567,
+   "g": 11,
+   "name": "almond"
+  },
+  {
+   "line": 6,
+   "fdc": 173475,
+   "g": 1,
+   "name": "mint"
+  }
+ ]
+}

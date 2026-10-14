@@ -1,0 +1,67 @@
+{
+ "id": 9898504,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173745,
+   "g": 208,
+   "name": "Beans, navy, mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 288,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170016,
+   "g": 268,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 168398,
+   "g": 136,
+   "name": "Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 170283,
+   "g": 184,
+   "name": "Barley, hulled"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 2400,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 4.7,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 168462,
+   "g": 60,
+   "name": "Spinach, raw"
+  }
+ ],
+ "notes": "navy beans taken as 1 cup dry; pot barley as hulled barley"
+}

@@ -1,0 +1,91 @@
+{
+ "id": 6851302,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "cayenne / red pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 2.6,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 175159,
+   "g": 454,
+   "name": "tuna, yellowfin, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 11,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared (Dijon)"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Optional salt included."
+}

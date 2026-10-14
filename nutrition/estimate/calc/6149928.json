@@ -1,0 +1,61 @@
+{
+ "id": 6149928,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169287,
+   "g": 85,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170896,
+   "g": 84,
+   "name": "cheese spread, reduced fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  }
+ ],
+ "notes": "Light garlic & herb cheese wedges (21 g each) mapped to reduced-fat cheese spread."
+}

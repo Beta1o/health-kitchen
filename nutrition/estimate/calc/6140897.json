@@ -1,0 +1,37 @@
+{
+ "id": 6140897,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170182,
+   "g": 55,
+   "name": "Nuts, pecans"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 680,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 46,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Spicy brown mustard as prepared yellow mustard."
+}

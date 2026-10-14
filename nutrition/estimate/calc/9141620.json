@@ -1,0 +1,56 @@
+{
+ "id": 9141620,
+ "servings": 28,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 246,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 168588,
+   "g": 85,
+   "name": "Nuts, almond butter, plain, without salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 50,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 169593,
+   "g": 25,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 167976,
+   "g": 60,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  }
+ ],
+ "notes": "almond flour as blanched almonds; vegan chocolate chips as semisweet chocolate (+ a few extra)"
+}

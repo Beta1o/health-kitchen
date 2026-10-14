@@ -1,0 +1,31 @@
+{
+ "id": 6327861,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 472,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169124,
+   "g": 165,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 170173,
+   "g": 120,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  }
+ ],
+ "notes": "coconut milk taken as canned"
+}

@@ -1,0 +1,36 @@
+{
+ "id": 6536789,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 273,
+   "name": "broccoli"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "flour"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  }
+ ]
+}

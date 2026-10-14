@@ -1,0 +1,26 @@
+{
+ "id": 6969512,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168191,
+   "g": 240,
+   "name": "medjool dates x10"
+  },
+  {
+   "line": 1,
+   "fdc": 170187,
+   "g": 40,
+   "name": "walnut kernels, 10 whole"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 42,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ],
+ "notes": "10 walnuts taken as 10 whole kernels (20 halves) about 40 g."
+}

@@ -1,0 +1,42 @@
+{
+ "id": 7372432,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 250,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 200,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 175041,
+   "g": 1.5,
+   "name": "cream of tartar"
+  },
+  {
+   "line": 4,
+   "fdc": 173410,
+   "g": 25,
+   "name": "butter, salted"
+  },
+  {
+   "line": 5,
+   "fdc": 170874,
+   "g": 309,
+   "name": "buttermilk, lowfat"
+  }
+ ]
+}

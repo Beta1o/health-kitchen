@@ -1,0 +1,97 @@
+{
+ "id": 7297261,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 10,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171315,
+   "g": 0.95,
+   "name": "Spices, allspice, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 0.5,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171563,
+   "g": 10,
+   "name": "Soup, chicken broth cubes, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169260,
+   "g": 50,
+   "name": "Okra, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168215,
+   "g": 100,
+   "name": "Plantains, green, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169291,
+   "g": 200,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170005,
+   "g": 75,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170106,
+   "g": 8,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 173698,
+   "g": 200,
+   "name": "Fish, snapper, mixed species, raw"
+  }
+ ],
+ "notes": "Fish stock cube entered as chicken broth cube (10 g)."
+}

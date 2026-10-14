@@ -1,0 +1,72 @@
+{
+ "id": 6520930,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 172850,
+   "g": 227,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168434,
+   "g": 320,
+   "name": "Mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "Spices, rosemary, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

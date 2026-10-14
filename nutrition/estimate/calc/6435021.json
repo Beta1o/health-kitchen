@@ -1,0 +1,49 @@
+{
+ "id": 6435021,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173143,
+   "g": 172,
+   "name": "Tortilla chips, yellow, plain, salted"
+  },
+  {
+   "line": 1,
+   "fdc": 175188,
+   "g": 170,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 364,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 31,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "80 multigrain scoops chips taken as 172 g of plain salted tortilla chips."
+}

@@ -1,0 +1,86 @@
+{
+ "id": 6640950,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170417,
+   "g": 133,
+   "name": "parsnips"
+  },
+  {
+   "line": 1,
+   "fdc": 170465,
+   "g": 130,
+   "name": "turnips"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion small"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 168833,
+   "g": 13.8,
+   "added_sugar": true,
+   "name": "brown sugar"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 180,
+   "name": "vinegar cider (for malt vinegar)"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 8,
+   "name": "cilantro"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 240,
+   "name": "lettuce green leaf (baby greens)"
+  },
+  {
+   "line": 9,
+   "fdc": 170187,
+   "g": 60,
+   "name": "walnuts"
+  },
+  {
+   "line": 10,
+   "fdc": 169276,
+   "g": 116,
+   "name": "radishes"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "no malt vinegar entry: cider vinegar"
+}

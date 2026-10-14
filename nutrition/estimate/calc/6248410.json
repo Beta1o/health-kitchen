@@ -1,0 +1,49 @@
+{
+ "id": 6248410,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 540,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170845,
+   "g": 113,
+   "name": "Cheese, mozzarella, whole milk"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 6,
+   "name": "Vinegar, balsamic"
+  }
+ ],
+ "notes": "Balsamic glaze as balsamic vinegar. Beefsteak tomatoes ~180 g each."
+}

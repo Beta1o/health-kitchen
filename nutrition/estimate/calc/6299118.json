@@ -1,0 +1,37 @@
+{
+ "id": 6299118,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 101,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 60,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  }
+ ],
+ "notes": "'coconut milk (unsweetened)' taken as canned coconut milk; could be the carton beverage"
+}

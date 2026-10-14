@@ -1,0 +1,78 @@
+{
+ "id": 9872571,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentils, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 535,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173473,
+   "g": 1,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "spices, bay leaf"
+  },
+  {
+   "line": 7,
+   "fdc": 171583,
+   "g": 1440,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 245,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ]
+}

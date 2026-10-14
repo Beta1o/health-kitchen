@@ -1,0 +1,25 @@
+{
+ "id": 6112057,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173709,
+   "g": 363,
+   "name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 174524,
+   "g": 130,
+   "name": "Sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  }
+ ],
+ "notes": "Tuna pouches -> light tuna canned in water, drained. Pico de gallo -> ready-to-serve salsa."
+}

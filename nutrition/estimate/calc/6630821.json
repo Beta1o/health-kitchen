@@ -1,0 +1,61 @@
+{
+ "id": 6630821,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169703,
+   "g": 95,
+   "name": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 488,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 2,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 4,
+   "fdc": 169103,
+   "g": 3,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 169414,
+   "g": 10,
+   "name": "Seeds, flaxseed"
+  },
+  {
+   "line": 7,
+   "fdc": 171321,
+   "g": 0.3,
+   "name": "Spices, cloves, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 9,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  }
+ ],
+ "notes": "Instant brown rice 1 cup ~95 g dry, as regular brown rice raw. Zero-calorie sweetener -> sucralose packets, 2 g. Orange peel strip and cinnamon stick are steeped (counted in full)."
+}

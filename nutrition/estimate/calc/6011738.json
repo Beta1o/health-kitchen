@@ -1,0 +1,49 @@
+{
+ "id": 6011738,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 390,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170417,
+   "g": 568,
+   "name": "parsnips, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 284,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 4.8,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Coarse salt 1 tsp taken as 5 g. Fresh herbs as fresh thyme."
+}

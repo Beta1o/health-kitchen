@@ -1,0 +1,54 @@
+{
+ "id": 6075896,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174665,
+   "g": 149,
+   "name": "Figs, dried, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 171726,
+   "g": 144,
+   "name": "Dates, deglet noor"
+  },
+  {
+   "line": 3,
+   "fdc": 171017,
+   "g": 13.6,
+   "name": "Oil, sunflower, linoleic (less than 60%)"
+  },
+  {
+   "line": 4,
+   "fdc": 171314,
+   "g": 4.3,
+   "name": "Butter, Clarified butter (ghee)"
+  },
+  {
+   "line": 5,
+   "fdc": 170567,
+   "g": 27,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 17,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170184,
+   "g": 15,
+   "name": "Nuts, pistachio nuts, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170919,
+   "g": 0.6,
+   "name": "Spices, cardamom"
+  }
+ ]
+}

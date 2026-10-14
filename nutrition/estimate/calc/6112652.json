@@ -1,0 +1,54 @@
+{
+ "id": 6112652,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 173462,
+   "g": 375,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 2,
+   "fdc": 168577,
+   "g": 100,
+   "name": "peppers, chili, green, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 171292,
+   "g": 33,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 4,
+   "fdc": 169094,
+   "g": 45,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 90,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

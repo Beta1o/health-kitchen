@@ -1,0 +1,79 @@
+{
+ "id": 7459232,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 150,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 150,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 400,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168867,
+   "g": 200,
+   "name": "Cornmeal, degermed, enriched, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "Polenta -> degermed yellow cornmeal (dry). Tinned cherry tomatoes -> canned tomatoes in juice (salted)."
+}

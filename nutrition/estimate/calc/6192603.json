@@ -1,0 +1,31 @@
+{
+ "id": 6192603,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 153,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 735,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 2,
+   "fdc": 170277,
+   "g": 63,
+   "added_sugar": true,
+   "name": "Sweetener, syrup, agave"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  }
+ ]
+}

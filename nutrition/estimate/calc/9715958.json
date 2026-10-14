@@ -1,0 +1,85 @@
+{
+ "id": 9715958,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 340,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 119,
+   "name": "green bell pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 119,
+   "name": "yellow bell pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 171583,
+   "g": 80,
+   "name": "vegetable broth ready-to-serve"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 175036,
+   "g": 208,
+   "name": "corn tortillas"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "avocado, guacamole and cashew cream are toppings without amounts: left out; orange pepper via yellow"
+}

@@ -1,0 +1,36 @@
+{
+ "id": 6406835,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173691,
+   "g": 113,
+   "name": "Fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 167746,
+   "g": 8,
+   "name": "Lemons, raw, without peel"
+  }
+ ]
+}

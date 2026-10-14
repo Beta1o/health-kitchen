@@ -1,0 +1,61 @@
+{
+ "id": 7973577,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.3,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 168931,
+   "g": 100,
+   "name": "rice, white, short-grain, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sweetener, sucralose"
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 650,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170919,
+   "g": 0.6,
+   "name": "cardamom"
+  },
+  {
+   "line": 7,
+   "fdc": 169910,
+   "g": 400,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170579,
+   "g": 20,
+   "name": "coconut, desiccated, toasted"
+  }
+ ],
+ "notes": "Sweetener assumed granulated sucralose (2 tbsp = 3 g). 2 mangoes ~400 g flesh."
+}

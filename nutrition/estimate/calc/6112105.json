@@ -1,0 +1,73 @@
+{
+ "id": 6112105,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 340,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  }
+ ],
+ "notes": "Line 10 taken as water (first option)."
+}

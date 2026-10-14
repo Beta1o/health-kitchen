@@ -1,0 +1,66 @@
+{
+ "id": 9107096,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 124,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 110,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173801,
+   "g": 250,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 3,
+   "fdc": 170187,
+   "g": 55,
+   "name": "walnuts"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 40,
+   "name": "oats"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "basil, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 174278,
+   "g": 18,
+   "name": "tamari"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  }
+ ]
+}

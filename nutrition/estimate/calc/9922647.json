@@ -1,0 +1,38 @@
+{
+ "id": 9922647,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175188,
+   "g": 258,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 40.5,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 168191,
+   "g": 160,
+   "name": "Dates, medjool"
+  },
+  {
+   "line": 3,
+   "fdc": 169593,
+   "g": 21.5,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 167976,
+   "g": 50,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  }
+ ],
+ "notes": "black beans drained+rinsed as canned black beans (sodium overstated); vegan chocolate chips as semisweet chocolate, ~0.29 cup"
+}

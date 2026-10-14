@@ -1,0 +1,66 @@
+{
+ "id": 7571497,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 350,
+   "name": "potatoes flesh and skin raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170417,
+   "g": 200,
+   "name": "parsnips raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171267,
+   "g": 61,
+   "name": "milk 2%"
+  },
+  {
+   "line": 3,
+   "fdc": 173582,
+   "g": 25,
+   "name": "margarine-like spread 60% fat"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil canola"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrots raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169975,
+   "g": 100,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 132,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "black pepper"
+  }
+ ]
+}

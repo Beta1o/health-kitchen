@@ -1,0 +1,55 @@
+{
+ "id": 6214759,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 680,
+   "name": "chicken thigh, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 120,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 80,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 168462,
+   "g": 240,
+   "name": "spinach, raw"
+  }
+ ],
+ "notes": "boneless skinless thighs ~113 g each; low sodium chicken broth as home-prepared stock"
+}

@@ -1,0 +1,31 @@
+{
+ "id": 9480093,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174288,
+   "g": 92,
+   "name": "chickpea flour (besan)"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Lines 5-16 are optional topping ideas with no amount; left out. 1 cup chickpea flour taken as 92 g (USDA)."
+}

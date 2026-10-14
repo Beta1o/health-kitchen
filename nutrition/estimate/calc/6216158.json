@@ -1,0 +1,61 @@
+{
+ "id": 6216158,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171477,
+   "g": 280,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 174289,
+   "g": 30,
+   "name": "Hummus, commercial"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 120,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 175037,
+   "g": 140,
+   "name": "Tortillas, ready-to-bake or -fry, flour, refrigerated"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 120,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 62,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "gluten-free almond/rice flour wraps (4 small, ~35 g each) -> flour tortilla entry"
+}

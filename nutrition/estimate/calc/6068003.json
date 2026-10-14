@@ -1,0 +1,91 @@
+{
+ "id": 6068003,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173691,
+   "g": 454,
+   "name": "Fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169384,
+   "g": 28,
+   "name": "Tomatoes, sun-dried, packed in oil, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 171583,
+   "g": 120,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 7,
+   "fdc": 172212,
+   "g": 60,
+   "name": "Cream, half and half, fat free"
+  },
+  {
+   "line": 8,
+   "fdc": 169698,
+   "g": 2.7,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 9,
+   "fdc": 168462,
+   "g": 60,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168421,
+   "g": 42,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169291,
+   "g": 450,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 12,
+   "fdc": 173420,
+   "g": 19,
+   "name": "Cheese, feta"
+  }
+ ],
+ "notes": "Power greens as spinach + kale; optional reduced-fat feta counted as regular feta."
+}

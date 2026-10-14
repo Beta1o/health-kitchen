@@ -1,0 +1,48 @@
+{
+ "id": 6629246,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 60,
+   "name": "parsley"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 54,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173801,
+   "g": 510,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 55,
+   "name": "red onion"
+  }
+ ]
+}

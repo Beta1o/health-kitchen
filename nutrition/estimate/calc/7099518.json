@@ -1,0 +1,73 @@
+{
+ "id": 7099518,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 360,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170459,
+   "g": 20,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 25,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168409,
+   "g": 60,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169383,
+   "g": 120,
+   "name": "peppers, sweet, yellow, raw"
+  }
+ ],
+ "notes": "UK tomato puree = concentrated paste."
+}

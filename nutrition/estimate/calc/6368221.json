@@ -1,0 +1,42 @@
+{
+ "id": 6368221,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 400,
+   "name": "asparagus, trimmed"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 58,
+   "name": "red onion"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 227,
+   "name": "cremini"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  }
+ ]
+}

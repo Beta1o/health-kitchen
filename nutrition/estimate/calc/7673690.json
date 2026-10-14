@@ -1,0 +1,79 @@
+{
+ "id": 7673690,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171098,
+   "g": 320,
+   "name": "Turkey, whole, breast, meat only, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 220,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 100,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 168894,
+   "g": 8,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 9,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 172791,
+   "g": 115,
+   "name": "Phyllo dough"
+  },
+  {
+   "line": 11,
+   "fdc": 171430,
+   "g": 2.4,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ],
+ "notes": "Filo sheets ~38 g each."
+}

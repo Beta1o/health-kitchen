@@ -1,0 +1,36 @@
+{
+ "id": 6976675,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 100,
+   "name": "English cucumber 3-inch"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 184,
+   "name": "Greek yogurt, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 1,
+   "name": "fresh mint leaves"
+  }
+ ]
+}

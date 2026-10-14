@@ -1,0 +1,49 @@
+{
+ "id": 9080453,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 338,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 64,
+   "name": "nuts, almond butter, plain, without salt added"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 105,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170687,
+   "g": 200,
+   "name": "buckwheat flour, whole-groat"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

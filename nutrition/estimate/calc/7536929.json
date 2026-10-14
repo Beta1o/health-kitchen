@@ -1,0 +1,85 @@
+{
+ "id": 7536929,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 250,
+   "name": "chicken, breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170929,
+   "g": 3.3,
+   "name": "spices, mustard seed, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 172231,
+   "g": 0.3,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 173442,
+   "g": 30,
+   "name": "sour cream, reduced fat"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "400g chickpeas taken as a 400 g can, ~240 g drained. Half-fat creme fraiche -> reduced-fat sour cream."
+}

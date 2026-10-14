@@ -1,0 +1,66 @@
+{
+ "id": 6425583,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 168434,
+   "g": 140,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (coarse)"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 120,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 174081,
+   "g": 256,
+   "name": "tortillas, whole wheat (8 small, 32 g)"
+  },
+  {
+   "line": 8,
+   "fdc": 170900,
+   "g": 100,
+   "name": "mozzarella, part-skim, shredded"
+  },
+  {
+   "line": 9,
+   "fdc": 173439,
+   "g": 50,
+   "name": "cheese, low fat cheddar/colby (reduced-fat Mexican blend)"
+  }
+ ]
+}

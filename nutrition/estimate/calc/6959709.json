@@ -1,0 +1,67 @@
+{
+ "id": 6959709,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174277,
+   "g": 32,
+   "name": "soy sauce (shoyu)"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 22.5,
+   "name": "vinegar, distilled (for brown rice vinegar)"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 15,
+   "name": "green onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root"
+  },
+  {
+   "line": 4,
+   "fdc": 171695,
+   "g": 15,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 171016,
+   "g": 9,
+   "name": "sesame oil"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 7,
+   "fdc": 174290,
+   "g": 397,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 8,
+   "fdc": 170150,
+   "g": 3,
+   "name": "sesame seeds"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "Brown rice vinegar entered as distilled vinegar."
+}

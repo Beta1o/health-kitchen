@@ -1,0 +1,54 @@
+{
+ "id": 7534585,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 220,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 15,
+   "name": "green onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 25,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 15,
+   "name": "greek yogurt nonfat plain"
+  }
+ ]
+}

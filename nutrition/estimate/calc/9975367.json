@@ -1,0 +1,98 @@
+{
+ "id": 9975367,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171412,
+   "g": 4.5,
+   "name": "Oil, coconut"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 428,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 120,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169145,
+   "g": 120,
+   "name": "Beets, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 120,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175037,
+   "g": 576,
+   "name": "Tortillas, ready-to-bake or -fry, flour, refrigerated"
+  },
+  {
+   "line": 6,
+   "fdc": 174266,
+   "g": 32,
+   "name": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 174278,
+   "g": 54,
+   "name": "Soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 8,
+   "fdc": 172237,
+   "g": 45,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 40,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 10,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 12,
+   "fdc": 171186,
+   "g": 3,
+   "name": "Sauce, hot chile, sriracha"
+  }
+ ],
+ "notes": "Slaw mix split as broccoli/beet/carrot 120 g each. 10-inch flour tortilla ~72 g each. Rice vinegar -> distilled vinegar."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 7379443,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 3,
+   "fdc": 169079,
+   "g": 50,
+   "name": "cheese, cream, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 173439,
+   "g": 50,
+   "name": "cheese, low fat, cheddar or colby"
+  },
+  {
+   "line": 5,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "spices, pepper, white"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 500,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 50,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171025,
+   "g": 9,
+   "name": "oil, sunflower, linoleic, (approx. 65%)"
+  }
+ ],
+ "notes": "Dijon as prepared mustard."
+}

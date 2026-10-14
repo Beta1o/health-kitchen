@@ -1,0 +1,66 @@
+{
+ "id": 6144347,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 180,
+   "name": "sweet potato, raw (2 small)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion, raw (small red)"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "chili powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 150,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 8,
+   "fdc": 168421,
+   "g": 454,
+   "name": "kale, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170898,
+   "g": 33,
+   "name": "cheese, queso cotija"
+  }
+ ]
+}

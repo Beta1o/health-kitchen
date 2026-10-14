@@ -1,0 +1,97 @@
+{
+ "id": 6139937,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 520,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 28,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 74,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 172420,
+   "g": 96,
+   "name": "Lentils, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169074,
+   "g": 227,
+   "name": "Tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 12,
+   "fdc": 172884,
+   "g": 720,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 13,
+   "fdc": 171505,
+   "g": 227,
+   "name": "Turkey, Ground, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 173439,
+   "g": 37,
+   "name": "Cheese, low fat, cheddar or colby"
+  }
+ ],
+ "notes": "small sweet potato taken as 130 g (stuffed whole potato per serving)"
+}

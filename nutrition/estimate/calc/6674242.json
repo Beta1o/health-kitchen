@@ -1,0 +1,121 @@
+{
+ "id": 6674242,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 4.7,
+   "name": "garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 168434,
+   "g": 283,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170029,
+   "g": 454,
+   "name": "potatoes, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170393,
+   "g": 183,
+   "name": "carrots raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170872,
+   "g": 366,
+   "name": "milk 1%"
+  },
+  {
+   "line": 14,
+   "fdc": 171255,
+   "g": 121,
+   "name": "cream, half and half"
+  },
+  {
+   "line": 15,
+   "fdc": 168894,
+   "g": 47,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 16,
+   "fdc": 170016,
+   "g": 227,
+   "name": "peas, green, frozen, unprepared"
+  },
+  {
+   "line": 17,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 18,
+   "fdc": 172791,
+   "g": 152,
+   "name": "phyllo dough"
+  },
+  {
+   "line": 19,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "Phyllo sheets assumed 19 g each."
+}

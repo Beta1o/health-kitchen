@@ -1,0 +1,49 @@
+{
+ "id": 9322650,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 255,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 168567,
+   "g": 14,
+   "name": "Tomatoes, sun-dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171331,
+   "g": 0.75,
+   "name": "Spices, poultry seasoning"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 173904,
+   "g": 10,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  }
+ ],
+ "notes": "Serving sauces (sriracha mayo, ketchup, vegan honey mustard) have no amounts and are left out."
+}

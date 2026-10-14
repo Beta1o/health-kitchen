@@ -1,0 +1,121 @@
+{
+ "id": 7293684,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174285,
+   "g": 240,
+   "name": "beans, kidney, red, canned, drained (mixed beans)"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 250,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170924,
+   "g": 2.5,
+   "name": "curry paste: spices"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 1.5,
+   "name": "curry paste: oil"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "curry paste: salt"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 6,
+   "fdc": 169228,
+   "g": 200,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169255,
+   "g": 336,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169383,
+   "g": 150,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169247,
+   "g": 40,
+   "name": "lettuce, romaine (little gem)"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 250,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170000,
+   "g": 110,
+   "name": "red onion"
+  },
+  {
+   "line": 14,
+   "fdc": 172794,
+   "g": 260,
+   "name": "rolls, dinner, whole-wheat (wholemeal bap)"
+  },
+  {
+   "line": 15,
+   "fdc": 170189,
+   "g": 20,
+   "name": "sesame butter, tahini"
+  },
+  {
+   "line": 15,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Mixed beans as red kidney beans (canned, drained); curry paste split into spices/oil/salt."
+}

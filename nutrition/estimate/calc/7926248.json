@@ -1,0 +1,48 @@
+{
+ "id": 7926248,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 425,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 150,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  }
+ ]
+}

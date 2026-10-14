@@ -1,0 +1,67 @@
+{
+ "id": 9910859,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 288,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170026,
+   "g": 907,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 175204,
+   "g": 325,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 570,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171609,
+   "g": 1440,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 175043,
+   "g": 30,
+   "name": "leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 174832,
+   "g": 240,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth as canned low-sodium chicken broth (no low-sodium vegetable broth in SR); nutritional yeast as active dry yeast (no SR entry); white kidney beans as canned white beans (solids and liquids entry); cashew milk as unsweetened almond milk."
+}

@@ -1,0 +1,102 @@
+{
+ "id": 6779793,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 27.2,
+   "name": "oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans, canned, low sodium, drained"
+  },
+  {
+   "line": 12,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 174527,
+   "g": 5,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 15,
+   "fdc": 169247,
+   "g": 626,
+   "name": "lettuce, cos or romaine, raw"
+  }
+ ]
+}

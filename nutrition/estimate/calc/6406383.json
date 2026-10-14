@@ -1,0 +1,55 @@
+{
+ "id": 6406383,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 227,
+   "name": "Beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 0.3,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170189,
+   "g": 30,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 46,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170924,
+   "g": 6.3,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "optional 1/2 tsp salt included; sweet curry powder as curry powder"
+}

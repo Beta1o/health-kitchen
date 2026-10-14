@@ -1,0 +1,60 @@
+{
+ "id": 6852942,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 227,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171116,
+   "g": 227,
+   "name": "chicken, ground, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168567,
+   "g": 13.5,
+   "name": "tomatoes, sun-dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

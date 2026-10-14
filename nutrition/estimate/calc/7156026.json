@@ -1,0 +1,67 @@
+{
+ "id": 7156026,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 160,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167755,
+   "g": 120,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171711,
+   "g": 120,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 5.3,
+   "name": "sweeteners, tabletop, sucralose, splenda packets"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172183,
+   "g": 198,
+   "name": "egg, white, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 175041,
+   "g": 3,
+   "name": "leavening agents, cream of tartar"
+  },
+  {
+   "line": 8,
+   "fdc": 169698,
+   "g": 10.7,
+   "name": "cornstarch"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 200,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 11,
+   "fdc": 173475,
+   "g": 1,
+   "name": "spearmint, fresh"
+  }
+ ],
+ "notes": "Granulated sweetener (3.5 tbsp ~5 g) as sucralose sweetener; sweetener to taste left out."
+}

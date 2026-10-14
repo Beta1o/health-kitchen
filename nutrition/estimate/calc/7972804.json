@@ -1,0 +1,73 @@
+{
+ "id": 7972804,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 600,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 170090,
+   "g": 4,
+   "name": "agar, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170874,
+   "g": 206,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 2,
+   "name": "vanilla (pod) as extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 4.5,
+   "name": "sucralose granulated sweetener"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 167762,
+   "g": 170,
+   "name": "strawberries"
+  },
+  {
+   "line": 7,
+   "fdc": 167755,
+   "g": 125,
+   "name": "raspberries"
+  },
+  {
+   "line": 8,
+   "fdc": 171711,
+   "g": 125,
+   "name": "blueberries"
+  },
+  {
+   "line": 9,
+   "fdc": 170184,
+   "g": 25,
+   "name": "pistachios"
+  }
+ ],
+ "notes": "Fortified almond milk as plain unsweetened almond milk; vanilla pod as 2 g extract; punnets guessed 125 g."
+}

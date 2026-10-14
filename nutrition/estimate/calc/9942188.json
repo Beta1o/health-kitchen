@@ -1,0 +1,42 @@
+{
+ "id": 9942188,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 454,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 454,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170150,
+   "g": 3,
+   "name": "seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

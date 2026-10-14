@@ -1,0 +1,67 @@
+{
+ "id": 7780864,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 167755,
+   "g": 46,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169928,
+   "g": 600,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 30,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 30,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 170257,
+   "g": 2,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 6,
+   "name": "Nuts, almonds"
+  }
+ ],
+ "notes": "Raspberries: 8 plus a handful to serve guessed 46 g. Almond essence as vanilla extract. Granulated sweetener as sucralose."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 7675617,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 492,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 450,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170499,
+   "g": 30,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Black pepper without amount: 0.5 g."
+}

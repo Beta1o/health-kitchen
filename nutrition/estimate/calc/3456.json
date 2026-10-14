@@ -1,0 +1,66 @@
+{
+ "id": 3456,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171054,
+   "g": 280,
+   "name": "chicken, broilers, meat only, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 168204,
+   "g": 125,
+   "name": "apples, gala, with skin"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 50,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 12,
+   "name": "scallions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168165,
+   "g": 41,
+   "name": "raisins, dark, seedless"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 80,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 173443,
+   "g": 12,
+   "name": "sour cream, light"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 0.7,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

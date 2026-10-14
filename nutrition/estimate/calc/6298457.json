@@ -1,0 +1,73 @@
+{
+ "id": 6298457,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 70,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 169714,
+   "g": 93,
+   "name": "Rice flour, white, unenriched"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 173462,
+   "g": 167,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 174832,
+   "g": 160,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 169878,
+   "g": 15,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 6.3,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 10,
+   "fdc": 167762,
+   "g": 48,
+   "name": "Strawberries, raw"
+  }
+ ],
+ "notes": "Gluten-free flour as white rice flour; sugar-free syrup as 'syrups, sugar free'."
+}

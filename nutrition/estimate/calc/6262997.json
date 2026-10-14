@@ -1,0 +1,55 @@
+{
+ "id": 6262997,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 200,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171247,
+   "g": 25,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Broccolini bunch guessed at 200 g, using raw broccoli. '2 med lemon' taken as their juice (45 g each)."
+}

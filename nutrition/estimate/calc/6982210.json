@@ -1,0 +1,48 @@
+{
+ "id": 6982210,
+ "servings": 11,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 454,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168568,
+   "g": 256,
+   "name": "carrots, baby, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

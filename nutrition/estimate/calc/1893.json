@@ -1,0 +1,49 @@
+{
+ "id": 1893,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171327,
+   "g": 4,
+   "name": "onion powder (Mrs. Dash onion herb, salt-free)"
+  },
+  {
+   "line": 1,
+   "fdc": 171257,
+   "g": 115,
+   "name": "sour cream"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 119,
+   "name": "bell pepper green raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber with peel raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169276,
+   "g": 36,
+   "name": "radishes raw"
+  }
+ ],
+ "notes": "Mrs. Dash blend approximated as onion powder"
+}

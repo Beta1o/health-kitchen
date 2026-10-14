@@ -1,0 +1,60 @@
+{
+ "id": 6041604,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172688,
+   "g": 100,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 174289,
+   "g": 82,
+   "name": "Hummus, commercial"
+  },
+  {
+   "line": 2,
+   "fdc": 169249,
+   "g": 30,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 150,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 62,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 169094,
+   "g": 17,
+   "name": "Olives, ripe, canned (small-extra large)"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

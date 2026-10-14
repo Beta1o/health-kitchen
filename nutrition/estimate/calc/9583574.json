@@ -1,0 +1,45 @@
+{
+ "id": 9583574,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 81,
+   "name": "oats"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 60,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 31,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 175040,
+   "g": 1.15,
+   "name": "baking soda"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 167976,
+   "g": 26,
+   "name": "semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Mix-in (2.5 tbsp) taken as semisweet chocolate chips."
+}

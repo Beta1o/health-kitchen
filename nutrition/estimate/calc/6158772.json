@@ -1,0 +1,61 @@
+{
+ "id": 6158772,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 70,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 121,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 50,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 12,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 7,
+   "fdc": 174081,
+   "g": 80,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 174524,
+   "g": 32,
+   "name": "Sauce, salsa, ready-to-serve"
+  }
+ ],
+ "notes": "low-carb tortillas as regular whole-wheat tortillas (40 g each)"
+}

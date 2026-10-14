@@ -1,0 +1,48 @@
+{
+ "id": 7299915,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170388,
+   "g": 400,
+   "name": "savoy cabbage"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 100,
+   "name": "leek"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 200,
+   "name": "carrots"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 6,
+   "name": "grain mustard"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper"
+  }
+ ]
+}

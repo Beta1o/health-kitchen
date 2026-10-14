@@ -1,0 +1,111 @@
+{
+ "id": 9028983,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172456,
+   "g": 122,
+   "name": "soymilk, original and vanilla, with added calcium, vitamins a and d"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 158,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 130,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 240,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 10,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 11,
+   "fdc": 168165,
+   "g": 80,
+   "name": "raisins, dark, seedless (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 12,
+   "fdc": 170187,
+   "g": 58,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 13,
+   "fdc": 172475,
+   "g": 340,
+   "name": "tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 14,
+   "fdc": 170162,
+   "g": 34,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 169661,
+   "g": 130,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 16,
+   "fdc": 167747,
+   "g": 12.5,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Whole wheat pastry flour as whole-grain wheat flour; extra firm tofu as firm tofu (calcium sulfate); frosting maple syrup 6.5 tbsp (midpoint)."
+}

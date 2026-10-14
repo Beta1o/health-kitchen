@@ -1,0 +1,60 @@
+{
+ "id": 6588051,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174524,
+   "g": 130,
+   "name": "Sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 5,
+   "fdc": 175176,
+   "g": 567,
+   "name": "Fish, tilapia, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170894,
+   "g": 122,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 174527,
+   "g": 15,
+   "name": "Sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 8,
+   "fdc": 175036,
+   "g": 208,
+   "name": "Tortillas, ready-to-bake or -fry, corn"
+  }
+ ]
+}

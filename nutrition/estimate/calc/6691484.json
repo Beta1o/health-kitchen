@@ -1,0 +1,55 @@
+{
+ "id": 6691484,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167755,
+   "g": 120,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 20,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 172240,
+   "g": 60,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 169249,
+   "g": 120,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167755,
+   "g": 123,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170591,
+   "g": 8.6,
+   "name": "Nuts, pine nuts, dried"
+  }
+ ],
+ "notes": "white wine vinegar -> red wine vinegar entry; coarse salt 1/4 tsp ~1.2 g"
+}

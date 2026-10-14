@@ -1,0 +1,72 @@
+{
+ "id": 6489812,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "red onion"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 60,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 30,
+   "name": "cilantro"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 8,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lime zest (as lemon peel)"
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30.8,
+   "name": "lime juice"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 54,
+   "name": "olive oil"
+  }
+ ]
+}

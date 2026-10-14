@@ -1,0 +1,49 @@
+{
+ "id": 6827574,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172791,
+   "g": 60,
+   "name": "phyllo dough"
+  },
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 8,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 169118,
+   "g": 242,
+   "name": "pear raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173435,
+   "g": 57,
+   "name": "goat cheese soft"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg white raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 172241,
+   "g": 64,
+   "name": "balsamic vinegar"
+  }
+ ],
+ "notes": "Mini phyllo shells: no USDA entry, 14 x 4.3 g phyllo dough + 8 g oil for baked shells."
+}

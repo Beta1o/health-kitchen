@@ -1,0 +1,60 @@
+{
+ "id": 9416487,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172475,
+   "g": 454,
+   "name": "tofu, raw, firm"
+  },
+  {
+   "line": 1,
+   "fdc": 170162,
+   "g": 34,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172442,
+   "g": 34,
+   "name": "miso"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173469,
+   "g": 22.5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171322,
+   "g": 0.5,
+   "name": "spices, dill weed, dried"
+  }
+ ]
+}

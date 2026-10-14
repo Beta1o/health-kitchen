@@ -1,0 +1,48 @@
+{
+ "id": 6040267,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173462,
+   "g": 126,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 19,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 45,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ]
+}

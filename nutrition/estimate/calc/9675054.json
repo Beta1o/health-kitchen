@@ -1,0 +1,85 @@
+{
+ "id": 9675054,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168398,
+   "g": 272,
+   "name": "corn, sweet, yellow, frozen, unprepared"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 5,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170162,
+   "g": 1,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "chili flakes as cayenne; vegan parmesan garnish as 1 g cashews"
+}

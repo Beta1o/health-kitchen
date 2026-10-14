@@ -1,0 +1,91 @@
+{
+ "id": 7959955,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 300,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 180,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172475,
+   "g": 300,
+   "name": "tofu, firm (proxy for Quorn mince)"
+  },
+  {
+   "line": 7,
+   "fdc": 172241,
+   "g": 16,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 80,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 10,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 11,
+   "fdc": 175243,
+   "g": 240,
+   "name": "beans, kidney, canned, drained, rinsed"
+  },
+  {
+   "line": 12,
+   "fdc": 170459,
+   "g": 10,
+   "name": "tomato paste"
+  },
+  {
+   "line": 13,
+   "fdc": 172884,
+   "g": 700,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 14,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "pepper, red or cayenne"
+  }
+ ],
+ "notes": "Quorn mince (mycoprotein) has no SR entry; firm tofu used as proxy. Optional spray oil left out. 1-2 peppers taken as 180 g; drained cans 240 g."
+}

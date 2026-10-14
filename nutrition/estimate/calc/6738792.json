@@ -1,0 +1,56 @@
+{
+ "id": 6738792,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169878,
+   "g": 85,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 1,
+   "fdc": 170675,
+   "g": 4.5,
+   "name": "Sweeteners, sugar substitute, granulated, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 162,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170557,
+   "g": 79,
+   "name": "Seeds, pumpkin and squash seed kernels, roasted, without salt"
+  },
+  {
+   "line": 6,
+   "fdc": 171723,
+   "g": 80,
+   "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 170182,
+   "g": 55,
+   "name": "Nuts, pecans"
+  }
+ ],
+ "notes": "Unsweetened dried cranberries have no SR entry: sweetened dried cranberries used (sugar overstated). Brown sugar substitute at 1.5 g/tbsp."
+}

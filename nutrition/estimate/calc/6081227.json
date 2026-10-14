@@ -1,0 +1,43 @@
+{
+ "id": 6081227,
+ "servings": 8,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4,
+   "name": "garam masala (as cumin)"
+  },
+  {
+   "line": 6,
+   "fdc": 168482,
+   "g": 260,
+   "name": "sweet potato, raw (2 medium)"
+  }
+ ],
+ "notes": "garam masala approximated by ground cumin"
+}

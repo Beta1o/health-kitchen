@@ -1,0 +1,60 @@
+{
+ "id": 6890310,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 45,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 24,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 60,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 170926,
+   "g": 0.2,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169986,
+   "g": 321,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

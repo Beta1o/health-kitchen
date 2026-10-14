@@ -1,0 +1,30 @@
+{
+ "id": 9939692,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 165,
+   "name": "apples, raw, with skin (cored)"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 35,
+   "name": "cucumber, with peel"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  }
+ ]
+}

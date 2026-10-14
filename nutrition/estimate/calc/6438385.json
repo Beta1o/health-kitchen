@@ -1,0 +1,67 @@
+{
+ "id": 6438385,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 0.45,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "3 grilled lemon halves: 90 g juice counted as squeezed"
+}

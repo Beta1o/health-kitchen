@@ -1,0 +1,61 @@
+{
+ "id": 6466719,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 20,
+   "name": "bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 3,
+   "fdc": 168389,
+   "g": 400,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173444,
+   "g": 60,
+   "name": "sour cream, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 45,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 30.6,
+   "name": "milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 7.5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 170937,
+   "g": 0.4,
+   "name": "spices, tarragon, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "1 lb asparagus trimmed taken as 400 g edible; panko as dry plain bread crumbs."
+}

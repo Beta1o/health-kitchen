@@ -1,0 +1,55 @@
+{
+ "id": 3121590,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 80,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 4,
+   "fdc": 170924,
+   "g": 2.5,
+   "name": "curry powder (masala stand-in)"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171304,
+   "g": 30,
+   "name": "yogurt, Greek, plain, whole milk"
+  },
+  {
+   "line": 7,
+   "fdc": 170497,
+   "g": 8,
+   "name": "peppers, hot chili, green, raw"
+  }
+ ],
+ "notes": "Chickpeas 240 g taken as drained weight; chaat masala as curry powder (real chaat masala contains black salt, sodium understated)."
+}

@@ -1,0 +1,54 @@
+{
+ "id": 7963728,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173582,
+   "g": 15,
+   "name": "vegetable oil spread 60%"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 15,
+   "name": "plain flour"
+  },
+  {
+   "line": 2,
+   "fdc": 171267,
+   "g": 103,
+   "name": "milk (semi-skimmed)"
+  },
+  {
+   "line": 3,
+   "fdc": 170899,
+   "g": 25,
+   "name": "cheddar"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "english mustard -> prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 5,
+   "name": "mixed herbs fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 171955,
+   "g": 300,
+   "name": "cod 2 x 150 g"
+  }
+ ]
+}

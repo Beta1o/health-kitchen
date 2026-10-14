@@ -1,0 +1,79 @@
+{
+ "id": 6350887,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175238,
+   "g": 480,
+   "name": "Beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 169998,
+   "g": 154,
+   "name": "Corn, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 180,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Low-sodium canned black beans, ~240 g per can drained. Medium avocado 150 g edible."
+}

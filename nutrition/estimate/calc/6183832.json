@@ -1,0 +1,72 @@
+{
+ "id": 6183832,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 256,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 320,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170465,
+   "g": 260,
+   "name": "Turnips, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170417,
+   "g": 266,
+   "name": "Parsnips, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168454,
+   "g": 280,
+   "name": "Rutabagas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169295,
+   "g": 280,
+   "name": "Squash, winter, butternut, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 36,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 20,
+   "name": "Parsley, fresh"
+  }
+ ]
+}

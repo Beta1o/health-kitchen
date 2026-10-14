@@ -1,0 +1,85 @@
+{
+ "id": 6523847,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 60,
+   "name": "lettuce romaine"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169225,
+   "g": 150,
+   "name": "cucumber peeled"
+  },
+  {
+   "line": 3,
+   "fdc": 173420,
+   "g": 50,
+   "name": "feta"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 7,
+   "fdc": 174916,
+   "g": 128,
+   "name": "pita whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 175179,
+   "g": 130,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  },
+  {
+   "line": 12,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "reduced-fat feta not in SR, regular feta used; fresh oregano as 1 g dried; optional 1 tsp salt included"
+}

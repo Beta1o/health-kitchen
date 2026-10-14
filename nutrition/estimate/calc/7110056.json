@@ -1,0 +1,79 @@
+{
+ "id": 7110056,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 400,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174288,
+   "g": 100,
+   "name": "Chickpea flour (besan)"
+  },
+  {
+   "line": 4,
+   "fdc": 170924,
+   "g": 3,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 100,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 173801,
+   "g": 235,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 8,
+   "fdc": 169288,
+   "g": 150,
+   "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 0.9,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 50,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 167747,
+   "g": 22,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "Spinach as frozen boiled-drained at squeezed weight 150 g."
+}

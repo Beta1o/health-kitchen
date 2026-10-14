@@ -1,0 +1,66 @@
+{
+ "id": 6733698,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 171054,
+   "g": 420,
+   "name": "chicken meat, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 171711,
+   "g": 444,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 50,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 25,
+   "name": "spring onions"
+  },
+  {
+   "line": 8,
+   "fdc": 168429,
+   "g": 60,
+   "name": "butterhead lettuce"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 11,
+   "name": "almonds"
+  }
+ ]
+}

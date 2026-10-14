@@ -1,0 +1,54 @@
+{
+ "id": 3067106,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 150,
+   "name": "pasta dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 200,
+   "name": "broccoli"
+  },
+  {
+   "line": 2,
+   "fdc": 169986,
+   "g": 200,
+   "name": "cauliflower"
+  },
+  {
+   "line": 3,
+   "fdc": 173418,
+   "g": 200,
+   "name": "cream cheese"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried (mixed herbs)"
+  },
+  {
+   "line": 6,
+   "fdc": 173414,
+   "g": 15,
+   "name": "cheddar"
+  },
+  {
+   "line": 7,
+   "fdc": 174928,
+   "g": 30,
+   "name": "bread crumbs dry"
+  }
+ ]
+}

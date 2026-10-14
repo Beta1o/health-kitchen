@@ -1,0 +1,51 @@
+{
+ "id": 7406405,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170919,
+   "g": 0.4,
+   "name": "Spices, cardamom"
+  },
+  {
+   "line": 1,
+   "fdc": 173475,
+   "g": 1.5,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 167781,
+   "g": 15,
+   "added_sugar": true,
+   "name": "Candied fruit"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 28,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  },
+  {
+   "line": 3,
+   "fdc": 169124,
+   "g": 500,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 4,
+   "fdc": 169926,
+   "g": 300,
+   "name": "Papayas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168153,
+   "g": 69,
+   "name": "Kiwifruit, green, raw"
+  }
+ ],
+ "notes": "stem ginger as candied fruit 15 g; 2 tbsp ginger syrup as 28 g sugar"
+}

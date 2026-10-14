@@ -1,0 +1,55 @@
+{
+ "id": 6487300,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 1,
+   "fdc": 169961,
+   "g": 907,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171415,
+   "g": 23,
+   "name": "margarine spread 35-39% fat"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170567,
+   "g": 46,
+   "name": "almonds"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  }
+ ],
+ "notes": "light buttery spread as 35-39% fat margarine spread"
+}

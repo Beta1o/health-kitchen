@@ -1,0 +1,97 @@
+{
+ "id": 6002802,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 380,
+   "name": "Squash, winter, butternut, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170465,
+   "g": 200,
+   "name": "Turnips, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170417,
+   "g": 266,
+   "name": "Parsnips, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 120,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169975,
+   "g": 454,
+   "name": "Cabbage, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 170938,
+   "g": 3,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 172884,
+   "g": 1920,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 12,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 14,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Herbes de Provence as dried thyme; low-sodium vegetable broth as home-prepared stock; sherry vinegar as red wine vinegar; 1 lb squash -> 380 g peeled/seeded."
+}

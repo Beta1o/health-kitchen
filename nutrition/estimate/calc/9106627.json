@@ -1,0 +1,38 @@
+{
+ "id": 9106627,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174294,
+   "g": 64,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 70,
+   "name": "almonds, blanched"
+  },
+  {
+   "line": 4,
+   "fdc": 175040,
+   "g": 1.15,
+   "name": "baking soda"
+  }
+ ],
+ "notes": "Almond flour as blanched almonds."
+}

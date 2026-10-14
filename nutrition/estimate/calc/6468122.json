@@ -1,0 +1,60 @@
+{
+ "id": 6468122,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry (orzo)"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 454,
+   "name": "asparagus"
+  },
+  {
+   "line": 3,
+   "fdc": 168387,
+   "g": 397,
+   "name": "artichokes, frozen"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 171249,
+   "g": 25,
+   "name": "cheese, romano"
+  }
+ ]
+}

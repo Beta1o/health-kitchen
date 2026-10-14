@@ -1,0 +1,73 @@
+{
+ "id": 7084875,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 700,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 175167,
+   "g": 480,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 4,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 171430,
+   "g": 1,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 4,
+   "fdc": 168389,
+   "g": 200,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170010,
+   "g": 200,
+   "name": "Peas, edible-podded, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170068,
+   "g": 80,
+   "name": "Watercress, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170894,
+   "g": 150,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 20,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "Sumac (not in SR) as paprika; cooking spray 'lightly coat' 1 g; small pack basil ~20 g."
+}

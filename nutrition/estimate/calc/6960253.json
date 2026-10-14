@@ -1,0 +1,30 @@
+{
+ "id": 6960253,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168411,
+   "g": 78,
+   "name": "edamame, frozen, prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 0.5,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170571,
+   "g": 14,
+   "name": "cashews, dry roasted, unsalted"
+  }
+ ]
+}

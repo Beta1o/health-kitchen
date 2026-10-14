@@ -1,0 +1,73 @@
+{
+ "id": 7748136,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169255,
+   "g": 400,
+   "name": "Mushrooms, portabella, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169287,
+   "g": 300,
+   "name": "Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 169079,
+   "g": 50,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 172794,
+   "g": 240,
+   "name": "Rolls, dinner, whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 100,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  }
+ ],
+ "notes": "Low-fat garlic and herb cream cheese -> low-fat cream cheese. Seeded wholemeal rolls 60 g each -> whole-wheat dinner rolls."
+}

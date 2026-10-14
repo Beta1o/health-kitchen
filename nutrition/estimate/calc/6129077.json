@@ -1,0 +1,97 @@
+{
+ "id": 6129077,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171670,
+   "g": 156,
+   "name": "cereals, corn grits, yellow, unenriched, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 171292,
+   "g": 113,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 476,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 9,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 170920,
+   "g": 0.4,
+   "name": "spices, celery seed"
+  },
+  {
+   "line": 11,
+   "fdc": 172884,
+   "g": 120,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Old Bay (1 tsp) modelled as 1.4 g salt + paprika + celery seed."
+}

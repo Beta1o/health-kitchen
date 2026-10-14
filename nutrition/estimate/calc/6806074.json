@@ -1,0 +1,73 @@
+{
+ "id": 6806074,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174606,
+   "g": 397,
+   "name": "sausage, turkey, hot, smoked (spicy chicken sausage)"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171609,
+   "g": 411,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentils, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "spices, bay leaf"
+  },
+  {
+   "line": 11,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "spicy chicken sausage as hot smoked turkey sausage"
+}

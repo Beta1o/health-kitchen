@@ -1,0 +1,79 @@
+{
+ "id": 6419173,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 175176,
+   "g": 454,
+   "name": "tilapia, raw (4 fillets ~4 oz)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 119,
+   "name": "bell pepper, yellow/orange"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 245,
+   "name": "yogurt, Greek, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 174116,
+   "g": 240,
+   "name": "coconut milk beverage"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 12.6,
+   "name": "curry powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "cayenne"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  }
+ ],
+ "notes": "tilapia fillet weight not given, 4 oz each assumed; all marinade counted as eaten; coconut milk beverage via sweetened SR entry"
+}

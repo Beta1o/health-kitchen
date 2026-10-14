@@ -1,0 +1,91 @@
+{
+ "id": 6471870,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 113,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "Oil, sesame, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 6,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 720,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 169242,
+   "g": 70,
+   "name": "Mushrooms, shiitake, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170379,
+   "g": 71,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170390,
+   "g": 120,
+   "name": "Cabbage, chinese (pak-choi), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170393,
+   "g": 142,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 174290,
+   "g": 397,
+   "name": "Tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 22,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 13,
+   "fdc": 172237,
+   "g": 15,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 14,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ],
+ "notes": "Dried ramen noodles (no seasoning) as dry enriched pasta. Coconut aminos have no SR entry: low-sodium soy sauce used (sodium likely overstated)."
+}

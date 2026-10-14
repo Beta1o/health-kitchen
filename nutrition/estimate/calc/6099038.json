@@ -1,0 +1,90 @@
+{
+ "id": 6099038,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170924,
+   "g": 2,
+   "name": "curry powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "coriander seed"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 168450,
+   "g": 425,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 10,
+   "fdc": 172212,
+   "g": 240,
+   "name": "cream, half and half, fat free"
+  },
+  {
+   "line": 11,
+   "fdc": 170257,
+   "g": 1,
+   "name": "sucralose sweetener packets"
+  },
+  {
+   "line": 12,
+   "fdc": 170557,
+   "g": 32,
+   "name": "pumpkin seed kernels, roasted, without salt"
+  },
+  {
+   "line": 13,
+   "fdc": 169994,
+   "g": 12,
+   "name": "chives, raw"
+  }
+ ]
+}

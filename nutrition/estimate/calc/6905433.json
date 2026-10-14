@@ -1,0 +1,44 @@
+{
+ "id": 6905433,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 260,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 30.0, 'calories': 86.0, 'carbohydrates_g': 20.12, 'cholesterol_mg': 0.0, 'fat_g': 0.05, 'fiber_g': 3.0, 'phosphorus_mg': 47.0, 'potassium_mg': 337.0, 'protein_g': 1.57, 'sodium_mg': 55.0, 'sugars_g': 4.18}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 31.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 454,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 174066,
+   "g": 36,
+   "name": "sauce, sweet and sour, ready-to-serve",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Sweet chili sauce approximated with sweet and sour sauce."
+}

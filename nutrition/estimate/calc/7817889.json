@@ -1,0 +1,103 @@
+{
+ "id": 7817889,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 75,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174288,
+   "g": 50,
+   "name": "Chickpea flour (besan)"
+  },
+  {
+   "line": 2,
+   "fdc": 169714,
+   "g": 125,
+   "name": "Rice flour, white, unenriched"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 50,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 5,
+   "fdc": 175041,
+   "g": 1.5,
+   "name": "Leavening agents, cream of tartar"
+  },
+  {
+   "line": 6,
+   "fdc": 173582,
+   "g": 25,
+   "name": "Margarine-like, vegetable oil spread, 60% fat, tub, with salt"
+  },
+  {
+   "line": 7,
+   "fdc": 171267,
+   "g": 129,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 8,
+   "fdc": 172370,
+   "g": 1,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 492,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169383,
+   "g": 75,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169254,
+   "g": 160,
+   "name": "Mushrooms, canned, drained solids"
+  },
+  {
+   "line": 14,
+   "fdc": 173420,
+   "g": 40,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 15,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "Ground rice as white rice flour; sunflower spread as 60% vegetable oil spread; 290 g tin mushrooms -> 160 g drained."
+}

@@ -1,0 +1,60 @@
+{
+ "id": 9162814,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171726,
+   "g": 147,
+   "name": "dates deglet noor"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 60,
+   "name": "almonds blanched (almond flour)"
+  },
+  {
+   "line": 5,
+   "fdc": 170170,
+   "g": 20,
+   "name": "coconut dried unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 36,
+   "name": "almonds"
+  },
+  {
+   "line": 8,
+   "fdc": 170170,
+   "g": 12,
+   "name": "coconut dried unsweetened"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 20,
+   "name": "almonds"
+  }
+ ]
+}

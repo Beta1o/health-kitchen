@@ -1,0 +1,42 @@
+{
+ "id": 7201713,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 300,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "Spices, sage, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 172688,
+   "g": 33,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 168483,
+   "g": 100,
+   "name": "Sweet potato, cooked, baked in skin, flesh, without salt"
+  }
+ ]
+}

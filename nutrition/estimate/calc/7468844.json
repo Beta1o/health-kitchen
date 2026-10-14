@@ -1,0 +1,61 @@
+{
+ "id": 7468844,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168463,
+   "g": 100,
+   "name": "Spinach, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169079,
+   "g": 60,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 15,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 172791,
+   "g": 140,
+   "name": "Phyllo dough"
+  },
+  {
+   "line": 7,
+   "fdc": 171025,
+   "g": 27,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 8,
+   "fdc": 172191,
+   "g": 108,
+   "name": "Egg, quail, whole, fresh, raw"
+  }
+ ],
+ "notes": "Filo sheet weight assumed 35 g each; quail eggs 9 g each."
+}

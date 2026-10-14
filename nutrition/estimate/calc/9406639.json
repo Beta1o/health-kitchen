@@ -1,0 +1,51 @@
+{
+ "id": 9406639,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 225,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 162,
+   "name": "oats, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 170189,
+   "g": 120,
+   "name": "sesame butter, tahini"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 40,
+   "name": "sugars, brown (coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 13,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 167762,
+   "g": 40,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167976,
+   "g": 42,
+   "name": "candies, semisweet chocolate (chips)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Coconut sugar as brown sugar."
+}

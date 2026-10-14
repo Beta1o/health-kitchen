@@ -1,0 +1,37 @@
+{
+ "id": 9740595,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171706,
+   "g": 408,
+   "name": "avocados, raw, california"
+  },
+  {
+   "line": 1,
+   "fdc": 174524,
+   "g": 32,
+   "name": "salsa"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  }
+ ],
+ "notes": "Avocados taken as Hass, 136 g flesh each."
+}

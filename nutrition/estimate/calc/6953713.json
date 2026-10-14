@@ -1,0 +1,97 @@
+{
+ "id": 6953713,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 1,
+   "fdc": 171098,
+   "g": 567,
+   "name": "turkey, breast, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 4,
+   "fdc": 169098,
+   "g": 85,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 11,
+   "fdc": 169910,
+   "g": 250,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 53,
+   "name": "onions, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170108,
+   "g": 75,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 168576,
+   "g": 9,
+   "name": "peppers, jalapeno, raw"
+  }
+ ],
+ "notes": "Rice wine vinegar as distilled vinegar."
+}

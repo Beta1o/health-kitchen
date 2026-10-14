@@ -1,0 +1,61 @@
+{
+ "id": 7340829,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173414,
+   "g": 50,
+   "name": "cheese, cheddar"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring/green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169287,
+   "g": 75,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 27,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 77,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  }
+ ],
+ "notes": "Frozen spinach counted at 75 g unprepared (water squeezed out)."
+}

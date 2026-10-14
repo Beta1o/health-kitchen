@@ -1,0 +1,37 @@
+{
+ "id": 6228432,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 236,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171706,
+   "g": 272,
+   "name": "Avocados, raw, California"
+  },
+  {
+   "line": 2,
+   "fdc": 170173,
+   "g": 32,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 3,
+   "fdc": 169593,
+   "g": 28.7,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 6,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  }
+ ],
+ "notes": "lite coconut milk 80 g modelled as 40% regular canned coconut milk; 1/4 cup granulated sugar substitute as 6 g sucralose sweetener (not flagged added sugar)"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6744025,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171850,
+   "g": 68,
+   "name": "bread, wheat, sprouted"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Fresh herbs as parsley."
+}

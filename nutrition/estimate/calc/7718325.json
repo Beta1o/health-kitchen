@@ -1,0 +1,61 @@
+{
+ "id": 7718325,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 150,
+   "name": "oats"
+  },
+  {
+   "line": 1,
+   "fdc": 168893,
+   "g": 8,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener (Splenda)"
+  },
+  {
+   "line": 3,
+   "fdc": 171025,
+   "g": 54.4,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 4,
+   "fdc": 171711,
+   "g": 450,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 170257,
+   "g": 4.5,
+   "name": "sucralose sweetener (Splenda)"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 500,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 172207,
+   "g": 250,
+   "name": "cream cheese, fat free"
+  }
+ ],
+ "notes": "3% fat cream cheese as fat-free cream cheese (closest); granulated sweetener as Splenda 1.5 g/tbsp."
+}

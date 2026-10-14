@@ -1,0 +1,43 @@
+{
+ "id": 6679034,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 680,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 108,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 172688,
+   "g": 168,
+   "name": "bread, whole-wheat, commercially prepared"
+  }
+ ],
+ "notes": "All 1/2 cup olive oil counted as eaten."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 6739070,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 90,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 28,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169096,
+   "g": 32,
+   "name": "olives, pickled, green"
+  },
+  {
+   "line": 5,
+   "fdc": 171019,
+   "g": 60,
+   "name": "salad dressing, italian, commercial, regular"
+  }
+ ],
+ "notes": "Kalamata olives modelled as brined green olives (4 g each); red wine vinaigrette as regular Italian dressing."
+}

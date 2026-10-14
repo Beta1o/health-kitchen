@@ -1,0 +1,42 @@
+{
+ "id": 6245471,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170008,
+   "g": 200,
+   "name": "onions sweet raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 560,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme dried"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 411,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 7,
+   "fdc": 168421,
+   "g": 90,
+   "name": "kale raw"
+  }
+ ]
+}

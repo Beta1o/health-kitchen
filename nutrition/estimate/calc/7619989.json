@@ -1,0 +1,85 @@
+{
+ "id": 7619989,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172688,
+   "g": 36,
+   "name": "bread whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas canned drained"
+  },
+  {
+   "line": 3,
+   "fdc": 172608,
+   "g": 450,
+   "name": "lamb ground 85% raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172239,
+   "g": 1.5,
+   "name": "spearmint dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 4,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 1.5,
+   "name": "cayenne/red pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 172794,
+   "g": 480,
+   "name": "rolls whole-wheat"
+  },
+  {
+   "line": 10,
+   "fdc": 169247,
+   "g": 100,
+   "name": "lettuce romaine"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 492,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  }
+ ],
+ "notes": "Lean lamb mince as 85% lean ground lamb."
+}

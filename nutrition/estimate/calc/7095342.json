@@ -1,0 +1,79 @@
+{
+ "id": 7095342,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170938,
+   "g": 1.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 171315,
+   "g": 2.5,
+   "name": "allspice"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 3,
+   "name": "paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 172231,
+   "g": 4,
+   "name": "turmeric"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "sage, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 172688,
+   "g": 30,
+   "name": "bread, whole-wheat (crumbs)"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173627,
+   "g": 450,
+   "name": "chicken thigh, meat only, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168894,
+   "g": 7.8,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 11,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  }
+ ],
+ "notes": "450 g thighs taken as boneless meat."
+}

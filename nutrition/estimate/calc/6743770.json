@@ -1,0 +1,73 @@
+{
+ "id": 6743770,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 22.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 160,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 55,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168114,
+   "g": 113,
+   "name": "cottage cheese 1%, no sodium added"
+  },
+  {
+   "line": 7,
+   "fdc": 173462,
+   "g": 376,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 201,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sriracha"
+  },
+  {
+   "line": 11,
+   "fdc": 168098,
+   "g": 14,
+   "name": "cheese, monterey, low fat"
+  }
+ ],
+ "notes": "Steel-cut oats as generic oats, dry (1 cup ~160 g)."
+}

@@ -1,0 +1,91 @@
+{
+ "id": 9890162,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 2,
+   "fdc": 174277,
+   "g": 64,
+   "name": "soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 172800,
+   "g": 103,
+   "name": "taco shells, baked"
+  },
+  {
+   "line": 11,
+   "fdc": 171705,
+   "g": 300,
+   "name": "avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 12,
+   "fdc": 170162,
+   "g": 34,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 15,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Taco shells 12.9 g each; avocado flesh 150 g each."
+}

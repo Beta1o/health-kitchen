@@ -1,0 +1,92 @@
+{
+ "id": 6460699,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168398,
+   "g": 140,
+   "name": "corn, sweet, yellow, frozen, kernels cut off cob, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 4.0, 'calories': 88.0, 'carbohydrates_g': 20.71, 'cholesterol_mg': 0.0, 'fat_g': 0.78, 'fiber_g': 2.1, 'phosphorus_mg': 70.0, 'potassium_mg': 213.0, 'protein_g': 3.02, 'sodium_mg': 3.0, 'sugars_g': 2.5}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 18,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172240,
+   "g": 60,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 169655,
+   "g": 1,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 168634,
+   "g": 340,
+   "name": "beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled"
+  },
+  {
+   "line": 8,
+   "fdc": 170440,
+   "g": 156,
+   "name": "potatoes, boiled, cooked without skin, flesh, without salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 100,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170108,
+   "g": 149,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170427,
+   "g": 149,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169249,
+   "g": 120,
+   "name": "lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Grilled sirloin 12 oz taken as cooked weight; Dijon as prepared mustard; baby greens as green leaf lettuce."
+}

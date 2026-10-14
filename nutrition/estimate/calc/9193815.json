@@ -1,0 +1,31 @@
+{
+ "id": 9193815,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 680,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 75,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 10,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 41,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Vinegar mostly used for boiling: 75 g of 300 ml counted; full 10 g salt counted though part is in the boiling liquid; salt flakes without amount left out."
+}

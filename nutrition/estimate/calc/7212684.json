@@ -1,0 +1,67 @@
+{
+ "id": 7212684,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 171098,
+   "g": 480,
+   "name": "Turkey, whole, breast, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 260,
+   "name": "Leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 8,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 103,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 8,
+   "fdc": 172207,
+   "g": 75,
+   "name": "Cheese, cream, fat free"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 25,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "turkey escalopes guessed 120 g each, leeks 130 g each; extra-light cream cheese -> fat-free cream cheese; Dijon -> prepared mustard"
+}

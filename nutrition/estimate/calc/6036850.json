@@ -1,0 +1,38 @@
+{
+ "id": 6036850,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 156,
+   "name": "spinach raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 24,
+   "name": "almonds"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 332,
+   "name": "strawberries raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 4,
+   "fdc": 171046,
+   "g": 96,
+   "name": "dressing, honey mustard, fat-free",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Fat-free poppy seed dressing approximated with fat-free honey mustard dressing."
+}

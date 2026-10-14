@@ -1,0 +1,91 @@
+{
+ "id": 3825469,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168726,
+   "g": 500,
+   "name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170427,
+   "g": 150,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 4.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 160,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 6.75,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 13.8,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 169640,
+   "g": 42,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 172240,
+   "g": 30,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 12,
+   "fdc": 171025,
+   "g": 27.2,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 13,
+   "fdc": 171610,
+   "g": 17,
+   "name": "Sauce, worcestershire"
+  },
+  {
+   "line": 14,
+   "fdc": 168877,
+   "g": 250,
+   "name": "Rice, white, long-grain, regular, raw, enriched"
+  }
+ ]
+}

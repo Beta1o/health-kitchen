@@ -1,0 +1,42 @@
+{
+ "id": 7903857,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 160,
+   "name": "Leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 160,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 30,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  }
+ ]
+}

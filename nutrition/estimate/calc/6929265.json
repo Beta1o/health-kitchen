@@ -1,0 +1,44 @@
+{
+ "id": 6929265,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174957,
+   "g": 14,
+   "name": "cookies, graham crackers, plain or honey (includes cinnamon)"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 332,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169640,
+   "g": 5.3,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 172181,
+   "g": 328,
+   "name": "cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  }
+ ],
+ "notes": "No nonfat ricotta in SR Legacy: used nonfat dry-curd cottage cheese (similar calories/protein, sodium likely higher)."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6176359,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170567,
+   "g": 27,
+   "name": "alm"
+  },
+  {
+   "line": 1,
+   "fdc": 169880,
+   "g": 20,
+   "name": "sugar-free caramel hard candies"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 173933,
+   "g": 62,
+   "name": "apjuice"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1,
+   "name": "cinnamon stick (steeped)"
+  },
+  {
+   "line": 6,
+   "fdc": 169118,
+   "g": 300,
+   "name": "pears peeled cored"
+  },
+  {
+   "line": 7,
+   "fdc": 173581,
+   "g": 4.7,
+   "name": "light butter"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "van"
+  }
+ ],
+ "notes": "Sugar-free candies as dietetic hard candy (sorbitol), 8 x 2.5 g. Apple juice cooking liquid counted in full."
+}

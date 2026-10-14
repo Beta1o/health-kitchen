@@ -1,0 +1,60 @@
+{
+ "id": 6388872,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onion, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 169928,
+   "g": 300,
+   "name": "peaches, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans, canned"
+  }
+ ]
+}

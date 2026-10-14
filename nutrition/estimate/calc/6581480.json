@@ -1,0 +1,73 @@
+{
+ "id": 6581480,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 646,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169094,
+   "g": 34,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 10.6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 171955,
+   "g": 567,
+   "name": "fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168156,
+   "g": 30.8,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Cod fillets taken as 5 oz each. Kalamata olives mapped to ripe canned olives."
+}

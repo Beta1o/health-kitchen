@@ -1,0 +1,25 @@
+{
+ "id": 6032610,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167959,
+   "g": 8,
+   "name": "Snacks, popcorn, air-popped"
+  },
+  {
+   "line": 1,
+   "fdc": 168599,
+   "g": 28.35,
+   "name": "Nuts, mixed nuts, dry roasted, with peanuts, with salt added"
+  },
+  {
+   "line": 2,
+   "fdc": 168165,
+   "g": 18,
+   "name": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Mixed nuts as dry roasted with salt."
+}

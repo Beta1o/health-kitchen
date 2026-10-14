@@ -1,0 +1,55 @@
+{
+ "id": 9784963,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 281,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171695,
+   "g": 81,
+   "name": "s Food Distribution Program)\",) {"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 250,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170187,
+   "g": 58,
+   "name": "Nuts, walnuts, english"
+  }
+ ]
+}

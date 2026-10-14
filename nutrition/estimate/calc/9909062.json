@@ -1,0 +1,73 @@
+{
+ "id": 9909062,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173756,
+   "g": 200,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169997,
+   "g": 16,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 61,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 3.2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "falafel only: wrap fillings (pita, vegetables, tahini) have no amounts and are left out"
+}

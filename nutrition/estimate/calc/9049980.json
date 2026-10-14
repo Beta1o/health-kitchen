@@ -1,0 +1,104 @@
+{
+ "id": 9049980,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 169977,
+   "g": 210,
+   "name": "red cabbage raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrots raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168398,
+   "g": 272,
+   "name": "corn frozen"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 300,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 45,
+   "name": "spring onions raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 15,
+   "name": "cilantro"
+  },
+  {
+   "line": 10,
+   "fdc": 172237,
+   "g": 22,
+   "name": "vinegar distilled (for rice vinegar)"
+  },
+  {
+   "line": 11,
+   "fdc": 174278,
+   "g": 64,
+   "name": "tamari"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 13,
+   "fdc": 170150,
+   "g": 18,
+   "name": "sesame seeds whole dried"
+  },
+  {
+   "line": 14,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 15,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 16,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  }
+ ],
+ "notes": "optional maple syrup included; rice vinegar as distilled vinegar"
+}

@@ -1,0 +1,60 @@
+{
+ "id": 6683291,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 173797,
+   "g": 255,
+   "name": "pinto beans canned rinsed drained"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 120,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 5,
+   "fdc": 170107,
+   "g": 2.5,
+   "name": "chipotle in adobo"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  }
+ ]
+}

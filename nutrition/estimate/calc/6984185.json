@@ -1,0 +1,49 @@
+{
+ "id": 6984185,
+ "servings": 12,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 64,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 160,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 3,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 29,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 6,
+   "fdc": 175043,
+   "g": 2.5,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 7,
+   "fdc": 173904,
+   "g": 364.5,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  }
+ ],
+ "notes": "Italian herb blend entered as dried oregano. Nutritional yeast has no SR entry: active dry yeast used."
+}

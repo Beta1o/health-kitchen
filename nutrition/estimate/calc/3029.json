@@ -1,0 +1,36 @@
+{
+ "id": 3029,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170922,
+   "g": 5,
+   "name": "coriander seed (ground)"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 6,
+   "name": "cumin seed (ground)"
+  },
+  {
+   "line": 2,
+   "fdc": 172231,
+   "g": 9.4,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 172239,
+   "g": 1,
+   "name": "spearmint, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  }
+ ]
+}

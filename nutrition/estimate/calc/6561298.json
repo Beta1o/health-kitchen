@@ -1,0 +1,48 @@
+{
+ "id": 6561298,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt (optional, amount given)"
+  },
+  {
+   "line": 2,
+   "fdc": 170027,
+   "g": 1020,
+   "name": "russet potatoes, 6 medium"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 172212,
+   "g": 242,
+   "name": "fat free half-and-half"
+  },
+  {
+   "line": 6,
+   "fdc": 171292,
+   "g": 56,
+   "name": "reduced-fat cheddar"
+  }
+ ]
+}

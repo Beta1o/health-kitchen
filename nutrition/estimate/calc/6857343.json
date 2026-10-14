@@ -1,0 +1,61 @@
+{
+ "id": 6857343,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 100,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 100,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 100,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 90,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 19,
+   "name": "Cheese, feta"
+  }
+ ],
+ "notes": "Frozen mixed vegetables (asparagus, peppers, zucchini, tomatoes) entered as the raw vegetables, 390 g total."
+}

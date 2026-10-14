@@ -1,0 +1,55 @@
+{
+ "id": 6969063,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171688,
+   "g": 223,
+   "name": "apples, raw, with skin (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 4,
+   "fdc": 171331,
+   "g": 2.3,
+   "name": "spices, poultry seasoning"
+  },
+  {
+   "line": 5,
+   "fdc": 171609,
+   "g": 960,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 172751,
+   "g": 340,
+   "name": "croutons, plain"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Unseasoned stuffing cubes package assumed 12 oz (340 g) as plain croutons; fresh herbs as parsley; low-sodium stock as canned low-sodium chicken broth."
+}

@@ -1,0 +1,68 @@
+{
+ "id": 6398457,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169387,
+   "g": 160,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169118,
+   "g": 356,
+   "name": "Pears, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170187,
+   "g": 58,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 3,
+   "fdc": 172175,
+   "g": 25,
+   "name": "Cheese, blue"
+  },
+  {
+   "line": 4,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 7,
+   "fdc": 169640,
+   "g": 7,
+   "added_sugar": true,
+   "name": "Honey"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Arugula 20 g/cup (USDA). Coarse salt 1/2 tsp ~2.4 g."
+}

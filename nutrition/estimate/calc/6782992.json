@@ -1,0 +1,43 @@
+{
+ "id": 6782992,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 300,
+   "name": "cuc"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 30,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oliveoil"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170151,
+   "g": 9,
+   "name": "sesame"
+  }
+ ]
+}

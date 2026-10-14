@@ -1,0 +1,49 @@
+{
+ "id": 7375715,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 1000,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 800,
+   "name": "mushrooms, crimini (mixed), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170935,
+   "g": 2,
+   "name": "sage, ground (for 16 fresh leaves)"
+  },
+  {
+   "line": 5,
+   "fdc": 171613,
+   "g": 10,
+   "name": "bouillon cube, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 173904,
+   "g": 25,
+   "name": "oats, dry"
+  }
+ ],
+ "notes": "large butternut squash taken as 1 kg edible"
+}

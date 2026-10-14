@@ -1,0 +1,63 @@
+{
+ "id": 6523355,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173747,
+   "g": 500,
+   "name": "Beans, navy, mature seeds, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 169381,
+   "g": 60,
+   "added_sugar": true,
+   "name": "Catsup, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 170675,
+   "g": 6,
+   "added_sugar": true,
+   "name": "Sweeteners, sugar substitute, granulated, brown"
+  },
+  {
+   "line": 6,
+   "fdc": 172473,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  }
+ ],
+ "notes": "low-calorie brown sugar substitute: guessed 6 g of USDA brown sugar substitute; Dijon as prepared mustard"
+}

@@ -1,0 +1,122 @@
+{
+ "id": 3434975,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 4.5,
+   "name": "oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171790,
+   "g": 250,
+   "name": "beef, ground, 95% lean meat / 5% fat, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 3,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 32,
+   "name": "tomato products, canned, paste, without salt added (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 5,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 10,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 167932,
+   "g": 500,
+   "name": "pie crust, refrigerated, regular, unbaked"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 167767,
+   "g": 140,
+   "name": "pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 369,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 12,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169383,
+   "g": 60,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 169214,
+   "g": 165,
+   "name": "corn, sweet, yellow, canned, whole kernel, drained solids"
+  },
+  {
+   "line": 15,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 16,
+   "fdc": 169655,
+   "g": 2,
+   "added_sugar": true,
+   "name": "sugars, granulated"
+  },
+  {
+   "line": 17,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Green seasoning approximated as 5 g fresh herbs (cilantro); shortcrust pastry as refrigerated pie crust; small pineapple tin drained ~140 g."
+}

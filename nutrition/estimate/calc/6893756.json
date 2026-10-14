@@ -1,0 +1,36 @@
+{
+ "id": 6893756,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 188,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 1,
+   "fdc": 168893,
+   "g": 180,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 7,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ]
+}

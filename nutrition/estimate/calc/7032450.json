@@ -1,0 +1,103 @@
+{
+ "id": 7032450,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 350,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169228,
+   "g": 300,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 220,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169383,
+   "g": 150,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 200,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175254,
+   "g": 240,
+   "name": "Lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 11,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 12,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 200,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 14,
+   "fdc": 171292,
+   "g": 50,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 15,
+   "fdc": 171320,
+   "g": 3,
+   "name": "Spices, cinnamon, ground"
+  }
+ ],
+ "notes": "canned lentils drained 240 g as boiled with salt"
+}

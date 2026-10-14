@@ -1,0 +1,61 @@
+{
+ "id": 7041630,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 700,
+   "name": "squash, butternut, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171025,
+   "g": 9,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171613,
+   "g": 20,
+   "name": "bouillon cubes, low sodium, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 174284,
+   "g": 120,
+   "name": "lentils, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "pepper, white"
+  },
+  {
+   "line": 7,
+   "fdc": 173442,
+   "g": 60,
+   "name": "sour cream, reduced fat (light creme fraiche)"
+  },
+  {
+   "line": 8,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives, raw"
+  }
+ ],
+ "notes": "squash 850 g whole -> ~700 g flesh; reduced-salt stock cubes for 1 litre ~20 g as low-sodium bouillon"
+}

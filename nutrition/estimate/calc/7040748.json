@@ -1,0 +1,73 @@
+{
+ "id": 7040748,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 45,
+   "name": "spring onions"
+  },
+  {
+   "line": 2,
+   "fdc": 173760,
+   "g": 240,
+   "name": "black-eyed peas, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 172688,
+   "g": 75,
+   "name": "whole-wheat bread (breadcrumbs)"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 100,
+   "name": "feta"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 6,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172794,
+   "g": 280,
+   "name": "rolls, whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 50,
+   "name": "lettuce, green leaf"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 30,
+   "name": "onion, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 60,
+   "name": "tomatoes, raw"
+  }
+ ],
+ "notes": "Salad without amount guessed (lettuce 50 g, red onion 30 g, tomato 60 g) to match the 158 g serving. Granary breadcrumbs as whole-wheat bread."
+}

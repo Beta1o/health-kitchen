@@ -1,0 +1,37 @@
+{
+ "id": 6729043,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 20,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 173757,
+   "g": 510,
+   "name": "chickpeas boiled without salt (no-salt canned)"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 4.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 171249,
+   "g": 50,
+   "name": "romano cheese"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ],
+ "notes": "no-salt-added canned chickpeas as boiled chickpeas without salt; Pecorino as romano"
+}

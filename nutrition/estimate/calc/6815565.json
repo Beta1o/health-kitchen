@@ -1,0 +1,73 @@
+{
+ "id": 6815565,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 454,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 12,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 6,
+   "fdc": 172231,
+   "g": 0.75,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 170173,
+   "g": 96,
+   "name": "coconut milk, canned (lite = ~40%)"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "low-sodium vegetable broth as home-prepared stock; 1 cup lite coconut milk as 96 g regular canned coconut milk + water"
+}

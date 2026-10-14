@@ -1,0 +1,85 @@
+{
+ "id": 6942698,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 15,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 20,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169097,
+   "g": 65,
+   "name": "oranges, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 31,
+   "name": "orange juice"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 9,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 170926,
+   "g": 0.2,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 170556,
+   "g": 8,
+   "name": "pumpkin seeds"
+  }
+ ]
+}

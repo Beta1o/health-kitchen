@@ -1,0 +1,25 @@
+{
+ "id": 6420195,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 184,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171646,
+   "g": 30,
+   "name": "Cereals ready-to-eat, granola, homemade"
+  },
+  {
+   "line": 2,
+   "fdc": 173946,
+   "g": 72,
+   "name": "Blackberries, raw"
+  }
+ ],
+ "notes": "gluten-free granola -> homemade granola entry"
+}

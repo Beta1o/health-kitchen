@@ -1,0 +1,43 @@
+{
+ "id": 9306532,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 400,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 0.78,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170162,
+   "g": 9,
+   "name": "cashew nuts, raw"
+  }
+ ],
+ "notes": "Vegan Parmesan (1.5 tbsp) as 9 g cashews."
+}

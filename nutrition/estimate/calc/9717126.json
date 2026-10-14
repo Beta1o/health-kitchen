@@ -1,0 +1,72 @@
+{
+ "id": 9717126,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172456,
+   "g": 243,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 170554,
+   "g": 36,
+   "name": "chia seeds, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 5,
+   "fdc": 174294,
+   "g": 86,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 31,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 171726,
+   "g": 147,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 8,
+   "fdc": 172456,
+   "g": 122,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 9,
+   "fdc": 174294,
+   "g": 32,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  }
+ ]
+}

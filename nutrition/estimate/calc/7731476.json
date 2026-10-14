@@ -1,0 +1,67 @@
+{
+ "id": 7731476,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 100,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168546,
+   "g": 100,
+   "name": "peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 7,
+   "fdc": 172181,
+   "g": 150,
+   "name": "cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 176,
+   "name": "egg, whole, raw, fresh"
+  }
+ ],
+ "notes": "Roasted red peppers in brine as canned red peppers; fat-free cottage cheese as nonfat uncreamed cottage cheese; medium eggs 44 g each."
+}

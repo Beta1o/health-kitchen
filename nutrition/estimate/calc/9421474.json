@@ -1,0 +1,37 @@
+{
+ "id": 9421474,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 250,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 169593,
+   "g": 16,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 80,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ]
+}

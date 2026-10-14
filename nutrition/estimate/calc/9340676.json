@@ -1,0 +1,50 @@
+{
+ "id": 9340676,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 169,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 67,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 120,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 167976,
+   "g": 84,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  }
+ ]
+}

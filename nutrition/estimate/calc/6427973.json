@@ -1,0 +1,54 @@
+{
+ "id": 6427973,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169704,
+   "g": 98,
+   "name": "brown rice cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171790,
+   "g": 454,
+   "name": "beef ground 95% lean raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 7,
+   "fdc": 170473,
+   "g": 484,
+   "name": "vegetable juice cocktail low sodium"
+  }
+ ]
+}

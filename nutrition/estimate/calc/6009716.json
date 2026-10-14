@@ -1,0 +1,67 @@
+{
+ "id": 6009716,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168872,
+   "g": 212,
+   "name": "oat bran, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 6,
+   "name": "sucralose sweetener (brown sugar substitute)"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 3.9,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 171269,
+   "g": 184,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 173462,
+   "g": 60,
+   "name": "egg substitute"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 27,
+   "name": "canola oil"
+  },
+  {
+   "line": 7,
+   "fdc": 171695,
+   "g": 244,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 8,
+   "fdc": 173944,
+   "g": 118,
+   "name": "banana"
+  },
+  {
+   "line": 9,
+   "fdc": 168165,
+   "g": 18,
+   "name": "raisins"
+  }
+ ],
+ "notes": "brown sugar substitute assumed calorie-free sucralose type; if a half-sugar blend, sugar is undercounted"
+}

@@ -1,0 +1,72 @@
+{
+ "id": 6579178,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 284,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 168454,
+   "g": 284,
+   "name": "Rutabagas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170417,
+   "g": 170,
+   "name": "Parsnips, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 172183,
+   "g": 99,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168893,
+   "g": 60,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ]
+}

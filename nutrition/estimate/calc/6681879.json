@@ -1,0 +1,54 @@
+{
+ "id": 6681879,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 122,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170557,
+   "g": 3,
+   "name": "pumpkin seed kernels, roasted, without salt"
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "id": 6893898,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172458,
+   "g": 64,
+   "name": "peanut butter, reduced fat"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 4,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 350,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168409,
+   "g": 300,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 8,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168429,
+   "g": 60,
+   "name": "lettuce, butterhead"
+  },
+  {
+   "line": 13,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring/green, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170150,
+   "g": 9,
+   "name": "sesame seeds, whole, dried"
+  }
+ ],
+ "notes": "Two whole chicken breasts counted as 350 g raw; rice vinegar as distilled vinegar."
+}

@@ -1,0 +1,98 @@
+{
+ "id": 9021259,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174270,
+   "g": 113,
+   "name": "Soybeans, mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 85,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 172449,
+   "g": 300,
+   "name": "Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)"
+  },
+  {
+   "line": 6,
+   "fdc": 175043,
+   "g": 15,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 7,
+   "fdc": 173469,
+   "g": 45,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 8,
+   "fdc": 172231,
+   "g": 3,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 175215,
+   "g": 81,
+   "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 12,
+   "fdc": 169736,
+   "g": 410,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 13,
+   "fdc": 170162,
+   "g": 1,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170416,
+   "g": 1,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Soy curls entered as raw mature soybeans (dehydrated whole soybean). Nutritional yeast has no SR entry: active dry baker's yeast used. Kala namak entered as table salt. Vegan Parmesan and garnish without amounts: 1 g each."
+}

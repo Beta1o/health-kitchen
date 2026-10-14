@@ -1,0 +1,54 @@
+{
+ "id": 6736641,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 260,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 30,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 37,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 25,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.1,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 169225,
+   "g": 360,
+   "name": "Cucumber, peeled, raw"
+  }
+ ]
+}

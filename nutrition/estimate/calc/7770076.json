@@ -1,0 +1,67 @@
+{
+ "id": 7770076,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 250,
+   "name": "cod, Atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 2,
+   "fdc": 168457,
+   "g": 10,
+   "name": "seaweed, kelp, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring/green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169242,
+   "g": 38,
+   "name": "mushrooms, shiitake, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172885,
+   "g": 450,
+   "name": "soup, stock, fish, home-prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 25,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169979,
+   "g": 25,
+   "name": "cabbage, chinese (pe-tsai), raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172442,
+   "g": 6,
+   "name": "miso"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "5 cm dried seaweed (~2 g) as 10 g raw kelp; fish/vegetable stock as home-prepared fish stock (salt unknown)."
+}

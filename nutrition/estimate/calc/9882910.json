@@ -1,0 +1,86 @@
+{
+ "id": 9882910,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174270,
+   "g": 113,
+   "name": "Soybeans, mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 210,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 140,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 140,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170010,
+   "g": 140,
+   "name": "Peas, edible-podded, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 480,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 85,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 60,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 6,
+   "fdc": 169661,
+   "g": 40,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 169698,
+   "g": 16,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 11,
+   "fdc": 170151,
+   "g": 1,
+   "name": "Seeds, sesame seeds, whole, roasted and toasted"
+  }
+ ],
+ "notes": "soy curls as dry whole soybeans; 7 cups frozen stir-fry veg (630 g) split as broccoli/carrot/pepper/snap peas; rice vinegar as distilled; serving base left out; low-sodium broth as home-prepared stock"
+}

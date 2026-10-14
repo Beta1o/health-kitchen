@@ -1,0 +1,85 @@
+{
+ "id": 6460004,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 360,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169661,
+   "g": 6.6,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "Spices, cumin seed"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": 7684321,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171017,
+   "g": 4.5,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 12,
+   "name": "plain flour"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 172688,
+   "g": 50,
+   "name": "wholemeal breadcrumbs (fresh, from bread)"
+  },
+  {
+   "line": 4,
+   "fdc": 171955,
+   "g": 250,
+   "name": "cod"
+  }
+ ]
+}

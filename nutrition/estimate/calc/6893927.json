@@ -1,0 +1,66 @@
+{
+ "id": 6893927,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 567,
+   "name": "cod 4 x 5 oz"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "paprika"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes canned no salt added"
+  },
+  {
+   "line": 6,
+   "fdc": 173791,
+   "g": 255,
+   "name": "great northern beans canned low sodium, drained"
+  },
+  {
+   "line": 7,
+   "fdc": 168546,
+   "g": 37,
+   "name": "roasted red peppers -> sweet red peppers canned"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 9,
+   "fdc": 173473,
+   "g": 0.4,
+   "name": "rosemary fresh"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": 6921975,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174288,
+   "g": 92,
+   "name": "chickpea flour"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 15,
+   "name": "vinegar, wine (poaching)"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 400,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 240,
+   "name": "tomatoes, canned (fire-roasted)"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 24,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

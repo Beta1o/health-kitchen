@@ -1,0 +1,85 @@
+{
+ "id": 7908780,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 18,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 240,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 260,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 180,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169384,
+   "g": 15,
+   "name": "tomatoes, sun-dried, packed in oil, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 25,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 168893,
+   "g": 600,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 10,
+   "fdc": 172804,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 11,
+   "fdc": 173414,
+   "g": 50,
+   "name": "cheese, cheddar (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 12,
+   "fdc": 170887,
+   "g": 40,
+   "name": "yogurt, plain, skim milk"
+  }
+ ],
+ "notes": "Sundried tomato as oil-packed drained; 0% yoghurt as plain skim-milk yogurt."
+}

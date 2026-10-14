@@ -1,0 +1,73 @@
+{
+ "id": 9320396,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 1176,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170187,
+   "g": 117,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 2,
+   "fdc": 168567,
+   "g": 27,
+   "name": "tomatoes, sun-dried"
+  },
+  {
+   "line": 3,
+   "fdc": 169986,
+   "g": 480,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168434,
+   "g": 227,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170054,
+   "g": 960,
+   "name": "tomato sauce, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "chili flakes"
+  },
+  {
+   "line": 12,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Tomato sauce as regular canned tomato sauce; vegan parmesan topping left out."
+}

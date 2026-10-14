@@ -1,0 +1,50 @@
+{
+ "id": 6403376,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 249,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173418,
+   "g": 21,
+   "name": "cheese, cream"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 12.5,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169414,
+   "g": 84,
+   "name": "seeds, flaxseed"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170906,
+   "g": 245,
+   "name": "yogurt, vanilla, non-fat"
+  },
+  {
+   "line": 6,
+   "fdc": 172976,
+   "g": 75,
+   "name": "cereals ready-to-eat, quaker, low fat 100% natural granola with raisins"
+  }
+ ],
+ "notes": "Mascarpone approximated with cream cheese; light vanilla yogurt as nonfat vanilla yogurt; low-fat almond granola as Quaker low-fat granola (3/4 cup ~75 g)."
+}

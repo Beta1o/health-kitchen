@@ -1,0 +1,61 @@
+{
+ "id": 6878911,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 118,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174266,
+   "g": 129,
+   "name": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 3,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 5,
+   "fdc": 173904,
+   "g": 162,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 169414,
+   "g": 28,
+   "name": "Seeds, flaxseed"
+  }
+ ],
+ "notes": "Low-calorie brown sugar substitute as granular sucralose (~3 g for 2 tbsp); if a sugar blend it would add ~24 g sugar."
+}

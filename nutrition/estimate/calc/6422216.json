@@ -1,0 +1,73 @@
+{
+ "id": 6422216,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 340,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168389,
+   "g": 227,
+   "name": "asparagus raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 227,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168469,
+   "g": 340,
+   "name": "zucchini frozen unprepared"
+  },
+  {
+   "line": 6,
+   "fdc": 172182,
+   "g": 227,
+   "name": "cottage cheese lowfat 2%"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 8,
+   "name": "basil fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "low-fat cottage cheese taken as 2%"
+}

@@ -1,0 +1,109 @@
+{
+ "id": 7493655,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169231,
+   "g": 25,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171316,
+   "g": 0.5,
+   "name": "Spices, anise seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170106,
+   "g": 10,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 175,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 170379,
+   "g": 280,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168914,
+   "g": 300,
+   "name": "Rice noodles, cooked"
+  },
+  {
+   "line": 13,
+   "fdc": 169957,
+   "g": 300,
+   "name": "Mung beans, mature seeds, sprouted, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170005,
+   "g": 100,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 15,
+   "fdc": 169997,
+   "g": 30,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  }
+ ],
+ "notes": "Star anise -> anise seed, cinnamon stick -> ground cinnamon (infused, small amounts). Broccoli head 280 g florets, spring onion bunch 100 g, 1 lime to serve as 30 g juice."
+}

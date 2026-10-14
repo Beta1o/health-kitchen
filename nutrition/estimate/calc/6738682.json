@@ -1,0 +1,55 @@
+{
+ "id": 6738682,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 240,
+   "name": "romaine"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 2,
+   "fdc": 168398,
+   "g": 82,
+   "name": "corn yellow frozen"
+  },
+  {
+   "line": 3,
+   "fdc": 175188,
+   "g": 85,
+   "name": "black beans canned"
+  },
+  {
+   "line": 4,
+   "fdc": 173435,
+   "g": 28,
+   "name": "goat cheese soft"
+  },
+  {
+   "line": 5,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 173143,
+   "g": 30,
+   "name": "tortilla chips salted"
+  },
+  {
+   "line": 7,
+   "fdc": 173593,
+   "g": 75,
+   "name": "ranch dressing reduced fat"
+  }
+ ],
+ "notes": "black bean tortilla chips via plain salted tortilla chips"
+}

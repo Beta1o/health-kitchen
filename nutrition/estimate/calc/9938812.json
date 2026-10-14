@@ -1,0 +1,74 @@
+{
+ "id": 9938812,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 169966,
+   "g": 230,
+   "name": "Beets, canned, drained solids"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 238,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170182,
+   "g": 55,
+   "name": "Nuts, pecans"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 30,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 20,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 171322,
+   "g": 1,
+   "name": "Spices, dill weed, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 169994,
+   "g": 1,
+   "name": "Chives, raw"
+  }
+ ],
+ "notes": "13.5 oz can beets taken drained ~230 g; garnish herbs 1 g"
+}

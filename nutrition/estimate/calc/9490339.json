@@ -1,0 +1,79 @@
+{
+ "id": 9490339,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 170182,
+   "g": 99,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 48,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 169248,
+   "g": 360,
+   "name": "lettuce, iceberg, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175188,
+   "g": 240,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 149,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 10,
+   "fdc": 168398,
+   "g": 70,
+   "name": "corn, sweet, yellow, frozen"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 53,
+   "name": "red onion"
+  }
+ ],
+ "notes": "Toppings (salsa, crema, guacamole, chips) have no amounts and are left out."
+}

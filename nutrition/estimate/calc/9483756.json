@@ -1,0 +1,43 @@
+{
+ "id": 9483756,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 118,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169910,
+   "g": 165,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168173,
+   "g": 150,
+   "name": "strawberries, frozen, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 174294,
+   "g": 16,
+   "name": "peanut butter, smooth"
+  },
+  {
+   "line": 5,
+   "fdc": 174832,
+   "g": 360,
+   "name": "almond milk, unsweetened"
+  }
+ ],
+ "notes": "Unsweetened cashew milk has no SR entry: used unsweetened almond milk. 2 large handfuls spinach guessed 60 g."
+}

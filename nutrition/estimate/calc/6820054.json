@@ -1,0 +1,97 @@
+{
+ "id": 6820054,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 224,
+   "name": "nuts, almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 55,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170187,
+   "g": 22,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 4,
+   "fdc": 172804,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 150,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 34,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 12,
+   "fdc": 174832,
+   "g": 60,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 13,
+   "fdc": 170257,
+   "g": 6,
+   "name": "sweeteners, tabletop, sucralose, splenda packets"
+  },
+  {
+   "line": 14,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "Almond flour as blanched almonds; baking sugar substitute as sucralose granular (1/4 cup ~6 g)."
+}

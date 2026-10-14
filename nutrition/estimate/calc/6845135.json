@@ -1,0 +1,61 @@
+{
+ "id": 6845135,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168141,
+   "g": 47,
+   "name": "cheese, swiss, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173594,
+   "g": 30,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 4,
+   "fdc": 169387,
+   "g": 40,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170562,
+   "g": 35,
+   "name": "sunflower seed kernels, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 174916,
+   "g": 256,
+   "name": "bread, pita, whole-wheat"
+  },
+  {
+   "line": 7,
+   "fdc": 174289,
+   "g": 123,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 8,
+   "fdc": 168409,
+   "g": 301,
+   "name": "cucumber, with peel, raw"
+  }
+ ],
+ "notes": "Reduced-fat Swiss slice ~21 g; medium whole-wheat pita 64 g."
+}

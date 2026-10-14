@@ -1,0 +1,68 @@
+{
+ "id": 6933181,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172241,
+   "g": 64,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  }
+ ],
+ "notes": "Title and serving mention Brussels sprouts (1/2 cup per serving) but no ingredient line lists them, so they are not included."
+}

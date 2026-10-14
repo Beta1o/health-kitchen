@@ -1,0 +1,91 @@
+{
+ "id": 7772248,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 200,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 200,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 2,
+   "fdc": 169146,
+   "g": 600,
+   "name": "beets, cooked, boiled"
+  },
+  {
+   "line": 3,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "baking powder"
+  },
+  {
+   "line": 4,
+   "fdc": 169593,
+   "g": 20,
+   "name": "cocoa powder, unsweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 300,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 170257,
+   "g": 9,
+   "name": "sucralose sweetener (Splenda)"
+  },
+  {
+   "line": 8,
+   "fdc": 172336,
+   "g": 91,
+   "name": "canola (rapeseed) oil"
+  },
+  {
+   "line": 9,
+   "fdc": 172181,
+   "g": 250,
+   "name": "cottage cheese, nonfat (for quark)"
+  },
+  {
+   "line": 10,
+   "fdc": 170184,
+   "g": 8,
+   "name": "pistachios, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168209,
+   "g": 167,
+   "name": "raspberries, frozen, unsweetened"
+  },
+  {
+   "line": 11,
+   "fdc": 171710,
+   "g": 167,
+   "name": "blackberries, frozen, unsweetened"
+  },
+  {
+   "line": 11,
+   "fdc": 173950,
+   "g": 166,
+   "name": "blueberries, frozen, unsweetened"
+  }
+ ],
+ "notes": "Quark as nonfat cottage cheese; granulated sweetener as Splenda 1.5 g/tbsp; mixed berries split three ways."
+}

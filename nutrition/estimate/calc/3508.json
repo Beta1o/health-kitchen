@@ -1,0 +1,51 @@
+{
+ "id": 3508,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174957,
+   "g": 252,
+   "name": "graham crackers (18 sheets x 14 g)",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 173410,
+   "g": 170,
+   "name": "butter salted"
+  },
+  {
+   "line": 2,
+   "fdc": 173180,
+   "g": 40,
+   "name": "whey protein powder"
+  },
+  {
+   "line": 3,
+   "fdc": 173418,
+   "g": 454,
+   "name": "cream cheese"
+  },
+  {
+   "line": 4,
+   "fdc": 169656,
+   "g": 60,
+   "name": "powdered sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170868,
+   "g": 227,
+   "name": "dessert topping semi solid frozen (sugar-free Cool Whip)"
+  },
+  {
+   "line": 6,
+   "fdc": 169062,
+   "g": 454,
+   "name": "cherry pie filling low calorie"
+  }
+ ],
+ "notes": "whey powder 1/2 cup weight guessed 40 g; sugar-free Cool Whip has no SR entry, used regular frozen dessert topping (overstates sugar/calories)"
+}

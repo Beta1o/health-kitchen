@@ -1,0 +1,49 @@
+{
+ "id": 7671544,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 150,
+   "name": "banana"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 12,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 60,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 1.5,
+   "name": "baking powder"
+  }
+ ],
+ "notes": "Almond extract as vanilla extract; artificial sweetener as sucralose."
+}

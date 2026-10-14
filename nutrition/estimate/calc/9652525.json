@@ -1,0 +1,73 @@
+{
+ "id": 9652525,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 34,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 200,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 360,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175043,
+   "g": 16,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 9,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 172347,
+   "g": 14,
+   "name": "Margarine, regular, 80% fat, composite, tub, with salt"
+  },
+  {
+   "line": 9,
+   "fdc": 169736,
+   "g": 450,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 1,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "cashew milk -> unsweetened almond milk; nutritional yeast -> active dry yeast; optional vegan butter included as margarine; vegan parmesan and avocado slices without amount left out"
+}

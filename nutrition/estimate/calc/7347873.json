@@ -1,0 +1,36 @@
+{
+ "id": 7347873,
+ "servings": 28,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168191,
+   "g": 340,
+   "name": "dates, medjool"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 80,
+   "name": "almonds"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 28,
+   "name": "cocoa powder, unsweetened (incl. rolling)"
+  },
+  {
+   "line": 3,
+   "fdc": 171025,
+   "g": 27,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ]
+}

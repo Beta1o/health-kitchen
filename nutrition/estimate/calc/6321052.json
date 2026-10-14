@@ -1,0 +1,49 @@
+{
+ "id": 6321052,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 173880,
+   "g": 227,
+   "name": "Sausage, chicken or turkey, Italian style,  lower sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 173462,
+   "g": 376,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 3,
+   "fdc": 170900,
+   "g": 21,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 50,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 180,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 10,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "reduced sodium turkey sausage -> chicken/turkey Italian sausage lower sodium"
+}

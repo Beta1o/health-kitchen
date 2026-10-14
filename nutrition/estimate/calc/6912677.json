@@ -1,0 +1,85 @@
+{
+ "id": 6912677,
+ "servings": 11,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168556,
+   "g": 136,
+   "name": "ketchup",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 48,
+   "name": "balsamic"
+  },
+  {
+   "line": 2,
+   "fdc": 172850,
+   "g": 454,
+   "name": "turkey93"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 98,
+   "name": "zucchini"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "chilipow"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt (optional, has amount)"
+  },
+  {
+   "line": 10,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 11,
+   "fdc": 173904,
+   "g": 40,
+   "name": "oats"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parm_gr"
+  }
+ ]
+}

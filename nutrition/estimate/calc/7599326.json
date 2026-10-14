@@ -1,0 +1,60 @@
+{
+ "id": 7599326,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 320,
+   "name": "leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 1.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 172791,
+   "g": 80,
+   "name": "phyllo dough"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173435,
+   "g": 30,
+   "name": "cheese, goat, soft type"
+  },
+  {
+   "line": 8,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives, raw"
+  }
+ ]
+}

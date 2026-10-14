@@ -1,0 +1,64 @@
+{
+ "id": 2905,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173044,
+   "g": 75,
+   "name": "guavas, raw (half of guava paste)"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 75,
+   "name": "sugars, granulated (half of guava paste)",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 168556,
+   "g": 51,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 168833,
+   "g": 27.5,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 3.6,
+   "name": "onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "paprika"
+  }
+ ],
+ "notes": "guava paste not in SR: modelled as 150 g = 75 g guava + 75 g sugar"
+}

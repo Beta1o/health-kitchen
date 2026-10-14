@@ -1,0 +1,67 @@
+{
+ "id": 7800433,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 500,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 2,
+   "fdc": 175254,
+   "g": 480,
+   "name": "Lentils, mature seeds, cooked, boiled, with salt"
+  },
+  {
+   "line": 3,
+   "fdc": 169961,
+   "g": 200,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171613,
+   "g": 5,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 171955,
+   "g": 560,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 10,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "Canned lentils as lentils boiled with salt; reduced-salt stock as half a low-sodium bouillon cube; cod fillets 140 g each; lemon wedges counted as 30 g juice."
+}

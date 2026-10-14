@@ -1,0 +1,56 @@
+{
+ "id": 9305421,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 180,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 175215,
+   "g": 81,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 105,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 170271,
+   "g": 56,
+   "name": "chocolate, dark, 45-59% cacao",
+   "added_sugar": true
+  }
+ ]
+}

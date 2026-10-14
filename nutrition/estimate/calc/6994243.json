@@ -1,0 +1,91 @@
+{
+ "id": 6994243,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170567,
+   "g": 40.5,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 120,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 170554,
+   "g": 40,
+   "name": "Seeds, chia seeds, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 169414,
+   "g": 14,
+   "name": "Seeds, flaxseed"
+  },
+  {
+   "line": 7,
+   "fdc": 173904,
+   "g": 40.5,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 170148,
+   "g": 40,
+   "name": "Seeds, hemp seed, hulled"
+  },
+  {
+   "line": 9,
+   "fdc": 170568,
+   "g": 28,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 171711,
+   "g": 111,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170894,
+   "g": 367.5,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Sugar-free brown sugar alternative left out (assumed zero-calorie). Almond flour as blanched almonds."
+}

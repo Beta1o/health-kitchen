@@ -1,0 +1,55 @@
+{
+ "id": 3414864,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 400,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171267,
+   "g": 154,
+   "name": "milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d"
+  },
+  {
+   "line": 2,
+   "fdc": 173430,
+   "g": 20,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 12,
+   "name": "wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173414,
+   "g": 60,
+   "name": "cheese, cheddar (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 7,
+   "fdc": 175031,
+   "g": 120,
+   "name": "rolls, hard (includes kaiser)"
+  }
+ ],
+ "notes": "Crusty rolls as hard rolls 60 g each; semi-skimmed milk as 2% milk."
+}

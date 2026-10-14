@@ -1,0 +1,49 @@
+{
+ "id": 6090076,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169228,
+   "g": 250,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170900,
+   "g": 28,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 5,
+   "fdc": 172241,
+   "g": 16,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 3.3,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "2 baby eggplants ~250 g"
+}

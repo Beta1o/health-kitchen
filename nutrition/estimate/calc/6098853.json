@@ -1,0 +1,49 @@
+{
+ "id": 6098853,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 45,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171477,
+   "g": 85,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 2,
+   "fdc": 168917,
+   "g": 62,
+   "name": "quinoa, cooked"
+  },
+  {
+   "line": 3,
+   "fdc": 169967,
+   "g": 234,
+   "name": "broccoli, boiled, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170054,
+   "g": 25,
+   "name": "tomato sauce, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 6,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "No-sugar-added BBQ sauce approximated by plain tomato sauce (regular BBQ sauce is much sweeter). Lean protein taken as roasted chicken breast, whole grain as quinoa, nonstarchy vegetable as broccoli; 1.5 lime wedges as 6 g juice."
+}

@@ -1,0 +1,38 @@
+{
+ "id": 6045990,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168601,
+   "g": 32,
+   "name": "pumpkin seeds, whole, roasted, with salt"
+  },
+  {
+   "line": 1,
+   "fdc": 173806,
+   "g": 36,
+   "name": "peanuts, dry-roasted, unsalted"
+  },
+  {
+   "line": 2,
+   "fdc": 173144,
+   "g": 113,
+   "name": "KASHI GOLEAN crunchy (proxy for high-fiber cluster cereal)"
+  },
+  {
+   "line": 3,
+   "fdc": 168164,
+   "g": 36,
+   "name": "raisins, golden"
+  },
+  {
+   "line": 4,
+   "fdc": 167976,
+   "g": 21,
+   "name": "semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "High-fiber cluster cereal (4 oz) mapped to Kashi GoLean crunchy bar as nearest SR item."
+}

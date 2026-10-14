@@ -1,0 +1,44 @@
+{
+ "id": 9379335,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 75,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 75,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172446,
+   "g": 243,
+   "name": "Soymilk, original and vanilla, unfortified"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 120,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 169655,
+   "g": 12.5,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  }
+ ],
+ "notes": "Soy milk -> soymilk original unfortified."
+}

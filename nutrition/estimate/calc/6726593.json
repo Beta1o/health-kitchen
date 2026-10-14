@@ -1,0 +1,79 @@
+{
+ "id": 6726593,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 626,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 248,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 201,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 55,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169094,
+   "g": 67,
+   "name": "Olives, ripe, canned (small-extra large)"
+  },
+  {
+   "line": 6,
+   "fdc": 173420,
+   "g": 19,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 7,
+   "fdc": 173757,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "no-salt-added canned chickpeas -> chickpeas boiled without salt (240 g drained); 1 head romaine ~626 g"
+}

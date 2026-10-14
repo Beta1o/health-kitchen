@@ -1,0 +1,37 @@
+{
+ "id": 9985547,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 85,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 80,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  }
+ ]
+}

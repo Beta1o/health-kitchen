@@ -1,0 +1,61 @@
+{
+ "id": 6560917,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 173430,
+   "g": 9.3,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 171247,
+   "g": 10,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 5,
+   "fdc": 170874,
+   "g": 81,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 6,
+   "fdc": 169986,
+   "g": 500,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170027,
+   "g": 198,
+   "name": "potatoes, russet, raw"
+  }
+ ],
+ "notes": "Cauliflower head taken as 500 g florets."
+}

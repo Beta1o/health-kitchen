@@ -1,0 +1,55 @@
+{
+ "id": 6381007,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173187,
+   "g": 240,
+   "name": "chocolate almond milk, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener (Splenda)"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 32,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 167755,
+   "g": 287,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173946,
+   "g": 335,
+   "name": "blackberries, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167762,
+   "g": 387,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169593,
+   "g": 1,
+   "name": "cocoa powder, unsweetened"
+  }
+ ],
+ "notes": "Unsweetened almond milks used (chocolate and plain). Dry pint = 2.33 cups of each berry. Sweetener as Splenda 1.5 g/tbsp."
+}

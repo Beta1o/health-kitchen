@@ -1,0 +1,67 @@
+{
+ "id": 7722208,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169255,
+   "g": 100,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 100,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 0.2,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 172688,
+   "g": 36,
+   "name": "bread, whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 173414,
+   "g": 25,
+   "name": "cheese, cheddar"
+  }
+ ],
+ "notes": "Wensleydale mapped to cheddar."
+}

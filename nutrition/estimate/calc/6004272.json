@@ -1,0 +1,56 @@
+{
+ "id": 6004272,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169977,
+   "g": 600,
+   "name": "small red cabbage"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Dijon mustard"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170918,
+   "g": 1,
+   "name": "caraway seeds"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Small red cabbage weight guessed 600 g."
+}

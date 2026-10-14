@@ -1,0 +1,42 @@
+{
+ "id": 7241290,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 225,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 169384,
+   "g": 40,
+   "name": "Tomatoes, sun-dried, packed in oil, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 174183,
+   "g": 4,
+   "name": "Fish, anchovy, european, canned in oil, drained solids"
+  },
+  {
+   "line": 3,
+   "fdc": 172238,
+   "g": 8.6,
+   "name": "Capers, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 8,
+   "name": "Parsley, fresh"
+  }
+ ]
+}

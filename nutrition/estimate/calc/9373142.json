@@ -1,0 +1,49 @@
+{
+ "id": 9373142,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 21,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "nutritional yeast as active dry yeast"
+}

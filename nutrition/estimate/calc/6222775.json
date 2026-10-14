@@ -1,0 +1,42 @@
+{
+ "id": 6222775,
+ "servings": 11,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 680,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170398,
+   "g": 454,
+   "name": "Cauliflower, frozen, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171269,
+   "g": 81,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 3,
+   "fdc": 172371,
+   "g": 70,
+   "name": "Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

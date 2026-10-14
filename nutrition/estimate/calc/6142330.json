@@ -1,0 +1,24 @@
+{
+ "id": 6142330,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170567,
+   "g": 18,
+   "name": "nuts, almonds"
+  },
+  {
+   "line": 1,
+   "fdc": 170556,
+   "g": 8,
+   "name": "seeds, pumpkin kernels, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170562,
+   "g": 9,
+   "name": "seeds, sunflower kernels, dried"
+  }
+ ]
+}

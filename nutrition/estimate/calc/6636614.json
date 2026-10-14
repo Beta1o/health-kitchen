@@ -1,0 +1,42 @@
+{
+ "id": 6636614,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169276,
+   "g": 232,
+   "name": "radishes, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ]
+}

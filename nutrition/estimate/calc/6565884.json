@@ -1,0 +1,42 @@
+{
+ "id": 6565884,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168464,
+   "g": 196,
+   "name": "Squash, summer, crookneck and straightneck, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

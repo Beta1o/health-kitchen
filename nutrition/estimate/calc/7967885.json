@@ -1,0 +1,43 @@
+{
+ "id": 7967885,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172688,
+   "g": 43,
+   "name": "bread, whole-wheat (sandwich thin)"
+  },
+  {
+   "line": 1,
+   "fdc": 173417,
+   "g": 80,
+   "name": "cheese, cottage, lowfat 1%"
+  },
+  {
+   "line": 2,
+   "fdc": 172233,
+   "g": 1,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 174528,
+   "g": 1,
+   "name": "tabasco sauce"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 30,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175180,
+   "g": 50,
+   "name": "shrimp, cooked"
+  }
+ ],
+ "notes": "Brown sandwich thin taken as 43 g whole-wheat bread."
+}

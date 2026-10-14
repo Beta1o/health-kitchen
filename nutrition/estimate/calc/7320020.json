@@ -1,0 +1,26 @@
+{
+ "id": 7320020,
+ "servings": 11,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167755,
+   "g": 300,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171304,
+   "g": 500,
+   "name": "greek yogurt, plain, whole milk"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 50,
+   "name": "sugar, granulated",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Greek yoghurt fat level not stated: whole-milk Greek yogurt used"
+}

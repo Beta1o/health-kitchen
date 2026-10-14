@@ -1,0 +1,79 @@
+{
+ "id": 6201760,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 174287,
+   "g": 340,
+   "name": "veggie burgers or soyburgers, unprepared (plant-based ground)"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 7,
+   "fdc": 169074,
+   "g": 227,
+   "name": "tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 172473,
+   "g": 8,
+   "name": "coconut aminos (as low-sodium soy sauce, half weight)"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 11,
+   "fdc": 174090,
+   "g": 86,
+   "name": "rolls, hamburger, whole wheat"
+  }
+ ],
+ "notes": "Plant-based ground beef as veggie burger (unprepared); coconut aminos approximated as half its weight of low-sodium soy sauce."
+}

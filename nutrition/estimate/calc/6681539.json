@@ -1,0 +1,66 @@
+{
+ "id": 6681539,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171706,
+   "g": 34,
+   "name": "Avocados, raw, California"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 182,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 29,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ]
+}

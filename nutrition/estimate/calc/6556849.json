@@ -1,0 +1,73 @@
+{
+ "id": 6556849,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 180,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 73,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171332,
+   "g": 3.4,
+   "name": "pumpkin pie spice"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 40.8,
+   "name": "oil, canola"
+  },
+  {
+   "line": 8,
+   "fdc": 173944,
+   "g": 101,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 10,
+   "fdc": 170187,
+   "g": 29,
+   "name": "walnuts"
+  }
+ ]
+}

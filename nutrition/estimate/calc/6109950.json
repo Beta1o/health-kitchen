@@ -1,0 +1,97 @@
+{
+ "id": 6109950,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 1,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170930,
+   "g": 0.25,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 238,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 12,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  }
+ ],
+ "notes": "Cauliflower rice as raw cauliflower (4 cups ~428 g)."
+}

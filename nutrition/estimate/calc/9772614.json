@@ -1,0 +1,103 @@
+{
+ "id": 9772614,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 200,
+   "name": "mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 238,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170026,
+   "g": 907,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174687,
+   "g": 300,
+   "name": "jackfruit, raw (canned in brine, drained)"
+  },
+  {
+   "line": 7,
+   "fdc": 169703,
+   "g": 185,
+   "name": "rice, brown, long-grain, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 2400,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 170917,
+   "g": 0.6,
+   "name": "spices, bay leaf"
+  },
+  {
+   "line": 10,
+   "fdc": 170938,
+   "g": 0.3,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 171333,
+   "g": 0.3,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 12,
+   "fdc": 171317,
+   "g": 0.2,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 170935,
+   "g": 0.2,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 14,
+   "fdc": 171328,
+   "g": 0.3,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 16,
+   "fdc": 172476,
+   "g": 454,
+   "name": "tofu, raw, regular"
+  }
+ ],
+ "notes": "jackfruit in brine as raw jackfruit 300 g drained; low sodium vegetable broth as home-prepared stock; medium firm tofu as regular tofu"
+}

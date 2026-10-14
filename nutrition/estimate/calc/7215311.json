@@ -1,0 +1,67 @@
+{
+ "id": 7215311,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 400,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 180,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 4,
+   "fdc": 171267,
+   "g": 618,
+   "name": "milk, 2%"
+  },
+  {
+   "line": 5,
+   "fdc": 170937,
+   "g": 1.5,
+   "name": "tarragon dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173414,
+   "g": 50,
+   "name": "cheese, cheddar"
+  },
+  {
+   "line": 7,
+   "fdc": 174254,
+   "g": 250,
+   "name": "lima (butter) beans, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 170440,
+   "g": 750,
+   "name": "potatoes, boiled, without skin, no salt"
+  },
+  {
+   "line": 9,
+   "fdc": 173582,
+   "g": 10,
+   "name": "margarine spread 60%"
+  }
+ ],
+ "notes": "Semi-skimmed milk as 2% milk; fresh tarragon as dried (1.5 g); butter beans as canned large lima beans, 250 g drained; potatoes as boiled flesh without salt."
+}

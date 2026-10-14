@@ -1,0 +1,61 @@
+{
+ "id": 7521301,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 238,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 500,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.3,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 175043,
+   "g": 3,
+   "name": "\"Leavening agents, yeast, baker's, active dry\",) {'calcium_mg': 30.0, 'calories': 325.0, 'carbohydrates_g': 41.22, 'cholesterol_mg': 0.0, 'fat_g': 7.61, 'fiber_g': 26.9, 'phosphorus_mg': 637.0, 'potassium_mg': 955.0, 'protein_g': 40.44, 'sodium_mg': 51.0, 'sugars_g': 0.0}\n"
+  },
+  {
+   "line": 9,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  }
+ ],
+ "notes": "nutritional yeast -> dried yeast stand-in; optional spray oil left out; optional low-salt stock cube included (10 g, low-sodium bouillon); courgettes ~500 g"
+}

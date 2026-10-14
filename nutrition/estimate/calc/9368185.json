@@ -1,0 +1,56 @@
+{
+ "id": 9368185,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 162,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 171723,
+   "g": 60,
+   "name": "cranberries, dried, sweetened (for unsweetened dried cranberries)"
+  },
+  {
+   "line": 2,
+   "fdc": 170556,
+   "g": 46,
+   "name": "seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 7.8,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 173944,
+   "g": 169,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  }
+ ],
+ "notes": "unsweetened dried cranberries with sweetened entry (not flagged added sugar)"
+}

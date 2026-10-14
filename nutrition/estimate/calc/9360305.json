@@ -1,0 +1,26 @@
+{
+ "id": 9360305,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened (for cashew milk)"
+  },
+  {
+   "line": 1,
+   "fdc": 170554,
+   "g": 42,
+   "name": "chia seeds"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Cashew milk entered as unsweetened almond milk. Optional maple syrup counted."
+}

@@ -1,0 +1,127 @@
+{
+ "id": 9608562,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 64,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170026,
+   "g": 454,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168482,
+   "g": 266,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika (smoked)"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170379,
+   "g": 284,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170162,
+   "g": 137,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 175043,
+   "g": 21,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 15,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 16,
+   "fdc": 169717,
+   "g": 15,
+   "name": "tapioca, pearl, dry (for tapioca starch)"
+  },
+  {
+   "line": 17,
+   "fdc": 172442,
+   "g": 17,
+   "name": "miso"
+  },
+  {
+   "line": 18,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 19,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 20,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "nutritional yeast modeled as active dry yeast; tapioca starch as pearl tapioca"
+}

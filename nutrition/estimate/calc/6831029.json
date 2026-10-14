@@ -1,0 +1,36 @@
+{
+ "id": 6831029,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170591,
+   "g": 68,
+   "name": "Nuts, pine nuts, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 172232,
+   "g": 96,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171247,
+   "g": 75,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 54.5,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": 6055302,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 20.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 642,
+   "name": "cauliflower, raw"
+  }
+ ]
+}

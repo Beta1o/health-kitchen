@@ -1,0 +1,67 @@
+{
+ "id": 6994909,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 411,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 4,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans canned low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173439,
+   "g": 67,
+   "name": "cheese, low fat, cheddar"
+  },
+  {
+   "line": 9,
+   "fdc": 167558,
+   "g": 42.5,
+   "name": "tortilla chips, plain, salted"
+  }
+ ],
+ "notes": "Fire-roasted tomatoes as regular canned tomatoes."
+}

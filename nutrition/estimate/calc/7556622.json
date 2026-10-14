@@ -1,0 +1,90 @@
+{
+ "id": 7556622,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 784,
+   "name": "courgettes 4 medium"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 75,
+   "name": "spring onions"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 75,
+   "name": "green pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt pinch"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "pepper pinch"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 1.3,
+   "name": "chilli powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste"
+  },
+  {
+   "line": 10,
+   "fdc": 171477,
+   "g": 250,
+   "name": "chicken breast cooked"
+  },
+  {
+   "line": 11,
+   "fdc": 174074,
+   "g": 395,
+   "name": "enchilada sauce"
+  },
+  {
+   "line": 12,
+   "fdc": 171292,
+   "g": 75,
+   "name": "cheddar reduced fat"
+  }
+ ]
+}

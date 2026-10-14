@@ -1,0 +1,73 @@
+{
+ "id": 6664964,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171192,
+   "g": 47,
+   "name": "sauce, pasta, spaghetti/marinara, ready-to-serve"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 169228,
+   "g": 1096,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 11.4,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 173475,
+   "g": 3,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 173420,
+   "g": 28,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 10,
+   "fdc": 167749,
+   "g": 3,
+   "name": "lemon peel, raw"
+  }
+ ],
+ "notes": "Medium eggplant taken as 548 g each."
+}

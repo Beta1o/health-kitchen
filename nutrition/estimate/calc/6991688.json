@@ -1,0 +1,73 @@
+{
+ "id": 6991688,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172237,
+   "g": 15,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 40,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168421,
+   "g": 40,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169991,
+   "g": 40,
+   "name": "Chard, swiss, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 172689,
+   "g": 50,
+   "name": "Bread, whole-wheat, commercially prepared, toasted"
+  }
+ ],
+ "notes": "Poaching vinegar counted though mostly discarded. Mixed greens split spinach/kale/chard."
+}

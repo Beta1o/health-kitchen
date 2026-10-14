@@ -1,0 +1,61 @@
+{
+ "id": 7822207,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 150,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175243,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 5,
+   "fdc": 173442,
+   "g": 15,
+   "name": "Sour cream, reduced fat"
+  },
+  {
+   "line": 6,
+   "fdc": 175037,
+   "g": 64,
+   "name": "Tortillas, ready-to-bake or -fry, flour, refrigerated"
+  },
+  {
+   "line": 7,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 60,
+   "name": "Lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Half-fat creme fraiche as reduced-fat sour cream. Small flour tortillas ~32 g each."
+}

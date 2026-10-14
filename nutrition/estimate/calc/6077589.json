@@ -1,0 +1,61 @@
+{
+ "id": 6077589,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167746,
+   "g": 60,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173627,
+   "g": 907,
+   "name": "chicken, thigh, meat only, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170922,
+   "g": 5,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 8,
+   "fdc": 171323,
+   "g": 23,
+   "name": "spices, fennel seed"
+  }
+ ],
+ "notes": "roasted lemon quarters: only ~60 g pulp counted as eaten"
+}

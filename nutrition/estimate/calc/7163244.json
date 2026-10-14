@@ -1,0 +1,54 @@
+{
+ "id": 7163244,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 4,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 171292,
+   "g": 15,
+   "name": "cheddar reduced fat"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  },
+  {
+   "line": 5,
+   "fdc": 168398,
+   "g": 40,
+   "name": "corn, sweet, yellow, frozen"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 2.3,
+   "name": "oil, canola (rapeseed)"
+  }
+ ]
+}

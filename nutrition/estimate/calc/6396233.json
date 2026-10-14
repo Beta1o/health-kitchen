@@ -1,0 +1,55 @@
+{
+ "id": 6396233,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 30,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 1440,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 680,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172212,
+   "g": 240,
+   "name": "cream, half and half, fat free"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 4.8,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170933,
+   "g": 2.4,
+   "name": "spices, pepper, white"
+  }
+ ],
+ "notes": "low sodium chicken broth as home-prepared stock; coarse salt 1 tsp ~4.8 g"
+}

@@ -1,0 +1,85 @@
+{
+ "id": 6743973,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171613,
+   "g": 3.5,
+   "name": "soup, bouillon, low sodium, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169742,
+   "g": 28.35,
+   "name": "rice noodles, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 168634,
+   "g": 85,
+   "name": "beef, top sirloin, lean, broiled"
+  },
+  {
+   "line": 4,
+   "fdc": 168434,
+   "g": 36,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169975,
+   "g": 18,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 23,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170393,
+   "g": 28,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168410,
+   "g": 19,
+   "name": "edamame, frozen, unprepared"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 15,
+   "name": "onions, spring, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 174277,
+   "g": 5.3,
+   "name": "soy sauce"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 5,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Sodium-free beef bouillon as low-sodium bouillon granules (no sodium-free entry); lean steak as top sirloin, lean, broiled."
+}

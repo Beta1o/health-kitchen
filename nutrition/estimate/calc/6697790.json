@@ -1,0 +1,78 @@
+{
+ "id": 6697790,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 120,
+   "name": "celery raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 454,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 907,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "bay leaf"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 170285,
+   "g": 157,
+   "name": "barley pearled cooked"
+  },
+  {
+   "line": 11,
+   "fdc": 171054,
+   "g": 280,
+   "name": "chicken meat roasted"
+  }
+ ]
+}

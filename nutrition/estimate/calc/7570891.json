@@ -1,0 +1,85 @@
+{
+ "id": 7570891,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 800,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170459,
+   "g": 64,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 169228,
+   "g": 600,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170847,
+   "g": 125,
+   "name": "Cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 12,
+   "fdc": 170568,
+   "g": 25,
+   "name": "Nuts, almonds, blanched"
+  }
+ ],
+ "notes": "Mixed herbs -> dried thyme. Almond flour -> blanched almonds. Reduced-fat mozzarella -> part-skim."
+}

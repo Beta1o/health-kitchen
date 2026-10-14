@@ -1,0 +1,55 @@
+{
+ "id": 7309643,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 650,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 18,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 6,
+   "name": "paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 170497,
+   "g": 15,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169247,
+   "g": 80,
+   "name": "lettuce, romaine"
+  }
+ ],
+ "notes": "Little gem leaves approximated as romaine, 10 leaves = 80 g."
+}

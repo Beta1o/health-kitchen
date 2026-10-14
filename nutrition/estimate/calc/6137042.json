@@ -1,0 +1,49 @@
+{
+ "id": 6137042,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 907,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171723,
+   "g": 30,
+   "name": "\"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 9.0, 'calories': 308.0, 'carbohydrates_g': 82.8, 'cholesterol_mg': 0.0, 'fat_g': 1.09, 'fiber_g': 5.3, 'phosphorus_mg': 8.0, 'potassium_mg': 49.0, 'protein_g': 0.17, 'sodium_mg': 5.0, 'sugars_g': 72.56}\n",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170581,
+   "g": 34,
+   "name": "Nuts, hazelnuts or filberts"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 4,
+   "name": "Lemon peel, raw"
+  }
+ ]
+}

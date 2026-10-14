@@ -1,0 +1,36 @@
+{
+ "id": 3770,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 75,
+   "name": "scallions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 219,
+   "name": "wheat flour, all-purpose, enriched"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 32,
+   "name": "cornstarch"
+  },
+  {
+   "line": 5,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": 6208072,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 500,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172233,
+   "g": 2.2,
+   "name": "dill, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

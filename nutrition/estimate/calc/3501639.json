@@ -1,0 +1,109 @@
+{
+ "id": 3501639,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 120,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170400,
+   "g": 300,
+   "name": "celeriac, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 120,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169246,
+   "g": 70,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 150,
+   "name": "peas, green, frozen, unprepared"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 171077,
+   "g": 400,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 400,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 173442,
+   "g": 200,
+   "name": "sour cream, reduced fat (half-fat creme fraiche)"
+  },
+  {
+   "line": 9,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 10,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "sage, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 173430,
+   "g": 150,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 13,
+   "fdc": 168894,
+   "g": 200,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 14,
+   "fdc": 170568,
+   "g": 25,
+   "name": "almonds, blanched (ground/almond flour)"
+  },
+  {
+   "line": 15,
+   "fdc": 170848,
+   "g": 40,
+   "name": "parmesan, hard"
+  },
+  {
+   "line": 16,
+   "fdc": 170567,
+   "g": 25,
+   "name": "almonds"
+  }
+ ],
+ "notes": "Sweet potatoes taken as 120 g total as printed; low-salt vegetable stock as home-prepared stock; wholegrain mustard as prepared mustard."
+}

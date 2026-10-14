@@ -1,0 +1,51 @@
+{
+ "id": 7227794,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173946,
+   "g": 200,
+   "name": "blackberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 1.5,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 173582,
+   "g": 60,
+   "name": "margarine spread 60% fat"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 60,
+   "name": "sugar, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 88,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168895,
+   "g": 120,
+   "name": "self-rising flour"
+  },
+  {
+   "line": 6,
+   "fdc": 168797,
+   "g": 270,
+   "name": "vanilla pudding, ready-to-eat, fat free (low-fat custard)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Polyunsaturated spread as 60% fat spread; low-fat custard as fat-free ready-to-eat vanilla pudding."
+}

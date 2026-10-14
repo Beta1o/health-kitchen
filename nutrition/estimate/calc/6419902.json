@@ -1,0 +1,60 @@
+{
+ "id": 6419902,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173709,
+   "g": 113,
+   "name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

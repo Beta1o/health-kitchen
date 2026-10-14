@@ -1,0 +1,55 @@
+{
+ "id": 9727858,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 175215,
+   "g": 300,
+   "name": "soymilk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 82,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 168820,
+   "g": 40,
+   "name": "molasses",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 168893,
+   "g": 270,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "baking powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "cinnamon, ground"
+  }
+ ]
+}

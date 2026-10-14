@@ -1,0 +1,85 @@
+{
+ "id": 7006166,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 100,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 150,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 175043,
+   "g": 7,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 4,
+   "fdc": 171267,
+   "g": 15,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 170029,
+   "g": 250,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173473,
+   "g": 1,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 171256,
+   "g": 60,
+   "name": "Cream, sour, reduced fat, cultured"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Half-fat creme fraiche -> reduced-fat sour cream."
+}

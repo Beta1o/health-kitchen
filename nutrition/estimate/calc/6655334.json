@@ -1,0 +1,48 @@
+{
+ "id": 6655334,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 546,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 33,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168588,
+   "g": 48,
+   "name": "Nuts, almond butter, plain, without salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 0.33,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.28,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 0.55,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 171332,
+   "g": 0.21,
+   "name": "Spices, pumpkin pie spice"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 9439579,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 70,
+   "name": "nuts, almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 169717,
+   "g": 30,
+   "name": "tapioca, pearl, dry (tapioca flour)"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 8,
+   "name": "yeast, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 170090,
+   "g": 11,
+   "name": "seaweed, agar, dried (kappa carrageenan proxy)"
+  },
+  {
+   "line": 4,
+   "fdc": 172442,
+   "g": 17,
+   "name": "miso"
+  },
+  {
+   "line": 5,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171412,
+   "g": 54.4,
+   "name": "oil, coconut"
+  }
+ ],
+ "notes": "Kappa carrageenan modelled as dried agar; nutritional yeast as active dry yeast. Coconut oil marked optional but given an amount, so included."
+}

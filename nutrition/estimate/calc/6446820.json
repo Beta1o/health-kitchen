@@ -1,0 +1,48 @@
+{
+ "id": 6446820,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173582,
+   "g": 4.7,
+   "name": "margarine-like spread 60% fat"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172241,
+   "g": 48,
+   "name": "balsamic vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 360,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  }
+ ]
+}

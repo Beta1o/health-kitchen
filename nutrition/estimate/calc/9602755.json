@@ -1,0 +1,32 @@
+{
+ "id": 9602755,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 152,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 170554,
+   "g": 48,
+   "name": "chia seeds"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Unsweetened cashew milk modelled as unsweetened almond milk."
+}

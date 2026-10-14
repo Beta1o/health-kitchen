@@ -1,0 +1,85 @@
+{
+ "id": 6557494,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 172850,
+   "g": 680,
+   "name": "turkey, ground, 93% lean, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 81,
+   "name": "cereals, oats, regular and quick, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168556,
+   "g": 136,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

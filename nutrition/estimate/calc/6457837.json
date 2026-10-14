@@ -1,0 +1,24 @@
+{
+ "id": 6457837,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167765,
+   "g": 304,
+   "name": "Watermelon, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 60,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 3,
+   "name": "Spearmint, fresh"
+  }
+ ]
+}

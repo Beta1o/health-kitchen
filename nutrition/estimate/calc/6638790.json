@@ -1,0 +1,60 @@
+{
+ "id": 6638790,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175179,
+   "g": 454,
+   "name": "shrimp, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon/lime peel"
+  }
+ ]
+}

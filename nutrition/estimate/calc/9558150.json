@@ -1,0 +1,121 @@
+{
+ "id": 9558150,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 206,
+   "name": "nuts, cashew, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 16,
+   "name": "yeast, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173573,
+   "g": 4.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 8,
+   "fdc": 168434,
+   "g": 220,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170187,
+   "g": 100,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 10,
+   "fdc": 168567,
+   "g": 27,
+   "name": "tomatoes, sun-dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170054,
+   "g": 1470,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 12,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 14,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 15,
+   "fdc": 169255,
+   "g": 200,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 169291,
+   "g": 646,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 19,
+   "fdc": 169738,
+   "g": 454,
+   "name": "pasta, whole-wheat, dry"
+  },
+  {
+   "line": 20,
+   "fdc": 170162,
+   "g": 12,
+   "name": "nuts, cashew, raw"
+  }
+ ],
+ "notes": "Nutritional yeast modelled as active dry yeast. Vegan parmesan has no amount: 12 g cashews assumed. Tomato sauce 6 cups = 1470 g regular (salted) canned sauce."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6030314,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 340,
+   "name": "broccoli (slaw)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 40,
+   "name": "red onion"
+  },
+  {
+   "line": 2,
+   "fdc": 168165,
+   "g": 41,
+   "name": "raisins"
+  },
+  {
+   "line": 3,
+   "fdc": 170563,
+   "g": 32,
+   "name": "sunflower kernels dry roasted"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 122,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard (Dijon)"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 15,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt coarse"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "unsweetened multi-use syrup (sugar-free, unknown product) left out"
+}

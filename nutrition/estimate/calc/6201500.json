@@ -1,0 +1,73 @@
+{
+ "id": 6201500,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172203,
+   "g": 243,
+   "name": "Egg, white, raw, frozen, pasteurized"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 174081,
+   "g": 180,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 10,
+   "fdc": 171292,
+   "g": 25,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Low carb whole wheat tortillas entered as regular whole wheat tortillas (45 g each); real low-carb tortillas have fewer carbs, more fiber."
+}

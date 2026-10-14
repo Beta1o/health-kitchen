@@ -1,0 +1,37 @@
+{
+ "id": 6226902,
+ "servings": 32,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 432,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 173470,
+   "g": 3.6,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 60,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Fresh oregano has no SR entry: 2 tbsp fresh entered as 1 g dried oregano."
+}

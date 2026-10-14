@@ -1,0 +1,104 @@
+{
+ "id": 9882145,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 170,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 174277,
+   "g": 48,
+   "name": "soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+   "line": 3,
+   "fdc": 170459,
+   "g": 32,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 6,
+   "fdc": 168147,
+   "g": 270,
+   "name": "vital wheat gluten"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 7.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 7.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika (smoked)"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 171331,
+   "g": 0.8,
+   "name": "spices, poultry seasoning"
+  },
+  {
+   "line": 12,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 13,
+   "fdc": 172231,
+   "g": 0.8,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 14,
+   "fdc": 171326,
+   "g": 0.6,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 15,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "hot dog buns and condiments (to serve, no amounts) left out"
+}

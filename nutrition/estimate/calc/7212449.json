@@ -1,0 +1,67 @@
+{
+ "id": 7212449,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171790,
+   "g": 200,
+   "name": "beef, ground, 95% lean, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 175254,
+   "g": 240,
+   "name": "lentils, boiled, with salt (canned, drained)"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 200,
+   "name": "tomatoes, canned, red, ripe"
+  },
+  {
+   "line": 6,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste, canned, no salt added"
+  },
+  {
+   "line": 7,
+   "fdc": 173414,
+   "g": 14,
+   "name": "cheese, cheddar"
+  },
+  {
+   "line": 8,
+   "fdc": 169383,
+   "g": 140,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 140,
+   "name": "peppers, sweet, red, raw"
+  }
+ ],
+ "notes": "400 g tin lentils taken as 240 g drained"
+}

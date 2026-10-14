@@ -1,0 +1,24 @@
+{
+ "id": 6383468,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 118,
+   "name": "banana"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk unsweetened"
+  }
+ ]
+}

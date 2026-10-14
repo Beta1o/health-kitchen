@@ -1,0 +1,75 @@
+{
+ "id": 9375021,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 590,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 175215,
+   "g": 81,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 80,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 173904,
+   "g": 80,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 180,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 9,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 10,
+   "fdc": 167976,
+   "g": 42,
+   "name": "candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "quick steel cut oats 1/2 cup taken as 80 g"
+}

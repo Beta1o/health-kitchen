@@ -1,0 +1,74 @@
+{
+ "id": 6926509,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 450,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 369,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 150,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 55,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 7,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 173475,
+   "g": 6,
+   "name": "Spearmint, fresh"
+  }
+ ],
+ "notes": "Sherry vinegar as red wine vinegar."
+}

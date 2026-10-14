@@ -1,0 +1,37 @@
+{
+ "id": 6980895,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 735,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173470,
+   "g": 0.5,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 12,
+   "name": "sweetener, sucralose (Splenda)"
+  }
+ ],
+ "notes": "1/2 cup low/no-calorie sweetener -> granulated sucralose ~12 g."
+}

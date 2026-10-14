@@ -1,0 +1,73 @@
+{
+ "id": 6957718,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169746,
+   "g": 194,
+   "name": "Spelt, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 168387,
+   "g": 150,
+   "name": "Artichokes, (globe or french), frozen, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 75,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 6,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 38,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "Farro has no SR entry: cooked spelt used. Lemon wedges for serving counted as 30 g juice."
+}

@@ -1,0 +1,66 @@
+{
+ "id": 6262970,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 174081,
+   "g": 90,
+   "name": "tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 3,
+   "fdc": 171705,
+   "g": 136,
+   "name": "avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 5,
+   "fdc": 170591,
+   "g": 8.6,
+   "name": "nuts, pine nuts, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168576,
+   "g": 7,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

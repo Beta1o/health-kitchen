@@ -1,0 +1,42 @@
+{
+ "id": 6375634,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 490,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 118,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 415,
+   "name": "Strawberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171647,
+   "g": 29,
+   "name": "Cereals ready-to-eat, POST, GRAPE-NUTS Cereal"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 1,
+   "name": "Spearmint, fresh"
+  }
+ ]
+}

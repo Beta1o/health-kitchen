@@ -1,0 +1,62 @@
+{
+ "id": 6314398,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 184,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 171009,
+   "g": 55,
+   "name": "mayonnaise"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "added_sugar": true,
+   "name": "honey"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 4,
+   "fdc": 170379,
+   "g": 284,
+   "name": "broccoli"
+  },
+  {
+   "line": 5,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apple with skin"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 58,
+   "name": "red onion"
+  },
+  {
+   "line": 7,
+   "fdc": 171723,
+   "g": 60,
+   "name": "cranberries dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170187,
+   "g": 29,
+   "name": "walnuts"
+  }
+ ],
+ "notes": "unsweetened dried cranberries: only the sweetened entry exists, used without the added-sugar flag (overstates sugar)"
+}

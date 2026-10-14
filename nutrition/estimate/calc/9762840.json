@@ -1,0 +1,39 @@
+{
+ "id": 9762840,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 100,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 10,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 50,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  }
+ ],
+ "notes": "almond flour -> blanched almonds; coconut sugar -> brown sugar"
+}

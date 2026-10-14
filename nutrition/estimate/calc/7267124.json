@@ -1,0 +1,97 @@
+{
+ "id": 7267124,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172847,
+   "g": 75,
+   "name": "turkey, ground, fat free, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173941,
+   "g": 34,
+   "name": "apricots, dried, sulfured, uncooked"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 2,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 174924,
+   "g": 4,
+   "name": "bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 10,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169756,
+   "g": 100,
+   "name": "rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+   "line": 7,
+   "fdc": 168398,
+   "g": 9,
+   "name": "corn, sweet, yellow, frozen, kernels cut off cob, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 4.0, 'calories': 88.0, 'carbohydrates_g': 20.71, 'cholesterol_mg': 0.0, 'fat_g': 0.78, 'fiber_g': 2.1, 'phosphorus_mg': 70.0, 'potassium_mg': 213.0, 'protein_g': 3.02, 'sodium_mg': 3.0, 'sugars_g': 2.5}\n"
+  },
+  {
+   "line": 8,
+   "fdc": 170016,
+   "g": 9,
+   "name": "peas, green, frozen, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 22.0, 'calories': 77.0, 'carbohydrates_g': 13.62, 'cholesterol_mg': 0.0, 'fat_g': 0.4, 'fiber_g': 4.5, 'phosphorus_mg': 82.0, 'potassium_mg': 153.0, 'protein_g': 5.22, 'sodium_mg': 108.0, 'sugars_g': 5.0}\n"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 40,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170108,
+   "g": 40,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170051,
+   "g": 200,
+   "name": "tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 14,
+   "fdc": 172240,
+   "g": 5,
+   "name": "vinegar, red wine"
+  }
+ ],
+ "notes": "'A little beaten egg' guessed 10 g; turkey breast mince as fat-free ground turkey."
+}

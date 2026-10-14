@@ -1,0 +1,55 @@
+{
+ "id": 6116524,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 794,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 163,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 12,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "Spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "yogurt marinade counted in full"
+}

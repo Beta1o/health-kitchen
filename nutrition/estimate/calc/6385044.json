@@ -1,0 +1,55 @@
+{
+ "id": 6385044,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171248,
+   "g": 82,
+   "name": "ricotta, part skim"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 700,
+   "name": "chicken breast, raw"
+  }
+ ],
+ "notes": "Light ricotta mapped to part-skim ricotta; 1/2 tsp coarse salt taken as 2.4 g."
+}

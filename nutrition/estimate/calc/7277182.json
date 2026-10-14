@@ -1,0 +1,61 @@
+{
+ "id": 7277182,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 160,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.3,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 169385,
+   "g": 75,
+   "name": "Fennel, bulb, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175167,
+   "g": 125,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  }
+ ],
+ "notes": "Basil to serve left out."
+}

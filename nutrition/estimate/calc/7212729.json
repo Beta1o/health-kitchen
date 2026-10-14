@@ -1,0 +1,69 @@
+{
+ "id": 7212729,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171719,
+   "g": 205,
+   "name": "cherries, sweet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sweetener, sucralose (Splenda)"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 2.7,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 172181,
+   "g": 100,
+   "name": "cottage cheese, nonfat, uncreamed (quark)"
+  },
+  {
+   "line": 4,
+   "fdc": 171269,
+   "g": 30,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 170272,
+   "g": 25,
+   "name": "chocolate, dark, 60-69% cacao",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 169593,
+   "g": 3,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 8,
+   "fdc": 169698,
+   "g": 1.4,
+   "name": "cornstarch"
+  },
+  {
+   "line": 9,
+   "fdc": 167743,
+   "g": 21,
+   "name": "syrup, cane (golden syrup)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Cherries 225 g with stones -> 205 g flesh; quark as nonfat uncreamed cottage cheese; golden syrup as cane syrup; artificial sweetener as Splenda 3 g."
+}

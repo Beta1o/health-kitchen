@@ -1,0 +1,61 @@
+{
+ "id": 7485658,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 89,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 7.8,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171269,
+   "g": 206,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 6,
+   "fdc": 171292,
+   "g": 50,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170016,
+   "g": 100,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 8,
+   "fdc": 169738,
+   "g": 100,
+   "name": "pasta, whole-wheat, dry"
+  }
+ ],
+ "notes": "100 g wholewheat macaroni taken as dry weight; Dijon -> yellow mustard."
+}

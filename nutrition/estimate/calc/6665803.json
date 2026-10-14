@@ -1,0 +1,61 @@
+{
+ "id": 6665803,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171477,
+   "g": 280,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 61,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 20,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171322,
+   "g": 1,
+   "name": "Spices, dill weed, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 172689,
+   "g": 100,
+   "name": "Bread, whole-wheat, commercially prepared, toasted"
+  },
+  {
+   "line": 8,
+   "fdc": 170567,
+   "g": 27,
+   "name": "Nuts, almonds"
+  }
+ ],
+ "notes": "minced onion read as fresh"
+}

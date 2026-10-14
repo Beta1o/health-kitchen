@@ -1,0 +1,67 @@
+{
+ "id": 6549854,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 54.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 172241,
+   "g": 32,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173473,
+   "g": 1,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 172232,
+   "g": 5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 90,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 169255,
+   "g": 504,
+   "name": "mushrooms, portabella, raw"
+  }
+ ],
+ "notes": "Fresh oregano entered as 1 g dried oregano."
+}

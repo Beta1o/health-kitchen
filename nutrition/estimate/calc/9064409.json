@@ -1,0 +1,37 @@
+{
+ "id": 9064409,
+ "servings": 22,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170170,
+   "g": 50,
+   "name": "Nuts, coconut meat, dried (desiccated), not sweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 168191,
+   "g": 160,
+   "name": "Dates, medjool"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 6,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "coconut includes ~10 g for rolling"
+}

@@ -1,0 +1,38 @@
+{
+ "id": 7705270,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167755,
+   "g": 100,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171711,
+   "g": 100,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167706,
+   "g": 36,
+   "name": "jams, preserves, marmalade, reduced sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170886,
+   "g": 300,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 171256,
+   "g": 100,
+   "name": "cream, sour, reduced fat, cultured"
+  }
+ ],
+ "notes": "Half-fat creme fraiche as reduced-fat sour cream."
+}

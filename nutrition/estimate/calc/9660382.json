@@ -1,0 +1,73 @@
+{
+ "id": 9660382,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 75,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168434,
+   "g": 70,
+   "name": "mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 68,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174288,
+   "g": 300,
+   "name": "chickpea flour (besan)"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 20,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting"
+  }
+ ],
+ "notes": "nutritional yeast as active dry yeast"
+}

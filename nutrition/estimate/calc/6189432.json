@@ -1,0 +1,56 @@
+{
+ "id": 6189432,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 340,
+   "name": "potatoes, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 31.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169962,
+   "g": 283,
+   "name": "beans, snap, green, frozen, unprepared"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 2.6,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 3,
+   "name": "italian seasoning (oregano, dried)"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 2,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 169655,
+   "g": 0.8,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Italian dressing mix (1 tbsp, ~9 g) modelled as 2.6 g salt + 3 g dried herbs + 2 g garlic powder + 0.8 g sugar."
+}

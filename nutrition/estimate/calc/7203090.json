@@ -1,0 +1,56 @@
+{
+ "id": 7203090,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169641,
+   "g": 7,
+   "name": "jam (stand-in for lemon curd)",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172207,
+   "g": 60,
+   "name": "cream cheese, fat free"
+  },
+  {
+   "line": 4,
+   "fdc": 171711,
+   "g": 80,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169705,
+   "g": 16,
+   "name": "oats"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 3,
+   "name": "canola (rapeseed) oil"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Lemon curd has no SR entry: jam used. Two rough oatcakes (20 g) as 16 g oats + 3 g oil + 0.3 g salt."
+}

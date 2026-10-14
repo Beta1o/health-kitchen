@@ -1,0 +1,48 @@
+{
+ "id": 6751867,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 301,
+   "name": "cucumber, with peel"
+  },
+  {
+   "line": 1,
+   "fdc": 172233,
+   "g": 2.2,
+   "name": "dill, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171246,
+   "g": 113,
+   "name": "neufchatel (light cream cheese)"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171985,
+   "g": 113,
+   "name": "smoked salmon, lox"
+  }
+ ]
+}

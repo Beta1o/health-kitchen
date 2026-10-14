@@ -1,0 +1,108 @@
+{
+ "id": 6769296,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 127.5,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 266,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 175176,
+   "g": 454,
+   "name": "Fish, tilapia, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 169387,
+   "g": 40,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170903,
+   "g": 122.5,
+   "name": "Yogurt, Greek, plain, lowfat"
+  },
+  {
+   "line": 13,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 172233,
+   "g": 1,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 15,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 16,
+   "fdc": 169230,
+   "g": 2,
+   "name": "Garlic, raw"
+  }
+ ]
+}

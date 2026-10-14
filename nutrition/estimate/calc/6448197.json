@@ -1,0 +1,61 @@
+{
+ "id": 6448197,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169311,
+   "g": 240,
+   "name": "artichokes, boiled, with salt (canned, drained)"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 170,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 170896,
+   "g": 84,
+   "name": "cheese spread, reduced fat (light cheese wedges)"
+  },
+  {
+   "line": 7,
+   "fdc": 171247,
+   "g": 10,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Canned artichoke hearts (no SR entry) as boiled artichokes with salt, 240 g drained. Light spreadable cheese wedges as reduced-fat cheese spread, 21 g each."
+}

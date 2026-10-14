@@ -1,0 +1,30 @@
+{
+ "id": 6520204,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 171580,
+   "g": 32,
+   "name": "pesto, ready-to-serve, shelf stable"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": 9289404,
+ "servings": 26,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 147,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 174294,
+   "g": 128,
+   "name": "peanut butter, smooth (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 4,
+   "fdc": 171695,
+   "g": 31,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 5,
+   "fdc": 173904,
+   "g": 81,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 75,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 8,
+   "fdc": 167976,
+   "g": 15,
+   "name": "candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Banana flesh from 230 g with peel; 3 handfuls spinach guessed 75 g; chocolate chips/candy eyes decoration (no amount) guessed 15 g semisweet chocolate."
+}

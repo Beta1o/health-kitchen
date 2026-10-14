@@ -1,0 +1,92 @@
+{
+ "id": 9784924,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174270,
+   "g": 113,
+   "name": "soybeans, mature seeds, raw (soy curls)"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 4,
+   "fdc": 169098,
+   "g": 124,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172237,
+   "g": 80,
+   "name": "vinegar, distilled (rice vinegar)"
+  },
+  {
+   "line": 7,
+   "fdc": 174278,
+   "g": 64,
+   "name": "soy sauce (tamari)"
+  },
+  {
+   "line": 8,
+   "fdc": 169661,
+   "g": 79,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 13,
+   "fdc": 170150,
+   "g": 1,
+   "name": "sesame seeds, whole, dried"
+  },
+  {
+   "line": 14,
+   "fdc": 170005,
+   "g": 1,
+   "name": "onions, spring or scallions, raw"
+  }
+ ],
+ "notes": "Soy curls (whole dried soybeans) as raw mature soybeans; rice vinegar as distilled vinegar; noodles/rice to serve left out."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 9518240,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175043,
+   "g": 10,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 36,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "Spices, parsley, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170920,
+   "g": 1,
+   "name": "Spices, celery seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "nutritional yeast approximated by dry baker's yeast; full 2 tbsp salt used"
+}

@@ -1,0 +1,90 @@
+{
+ "id": 6384137,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon/lime peel"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 80,
+   "name": "lime juice"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168429,
+   "g": 180,
+   "name": "lettuce, butterhead, raw"
+  }
+ ]
+}

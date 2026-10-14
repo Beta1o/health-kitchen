@@ -1,0 +1,48 @@
+{
+ "id": 6320177,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 340,
+   "name": "broccoli"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 170567,
+   "g": 20,
+   "name": "almonds slivered"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6379337,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171706,
+   "g": 136,
+   "name": "Avocados, raw, California"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 62,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 113,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169997,
+   "g": 2,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 7,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "white wine vinegar as red wine vinegar"
+}

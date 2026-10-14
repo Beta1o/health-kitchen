@@ -1,0 +1,55 @@
+{
+ "id": 9610471,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 136,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 175215,
+   "g": 163,
+   "name": "soymilk (all flavors), unsweetened, with added calcium, vitamins a and d"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 5.4,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 171893,
+   "g": 1.5,
+   "name": "beverages, coffee, instant, regular, powder"
+  },
+  {
+   "line": 4,
+   "fdc": 168191,
+   "g": 60,
+   "name": "dates, medjool"
+  },
+  {
+   "line": 6,
+   "fdc": 175215,
+   "g": 30,
+   "name": "soymilk (all flavors), unsweetened, with added calcium, vitamins a and d"
+  },
+  {
+   "line": 7,
+   "fdc": 169593,
+   "g": 1,
+   "name": "cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 0.5,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "Dates assumed Medjool (2.5 x 24 g); frothed milk topping guessed 30 g soy milk; cocoa and cinnamon garnish 1 g / 0.5 g."
+}

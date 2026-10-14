@@ -1,0 +1,38 @@
+{
+ "id": 9952260,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170182,
+   "g": 99,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 1,
+   "fdc": 174278,
+   "g": 48,
+   "name": "soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 48,
+   "added_sugar": true,
+   "name": "sugars, brown"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Coconut sugar approximated by brown sugar."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6993572,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 168421,
+   "g": 60,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 0.7,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173871,
+   "g": 130,
+   "name": "Sausage, turkey, fresh, cooked"
+  },
+  {
+   "line": 6,
+   "fdc": 173462,
+   "g": 251,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 7,
+   "fdc": 172183,
+   "g": 132,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 175041,
+   "g": 1.5,
+   "name": "Leavening agents, cream of tartar"
+  }
+ ],
+ "notes": "Herbes de Provence entered as dried thyme. Optional salt (1/2 tsp) included. Cooked turkey sausage crumbles 1 cup = 130 g assumed."
+}

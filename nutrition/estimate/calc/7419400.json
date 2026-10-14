@@ -1,0 +1,48 @@
+{
+ "id": 7419400,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174223,
+   "g": 300,
+   "name": "squid, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 175179,
+   "g": 165,
+   "name": "shrimp, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170106,
+   "g": 5,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  }
+ ]
+}

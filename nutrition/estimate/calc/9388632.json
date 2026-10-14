@@ -1,0 +1,61 @@
+{
+ "id": 9388632,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168546,
+   "g": 300,
+   "name": "peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 53,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 340,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172232,
+   "g": 5.3,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Roasted red peppers taken as jarred (canned, salted) at about 75 g each. Line 4 'aquafaba or olive oil': first option aquafaba, near zero calories, left out (no SR food)."
+}

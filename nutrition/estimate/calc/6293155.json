@@ -1,0 +1,91 @@
+{
+ "id": 6293155,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 1,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 700,
+   "name": "chicken breast, skinless, boneless, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170379,
+   "g": 142,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 184,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 11,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169704,
+   "g": 390,
+   "name": "rice, brown, long-grain, cooked"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 5.7,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Chicken breasts with no weight taken as 175 g each."
+}

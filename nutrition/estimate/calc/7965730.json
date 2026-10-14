@@ -1,0 +1,45 @@
+{
+ "id": 7965730,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172791,
+   "g": 100,
+   "name": "phyllo dough"
+  },
+  {
+   "line": 1,
+   "fdc": 173430,
+   "g": 9.3,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169656,
+   "g": 8,
+   "name": "sugars, powdered",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 90,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 4,
+   "fdc": 169641,
+   "g": 20,
+   "name": "jams and preserves",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 167762,
+   "g": 350,
+   "name": "strawberries, raw"
+  }
+ ],
+ "notes": "Filo sheet weight guessed (25 g each); fat-free fromage frais as nonfat Greek yogurt; lemon curd approximated with jam."
+}

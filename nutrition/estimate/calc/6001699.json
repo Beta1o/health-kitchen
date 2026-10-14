@@ -1,0 +1,25 @@
+{
+ "id": 6001699,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174916,
+   "g": 57,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 170886,
+   "g": 30,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "low-fat tzatziki -> low-fat plain yogurt"
+}

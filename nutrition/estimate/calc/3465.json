@@ -1,0 +1,66 @@
+{
+ "id": 3465,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168664,
+   "g": 1134,
+   "name": "beef brisket whole lean+fat 1/8 trim raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 4.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 27.2,
+   "name": "canola oil"
+  },
+  {
+   "line": 7,
+   "fdc": 170917,
+   "g": 0.6,
+   "name": "bay leaf"
+  },
+  {
+   "line": 8,
+   "fdc": 172889,
+   "g": 480,
+   "name": "beef broth reduced sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 172241,
+   "g": 32,
+   "name": "balsamic vinegar"
+  }
+ ]
+}

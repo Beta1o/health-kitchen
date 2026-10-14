@@ -1,0 +1,30 @@
+{
+ "id": 6952871,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168013,
+   "g": 32,
+   "name": "Bread, multi-grain (includes whole-grain)"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 16,
+   "name": "Nuts, almond butter, plain, without salt added"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 29.5,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 2,
+   "name": "Nuts, almonds"
+  }
+ ]
+}

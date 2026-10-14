@@ -1,0 +1,85 @@
+{
+ "id": 6001732,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169249,
+   "g": 240,
+   "name": "lettuce, green leaf"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169094,
+   "g": 34,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 11,
+   "fdc": 173424,
+   "g": 100,
+   "name": "egg, hard-boiled"
+  },
+  {
+   "line": 12,
+   "fdc": 168096,
+   "g": 120,
+   "name": "salad dressing, italian, reduced calorie"
+  }
+ ],
+ "notes": "Kalamata olives as ripe canned olives (Kalamata are saltier). Light balsamic vinaigrette as reduced-calorie italian dressing."
+}

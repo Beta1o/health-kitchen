@@ -1,0 +1,78 @@
+{
+ "id": 9380481,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 250,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 298,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170026,
+   "g": 454,
+   "name": "potatoes raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 196,
+   "name": "zucchini"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 61,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171583,
+   "g": 60,
+   "name": "vegetable broth ready-to-serve"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 11,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "rosemary dried"
+  }
+ ]
+}

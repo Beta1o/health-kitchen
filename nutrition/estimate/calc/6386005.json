@@ -1,0 +1,61 @@
+{
+ "id": 6386005,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 7.5,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Orange pepper modelled as yellow pepper."
+}

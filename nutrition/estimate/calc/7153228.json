@@ -1,0 +1,67 @@
+{
+ "id": 7153228,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169255,
+   "g": 200,
+   "name": "Mushrooms, portabella, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172475,
+   "g": 150,
+   "name": "Tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 4,
+   "fdc": 169288,
+   "g": 100,
+   "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170189,
+   "g": 10,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 2.5,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 102,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "Portobellos 2 large incl. reserved stems ~200 g. Rapeseed oil as canola."
+}

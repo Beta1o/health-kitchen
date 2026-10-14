@@ -1,0 +1,85 @@
+{
+ "id": 7552718,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 4.5,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171505,
+   "g": 500,
+   "name": "turkey ground raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 150,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 150,
+   "name": "green bell pepper raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes canned in tomato juice"
+  },
+  {
+   "line": 9,
+   "fdc": 174285,
+   "g": 240,
+   "name": "kidney beans canned drained (mixed beans)"
+  },
+  {
+   "line": 10,
+   "fdc": 174081,
+   "g": 520,
+   "name": "whole wheat tortillas"
+  },
+  {
+   "line": 11,
+   "fdc": 169249,
+   "g": 200,
+   "name": "lettuce green leaf"
+  },
+  {
+   "line": 12,
+   "fdc": 171292,
+   "g": 50,
+   "name": "cheddar reduced fat"
+  }
+ ],
+ "notes": "dash of oil taken as 1 tsp; mixed beans as kidney beans"
+}

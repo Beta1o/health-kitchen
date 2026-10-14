@@ -1,0 +1,54 @@
+{
+ "id": 7364517,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 100,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 240,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 35,
+   "name": "yogurt, greek, plain, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170106,
+   "g": 11,
+   "name": "peppers, hot chili, red, raw"
+  }
+ ]
+}

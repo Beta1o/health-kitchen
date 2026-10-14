@@ -1,0 +1,49 @@
+{
+ "id": 9328013,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 520,
+   "name": "sweet potato, raw (4 medium)"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 60,
+   "name": "vegetable broth (aquafaba or broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 13.5,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 170930,
+   "g": 1.1,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 1.8,
+   "name": "red pepper flakes (cayenne)"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  }
+ ],
+ "notes": "vegan parmesan and extra pepper flakes without amount left out; aquafaba taken as vegetable broth"
+}

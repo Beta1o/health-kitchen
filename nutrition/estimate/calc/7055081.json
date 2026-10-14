@@ -1,0 +1,90 @@
+{
+ "id": 7055081,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "canola oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169246,
+   "g": 90,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 250,
+   "name": "mushrooms, white, raw (mixed)"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "chilli flakes"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170556,
+   "g": 5.4,
+   "name": "pumpkin seed kernels"
+  },
+  {
+   "line": 7,
+   "fdc": 170562,
+   "g": 5.8,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 8,
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrot, large"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 12,
+   "fdc": 170848,
+   "g": 5,
+   "name": "parmesan, hard"
+  },
+  {
+   "line": 13,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil fresh"
+  }
+ ]
+}

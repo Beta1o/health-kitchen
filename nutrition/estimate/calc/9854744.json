@@ -1,0 +1,26 @@
+{
+ "id": 9854744,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 250,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 167976,
+   "g": 168,
+   "name": "semisweet chocolate chips",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  }
+ ],
+ "notes": "coarse salt for sprinkling (no amount) left out"
+}

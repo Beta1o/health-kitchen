@@ -1,0 +1,32 @@
+{
+ "id": 6553525,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 240,
+   "name": "spinach raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171404,
+   "g": 180,
+   "name": "salad dressing, french, reduced fat",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 4,
+   "name": "ginger root raw"
+  }
+ ],
+ "notes": "Lite raspberry dressing approximated with reduced-fat french dressing (sugar marked added)."
+}

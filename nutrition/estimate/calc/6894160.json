@@ -1,0 +1,66 @@
+{
+ "id": 6894160,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "vegetable oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "cumin"
+  },
+  {
+   "line": 2,
+   "fdc": 170929,
+   "g": 3.3,
+   "name": "brown mustard seeds"
+  },
+  {
+   "line": 3,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turm"
+  },
+  {
+   "line": 4,
+   "fdc": 175167,
+   "g": 454,
+   "name": "salmon"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger"
+  },
+  {
+   "line": 8,
+   "fdc": 170497,
+   "g": 15,
+   "name": "greench"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 149,
+   "name": "cherry tomatoes"
+  }
+ ]
+}

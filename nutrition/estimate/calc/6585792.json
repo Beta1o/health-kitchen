@@ -1,0 +1,36 @@
+{
+ "id": 6585792,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 454,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

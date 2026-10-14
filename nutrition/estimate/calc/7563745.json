@@ -1,0 +1,67 @@
+{
+ "id": 7563745,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170924,
+   "g": 8,
+   "name": "curry powder (korma paste part)"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 8,
+   "name": "oil (korma paste part)"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt (korma paste part)"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 200,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 350,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170568,
+   "g": 6,
+   "name": "almonds, blanched (almond flour)"
+  },
+  {
+   "line": 6,
+   "fdc": 170886,
+   "g": 150,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 2,
+   "name": "almonds"
+  }
+ ],
+ "notes": "Korma curry paste (2 tbsp) has no SR entry; modelled as 8 g curry powder + 8 g oil + 1.2 g salt. Rice to serve left out."
+}

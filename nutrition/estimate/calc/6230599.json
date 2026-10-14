@@ -1,0 +1,79 @@
+{
+ "id": 6230599,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175176,
+   "g": 452,
+   "name": "Fish, tilapia, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 170008,
+   "g": 80,
+   "name": "Onions, sweet, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169228,
+   "g": 164,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 124,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 149,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170138,
+   "g": 425,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 169383,
+   "g": 149,
+   "name": "Peppers, sweet, yellow, raw"
+  }
+ ],
+ "notes": "4 small tilapia fillets guessed 113 g raw each. Fire-roasted no-salt tomatoes as canned no-salt tomatoes; orange pepper as yellow pepper."
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6347356,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 27,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 4,
+   "name": "ginger root raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170471,
+   "g": 135,
+   "name": "vegetables, mixed, frozen"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 575,
+   "name": "cauliflower raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 7,
+   "fdc": 171477,
+   "g": 140,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 45,
+   "name": "green onion raw"
+  }
+ ],
+ "notes": "Head of cauliflower assumed 575 g."
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6070461,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 192,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169878,
+   "g": 30,
+   "name": "Syrups, sugar free"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 173464,
+   "g": 192,
+   "name": "Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener"
+  },
+  {
+   "line": 4,
+   "fdc": 170567,
+   "g": 23,
+   "name": "Nuts, almonds"
+  }
+ ],
+ "notes": "Unsweetened frozen peaches as raw peaches; no-sugar-added nonfat frozen yogurt as nonfat frozen yogurt with low-calorie sweetener."
+}

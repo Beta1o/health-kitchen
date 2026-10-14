@@ -1,0 +1,37 @@
+{
+ "id": 9108556,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 800,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 58,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 2,
+   "fdc": 172237,
+   "g": 80,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171322,
+   "g": 2,
+   "name": "spices, dill weed, dried"
+  }
+ ]
+}

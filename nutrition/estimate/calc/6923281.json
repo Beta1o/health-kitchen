@@ -1,0 +1,80 @@
+{
+ "id": 6923281,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 227,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 169058,
+   "g": 75,
+   "name": "Jams and preserves, no sugar (with sodium saccharin), any flavor"
+  },
+  {
+   "line": 5,
+   "fdc": 174523,
+   "g": 72,
+   "name": "Sauce, barbecue",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 174527,
+   "g": 2.4,
+   "name": "Sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 7,
+   "fdc": 174916,
+   "g": 284,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 110,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 55,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170847,
+   "g": 50,
+   "name": "Cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 11,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  }
+ ],
+ "notes": "12-inch whole-wheat pizza crust -> whole-wheat pita bread 284 g; sugar-free apricot preserves -> no-sugar jam (not flagged); reduced-fat Italian cheese -> part-skim mozzarella"
+}

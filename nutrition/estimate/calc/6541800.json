@@ -1,0 +1,49 @@
+{
+ "id": 6541800,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169097,
+   "g": 420,
+   "name": "oranges, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  },
+  {
+   "line": 2,
+   "fdc": 169098,
+   "g": 62,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.23,
+   "name": "cayenne / red pepper"
+  }
+ ],
+ "notes": "Blood oranges as oranges, raw."
+}

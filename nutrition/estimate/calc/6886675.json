@@ -1,0 +1,43 @@
+{
+ "id": 6886675,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 908,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 3.5,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 172233,
+   "g": 1,
+   "name": "dill weed, fresh"
+  }
+ ],
+ "notes": "Salt-free seasoning blend (Mrs. Dash) approximated as half onion powder, half garlic powder (7 g per tbsp)."
+}

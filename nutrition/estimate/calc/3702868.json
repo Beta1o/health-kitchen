@@ -1,0 +1,79 @@
+{
+ "id": 3702868,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169736,
+   "g": 150,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 40,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 170459,
+   "g": 16,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 173801,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 9,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 173430,
+   "g": 10,
+   "name": "Butter, without salt"
+  },
+  {
+   "line": 11,
+   "fdc": 170899,
+   "g": 20,
+   "name": "Cheese, cheddar, sharp, sliced"
+  }
+ ],
+ "notes": "Dried mixed herbs as oregano; chilli flakes as cayenne; low-salt stock cube as low-sodium bouillon 10 g."
+}

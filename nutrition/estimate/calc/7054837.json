@@ -1,0 +1,67 @@
+{
+ "id": 7054837,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lemon peel"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 18.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168409,
+   "g": 80,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 6,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas, canned, drained"
+  },
+  {
+   "line": 7,
+   "fdc": 173709,
+   "g": 150,
+   "name": "tuna, light, canned in water, drained"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 150,
+   "name": "lettuce, green leaf"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Two lemon wedges counted as 10 g lemon juice."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6115966,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169249,
+   "g": 240,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169949,
+   "g": 264,
+   "name": "Plums, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 300,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170187,
+   "g": 58,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 4,
+   "fdc": 173435,
+   "g": 14,
+   "name": "Cheese, goat, soft type"
+  },
+  {
+   "line": 5,
+   "fdc": 173590,
+   "g": 60,
+   "name": "Salad dressing, italian dressing, fat-free"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Mixed greens -> green leaf lettuce. Sugar-free balsamic vinaigrette -> fat-free Italian dressing (unknown product)."
+}

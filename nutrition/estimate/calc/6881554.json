@@ -1,0 +1,79 @@
+{
+ "id": 6881554,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172850,
+   "g": 454,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 54,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171597,
+   "g": 500,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 8,
+   "fdc": 169291,
+   "g": 784,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169094,
+   "g": 34,
+   "name": "Olives, ripe, canned (small-extra large)"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 11,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Kalamata olives -> ripe canned olives"
+}

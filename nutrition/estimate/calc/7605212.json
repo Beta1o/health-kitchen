@@ -1,0 +1,84 @@
+{
+ "id": 7605212,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "sunoil"
+  },
+  {
+   "line": 1,
+   "fdc": 172486,
+   "g": 400,
+   "name": "lean lamb"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 330,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 244,
+   "name": "carrot"
+  },
+  {
+   "line": 4,
+   "fdc": 170051,
+   "g": 800,
+   "name": "tomcan"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tompaste"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 5.3,
+   "name": "curry"
+  },
+  {
+   "line": 7,
+   "fdc": 170106,
+   "g": 20,
+   "name": "scotch bonnet"
+  },
+  {
+   "line": 8,
+   "fdc": 169231,
+   "g": 18,
+   "name": "ginger"
+  },
+  {
+   "line": 9,
+   "fdc": 171315,
+   "g": 1.9,
+   "name": "allspice"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley"
+  },
+  {
+   "line": 11,
+   "fdc": 171613,
+   "g": 10,
+   "name": "low-salt stock cube"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ]
+}

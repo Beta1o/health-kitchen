@@ -1,0 +1,67 @@
+{
+ "id": 6726437,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 10.6,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 17,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170427,
+   "g": 30,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 174600,
+   "g": 57,
+   "name": "sausage, turkey, breakfast links, mild, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 174928,
+   "g": 13.5,
+   "name": "bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 8,
+   "fdc": 170847,
+   "g": 7,
+   "name": "cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 9,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Gluten-free bread crumbs as plain dry bread crumbs."
+}

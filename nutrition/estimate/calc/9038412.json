@@ -1,0 +1,84 @@
+{
+ "id": 9038412,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 1,
+   "fdc": 169977,
+   "g": 280,
+   "name": "cabbage, red"
+  },
+  {
+   "line": 2,
+   "fdc": 169975,
+   "g": 280,
+   "name": "cabbage, green"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 220,
+   "name": "carrots"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 40,
+   "name": "red onion"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 16,
+   "name": "cilantro"
+  },
+  {
+   "line": 6,
+   "fdc": 174266,
+   "g": 128,
+   "name": "peanut butter, smooth, salted"
+  },
+  {
+   "line": 7,
+   "fdc": 174278,
+   "g": 54,
+   "name": "soy sauce, tamari"
+  },
+  {
+   "line": 8,
+   "fdc": 172237,
+   "g": 45,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 9,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 10,
+   "fdc": 171186,
+   "g": 12,
+   "name": "sriracha"
+  },
+  {
+   "line": 11,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  }
+ ]
+}

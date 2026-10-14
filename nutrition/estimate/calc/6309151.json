@@ -1,0 +1,44 @@
+{
+ "id": 6309151,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive"
+  },
+  {
+   "line": 1,
+   "fdc": 172234,
+   "g": 30,
+   "name": "dijon as prepared mustard"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 30,
+   "name": "coarse dijon as prepared mustard"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemj"
+  },
+  {
+   "line": 5,
+   "fdc": 171077,
+   "g": 907,
+   "name": "breast"
+  }
+ ],
+ "notes": "Dijon mustards as prepared yellow mustard (no Dijon entry)."
+}

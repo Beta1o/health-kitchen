@@ -1,0 +1,55 @@
+{
+ "id": 9413497,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169703,
+   "g": 277.5,
+   "name": "brown basmati rice raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170471,
+   "g": 540,
+   "name": "mixveg"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 960,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onpow"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garp"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "oreg"
+  },
+  {
+   "line": 6,
+   "fdc": 172347,
+   "g": 14,
+   "name": "vegan butter (optional, counted)"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsf"
+  }
+ ],
+ "notes": "Vegan parmesan to serve, no item. Low-sodium broth as home-prepared stock (high in kcal/protein vs vegetable broth)."
+}

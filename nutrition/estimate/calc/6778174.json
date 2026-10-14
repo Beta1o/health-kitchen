@@ -1,0 +1,79 @@
+{
+ "id": 6778174,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 7.8,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168434,
+   "g": 227,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 169051,
+   "g": 75,
+   "name": "cheese, mozzarella, nonfat"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "no-salt-added chicken broth as home-prepared stock"
+}

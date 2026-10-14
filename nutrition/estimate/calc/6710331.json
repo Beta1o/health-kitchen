@@ -1,0 +1,80 @@
+{
+ "id": 6710331,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 240,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 75,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 23,
+   "name": "almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 171723,
+   "g": 30,
+   "name": "cranberries, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 7.5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 171330,
+   "g": 1.4,
+   "name": "poppy seed"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "No-sugar-added dried cranberries mapped to sweetened dried cranberries (not flagged as added sugar)."
+}

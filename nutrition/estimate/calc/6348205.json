@@ -1,0 +1,67 @@
+{
+ "id": 6348205,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 22.6,
+   "name": "oliveoil"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "coarse salt"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 173473,
+   "g": 5,
+   "name": "rosefr"
+  },
+  {
+   "line": 5,
+   "fdc": 172491,
+   "g": 340,
+   "name": "lean loin chops, edible part of 1 lb bone-in"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 7,
+   "fdc": 170029,
+   "g": 480,
+   "name": "redpot"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 488,
+   "name": "carrot"
+  },
+  {
+   "line": 9,
+   "fdc": 168389,
+   "g": 300,
+   "name": "asparagus"
+  }
+ ],
+ "notes": "1 lb loin chops taken as 340 g edible lean meat (bone-in weight)."
+}

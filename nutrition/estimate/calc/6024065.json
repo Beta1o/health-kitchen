@@ -1,0 +1,79 @@
+{
+ "id": 6024065,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 567,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 30,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 174928,
+   "g": 54,
+   "name": "bread crumbs dry plain"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 9,
+   "fdc": 172238,
+   "g": 17,
+   "name": "capers canned"
+  },
+  {
+   "line": 10,
+   "fdc": 172884,
+   "g": 120,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 11,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley fresh"
+  }
+ ],
+ "notes": "all dredging flour/crumbs counted; Italian seasoning as dried oregano"
+}

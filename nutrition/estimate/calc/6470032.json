@@ -1,0 +1,121 @@
+{
+ "id": 6470032,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 175204,
+   "g": 255,
+   "name": "white beans canned"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 110,
+   "name": "carrots raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171610,
+   "g": 17,
+   "name": "worcestershire"
+  },
+  {
+   "line": 7,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce low sodium"
+  },
+  {
+   "line": 8,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats dry"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 2.5,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.5,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 1,
+   "name": "paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 169910,
+   "g": 200,
+   "name": "mango raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169975,
+   "g": 230,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170393,
+   "g": 25,
+   "name": "carrots raw"
+  },
+  {
+   "line": 12,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar distilled (for rice vinegar)"
+  },
+  {
+   "line": 13,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 14,
+   "fdc": 169249,
+   "g": 60,
+   "name": "lettuce green leaf"
+  }
+ ],
+ "notes": "steak seasoning split into salt/pepper/garlic/paprika; coleslaw mix as cabbage+carrot; rice wine vinegar as distilled vinegar"
+}

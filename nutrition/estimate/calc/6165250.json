@@ -1,0 +1,50 @@
+{
+ "id": 6165250,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173116,
+   "g": 454,
+   "name": "beef, short loin, top loin, steak, separable lean only, trimmed to 1/8\" fat, choice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 170008,
+   "g": 220,
+   "name": "onions, sweet, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 168833,
+   "g": 2.3,
+   "name": "sugars, brown",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Strip steak as top loin lean only, raw."
+}

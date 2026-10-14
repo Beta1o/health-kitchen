@@ -1,0 +1,109 @@
+{
+ "id": 3562881,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169214,
+   "g": 165,
+   "name": "corn, canned, drained solids"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 175188,
+   "g": 240,
+   "name": "black beans, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 50,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170005,
+   "g": 15,
+   "name": "spring onions"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 5,
+   "name": "cilantro, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 171604,
+   "g": 1.3,
+   "name": "hot chili sauce"
+  },
+  {
+   "line": 14,
+   "fdc": 168156,
+   "g": 60,
+   "name": "lime juice"
+  },
+  {
+   "line": 15,
+   "fdc": 171705,
+   "g": 110,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 175037,
+   "g": 248,
+   "name": "flour tortilla"
+  },
+  {
+   "line": 17,
+   "fdc": 170106,
+   "g": 15,
+   "name": "hot chili pepper, red, raw"
+  }
+ ],
+ "notes": "Tins taken drained (corn 165 g, beans 240 g). Mini tortilla wraps 31 g each. Limes as juice. Optional chilli included."
+}

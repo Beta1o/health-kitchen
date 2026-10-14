@@ -1,0 +1,42 @@
+{
+ "id": 6282037,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 1,
+   "fdc": 174289,
+   "g": 62,
+   "name": "hummus, commercial"
+  },
+  {
+   "line": 2,
+   "fdc": 171333,
+   "g": 1.2,
+   "name": "rosemary, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 0.9,
+   "name": "oregano, dried (Italian seasoning)"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ]
+}

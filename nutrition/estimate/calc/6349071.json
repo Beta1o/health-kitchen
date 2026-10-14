@@ -1,0 +1,79 @@
+{
+ "id": 6349071,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173582,
+   "g": 9.5,
+   "name": "margarine-like spread 60% fat"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 1247,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 11,
+   "fdc": 169726,
+   "g": 160,
+   "name": "wild rice, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, meat only, roasted"
+  }
+ ],
+ "notes": "Low-sodium chicken broth as home-prepared stock; optional salt included (amount given)."
+}

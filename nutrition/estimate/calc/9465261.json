@@ -1,0 +1,43 @@
+{
+ "id": 9465261,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 168867,
+   "g": 157,
+   "name": "cornmeal, degermed, enriched, yellow"
+  },
+  {
+   "line": 11,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Crust only: pizza toppings (sauce, vegan cheese, vegetables, olives) have no amounts and are left out."
+}

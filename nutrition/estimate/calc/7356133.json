@@ -1,0 +1,48 @@
+{
+ "id": 7356133,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 300,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 120,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170016,
+   "g": 150,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 272,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 5,
+   "fdc": 175167,
+   "g": 500,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  }
+ ]
+}

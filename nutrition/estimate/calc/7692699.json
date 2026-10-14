@@ -1,0 +1,67 @@
+{
+ "id": 7692699,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 2,
+   "fdc": 169214,
+   "g": 100,
+   "name": "corn, canned, drained"
+  },
+  {
+   "line": 3,
+   "fdc": 170847,
+   "g": 50,
+   "name": "mozzarella, part skim"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 135,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 170886,
+   "g": 15,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 8,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "oregano, dried"
+  }
+ ],
+ "notes": "Sweetcorn assumed canned drained."
+}

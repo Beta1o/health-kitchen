@@ -1,0 +1,79 @@
+{
+ "id": 7385839,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 1,
+   "fdc": 169703,
+   "g": 250,
+   "name": "rice, brown, long-grain, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170924,
+   "g": 4,
+   "name": "curry powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "coriander seed (ground)"
+  },
+  {
+   "line": 5,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 200,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 400,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 12,
+   "name": "almonds"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 10,
+   "name": "coriander leaves (cilantro), raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169295,
+   "g": 250,
+   "name": "squash, butternut, raw"
+  }
+ ],
+ "notes": "Squash as butternut, ~250 g edible from a 250-350 g squash. Pepper to taste left out."
+}

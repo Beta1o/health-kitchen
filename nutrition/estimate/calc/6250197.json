@@ -1,0 +1,103 @@
+{
+ "id": 6250197,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174226,
+   "g": 300,
+   "name": "Fish, salmon, sockeye, canned, without salt, drained solids with bone"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 15,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 18,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 7.8,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 1,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 10,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 12,
+   "fdc": 174090,
+   "g": 120,
+   "name": "Rolls, hamburger or hot dog, whole wheat"
+  },
+  {
+   "line": 13,
+   "fdc": 170457,
+   "g": 60,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 14,
+   "fdc": 167700,
+   "g": 60,
+   "name": "Salad Dressing, mayonnaise-like, fat-free"
+  }
+ ],
+ "notes": "Old Bay entered as paprika + salt. Panko as plain dry bread crumbs. Fat-free tartar sauce as fat-free mayonnaise-like dressing. Slider buns 30 g each."
+}

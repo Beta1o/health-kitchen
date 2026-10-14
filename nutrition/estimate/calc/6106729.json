@@ -1,0 +1,73 @@
+{
+ "id": 6106729,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168389,
+   "g": 113,
+   "name": "asparagus raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168871,
+   "g": 87,
+   "name": "millet cooked"
+  },
+  {
+   "line": 5,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 30,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 174928,
+   "g": 27,
+   "name": "bread crumbs dry"
+  },
+  {
+   "line": 8,
+   "fdc": 170937,
+   "g": 4.8,
+   "name": "tarragon dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Dijon mustard as prepared mustard."
+}

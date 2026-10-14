@@ -1,0 +1,54 @@
+{
+ "id": 6507632,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin seed"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, skinless, boneless, raw"
+  }
+ ]
+}

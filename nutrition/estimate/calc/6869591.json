@@ -1,0 +1,61 @@
+{
+ "id": 6869591,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175037,
+   "g": 128,
+   "name": "whole wheat flour tortillas -> flour tortillas, 4 x 32 g"
+  },
+  {
+   "line": 1,
+   "fdc": 168114,
+   "g": 226,
+   "name": "cottage cheese 1% no sodium added"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 150,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber half"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 29,
+   "name": "red onion"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 23,
+   "name": "bell pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 8,
+   "name": "fresh herbs"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  }
+ ],
+ "notes": "no whole-wheat flour tortilla in SR; white flour tortilla used"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6196157,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 20,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170393,
+   "g": 454,
+   "name": "Carrots, raw"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": 6674090,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentils raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170138,
+   "g": 240,
+   "name": "tomatoes canned no salt"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "coriander seed ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": 6399914,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 588,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 6,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 45,
+   "name": "Syrups, sugar free",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  }
+ ]
+}

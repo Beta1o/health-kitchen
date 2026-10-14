@@ -1,0 +1,73 @@
+{
+ "id": 6575594,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 458,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173420,
+   "g": 38,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Reduced-fat feta has no SR entry: regular feta used."
+}

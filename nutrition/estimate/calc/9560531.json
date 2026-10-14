@@ -1,0 +1,43 @@
+{
+ "id": 9560531,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173757,
+   "g": 240,
+   "name": "chickpeas, boiled without salt (no-salt canned, drained)"
+  },
+  {
+   "line": 1,
+   "fdc": 175250,
+   "g": 15,
+   "name": "chickpea liquid (aquafaba)"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne"
+  }
+ ],
+ "notes": "five alternative flavourings listed; counted the chickpeas and the first (smoky) seasoning only"
+}

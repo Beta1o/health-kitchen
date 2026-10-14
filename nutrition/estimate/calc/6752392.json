@@ -1,0 +1,91 @@
+{
+ "id": 6752392,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171824,
+   "g": 259,
+   "name": "Sauce, salsa, verde, ready-to-serve"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 454,
+   "name": "Mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170497,
+   "g": 100,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169383,
+   "g": 300,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 142,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173797,
+   "g": 255,
+   "name": "Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 3,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170923,
+   "g": 1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 175036,
+   "g": 288,
+   "name": "Tortillas, ready-to-bake or -fry, corn"
+  },
+  {
+   "line": 13,
+   "fdc": 170844,
+   "g": 57,
+   "name": "Cheese, monterey"
+  }
+ ],
+ "notes": "Poblano as green chili pepper (100 g); tomatillo salsa as salsa verde; 6-inch corn tortillas 24 g each."
+}

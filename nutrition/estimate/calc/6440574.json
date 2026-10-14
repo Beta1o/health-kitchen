@@ -1,0 +1,37 @@
+{
+ "id": 6440574,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169387,
+   "g": 120,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170187,
+   "g": 58,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 2,
+   "fdc": 173435,
+   "g": 28,
+   "name": "Cheese, goat, soft type"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 168096,
+   "g": 60,
+   "name": "Salad dressing, italian dressing, reduced calorie"
+  }
+ ],
+ "notes": "Light balsamic vinaigrette -> reduced-calorie Italian dressing. Arugula 20 g/cup."
+}

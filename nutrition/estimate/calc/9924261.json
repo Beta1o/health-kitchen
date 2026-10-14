@@ -1,0 +1,49 @@
+{
+ "id": 9924261,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 680,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 30,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth as home-prepared stock; sriracha mayo for dipping (no amount) left out."
+}

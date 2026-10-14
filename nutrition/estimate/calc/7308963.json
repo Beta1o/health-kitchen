@@ -1,0 +1,84 @@
+{
+ "id": 7308963,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oliveoil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 172486,
+   "g": 350,
+   "name": "lamb_shank_lean"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrot"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 160,
+   "name": "yelpep"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomcan"
+  },
+  {
+   "line": 6,
+   "fdc": 172239,
+   "g": 1.5,
+   "name": "mintdr"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 3.5,
+   "name": "cinn"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 3,
+   "name": "cumin"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "chilli flakes"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt"
+  },
+  {
+   "line": 11,
+   "fdc": 173941,
+   "g": 50,
+   "name": "apricotdr"
+  },
+  {
+   "line": 12,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas_dr"
+  }
+ ]
+}

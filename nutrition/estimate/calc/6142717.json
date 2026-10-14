@@ -1,0 +1,44 @@
+{
+ "id": 6142717,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 32,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 4,
+   "fdc": 171723,
+   "g": 40,
+   "name": "cranberries, dried, sweetened (includes foods for usda's food distribution program)",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Sweetened dried cranberries flagged as added sugar."
+}

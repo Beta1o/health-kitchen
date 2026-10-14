@@ -1,0 +1,79 @@
+{
+ "id": 7181351,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 60,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 750,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170929,
+   "g": 11,
+   "name": "Spices, mustard seed, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 15,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 10,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170497,
+   "g": 15,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 140,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172231,
+   "g": 6,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 170173,
+   "g": 200,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 10,
+   "fdc": 175188,
+   "g": 240,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 10,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Light coconut milk (400 ml) modelled as 200 g canned coconut milk plus water. Large cauliflower guessed 750 g trimmed. Drained can of black beans 240 g."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6026569,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174916,
+   "g": 112,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 171597,
+   "g": 250,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170900,
+   "g": 28,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 3,
+   "fdc": 169096,
+   "g": 34,
+   "name": "Olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 4,
+   "fdc": 168546,
+   "g": 40,
+   "name": "Peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 5,
+   "fdc": 169311,
+   "g": 40,
+   "name": "Artichokes, (globe or french), cooked, boiled, drained, with salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170499,
+   "g": 40,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173420,
+   "g": 57,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 12,
+   "name": "Basil, fresh"
+  }
+ ],
+ "notes": "low-sodium pizza sauce -> low-sodium marinara; reduced-fat Italian cheese -> part-skim mozzarella shredded; marinated artichoke -> boiled artichoke with salt; roasted red peppers -> canned red peppers; 4-inch pitas ~28 g each"
+}

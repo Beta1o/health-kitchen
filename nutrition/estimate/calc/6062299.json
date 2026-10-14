@@ -1,0 +1,97 @@
+{
+ "id": 6062299,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 1440,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 18,
+   "name": "Oil, sesame, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 24,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 171604,
+   "g": 6,
+   "name": "Sauce, peppers, hot, chili, mature red, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 174531,
+   "g": 6,
+   "name": "Sauce, fish, ready-to-serve"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 15,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 40,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 100,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172850,
+   "g": 454,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 174928,
+   "g": 60,
+   "name": "Bread, crumbs, dry, grated, plain"
+  },
+  {
+   "line": 11,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 171316,
+   "g": 1,
+   "name": "Spices, anise seed"
+  },
+  {
+   "line": 13,
+   "fdc": 170390,
+   "g": 560,
+   "name": "Cabbage, chinese (pak-choi), raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170393,
+   "g": 110,
+   "name": "Carrots, raw"
+  }
+ ],
+ "notes": "no-salt-added broth -> home-prepared stock; five-spice -> anise seed; panko 60 g/cup; baby bok choy ~70 g each; bunches guessed (cilantro 40 g, green onion 100 g)"
+}

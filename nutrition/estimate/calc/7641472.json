@@ -1,0 +1,61 @@
+{
+ "id": 7641472,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 1200,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 1,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 300,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 5,
+   "fdc": 172232,
+   "g": 30,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170106,
+   "g": 15,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170847,
+   "g": 280,
+   "name": "cheese, mozzarella, part skim milk"
+  }
+ ],
+ "notes": "4 aubergines guessed at 300 g each; reduced-fat mozzarella as part-skim; salad to serve left out."
+}

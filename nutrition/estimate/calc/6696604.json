@@ -1,0 +1,66 @@
+{
+ "id": 6696604,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 170922,
+   "g": 0.45,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171724,
+   "g": 36,
+   "name": "Currants, zante, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170158,
+   "g": 27,
+   "name": "Nuts, almonds, dry roasted, without salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 360,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 305,
+   "name": "Carrots, raw"
+  }
+ ]
+}

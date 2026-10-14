@@ -1,0 +1,85 @@
+{
+ "id": 6056440,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175175,
+   "g": 360,
+   "name": "salmon, pink, canned, drained solids"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 15,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 173420,
+   "g": 19,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 3,
+   "fdc": 173462,
+   "g": 61,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 35,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 46,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 3,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172233,
+   "g": 0.6,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 9,
+   "fdc": 169878,
+   "g": 0.6,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 10,
+   "fdc": 169249,
+   "g": 240,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168409,
+   "g": 100,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 75,
+   "name": "tomatoes, red, ripe, raw"
+  }
+ ],
+ "notes": "Whole wheat panko -> plain dry bread crumbs; 5-oz cans ~120 g drained each."
+}

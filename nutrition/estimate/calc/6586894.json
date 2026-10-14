@@ -1,0 +1,79 @@
+{
+ "id": 6586894,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 182,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 10,
+   "fdc": 173420,
+   "g": 6,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 11,
+   "fdc": 171850,
+   "g": 136,
+   "name": "bread, wheat, sprouted"
+  }
+ ],
+ "notes": "Fat-free feta and low-sodium Ezekiel bread mapped to regular feta and sprouted wheat bread (sodium overstated)."
+}

@@ -1,0 +1,103 @@
+{
+ "id": 6526217,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 454,
+   "name": "tofu, extra firm, nigari"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 3,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 2,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 174081,
+   "g": 180,
+   "name": "tortillas, whole wheat"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Low-sodium taco seasoning (2 tbsp) modelled as chili powder 8 g + cumin 3 g + garlic powder 2 g + salt 1 g. Low-carb whole wheat wraps modelled as ordinary whole wheat tortillas (45 g each); real low-carb wraps have fewer calories and carbs. Lime wedges as juice of 1 lime."
+}

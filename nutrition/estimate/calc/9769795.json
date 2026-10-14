@@ -1,0 +1,56 @@
+{
+ "id": 9769795,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175026,
+   "g": 180,
+   "name": "pie crust, baked (vegan whole wheat crust, ~180 g)"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 680,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170173,
+   "g": 226,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 50,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 169717,
+   "g": 30,
+   "name": "tapioca, pearl, dry (tapioca starch)"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 167762,
+   "g": 1,
+   "name": "strawberries, raw"
+  }
+ ],
+ "notes": "One vegan whole wheat pie crust approximated as standard baked pie crust, 180 g."
+}

@@ -1,0 +1,49 @@
+{
+ "id": 6274363,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169118,
+   "g": 332,
+   "name": "pears, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 40.5,
+   "name": "oats, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 170568,
+   "g": 14,
+   "name": "nuts, almonds, blanched"
+  },
+  {
+   "line": 6,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 7,
+   "fdc": 170182,
+   "g": 7,
+   "name": "nuts, pecans"
+  }
+ ],
+ "notes": "Zero-calorie sugar-free syrup left out. Almond flour as blanched almonds."
+}

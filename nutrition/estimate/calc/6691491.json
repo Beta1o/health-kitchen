@@ -1,0 +1,36 @@
+{
+ "id": 6691491,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 40,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 300,
+   "name": "Egg, whole, raw, fresh"
+  }
+ ]
+}

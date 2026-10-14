@@ -1,0 +1,61 @@
+{
+ "id": 6593132,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170499,
+   "g": 20,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, roasted"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 182,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171579,
+   "g": 32,
+   "name": "sauce, pesto"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 169249,
+   "g": 240,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes, red, ripe, raw"
+  }
+ ],
+ "notes": "olive oil mayonnaise reduced fat as light mayonnaise; mixed greens as green leaf lettuce"
+}

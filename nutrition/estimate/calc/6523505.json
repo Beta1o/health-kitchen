@@ -1,0 +1,61 @@
+{
+ "id": 6523505,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 402,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169276,
+   "g": 116,
+   "name": "Radishes, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 29,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172233,
+   "g": 1.1,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 30,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 2.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "white wine vinegar as red wine vinegar; coarse salt 1/2 tsp taken as 2.5 g"
+}

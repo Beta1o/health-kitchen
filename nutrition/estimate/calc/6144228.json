@@ -1,0 +1,49 @@
+{
+ "id": 6144228,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172183,
+   "g": 396,
+   "name": "egg white (hard boiled)"
+  },
+  {
+   "line": 1,
+   "fdc": 169079,
+   "g": 84,
+   "name": "cream cheese, low fat (light creamy swiss wedges, 21 g)"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard (Dijon)"
+  },
+  {
+   "line": 3,
+   "fdc": 173472,
+   "g": 5,
+   "name": "horseradish, prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula"
+  }
+ ],
+ "notes": "light cheese wedges modelled as low-fat cream cheese"
+}

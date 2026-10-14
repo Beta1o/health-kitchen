@@ -1,0 +1,109 @@
+{
+ "id": 3905574,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175167,
+   "g": 480,
+   "name": "fish, salmon, atlantic, farmed, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169975,
+   "g": 250,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169383,
+   "g": 60,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172370,
+   "g": 27.2,
+   "name": "oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170106,
+   "g": 8,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173470,
+   "g": 3,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 5,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 172232,
+   "g": 5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 15,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  }
+ ],
+ "notes": "Salmon as Atlantic farmed; lemon counted as juice; handfuls of herbs 3-5 g."
+}

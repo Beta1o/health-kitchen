@@ -1,0 +1,37 @@
+{
+ "id": 7951025,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175167,
+   "g": 150,
+   "name": "salmon atlantic farmed raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 1,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 70,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  }
+ ],
+ "notes": "Five-spice powder approximated as ground cinnamon."
+}

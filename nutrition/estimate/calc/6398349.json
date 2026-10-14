@@ -1,0 +1,61 @@
+{
+ "id": 6398349,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167746,
+   "g": 60,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken, breast, meat only, raw"
+  }
+ ],
+ "notes": "Sliced lemon counted as ~60 g flesh."
+}

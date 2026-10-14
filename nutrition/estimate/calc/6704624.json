@@ -1,0 +1,73 @@
+{
+ "id": 6704624,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 1,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "basil, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 99,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174928,
+   "g": 60,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 25,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 169228,
+   "g": 454,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 9,
+   "fdc": 171597,
+   "g": 680,
+   "name": "marinara sauce, low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 170900,
+   "g": 28,
+   "name": "mozzarella, part-skim, shredded"
+  }
+ ],
+ "notes": "Whole wheat panko: plain dry bread crumbs used, 1 cup = 60 g. All dredging flour counted."
+}

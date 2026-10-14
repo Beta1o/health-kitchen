@@ -1,0 +1,61 @@
+{
+ "id": 7242909,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174081,
+   "g": 480,
+   "name": "tortillas whole wheat (8 x 60 g)"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 364,
+   "name": "tomatoes (2 large)"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "line": 5,
+   "fdc": 168463,
+   "g": 100,
+   "name": "spinach cooked"
+  },
+  {
+   "line": 6,
+   "fdc": 171705,
+   "g": 136,
+   "name": "avocado"
+  },
+  {
+   "line": 7,
+   "fdc": 173414,
+   "g": 80,
+   "name": "cheddar"
+  },
+  {
+   "line": 8,
+   "fdc": 174286,
+   "g": 240,
+   "name": "pinto beans canned drained (tin beans)"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 200,
+   "name": "eggs (4 scrambled)"
+  }
+ ],
+ "notes": "bean type not given: pinto canned drained 240 g; wraps assumed 60 g; optional chilli sauce left out"
+}

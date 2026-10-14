@@ -1,0 +1,73 @@
+{
+ "id": 9144888,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 150,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168897,
+   "g": 164,
+   "name": "wild rice cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 170379,
+   "g": 150,
+   "name": "broccoli raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173801,
+   "g": 220,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 22,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 0.58,
+   "name": "paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  },
+  {
+   "line": 10,
+   "fdc": 171186,
+   "g": 1,
+   "name": "sriracha"
+  }
+ ],
+ "notes": "sweet potato 150 g, half small head broccoli 150 g guessed; sriracha drizzle no amount -> 1 g"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6468501,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168434,
+   "g": 360,
+   "name": "cremini mushrooms, 18 large"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 81,
+   "name": "bread crumbs, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 171247,
+   "g": 10,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 3,
+   "fdc": 174600,
+   "g": 57,
+   "name": "chicken sausage (turkey sausage entry)"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 150,
+   "name": "large onion"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 74,
+   "name": "small red pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "fresh parsley"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Chicken sausage mapped to raw turkey sausage links (no plain chicken sausage entry)."
+}

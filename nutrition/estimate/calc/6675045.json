@@ -1,0 +1,91 @@
+{
+ "id": 6675045,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 600,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172232,
+   "g": 12,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 30,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 173473,
+   "g": 1,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 172183,
+   "g": 396,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170845,
+   "g": 113,
+   "name": "Cheese, mozzarella, whole milk"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "4 large tomatoes seeded taken as 600 g."
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6035386,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167767,
+   "g": 360,
+   "name": "pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 37,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 25,
+   "name": "onions, spring or scallions, raw"
+  }
+ ],
+ "notes": "Canned pineapple assumed juice-packed."
+}

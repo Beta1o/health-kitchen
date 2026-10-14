@@ -1,0 +1,73 @@
+{
+ "id": 7878991,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 200,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170874,
+   "g": 60,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 2,
+   "fdc": 171579,
+   "g": 5,
+   "name": "sauce, pesto"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 150,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 80,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169699,
+   "g": 150,
+   "name": "couscous, dry"
+  },
+  {
+   "line": 7,
+   "fdc": 174536,
+   "g": 200,
+   "name": "soup, chicken broth, ready-to-serve"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring, raw"
+  }
+ ],
+ "notes": "Stock from cube taken as regular ready-to-serve chicken broth; all buttermilk marinade counted."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 9892214,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168398,
+   "g": 544,
+   "name": "corn, sweet, yellow, frozen, unprepared"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 390,
+   "name": "nuts, coconut milk, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 175215,
+   "g": 122,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ]
+}

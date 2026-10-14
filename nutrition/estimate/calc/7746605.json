@@ -1,0 +1,37 @@
+{
+ "id": 7746605,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167959,
+   "g": 75,
+   "name": "Snacks, popcorn, air-popped"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 85,
+   "name": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169103,
+   "g": 2,
+   "name": "Orange peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  }
+ ],
+ "notes": "Popping corn as air-popped popcorn (same weight)."
+}

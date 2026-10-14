@@ -1,0 +1,55 @@
+{
+ "id": 6970983,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169878,
+   "g": 7.5,
+   "name": "syrup sugar free"
+  },
+  {
+   "line": 1,
+   "fdc": 172442,
+   "g": 8.5,
+   "name": "miso"
+  },
+  {
+   "line": 2,
+   "fdc": 172237,
+   "g": 37.5,
+   "name": "vinegar (rice vinegar)"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "cayenne/red pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 31,
+   "name": "orange juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 7,
+   "fdc": 173691,
+   "g": 170,
+   "name": "salmon sockeye raw"
+  }
+ ],
+ "notes": "Sugar-free maple-type syrup as sugar-free syrup."
+}

@@ -1,0 +1,32 @@
+{
+ "id": 2861,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169641,
+   "g": 640,
+   "name": "jams and preserves",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 172474,
+   "g": 48,
+   "name": "soy sauce, reduced sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 172241,
+   "g": 85,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 3,
+   "fdc": 172390,
+   "g": 960,
+   "name": "chicken wing, meat and skin, raw"
+  }
+ ],
+ "notes": "drummette edible weight guessed at 40 g each"
+}

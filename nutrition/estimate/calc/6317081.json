@@ -1,0 +1,73 @@
+{
+ "id": 6317081,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 244,
+   "name": "carrots raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "coriander seed ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 0.3,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "Cod portions taken as 4 oz raw each."
+}

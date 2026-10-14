@@ -1,0 +1,66 @@
+{
+ "id": 7619710,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 168894,
+   "g": 7.8,
+   "name": "flour"
+  },
+  {
+   "line": 3,
+   "fdc": 170933,
+   "g": 0.5,
+   "name": "white pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard wholegrain"
+  },
+  {
+   "line": 5,
+   "fdc": 171269,
+   "g": 309,
+   "name": "milk skimmed"
+  },
+  {
+   "line": 6,
+   "fdc": 171292,
+   "g": 30,
+   "name": "cheddar reduced fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170848,
+   "g": 20,
+   "name": "parmesan hard"
+  },
+  {
+   "line": 8,
+   "fdc": 170383,
+   "g": 300,
+   "name": "brussels sprouts"
+  },
+  {
+   "line": 9,
+   "fdc": 172688,
+   "g": 5,
+   "name": "bread whole-wheat (crumbs)"
+  }
+ ]
+}

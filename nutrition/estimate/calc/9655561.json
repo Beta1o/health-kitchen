@@ -1,0 +1,57 @@
+{
+ "id": 9655561,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 240,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171711,
+   "g": 814,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 53,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 32,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 174832,
+   "g": 22,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 7,
+   "fdc": 169655,
+   "g": 19,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  }
+ ],
+ "notes": "oil-free vegan pie crusts unknown: modeled as 240 g whole-wheat flour (2 crusts); coconut sugar -> brown sugar"
+}

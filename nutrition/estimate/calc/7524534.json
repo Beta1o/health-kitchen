@@ -1,0 +1,60 @@
+{
+ "id": 7524534,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170499,
+   "g": 50,
+   "name": "shallots"
+  },
+  {
+   "line": 2,
+   "fdc": 169242,
+   "g": 125,
+   "name": "mushrooms, shiitake, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 75,
+   "name": "mushrooms, crimini (chestnut), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "white pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce low sodium"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 169079,
+   "g": 50,
+   "name": "cream cheese, low fat (half-fat soft cheese)"
+  }
+ ]
+}

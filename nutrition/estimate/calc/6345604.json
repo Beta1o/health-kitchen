@@ -1,0 +1,66 @@
+{
+ "id": 6345604,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 168893,
+   "g": 15,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 3,
+   "fdc": 172803,
+   "g": 1.15,
+   "name": "baking powder"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170679,
+   "g": 1,
+   "name": "stevia extract powder"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 6.8,
+   "name": "canola oil"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 30.5,
+   "name": "skim milk"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 1.05,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 9,
+   "fdc": 170187,
+   "g": 5.6,
+   "name": "walnuts"
+  }
+ ]
+}

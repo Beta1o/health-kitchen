@@ -1,0 +1,49 @@
+{
+ "id": 7328009,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170404,
+   "g": 280,
+   "name": "chicory, witloof, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 86,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173470,
+   "g": 0.8,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169097,
+   "g": 262,
+   "name": "oranges, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169103,
+   "g": 4,
+   "name": "orange peel, raw"
+  }
+ ],
+ "notes": "Chicory heads guessed at 70 g each; black pepper without amount left out."
+}

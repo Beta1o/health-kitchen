@@ -1,0 +1,73 @@
+{
+ "id": 6437099,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168191,
+   "g": 120,
+   "name": "dates, medjool"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 171604,
+   "g": 15,
+   "name": "sauce, peppers, hot, chili, mature red, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 173691,
+   "g": 452,
+   "name": "fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Harissa as canned hot red chili sauce; 5 dates as medjool 24 g each; lime wedges counted as 30 g juice."
+}

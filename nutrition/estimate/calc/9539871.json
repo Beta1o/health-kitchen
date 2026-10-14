@@ -1,0 +1,43 @@
+{
+ "id": 9539871,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 225,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172456,
+   "g": 95,
+   "name": "Soymilk, original and vanilla, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 2,
+   "fdc": 170568,
+   "g": 100,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 3,
+   "fdc": 172435,
+   "g": 100,
+   "name": "Peanut flour, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  }
+ ],
+ "notes": "almond flour -> blanched almonds; peanut butter powder -> low-fat peanut flour"
+}

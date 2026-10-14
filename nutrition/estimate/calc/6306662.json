@@ -1,0 +1,62 @@
+{
+ "id": 6306662,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173933,
+   "g": 62,
+   "name": "apple juice unsweetened (apple cider)"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 40,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "nutmeg"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 170489,
+   "g": 580,
+   "name": "winter squash raw (delicata)"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley fresh"
+  }
+ ],
+ "notes": "apple cider via unsweetened apple juice; 2 delicata squash assumed 580 g seeded, via winter squash all varieties"
+}

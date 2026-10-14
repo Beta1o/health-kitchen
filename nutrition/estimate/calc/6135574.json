@@ -1,0 +1,30 @@
+{
+ "id": 6135574,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172762,
+   "g": 66,
+   "name": "english muffin, whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 32,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 83,
+   "name": "strawberries"
+  },
+  {
+   "line": 3,
+   "fdc": 170170,
+   "g": 2,
+   "name": "coconut, dried, not sweetened"
+  }
+ ]
+}

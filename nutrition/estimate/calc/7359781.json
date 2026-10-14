@@ -1,0 +1,91 @@
+{
+ "id": 7359781,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 150,
+   "name": "sweet potato"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.5,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion large"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery"
+  },
+  {
+   "line": 7,
+   "fdc": 168398,
+   "g": 180,
+   "name": "sweetcorn frozen"
+  },
+  {
+   "line": 8,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "white pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 168894,
+   "g": 8,
+   "name": "plain flour"
+  },
+  {
+   "line": 10,
+   "fdc": 171613,
+   "g": 10,
+   "name": "reduced-salt stock cube -> bouillon low sodium"
+  },
+  {
+   "line": 11,
+   "fdc": 171269,
+   "g": 309,
+   "name": "skimmed milk"
+  },
+  {
+   "line": 12,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  }
+ ],
+ "notes": "reduced-salt stock cube assumed 10 g low-sodium bouillon"
+}

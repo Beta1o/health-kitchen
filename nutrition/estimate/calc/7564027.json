@@ -1,0 +1,61 @@
+{
+ "id": 7564027,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 300,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 500,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 12,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 12,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 412,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 171292,
+   "g": 75,
+   "name": "cheese, cheddar, reduced fat"
+  },
+  {
+   "line": 8,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Dijon -> yellow mustard; half-fat Cheddar -> reduced-fat cheddar."
+}

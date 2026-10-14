@@ -1,0 +1,38 @@
+{
+ "id": 6068159,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171269,
+   "g": 122,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 0,
+   "fdc": 169698,
+   "g": 7,
+   "name": "cornstarch"
+  },
+  {
+   "line": 1,
+   "fdc": 167687,
+   "g": 19,
+   "name": "whipped topping, frozen, low fat",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 171711,
+   "g": 296,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 332,
+   "name": "strawberries, raw"
+  }
+ ],
+ "notes": "Sugar-free vanilla pudding has no SR entry: nonfat milk plus 7 g cornstarch for the mix."
+}

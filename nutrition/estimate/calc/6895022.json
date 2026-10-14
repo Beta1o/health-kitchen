@@ -1,0 +1,66 @@
+{
+ "id": 6895022,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 30.8,
+   "name": "lime juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 3,
+   "name": "syrup, sugar free"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169097,
+   "g": 552,
+   "name": "oranges, raw (3 large, peeled)"
+  },
+  {
+   "line": 6,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 70,
+   "name": "red onion"
+  },
+  {
+   "line": 8,
+   "fdc": 173475,
+   "g": 6,
+   "name": "mint, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 27,
+   "name": "almonds, slivered"
+  }
+ ]
+}

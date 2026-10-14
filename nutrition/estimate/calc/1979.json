@@ -1,0 +1,67 @@
+{
+ "id": 1979,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 140,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 174030,
+   "g": 454,
+   "name": "beef, ground, 90% lean, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171610,
+   "g": 17,
+   "name": "sauce, worcestershire"
+  },
+  {
+   "line": 6,
+   "fdc": 168836,
+   "g": 15,
+   "name": "syrups, corn, dark (stand-in for Kitchen Bouquet)"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 174915,
+   "g": 360,
+   "name": "bread, pita, white, enriched"
+  }
+ ],
+ "notes": "Kitchen Bouquet browning sauce has no SR entry; dark corn syrup used as stand-in (not counted as added sugar); pita assumed 60 g each"
+}

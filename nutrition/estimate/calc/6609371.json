@@ -1,0 +1,37 @@
+{
+ "id": 6609371,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 340,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sauce, sriracha"
+  },
+  {
+   "line": 3,
+   "fdc": 174928,
+   "g": 3.75,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Thai chili garlic paste as sriracha; whole-wheat panko as plain dry bread crumbs."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 7400058,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 600,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 16,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 18,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173473,
+   "g": 1,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Rosemary sprigs (no amount) 1 g."
+}

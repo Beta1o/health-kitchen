@@ -1,0 +1,67 @@
+{
+ "id": 6447164,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 180,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174592,
+   "g": 30,
+   "name": "turkey bacon, unprepared"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172207,
+   "g": 113,
+   "name": "cream cheese, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 173435,
+   "g": 57,
+   "name": "goat cheese, soft"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne / red pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172689,
+   "g": 25,
+   "name": "whole-wheat bread, toasted"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171247,
+   "g": 5,
+   "name": "parmesan, grated"
+  }
+ ],
+ "notes": "Mini sweet peppers 15 g each; turkey bacon slice 15 g."
+}

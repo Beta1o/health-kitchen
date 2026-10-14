@@ -1,0 +1,67 @@
+{
+ "id": 6174921,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171410,
+   "g": 13.6,
+   "name": "Oil, peanut, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 169928,
+   "g": 175,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.2,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 175188,
+   "g": 255,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 173143,
+   "g": 110,
+   "name": "Tortilla chips, yellow, plain, salted"
+  }
+ ],
+ "notes": "48 blue corn/sweet potato chips assumed ~110 g, as plain salted tortilla chips; fresh oregano as dried at 0.2 g."
+}

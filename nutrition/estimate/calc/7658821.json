@@ -1,0 +1,73 @@
+{
+ "id": 7658821,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 800,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172231,
+   "g": 4,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169246,
+   "g": 250,
+   "name": "leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "spices, pepper, white"
+  },
+  {
+   "line": 8,
+   "fdc": 171613,
+   "g": 10,
+   "name": "soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 174254,
+   "g": 240,
+   "name": "lima beans, large, mature seeds, canned"
+  },
+  {
+   "line": 10,
+   "fdc": 171269,
+   "g": 310,
+   "name": "milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)"
+  }
+ ],
+ "notes": "Two leeks ~250 g trimmed; low-salt stock cube 10 g; butterbeans as canned large lima beans."
+}

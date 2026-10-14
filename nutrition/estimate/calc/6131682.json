@@ -1,0 +1,48 @@
+{
+ "id": 6131682,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169910,
+   "g": 165,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 8,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 5,
+   "name": "lime juice, raw"
+  }
+ ]
+}

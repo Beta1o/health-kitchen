@@ -1,0 +1,37 @@
+{
+ "id": 6541626,
+ "servings": 18,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 9,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 126,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170845,
+   "g": 127.6,
+   "name": "cheese, mozzarella, whole milk"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 172241,
+   "g": 24,
+   "name": "vinegar, balsamic"
+  }
+ ],
+ "notes": "Grape tomatoes 7 g each, basil leaf 0.5 g."
+}

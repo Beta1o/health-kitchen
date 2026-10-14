@@ -1,0 +1,43 @@
+{
+ "id": 6233274,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 360,
+   "name": "asparagus raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon/lime peel"
+  },
+  {
+   "line": 4,
+   "fdc": 167691,
+   "g": 56,
+   "name": "vegetable oil-butter spread reduced calorie"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "1 lb asparagus before trimming -> 360 g; light butter with canola oil as reduced-calorie butter spread"
+}

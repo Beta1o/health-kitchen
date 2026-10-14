@@ -1,0 +1,67 @@
+{
+ "id": 6600449,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 113,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 168546,
+   "g": 57,
+   "name": "peppers, sweet, red, canned (roasted)"
+  },
+  {
+   "line": 3,
+   "fdc": 175250,
+   "g": 57,
+   "name": "chickpeas, canned, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169094,
+   "g": 18,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 1.5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 172240,
+   "g": 5,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 9,
+   "fdc": 169247,
+   "g": 15,
+   "name": "lettuce, romaine"
+  }
+ ],
+ "notes": "Roasted red pepper as canned red peppers; kalamata olives as ripe canned olives."
+}

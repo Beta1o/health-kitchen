@@ -1,0 +1,109 @@
+{
+ "id": 6217481,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 58,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 60,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 60,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170379,
+   "g": 71,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 55,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168389,
+   "g": 180,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171317,
+   "g": 1.1,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 171583,
+   "g": 240,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 13,
+   "fdc": 170138,
+   "g": 411,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 14,
+   "fdc": 175203,
+   "g": 255,
+   "name": "Beans, white, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 15,
+   "fdc": 174288,
+   "g": 170,
+   "name": "Chickpea flour (besan)"
+  },
+  {
+   "line": 16,
+   "fdc": 171247,
+   "g": 20,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Chickpea spaghetti approximated as chickpea flour (besan); orange bell pepper as yellow."
+}

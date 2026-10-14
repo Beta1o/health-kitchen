@@ -1,0 +1,55 @@
+{
+ "id": 6629566,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 120,
+   "name": "celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 907,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.25,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "thyme, dried"
+  }
+ ],
+ "notes": "Low-sodium chicken broth as home-prepared stock."
+}

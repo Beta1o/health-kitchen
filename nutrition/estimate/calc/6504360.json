@@ -1,0 +1,84 @@
+{
+ "id": 6504360,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169228,
+   "g": 164,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170138,
+   "g": 822,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 6,
+   "fdc": 168546,
+   "g": 75,
+   "name": "peppers, sweet red, canned (roasted)"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 10,
+   "fdc": 168421,
+   "g": 21,
+   "name": "kale, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ]
+}

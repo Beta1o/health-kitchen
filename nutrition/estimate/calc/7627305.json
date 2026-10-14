@@ -1,0 +1,90 @@
+{
+ "id": 7627305,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171098,
+   "g": 500,
+   "name": "turkey breast meat only raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174924,
+   "g": 50,
+   "name": "bread, white"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170051,
+   "g": 800,
+   "name": "tomatoes canned in tomato juice"
+  },
+  {
+   "line": 11,
+   "fdc": 175243,
+   "g": 240,
+   "name": "kidney beans canned drained rinsed"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt nonfat"
+  }
+ ]
+}

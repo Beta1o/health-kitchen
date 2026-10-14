@@ -1,0 +1,87 @@
+{
+ "id": 9591321,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 454,
+   "name": "beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 454,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168877,
+   "g": 92.5,
+   "name": "rice, white, long-grain, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171583,
+   "g": 240,
+   "name": "vegetable broth, ready to serve"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 170182,
+   "g": 50,
+   "name": "pecans"
+  },
+  {
+   "line": 7,
+   "fdc": 171723,
+   "g": 30,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 9,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 10,
+   "fdc": 169661,
+   "g": 40,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "ginger, ground"
+  }
+ ],
+ "notes": "Beets taken as raw (cubed then cooked). Salt to taste left out."
+}

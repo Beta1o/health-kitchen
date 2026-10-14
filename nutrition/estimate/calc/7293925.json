@@ -1,0 +1,72 @@
+{
+ "id": 7293925,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 150,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 7.5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 1.6,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 3.6,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 1.2,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169699,
+   "g": 25,
+   "name": "couscous, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 51,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ]
+}

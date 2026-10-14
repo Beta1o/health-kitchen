@@ -1,0 +1,44 @@
+{
+ "id": 9753801,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169130,
+   "g": 200,
+   "name": "plantains, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sauce, hot chile, sriracha"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 6.7,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 174278,
+   "g": 6,
+   "name": "soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 5,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  }
+ ],
+ "notes": "Large ripe plantain ~200 g edible."
+}

@@ -1,0 +1,42 @@
+{
+ "id": 6288870,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 0.5,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 169414,
+   "g": 84,
+   "name": "flaxseed"
+  },
+  {
+   "line": 2,
+   "fdc": 170554,
+   "g": 40,
+   "name": "chia seeds, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171247,
+   "g": 33,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 4,
+   "fdc": 171333,
+   "g": 2.4,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  }
+ ]
+}

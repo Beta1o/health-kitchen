@@ -1,0 +1,79 @@
+{
+ "id": 6618132,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "basil dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170138,
+   "g": 794,
+   "name": "tomatoes canned no salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 480,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 171955,
+   "g": 170,
+   "name": "cod raw"
+  },
+  {
+   "line": 10,
+   "fdc": 175179,
+   "g": 170,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "no-salt crushed tomatoes as no-salt canned tomatoes; low sodium vegetable broth as home-prepared stock"
+}

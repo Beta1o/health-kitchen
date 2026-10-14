@@ -1,0 +1,61 @@
+{
+ "id": 6211842,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171186,
+   "g": 2.5,
+   "name": "sriracha"
+  },
+  {
+   "line": 8,
+   "fdc": 174266,
+   "g": 32,
+   "name": "peanut butter, smooth, with salt"
+  },
+  {
+   "line": 9,
+   "fdc": 174116,
+   "g": 60,
+   "name": "coconut milk beverage"
+  }
+ ],
+ "notes": "Brown sugar substitute modelled as 3 g sucralose sweetener (assumed near zero calorie). Unsweetened coconut milk beverage approximated with the sweetened entry."
+}

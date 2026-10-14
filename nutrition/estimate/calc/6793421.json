@@ -1,0 +1,61 @@
+{
+ "id": 6793421,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172237,
+   "g": 357,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 2.9,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171322,
+   "g": 3.1,
+   "name": "spices, dill weed, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 402,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  }
+ ],
+ "notes": "Stevia left out; whole brine counted though much is discarded."
+}

@@ -1,0 +1,43 @@
+{
+ "id": 9396324,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 75,
+   "name": "bananas raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 170687,
+   "g": 120,
+   "name": "buckwheat flour whole-groat"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon ground"
+  }
+ ],
+ "notes": "non-dairy milk taken as unsweetened almond milk"
+}

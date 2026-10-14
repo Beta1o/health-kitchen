@@ -1,0 +1,66 @@
+{
+ "id": 6904987,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172338,
+   "g": 9.1,
+   "name": "oil, sunflower, high oleic"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170497,
+   "g": 5,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 0.75,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

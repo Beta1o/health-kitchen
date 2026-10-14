@@ -1,0 +1,56 @@
+{
+ "id": 6545769,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170675,
+   "g": 3,
+   "name": "sweeteners, sugar substitute, granulated, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 3,
+   "fdc": 170556,
+   "g": 129,
+   "name": "seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170562,
+   "g": 140,
+   "name": "seeds, sunflower seed kernels, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170567,
+   "g": 108,
+   "name": "nuts, almonds"
+  },
+  {
+   "line": 6,
+   "fdc": 170150,
+   "g": 36,
+   "name": "seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 168158,
+   "g": 28,
+   "name": "blueberries, dried, sweetened"
+  }
+ ],
+ "notes": "Low-calorie brown sugar substitute guessed 3 g of granulated brown sugar substitute; freeze-dried blueberries as dried blueberries (sweetened entry, not flagged as added sugar)."
+}

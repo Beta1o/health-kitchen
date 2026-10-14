@@ -1,0 +1,61 @@
+{
+ "id": 9228604,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 490,
+   "name": "pumpkin puree (2 cups)"
+  },
+  {
+   "line": 2,
+   "fdc": 168944,
+   "g": 372,
+   "name": "wheat flour, whole-grain, soft wheat"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170935,
+   "g": 1,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 137,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170935,
+   "g": 1,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 16,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Pumpkin as 2 cups puree; sauces and vegan parmesan to serve have no amounts and are left out."
+}

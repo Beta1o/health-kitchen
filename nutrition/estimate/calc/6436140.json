@@ -1,0 +1,127 @@
+{
+ "id": 6436140,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 900,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173791,
+   "g": 128,
+   "name": "beans, great northern, canned, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 360,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 6.75,
+   "name": "oil, olive"
+  },
+  {
+   "line": 11,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 171329,
+   "g": 2.5,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 14,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 14,
+   "fdc": 171327,
+   "g": 1,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 15,
+   "fdc": 170051,
+   "g": 397,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 16,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "spices, bay leaf"
+  },
+  {
+   "line": 17,
+   "fdc": 170005,
+   "g": 15,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 18,
+   "fdc": 174527,
+   "g": 5,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  }
+ ],
+ "notes": "Salt-free Creole seasoning modelled as paprika/garlic/onion powder. White beans as low-sodium great northern, half a 15-oz can drained = 128 g."
+}

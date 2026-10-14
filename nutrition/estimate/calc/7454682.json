@@ -1,0 +1,91 @@
+{
+ "id": 7454682,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 440,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 174374,
+   "g": 750,
+   "name": "lamb_leg_lf"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 3,
+   "name": "ginger"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1,
+   "name": "cinnamon stick"
+  },
+  {
+   "line": 6,
+   "fdc": 170919,
+   "g": 0.6,
+   "name": "cardamom"
+  },
+  {
+   "line": 7,
+   "fdc": 171321,
+   "g": 0.8,
+   "name": "cloves"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chilipow"
+  },
+  {
+   "line": 10,
+   "fdc": 170922,
+   "g": 5,
+   "name": "corseed"
+  },
+  {
+   "line": 11,
+   "fdc": 170886,
+   "g": 150,
+   "name": "yog_low"
+  },
+  {
+   "line": 12,
+   "fdc": 170934,
+   "g": 0.35,
+   "name": "saffron"
+  },
+  {
+   "line": 13,
+   "fdc": 169756,
+   "g": 450,
+   "name": "basmati raw"
+  }
+ ],
+ "notes": "450 g basmati taken as dry weight."
+}

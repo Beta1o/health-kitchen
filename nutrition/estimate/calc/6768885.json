@@ -1,0 +1,60 @@
+{
+ "id": 6768885,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170887,
+   "g": 46,
+   "name": "Yogurt, plain, skim milk"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 15,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 82,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 25,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173801,
+   "g": 170,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 7,
+   "fdc": 173709,
+   "g": 362,
+   "name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

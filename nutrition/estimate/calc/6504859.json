@@ -1,0 +1,66 @@
+{
+ "id": 6504859,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 23.4,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 1,
+   "fdc": 171206,
+   "g": 454,
+   "name": "beef, chuck for stew, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 172883,
+   "g": 720,
+   "name": "soup, stock, beef, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 432,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168482,
+   "g": 180,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper, black"
+  }
+ ]
+}

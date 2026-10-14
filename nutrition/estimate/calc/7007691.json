@@ -1,0 +1,37 @@
+{
+ "id": 7007691,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 185,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 150,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 150,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 2.1,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ],
+ "notes": "Spinach taken as 150 g (the example amount given). Medium eggs ~50 g edible each. 7 sprays x 0.3 g."
+}

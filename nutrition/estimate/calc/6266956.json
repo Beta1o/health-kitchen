@@ -1,0 +1,43 @@
+{
+ "id": 6266956,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169878,
+   "g": 15,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 2,
+   "fdc": 170937,
+   "g": 1.2,
+   "name": "tarragon, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 169092,
+   "g": 552,
+   "name": "melons, cantaloupe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Fresh tarragon (no entry) as dried tarragon at one third of fresh weight."
+}

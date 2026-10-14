@@ -1,0 +1,67 @@
+{
+ "id": 6580857,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 169247,
+   "g": 240,
+   "name": "romaine"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 8,
+   "fdc": 175250,
+   "g": 170,
+   "name": "chickpeas canned low sodium"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onion raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley fresh"
+  }
+ ],
+ "notes": "no-salt-added chickpeas via canned low-sodium entry"
+}

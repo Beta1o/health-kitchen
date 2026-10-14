@@ -1,0 +1,25 @@
+{
+ "id": 7568376,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173227,
+   "g": 750,
+   "name": "tea brewed (750 ml water)"
+  },
+  {
+   "line": 3,
+   "fdc": 167746,
+   "g": 58,
+   "name": "lemon slices"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 1,
+   "name": "mint"
+  }
+ ],
+ "notes": "Sweetener tablets left out (no calories). Water counted as brewed tea under the teabag line; ice no item."
+}

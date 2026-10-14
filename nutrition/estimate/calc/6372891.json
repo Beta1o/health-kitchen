@@ -1,0 +1,55 @@
+{
+ "id": 6372891,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 1,
+   "fdc": 172688,
+   "g": 227,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170937,
+   "g": 2,
+   "name": "Spices, tarragon, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 168141,
+   "g": 170,
+   "name": "Cheese, swiss, low fat"
+  },
+  {
+   "line": 4,
+   "fdc": 171477,
+   "g": 454,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "1/2 cup fresh tarragon as 2 g dried tarragon (no fresh entry)"
+}

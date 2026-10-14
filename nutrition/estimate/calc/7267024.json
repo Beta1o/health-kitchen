@@ -1,0 +1,79 @@
+{
+ "id": 7267024,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172428,
+   "g": 225,
+   "name": "Peas, green, split, mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 6,
+   "fdc": 169926,
+   "g": 220,
+   "name": "Papayas, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170106,
+   "g": 25,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170929,
+   "g": 7,
+   "name": "Spices, mustard seed, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 173469,
+   "g": 150,
+   "name": "Vinegar, cider"
+  }
+ ],
+ "notes": "Oil for brushing guessed 5 g; malt vinegar -> cider vinegar (no malt vinegar entry); small papaya 220 g edible."
+}

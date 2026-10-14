@@ -1,0 +1,48 @@
+{
+ "id": 6070270,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174683,
+   "g": 302,
+   "name": "red grapes"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 173470,
+   "g": 1,
+   "name": "fresh thyme leaves"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 175167,
+   "g": 567,
+   "name": "salmon 4 x 5 oz"
+  }
+ ]
+}

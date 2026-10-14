@@ -1,0 +1,97 @@
+{
+ "id": 9122275,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 175188,
+   "g": 255,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 476,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168482,
+   "g": 466,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 196,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168398,
+   "g": 136,
+   "name": "corn, sweet, yellow, frozen, unprepared"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 7,
+   "fdc": 168576,
+   "g": 28,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 480,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 64,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 18,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "toppings (cashew cream, walnut cheese sauce, guacamole, salsa) without amounts left out; jalapenos taken as 2"
+}

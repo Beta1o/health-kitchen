@@ -1,0 +1,55 @@
+{
+ "id": 6946112,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 175167,
+   "g": 454,
+   "name": "fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168389,
+   "g": 385,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 60,
+   "name": "mustard, prepared (dijon)"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ]
+}

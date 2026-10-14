@@ -1,0 +1,49 @@
+{
+ "id": 7624456,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173410,
+   "g": 15,
+   "name": "butter"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 8,
+   "name": "red chilli"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lime rind (lemon peel entry)"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 174220,
+   "g": 420,
+   "name": "scallops, 12"
+  }
+ ],
+ "notes": "12 scallops guessed 35 g each; rocket to serve (no amount) left out."
+}

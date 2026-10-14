@@ -1,0 +1,97 @@
+{
+ "id": 6429648,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174290,
+   "g": 397,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 74,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 168429,
+   "g": 163,
+   "name": "lettuce, butterhead, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 174524,
+   "g": 125,
+   "name": "sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "whole lime taken as its juice"
+}

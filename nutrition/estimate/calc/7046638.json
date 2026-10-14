@@ -1,0 +1,37 @@
+{
+ "id": 7046638,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 35,
+   "name": "oats"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.9,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171688,
+   "g": 150,
+   "name": "apple raw with skin"
+  },
+  {
+   "line": 4,
+   "fdc": 171267,
+   "g": 25.8,
+   "name": "milk 2%"
+  }
+ ],
+ "notes": "Semi-skimmed milk as 2% milk; artificial sweetener as sucralose."
+}

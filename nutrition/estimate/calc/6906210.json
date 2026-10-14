@@ -1,0 +1,79 @@
+{
+ "id": 6906210,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.75,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 169228,
+   "g": 800,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168114,
+   "g": 452,
+   "name": "Cheese, cottage, lowfat, 1% milkfat, no sodium added"
+  },
+  {
+   "line": 3,
+   "fdc": 170900,
+   "g": 56,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 4,
+   "fdc": 172183,
+   "g": 66,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "Spices, parsley, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 171597,
+   "g": 695,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 11,
+   "fdc": 171247,
+   "g": 10,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "2 medium eggplants peeled taken as 800 g."
+}

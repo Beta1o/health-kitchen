@@ -1,0 +1,42 @@
+{
+ "id": 7982930,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170028,
+   "g": 400,
+   "name": "potatoes, white, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169287,
+   "g": 250,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 250,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "pepper, black"
+  }
+ ]
+}

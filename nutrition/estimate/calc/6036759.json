@@ -1,0 +1,62 @@
+{
+ "id": 6036759,
+ "servings": 6,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 171689,
+   "g": 322,
+   "name": "apples without skin"
+  },
+  {
+   "line": 3,
+   "fdc": 171689,
+   "g": 322,
+   "name": "apples without skin"
+  },
+  {
+   "line": 4,
+   "fdc": 173582,
+   "g": 28,
+   "name": "margarine spread 60%"
+  },
+  {
+   "line": 5,
+   "fdc": 170672,
+   "g": 24,
+   "name": "brown sugar blend (sugar+sucralose)",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 0.28,
+   "name": "nutmeg"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170896,
+   "g": 126,
+   "name": "cheese spread reduced fat (6 lite wedges x 21 g)"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 40,
+   "name": "almonds"
+  }
+ ],
+ "notes": "brown sugar substitute taken as sugar/sucralose brown blend; lite cheese wedges via reduced-fat cheese spread; optional salt included"
+}

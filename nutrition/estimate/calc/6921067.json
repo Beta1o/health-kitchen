@@ -1,0 +1,43 @@
+{
+ "id": 6921067,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 340,
+   "name": "broccoli, raw (broccoli slaw)"
+  },
+  {
+   "line": 1,
+   "fdc": 168165,
+   "g": 36,
+   "name": "raisins, seedless"
+  },
+  {
+   "line": 2,
+   "fdc": 174592,
+   "g": 90,
+   "name": "bacon, turkey, unprepared"
+  },
+  {
+   "line": 3,
+   "fdc": 173594,
+   "g": 60,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 4,
+   "fdc": 170887,
+   "g": 46,
+   "name": "yogurt, plain, skim milk"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  }
+ ],
+ "notes": "Turkey bacon 6 slices x 15 g raw."
+}

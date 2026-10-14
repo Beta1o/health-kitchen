@@ -1,0 +1,68 @@
+{
+ "id": 9184828,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 225,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 368,
+   "name": "Pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 168820,
+   "g": 82,
+   "added_sugar": true,
+   "name": "Molasses"
+  },
+  {
+   "line": 3,
+   "fdc": 172446,
+   "g": 61,
+   "name": "Soymilk, original and vanilla, unfortified"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 270,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 167976,
+   "g": 56,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  }
+ ]
+}

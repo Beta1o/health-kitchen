@@ -1,0 +1,85 @@
+{
+ "id": 9079053,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 8,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170499,
+   "g": 8,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 10,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 2,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 105,
+   "name": "cashews, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170173,
+   "g": 368,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 169736,
+   "g": 454,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 9,
+   "fdc": 173806,
+   "g": 1,
+   "name": "peanuts, dry-roasted, unsalted"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Thai red curry paste (30 g) has no entry: modelled as garlic 8 g + shallot 8 g + red chili 10 g + salt 2 g. Garnish peanuts/basil 1 g each; lime wedges and optional flakes left out."
+}

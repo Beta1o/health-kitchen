@@ -1,0 +1,25 @@
+{
+ "id": 6352574,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173417,
+   "g": 226,
+   "name": "cottage cheese nonfat -> lowfat 1%"
+  },
+  {
+   "line": 1,
+   "fdc": 169124,
+   "g": 165,
+   "name": "pineapple"
+  },
+  {
+   "line": 2,
+   "fdc": 170187,
+   "g": 15,
+   "name": "walnuts"
+  }
+ ],
+ "notes": "non-fat cottage cheese modelled with lowfat 1% (SR nonfat is dry curd)"
+}

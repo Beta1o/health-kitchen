@@ -1,0 +1,30 @@
+{
+ "id": 6736784,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 9,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170150,
+   "g": 1.5,
+   "name": "sesame seeds"
+  }
+ ]
+}

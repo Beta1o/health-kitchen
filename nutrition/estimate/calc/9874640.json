@@ -1,0 +1,26 @@
+{
+ "id": 9874640,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 30,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 3,
+   "fdc": 168191,
+   "g": 36,
+   "name": "Dates, medjool"
+  }
+ ],
+ "notes": "maple syrup 1.5 tbsp and 1.5 Medjool dates (midpoints); unstrained"
+}

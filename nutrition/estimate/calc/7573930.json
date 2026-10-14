@@ -1,0 +1,91 @@
+{
+ "id": 7573930,
+ "servings": 25,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 15,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 51.6,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 100,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 7,
+   "fdc": 171315,
+   "g": 1.9,
+   "name": "allspice (mixed spice)"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 169097,
+   "g": 393,
+   "name": "oranges raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169103,
+   "g": 4,
+   "name": "orange peel"
+  },
+  {
+   "line": 10,
+   "fdc": 169103,
+   "g": 8,
+   "name": "orange peel"
+  },
+  {
+   "line": 11,
+   "fdc": 168165,
+   "g": 80,
+   "name": "raisins"
+  },
+  {
+   "line": 12,
+   "fdc": 169134,
+   "g": 11,
+   "name": "pomegranate"
+  }
+ ],
+ "notes": "Almond extract as vanilla extract; dried mixed fruit as raisins; mixed spice as allspice."
+}

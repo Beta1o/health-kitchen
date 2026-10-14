@@ -1,0 +1,104 @@
+{
+ "id": 6338930,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "oil, pam cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 12,
+   "name": "sweeteners, tabletop, sucralose, splenda packets"
+  },
+  {
+   "line": 2,
+   "fdc": 171695,
+   "g": 122,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 173462,
+   "g": 125,
+   "name": "egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 120,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 7,
+   "fdc": 173904,
+   "g": 81,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 172804,
+   "g": 9.2,
+   "name": "leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 9,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 10,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 171326,
+   "g": 0.6,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 170393,
+   "g": 220,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 172207,
+   "g": 227,
+   "name": "cheese, cream, fat free"
+  },
+  {
+   "line": 14,
+   "fdc": 169661,
+   "g": 40,
+   "added_sugar": true,
+   "name": "syrups, maple"
+  },
+  {
+   "line": 16,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Brown sugar substitute taken as sucralose granular 12 g (if a sugar blend was meant, carbs are underestimated); Truvia left out (no calories)."
+}

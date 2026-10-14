@@ -1,0 +1,42 @@
+{
+ "id": 6931873,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 454,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170151,
+   "g": 18,
+   "name": "sesame seeds, toasted"
+  }
+ ]
+}

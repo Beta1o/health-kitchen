@@ -1,0 +1,48 @@
+{
+ "id": 7161660,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 200,
+   "name": "potatoes"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 300,
+   "name": "sweet potatoes"
+  },
+  {
+   "line": 2,
+   "fdc": 170383,
+   "g": 500,
+   "name": "brussels sprouts"
+  },
+  {
+   "line": 3,
+   "fdc": 170933,
+   "g": 0.5,
+   "name": "white pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion large"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 200,
+   "name": "eggs"
+  }
+ ]
+}

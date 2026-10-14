@@ -1,0 +1,91 @@
+{
+ "id": 6020482,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 160,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 30.0, 'calories': 86.0, 'carbohydrates_g': 20.12, 'cholesterol_mg': 0.0, 'fat_g': 0.05, 'fiber_g': 3.0, 'phosphorus_mg': 47.0, 'potassium_mg': 337.0, 'protein_g': 1.57, 'sodium_mg': 55.0, 'sugars_g': 4.18}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175238,
+   "g": 255,
+   "name": "beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 175036,
+   "g": 192,
+   "name": "tortillas, ready-to-bake or -fry, corn"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 12,
+   "fdc": 172216,
+   "g": 25,
+   "name": "cheese, mexican, blend, reduced fat"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "No-salt-added black beans as low-sodium canned black beans; small corn tortilla 24 g."
+}

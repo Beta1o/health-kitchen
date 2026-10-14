@@ -1,0 +1,55 @@
+{
+ "id": 9149196,
+ "servings": 25,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 122,
+   "name": "Pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 112,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 150,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 171332,
+   "g": 3.4,
+   "name": "Spices, pumpkin pie spice"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  }
+ ]
+}

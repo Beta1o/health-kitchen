@@ -1,0 +1,61 @@
+{
+ "id": 9986100,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171726,
+   "g": 150,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 122,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 172475,
+   "g": 454,
+   "name": "tofu, firm"
+  },
+  {
+   "line": 4,
+   "fdc": 172470,
+   "g": 172,
+   "name": "peanut butter, smooth, without salt"
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 212,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "cocoa powder, unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  }
+ ]
+}

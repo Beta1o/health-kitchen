@@ -1,0 +1,61 @@
+{
+ "id": 9627687,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 546,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 15,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Half recipe oil-free chimichurri not given: guessed parsley 15 g, garlic 6 g, red wine vinegar 15 g, oregano, chili flakes."
+}

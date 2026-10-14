@@ -1,0 +1,73 @@
+{
+ "id": 6293286,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 48,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw (1 lb, then cooked and shredded)"
+  },
+  {
+   "line": 8,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot"
+  },
+  {
+   "line": 10,
+   "fdc": 170567,
+   "g": 27,
+   "name": "almonds (slivered)"
+  },
+  {
+   "line": 11,
+   "fdc": 168429,
+   "g": 45,
+   "name": "lettuce, butterhead"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6807069,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 1,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 169074,
+   "g": 122,
+   "name": "Tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168546,
+   "g": 75,
+   "name": "Peppers, sweet, red, canned, solids and liquids"
+  }
+ ],
+ "notes": "Italian seasoning as dried oregano; roasted red peppers (jarred) as canned sweet red peppers, 1/2 cup = 75 g."
+}

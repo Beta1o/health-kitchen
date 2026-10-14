@@ -1,0 +1,74 @@
+{
+ "id": 6024800,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 350,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 128,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 30,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 172240,
+   "g": 60,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 9,
+   "fdc": 171722,
+   "g": 100,
+   "name": "cranberries, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "'2 whole' chicken breasts taken as 2 x 175 g raw. White wine vinegar mapped to red wine vinegar."
+}

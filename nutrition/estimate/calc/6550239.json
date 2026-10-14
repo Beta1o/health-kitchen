@@ -1,0 +1,73 @@
+{
+ "id": 6550239,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod (white fish)"
+  },
+  {
+   "line": 1,
+   "fdc": 170886,
+   "g": 61,
+   "name": "plain yogurt"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Dijon mustard (prepared mustard)"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon zest"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, large"
+  },
+  {
+   "line": 7,
+   "fdc": 174928,
+   "g": 75,
+   "name": "panko bread crumbs (dry bread crumbs entry)"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 9,
+   "fdc": 174527,
+   "g": 2.4,
+   "name": "hot sauce"
+  },
+  {
+   "line": 10,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "vegetable oil"
+  }
+ ],
+ "notes": "Panko 1 1/4 cup estimated 75 g."
+}

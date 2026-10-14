@@ -1,0 +1,32 @@
+{
+ "id": 7106172,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170273,
+   "g": 100,
+   "name": "dark chocolate 70-85%",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 210,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg white"
+  },
+  {
+   "line": 4,
+   "fdc": 167755,
+   "g": 250,
+   "name": "raspberries"
+  }
+ ],
+ "notes": "sugar-free sweetener 20 g (likely polyol, ~no calories) left out"
+}

@@ -1,0 +1,54 @@
+{
+ "id": 6007046,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 170189,
+   "g": 15,
+   "name": "tahini"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 4,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.78,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 602,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  }
+ ]
+}

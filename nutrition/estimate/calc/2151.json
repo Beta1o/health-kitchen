@@ -1,0 +1,73 @@
+{
+ "id": 2151,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175180,
+   "g": 120,
+   "name": "shrimp, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 30,
+   "name": "scallions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168578,
+   "g": 30,
+   "name": "peppers, hungarian (banana pepper)"
+  },
+  {
+   "line": 4,
+   "fdc": 170497,
+   "g": 15,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 46,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 169124,
+   "g": 165,
+   "name": "pineapple, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "12 large cooked shrimp assumed 10 g each; banana pepper as hungarian pepper"
+}

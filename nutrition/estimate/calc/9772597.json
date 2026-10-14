@@ -1,0 +1,79 @@
+{
+ "id": 9772597,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 150,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 168898,
+   "g": 100,
+   "name": "rice flour, brown"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171726,
+   "g": 147,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 9,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 10,
+   "fdc": 167749,
+   "g": 12,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 81,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Date syrup made from the dates and water; remaining date syrup (line 12) already counted in the dates."
+}

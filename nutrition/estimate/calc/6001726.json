@@ -1,0 +1,84 @@
+{
+ "id": 6001726,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 454,
+   "name": "potatoes, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 2,
+   "fdc": 169961,
+   "g": 340,
+   "name": "green beans"
+  },
+  {
+   "line": 3,
+   "fdc": 168429,
+   "g": 330,
+   "name": "lettuce, butterhead"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 150,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 5,
+   "fdc": 168409,
+   "g": 52,
+   "name": "cucumber"
+  },
+  {
+   "line": 6,
+   "fdc": 169094,
+   "g": 14,
+   "name": "olives, ripe (kalamata)"
+  },
+  {
+   "line": 7,
+   "fdc": 171420,
+   "g": 136,
+   "name": "salad dressing, french, fat-free"
+  },
+  {
+   "line": 8,
+   "fdc": 174290,
+   "g": 340,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 9,
+   "fdc": 172473,
+   "g": 10.7,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Dijon mustard"
+  },
+  {
+   "line": 11,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "pepper"
+  }
+ ]
+}

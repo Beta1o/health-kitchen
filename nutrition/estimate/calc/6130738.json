@@ -1,0 +1,97 @@
+{
+ "id": 6130738,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 133,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169986,
+   "g": 107,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170924,
+   "g": 4,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 9,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 170138,
+   "g": 397,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 11,
+   "fdc": 170173,
+   "g": 68,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 12,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 13,
+   "fdc": 173801,
+   "g": 198,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 30,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "lite coconut milk 170 g modelled as 40% regular canned coconut milk (68 g); low-sodium vegetable broth as home-prepared stock; 7 oz chickpeas taken as drained weight; 1 bunch cilantro garnish taken as 30 g"
+}

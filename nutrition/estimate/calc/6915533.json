@@ -1,0 +1,109 @@
+{
+ "id": 6915533,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169385,
+   "g": 234,
+   "name": "fennel bulb raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169295,
+   "g": 560,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170935,
+   "g": 0.7,
+   "name": "sage ground"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 960,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 12,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.7,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "bay leaf"
+  },
+  {
+   "line": 11,
+   "fdc": 168421,
+   "g": 130,
+   "name": "kale raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 13,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "all-purpose flour"
+  },
+  {
+   "line": 14,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 15,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme dried"
+  },
+  {
+   "line": 16,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170894,
+   "g": 122,
+   "name": "greek yogurt nonfat"
+  }
+ ],
+ "notes": "herbes de Provence as dried thyme"
+}

@@ -1,0 +1,66 @@
+{
+ "id": 6662295,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171028,
+   "g": 20.4,
+   "name": "oil, grapeseed"
+  },
+  {
+   "line": 1,
+   "fdc": 170005,
+   "g": 45,
+   "name": "green onions"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 3,
+   "name": "Thai chile"
+  },
+  {
+   "line": 3,
+   "fdc": 169910,
+   "g": 330,
+   "name": "mango"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 174200,
+   "g": 567,
+   "name": "halibut, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ]
+}

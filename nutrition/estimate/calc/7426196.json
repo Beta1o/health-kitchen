@@ -1,0 +1,61 @@
+{
+ "id": 7426196,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 170417,
+   "g": 300,
+   "name": "parsnips"
+  },
+  {
+   "line": 4,
+   "fdc": 171689,
+   "g": 150,
+   "name": "apple, without skin (cooking apple)"
+  },
+  {
+   "line": 5,
+   "fdc": 171583,
+   "g": 600,
+   "name": "vegetable broth, ready to serve"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 170417,
+   "g": 100,
+   "name": "parsnip (crisps garnish)"
+  },
+  {
+   "line": 8,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil"
+  }
+ ],
+ "notes": "Vegetable stock as regular ready-to-serve broth. Small parsnip for garnish taken as 100 g."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6162408,
+ "servings": 15,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "cashews, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 143,
+   "name": "almonds"
+  },
+  {
+   "line": 2,
+   "fdc": 170182,
+   "g": 50,
+   "name": "pecans"
+  },
+  {
+   "line": 3,
+   "fdc": 170184,
+   "g": 62,
+   "name": "pistachios, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171723,
+   "g": 60,
+   "name": "cranberries, dried (SR entry is sweetened)"
+  },
+  {
+   "line": 6,
+   "fdc": 172183,
+   "g": 33,
+   "name": "egg white"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  },
+  {
+   "line": 8,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ],
+ "notes": "erythritol left out (no calories); unsweetened dried cranberries only exist as sweetened in SR, not flagged as added sugar"
+}

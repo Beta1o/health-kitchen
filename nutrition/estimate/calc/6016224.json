@@ -1,0 +1,36 @@
+{
+ "id": 6016224,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172688,
+   "g": 50,
+   "name": "bread, whole-wheat (thin slices)"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171985,
+   "g": 85,
+   "name": "smoked salmon, lox"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 167746,
+   "g": 8,
+   "name": "lemons, raw (wedge)"
+  }
+ ]
+}

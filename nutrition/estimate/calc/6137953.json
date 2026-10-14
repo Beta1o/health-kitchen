@@ -1,0 +1,48 @@
+{
+ "id": 6137953,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171329,
+   "g": 13.8,
+   "name": "paprika"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 9.7,
+   "name": "garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 7,
+   "name": "onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 4.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 3.6,
+   "name": "cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 1.8,
+   "name": "dried thyme"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 2,
+   "name": "dried oregano"
+  }
+ ]
+}

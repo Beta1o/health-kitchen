@@ -1,0 +1,37 @@
+{
+ "id": 9556376,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 450,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 170080,
+   "g": 240,
+   "name": "Peppers, jalapeno, canned, solids and liquids"
+  },
+  {
+   "line": 2,
+   "fdc": 170562,
+   "g": 70,
+   "name": "Seeds, sunflower seed kernels, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  }
+ ],
+ "notes": "Jar of pickled jalapenos incl. juices -> canned jalapenos solids and liquids, 240 g."
+}

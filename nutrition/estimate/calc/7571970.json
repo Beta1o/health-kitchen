@@ -1,0 +1,91 @@
+{
+ "id": 7571970,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169246,
+   "g": 178,
+   "name": "leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 0.5,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 168482,
+   "g": 500,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 30.0, 'calories': 86.0, 'carbohydrates_g': 20.12, 'cholesterol_mg': 0.0, 'fat_g': 0.05, 'fiber_g': 3.0, 'phosphorus_mg': 47.0, 'potassium_mg': 337.0, 'protein_g': 1.57, 'sodium_mg': 55.0, 'sugars_g': 4.18}\n"
+  },
+  {
+   "line": 8,
+   "fdc": 171613,
+   "g": 10,
+   "name": "soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 168398,
+   "g": 225,
+   "name": "corn, sweet, yellow, frozen, kernels cut off cob, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 4.0, 'calories': 88.0, 'carbohydrates_g': 20.71, 'cholesterol_mg': 0.0, 'fat_g': 0.78, 'fiber_g': 2.1, 'phosphorus_mg': 70.0, 'potassium_mg': 213.0, 'protein_g': 3.02, 'sodium_mg': 3.0, 'sugars_g': 2.5}\n"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 12,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 13,
+   "fdc": 169994,
+   "g": 10,
+   "name": "chives, raw"
+  }
+ ],
+ "notes": "1 litre low-salt vegetable stock as 10 g low-sodium bouillon (water not counted)."
+}

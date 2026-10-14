@@ -1,0 +1,79 @@
+{
+ "id": 6618374,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 128,
+   "name": "carrots raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "basil dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes canned no salt"
+  },
+  {
+   "line": 7,
+   "fdc": 173801,
+   "g": 260,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 8,
+   "fdc": 172240,
+   "g": 60,
+   "name": "wine vinegar"
+  },
+  {
+   "line": 9,
+   "fdc": 171583,
+   "g": 480,
+   "name": "vegetable broth"
+  },
+  {
+   "line": 10,
+   "fdc": 174288,
+   "g": 113,
+   "name": "chickpea flour"
+  },
+  {
+   "line": 11,
+   "fdc": 168421,
+   "g": 42,
+   "name": "kale raw"
+  }
+ ],
+ "notes": "Chickpea penne approximated as chickpea flour; white wine vinegar as wine vinegar; low-sodium canned chickpeas as rinsed canned chickpeas."
+}

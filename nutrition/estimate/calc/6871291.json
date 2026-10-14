@@ -1,0 +1,73 @@
+{
+ "id": 6871291,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169096,
+   "g": 9,
+   "name": "Olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 58,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 21,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 174916,
+   "g": 128,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 6,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 7,
+   "fdc": 169311,
+   "g": 84,
+   "name": "Artichokes, (globe or french), cooked, boiled, drained, with salt"
+  },
+  {
+   "line": 8,
+   "fdc": 171477,
+   "g": 140,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 9,
+   "fdc": 173420,
+   "g": 50,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  }
+ ],
+ "notes": "Kalamata olives -> green pickled olives (closer sodium); canned artichoke hearts -> boiled with salt; reduced-fat feta -> regular feta (no RF entry)."
+}

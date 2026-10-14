@@ -1,0 +1,30 @@
+{
+ "id": 6466720,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 101,
+   "name": "banana"
+  },
+  {
+   "line": 1,
+   "fdc": 168209,
+   "g": 125,
+   "name": "raspfroz"
+  },
+  {
+   "line": 2,
+   "fdc": 170915,
+   "g": 57,
+   "name": "Greek berry yogurt nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 122,
+   "name": "skim"
+  }
+ ]
+}

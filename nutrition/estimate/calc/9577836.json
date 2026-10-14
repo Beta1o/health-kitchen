@@ -1,0 +1,73 @@
+{
+ "id": 9577836,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 680,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 680,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170162,
+   "g": 103,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169717,
+   "g": 40,
+   "name": "tapioca, pearl, dry (for tapioca starch)"
+  },
+  {
+   "line": 6,
+   "fdc": 175043,
+   "g": 21,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171319,
+   "g": 5.4,
+   "name": "spices, chili powder"
+  }
+ ],
+ "notes": "tapioca starch as pearl tapioca; nutritional yeast as active dry yeast"
+}

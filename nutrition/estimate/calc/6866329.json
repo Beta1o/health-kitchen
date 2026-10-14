@@ -1,0 +1,38 @@
+{
+ "id": 6866329,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169118,
+   "g": 620,
+   "name": "pears, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173410,
+   "g": 9.3,
+   "name": "butter, salted"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170187,
+   "g": 39,
+   "name": "nuts, walnuts, english"
+  }
+ ],
+ "notes": "Pears 1.5 lb whole, 620 g after coring. Honey option used."
+}

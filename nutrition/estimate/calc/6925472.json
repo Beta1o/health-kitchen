@@ -1,0 +1,91 @@
+{
+ "id": 6925472,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 223,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 301,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 119,
+   "name": "yellow bell pepper (for orange)"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onion, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 61.5,
+   "name": "lime juice"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared (Dijon)"
+  },
+  {
+   "line": 11,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "Orange bell pepper as yellow bell pepper."
+}

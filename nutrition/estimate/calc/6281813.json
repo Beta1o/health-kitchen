@@ -1,0 +1,37 @@
+{
+ "id": 6281813,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167755,
+   "g": 185,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 120,
+   "name": "vinegar, distilled (rice vinegar)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "erythritol omitted (no calories); rice wine vinegar as distilled vinegar"
+}

@@ -1,0 +1,49 @@
+{
+ "id": 9741235,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 34,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169717,
+   "g": 8,
+   "name": "Tapioca, pearl, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 5,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 7.5,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 168013,
+   "g": 156,
+   "name": "Bread, multi-grain (includes whole-grain)"
+  },
+  {
+   "line": 7,
+   "fdc": 172347,
+   "g": 21,
+   "name": "Margarine, regular, 80% fat, composite, tub, with salt"
+  }
+ ],
+ "notes": "nutritional yeast not in SR -> active dry yeast; vegan butter -> margarine (1.5 tbsp); optional tomato/avocado slices left out"
+}

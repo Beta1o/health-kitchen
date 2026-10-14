@@ -1,0 +1,103 @@
+{
+ "id": 7682200,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 144,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 5,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170026,
+   "g": 600,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170497,
+   "g": 15,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 25,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 500,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 500,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 10,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 11,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 12,
+   "fdc": 172231,
+   "g": 3,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 13,
+   "fdc": 171324,
+   "g": 3.7,
+   "name": "Spices, fenugreek seed"
+  },
+  {
+   "line": 14,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 15,
+   "fdc": 170924,
+   "g": 2,
+   "name": "Spices, curry powder"
+  }
+ ],
+ "notes": "Low-salt vegetable stock as home-prepared stock; garam masala as curry powder; bunch coriander ~25 g; alternative tandoori powder line not counted."
+}

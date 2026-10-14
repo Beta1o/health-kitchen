@@ -1,0 +1,80 @@
+{
+ "id": 7017274,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172623,
+   "g": 450,
+   "name": "Lamb, New Zealand, imported, tenderloin, separable lean only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 169642,
+   "g": 40,
+   "name": "Jellies",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171583,
+   "g": 400,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 3.6,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 169699,
+   "g": 175,
+   "name": "Couscous, dry"
+  },
+  {
+   "line": 7,
+   "fdc": 173475,
+   "g": 1.5,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 492,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 8,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  }
+ ],
+ "notes": "Lamb fillet entered as lean lamb tenderloin; redcurrant jelly as jelly."
+}

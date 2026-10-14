@@ -1,0 +1,32 @@
+{
+ "id": 6580283,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 236,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171269,
+   "g": 81,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 2,
+   "fdc": 169593,
+   "g": 10.8,
+   "name": "Cocoa, dry powder, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 167687,
+   "g": 72,
+   "name": "Whipped topping, frozen, low fat",
+   "added_sugar": true
+  }
+ ],
+ "notes": "fat-free whipped topping -> frozen low-fat whipped topping (1 cup = 72 g)"
+}

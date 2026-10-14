@@ -1,0 +1,79 @@
+{
+ "id": 6051058,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 144,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174272,
+   "g": 170,
+   "name": "Tempeh"
+  },
+  {
+   "line": 5,
+   "fdc": 170026,
+   "g": 138,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 31,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 720,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 170016,
+   "g": 134,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 11,
+   "fdc": 174904,
+   "g": 60,
+   "name": "Biscuits, plain or buttermilk, refrigerated dough, lower fat"
+  }
+ ],
+ "notes": "2 lower-fat refrigerated biscuits assumed 30 g each"
+}

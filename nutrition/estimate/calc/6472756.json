@@ -1,0 +1,67 @@
+{
+ "id": 6472756,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173717,
+   "g": 567,
+   "name": "trout rainbow farmed raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 1,
+   "name": "olive oil spray"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 44,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt pinch"
+  },
+  {
+   "line": 4,
+   "fdc": 172749,
+   "g": 35,
+   "name": "crackers whole-wheat"
+  },
+  {
+   "line": 5,
+   "fdc": 171846,
+   "g": 35,
+   "name": "Ritz whole wheat -> snack crackers with whole wheat"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 0.8,
+   "name": "thyme fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 168576,
+   "g": 14,
+   "name": "hot chili (jalapeno)"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 75,
+   "name": "green onion raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173582,
+   "g": 14,
+   "name": "margarine spread 60% fat"
+  }
+ ],
+ "notes": "trout weight from serving size (4 x 5 oz edible); crushed cracker cup weight guessed 70 g/cup"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6975487,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169998,
+   "g": 715,
+   "name": "corn kernels from 5 large ears"
+  },
+  {
+   "line": 1,
+   "fdc": 170932,
+   "g": 1.8,
+   "name": "cayenne"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "cumin"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 45,
+   "name": "lime juice rubbed on (part of 3 limes)"
+  }
+ ],
+ "notes": "lime halves rubbed on corn: assumed 45 g juice"
+}

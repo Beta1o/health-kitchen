@@ -1,0 +1,66 @@
+{
+ "id": 6850173,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 300,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173417,
+   "g": 113,
+   "name": "Cheese, cottage, lowfat, 1% milkfat"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 64,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 44,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168421,
+   "g": 15,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 75,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "Salt, table"
+  }
+ ]
+}

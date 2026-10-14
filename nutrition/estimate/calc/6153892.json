@@ -1,0 +1,110 @@
+{
+ "id": 6153892,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174030,
+   "g": 454,
+   "name": "Beef, ground, 90% lean meat / 10% fat, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175245,
+   "g": 250,
+   "name": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 173791,
+   "g": 250,
+   "name": "Beans, great northern, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 7,
+   "fdc": 175238,
+   "g": 250,
+   "name": "Beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 411,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 170459,
+   "g": 170,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 10,
+   "fdc": 172889,
+   "g": 240,
+   "name": "Soup, beef broth, less/reduced sodium, ready to serve"
+  },
+  {
+   "line": 11,
+   "fdc": 171319,
+   "g": 16,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 12,
+   "fdc": 171328,
+   "g": 2,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 14,
+   "fdc": 170672,
+   "g": 2.3,
+   "added_sugar": true,
+   "name": "Sweeteners, for baking, brown, contains sugar and sucralose"
+  },
+  {
+   "line": 15,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 16,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "Spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "lean ground beef as 90% lean; each drained low-sodium can taken as 250 g (low-sodium solids-and-liquid entries); stevia brown sugar blend as sugar/sucralose brown baking blend"
+}

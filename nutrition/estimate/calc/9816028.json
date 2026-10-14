@@ -1,0 +1,97 @@
+{
+ "id": 9816028,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 164,
+   "name": "redp"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 372,
+   "name": "zucc"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 333,
+   "name": "swp"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 227,
+   "name": "crem"
+  },
+  {
+   "line": 4,
+   "fdc": 168398,
+   "g": 136,
+   "name": "cornfz"
+  },
+  {
+   "line": 5,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickr"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 960,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 7,
+   "fdc": 174294,
+   "g": 129,
+   "name": "pb"
+  },
+  {
+   "line": 8,
+   "fdc": 174278,
+   "g": 48,
+   "name": "tamari"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "gingerg"
+  },
+  {
+   "line": 11,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garp"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "cayenne"
+  },
+  {
+   "line": 13,
+   "fdc": 170005,
+   "g": 1,
+   "name": "gonion"
+  },
+  {
+   "line": 15,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cil"
+  }
+ ],
+ "notes": "Toppings (chopped peanuts, sriracha, jalapeno, lime) no item; herbs 1 g."
+}

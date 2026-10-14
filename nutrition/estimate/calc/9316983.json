@@ -1,0 +1,49 @@
+{
+ "id": 9316983,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173418,
+   "g": 230,
+   "name": "cheese, cream (for vegan cream cheese)"
+  },
+  {
+   "line": 1,
+   "fdc": 172233,
+   "g": 2,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 6,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 6,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172688,
+   "g": 170,
+   "name": "bread, whole-wheat, commercially prepared"
+  }
+ ],
+ "notes": "vegan cream cheese modeled as dairy cream cheese (no SR vegan entry)"
+}

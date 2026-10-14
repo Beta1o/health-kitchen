@@ -1,0 +1,67 @@
+{
+ "id": 6595377,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 255,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169975,
+   "g": 70,
+   "name": "Cabbage, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 110,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 27,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 170150,
+   "g": 12,
+   "name": "Seeds, sesame seeds, whole, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171477,
+   "g": 280,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 172237,
+   "g": 30,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 7,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "Rice vinegar -> distilled vinegar. Cooked diced chicken 140 g/cup."
+}

@@ -1,0 +1,68 @@
+{
+ "id": 6181283,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169986,
+   "g": 428,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170029,
+   "g": 600,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 64,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 21,
+   "added_sugar": true,
+   "name": "Honey"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  }
+ ],
+ "notes": "Dijon -> prepared yellow mustard."
+}

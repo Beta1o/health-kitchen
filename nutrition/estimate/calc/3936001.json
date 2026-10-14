@@ -1,0 +1,133 @@
+{
+ "id": 3936001,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 300,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170899,
+   "g": 25,
+   "name": "Cheese, cheddar, sharp, sliced"
+  },
+  {
+   "line": 2,
+   "fdc": 174924,
+   "g": 4,
+   "name": "Bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 2,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 169699,
+   "g": 225,
+   "name": "Couscous, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 173475,
+   "g": 25,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 25,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 172233,
+   "g": 25,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 14,
+   "fdc": 170457,
+   "g": 60,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 15,
+   "fdc": 168409,
+   "g": 50,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 170005,
+   "g": 25,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 18,
+   "fdc": 170457,
+   "g": 65,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 19,
+   "fdc": 170106,
+   "g": 7,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 20,
+   "fdc": 170416,
+   "g": 1,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 21,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Fresh mixed herbs matched to parsley."
+}

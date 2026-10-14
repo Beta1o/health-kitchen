@@ -1,0 +1,115 @@
+{
+ "id": 6886065,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "coriander seed (ground)"
+  },
+  {
+   "line": 6,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 0.7,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "cayenne / red pepper flakes"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 12,
+   "fdc": 170406,
+   "g": 240,
+   "name": "collards raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 122,
+   "name": "greek yogurt nonfat plain"
+  },
+  {
+   "line": 14,
+   "fdc": 170189,
+   "g": 15,
+   "name": "tahini"
+  },
+  {
+   "line": 15,
+   "fdc": 168409,
+   "g": 120,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 16,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170000,
+   "g": 18,
+   "name": "onions, raw"
+  }
+ ],
+ "notes": "8 large collard leaves assumed 240 g."
+}

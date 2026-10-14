@@ -1,0 +1,98 @@
+{
+ "id": 7046889,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 4.5,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onion raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171790,
+   "g": 500,
+   "name": "beef ground 95% lean raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 250,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169383,
+   "g": 119,
+   "name": "yellow bell pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 169291,
+   "g": 200,
+   "name": "zucchini"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 4,
+   "name": "chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 2,
+   "name": "oregano dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "cumin"
+  },
+  {
+   "line": 11,
+   "fdc": 170051,
+   "g": 800,
+   "name": "canned chopped tomatoes"
+  },
+  {
+   "line": 12,
+   "fdc": 175254,
+   "g": 236,
+   "name": "lentils boiled with salt (canned)"
+  },
+  {
+   "line": 13,
+   "fdc": 175243,
+   "g": 240,
+   "name": "kidney beans canned drained rinsed"
+  },
+  {
+   "line": 14,
+   "fdc": 170273,
+   "g": 25,
+   "name": "dark chocolate 70-85%",
+   "added_sugar": true
+  }
+ ],
+ "notes": "canned lentils via boiled with salt; kidney beans 400 g tin taken as 240 g drained"
+}

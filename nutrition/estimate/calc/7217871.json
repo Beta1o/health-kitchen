@@ -1,0 +1,73 @@
+{
+ "id": 7217871,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 600,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 248,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 238,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 238,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 24,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170106,
+   "g": 20,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 54,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 175142,
+   "g": 360,
+   "name": "Fish, sea bass, mixed species, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169387,
+   "g": 50,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Orange peppers as yellow peppers; fresh oregano sprigs as 1 tsp dried; peeled potatoes as potato flesh and skin raw."
+}

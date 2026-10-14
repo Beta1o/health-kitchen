@@ -1,0 +1,97 @@
+{
+ "id": 6217028,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171323,
+   "g": 4,
+   "name": "fennel seed"
+  },
+  {
+   "line": 1,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.45,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171790,
+   "g": 113,
+   "name": "beef, ground, 95% lean, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 115,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 101,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 5.6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 480,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 180,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 169738,
+   "g": 57,
+   "name": "pasta, whole-wheat, dry"
+  },
+  {
+   "line": 12,
+   "fdc": 168462,
+   "g": 120,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 173746,
+   "g": 85,
+   "name": "beans, navy, boiled, without salt"
+  },
+  {
+   "line": 14,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 15,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Low-sodium canned navy beans as boiled navy beans without salt."
+}

@@ -1,0 +1,54 @@
+{
+ "id": 6399816,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 45,
+   "name": "mayonnaise light"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsley dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171247,
+   "g": 5,
+   "name": "parmesan"
+  }
+ ]
+}

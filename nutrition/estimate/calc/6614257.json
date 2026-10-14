@@ -1,0 +1,60 @@
+{
+ "id": 6614257,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 105,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168874,
+   "g": 255,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  }
+ ]
+}

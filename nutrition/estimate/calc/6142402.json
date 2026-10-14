@@ -1,0 +1,85 @@
+{
+ "id": 6142402,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 27,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 2,
+   "name": "coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2,
+   "name": "garam masala ~ cumin"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170138,
+   "g": 397,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 10,
+   "fdc": 170173,
+   "g": 32,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 12,
+   "fdc": 174284,
+   "g": 192,
+   "name": "lentils, red, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168462,
+   "g": 180,
+   "name": "spinach, raw"
+  }
+ ],
+ "notes": "lite coconut milk as 40% of canned coconut milk (80 g -> 32 g); garam masala as cumin"
+}

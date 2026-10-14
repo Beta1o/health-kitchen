@@ -1,0 +1,67 @@
+{
+ "id": 3934642,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 400,
+   "name": "cauliflower (small head)"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 250,
+   "name": "broccoli (small head)"
+  },
+  {
+   "line": 2,
+   "fdc": 173418,
+   "g": 200,
+   "name": "cream cheese"
+  },
+  {
+   "line": 3,
+   "fdc": 171267,
+   "g": 154,
+   "name": "milk 2% (semi skimmed)"
+  },
+  {
+   "line": 4,
+   "fdc": 173414,
+   "g": 50,
+   "name": "cheddar"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 6,
+   "fdc": 172675,
+   "g": 300,
+   "name": "bread french (2 part-baked baguettes)"
+  },
+  {
+   "line": 7,
+   "fdc": 173430,
+   "g": 40,
+   "name": "butter unsalted"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 5,
+   "name": "garlic puree"
+  },
+  {
+   "line": 9,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsley dried"
+  }
+ ],
+ "notes": "small cauliflower/broccoli heads guessed 400/250 g of florets"
+}

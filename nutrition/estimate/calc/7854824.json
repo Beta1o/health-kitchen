@@ -1,0 +1,92 @@
+{
+ "id": 7854824,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 275,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 150,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 200,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 100,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 4,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170051,
+   "g": 800,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 10,
+   "fdc": 172421,
+   "g": 240,
+   "name": "Lentils, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 11,
+   "fdc": 175203,
+   "g": 240,
+   "name": "Beans, white, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 12,
+   "fdc": 168556,
+   "g": 15,
+   "added_sugar": true,
+   "name": "Catsup"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "tinned lentils/beans in unsalted water taken drained (240 g each) as boiled without salt"
+}

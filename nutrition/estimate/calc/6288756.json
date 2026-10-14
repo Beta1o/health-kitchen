@@ -1,0 +1,67 @@
+{
+ "id": 6288756,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 255,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 149,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 37,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 38,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 169096,
+   "g": 24,
+   "name": "Olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 60,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 54,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "cannellini -> canned white beans (drained ~255 g); reduced-fat feta -> regular feta (no reduced-fat entry); Kalamata olives -> pickled olives"
+}

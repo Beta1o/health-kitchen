@@ -1,0 +1,80 @@
+{
+ "id": 6156760,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169878,
+   "g": 78,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 1,
+   "fdc": 168556,
+   "g": 68,
+   "added_sugar": true,
+   "name": "catsup"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 350,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168894,
+   "g": 31,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 174648,
+   "g": 56,
+   "name": "corn flakes"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Sugar-free honey as sugar-free syrup; 2 cups corn flakes measured before crushing (28 g/cup)."
+}

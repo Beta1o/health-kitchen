@@ -1,0 +1,79 @@
+{
+ "id": 6450804,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 4,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 175036,
+   "g": 260,
+   "name": "tortillas, corn"
+  }
+ ],
+ "notes": "Small corn tortillas taken as 26 g each."
+}

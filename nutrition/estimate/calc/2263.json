@@ -1,0 +1,36 @@
+{
+ "id": 2263,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 3,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170427,
+   "g": 3,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173410,
+   "g": 4.7,
+   "name": "butter, salted"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": 9689734,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 411,
+   "name": "cashew"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "avo"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "van"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cin"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt"
+  }
+ ]
+}

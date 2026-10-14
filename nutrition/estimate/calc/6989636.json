@@ -1,0 +1,54 @@
+{
+ "id": 6989636,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172181,
+   "g": 226,
+   "name": "cottage cheese nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 172232,
+   "g": 10.6,
+   "name": "basil fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171247,
+   "g": 25,
+   "name": "parmesan grated"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 10,
+   "name": "shallots raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 30.6,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  }
+ ]
+}

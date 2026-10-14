@@ -1,0 +1,49 @@
+{
+ "id": 9484573,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 700,
+   "name": "squash, butternut, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 30,
+   "name": "soup, vegetable broth"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  }
+ ],
+ "notes": "Two alternative versions (savory lines 0-6, sweet lines 7-11); only the first (savory) counted. 2 lb squash taken as 700 g edible."
+}

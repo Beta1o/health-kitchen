@@ -1,0 +1,25 @@
+{
+ "id": 6586871,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sauce, hot chile, sriracha"
+  },
+  {
+   "line": 1,
+   "fdc": 167706,
+   "g": 140,
+   "name": "jams, preserves, marmalade, reduced sugar"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  }
+ ],
+ "notes": "No-sugar-added reduced-sugar apricot preserves as reduced-sugar jam, not flagged added sugar; chili garlic sauce as sriracha."
+}

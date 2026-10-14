@@ -1,0 +1,49 @@
+{
+ "id": 6330258,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171689,
+   "g": 640,
+   "name": "apples, raw, without skin"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "nutmeg"
+  },
+  {
+   "line": 5,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "sugar-free baking substitute as sucralose (2 tbsp ~3 g); 4 apples peeled/cored ~160 g each"
+}

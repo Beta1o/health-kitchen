@@ -1,0 +1,49 @@
+{
+ "id": 9023396,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168434,
+   "g": 454,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 4,
+   "fdc": 172442,
+   "g": 17,
+   "name": "miso"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 175215,
+   "g": 243,
+   "name": "soymilk, unsweetened"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth as home-prepared stock."
+}

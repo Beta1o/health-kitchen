@@ -1,0 +1,37 @@
+{
+ "id": 9553231,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 145,
+   "name": "almonds, blanched"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 167755,
+   "g": 123,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171726,
+   "g": 89,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "almonds or cashews: blanched almonds used"
+}

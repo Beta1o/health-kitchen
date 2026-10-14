@@ -1,0 +1,61 @@
+{
+ "id": 6055159,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 175179,
+   "g": 680,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 0.8,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.4,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 170054,
+   "g": 454,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 6,
+   "fdc": 169703,
+   "g": 278,
+   "name": "rice, brown, long-grain, raw"
+  }
+ ],
+ "notes": "Cajun seasoning (1 tsp) modelled as 1.2 g salt + paprika + cayenne."
+}

@@ -1,0 +1,127 @@
+{
+ "id": 6602493,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173757,
+   "g": 170,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 75,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 16,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 172804,
+   "g": 4.6,
+   "name": "Leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 10,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 11,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 12,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 13,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 172234,
+   "g": 5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 15,
+   "fdc": 172233,
+   "g": 1,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 16,
+   "fdc": 169247,
+   "g": 240,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170457,
+   "g": 150,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 18,
+   "fdc": 168409,
+   "g": 201,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 19,
+   "fdc": 170000,
+   "g": 30,
+   "name": "Onions, raw"
+  }
+ ],
+ "notes": "No-salt-added canned chickpeas entered as chickpeas boiled without salt."
+}

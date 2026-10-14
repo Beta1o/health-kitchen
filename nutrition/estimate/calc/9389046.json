@@ -1,0 +1,61 @@
+{
+ "id": 9389046,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169145,
+   "g": 680,
+   "name": "beets, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine 80% (vegan butter)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 600,
+   "name": "soup, stock, chicken, home-prepared (low sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 172233,
+   "g": 3,
+   "name": "dill, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "vegan butter as margarine; cashew cream topping without amount omitted"
+}

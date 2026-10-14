@@ -1,0 +1,36 @@
+{
+ "id": 6921889,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  }
+ ]
+}

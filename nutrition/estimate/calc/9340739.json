@@ -1,0 +1,63 @@
+{
+ "id": 9340739,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 150,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 40,
+   "name": "sugars, brown (for coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 175215,
+   "g": 81,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 5,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 175215,
+   "g": 61,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 7,
+   "fdc": 168833,
+   "g": 40,
+   "name": "sugars, brown (for coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "coconut sugar as brown sugar; coating sugar/milk fully counted"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6935097,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172183,
+   "g": 340,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 171292,
+   "g": 56,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 173871,
+   "g": 70,
+   "name": "Sausage, turkey, fresh, cooked"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 75,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 80,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171430,
+   "g": 1,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 8,
+   "fdc": 169994,
+   "g": 3,
+   "name": "Chives, raw"
+  }
+ ],
+ "notes": "turkey sausage as regular cooked turkey sausage (low-sodium variety unknown)"
+}

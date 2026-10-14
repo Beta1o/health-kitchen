@@ -1,0 +1,61 @@
+{
+ "id": 6390967,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172850,
+   "g": 454,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169975,
+   "g": 450,
+   "name": "Cabbage, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170501,
+   "g": 363,
+   "name": "Tomatoes, crushed, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 907,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 169703,
+   "g": 90,
+   "name": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "instant brown rice (dry) -> raw brown rice 90 g; unsalted broth -> home-prepared stock"
+}

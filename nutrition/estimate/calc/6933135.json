@@ -1,0 +1,79 @@
+{
+ "id": 6933135,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174272,
+   "g": 227,
+   "name": "tempeh"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 7,
+   "fdc": 174527,
+   "g": 80,
+   "name": "hot sauce"
+  },
+  {
+   "line": 9,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 10,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170393,
+   "g": 100,
+   "name": "carrots raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173593,
+   "g": 60,
+   "name": "ranch dressing reduced fat"
+  }
+ ],
+ "notes": "sugar-free monk fruit syrup left out (no calories)"
+}

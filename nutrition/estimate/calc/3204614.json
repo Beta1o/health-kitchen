@@ -1,0 +1,97 @@
+{
+ "id": 3204614,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175179,
+   "g": 450,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 170106,
+   "g": 30,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 100,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169756,
+   "g": 240,
+   "name": "rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+   "line": 8,
+   "fdc": 170173,
+   "g": 400,
+   "name": "nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 9,
+   "fdc": 171412,
+   "g": 13.6,
+   "name": "oil, coconut"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 30,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169247,
+   "g": 80,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 168409,
+   "g": 50,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 14,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  }
+ ],
+ "notes": "Low-salt salad dressing has no amount and is left out; bunch of spring onions ~100 g."
+}

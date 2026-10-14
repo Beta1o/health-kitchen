@@ -1,0 +1,50 @@
+{
+ "id": 6646306,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167787,
+   "g": 160,
+   "name": "pomegranate juice (molasses stand-in)",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 172442,
+   "g": 34,
+   "name": "miso"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 175167,
+   "g": 340,
+   "name": "salmon atlantic farmed raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 2,
+   "name": "thyme fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169134,
+   "g": 43,
+   "name": "pomegranate"
+  }
+ ],
+ "notes": "No pomegranate molasses entry: 2 tbsp as 160 g pomegranate juice (reduced), marked added sugar; salmon as Atlantic farmed."
+}

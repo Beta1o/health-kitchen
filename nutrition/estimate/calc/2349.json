@@ -1,0 +1,79 @@
+{
+ "id": 2349,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173410,
+   "g": 14,
+   "name": "butter salted"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "canola oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 18.6,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169383,
+   "g": 18.6,
+   "name": "yellow bell pepper raw (for orange)"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 12,
+   "name": "green onion raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 4.4,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 2.8,
+   "name": "garlic raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg white raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170872,
+   "g": 61,
+   "name": "milk 1%"
+  },
+  {
+   "line": 10,
+   "fdc": 170923,
+   "g": 0.26,
+   "name": "cumin"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "orange bell pepper -> yellow bell pepper entry"
+}

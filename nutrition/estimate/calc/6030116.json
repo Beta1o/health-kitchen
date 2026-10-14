@@ -1,0 +1,67 @@
+{
+ "id": 6030116,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 1,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 784,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170900,
+   "g": 75,
+   "name": "mozzarella, low moisture, part-skim, shredded"
+  },
+  {
+   "line": 4,
+   "fdc": 171477,
+   "g": 227,
+   "name": "chicken breast, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 172212,
+   "g": 240,
+   "name": "cream, half and half, fat free"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "Reduced-fat mozzarella -> part-skim mozzarella."
+}

@@ -1,0 +1,72 @@
+{
+ "id": 9908880,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172884,
+   "g": 360,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 490,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 170935,
+   "g": 0.35,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170684,
+   "g": 16,
+   "name": "arrowroot flour"
+  },
+  {
+   "line": 9,
+   "fdc": 172456,
+   "g": 122,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 10,
+   "fdc": 169736,
+   "g": 450,
+   "name": "pasta, dry, enriched"
+  }
+ ]
+}

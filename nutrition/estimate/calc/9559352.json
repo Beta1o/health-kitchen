@@ -1,0 +1,56 @@
+{
+ "id": 9559352,
+ "servings": 22,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 173904,
+   "g": 142,
+   "name": "oats, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 40,
+   "name": "sugars, brown (coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder, double-acting"
+  }
+ ],
+ "notes": "Optional add-ins (chips, pecans, raisins) have no amount and are left out; coconut sugar as brown sugar."
+}

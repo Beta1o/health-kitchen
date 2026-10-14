@@ -1,0 +1,97 @@
+{
+ "id": 7160544,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 200,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 100,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175204,
+   "g": 265,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 7,
+   "fdc": 168462,
+   "g": 200,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168409,
+   "g": 160,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 12.5,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 12.5,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 11,
+   "fdc": 170894,
+   "g": 45,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 12,
+   "fdc": 168409,
+   "g": 30,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169276,
+   "g": 14,
+   "name": "Radishes, raw"
+  }
+ ],
+ "notes": "flageolet beans -> canned white beans; low-salt vegetable stock cube -> low-sodium bouillon 10 g; asparagus after trimming ~200 g"
+}

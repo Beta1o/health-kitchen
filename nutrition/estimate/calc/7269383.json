@@ -1,0 +1,72 @@
+{
+ "id": 7269383,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 600,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 175119,
+   "g": 450,
+   "name": "mackerel, Atlantic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 200,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 5,
+   "fdc": 169977,
+   "g": 150,
+   "name": "cabbage, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 175,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170068,
+   "g": 100,
+   "name": "watercress, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170887,
+   "g": 75,
+   "name": "yogurt, plain, skim milk"
+  },
+  {
+   "line": 10,
+   "fdc": 171833,
+   "g": 15,
+   "name": "sauce, horseradish"
+  }
+ ]
+}

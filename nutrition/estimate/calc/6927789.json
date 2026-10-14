@@ -1,0 +1,91 @@
+{
+ "id": 6927789,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173462,
+   "g": 251,
+   "name": "egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 2,
+   "fdc": 168114,
+   "g": 226,
+   "name": "cheese, cottage, lowfat, 1% milkfat, no sodium added"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 37,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168421,
+   "g": 60,
+   "name": "kale, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168387,
+   "g": 105,
+   "name": "artichokes, (globe or french), frozen, unprepared"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.7,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 12,
+   "fdc": 171317,
+   "g": 0.35,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 172232,
+   "g": 2.6,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Artichoke hearts (3 x 35 g) as frozen artichokes; red pepper flakes as cayenne."
+}

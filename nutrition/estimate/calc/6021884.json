@@ -1,0 +1,56 @@
+{
+ "id": 6021884,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170107,
+   "g": 72,
+   "name": "red hot chili canned (for chipotle in adobo)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 13.8,
+   "name": "brown sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173230,
+   "g": 3,
+   "name": "instant tea powder (for ground tea leaves)"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 4.8,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 173691,
+   "g": 907,
+   "name": "sockeye salmon raw"
+  }
+ ],
+ "notes": "chipotle in adobo via canned red hot chili (adobo sodium underestimated); ground tea leaves via instant tea powder"
+}

@@ -1,0 +1,56 @@
+{
+ "id": 7002183,
+ "servings": 40,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172410,
+   "g": 400,
+   "name": "duck, domesticated, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171316,
+   "g": 4,
+   "name": "spices, anise seed (five-spice stand-in)"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 3,
+   "fdc": 168106,
+   "g": 100,
+   "name": "papad (mini poppadoms)"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 60,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169641,
+   "g": 80,
+   "name": "jams and preserves (mango chutney stand-in)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "40 mini poppadoms taken as 100 g; mango chutney as jam"
+}

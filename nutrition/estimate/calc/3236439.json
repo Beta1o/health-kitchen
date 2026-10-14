@@ -1,0 +1,57 @@
+{
+ "id": 3236439,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171719,
+   "g": 250,
+   "name": "cherries, sweet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169655,
+   "g": 75,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 170684,
+   "g": 8,
+   "name": "arrowroot flour"
+  },
+  {
+   "line": 5,
+   "fdc": 172791,
+   "g": 250,
+   "name": "phyllo dough"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 7,
+   "fdc": 173410,
+   "g": 60,
+   "name": "butter, salted"
+  },
+  {
+   "line": 8,
+   "fdc": 169656,
+   "g": 8,
+   "name": "sugars, powdered",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Frozen pitted cherries as sweet cherries, raw."
+}

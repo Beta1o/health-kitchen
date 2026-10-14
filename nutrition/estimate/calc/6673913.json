@@ -1,0 +1,79 @@
+{
+ "id": 6673913,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173691,
+   "g": 454,
+   "name": "sockeye salmon raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170107,
+   "g": 120,
+   "name": "red hot chili canned (for chipotle in adobo)"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 167765,
+   "g": 304,
+   "name": "watermelon"
+  },
+  {
+   "line": 4,
+   "fdc": 169910,
+   "g": 260,
+   "name": "mango raw (canned in water)"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 14,
+   "name": "jalapeno"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "chipotle in adobo via canned red hot chili; canned mango in water via raw mango 260 g drained; lime zest via lemon peel"
+}

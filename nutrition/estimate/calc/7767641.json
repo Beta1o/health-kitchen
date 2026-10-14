@@ -1,0 +1,85 @@
+{
+ "id": 7767641,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 800,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 172234,
+   "g": 7,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 2,
+   "fdc": 171267,
+   "g": 103,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 13.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169251,
+   "g": 72,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.3,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 9,
+   "fdc": 172421,
+   "g": 240,
+   "name": "Lentils, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170933,
+   "g": 0.3,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 11,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  }
+ ],
+ "notes": "tinned lentils in water drained 240 g as boiled without salt; Dijon as prepared mustard"
+}

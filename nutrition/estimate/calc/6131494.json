@@ -1,0 +1,48 @@
+{
+ "id": 6131494,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175176,
+   "g": 680,
+   "name": "Fish, tilapia, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 1,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171322,
+   "g": 0.1,
+   "name": "Spices, dill weed, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  }
+ ]
+}

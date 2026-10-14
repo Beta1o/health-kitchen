@@ -1,0 +1,31 @@
+{
+ "id": 7048524,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169118,
+   "g": 420,
+   "name": "Pears, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171689,
+   "g": 290,
+   "name": "Apples, raw, without skin"
+  },
+  {
+   "line": 2,
+   "fdc": 171315,
+   "g": 0.5,
+   "name": "Spices, allspice, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 169911,
+   "g": 500,
+   "name": "Melons, honeydew, raw"
+  }
+ ],
+ "notes": "mixed spice -> allspice"
+}

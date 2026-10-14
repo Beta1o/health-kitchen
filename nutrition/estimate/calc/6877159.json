@@ -1,0 +1,66 @@
+{
+ "id": 6877159,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 112,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 75,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 60,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170379,
+   "g": 44,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 72,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171477,
+   "g": 140,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 6,
+   "fdc": 173594,
+   "g": 60,
+   "name": "Salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 8,
+   "fdc": 171328,
+   "g": 0.1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

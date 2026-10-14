@@ -1,0 +1,67 @@
+{
+ "id": 7879167,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 700,
+   "name": "Eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 500,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 400,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 8,
+   "fdc": 170848,
+   "g": 50,
+   "name": "Cheese, parmesan, hard"
+  },
+  {
+   "line": 9,
+   "fdc": 170847,
+   "g": 120,
+   "name": "Cheese, mozzarella, part skim milk"
+  }
+ ],
+ "notes": "Large courgettes ~250 g each. Reduced-fat mozzarella -> part-skim."
+}

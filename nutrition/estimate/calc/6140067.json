@@ -1,0 +1,103 @@
+{
+ "id": 6140067,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 120,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 64,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 51,
+   "name": "celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 3.6,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 172420,
+   "g": 144,
+   "name": "lentils, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170138,
+   "g": 411,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 10,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 13,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 14,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 168191,
+   "g": 48,
+   "name": "dates, medjool"
+  },
+  {
+   "line": 16,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Unsalted vegetable broth -> home-prepared stock; California dates taken as medjool."
+}

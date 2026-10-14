@@ -1,0 +1,66 @@
+{
+ "id": 6072658,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168421,
+   "g": 240,
+   "name": "kale"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 65,
+   "name": "almond"
+  },
+  {
+   "line": 2,
+   "fdc": 171719,
+   "g": 155,
+   "name": "cherries"
+  },
+  {
+   "line": 3,
+   "fdc": 170499,
+   "g": 30,
+   "name": "shallot"
+  },
+  {
+   "line": 4,
+   "fdc": 172241,
+   "g": 32,
+   "name": "balsamic"
+  },
+  {
+   "line": 5,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Dijon"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oliveoil"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170848,
+   "g": 25,
+   "name": "parm"
+  }
+ ]
+}

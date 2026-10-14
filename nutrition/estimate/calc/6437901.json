@@ -1,0 +1,72 @@
+{
+ "id": 6437901,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 246,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 2,
+   "fdc": 168013,
+   "g": 150,
+   "name": "multigrain bread, 5 slices x 30 g"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 120,
+   "name": "cucumber"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 70,
+   "name": "red onion small"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 60,
+   "name": "parsley fresh"
+  }
+ ]
+}

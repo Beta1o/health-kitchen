@@ -1,0 +1,55 @@
+{
+ "id": 6851874,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 288,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apples, raw, with skin (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Unsweetened multi-use syrup assumed calorie-free and left out; Dijon as prepared mustard."
+}

@@ -1,0 +1,56 @@
+{
+ "id": 6090675,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170489,
+   "g": 1200,
+   "name": "squash, winter, all varieties, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 172241,
+   "g": 16,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 3,
+   "fdc": 167787,
+   "g": 60,
+   "name": "pomegranate juice, bottled",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 169134,
+   "g": 43.5,
+   "name": "pomegranates, raw"
+  }
+ ],
+ "notes": "Delicata 3 lb whole taken as 1200 g edible. Pomegranate molasses (no SR entry) approximated as 60 g pomegranate juice reduced, counted as added sugar."
+}

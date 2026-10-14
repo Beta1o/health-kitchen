@@ -1,0 +1,104 @@
+{
+ "id": 6145357,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 680,
+   "name": "chicken thigh, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169928,
+   "g": 260,
+   "name": "peaches, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168576,
+   "g": 28,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 5,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon/lime peel"
+  },
+  {
+   "line": 6,
+   "fdc": 169878,
+   "g": 15,
+   "name": "syrups, sugar free",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170894,
+   "g": 35,
+   "name": "yogurt, greek, plain, nonfat"
+  },
+  {
+   "line": 9,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 10,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "basil, dried"
+  },
+  {
+   "line": 12,
+   "fdc": 169311,
+   "g": 113,
+   "name": "artichokes, cooked, with salt (marinated hearts)"
+  },
+  {
+   "line": 13,
+   "fdc": 171705,
+   "g": 100,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 169249,
+   "g": 142,
+   "name": "lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Marinated artichoke hearts approximated by salted cooked artichokes (no oil); spring mix as green leaf lettuce."
+}

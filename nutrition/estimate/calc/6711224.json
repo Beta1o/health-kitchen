@@ -1,0 +1,25 @@
+{
+ "id": 6711224,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 245,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171711,
+   "g": 74,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 3.8,
+   "name": "nuts, almonds"
+  }
+ ],
+ "notes": "Liquid stevia left out (no calories)."
+}

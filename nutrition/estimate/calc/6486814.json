@@ -1,0 +1,31 @@
+{
+ "id": 6486814,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 1,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 34,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 680,
+   "name": "mushrooms, white, raw"
+  }
+ ],
+ "notes": "Liquid smoke left out (no SR entry)."
+}

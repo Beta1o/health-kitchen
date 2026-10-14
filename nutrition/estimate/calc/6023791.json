@@ -1,0 +1,73 @@
+{
+ "id": 6023791,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172240,
+   "g": 45,
+   "name": "champagne vinegar (as red wine vinegar)"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 10.5,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives"
+  },
+  {
+   "line": 6,
+   "fdc": 171030,
+   "g": 72.6,
+   "name": "oil, walnut"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 300,
+   "name": "salad greens"
+  },
+  {
+   "line": 8,
+   "fdc": 172175,
+   "g": 28,
+   "name": "cheese, blue"
+  },
+  {
+   "line": 9,
+   "fdc": 169134,
+   "g": 58,
+   "name": "pomegranate seeds"
+  },
+  {
+   "line": 10,
+   "fdc": 170581,
+   "g": 17,
+   "name": "hazelnuts"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6014731,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171116,
+   "g": 340,
+   "name": "chicken, ground, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169291,
+   "g": 95,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 250,
+   "name": "tomatoes, canned, in tomato juice"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 130,
+   "name": "tomato sauce, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 174090,
+   "g": 344,
+   "name": "rolls, hamburger, whole wheat"
+  }
+ ],
+ "notes": "Sugar-free BBQ sauce approximated as canned tomato sauce. Drained diced tomatoes ~250 g; whole-wheat buns 43 g each."
+}

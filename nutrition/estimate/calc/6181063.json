@@ -1,0 +1,42 @@
+{
+ "id": 6181063,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170465,
+   "g": 488,
+   "name": "turnips, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173430,
+   "g": 14,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 81,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper, black"
+  }
+ ]
+}

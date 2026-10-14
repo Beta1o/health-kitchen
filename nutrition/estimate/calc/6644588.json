@@ -1,0 +1,55 @@
+{
+ "id": 6644588,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169247,
+   "g": 560,
+   "name": "lettuce, romaine, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172241,
+   "g": 22.5,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "2 romaine hearts assumed ~280 g each; white balsamic/champagne vinegar as balsamic."
+}

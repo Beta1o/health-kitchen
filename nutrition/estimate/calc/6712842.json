@@ -1,0 +1,67 @@
+{
+ "id": 6712842,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 440,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 6,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169098,
+   "g": 62,
+   "name": "orange juice, raw (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 21,
+   "added_sugar": true,
+   "name": "honey"
+  },
+  {
+   "line": 7,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": 7206527,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 175,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169699,
+   "g": 60,
+   "name": "Couscous, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 174536,
+   "g": 150,
+   "name": "Soup, chicken broth, ready-to-serve"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 100,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171579,
+   "g": 16,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Wholewheat couscous as plain couscous (dry)."
+}

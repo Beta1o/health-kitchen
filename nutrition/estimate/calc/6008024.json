@@ -1,0 +1,78 @@
+{
+ "id": 6008024,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169255,
+   "g": 170,
+   "name": "Mushrooms, portabella, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169287,
+   "g": 150,
+   "name": "Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 169698,
+   "g": 2.7,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 183,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 7,
+   "fdc": 173462,
+   "g": 126,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 8,
+   "fdc": 170847,
+   "g": 7,
+   "name": "Cheese, mozzarella, part skim milk"
+  },
+  {
+   "line": 9,
+   "fdc": 171247,
+   "g": 5,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.9,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 171326,
+   "g": 2.2,
+   "name": "Spices, nutmeg, ground"
+  }
+ ]
+}

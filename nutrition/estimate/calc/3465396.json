@@ -1,0 +1,85 @@
+{
+ "id": 3465396,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 400,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170924,
+   "g": 4,
+   "name": "curry powder"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4,
+   "name": "oil canola"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.7,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 300,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes canned in tomato juice"
+  },
+  {
+   "line": 6,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas canned drained"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 45,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 168877,
+   "g": 160,
+   "name": "rice white long-grain raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 30,
+   "name": "cilantro"
+  },
+  {
+   "line": 10,
+   "fdc": 174075,
+   "g": 170,
+   "name": "chapati whole wheat"
+  }
+ ],
+ "notes": "mild curry paste built from curry powder, oil, salt; reduced salt veg stock as home-prepared stock; 400 g tin chickpeas drained 240 g; chapati ~42 g each"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6112598,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 400,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 176,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173452,
+   "g": 3.3,
+   "name": "cheese, parmesan, dry grated, reduced fat"
+  }
+ ],
+ "notes": "2 large beefsteak tomatoes ~200 g each; medium eggs 44 g."
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6567846,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168409,
+   "g": 160,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 60,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 173475,
+   "g": 12,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Optional salt (1/2 tsp) included."
+}

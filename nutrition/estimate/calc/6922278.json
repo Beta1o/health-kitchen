@@ -1,0 +1,79 @@
+{
+ "id": 6922278,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173880,
+   "g": 85,
+   "name": "sausage, chicken or turkey, Italian style, lower sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 169986,
+   "g": 640,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 175179,
+   "g": 340,
+   "name": "crustaceans, shrimp, raw"
+  }
+ ],
+ "notes": "Chicken andouille/chorizo sausage modelled as lower-sodium Italian chicken sausage. Cauliflower rice 107 g per cup."
+}

@@ -1,0 +1,85 @@
+{
+ "id": 6422749,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 321,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 132,
+   "name": "egg, white, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 168894,
+   "g": 31,
+   "name": "wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 11,
+   "fdc": 171287,
+   "g": 300,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Vinegar (likely for poaching water) counted in full."
+}

@@ -1,0 +1,54 @@
+{
+ "id": 6047124,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173462,
+   "g": 480,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onion"
+  },
+  {
+   "line": 6,
+   "fdc": 169251,
+   "g": 70,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parmesan, grated"
+  }
+ ]
+}

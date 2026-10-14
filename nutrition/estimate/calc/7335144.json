@@ -1,0 +1,48 @@
+{
+ "id": 7335144,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 225,
+   "name": "pasta, whole-wheat, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 200,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170106,
+   "g": 15,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170460,
+   "g": 300,
+   "name": "tomato puree, canned, without salt (passata)"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "id": 9644787,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 190,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 11.5,
+   "name": "leavening agents, baking powder, double-acting"
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171726,
+   "g": 150,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 6,
+   "fdc": 169098,
+   "g": 155,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171695,
+   "g": 81,
+   "name": "applesauce, canned, unsweetened"
+  },
+  {
+   "line": 9,
+   "fdc": 171722,
+   "g": 100,
+   "name": "cranberries, raw"
+  }
+ ],
+ "notes": "orange juice includes the 2 tbsp for glaze"
+}

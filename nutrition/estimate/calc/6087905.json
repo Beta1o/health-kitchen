@@ -1,0 +1,55 @@
+{
+ "id": 6087905,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172207,
+   "g": 113,
+   "name": "Cheese, cream, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169387,
+   "g": 80,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 174081,
+   "g": 200,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 7,
+   "fdc": 171985,
+   "g": 113,
+   "name": "Fish, salmon, chinook, smoked, (lox), regular"
+  }
+ ],
+ "notes": "Whole grain flatbread wraps as whole-wheat tortillas, 50 g each."
+}

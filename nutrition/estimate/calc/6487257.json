@@ -1,0 +1,85 @@
+{
+ "id": 6487257,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 180,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 30.0, 'calories': 86.0, 'carbohydrates_g': 20.12, 'cholesterol_mg': 0.0, 'fat_g': 0.05, 'fiber_g': 3.0, 'phosphorus_mg': 47.0, 'potassium_mg': 337.0, 'protein_g': 1.57, 'sodium_mg': 55.0, 'sugars_g': 4.18}\n"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 172181,
+   "g": 246,
+   "name": "cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 4,
+   "fdc": 171247,
+   "g": 10,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 169287,
+   "g": 90,
+   "name": "spinach, frozen, chopped or leaf, unprepared (includes foods for usda's food distribution program)\",) {'calcium_mg': 129.0, 'calories': 29.0, 'carbohydrates_g': 4.21, 'cholesterol_mg': 0.0, 'fat_g': 0.57, 'fiber_g': 2.9, 'phosphorus_mg': 49.0, 'potassium_mg': 346.0, 'protein_g': 3.63, 'sodium_mg': 74.0, 'sugars_g': 0.65}\n"
+  },
+  {
+   "line": 8,
+   "fdc": 168893,
+   "g": 120,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)\",) {'calcium_mg': 34.0, 'calories': 340.0, 'carbohydrates_g': 71.97, 'cholesterol_mg': 0.0, 'fat_g': 2.5, 'fiber_g': 10.7, 'phosphorus_mg': 357.0, 'potassium_mg': 363.0, 'protein_g': 13.21, 'sodium_mg': 2.0, 'sugars_g': 0.41}\n"
+  },
+  {
+   "line": 9,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  },
+  {
+   "line": 10,
+   "fdc": 172847,
+   "g": 454,
+   "name": "turkey, ground, fat free, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171597,
+   "g": 695,
+   "name": "sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 12,
+   "fdc": 171609,
+   "g": 240,
+   "name": "soup, chicken broth, low sodium, canned"
+  }
+ ],
+ "notes": "Fat-free reduced-sodium ricotta as nonfat dry-curd cottage cheese (sodium likely overstated); low-sodium marinara jar 24.5 oz."
+}

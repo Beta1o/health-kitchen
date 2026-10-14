@@ -1,0 +1,85 @@
+{
+ "id": 7505781,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 10,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169295,
+   "g": 1100,
+   "name": "squash, winter, butternut, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170924,
+   "g": 6,
+   "name": "spices, curry powder (curry paste)"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 5,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171613,
+   "g": 10,
+   "name": "bouillon cubes, low sodium, dry"
+  },
+  {
+   "line": 7,
+   "fdc": 170173,
+   "g": 80,
+   "name": "coconut milk, canned (reduced-fat = ~40%)"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "2 medium butternut squash taken as 1100 g flesh; curry paste as curry powder + oil + salt; 200 ml reduced-fat coconut milk as 80 g regular + water"
+}

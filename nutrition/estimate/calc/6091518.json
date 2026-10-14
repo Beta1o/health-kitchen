@@ -1,0 +1,49 @@
+{
+ "id": 6091518,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 64,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 2,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 392,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169928,
+   "g": 300,
+   "name": "Peaches, yellow, raw"
+  }
+ ],
+ "notes": "soy sauce marinade counted in full though part may be discarded"
+}

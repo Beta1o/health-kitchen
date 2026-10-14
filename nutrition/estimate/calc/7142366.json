@@ -1,0 +1,73 @@
+{
+ "id": 7142366,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 220,
+   "name": "red onions"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 3,
+   "fdc": 174284,
+   "g": 115,
+   "name": "lentils red raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173470,
+   "g": 2.4,
+   "name": "thyme fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes canned"
+  },
+  {
+   "line": 7,
+   "fdc": 175243,
+   "g": 240,
+   "name": "kidney beans canned drained rinsed"
+  },
+  {
+   "line": 8,
+   "fdc": 175204,
+   "g": 240,
+   "name": "white beans canned (cannellini)"
+  },
+  {
+   "line": 9,
+   "fdc": 171562,
+   "g": 4.5,
+   "name": "bouillon dry (veg stock powder 1.5 tsp)"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "veg stock powder: chicken bouillon dry entry, 1.5 tsp ~4.5 g; drained tins ~240 g"
+}

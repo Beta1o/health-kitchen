@@ -1,0 +1,109 @@
+{
+ "id": 9572606,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 192,
+   "name": "lentils, pink or red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 169246,
+   "g": 111,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 124,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 168482,
+   "g": 133,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173904,
+   "g": 54,
+   "name": "oats, dry"
+  },
+  {
+   "line": 11,
+   "fdc": 175043,
+   "g": 15,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 12,
+   "fdc": 169717,
+   "g": 22,
+   "name": "tapioca, pearl, dry (tapioca starch)"
+  },
+  {
+   "line": 14,
+   "fdc": 173469,
+   "g": 5,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 15,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "onion powder"
+  },
+  {
+   "line": 16,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 17,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Low-sodium vegetable broth as home-prepared stock; nutritional yeast as active dry yeast; tapioca starch as pearl tapioca."
+}

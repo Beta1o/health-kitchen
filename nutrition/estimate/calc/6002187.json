@@ -1,0 +1,25 @@
+{
+ "id": 6002187,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 24,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171708,
+   "g": 6,
+   "name": "cherries, tart, dried (unsweetened in recipe)"
+  }
+ ],
+ "notes": "dried cherries unsweetened; USDA entry is sweetened, not marked added sugar"
+}

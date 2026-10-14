@@ -1,0 +1,55 @@
+{
+ "id": 6129816,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173462,
+   "g": 125,
+   "name": "egg substitute, liquid, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173420,
+   "g": 9,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 45,
+   "name": "tomatoes, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Reduced-fat feta mapped to regular feta."
+}

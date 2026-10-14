@@ -1,0 +1,66 @@
+{
+ "id": 6516194,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169145,
+   "g": 340,
+   "name": "beets, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173573,
+   "g": 9,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171689,
+   "g": 250,
+   "name": "apples, raw, without skin"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172223,
+   "g": 8,
+   "name": "queso fresco"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  }
+ ]
+}

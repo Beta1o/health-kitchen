@@ -1,0 +1,66 @@
+{
+ "id": 6689398,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 340,
+   "name": "wwpasta"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 108,
+   "name": "oliveoil"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemonjuice"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "coarse salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 50,
+   "name": "parm_gr"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 170187,
+   "g": 58,
+   "name": "walnut"
+  },
+  {
+   "line": 8,
+   "fdc": 168421,
+   "g": 60,
+   "name": "kale"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 300,
+   "name": "grape tomatoes"
+  }
+ ]
+}

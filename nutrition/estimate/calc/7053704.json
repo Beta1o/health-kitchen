@@ -1,0 +1,109 @@
+{
+ "id": 7053704,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 900,
+   "name": "Cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 44,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 172207,
+   "g": 40,
+   "name": "Cheese, cream, fat free"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 15,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 169888,
+   "g": 300,
+   "name": "Vegetarian meatloaf or patties"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 11,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 12,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 13,
+   "fdc": 168409,
+   "g": 300,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170457,
+   "g": 175,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 15,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 16,
+   "fdc": 170886,
+   "g": 200,
+   "name": "Yogurt, plain, low fat"
+  }
+ ],
+ "notes": "Quorn mince not in SR: 'Vegetarian meatloaf or patties' (Quorn is lower in calories/fat); 3% fat cream cheese -> fat-free cream cheese"
+}

@@ -1,0 +1,92 @@
+{
+ "id": 6733514,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171098,
+   "g": 1814,
+   "name": "turkey, breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 46.5,
+   "name": "orange juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169231,
+   "g": 5,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 3.25,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171321,
+   "g": 2.6,
+   "name": "spices, cloves, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171315,
+   "g": 1.9,
+   "name": "spices, allspice, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 168833,
+   "g": 73,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 11,
+   "fdc": 168165,
+   "g": 18,
+   "name": "raisins, seedless"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne (flakes)"
+  },
+  {
+   "line": 13,
+   "fdc": 171688,
+   "g": 375,
+   "name": "apples, raw, with skin"
+  }
+ ],
+ "notes": "4-6 lb bone-in turkey breast taken as 1814 g meat; rice vinegar as distilled"
+}

@@ -1,0 +1,49 @@
+{
+ "id": 9571235,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174292,
+   "g": 300,
+   "name": "tofu, silken, soft"
+  },
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 8,
+   "name": "yeast, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 0.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 172231,
+   "g": 0.4,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Nutritional yeast modelled as active dry yeast; black salt as table salt."
+}

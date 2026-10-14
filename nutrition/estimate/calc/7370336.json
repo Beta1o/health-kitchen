@@ -1,0 +1,48 @@
+{
+ "id": 7370336,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 350,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion, raw (small)"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 168894,
+   "g": 50,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 5,
+   "fdc": 171689,
+   "g": 300,
+   "name": "apples, raw, without skin"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola (rapeseed)"
+  }
+ ]
+}

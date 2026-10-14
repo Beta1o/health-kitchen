@@ -1,0 +1,49 @@
+{
+ "id": 6576870,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171986,
+   "g": 113,
+   "name": "Fish, tuna, light, canned in water, without salt, drained solids"
+  },
+  {
+   "line": 1,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 0.5,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 175056,
+   "g": 54,
+   "name": "Crackers, saltines, low salt (includes oyster, soda, soup)"
+  }
+ ],
+ "notes": "Salt-free herb seasoning approximated as onion powder."
+}

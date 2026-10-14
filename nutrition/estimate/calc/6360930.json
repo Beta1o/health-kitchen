@@ -1,0 +1,61 @@
+{
+ "id": 6360930,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 794,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 169295,
+   "g": 800,
+   "name": "butternut squash, raw (noodles)"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "Italian seasoning as oregano"
+  },
+  {
+   "line": 4,
+   "fdc": 173452,
+   "g": 28,
+   "name": "parmesan, reduced fat"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 21,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Medium butternut squash taken as 800 g of noodles."
+}

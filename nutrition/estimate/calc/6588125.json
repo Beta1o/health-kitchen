@@ -1,0 +1,49 @@
+{
+ "id": 6588125,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170459,
+   "g": 170,
+   "name": "tomato paste, no salt added"
+  },
+  {
+   "line": 3,
+   "fdc": 170051,
+   "g": 411,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 3,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173627,
+   "g": 600,
+   "name": "chicken thigh, meat only, raw"
+  }
+ ],
+ "notes": "chicken thigh count missing - 6 thighs (1 per serving) ~100 g meat each; Italian seasoning as dried oregano; diced tomatoes taken as regular canned"
+}

@@ -1,0 +1,85 @@
+{
+ "id": 7007930,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 300,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 1,
+   "fdc": 172804,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, straight phosphate"
+  },
+  {
+   "line": 2,
+   "fdc": 171315,
+   "g": 3.8,
+   "name": "spices, allspice, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 150,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173944,
+   "g": 118,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170257,
+   "g": 4.5,
+   "name": "sweeteners, tabletop, sucralose, splenda packets"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 55,
+   "name": "oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 168164,
+   "g": 50,
+   "name": "raisins, golden, seedless"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 400,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172181,
+   "g": 250,
+   "name": "cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 10,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sweeteners, tabletop, sucralose, splenda packets"
+  },
+  {
+   "line": 11,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170187,
+   "g": 20,
+   "name": "nuts, walnuts, english"
+  }
+ ],
+ "notes": "Granulated sweetener as sucralose granular (1 tbsp ~1.5 g); mixed spice as allspice; quark as nonfat uncreamed cottage cheese."
+}

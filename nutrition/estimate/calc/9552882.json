@@ -1,0 +1,74 @@
+{
+ "id": 9552882,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 480,
+   "name": "vegetable broth"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170016,
+   "g": 134,
+   "name": "peas, frozen"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 119,
+   "name": "cucumber"
+  },
+  {
+   "line": 5,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini"
+  },
+  {
+   "line": 8,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  }
+ ],
+ "notes": "Bunch of asparagus taken as 340 g trimmed."
+}

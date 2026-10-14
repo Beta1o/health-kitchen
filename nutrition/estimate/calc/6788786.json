@@ -1,0 +1,61 @@
+{
+ "id": 6788786,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168867,
+   "g": 92,
+   "name": "cornmeal"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlicpow"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "thyme"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 6,
+   "fdc": 172183,
+   "g": 33,
+   "name": "eggwhite"
+  },
+  {
+   "line": 7,
+   "fdc": 174527,
+   "g": 0.6,
+   "name": "hotsauce"
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken tenderloins"
+  }
+ ],
+ "notes": "All of the cornmeal coating counted as eaten."
+}

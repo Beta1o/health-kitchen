@@ -1,0 +1,56 @@
+{
+ "id": 9111240,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 192,
+   "name": "Lentils, pink or red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 81,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 136,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 174832,
+   "g": 360,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 7,
+   "fdc": 169661,
+   "g": 80,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  }
+ ],
+ "notes": "cashew milk -> unsweetened almond milk; optional maple syrup (1/4 cup) included"
+}

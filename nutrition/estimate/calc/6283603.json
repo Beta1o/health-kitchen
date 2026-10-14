@@ -1,0 +1,74 @@
+{
+ "id": 6283603,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171966,
+   "g": 240,
+   "name": "crab canned"
+  },
+  {
+   "line": 1,
+   "fdc": 173594,
+   "g": 80,
+   "name": "mayonnaise light"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 60,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 170937,
+   "g": 1.2,
+   "name": "tarragon dried"
+  },
+  {
+   "line": 7,
+   "fdc": 168561,
+   "g": 30,
+   "name": "pickle relish sweet",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "cayenne/red pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 169225,
+   "g": 360,
+   "name": "cucumber peeled"
+  }
+ ],
+ "notes": "Drained crab 120 g per 6-oz can."
+}

@@ -1,0 +1,90 @@
+{
+ "id": 6793545,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 172420,
+   "g": 454,
+   "name": "Lentils, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172884,
+   "g": 907,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 454,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 144,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169961,
+   "g": 454,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 174832,
+   "g": 366,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 15,
+   "name": "Parsley, fresh"
+  }
+ ]
+}

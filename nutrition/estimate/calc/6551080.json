@@ -1,0 +1,61 @@
+{
+ "id": 6551080,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170497,
+   "g": 100,
+   "name": "hot chili green raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 175179,
+   "g": 454,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 7,
+   "fdc": 169395,
+   "g": 6,
+   "name": "serrano"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "poblano via green hot chili 100 g; serving text says 1/4 lb shrimp (4 servings) but servings=6 kept"
+}

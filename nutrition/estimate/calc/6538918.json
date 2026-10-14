@@ -1,0 +1,78 @@
+{
+ "id": 6538918,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 360,
+   "name": "sweet potato, raw (2 large)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lime zest (lemon peel)"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 40,
+   "name": "red onion"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 175238,
+   "g": 255,
+   "name": "black beans, canned, low sodium, drained"
+  }
+ ]
+}

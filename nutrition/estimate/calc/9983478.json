@@ -1,0 +1,44 @@
+{
+ "id": 9983478,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 122,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 173904,
+   "g": 40.5,
+   "name": "oats, dry"
+  },
+  {
+   "line": 2,
+   "fdc": 175215,
+   "g": 162,
+   "name": "soymilk, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170554,
+   "g": 20,
+   "name": "chia seeds"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 13,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 171332,
+   "g": 1.7,
+   "name": "pumpkin pie spice"
+  }
+ ],
+ "notes": "Toppings without amounts left out."
+}

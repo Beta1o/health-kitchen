@@ -1,0 +1,67 @@
+{
+ "id": 6435485,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171790,
+   "g": 340,
+   "name": "beef, ground, 95% lean, raw (for 97%)"
+  },
+  {
+   "line": 1,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 100,
+   "name": "zucchini, raw (squeezed)"
+  },
+  {
+   "line": 3,
+   "fdc": 170054,
+   "g": 32,
+   "name": "tomato sauce, canned (for sugar-free bbq sauce)"
+  },
+  {
+   "line": 4,
+   "fdc": 169255,
+   "g": 340,
+   "name": "mushrooms, portabella, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 171295,
+   "g": 84,
+   "name": "cheese, cheddar, fat free"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 8,
+   "fdc": 169387,
+   "g": 20,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 180,
+   "name": "tomatoes, raw (beefsteak)"
+  }
+ ],
+ "notes": "Sugar-free BBQ sauce modeled as tomato sauce; 4 fat-free cheddar slices 21 g each."
+}

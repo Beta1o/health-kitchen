@@ -1,0 +1,49 @@
+{
+ "id": 6008935,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169925,
+   "g": 124,
+   "name": "tangerine juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169291,
+   "g": 392,
+   "name": "zucchini, raw"
+  }
+ ],
+ "notes": "Clementine juice as tangerine juice; all marinade oil counted."
+}

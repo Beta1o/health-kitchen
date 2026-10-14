@@ -1,0 +1,38 @@
+{
+ "id": 9263742,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 892,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 1,
+   "fdc": 169661,
+   "g": 60,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine, 80% fat, tub, with salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  }
+ ],
+ "notes": "Vegan butter as margarine 80% fat; tapioca starch as cornstarch. Optional vegan butter included."
+}

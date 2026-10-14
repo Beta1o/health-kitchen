@@ -1,0 +1,72 @@
+{
+ "id": 6615019,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171319,
+   "g": 8,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 1,
+   "fdc": 170923,
+   "g": 6,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 175167,
+   "g": 680,
+   "name": "salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 169910,
+   "g": 248,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 270,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 8,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": 6928135,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170182,
+   "g": 55,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 72,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 5,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 60,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 6,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 45,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 183,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169975,
+   "g": 800,
+   "name": "cabbage, raw"
+  }
+ ],
+ "notes": "salt-free chipotle seasoning as paprika; head of cabbage taken as 800 g after trimming"
+}

@@ -1,0 +1,31 @@
+{
+ "id": 6698156,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 64,
+   "name": "soy sauce, shoyu, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 60,
+   "name": "vinegar, distilled (for rice vinegar)"
+  },
+  {
+   "line": 2,
+   "fdc": 173573,
+   "g": 54.5,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 3,
+   "fdc": 171016,
+   "g": 27.2,
+   "name": "oil, sesame"
+  }
+ ],
+ "notes": "Erythritol (1 tbsp) left out: no calories."
+}

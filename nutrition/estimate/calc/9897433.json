@@ -1,0 +1,79 @@
+{
+ "id": 9897433,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174687,
+   "g": 300,
+   "name": "jackfruit, raw (canned in brine, drained)"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 170187,
+   "g": 60,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 51,
+   "name": "celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174683,
+   "g": 76,
+   "name": "grapes, red or green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 25,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170162,
+   "g": 103,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171322,
+   "g": 1,
+   "name": "spices, dill weed, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "canned young jackfruit in brine modeled as raw jackfruit, 300 g drained from 20 oz can"
+}

@@ -1,0 +1,36 @@
+{
+ "id": 9775065,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175215,
+   "g": 304,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 1,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 2,
+   "fdc": 170687,
+   "g": 180,
+   "name": "buckwheat flour, whole-groat"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting"
+  }
+ ]
+}

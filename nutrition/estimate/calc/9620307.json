@@ -1,0 +1,85 @@
+{
+ "id": 9620307,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 75,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169251,
+   "g": 35,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 134,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174288,
+   "g": 138,
+   "name": "Chickpea flour (besan)"
+  },
+  {
+   "line": 5,
+   "fdc": 175043,
+   "g": 15,
+   "name": "Leavening agents, yeast, baker's, active dry"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 4.7,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 3.6,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "Spices, parsley, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Nutritional yeast not in SR Legacy -> active dry baker's yeast (15 g). Black salt -> table salt. Chickpea flour 92 g/cup."
+}

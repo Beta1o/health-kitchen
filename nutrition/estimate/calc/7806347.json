@@ -1,0 +1,73 @@
+{
+ "id": 7806347,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173676,
+   "g": 600,
+   "name": "monkfish, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 169756,
+   "g": 225,
+   "name": "rice, white, long-grain, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171562,
+   "g": 10,
+   "name": "soup, chicken broth or bouillon, dry"
+  },
+  {
+   "line": 6,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168164,
+   "g": 30,
+   "name": "raisins, golden"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 2.5,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Vegetable stock cube (10 g) as dry chicken bouillon; basmati as long-grain white rice."
+}

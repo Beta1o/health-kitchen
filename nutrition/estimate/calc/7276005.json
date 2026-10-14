@@ -1,0 +1,43 @@
+{
+ "id": 7276005,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169097,
+   "g": 280,
+   "name": "oranges, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 6,
+   "name": "cinnamon (sticks)"
+  },
+  {
+   "line": 2,
+   "fdc": 169231,
+   "g": 15,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171316,
+   "g": 2,
+   "name": "anise seed (for star anise)"
+  },
+  {
+   "line": 4,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves"
+  },
+  {
+   "line": 5,
+   "fdc": 173933,
+   "g": 1040,
+   "name": "apple juice, unsweetened"
+  }
+ ],
+ "notes": "oranges, cinnamon sticks, star anise and cloves are infused; counted whole"
+}

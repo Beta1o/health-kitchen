@@ -1,0 +1,79 @@
+{
+ "id": 6938670,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169731,
+   "g": 170,
+   "name": "Noodles, egg, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171330,
+   "g": 5.6,
+   "name": "Spices, poppy seed"
+  },
+  {
+   "line": 2,
+   "fdc": 171496,
+   "g": 510,
+   "name": "Turkey, whole, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169255,
+   "g": 227,
+   "name": "Mushrooms, portabella, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 173410,
+   "g": 14,
+   "name": "Butter, salted"
+  },
+  {
+   "line": 8,
+   "fdc": 168894,
+   "g": 11.7,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 9,
+   "fdc": 172889,
+   "g": 360,
+   "name": "Soup, beef broth, less/reduced sodium, ready to serve"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 122,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 11,
+   "fdc": 172234,
+   "g": 7.5,
+   "name": "Mustard, prepared, yellow"
+  }
+ ],
+ "notes": "Dijon -> prepared mustard"
+}

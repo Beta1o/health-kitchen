@@ -1,0 +1,91 @@
+{
+ "id": 6953417,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169247,
+   "g": 120,
+   "name": "romaine"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 124,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169225,
+   "g": 66,
+   "name": "cucumber peeled"
+  },
+  {
+   "line": 5,
+   "fdc": 175188,
+   "g": 170,
+   "name": "black beans canned"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro"
+  },
+  {
+   "line": 9,
+   "fdc": 169640,
+   "g": 14,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 12,
+   "fdc": 171413,
+   "g": 54,
+   "name": "olive oil"
+  },
+  {
+   "line": 13,
+   "fdc": 170557,
+   "g": 16,
+   "name": "pumpkin seeds roasted no salt"
+  }
+ ]
+}

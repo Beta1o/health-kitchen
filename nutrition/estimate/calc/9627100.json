@@ -1,0 +1,49 @@
+{
+ "id": 9627100,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 680,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170026,
+   "g": 454,
+   "name": "potatoes, raw (yellow, peeled)"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 5,
+   "fdc": 171333,
+   "g": 0.3,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170938,
+   "g": 0.25,
+   "name": "spices, thyme, dried"
+  }
+ ],
+ "notes": "Toppings (vegan cheese, cashew cream) have no amounts and are left out."
+}

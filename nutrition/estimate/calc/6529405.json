@@ -1,0 +1,115 @@
+{
+ "id": 6529405,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170028,
+   "g": 340,
+   "name": "potatoes, white, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171790,
+   "g": 227,
+   "name": "beef, ground, 95% lean, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170108,
+   "g": 149,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 12,
+   "fdc": 169074,
+   "g": 122,
+   "name": "tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 14,
+   "fdc": 169986,
+   "g": 214,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 170457,
+   "g": 136,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 18,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  }
+ ],
+ "notes": "4% fat extra lean beef as 95% lean"
+}

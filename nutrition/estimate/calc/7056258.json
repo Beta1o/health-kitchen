@@ -1,0 +1,49 @@
+{
+ "id": 7056258,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 500,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 3,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 2,
+   "fdc": 167755,
+   "g": 70,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 120,
+   "name": "Strawberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169928,
+   "g": 150,
+   "name": "Peaches, yellow, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168153,
+   "g": 138,
+   "name": "Kiwifruit, green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170158,
+   "g": 20,
+   "name": "Nuts, almonds, dry roasted, without salt added"
+  }
+ ],
+ "notes": "sweetener -> sucralose (Splenda) at 3 g; punnet amounts guessed"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 6150171,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169098,
+   "g": 60,
+   "name": "orange juice"
+  },
+  {
+   "line": 2,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 3,
+   "fdc": 174527,
+   "g": 0.6,
+   "name": "hot sauce"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 175179,
+   "g": 240,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 120,
+   "name": "green leaf lettuce (spring mix)"
+  },
+  {
+   "line": 8,
+   "fdc": 168195,
+   "g": 148,
+   "name": "clementines"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 10,
+   "fdc": 169098,
+   "g": 60,
+   "name": "orange juice"
+  }
+ ],
+ "notes": "clementine juice via orange juice; 16 large shrimp assumed 240 g; spring mix via green leaf lettuce"
+}

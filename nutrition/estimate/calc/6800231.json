@@ -1,0 +1,36 @@
+{
+ "id": 6800231,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173904,
+   "g": 121.5,
+   "name": "rolled oats"
+  },
+  {
+   "line": 1,
+   "fdc": 170567,
+   "g": 54,
+   "name": "slivered almonds"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cin"
+  },
+  {
+   "line": 3,
+   "fdc": 171695,
+   "g": 122,
+   "name": "apsauce"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "van"
+  }
+ ]
+}

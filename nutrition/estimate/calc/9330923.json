@@ -1,0 +1,26 @@
+{
+ "id": 9330923,
+ "servings": 28,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 907,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170554,
+   "g": 53,
+   "name": "seeds, chia seeds, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Optional maple syrup (2 tbsp) included."
+}

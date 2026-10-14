@@ -1,0 +1,78 @@
+{
+ "id": 7578518,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171955,
+   "g": 200,
+   "name": "cod"
+  },
+  {
+   "line": 1,
+   "fdc": 175167,
+   "g": 200,
+   "name": "salmon atlantic farmed raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 44,
+   "name": "egg medium"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice half"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "line": 5,
+   "fdc": 172233,
+   "g": 10,
+   "name": "dill fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172794,
+   "g": 260,
+   "name": "wholemeal rolls 4 x 65 g"
+  },
+  {
+   "line": 8,
+   "fdc": 169247,
+   "g": 60,
+   "name": "little gem -> romaine"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 160,
+   "name": "tomatoes"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 160,
+   "name": "red onion"
+  },
+  {
+   "line": 11,
+   "fdc": 168409,
+   "g": 60,
+   "name": "cucumber 6 cm"
+  }
+ ]
+}

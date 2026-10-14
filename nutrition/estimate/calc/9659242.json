@@ -1,0 +1,118 @@
+{
+ "id": 9659242,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 90,
+   "name": "almonds, blanched (almond flour)"
+  },
+  {
+   "line": 1,
+   "fdc": 168944,
+   "g": 80,
+   "name": "wheat flour, whole-grain, soft wheat"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 174832,
+   "g": 60,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 169655,
+   "g": 24,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170182,
+   "g": 124,
+   "name": "pecans"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 210,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 168820,
+   "g": 60,
+   "name": "molasses",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 169414,
+   "g": 28,
+   "name": "flaxseed"
+  },
+  {
+   "line": 12,
+   "fdc": 174832,
+   "g": 80,
+   "name": "almond milk, unsweetened (cashew milk)"
+  },
+  {
+   "line": 13,
+   "fdc": 169717,
+   "g": 24,
+   "name": "tapioca, pearl, dry (starch)"
+  },
+  {
+   "line": 14,
+   "fdc": 170163,
+   "g": 32,
+   "name": "cashew butter"
+  },
+  {
+   "line": 15,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 16,
+   "fdc": 171893,
+   "g": 4.5,
+   "name": "coffee, instant, powder"
+  },
+  {
+   "line": 17,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 18,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "Coconut sugar as sugar; cashew milk as unsweetened almond milk; optional water left out."
+}

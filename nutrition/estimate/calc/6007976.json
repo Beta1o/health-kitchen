@@ -1,0 +1,102 @@
+{
+ "id": 6007976,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 18,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 170051,
+   "g": 794,
+   "name": "tomatoes, canned in juice (28 oz, liquid kept)"
+  },
+  {
+   "line": 3,
+   "fdc": 172232,
+   "g": 2.5,
+   "name": "basil fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (coarse)"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 7,
+   "fdc": 169291,
+   "g": 969,
+   "name": "zucchini, raw (3 large)"
+  },
+  {
+   "line": 8,
+   "fdc": 172475,
+   "g": 454,
+   "name": "tofu, firm"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 11,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel"
+  },
+  {
+   "line": 12,
+   "fdc": 171248,
+   "g": 246,
+   "name": "ricotta, part skim (low-fat)"
+  },
+  {
+   "line": 13,
+   "fdc": 170900,
+   "g": 100,
+   "name": "mozzarella, part-skim, shredded"
+  },
+  {
+   "line": 14,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 15,
+   "fdc": 171247,
+   "g": 25,
+   "name": "parmesan, grated"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "id": 7772137,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170886,
+   "g": 306,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 1,
+   "fdc": 170924,
+   "g": 6,
+   "name": "curry/tikka paste: spices"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4,
+   "name": "curry/tikka paste: oil"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "curry/tikka paste: salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 400,
+   "name": "chicken breast, raw (2 large)"
+  },
+  {
+   "line": 3,
+   "fdc": 169986,
+   "g": 300,
+   "name": "cauliflower"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 100,
+   "name": "cucumber (10 cm)"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 3.2,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander leaves (line 6-7)"
+  },
+  {
+   "line": 8,
+   "fdc": 174916,
+   "g": 60,
+   "name": "pita, whole-wheat (2 mini)"
+  }
+ ],
+ "notes": "tikka paste split into curry powder, oil and salt"
+}

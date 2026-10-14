@@ -1,0 +1,49 @@
+{
+ "id": 9237341,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175215,
+   "g": 729,
+   "name": "soymilk, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 46,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 13,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170926,
+   "g": 0.22,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171891,
+   "g": 180,
+   "name": "coffee, brewed, espresso"
+  }
+ ],
+ "notes": "Milk as unsweetened soy milk (sugar-free recipe)."
+}

@@ -1,0 +1,103 @@
+{
+ "id": 9570781,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 1292,
+   "name": "zucchini raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174524,
+   "g": 65,
+   "name": "salsa"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "onion powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 8,
+   "fdc": 171319,
+   "g": 1.3,
+   "name": "chili powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne/red pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 169704,
+   "g": 195,
+   "name": "brown rice cooked"
+  },
+  {
+   "line": 11,
+   "fdc": 175188,
+   "g": 170,
+   "name": "black beans canned"
+  },
+  {
+   "line": 12,
+   "fdc": 168398,
+   "g": 82,
+   "name": "corn, sweet, yellow, frozen"
+  },
+  {
+   "line": 16,
+   "fdc": 170457,
+   "g": 1,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 17,
+   "fdc": 168576,
+   "g": 1,
+   "name": "jalapeno raw"
+  },
+  {
+   "line": 18,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "Toppings guacamole, walnut cheese sauce, nut-free cheese sauce have no amounts: left out; tomato/jalapeno/cilantro garnish 1 g."
+}

@@ -1,0 +1,73 @@
+{
+ "id": 6515306,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 1200,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "Only the steak portion of 2 large heads counted (~1200 g of ~1700 g)."
+}

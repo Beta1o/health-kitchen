@@ -1,0 +1,85 @@
+{
+ "id": 6109291,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 1,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170675,
+   "g": 12,
+   "name": "sweetener, sugar substitute, granulated, brown"
+  },
+  {
+   "line": 5,
+   "fdc": 168450,
+   "g": 82,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce, unsweetened"
+  },
+  {
+   "line": 7,
+   "fdc": 171689,
+   "g": 160,
+   "name": "apples, raw, without skin"
+  },
+  {
+   "line": 8,
+   "fdc": 173904,
+   "g": 40,
+   "name": "oats, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 170568,
+   "g": 28,
+   "name": "almonds, blanched (almond flour)"
+  },
+  {
+   "line": 10,
+   "fdc": 173180,
+   "g": 30,
+   "name": "whey protein powder"
+  },
+  {
+   "line": 11,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder"
+  }
+ ],
+ "notes": "Low-calorie brown sugar substitute 3 tbsp ~12 g; one scoop reduced-carb vanilla protein powder taken as 30 g whey protein."
+}

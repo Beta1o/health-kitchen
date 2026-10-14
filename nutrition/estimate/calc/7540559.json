@@ -1,0 +1,67 @@
+{
+ "id": 7540559,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169947,
+   "g": 60,
+   "name": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 1,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 20,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169910,
+   "g": 200,
+   "name": "Mangos, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173944,
+   "g": 118,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168153,
+   "g": 138,
+   "name": "Kiwifruit, green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167767,
+   "g": 170,
+   "name": "Pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 8,
+   "fdc": 169134,
+   "g": 15,
+   "name": "Pomegranates, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175227,
+   "g": 250,
+   "name": "SILK Plain soy yogurt"
+  }
+ ],
+ "notes": "canned pineapple drained 170 g; coconut soya yoghurt as plain soy yogurt"
+}

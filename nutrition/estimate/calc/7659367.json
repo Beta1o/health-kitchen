@@ -1,0 +1,37 @@
+{
+ "id": 7659367,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 120,
+   "name": "swp"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 120,
+   "name": "carrot"
+  },
+  {
+   "line": 2,
+   "fdc": 170417,
+   "g": 100,
+   "name": "parsnip"
+  },
+  {
+   "line": 3,
+   "fdc": 169145,
+   "g": 100,
+   "name": "beet"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "spray oil, 15 sprays"
+  }
+ ],
+ "notes": "Spray oil counted as canola, 0.3 g per spray."
+}

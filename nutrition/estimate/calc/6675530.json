@@ -1,0 +1,56 @@
+{
+ "id": 6675530,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 454,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 33,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 1,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Dijon mapped to prepared mustard."
+}

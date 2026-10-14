@@ -1,0 +1,49 @@
+{
+ "id": 9422406,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 300,
+   "name": "almond milk unsweetened (for cashew milk)"
+  },
+  {
+   "line": 1,
+   "fdc": 173950,
+   "g": 155,
+   "name": "blueberries, frozen"
+  },
+  {
+   "line": 2,
+   "fdc": 168173,
+   "g": 149,
+   "name": "strawberries, frozen, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169124,
+   "g": 165,
+   "name": "pineapple, raw (frozen)"
+  },
+  {
+   "line": 4,
+   "fdc": 170182,
+   "g": 36,
+   "name": "pecans"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 6,
+   "fdc": 170148,
+   "g": 10,
+   "name": "hemp seed, hulled"
+  }
+ ],
+ "notes": "cashew milk modelled as unsweetened almond milk"
+}

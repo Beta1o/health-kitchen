@@ -1,0 +1,38 @@
+{
+ "id": 6445111,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 603,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169655,
+   "g": 50,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 120,
+   "name": "Vinegar, red wine"
+  }
+ ],
+ "notes": "White wine vinegar as red wine vinegar; all marinade counted as eaten."
+}

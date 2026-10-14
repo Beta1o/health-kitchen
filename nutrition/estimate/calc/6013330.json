@@ -1,0 +1,60 @@
+{
+ "id": 6013330,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 172233,
+   "g": 2.2,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 27.5,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 6.8,
+   "name": "oil, canola"
+  },
+  {
+   "line": 6,
+   "fdc": 167746,
+   "g": 29,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 7,
+   "fdc": 169145,
+   "g": 454,
+   "name": "beets, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 9,
+   "fdc": 167749,
+   "g": 6,
+   "name": "lemon peel, raw"
+  }
+ ]
+}

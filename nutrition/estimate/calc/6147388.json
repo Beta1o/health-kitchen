@@ -1,0 +1,55 @@
+{
+ "id": 6147388,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168867,
+   "g": 17,
+   "name": "cornmeal, yellow, degermed"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 10,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 2.7,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 175176,
+   "g": 227,
+   "name": "fish, tilapia, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170183,
+   "g": 14,
+   "name": "pecans, dry roasted, no salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "salt-free lemon pepper as black pepper"
+}

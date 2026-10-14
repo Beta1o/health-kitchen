@@ -1,0 +1,91 @@
+{
+ "id": 6101957,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 162,
+   "name": "Oats (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "Spices, nutmeg, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 3,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 117,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 6,
+   "fdc": 173950,
+   "g": 95,
+   "name": "Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 168209,
+   "g": 95,
+   "name": "Raspberries, frozen, red, unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 168173,
+   "g": 95,
+   "name": "Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 173462,
+   "g": 126,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 735,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 173430,
+   "g": 9.4,
+   "name": "Butter, without salt"
+  },
+  {
+   "line": 11,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  }
+ ],
+ "notes": "Frozen mixed berries split blueberry/raspberry/strawberry. Brown sugar substitute as sucralose."
+}

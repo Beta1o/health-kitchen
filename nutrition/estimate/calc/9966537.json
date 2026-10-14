@@ -1,0 +1,30 @@
+{
+ "id": 9966537,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174832,
+   "g": 480,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 1,
+   "fdc": 170187,
+   "g": 39,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 236,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "spices, cinnamon, ground"
+  }
+ ]
+}

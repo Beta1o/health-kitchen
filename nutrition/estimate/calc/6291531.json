@@ -1,0 +1,66 @@
+{
+ "id": 6291531,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172689,
+   "g": 100,
+   "name": "bread, whole-wheat, toasted"
+  },
+  {
+   "line": 1,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 171597,
+   "g": 500,
+   "name": "sauce, marinara, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ]
+}

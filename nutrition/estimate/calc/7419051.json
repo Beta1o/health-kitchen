@@ -1,0 +1,73 @@
+{
+ "id": 7419051,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 0.3,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 169949,
+   "g": 231,
+   "name": "plums, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 153,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175119,
+   "g": 360,
+   "name": "mackerel, Atlantic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 174081,
+   "g": 180,
+   "name": "tortillas, whole wheat"
+  },
+  {
+   "line": 10,
+   "fdc": 169249,
+   "g": 100,
+   "name": "lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Mackerel fillets taken as fresh raw (could be smoked: sodium would be much higher); wholemeal tortillas ~45 g each."
+}

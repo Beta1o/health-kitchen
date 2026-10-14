@@ -1,0 +1,42 @@
+{
+ "id": 6625864,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172688,
+   "g": 56,
+   "name": "whole-wheat bread"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 0.4,
+   "name": "garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 173594,
+   "g": 30,
+   "name": "mayonnaise light"
+  },
+  {
+   "line": 3,
+   "fdc": 170874,
+   "g": 122,
+   "name": "buttermilk lowfat"
+  },
+  {
+   "line": 4,
+   "fdc": 171247,
+   "g": 7.5,
+   "name": "parmesan grated"
+  },
+  {
+   "line": 5,
+   "fdc": 169249,
+   "g": 120,
+   "name": "lettuce green leaf"
+  }
+ ]
+}

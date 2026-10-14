@@ -1,0 +1,109 @@
+{
+ "id": 7791572,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169997,
+   "g": 30,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170497,
+   "g": 30,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 90,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 20,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168573,
+   "g": 30,
+   "name": "Lemon grass (citronella), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 4,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 60,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 169961,
+   "g": 200,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 175167,
+   "g": 260,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170173,
+   "g": 80,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 12,
+   "fdc": 175215,
+   "g": 250,
+   "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 13,
+   "fdc": 175180,
+   "g": 200,
+   "name": "Crustaceans, shrimp, cooked"
+  },
+  {
+   "line": 14,
+   "fdc": 168462,
+   "g": 75,
+   "name": "Spinach, raw"
+  }
+ ],
+ "notes": "light coconut milk 200 ml -> 80 g canned coconut milk (light ~40% of regular); lime zest -> lemon peel entry"
+}

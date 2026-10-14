@@ -1,0 +1,67 @@
+{
+ "id": 6246200,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173594,
+   "g": 80,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171330,
+   "g": 2.8,
+   "name": "poppy seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171477,
+   "g": 280,
+   "name": "chicken breast, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion"
+  },
+  {
+   "line": 8,
+   "fdc": 174916,
+   "g": 128,
+   "name": "pita, whole-wheat"
+  },
+  {
+   "line": 9,
+   "fdc": 169249,
+   "g": 30,
+   "name": "lettuce, green leaf"
+  }
+ ]
+}

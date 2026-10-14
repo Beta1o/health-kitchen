@@ -1,0 +1,61 @@
+{
+ "id": 9159147,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 450,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 4.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 21,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 30,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 30,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 172237,
+   "g": 30,
+   "name": "Vinegar, distilled"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "rice vinegar as distilled vinegar"
+}

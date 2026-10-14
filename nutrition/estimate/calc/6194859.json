@@ -1,0 +1,42 @@
+{
+ "id": 6194859,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170874,
+   "g": 61,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 4,
+   "fdc": 172175,
+   "g": 17,
+   "name": "cheese, blue"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

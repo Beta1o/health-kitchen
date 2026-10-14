@@ -1,0 +1,32 @@
+{
+ "id": 6197232,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173884,
+   "g": 29,
+   "name": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS"
+  },
+  {
+   "line": 1,
+   "fdc": 167976,
+   "g": 31.5,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  },
+  {
+   "line": 2,
+   "fdc": 170567,
+   "g": 107,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 3,
+   "fdc": 171708,
+   "g": 53,
+   "name": "Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Multigrain cereal O's -> Cheerios. Dried cherries entry is sweetened (sugar not flagged added)."
+}

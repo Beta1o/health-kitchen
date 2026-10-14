@@ -1,0 +1,49 @@
+{
+ "id": 7186194,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173582,
+   "g": 15,
+   "name": "margarine-like spread 60% fat, tub, with salt"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168389,
+   "g": 160,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 25,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 450,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 175215,
+   "g": 152,
+   "name": "soymilk, unsweetened, fortified"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "dairy-free spread as 60% vegetable oil spread; reduced salt vegetable stock as home-prepared stock; 10 asparagus spears ~16 g each"
+}

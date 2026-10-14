@@ -1,0 +1,42 @@
+{
+ "id": 6724295,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 680,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 170582,
+   "g": 45,
+   "name": "hazelnuts, blanched"
+  }
+ ]
+}

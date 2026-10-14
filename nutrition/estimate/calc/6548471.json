@@ -1,0 +1,115 @@
+{
+ "id": 6548471,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 160,
+   "name": "onion, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 75,
+   "name": "green bell pepper, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 75,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168576,
+   "g": 14,
+   "name": "jalapeno, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 2.6,
+   "name": "chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "cumin"
+  },
+  {
+   "line": 9,
+   "fdc": 175238,
+   "g": 454,
+   "name": "black beans, canned, low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 174928,
+   "g": 108,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 11,
+   "fdc": 168867,
+   "g": 35,
+   "name": "cornmeal, yellow, degermed"
+  },
+  {
+   "line": 12,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice"
+  },
+  {
+   "line": 13,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 14,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 15,
+   "fdc": 171292,
+   "g": 28,
+   "name": "cheddar, reduced fat"
+  },
+  {
+   "line": 16,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro, fresh"
+  },
+  {
+   "line": 17,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  }
+ ],
+ "notes": "16 oz can beans not drained: 454 g counted with the low-sodium drained entry. Lime zest as lemon peel. Cornmeal 1/4 cup plus 5 g dusting."
+}

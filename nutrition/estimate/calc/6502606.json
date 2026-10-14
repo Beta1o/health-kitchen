@@ -1,0 +1,55 @@
+{
+ "id": 6502606,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168098,
+   "g": 42,
+   "name": "Cheese, monterey, low fat"
+  },
+  {
+   "line": 1,
+   "fdc": 170920,
+   "g": 2,
+   "name": "Spices, celery seed"
+  },
+  {
+   "line": 2,
+   "fdc": 170499,
+   "g": 30,
+   "name": "Shallots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171443,
+   "g": 58,
+   "name": "Mayonnaise, reduced fat, with olive oil"
+  },
+  {
+   "line": 5,
+   "fdc": 173709,
+   "g": 226,
+   "name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 728,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  }
+ ],
+ "notes": "Reduced-fat pepper Jack as low-fat Monterey. Whole tomatoes counted (some pulp may be scooped out)."
+}

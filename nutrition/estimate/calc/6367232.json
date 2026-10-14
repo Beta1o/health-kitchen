@@ -1,0 +1,56 @@
+{
+ "id": 6367232,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172371,
+   "g": 42,
+   "name": "Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil"
+  },
+  {
+   "line": 1,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 6,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 81,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 168917,
+   "g": 370,
+   "name": "Quinoa, cooked"
+  },
+  {
+   "line": 6,
+   "fdc": 175007,
+   "g": 70,
+   "name": "Pancakes, plain, dry mix, incomplete (includes buttermilk)"
+  },
+  {
+   "line": 7,
+   "fdc": 167976,
+   "g": 42,
+   "name": "Candies, semisweet chocolate",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Pamela's gluten-free baking mix -> pancake dry mix stand-in; sweetener 1/4 cup ~6 g granular sucralose"
+}

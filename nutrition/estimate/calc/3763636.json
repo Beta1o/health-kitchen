@@ -1,0 +1,142 @@
+{
+ "id": 3763636,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174924,
+   "g": 400,
+   "name": "bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 100,
+   "added_sugar": true,
+   "name": "sugars, brown"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171284,
+   "g": 100,
+   "name": "yogurt, plain, whole milk"
+  },
+  {
+   "line": 4,
+   "fdc": 172370,
+   "g": 50,
+   "name": "oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 7,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 8,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 90,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168165,
+   "g": 90,
+   "name": "raisins, dark, seedless (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 11,
+   "fdc": 172184,
+   "g": 17,
+   "name": "egg, yolk, raw, fresh"
+  },
+  {
+   "line": 12,
+   "fdc": 169655,
+   "g": 12.5,
+   "added_sugar": true,
+   "name": "sugars, granulated"
+  },
+  {
+   "line": 13,
+   "fdc": 169109,
+   "g": 100,
+   "name": "passion-fruit juice, purple, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 173430,
+   "g": 15,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 15,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 16,
+   "fdc": 170859,
+   "g": 100,
+   "name": "cream, fluid, heavy whipping"
+  },
+  {
+   "line": 17,
+   "fdc": 173418,
+   "g": 100,
+   "name": "cheese, cream"
+  },
+  {
+   "line": 18,
+   "fdc": 169656,
+   "g": 25,
+   "added_sugar": true,
+   "name": "sugars, powdered"
+  },
+  {
+   "line": 19,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 20,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 21,
+   "fdc": 169103,
+   "g": 2,
+   "name": "orange peel, raw"
+  }
+ ],
+ "notes": "Bread as white bread; mascarpone approximated by full-fat cream cheese (lower fat than real mascarpone)."
+}

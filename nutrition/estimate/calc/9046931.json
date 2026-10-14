@@ -1,0 +1,91 @@
+{
+ "id": 9046931,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 907,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 0.5,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 175036,
+   "g": 156,
+   "name": "tortillas, corn"
+  },
+  {
+   "line": 11,
+   "fdc": 175188,
+   "g": 128,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 16,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 168156,
+   "g": 5,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "toppings without amounts (coleslaw, guacamole, cashew cream, tomato/jalapeno/olives) left out; corn tortillas 26 g each"
+}

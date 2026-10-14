@@ -1,0 +1,48 @@
+{
+ "id": 6018812,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 454,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 20.4,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 169698,
+   "g": 5.3,
+   "name": "cornstarch"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.1,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": 6445063,
+ "servings": 6,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171327,
+   "g": 3,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 2,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 1,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 175179,
+   "g": 567,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 7,
+   "fdc": 170571,
+   "g": 34,
+   "name": "cashews, dry roasted, unsalted"
+  },
+  {
+   "line": 8,
+   "fdc": 173431,
+   "g": 20,
+   "name": "cheese, parmesan, shredded"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Salt-free seasoning blend (1 tbsp) modelled as onion/garlic powder and pepper. Cooking water left out."
+}

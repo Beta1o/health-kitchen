@@ -1,0 +1,36 @@
+{
+ "id": 6247707,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169998,
+   "g": 180,
+   "name": "corn, sweet, yellow, raw (kernels of 2 ears)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 171247,
+   "g": 5,
+   "name": "parmesan"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ]
+}

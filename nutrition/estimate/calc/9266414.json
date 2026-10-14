@@ -1,0 +1,49 @@
+{
+ "id": 9266414,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175188,
+   "g": 227,
+   "name": "beans, black turtle, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 174278,
+   "g": 36,
+   "name": "soy sauce, tamari"
+  },
+  {
+   "line": 6,
+   "fdc": 173904,
+   "g": 54,
+   "name": "oats, dry"
+  }
+ ],
+ "notes": "Buns, lettuce, tomato, pickle and sauces have no amounts and are left out (patty only)."
+}

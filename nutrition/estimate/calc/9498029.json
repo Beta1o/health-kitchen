@@ -1,0 +1,79 @@
+{
+ "id": 9498029,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168482,
+   "g": 907,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168472,
+   "g": 680,
+   "name": "squash, winter, acorn, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169986,
+   "g": 428,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 1440,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 170162,
+   "g": 40,
+   "name": "nuts, cashew nuts, raw (cashew cream)"
+  },
+  {
+   "line": 12,
+   "fdc": 169994,
+   "g": 1,
+   "name": "chives, raw"
+  }
+ ],
+ "notes": "cashew cream without amount guessed as 40 g raw cashews; low-sodium vegetable broth as home-prepared stock"
+}

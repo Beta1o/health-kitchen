@@ -1,0 +1,55 @@
+{
+ "id": 6340387,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173691,
+   "g": 454,
+   "name": "fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167746,
+   "g": 30,
+   "name": "lemons, raw, without peel"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 171322,
+   "g": 0.25,
+   "name": "spices, dill weed, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170008,
+   "g": 55,
+   "name": "onions, sweet, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "Half lemon in slices counted as 30 g flesh."
+}

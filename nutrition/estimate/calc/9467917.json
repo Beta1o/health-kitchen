@@ -1,0 +1,55 @@
+{
+ "id": 9467917,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 145,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 300,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 173944,
+   "g": 118,
+   "name": "banana, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169414,
+   "g": 14,
+   "name": "flaxseed"
+  },
+  {
+   "line": 5,
+   "fdc": 172803,
+   "g": 13.8,
+   "name": "baking powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  }
+ ],
+ "notes": "Cashew milk as unsweetened almond milk."
+}

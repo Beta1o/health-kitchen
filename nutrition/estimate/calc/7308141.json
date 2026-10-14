@@ -1,0 +1,103 @@
+{
+ "id": 7308141,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169296,
+   "g": 100,
+   "name": "butternut squash, baked, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 13.5,
+   "name": "canola oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 120,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 170567,
+   "g": 40,
+   "name": "almonds"
+  },
+  {
+   "line": 5,
+   "fdc": 170187,
+   "g": 40,
+   "name": "walnuts"
+  },
+  {
+   "line": 5,
+   "fdc": 170569,
+   "g": 35,
+   "name": "brazil nuts"
+  },
+  {
+   "line": 5,
+   "fdc": 170581,
+   "g": 35,
+   "name": "hazelnuts"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 150,
+   "name": "almonds (ground)"
+  },
+  {
+   "line": 8,
+   "fdc": 170190,
+   "g": 200,
+   "name": "chestnuts, european, roasted"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 171326,
+   "g": 0.4,
+   "name": "nutmeg"
+  },
+  {
+   "line": 12,
+   "fdc": 169287,
+   "g": 130,
+   "name": "spinach, frozen"
+  },
+  {
+   "line": 13,
+   "fdc": 171723,
+   "g": 25,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  }
+ ]
+}

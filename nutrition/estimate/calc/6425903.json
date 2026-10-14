@@ -1,0 +1,50 @@
+{
+ "id": 6425903,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170924,
+   "g": 0.5,
+   "name": "curry powder"
+  },
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170562,
+   "g": 32,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 3,
+   "fdc": 170577,
+   "g": 14,
+   "name": "coconut sweetened flaked",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 167976,
+   "g": 42,
+   "name": "chocolate chips semisweet",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 170158,
+   "g": 143,
+   "name": "almonds dry roasted unsalted"
+  },
+  {
+   "line": 6,
+   "fdc": 173806,
+   "g": 219,
+   "name": "peanuts dry-roasted unsalted"
+  }
+ ]
+}

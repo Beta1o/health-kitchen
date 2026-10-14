@@ -1,0 +1,55 @@
+{
+ "id": 6050583,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169205,
+   "g": 420,
+   "name": "Artichokes, (globe or french), raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 61,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 1,
+   "name": "Parsley, fresh"
+  }
+ ],
+ "notes": "Baby artichokes ~35 g edible each after trimming (guess)."
+}

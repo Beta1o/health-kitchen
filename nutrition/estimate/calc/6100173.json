@@ -1,0 +1,67 @@
+{
+ "id": 6100173,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 250,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 306,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives"
+  },
+  {
+   "line": 3,
+   "fdc": 173475,
+   "g": 1.6,
+   "name": "spearmint fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 35,
+   "name": "shallots"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 22,
+   "name": "balsamic vinegar"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 1.7,
+   "name": "black pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 171917,
+   "g": 158,
+   "name": "green tea brewed"
+  }
+ ],
+ "notes": "cucumber weight guessed 250 g; white balsamic via balsamic vinegar"
+}

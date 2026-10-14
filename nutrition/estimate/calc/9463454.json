@@ -1,0 +1,103 @@
+{
+ "id": 9463454,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 340,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 101,
+   "name": "celery, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169094,
+   "g": 67,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 53,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172233,
+   "g": 9,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 10,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider (rice vinegar)"
+  },
+  {
+   "line": 11,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 12,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 13,
+   "fdc": 171322,
+   "g": 6,
+   "name": "dill weed, dried"
+  },
+  {
+   "line": 14,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 15,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 16,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6661132,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173806,
+   "g": 36,
+   "name": "Peanuts, all types, dry-roasted, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 33,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 45,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 20,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170497,
+   "g": 3,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 2,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 0.26,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 167747,
+   "g": 5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170923,
+   "g": 0.15,
+   "name": "Spices, cumin seed"
+  }
+ ],
+ "notes": "Chaat masala approximated as cumin."
+}

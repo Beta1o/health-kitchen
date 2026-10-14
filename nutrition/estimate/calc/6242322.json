@@ -1,0 +1,109 @@
+{
+ "id": 6242322,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169986,
+   "g": 107,
+   "name": "cauliflower raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170924,
+   "g": 12.6,
+   "name": "curry powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 5.6,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170173,
+   "g": 60,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 11,
+   "fdc": 172884,
+   "g": 120,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 12,
+   "fdc": 169703,
+   "g": 123,
+   "name": "rice, brown, long-grain, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169698,
+   "g": 5.3,
+   "name": "cornstarch"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 90,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 170427,
+   "g": 75,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 17,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander leaves (cilantro), raw"
+  }
+ ],
+ "notes": "Lite coconut milk modelled as 60 g regular canned coconut milk (half of 1/2 cup; the rest water). Dry minced garlic as garlic powder."
+}

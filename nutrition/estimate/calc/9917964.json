@@ -1,0 +1,31 @@
+{
+ "id": 9917964,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 240,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 20.7,
+   "name": "baking powder, double-acting"
+  },
+  {
+   "line": 2,
+   "fdc": 172456,
+   "g": 486,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 13,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "Fruit and sweet toppings have no amounts and are left out."
+}

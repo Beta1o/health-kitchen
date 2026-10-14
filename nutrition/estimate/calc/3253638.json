@@ -1,0 +1,91 @@
+{
+ "id": 3253638,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169756,
+   "g": 300,
+   "name": "Rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171025,
+   "g": 27,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 10,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 45,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 168389,
+   "g": 220,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171688,
+   "g": 360,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 11,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "Oil, sesame, salad or cooking"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 5,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170106,
+   "g": 30,
+   "name": "Peppers, hot chili, red, raw"
+  }
+ ],
+ "notes": "Jasmine rice -> white long-grain raw. Optional chillies included (2 x 15 g)."
+}

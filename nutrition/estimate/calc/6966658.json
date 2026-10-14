@@ -1,0 +1,121 @@
+{
+ "id": 6966658,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172847,
+   "g": 454,
+   "name": "Turkey, ground, fat free, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169262,
+   "g": 115,
+   "name": "Okra, frozen, unprepared"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 5,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 1,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 168893,
+   "g": 15,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 14,
+   "fdc": 172884,
+   "g": 960,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 15,
+   "fdc": 170051,
+   "g": 397,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 16,
+   "fdc": 169704,
+   "g": 390,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 17,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ],
+ "notes": "Cajun seasoning not in SR: modeled as paprika 5 g + salt 2 g; 99% lean turkey -> fat-free ground turkey; brown rice cooked 195 g/cup"
+}

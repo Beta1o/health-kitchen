@@ -1,0 +1,85 @@
+{
+ "id": 6937788,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 15,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171054,
+   "g": 280,
+   "name": "Chicken, broilers or fryers, meat only, cooked, roasted"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 168894,
+   "g": 23.4,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 480,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 170922,
+   "g": 0.9,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 10,
+   "fdc": 170894,
+   "g": 122,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 11,
+   "fdc": 172216,
+   "g": 28,
+   "name": "Cheese, Mexican, blend, reduced fat"
+  },
+  {
+   "line": 12,
+   "fdc": 175036,
+   "g": 208,
+   "name": "Tortillas, ready-to-bake or -fry, corn"
+  }
+ ],
+ "notes": "coarse salt 1/4 tsp ~1.2 g; low-sodium broth -> home-prepared chicken stock"
+}

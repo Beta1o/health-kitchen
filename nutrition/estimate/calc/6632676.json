@@ -1,0 +1,91 @@
+{
+ "id": 6632676,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 174592,
+   "g": 60,
+   "name": "Bacon, turkey, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 840,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 175204,
+   "g": 540,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 255,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "Spices, parsley, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 169736,
+   "g": 100,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 13,
+   "fdc": 171247,
+   "g": 20,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Quinoa shell pasta approximated as enriched dry pasta (1 cup ~100 g); turkey bacon 15 g/slice; two 16-oz cans beans drained ~270 g each."
+}

@@ -1,0 +1,60 @@
+{
+ "id": 6146081,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174220,
+   "g": 454,
+   "name": "sea scallops"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 150,
+   "name": "large onion"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 144,
+   "name": "large carrots"
+  },
+  {
+   "line": 6,
+   "fdc": 172237,
+   "g": 15,
+   "name": "white wine vinegar (distilled vinegar entry)"
+  },
+  {
+   "line": 7,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives"
+  },
+  {
+   "line": 8,
+   "fdc": 168910,
+   "g": 187,
+   "name": "whole-wheat pasta, cooked"
+  }
+ ]
+}

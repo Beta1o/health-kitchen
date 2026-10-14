@@ -1,0 +1,60 @@
+{
+ "id": 6188990,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171248,
+   "g": 425,
+   "name": "ricotta, part skim (low-fat)"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley"
+  },
+  {
+   "line": 3,
+   "fdc": 172233,
+   "g": 0.6,
+   "name": "dill"
+  },
+  {
+   "line": 4,
+   "fdc": 170005,
+   "g": 50,
+   "name": "green onion"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  }
+ ]
+}

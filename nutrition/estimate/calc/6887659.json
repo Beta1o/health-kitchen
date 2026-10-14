@@ -1,0 +1,61 @@
+{
+ "id": 6887659,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168546,
+   "g": 200,
+   "name": "peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15.25,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Cannellini drained+rinsed as canned white beans. 8 oz jar roasted peppers taken as 200 g canned red peppers."
+}

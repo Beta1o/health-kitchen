@@ -1,0 +1,54 @@
+{
+ "id": 6606672,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175036,
+   "g": 104,
+   "name": "small corn tortillas x4"
+  },
+  {
+   "line": 1,
+   "fdc": 170138,
+   "g": 260,
+   "name": "no-salt diced tomatoes drained"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "coarse salt 1/2 tsp"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg"
+  },
+  {
+   "line": 6,
+   "fdc": 170900,
+   "g": 14,
+   "name": "mozz"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cil"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": 9066355,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 340,
+   "name": "tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 1,
+   "fdc": 168833,
+   "g": 48,
+   "name": "sugars, brown (for coconut sugar)",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 80,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168833,
+   "g": 12,
+   "name": "sugars, brown (for coconut sugar)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "coconut sugar as brown sugar (topping 1 tsp per ramekin x3, ~4 g each); berry garnish left out"
+}

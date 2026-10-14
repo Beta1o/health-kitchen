@@ -1,0 +1,91 @@
+{
+ "id": 6679815,
+ "servings": 7,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.3,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 168141,
+   "g": 84,
+   "name": "cheese, swiss, low fat"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172347,
+   "g": 4.7,
+   "name": "margarine, regular, 80% fat, composite, tub, with salt"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171609,
+   "g": 120,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 169698,
+   "g": 5.3,
+   "name": "cornstarch"
+  },
+  {
+   "line": 11,
+   "fdc": 173441,
+   "g": 61,
+   "name": "milk, fluid, 1% fat, without added vitamin a and vitamin d"
+  },
+  {
+   "line": 12,
+   "fdc": 168505,
+   "g": 480,
+   "name": "beans, snap, green, canned, no salt added, drained solids"
+  },
+  {
+   "line": 13,
+   "fdc": 174648,
+   "g": 28,
+   "name": "cereals ready-to-eat, ralston corn flakes"
+  },
+  {
+   "line": 14,
+   "fdc": 172347,
+   "g": 23.3,
+   "name": "margarine, regular, 80% fat, composite, tub, with salt"
+  }
+ ],
+ "notes": "Light creamy Swiss cheese wedges (4 x 21 g) as low-fat Swiss cheese; low-sodium vegetable broth as canned low-sodium chicken broth; drained green beans 240 g per can."
+}

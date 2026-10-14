@@ -1,0 +1,55 @@
+{
+ "id": 6270743,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172806,
+   "g": 240,
+   "name": "Bread, crumbs, dry, grated, seasoned"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171317,
+   "g": 1.5,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 132,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173627,
+   "g": 907,
+   "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw"
+  }
+ ],
+ "notes": "Whole wheat Italian-style crumbs -> seasoned bread crumbs; all coating counted (some is discarded). Italian seasoning -> oregano + basil."
+}

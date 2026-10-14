@@ -1,0 +1,85 @@
+{
+ "id": 6568654,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 700,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170029,
+   "g": 227,
+   "name": "red potatoes raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 240,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 397,
+   "name": "tomatoes canned in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 0.75,
+   "name": "oregano dried"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas canned drained rinsed"
+  },
+  {
+   "line": 11,
+   "fdc": 174266,
+   "g": 32,
+   "name": "peanut butter smooth with salt"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley fresh"
+  }
+ ],
+ "notes": "medium butternut squash taken as ~700 g edible"
+}

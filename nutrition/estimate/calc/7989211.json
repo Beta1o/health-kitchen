@@ -1,0 +1,42 @@
+{
+ "id": 7989211,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169225,
+   "g": 150,
+   "name": "Cucumber, peeled, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 250,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 3,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

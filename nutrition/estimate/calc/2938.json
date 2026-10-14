@@ -1,0 +1,31 @@
+{
+ "id": 2938,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174915,
+   "g": 450,
+   "name": "bread, pita, white, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.1,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 4.7,
+   "name": "garlic powder"
+  }
+ ],
+ "notes": "8-inch pita assumed 75 g each"
+}

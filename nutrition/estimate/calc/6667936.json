@@ -1,0 +1,30 @@
+{
+ "id": 6667936,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 100,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 52,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 120,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  }
+ ]
+}

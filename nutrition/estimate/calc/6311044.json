@@ -1,0 +1,55 @@
+{
+ "id": 6311044,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 454,
+   "name": "chicken thigh, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171333,
+   "g": 1.2,
+   "name": "rosemary, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "canola oil"
+  },
+  {
+   "line": 4,
+   "fdc": 168472,
+   "g": 390,
+   "name": "squash, acorn, raw (edible part of 567 g)"
+  },
+  {
+   "line": 5,
+   "fdc": 168203,
+   "g": 180,
+   "name": "apple, granny smith"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cinnamon"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": 7280237,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 250,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171017,
+   "g": 4.5,
+   "name": "Oil, sunflower, linoleic (less than 60%)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170924,
+   "g": 4,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171017,
+   "g": 3,
+   "name": "Oil, sunflower, linoleic (less than 60%)"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 173442,
+   "g": 15,
+   "name": "Sour cream, reduced fat"
+  }
+ ],
+ "notes": "curry paste (no SR entry) built from curry powder 4 g, oil 3 g, salt 0.6 g; reduced-fat creme fraiche as reduced-fat sour cream"
+}

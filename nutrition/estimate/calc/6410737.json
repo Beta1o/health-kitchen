@@ -1,0 +1,98 @@
+{
+ "id": 6410737,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 4,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169947,
+   "g": 45,
+   "name": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 24,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 172240,
+   "g": 15,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 21,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "Spices, ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 175159,
+   "g": 454,
+   "name": "Fish, tuna, fresh, yellowfin, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 11,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 169124,
+   "g": 300,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 120,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "12 pineapple cubes (1.5 in) taken as ~300 g. Tuna steaks as yellowfin raw."
+}

@@ -1,0 +1,42 @@
+{
+ "id": 6318845,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 82,
+   "name": "yogurt, greek, plain, nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 169414,
+   "g": 7.6,
+   "name": "flaxseed"
+  },
+  {
+   "line": 2,
+   "fdc": 168450,
+   "g": 122,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 171332,
+   "g": 0.4,
+   "name": "pumpkin pie spice"
+  },
+  {
+   "line": 6,
+   "fdc": 172213,
+   "g": 8,
+   "name": "whipped topping, fat free (Reddi Wip)"
+  }
+ ]
+}

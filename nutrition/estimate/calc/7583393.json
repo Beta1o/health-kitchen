@@ -1,0 +1,73 @@
+{
+ "id": 7583393,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 172791,
+   "g": 100,
+   "name": "Phyllo dough"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 160,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169288,
+   "g": 75,
+   "name": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.1,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 172233,
+   "g": 15,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 175167,
+   "g": 250,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 171267,
+   "g": 103,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 136,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "Milk assumed semi-skimmed; lemon wedge garnish left out."
+}

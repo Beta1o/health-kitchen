@@ -1,0 +1,84 @@
+{
+ "id": 7709454,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 150,
+   "name": "redpep"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 150,
+   "name": "yelpep"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 150,
+   "name": "greenpep"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 15,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 500,
+   "name": "zucchini"
+  },
+  {
+   "line": 5,
+   "fdc": 173473,
+   "g": 1,
+   "name": "rosefr"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 0.5,
+   "name": "thymefr"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano"
+  },
+  {
+   "line": 8,
+   "fdc": 170416,
+   "g": 20,
+   "name": "parsley"
+  },
+  {
+   "line": 9,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomcan"
+  },
+  {
+   "line": 10,
+   "fdc": 174317,
+   "g": 400,
+   "name": "lamb_leg_lean"
+  }
+ ]
+}

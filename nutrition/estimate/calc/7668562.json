@@ -1,0 +1,61 @@
+{
+ "id": 7668562,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167758,
+   "g": 500,
+   "name": "rhubarb, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 3,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170886,
+   "g": 30,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 41,
+   "name": "oil, canola"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 100,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 2.5,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171269,
+   "g": 103,
+   "name": "milk, nonfat"
+  }
+ ],
+ "notes": "granulated sweetener as sucralose (2 tbsp ~3 g)"
+}

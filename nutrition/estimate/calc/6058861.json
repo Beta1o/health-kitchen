@@ -1,0 +1,36 @@
+{
+ "id": 6058861,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169276,
+   "g": 454,
+   "name": "radishes, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "lemon juice, raw"
+  }
+ ]
+}

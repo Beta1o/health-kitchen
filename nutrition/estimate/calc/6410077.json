@@ -1,0 +1,31 @@
+{
+ "id": 6410077,
+ "servings": 24,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173417,
+   "g": 226,
+   "name": "cottage cheese 1%"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 245,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 2,
+   "fdc": 169287,
+   "g": 140,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 3,
+   "fdc": 172243,
+   "g": 9,
+   "name": "seasoning mix, taco (ranch mix proxy)"
+  }
+ ],
+ "notes": "Ranch dressing powder mix has no SR Legacy entry; taco seasoning mix used as a proxy (sodium likely understated)."
+}

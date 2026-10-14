@@ -1,0 +1,49 @@
+{
+ "id": 7812028,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 135,
+   "name": "apples, raw, with skin"
+  },
+  {
+   "line": 0,
+   "fdc": 174683,
+   "g": 130,
+   "name": "grapes, red or green, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 169124,
+   "g": 135,
+   "name": "pineapple, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 30,
+   "name": "yogurt, greek, plain, nonfat (for fat-free fromage frais)"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 50,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171711,
+   "g": 50,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167755,
+   "g": 50,
+   "name": "raspberries, raw"
+  }
+ ],
+ "notes": "Mixed fruit split apple/grapes/pineapple; fromage frais modeled as nonfat Greek yogurt; sugar-free sweetener left out (no calories)."
+}

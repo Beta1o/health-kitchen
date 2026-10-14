@@ -1,0 +1,25 @@
+{
+ "id": 6931035,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172420,
+   "g": 192,
+   "name": "Lentils, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 720,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  }
+ ],
+ "notes": "lentils read as dry; low-sodium vegetable broth as home-prepared stock"
+}

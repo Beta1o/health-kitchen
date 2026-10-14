@@ -1,0 +1,61 @@
+{
+ "id": 7835214,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169640,
+   "g": 14,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon zest"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 169295,
+   "g": 300,
+   "name": "butternut squash raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168482,
+   "g": 300,
+   "name": "sweet potato raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170393,
+   "g": 150,
+   "name": "carrot"
+  },
+  {
+   "line": 6,
+   "fdc": 173473,
+   "g": 1,
+   "name": "rosemary fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171955,
+   "g": 300,
+   "name": "cod"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "id": 7014881,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 720,
+   "name": "thigh"
+  },
+  {
+   "line": 1,
+   "fdc": 171315,
+   "g": 0.5,
+   "name": "allspice"
+  },
+  {
+   "line": 2,
+   "fdc": 171326,
+   "g": 2.2,
+   "name": "nutmeg"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinn"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "small red onion"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 60,
+   "name": "scallion"
+  },
+  {
+   "line": 6,
+   "fdc": 170106,
+   "g": 10,
+   "name": "chilired"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limejuice"
+  },
+  {
+   "line": 8,
+   "fdc": 169124,
+   "g": 500,
+   "name": "pineapple flesh"
+  },
+  {
+   "line": 9,
+   "fdc": 171025,
+   "g": 1,
+   "name": "1-cal spray"
+  },
+  {
+   "line": 10,
+   "fdc": 170497,
+   "g": 10,
+   "name": "chiligreen"
+  },
+  {
+   "line": 11,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limejuice"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 10,
+   "name": "cilantro"
+  },
+  {
+   "line": 14,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrot"
+  },
+  {
+   "line": 15,
+   "fdc": 171688,
+   "g": 180,
+   "name": "Granny Smith"
+  },
+  {
+   "line": 16,
+   "fdc": 173469,
+   "g": 10,
+   "name": "cider"
+  },
+  {
+   "line": 17,
+   "fdc": 170562,
+   "g": 9,
+   "name": "sunseed"
+  }
+ ],
+ "notes": "Medium pineapple flesh guessed 500 g. Spray as 1 g oil."
+}

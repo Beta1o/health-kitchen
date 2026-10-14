@@ -1,0 +1,97 @@
+{
+ "id": 9357019,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 238,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 227,
+   "name": "mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 5,
+   "fdc": 170054,
+   "g": 122,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 6,
+   "fdc": 171583,
+   "g": 240,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 7,
+   "fdc": 175215,
+   "g": 243,
+   "name": "soymilk, unsweetened, with added calcium"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 9,
+   "name": "spices, paprika (smoked)"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 4,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171327,
+   "g": 3,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 2,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 169698,
+   "g": 16,
+   "name": "cornstarch"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Cajun seasoning (3 tbsp) not in SR: modeled as paprika/garlic/onion/cayenne plus 3 g salt (salt content of blend uncertain)"
+}

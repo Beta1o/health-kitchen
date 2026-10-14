@@ -1,0 +1,93 @@
+{
+ "id": 9344030,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 354,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172456,
+   "g": 75,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 150,
+   "name": "strawberries (frozen)"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 173944,
+   "g": 354,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172456,
+   "g": 37,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 7,
+   "fdc": 171893,
+   "g": 2.7,
+   "name": "coffee, instant, powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 173944,
+   "g": 354,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 172456,
+   "g": 37,
+   "name": "soymilk, original"
+  },
+  {
+   "line": 11,
+   "fdc": 173471,
+   "g": 1,
+   "name": "peppermint extract (as vanilla extract)"
+  },
+  {
+   "line": 12,
+   "fdc": 168462,
+   "g": 7.5,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 167976,
+   "g": 31.5,
+   "name": "candies, semisweet chocolate (chips)",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Card lists three flavour variants (9 bananas total); all ingredients counted and divided by 3 servings, which may overstate if each flavour serves 3. Peppermint extract as vanilla extract."
+}

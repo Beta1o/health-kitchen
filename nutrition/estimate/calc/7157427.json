@@ -1,0 +1,55 @@
+{
+ "id": 7157427,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion large"
+  },
+  {
+   "line": 2,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes canned"
+  },
+  {
+   "line": 3,
+   "fdc": 168556,
+   "g": 17,
+   "name": "ketchup",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "bay leaves"
+  },
+  {
+   "line": 5,
+   "fdc": 170930,
+   "g": 1,
+   "name": "parsley dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 171955,
+   "g": 300,
+   "name": "cod"
+  }
+ ]
+}

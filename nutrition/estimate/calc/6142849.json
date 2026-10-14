@@ -1,0 +1,85 @@
+{
+ "id": 6142849,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 8.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "Spices, turmeric, ground"
+  },
+  {
+   "line": 2,
+   "fdc": 170922,
+   "g": 3.6,
+   "name": "Spices, coriander seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171323,
+   "g": 2,
+   "name": "Spices, fennel seed"
+  },
+  {
+   "line": 4,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 5,
+   "fdc": 170497,
+   "g": 14,
+   "name": "Peppers, hot chili, green, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 2,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 174055,
+   "g": 510,
+   "name": "Beef, top sirloin, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171025,
+   "g": 9,
+   "name": "Oil, sunflower, linoleic, (approx. 65%)"
+  },
+  {
+   "line": 11,
+   "fdc": 168156,
+   "g": 20,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169997,
+   "g": 30,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "garam masala -> curry powder; lime wedges counted as 20 g juice"
+}

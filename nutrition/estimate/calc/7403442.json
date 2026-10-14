@@ -1,0 +1,49 @@
+{
+ "id": 7403442,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170016,
+   "g": 400,
+   "name": "peas frozen"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 110,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 5,
+   "name": "spearmint fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 172232,
+   "g": 5,
+   "name": "basil fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 170068,
+   "g": 30,
+   "name": "watercress"
+  },
+  {
+   "line": 5,
+   "fdc": 170063,
+   "g": 303,
+   "name": "vegetable juice cocktail"
+  },
+  {
+   "line": 7,
+   "fdc": 173443,
+   "g": 60,
+   "name": "sour cream light"
+  }
+ ],
+ "notes": "Vegetable juice as canned vegetable juice cocktail (may be meant as stock); low-fat creme fraiche as light sour cream."
+}

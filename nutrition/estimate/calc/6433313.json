@@ -1,0 +1,79 @@
+{
+ "id": 6433313,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 392,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 283,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 22.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 30,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 7,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "Salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 171247,
+   "g": 5,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "optional coarse salt included; Dijon as prepared mustard"
+}

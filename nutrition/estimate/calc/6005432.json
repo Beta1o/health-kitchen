@@ -1,0 +1,74 @@
+{
+ "id": 6005432,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171054,
+   "g": 280,
+   "name": "chicken, meat only, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 20,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171723,
+   "g": 40,
+   "name": "cranberries, dried, sweetened",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 170567,
+   "g": 12,
+   "name": "almonds"
+  },
+  {
+   "line": 5,
+   "fdc": 170894,
+   "g": 61,
+   "name": "greek yogurt nonfat plain"
+  },
+  {
+   "line": 6,
+   "fdc": 173594,
+   "g": 60,
+   "name": "mayonnaise, light"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  },
+  {
+   "line": 10,
+   "fdc": 174090,
+   "g": 210,
+   "name": "rolls, hamburger, whole wheat"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  }
+ ],
+ "notes": "Slider buns assumed 35 g each; dried cranberries are sweetened (sugar counted as added)."
+}

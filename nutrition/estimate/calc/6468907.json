@@ -1,0 +1,84 @@
+{
+ "id": 6468907,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 75,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 340,
+   "name": "mushrooms, crimini, raw (mixed)"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 50,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 5,
+   "fdc": 168567,
+   "g": 18,
+   "name": "tomatoes, sun-dried (dry weight)"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried (Italian seasoning)"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt (coarse)"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 10,
+   "fdc": 174928,
+   "g": 45,
+   "name": "bread crumbs, dry (panko)"
+  },
+  {
+   "line": 11,
+   "fdc": 171269,
+   "g": 122,
+   "name": "milk, nonfat"
+  },
+  {
+   "line": 12,
+   "fdc": 170187,
+   "g": 58,
+   "name": "walnuts"
+  }
+ ]
+}

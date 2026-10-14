@@ -1,0 +1,99 @@
+{
+ "id": 9310264,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 180,
+   "name": "beverages, almond milk, unsweetened, shelf stable"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 158,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170568,
+   "g": 175,
+   "name": "nuts, almonds, blanched"
+  },
+  {
+   "line": 4,
+   "fdc": 169741,
+   "g": 150,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 6.5,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171321,
+   "g": 0.26,
+   "name": "spices, cloves, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 172803,
+   "g": 11.5,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 172475,
+   "g": 340,
+   "name": "tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 12,
+   "fdc": 170162,
+   "g": 34,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169661,
+   "g": 110,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "Cashew milk as unsweetened almond milk; extra firm tofu as firm tofu; frosting maple syrup 5.5 tbsp."
+}

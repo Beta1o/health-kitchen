@@ -1,0 +1,42 @@
+{
+ "id": 9297046,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 454,
+   "name": "potatoes, russet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ]
+}

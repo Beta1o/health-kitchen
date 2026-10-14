@@ -1,0 +1,49 @@
+{
+ "id": 6454316,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170383,
+   "g": 454,
+   "name": "brussels sprouts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 13.75,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 167767,
+   "g": 150,
+   "name": "pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 170178,
+   "g": 8.4,
+   "name": "macadamia nuts, raw"
+  }
+ ]
+}

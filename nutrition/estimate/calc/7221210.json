@@ -1,0 +1,135 @@
+{
+ "id": 7221210,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168164,
+   "g": 25,
+   "name": "golden raisins (sultanas)"
+  },
+  {
+   "line": 1,
+   "fdc": 171724,
+   "g": 25,
+   "name": "currants dried"
+  },
+  {
+   "line": 2,
+   "fdc": 168165,
+   "g": 25,
+   "name": "raisins"
+  },
+  {
+   "line": 3,
+   "fdc": 167781,
+   "g": 10,
+   "name": "candied fruit (mixed peel)",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 171332,
+   "g": 6,
+   "name": "pumpkin pie spice (mixed spice)"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 7.8,
+   "name": "cinnamon"
+  },
+  {
+   "line": 6,
+   "fdc": 171321,
+   "g": 1.05,
+   "name": "cloves ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "ginger ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 9,
+   "fdc": 167766,
+   "g": 40,
+   "name": "glace cherries (maraschino)",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 10,
+   "name": "almonds"
+  },
+  {
+   "line": 10,
+   "fdc": 173944,
+   "g": 101,
+   "name": "banana"
+  },
+  {
+   "line": 11,
+   "fdc": 171688,
+   "g": 180,
+   "name": "apple with skin"
+  },
+  {
+   "line": 12,
+   "fdc": 170393,
+   "g": 50,
+   "name": "carrots raw"
+  },
+  {
+   "line": 13,
+   "fdc": 169705,
+   "g": 50,
+   "name": "oats"
+  },
+  {
+   "line": 14,
+   "fdc": 168893,
+   "g": 30,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 15,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder"
+  },
+  {
+   "line": 16,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel"
+  },
+  {
+   "line": 17,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 18,
+   "fdc": 170562,
+   "g": 10,
+   "name": "sunflower seeds"
+  },
+  {
+   "line": 19,
+   "fdc": 170556,
+   "g": 10,
+   "name": "pumpkin seeds dried"
+  }
+ ],
+ "notes": "mixed spice via pumpkin pie spice; glace cherries via maraschino, 20 g + 5 whole (~20 g); line 9 also holds 10 g almonds"
+}

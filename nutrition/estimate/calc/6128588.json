@@ -1,0 +1,55 @@
+{
+ "id": 6128588,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 340,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 130,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 150,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169096,
+   "g": 25,
+   "name": "olives, pickled, canned or bottled, green"
+  },
+  {
+   "line": 5,
+   "fdc": 172240,
+   "g": 60,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 7.5,
+   "name": "mustard, prepared, yellow"
+  }
+ ],
+ "notes": "Kalamata olives as pickled green olives; Dijon as prepared mustard."
+}

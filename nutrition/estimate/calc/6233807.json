@@ -1,0 +1,67 @@
+{
+ "id": 6233807,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170568,
+   "g": 48,
+   "name": "almond flour -> blanched almonds"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 121,
+   "name": "egg whites"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 173417,
+   "g": 226,
+   "name": "cottage cheese non-fat -> lowfat 1%"
+  },
+  {
+   "line": 7,
+   "fdc": 167762,
+   "g": 50,
+   "name": "strawberries"
+  },
+  {
+   "line": 7,
+   "fdc": 171711,
+   "g": 50,
+   "name": "blueberries"
+  },
+  {
+   "line": 7,
+   "fdc": 167755,
+   "g": 45,
+   "name": "raspberries"
+  }
+ ],
+ "notes": "non-fat cottage cheese: SR nonfat entry is unsalted dry curd, used lowfat 1%; mixed berries split three ways"
+}

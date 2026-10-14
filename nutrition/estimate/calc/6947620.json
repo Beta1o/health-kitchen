@@ -1,0 +1,73 @@
+{
+ "id": 6947620,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 91,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 90,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 168462,
+   "g": 30,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171329,
+   "g": 1.2,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 171269,
+   "g": 122,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  }
+ ],
+ "notes": "coarse salt 1/2 tsp ~2.4 g"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 7661931,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169079,
+   "g": 50,
+   "name": "cream cheese low fat"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lemon peel"
+  },
+  {
+   "line": 2,
+   "fdc": 172238,
+   "g": 6,
+   "name": "capers"
+  },
+  {
+   "line": 3,
+   "fdc": 170416,
+   "g": 5,
+   "name": "parsley fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 169994,
+   "g": 1,
+   "name": "chives"
+  },
+  {
+   "line": 5,
+   "fdc": 171985,
+   "g": 80,
+   "name": "smoked salmon lox"
+  },
+  {
+   "line": 6,
+   "fdc": 174899,
+   "g": 180,
+   "name": "bagel plain"
+  }
+ ],
+ "notes": "Mini bagel weight guessed at 45 g each."
+}

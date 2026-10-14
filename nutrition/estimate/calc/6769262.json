@@ -1,0 +1,85 @@
+{
+ "id": 6769262,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169738,
+   "g": 340,
+   "name": "whole wheat pasta dry"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 168894,
+   "g": 23.4,
+   "name": "flour all-purpose"
+  },
+  {
+   "line": 8,
+   "fdc": 171269,
+   "g": 488,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 11,
+   "fdc": 173709,
+   "g": 120,
+   "name": "tuna canned in water drained"
+  },
+  {
+   "line": 12,
+   "fdc": 173431,
+   "g": 40,
+   "name": "parmesan shredded"
+  }
+ ],
+ "notes": "Salt-free seasoning as garlic powder; tuna drained weight 120 g."
+}

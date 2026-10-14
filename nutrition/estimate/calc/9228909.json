@@ -1,0 +1,19 @@
+{
+ "id": 9228909,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169998,
+   "g": 204,
+   "name": "corn, sweet, yellow, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 174523,
+   "g": 61,
+   "name": "sauce, barbecue",
+   "added_sugar": true
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": 7743074,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 500,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 60,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 171833,
+   "g": 30,
+   "name": "Sauce, horseradish"
+  },
+  {
+   "line": 3,
+   "fdc": 169994,
+   "g": 3,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174570,
+   "g": 50,
+   "name": "Roast beef, deli style, prepackaged, sliced"
+  }
+ ],
+ "notes": "Fat-free fromage frais -> nonfat Greek yogurt plain."
+}

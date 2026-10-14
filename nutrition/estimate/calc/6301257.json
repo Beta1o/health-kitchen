@@ -1,0 +1,90 @@
+{
+ "id": 6301257,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 27.2,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 171077,
+   "g": 250,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 32,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 37,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169968,
+   "g": 45,
+   "name": "broccoli, frozen, chopped"
+  },
+  {
+   "line": 6,
+   "fdc": 170010,
+   "g": 16,
+   "name": "peas, edible-podded, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169986,
+   "g": 107,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173462,
+   "g": 63,
+   "name": "egg substitute, fat free"
+  },
+  {
+   "line": 9,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 11,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 13,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  }
+ ]
+}

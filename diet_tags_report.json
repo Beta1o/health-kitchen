@@ -1,0 +1,4920 @@
+{
+ "agreement_with_davita_aakp_pct": {
+  "CKD non-dialysis": 83,
+  "Dialysis": 94,
+  "Lower Protein": 73,
+  "Diabetes": 82
+ },
+ "added": {
+  "Diabetes Food Hub (ADA)": {
+   "Higher Potassium": 488,
+   "Lower Potassium": 366,
+   "CKD non-dialysis": 460,
+   "Dialysis": 634,
+   "Lower Protein": 822
+  },
+  "This Healthy Kitchen": {
+   "Higher Potassium": 101,
+   "Diabetes": 295,
+   "Lower Protein": 333,
+   "Dialysis": 222,
+   "CKD non-dialysis": 154,
+   "Lower Potassium": 103
+  },
+  "DaVita": {
+   "Lower Potassium": 563,
+   "Lower Protein": 95,
+   "Higher Potassium": 112,
+   "Diabetes": 65,
+   "CKD non-dialysis": 39
+  },
+  "Diabetes UK": {
+   "Lower Protein": 235,
+   "CKD non-dialysis": 109,
+   "Dialysis": 140,
+   "Higher Potassium": 164,
+   "Lower Potassium": 59
+  },
+  "AAKP": {
+   "Lower Potassium": 66,
+   "Lower Protein": 92,
+   "Higher Potassium": 62,
+   "Diabetes": 16,
+   "Dialysis": 33,
+   "CKD non-dialysis": 22
+  },
+  "Kidney Care UK": {
+   "Higher Potassium": 24,
+   "Diabetes": 9
+  },
+  "My Renal Nutrition": {
+   "CKD non-dialysis": 59,
+   "Dialysis": 73,
+   "Lower Protein": 45,
+   "Lower Potassium": 37,
+   "Higher Potassium": 12
+  },
+  "DaVita Saudi Arabia": {
+   "Higher Potassium": 4,
+   "Lower Protein": 2,
+   "Diabetes": 1,
+   "Dialysis": 1,
+   "CKD non-dialysis": 1,
+   "Lower Potassium": 1
+  },
+  "Saudi Kitchen": {
+   "Higher Potassium": 96,
+   "Lower Protein": 47,
+   "Dialysis": 7
+  }
+ },
+ "conflicts": [
+  [
+   7659110,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2595,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2902,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2710,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   1956,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3251,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   1002955,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   7262970,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7832746,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2626,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4691815,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1002949,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1002914,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2771,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002909,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3906,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3651,
+   "DaVita",
+   [
+    "Diabetes",
+    "Dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3067,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7256644,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7804832,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7398904,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1788,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2055,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1944,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4736759,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   2429,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3561,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2083,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7050301,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4614461,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7206527,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2451,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7217871,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6170052,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4313152,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7511962,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2516,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2289,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7644476,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4514201,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7562767,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3905,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2647,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3504,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7719810,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2160,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3852,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7231712,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4218015,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   7250013,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2582,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7332922,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1979,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3446,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   4207445,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2502,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6925472,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7212635,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7227794,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2056,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3692,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4777711,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2265,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6090763,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4602003,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3465,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7142366,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3196,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   55014,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3529,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3104,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1739,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2941,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4053424,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   6229594,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7161660,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7571497,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4800276,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   54951,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   7552718,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002644,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2209,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2402,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3592,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4297170,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2139,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1002604,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   7908780,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3720,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2002,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1959,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1725,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7212729,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2126,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7237258,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2996,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7805110,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1721,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3281,
+   "DaVita",
+   [
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   3640,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7793516,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4893714,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7215311,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6085562,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2851,
+   "DaVita",
+   [
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   4909485,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1821,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3006,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2564038,
+   "DaVita Saudi Arabia",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   3981,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2638,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7695929,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2521,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2982,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2246,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3223,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2141,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7949087,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3851,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1828,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2778,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4833652,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7522633,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3775,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4990756,
+   "AAKP",
+   [
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   4089818,
+   "AAKP",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3675,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3175,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3751,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2331,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7278452,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7385839,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3108,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3797,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6151668,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2920,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3225,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2950,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7113140,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4439578,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2295,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3334,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6867665,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3499,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7835214,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7587856,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2349,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6061452,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6014863,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2480,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7359781,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1882,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1822,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7574767,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3422,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2317,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2194,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2120,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2600,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2577,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   2913,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3886,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2519,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4646754,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2503,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4641030,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3511,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1992,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2401,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3353,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   3283,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   54941,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3126,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2887,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3461,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4483403,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4339883,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4898788,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2090,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3874,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3939,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2726,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3287,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7534283,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2420,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2479,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2757,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2081,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2337,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3809,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2038,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2593,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2437,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3176,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2020,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   1869,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2302,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3577,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1688,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2218,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3495,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2379258,
+   "DaVita Saudi Arabia",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   7241290,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002806,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002790,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7905699,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7727187,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7897849,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3113,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4576263,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3793,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   6832646,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3584,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3207,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1941,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7017274,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4964422,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2288,
+   "DaVita",
+   [
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   7727427,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2148,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4121615,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   3276,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7247412,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2914,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4300638,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2511,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7338005,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2253,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   1002647,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   6548749,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7363285,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7323191,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   54928,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2184,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6008382,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4407130,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3097,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2644,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2110,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6990463,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7389987,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3052,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3508,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3923,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7595443,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3755,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3609,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   2234,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1851,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3014,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2611,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3747,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6981196,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2473,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3368,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3630,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2905,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002726,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1002733,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4744423,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4836884,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2010,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7314971,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4479133,
+   "AAKP",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   2548,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1711,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7220139,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7926248,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4779899,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7065016,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3471,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3024,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3141,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   2734,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   4724969,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2837,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3128,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3509,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   1781,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3520,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3840,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7786545,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1802,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   2261,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6987636,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2214,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3069,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2633,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3730,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7651076,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2256,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7353647,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2030,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3637,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2155822,
+   "DaVita Saudi Arabia",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   7454682,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7161543,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3083,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2820,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2655,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2291,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3586,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3332,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6438996,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6131476,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2718,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   1762,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   1903,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2182,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1908,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2652,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7208015,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1764,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3965,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2684,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3411,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7485658,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7419051,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2930,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4773244,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2168,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7878991,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7806347,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2087,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1844,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2397,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7974942,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1915,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   2959,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3442,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3363,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3538,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7661931,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7100422,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7837338,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7683747,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4052289,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3412,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2078,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7619989,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4568797,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3226,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3712,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4446289,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   7179097,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7757165,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7367825,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7190087,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2006,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2483,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4619274,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2409,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3237,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4789611,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6139190,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4846825,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4687871,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3043,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   54947,
+   "DaVita",
+   [
+    "Lower Potassium"
+   ]
+  ],
+  [
+   7700186,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3513,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002829,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6562027,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3682,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1913,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7426196,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7482026,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7905259,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7520378,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3030,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   6217481,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7982558,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3714,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2637,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3503,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   2455,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   3403,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2413,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7809362,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4973268,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6836343,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4499972,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6074589,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7267024,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3413,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002963,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4115872,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2436,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   1950,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   7482887,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2471,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   4218425,
+   "AAKP",
+   [
+    "Diabetes",
+    "Dialysis"
+   ]
+  ],
+  [
+   7459232,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002629,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3888,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   7748136,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002857,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3942,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7975803,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7224947,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7006166,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7500982,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7334595,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6197232,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2989,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3937,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2555513,
+   "DaVita Saudi Arabia",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   1758,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3003,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2567,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7157800,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2341,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2346,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2073,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2961,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4280791,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4957725,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7557682,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3203,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3711,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4679807,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Dialysis"
+   ]
+  ],
+  [
+   4210635,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7014156,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2330,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1846,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2007,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2741,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3945,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   6752392,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7817889,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6769296,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2584,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3870,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1002990,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3366,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2831,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3244,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   7349349,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2314,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4170096,
+   "AAKP",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   6398040,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1002750,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7995017,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7247191,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4064711,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3084,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1760,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   7138695,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4558148,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2756,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2753,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1696,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6052216,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4091479,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3436,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1898,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3766,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2400,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6679003,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1988,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4469334,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3579,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1921,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3501,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4872286,
+   "AAKP",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   3316,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   7372432,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3726,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   7690806,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2411,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3960,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3364,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2951,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1943,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   6739333,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6406213,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7263439,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7183658,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7335144,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3374,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2462,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7805746,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1769,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7844829,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7900398,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2990,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3273,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3362,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7585916,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7034894,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3484,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7920525,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7607126,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4913710,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4880625,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3234,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3122,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   2444,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1707,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1734,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2460,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   2281,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3301,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   2499,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2136,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3291,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4893996,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3099,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   7211263,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3929,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4715278,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3920,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3490,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   7267124,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4426683,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2594,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6020482,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7571970,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7559129,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2082,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7644993,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7792690,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7325527,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7238981,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7857625,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4690157,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3427,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2639,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1749,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   7209689,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3151,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3027,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3404,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   3903,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2448,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1870,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   6536401,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2039,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   6001726,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6461989,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7859144,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7108939,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7136807,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3018,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2474,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7822207,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1934,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2781,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3239,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4653203,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2869,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   54953,
+   "DaVita",
+   [
+    "Dialysis"
+   ]
+  ],
+  [
+   1710,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2747,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   1937,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6972957,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   1784,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3331,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7882956,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3080,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   2177,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3599,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   4980045,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4595971,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   3784,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3054,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   3277,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1726,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   1899,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6965875,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2791,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4662787,
+   "AAKP",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2042,
+   "DaVita",
+   [
+    "Higher Potassium"
+   ]
+  ],
+  [
+   7293684,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7943784,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4541672,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2072,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7066965,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7106956,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2190,
+   "DaVita",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7346125,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4128883,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   2799,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   7716059,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6675774,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2168905,
+   "DaVita Saudi Arabia",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   6793545,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7767641,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2545,
+   "DaVita",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1982,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   2838,
+   "DaVita",
+   [
+    "Diabetes",
+    "Lower Protein"
+   ]
+  ],
+  [
+   3227,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   54930,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   4750582,
+   "AAKP",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   1829,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   7071862,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   7654528,
+   "Diabetes UK",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   2263,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6630727,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   3924,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   6326662,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6931629,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   6055782,
+   "Diabetes Food Hub (ADA)",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   4177552,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   4189204,
+   "AAKP",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   1894,
+   "DaVita",
+   [
+    "Lower Protein"
+   ]
+  ],
+  [
+   3776,
+   "DaVita",
+   [
+    "CKD non-dialysis",
+    "Lower Protein"
+   ]
+  ],
+  [
+   8388701,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8364233,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8184629,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8209870,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8217561,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   8973451,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8302643,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   8948148,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8882310,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8732321,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8510512,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8827618,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8563508,
+   "Saudi Kitchen",
+   [
+    "Diabetes",
+    "Lower Potassium"
+   ]
+  ],
+  [
+   8931533,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8813736,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8488762,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8547419,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8861015,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8606692,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8273097,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8282733,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   8621099,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis"
+   ]
+  ],
+  [
+   8092380,
+   "Saudi Kitchen",
+   [
+    "Diabetes",
+    "Lower Potassium"
+   ]
+  ],
+  [
+   8749249,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8158001,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8307084,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8888089,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8737541,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8950951,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8178564,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8454387,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   8655008,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8773393,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8434519,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8250747,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8146164,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8872488,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8879817,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8448083,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8822185,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8806052,
+   "Saudi Kitchen",
+   [
+    "Lower Potassium"
+   ]
+  ],
+  [
+   8052626,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8352970,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8401822,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8047539,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8546041,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8122925,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8681642,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8786062,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8528722,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8537975,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8531902,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8274562,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8758649,
+   "Saudi Kitchen",
+   [
+    "CKD non-dialysis",
+    "Diabetes"
+   ]
+  ],
+  [
+   8212604,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8936981,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8190598,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8269245,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8509390,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8162919,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8557472,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8908761,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8621621,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8567106,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8672714,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8742903,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ],
+  [
+   8485563,
+   "Saudi Kitchen",
+   [
+    "Diabetes"
+   ]
+  ]
+ ]
+}

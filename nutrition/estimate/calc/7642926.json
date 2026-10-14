@@ -1,0 +1,48 @@
+{
+ "id": 7642926,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170026,
+   "g": 250,
+   "name": "potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171583,
+   "g": 1200,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 4,
+   "fdc": 170068,
+   "g": 300,
+   "name": "watercress, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 310,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

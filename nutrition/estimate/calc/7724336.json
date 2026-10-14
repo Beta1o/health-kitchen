@@ -1,0 +1,43 @@
+{
+ "id": 7724336,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169756,
+   "g": 100,
+   "name": "basmati -> white long-grain rice raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 30,
+   "name": "unsweetened coconut milk drink ~ 30 g canned coconut milk equiv"
+  },
+  {
+   "line": 2,
+   "fdc": 175215,
+   "g": 309,
+   "name": "soy milk unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 2,
+   "name": "granulated sweetener (sucralose)"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 0.5,
+   "name": "vanilla"
+  },
+  {
+   "line": 5,
+   "fdc": 170579,
+   "g": 5,
+   "name": "coconut toasted"
+  }
+ ],
+ "notes": "coconut milk drink not in SR: 400 ml (~55 kcal) modelled as 30 g canned coconut milk"
+}

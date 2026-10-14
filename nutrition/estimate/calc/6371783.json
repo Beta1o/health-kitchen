@@ -1,0 +1,73 @@
+{
+ "id": 6371783,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175167,
+   "g": 454,
+   "name": "Fish, salmon, Atlantic, farmed, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 32,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169640,
+   "g": 14,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "Oil, sesame, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 4,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169704,
+   "g": 390,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 169967,
+   "g": 156,
+   "name": "Broccoli, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 110,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171705,
+   "g": 50,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 10,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ]
+}

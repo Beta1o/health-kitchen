@@ -1,0 +1,43 @@
+{
+ "id": 6460875,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 80,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 12,
+   "name": "sweetener, sucralose (Splenda)"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 152,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171711,
+   "g": 148,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173946,
+   "g": 144,
+   "name": "blackberries, raw"
+  }
+ ],
+ "notes": "1/2 cup low-calorie sugar substitute -> granulated sucralose ~12 g."
+}

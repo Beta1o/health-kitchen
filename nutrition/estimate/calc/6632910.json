@@ -1,0 +1,55 @@
+{
+ "id": 6632910,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173473,
+   "g": 1.7,
+   "name": "rosemary, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 175179,
+   "g": 454,
+   "name": "shrimp, raw"
+  }
+ ],
+ "notes": "2 lemons taken as juice + zest."
+}

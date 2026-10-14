@@ -1,0 +1,73 @@
+{
+ "id": 7059382,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169228,
+   "g": 550,
+   "name": "eggplant, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 200,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170189,
+   "g": 10,
+   "name": "seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 4,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170886,
+   "g": 15,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169247,
+   "g": 91,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 204,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 170106,
+   "g": 10,
+   "name": "peppers, hot chili, red, raw"
+  }
+ ],
+ "notes": "Little gem leaves 7 g each, cherry tomatoes 17 g each."
+}

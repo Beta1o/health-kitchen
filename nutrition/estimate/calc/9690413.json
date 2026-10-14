@@ -1,0 +1,48 @@
+{
+ "id": 9690413,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 128,
+   "name": "lentils, pink or red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171583,
+   "g": 480,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 2,
+   "fdc": 170189,
+   "g": 45,
+   "name": "tahini"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika (smoked)"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.23,
+   "name": "cayenne"
+  }
+ ]
+}

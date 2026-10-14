@@ -1,0 +1,54 @@
+{
+ "id": 6257680,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171893,
+   "g": 3,
+   "name": "Beverages, coffee, instant, regular, powder"
+  },
+  {
+   "line": 1,
+   "fdc": 171319,
+   "g": 8,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 6,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171819,
+   "g": 907,
+   "name": "Beef, round, eye of round, roast, separable lean only, trimmed to 1/8\" fat, choice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 227,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 42,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "Oil, canola"
+  }
+ ]
+}

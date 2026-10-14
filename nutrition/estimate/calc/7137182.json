@@ -1,0 +1,37 @@
+{
+ "id": 7137182,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172184,
+   "g": 17,
+   "name": "egg yolk, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 125,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 2,
+   "fdc": 175179,
+   "g": 240,
+   "name": "shrimp, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170471,
+   "g": 450,
+   "name": "vegetables, mixed, frozen (proxy for mixed fresh veg)"
+  },
+  {
+   "line": 4,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  }
+ ],
+ "notes": "12 tiger prawns ~20 g each shelled; mixed vegetables mapped to frozen mixed vegetables; deep-frying oil absorbed taken as 1 tbsp per guide (probably more in practice)."
+}

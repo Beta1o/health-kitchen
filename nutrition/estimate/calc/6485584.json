@@ -1,0 +1,79 @@
+{
+ "id": 6485584,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.3,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 171477,
+   "g": 280,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 2,
+   "fdc": 175238,
+   "g": 240,
+   "name": "Beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 168577,
+   "g": 85,
+   "name": "Peppers, chili, green, canned"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 238,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170894,
+   "g": 245,
+   "name": "\"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 6,
+   "fdc": 171824,
+   "g": 87,
+   "name": "Sauce, salsa, verde, ready-to-serve"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 2,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 172216,
+   "g": 84,
+   "name": "Cheese, Mexican, blend, reduced fat"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "no-salt-added black beans -> low-sodium canned black beans"
+}

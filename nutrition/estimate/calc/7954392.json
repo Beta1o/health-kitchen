@@ -1,0 +1,84 @@
+{
+ "id": 7954392,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 89,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169287,
+   "g": 250,
+   "name": "spinach, frozen, unprepared"
+  },
+  {
+   "line": 5,
+   "fdc": 170851,
+   "g": 150,
+   "name": "ricotta, whole milk"
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "nutmeg"
+  },
+  {
+   "line": 7,
+   "fdc": 169736,
+   "g": 120,
+   "name": "pasta, dry"
+  },
+  {
+   "line": 8,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste, no salt"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 12,
+   "fdc": 170845,
+   "g": 25,
+   "name": "mozzarella, whole milk"
+  }
+ ]
+}

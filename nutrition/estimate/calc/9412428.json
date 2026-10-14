@@ -1,0 +1,49 @@
+{
+ "id": 9412428,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169910,
+   "g": 289,
+   "name": "mangos, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 270,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 80,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170106,
+   "g": 8,
+   "name": "peppers, hot chili, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 8,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "Habanero as hot chili pepper, raw."
+}

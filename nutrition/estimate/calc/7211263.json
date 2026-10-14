@@ -1,0 +1,98 @@
+{
+ "id": 7211263,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168906,
+   "g": 250,
+   "name": "noodles, japanese, soba, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 172475,
+   "g": 320,
+   "name": "tofu, raw, firm, prepared with calcium sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 100,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 250,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 320,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170010,
+   "g": 150,
+   "name": "peas, edible-podded, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169975,
+   "g": 400,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171320,
+   "g": 0.4,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 13,
+   "fdc": 168556,
+   "g": 17,
+   "name": "catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 14,
+   "fdc": 170932,
+   "g": 0.3,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 15,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Half cabbage ~400 g, bunch spring onions ~100 g; optional spray oil left out; five spice as cinnamon."
+}

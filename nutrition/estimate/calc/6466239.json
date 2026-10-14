@@ -1,0 +1,36 @@
+{
+ "id": 6466239,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oliveoil"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 340,
+   "name": "grape tomatoes"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 172241,
+   "g": 32,
+   "name": "balsamic"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 1,
+   "name": "sugar substitute (sucralose)"
+  }
+ ]
+}

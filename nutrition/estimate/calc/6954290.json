@@ -1,0 +1,85 @@
+{
+ "id": 6954290,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172762,
+   "g": 220,
+   "name": "Muffins, English, whole-wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 99,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171269,
+   "g": 61,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 4,
+   "fdc": 172234,
+   "g": 2.5,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 171292,
+   "g": 25,
+   "name": "Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 6.8,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 10,
+   "fdc": 169994,
+   "g": 3,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 171705,
+   "g": 68,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 75,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "Whole wheat crumpets have no SR entry: whole-wheat English muffins used, 55 g each."
+}

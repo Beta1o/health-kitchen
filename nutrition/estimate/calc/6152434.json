@@ -1,0 +1,60 @@
+{
+ "id": 6152434,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173420,
+   "g": 37.5,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 2,
+   "fdc": 172233,
+   "g": 1.2,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 15.6,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 170894,
+   "g": 122,
+   "name": "yogurt, Greek, plain, nonfat"
+  }
+ ]
+}

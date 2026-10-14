@@ -1,0 +1,66 @@
+{
+ "id": 9661912,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168421,
+   "g": 180,
+   "name": "kale, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 38,
+   "name": "lemon juice"
+  },
+  {
+   "line": 2,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 3,
+   "fdc": 170148,
+   "g": 40,
+   "name": "hemp seed, hulled"
+  },
+  {
+   "line": 4,
+   "fdc": 169097,
+   "g": 131,
+   "name": "orange, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 83,
+   "name": "orange juice"
+  },
+  {
+   "line": 6,
+   "fdc": 173469,
+   "g": 30,
+   "name": "cider vinegar"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ]
+}

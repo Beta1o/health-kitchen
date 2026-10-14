@@ -1,0 +1,102 @@
+{
+ "id": 7616374,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "red onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 196,
+   "name": "courgette"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "eggs"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 206,
+   "name": "skimmed milk"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 30,
+   "name": "greek yogurt 0%"
+  },
+  {
+   "line": 8,
+   "fdc": 168867,
+   "g": 150,
+   "name": "polenta"
+  },
+  {
+   "line": 9,
+   "fdc": 168893,
+   "g": 150,
+   "name": "wholemeal flour"
+  },
+  {
+   "line": 10,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "baking powder"
+  },
+  {
+   "line": 11,
+   "fdc": 170899,
+   "g": 30,
+   "name": "mature cheddar"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 200,
+   "name": "tomatoes"
+  },
+  {
+   "line": 13,
+   "fdc": 170497,
+   "g": 15,
+   "name": "green chilli"
+  },
+  {
+   "line": 14,
+   "fdc": 173475,
+   "g": 3,
+   "name": "mint fresh"
+  },
+  {
+   "line": 15,
+   "fdc": 172237,
+   "g": 5,
+   "name": "vinegar"
+  }
+ ]
+}

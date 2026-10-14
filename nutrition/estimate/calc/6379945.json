@@ -1,0 +1,72 @@
+{
+ "id": 6379945,
+ "servings": 9,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173473,
+   "g": 1.4,
+   "name": "Rosemary, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173801,
+   "g": 500,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 7,
+   "fdc": 170051,
+   "g": 397,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 1200,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 5,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  }
+ ]
+}

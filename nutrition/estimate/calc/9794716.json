@@ -1,0 +1,67 @@
+{
+ "id": 9794716,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 200,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 100,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175204,
+   "g": 240,
+   "name": "beans, white, canned (cannellini)"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 9,
+   "fdc": 173904,
+   "g": 61,
+   "name": "oats, dry"
+  }
+ ],
+ "notes": "White kidney beans as canned white beans; toppings left out."
+}

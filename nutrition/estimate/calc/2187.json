@@ -1,0 +1,71 @@
+{
+ "id": 2187,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173430,
+   "g": 340,
+   "name": "butter, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 174957,
+   "g": 168,
+   "name": "graham crackers, plain",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 50,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 169656,
+   "g": 240,
+   "name": "sugars, powdered",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 171255,
+   "g": 121,
+   "name": "cream, half and half"
+  },
+  {
+   "line": 7,
+   "fdc": 169126,
+   "g": 567,
+   "name": "pineapple, canned, juice pack, solids and liquids"
+  },
+  {
+   "line": 8,
+   "fdc": 167762,
+   "g": 300,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170868,
+   "g": 227,
+   "name": "dessert topping, semi solid, frozen",
+   "added_sugar": true
+  }
+ ],
+ "notes": "pineapple taken with juice (not said drained); graham crumbs and topping flagged added sugar"
+}

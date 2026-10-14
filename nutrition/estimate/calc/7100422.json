@@ -1,0 +1,31 @@
+{
+ "id": 7100422,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174924,
+   "g": 240,
+   "name": "bread, white"
+  },
+  {
+   "line": 1,
+   "fdc": 168209,
+   "g": 167,
+   "name": "raspberries frozen unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 173946,
+   "g": 167,
+   "name": "blackberries"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries"
+  }
+ ],
+ "notes": "Frozen summer fruits split as raspberries/blackberries/strawberries; sweetener to taste left out."
+}

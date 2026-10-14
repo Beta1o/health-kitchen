@@ -1,0 +1,85 @@
+{
+ "id": 6354484,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173627,
+   "g": 340,
+   "name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 174289,
+   "g": 82,
+   "name": "Hummus, commercial"
+  },
+  {
+   "line": 4,
+   "fdc": 171917,
+   "g": 45,
+   "name": "Beverages, tea, green, brewed, regular"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 12.5,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 10,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 171610,
+   "g": 11.5,
+   "name": "Sauce, worcestershire"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 10,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 2.9,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 169249,
+   "g": 227,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169426,
+   "g": 15.5,
+   "name": "Nuts, pistachio nuts, dry roasted, with salt added"
+  }
+ ],
+ "notes": "Dijon as prepared yellow mustard; mixed greens as green leaf lettuce."
+}

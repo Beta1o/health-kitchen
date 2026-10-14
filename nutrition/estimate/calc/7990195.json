@@ -1,0 +1,55 @@
+{
+ "id": 7990195,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169295,
+   "g": 80,
+   "name": "squash, winter, butternut, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 750,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172884,
+   "g": 1000,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 170922,
+   "g": 1.8,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 5,
+   "fdc": 175204,
+   "g": 60,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172181,
+   "g": 45,
+   "name": "cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  }
+ ],
+ "notes": "Reduced-salt vegetable stock as home-prepared stock per guide; quark as nonfat uncreamed cottage cheese; half small pack coriander ~15 g."
+}

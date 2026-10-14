@@ -1,0 +1,37 @@
+{
+ "id": 6390494,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 2.8,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "Spices, basil, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "optional salt included at stated amount"
+}

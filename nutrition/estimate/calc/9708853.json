@@ -1,0 +1,97 @@
+{
+ "id": 9708853,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174270,
+   "g": 113,
+   "name": "soybeans, mature seeds, raw (for soy curls)"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 600,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 840,
+   "name": "soup, stock, chicken, home-prepared (for low sodium vegetable broth)"
+  },
+  {
+   "line": 6,
+   "fdc": 169736,
+   "g": 115,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 7,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175043,
+   "g": 10,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 10,
+   "fdc": 173469,
+   "g": 15,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 11,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 12,
+   "fdc": 174527,
+   "g": 5,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 13,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 14,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 15,
+   "fdc": 171329,
+   "g": 1.2,
+   "name": "spices, paprika (smoked)"
+  }
+ ],
+ "notes": "soy curls (dried whole soybeans) modeled as raw mature soybeans 113 g; 1.5 cups cavatappi ~115 g dry"
+}

@@ -1,0 +1,79 @@
+{
+ "id": 6114948,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 240,
+   "name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 7.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 171695,
+   "g": 122,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 122,
+   "name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 100,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 172336,
+   "g": 54.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 10,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 11,
+   "fdc": 169949,
+   "g": 165,
+   "name": "Plums, raw"
+  }
+ ],
+ "notes": "Baking sugar substitute assumed sucralose granulated (5 tbsp ~7.5 g); if it is a sugar blend calories/sugar are underestimated."
+}

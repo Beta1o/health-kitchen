@@ -1,0 +1,80 @@
+{
+ "id": 9877958,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 426,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173801,
+   "g": 240,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 2,
+   "fdc": 170182,
+   "g": 50,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 3,
+   "fdc": 171723,
+   "g": 60,
+   "name": "cranberries, dried, sweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168203,
+   "g": 180,
+   "name": "apple, granny smith, with skin"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170162,
+   "g": 103,
+   "name": "nuts, cashew, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 171330,
+   "g": 2.8,
+   "name": "spices, poppy seed"
+  }
+ ],
+ "notes": "dried UNSWEETENED cranberries have no SR entry; sweetened dried cranberries used (sugar overstated, not flagged as added); pecans chosen over walnuts"
+}

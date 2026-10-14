@@ -1,0 +1,46 @@
+{
+ "id": 9890977,
+ "servings": 26,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172346,
+   "g": 227,
+   "name": "Margarine, regular, 80% fat, composite, stick, with salt"
+  },
+  {
+   "line": 1,
+   "fdc": 169656,
+   "g": 60,
+   "added_sugar": true,
+   "name": "Sugars, powdered"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 168936,
+   "g": 219,
+   "name": "Wheat flour, white, all-purpose, enriched, unbleached"
+  },
+  {
+   "line": 4,
+   "fdc": 169656,
+   "g": 120,
+   "added_sugar": true,
+   "name": "Sugars, powdered"
+  },
+  {
+   "line": 7,
+   "fdc": 169655,
+   "g": 1,
+   "added_sugar": true,
+   "name": "Sugars, granulated"
+  }
+ ],
+ "notes": "vegan margarine as 80% stick margarine with salt; sprinkles (no amount) as 1 g sugar; food colouring left out"
+}

@@ -1,0 +1,79 @@
+{
+ "id": 3012658,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169295,
+   "g": 510,
+   "name": "Squash, winter, butternut, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 175,
+   "name": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)"
+  },
+  {
+   "line": 2,
+   "fdc": 172234,
+   "g": 10,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 3,
+   "fdc": 171613,
+   "g": 10,
+   "name": "Soup, bouillon cubes and granules, low sodium, dry"
+  },
+  {
+   "line": 4,
+   "fdc": 173469,
+   "g": 5,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 5,
+   "fdc": 169736,
+   "g": 250,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 174924,
+   "g": 100,
+   "name": "Bread, white, commercially prepared (includes soft bread crumbs)"
+  },
+  {
+   "line": 8,
+   "fdc": 170899,
+   "g": 50,
+   "name": "Cheese, cheddar, sharp, sliced"
+  },
+  {
+   "line": 9,
+   "fdc": 170567,
+   "g": 30,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 170379,
+   "g": 200,
+   "name": "Broccoli, raw"
+  }
+ ],
+ "notes": "Butternut ~600 g whole taken as 510 g flesh. Breadcrumbs as fresh white bread crumbs. Low salt stock cube as low-sodium bouillon 10 g. Dijon as prepared mustard."
+}

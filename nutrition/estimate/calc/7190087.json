@@ -1,0 +1,110 @@
+{
+ "id": 7190087,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 150,
+   "name": "cucumber, with peel"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "red onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrot"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 0.7,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 5,
+   "fdc": 172336,
+   "g": 9,
+   "name": "canola oil"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions"
+  },
+  {
+   "line": 8,
+   "fdc": 174515,
+   "g": 500,
+   "name": "turkey breast, meat only, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170108,
+   "g": 120,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 10,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 11,
+   "fdc": 170106,
+   "g": 10,
+   "name": "red chili"
+  },
+  {
+   "line": 12,
+   "fdc": 170388,
+   "g": 160,
+   "name": "cabbage, savoy, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170005,
+   "g": 60,
+   "name": "spring onions"
+  },
+  {
+   "line": 14,
+   "fdc": 172886,
+   "g": 25,
+   "name": "hoisin sauce (nasi goreng paste stand-in)",
+   "added_sugar": true
+  },
+  {
+   "line": 15,
+   "fdc": 170016,
+   "g": 160,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 16,
+   "fdc": 168878,
+   "g": 480,
+   "name": "rice, white, long-grain, cooked"
+  }
+ ],
+ "notes": "nasi goreng paste (1 heaped tbsp, 25 g) modelled as hoisin sauce"
+}

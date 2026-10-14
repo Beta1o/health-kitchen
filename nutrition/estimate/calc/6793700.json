@@ -1,0 +1,61 @@
+{
+ "id": 6793700,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 728,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 168165,
+   "g": 48,
+   "name": "raisins, dark, seedless (includes foods for usda's food distribution program)\",) {'calcium_mg': 62.0, 'calories': 299.0, 'carbohydrates_g': 79.32, 'cholesterol_mg': 0.0, 'fat_g': 0.25, 'fiber_g': 4.5, 'phosphorus_mg': 98.0, 'potassium_mg': 744.0, 'protein_g': 3.3, 'sodium_mg': 26.0, 'sugars_g': 65.18}\n"
+  },
+  {
+   "line": 3,
+   "fdc": 170899,
+   "g": 33,
+   "name": "cheese, cheddar, sharp, sliced"
+  },
+  {
+   "line": 4,
+   "fdc": 170887,
+   "g": 122,
+   "name": "yogurt, plain, skim milk"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 30,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 6,
+   "fdc": 169640,
+   "g": 31.5,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 173594,
+   "g": 15,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 8,
+   "fdc": 169418,
+   "g": 16,
+   "name": "seeds, sunflower seed kernels, dry roasted, with salt added"
+  }
+ ]
+}

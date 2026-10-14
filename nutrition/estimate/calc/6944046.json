@@ -1,0 +1,60 @@
+{
+ "id": 6944046,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175205,
+   "g": 100,
+   "name": "broadbeans (fava), mature seeds, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay leaf"
+  },
+  {
+   "line": 3,
+   "fdc": 171249,
+   "g": 22,
+   "name": "cheese, romano (pecorino)"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 27.2,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 171323,
+   "g": 2.5,
+   "name": "fennel seed"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.23,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ]
+}

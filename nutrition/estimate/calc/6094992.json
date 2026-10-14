@@ -1,0 +1,74 @@
+{
+ "id": 6094992,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169298,
+   "g": 800,
+   "name": "spaghetti squash, raw (edible part of 2.5 lb)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 50,
+   "name": "green onion"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 196,
+   "name": "zucchini"
+  },
+  {
+   "line": 5,
+   "fdc": 169251,
+   "g": 35,
+   "name": "mushrooms, white"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 172886,
+   "g": 32,
+   "name": "hoisin sauce (for prepared Pad Thai sauce)",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 175180,
+   "g": 227,
+   "name": "shrimp, cooked"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "Prepared Pad Thai sauce has no SR entry; hoisin sauce used as a sweet-salty stand-in."
+}

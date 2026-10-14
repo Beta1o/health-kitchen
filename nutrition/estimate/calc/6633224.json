@@ -1,0 +1,91 @@
+{
+ "id": 6633224,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.5,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 169251,
+   "g": 144,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 118,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 35,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170079,
+   "g": 125,
+   "name": "Beans, mung, mature seeds, sprouted, canned, drained solids"
+  },
+  {
+   "line": 6,
+   "fdc": 173462,
+   "g": 122,
+   "name": "Egg substitute, liquid or frozen, fat free"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 168894,
+   "g": 23,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 169698,
+   "g": 8,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 11,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 12,
+   "fdc": 172473,
+   "g": 10,
+   "name": "Soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 13,
+   "fdc": 171609,
+   "g": 360,
+   "name": "Soup, chicken broth, low sodium, canned"
+  }
+ ],
+ "notes": "optional 1/2 tsp salt included"
+}

@@ -1,0 +1,72 @@
+{
+ "id": 6750704,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169998,
+   "g": 280,
+   "name": "corn kernels from 3 ears"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 0.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 4,
+   "fdc": 170008,
+   "g": 80,
+   "name": "sweet onion"
+  },
+  {
+   "line": 5,
+   "fdc": 169291,
+   "g": 196,
+   "name": "zucchini"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 220,
+   "name": "tomatoes seeded"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano (fresh 1 tbsp ~ 1 g dried)"
+  },
+  {
+   "line": 8,
+   "fdc": 175036,
+   "g": 156,
+   "name": "corn tortillas 6 x 26 g"
+  },
+  {
+   "line": 9,
+   "fdc": 170894,
+   "g": 61,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 10,
+   "fdc": 174524,
+   "g": 130,
+   "name": "salsa"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": 6080447,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 168917,
+   "g": 370,
+   "name": "quinoa, cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 169079,
+   "g": 15,
+   "name": "cheese, cream, low fat"
+  },
+  {
+   "line": 3,
+   "fdc": 172183,
+   "g": 33,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170872,
+   "g": 244,
+   "name": "milk, lowfat 1%"
+  },
+  {
+   "line": 5,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 0.8,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  }
+ ]
+}

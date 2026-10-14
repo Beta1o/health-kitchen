@@ -1,0 +1,61 @@
+{
+ "id": 9064307,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 240,
+   "name": "wheat flour, white, all-purpose, enriched"
+  },
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 7,
+   "name": "oil, olive"
+  },
+  {
+   "line": 0,
+   "fdc": 173468,
+   "g": 5,
+   "name": "salt, table"
+  },
+  {
+   "line": 0,
+   "fdc": 175043,
+   "g": 3,
+   "name": "yeast, baker's, active dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170054,
+   "g": 82,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 2,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 172198,
+   "g": 120,
+   "name": "cheese substitute, mozzarella (for vegan mozzarella)"
+  },
+  {
+   "line": 5,
+   "fdc": 172232,
+   "g": 3,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "12-inch pizza dough ball (~400 g dough) modeled as 240 g flour, oil, salt, yeast; vegan mozzarella as SR cheese substitute mozzarella"
+}

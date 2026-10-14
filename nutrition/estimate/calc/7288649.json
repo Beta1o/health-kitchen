@@ -1,0 +1,31 @@
+{
+ "id": 7288649,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 125,
+   "name": "Pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 171267,
+   "g": 1236,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  },
+  {
+   "line": 2,
+   "fdc": 170919,
+   "g": 0.4,
+   "name": "Spices, cardamom"
+  },
+  {
+   "line": 4,
+   "fdc": 170184,
+   "g": 60,
+   "name": "Nuts, pistachio nuts, raw"
+  }
+ ],
+ "notes": "sweetener to taste left out"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6260150,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170894,
+   "g": 368,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 170257,
+   "g": 1,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 169124,
+   "g": 165,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 4,
+   "fdc": 170158,
+   "g": 17,
+   "name": "Nuts, almonds, dry roasted, without salt added"
+  }
+ ],
+ "notes": "Coconut extract has no entry: vanilla extract used as proxy. Sugar substitute as sucralose packets."
+}

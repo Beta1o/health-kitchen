@@ -1,0 +1,62 @@
+{
+ "id": 9839357,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174270,
+   "g": 227,
+   "name": "soybeans, mature seeds, raw (soy curls)"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 120,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 64,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 174527,
+   "g": 30,
+   "name": "sauce, pepper or hot"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 171327,
+   "g": 7.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 9.3,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Soy curls as raw mature soybeans; liquid smoke (1 tbsp) has no USDA entry and is left out."
+}

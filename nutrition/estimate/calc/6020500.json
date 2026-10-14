@@ -1,0 +1,48 @@
+{
+ "id": 6020500,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 2,
+   "fdc": 175179,
+   "g": 454,
+   "name": "shrimp raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "black pepper"
+  }
+ ]
+}

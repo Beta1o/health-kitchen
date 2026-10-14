@@ -1,0 +1,109 @@
+{
+ "id": 6963119,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171325,
+   "g": 6.2,
+   "name": "garlic powder"
+  },
+  {
+   "line": 1,
+   "fdc": 171327,
+   "g": 4.8,
+   "name": "onion powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 170938,
+   "g": 1,
+   "name": "thyme, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 4.2,
+   "name": "cumin"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 5.2,
+   "name": "chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "cayenne / red pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 171955,
+   "g": 340,
+   "name": "cod, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173573,
+   "g": 34,
+   "name": "avocado oil"
+  },
+  {
+   "line": 11,
+   "fdc": 169998,
+   "g": 210,
+   "name": "corn, sweet yellow, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 168576,
+   "g": 14,
+   "name": "jalapeno, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "lime juice"
+  },
+  {
+   "line": 15,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel (zest)"
+  },
+  {
+   "line": 16,
+   "fdc": 169997,
+   "g": 2,
+   "name": "cilantro, fresh"
+  }
+ ],
+ "notes": "Lime zest as lemon peel."
+}

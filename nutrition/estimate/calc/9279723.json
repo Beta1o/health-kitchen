@@ -1,0 +1,61 @@
+{
+ "id": 9279723,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169311,
+   "g": 240,
+   "name": "artichokes, boiled, with salt (canned hearts)"
+  },
+  {
+   "line": 2,
+   "fdc": 170162,
+   "g": 137,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175043,
+   "g": 20,
+   "name": "yeast, active dry (nutritional yeast stand-in)"
+  },
+  {
+   "line": 5,
+   "fdc": 169717,
+   "g": 60,
+   "name": "tapioca, pearl, dry (tapioca starch)"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled (rice vinegar)"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 9,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 174832,
+   "g": 180,
+   "name": "almond milk unsweetened (cashew milk)"
+  }
+ ],
+ "notes": "Spinach as 2 large handfuls fresh (~60 g); canned artichoke hearts as boiled artichokes with salt; tapioca starch as pearl tapioca; vegan parmesan topping left out."
+}

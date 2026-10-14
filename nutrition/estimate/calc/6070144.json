@@ -1,0 +1,55 @@
+{
+ "id": 6070144,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169760,
+   "g": 97.5,
+   "name": "Rice, white, medium-grain, raw, unenriched"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 728,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 54,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 172232,
+   "g": 10.6,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 6.4,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Arborio as medium-grain white rice; stock as home-prepared low-sodium chicken stock; beefsteak tomatoes 182 g each."
+}

@@ -1,0 +1,85 @@
+{
+ "id": 6200474,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169738,
+   "g": 227,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 160,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169291,
+   "g": 226,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 149,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172181,
+   "g": 248,
+   "name": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 171247,
+   "g": 20,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 170138,
+   "g": 411,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+  },
+  {
+   "line": 10,
+   "fdc": 172232,
+   "g": 12,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 12,
+   "fdc": 170900,
+   "g": 75,
+   "name": "Cheese, mozzarella, low moisture, part-skim, shredded"
+  }
+ ],
+ "notes": "fat-free ricotta approximated by nonfat cottage cheese (dry curd)"
+}

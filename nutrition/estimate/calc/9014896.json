@@ -1,0 +1,79 @@
+{
+ "id": 9014896,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine, 80% fat, tub, with salt (vegan butter)"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 168893,
+   "g": 30,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 7,
+   "fdc": 170457,
+   "g": 1361,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 720,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 9,
+   "fdc": 170917,
+   "g": 0.4,
+   "name": "spices, bay leaf"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 2,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 172475,
+   "g": 454,
+   "name": "tofu, raw, firm"
+  }
+ ],
+ "notes": "Vegan butter as margarine 80%."
+}

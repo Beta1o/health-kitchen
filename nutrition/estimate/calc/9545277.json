@@ -1,0 +1,73 @@
+{
+ "id": 9545277,
+ "servings": 2,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 20,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 2,
+   "fdc": 171331,
+   "g": 1.9,
+   "name": "spices, poultry seasoning"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 1.8,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 2.3,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170930,
+   "g": 0.1,
+   "name": "spices, parsley, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170920,
+   "g": 0.5,
+   "name": "spices, celery seed"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 170162,
+   "g": 69,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 174832,
+   "g": 60,
+   "name": "almond milk, unsweetened (for cashew milk)"
+  },
+  {
+   "line": 11,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "crackers/croutons to serve left out; nutritional yeast as active dry yeast"
+}

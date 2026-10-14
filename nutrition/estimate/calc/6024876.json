@@ -1,0 +1,37 @@
+{
+ "id": 6024876,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 30,
+   "name": "green onion raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 60,
+   "name": "carrots raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174070,
+   "g": 30,
+   "name": "sauce, peanut"
+  },
+  {
+   "line": 3,
+   "fdc": 171477,
+   "g": 170,
+   "name": "chicken breast, meat only, roasted"
+  },
+  {
+   "line": 4,
+   "fdc": 168429,
+   "g": 45,
+   "name": "lettuce, butterhead"
+  }
+ ],
+ "notes": "'6 med julienne carrots' read as about 60 g of matchstick carrots (6 whole carrots seemed implausible for 6 wraps)."
+}

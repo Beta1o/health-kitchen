@@ -1,0 +1,84 @@
+{
+ "id": 6637373,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168450,
+   "g": 425,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169878,
+   "g": 120,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 3,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171326,
+   "g": 1.1,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 9,
+   "fdc": 173904,
+   "g": 81,
+   "name": "oats, dry"
+  },
+  {
+   "line": 10,
+   "fdc": 170568,
+   "g": 56,
+   "name": "almonds, blanched (almond flour)"
+  },
+  {
+   "line": 11,
+   "fdc": 170182,
+   "g": 27,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 12,
+   "fdc": 172370,
+   "g": 27,
+   "name": "oil, vegetable, soybean"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6175376,
+ "servings": 9,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 75,
+   "name": "green bell pepper raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 250,
+   "name": "egg whole raw"
+  },
+  {
+   "line": 5,
+   "fdc": 172183,
+   "g": 132,
+   "name": "egg white raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parmesan grated"
+  }
+ ],
+ "notes": "Optional salt (1/2 tsp) included."
+}

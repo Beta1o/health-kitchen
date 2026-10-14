@@ -1,0 +1,55 @@
+{
+ "id": 6021807,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169298,
+   "g": 480,
+   "name": "squash, winter, spaghetti, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170138,
+   "g": 794,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 172232,
+   "g": 5.3,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "small spaghetti squash taken as 480 g flesh; low-sodium crushed tomatoes as canned no salt added"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6168694,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 1361,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170257,
+   "g": 9,
+   "name": "sucralose sweetener (brown sugar substitute)"
+  },
+  {
+   "line": 3,
+   "fdc": 169098,
+   "g": 60,
+   "name": "orange juice"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 169414,
+   "g": 28,
+   "name": "flaxseed, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170187,
+   "g": 58,
+   "name": "walnuts"
+  },
+  {
+   "line": 7,
+   "fdc": 172347,
+   "g": 28,
+   "name": "margarine, tub"
+  },
+  {
+   "line": 8,
+   "fdc": 172183,
+   "g": 198,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175041,
+   "g": 0.75,
+   "name": "cream of tartar"
+  }
+ ],
+ "notes": "low-calorie brown sugar substitute taken as sucralose granular ~9 g"
+}

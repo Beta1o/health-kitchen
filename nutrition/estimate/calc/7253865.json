@@ -1,0 +1,91 @@
+{
+ "id": 7253865,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173582,
+   "g": 15,
+   "name": "margarine-like spread 60%"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "bay leaf"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170027,
+   "g": 450,
+   "name": "potatoes russet raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170170,
+   "g": 25,
+   "name": "coconut desiccated unsweetened"
+  },
+  {
+   "line": 6,
+   "fdc": 171269,
+   "g": 619,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 7,
+   "fdc": 172885,
+   "g": 600,
+   "name": "fish stock home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 171955,
+   "g": 300,
+   "name": "cod raw"
+  },
+  {
+   "line": 8,
+   "fdc": 175167,
+   "g": 150,
+   "name": "salmon atlantic farmed raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175180,
+   "g": 100,
+   "name": "shrimp cooked"
+  },
+  {
+   "line": 10,
+   "fdc": 170016,
+   "g": 125,
+   "name": "peas frozen"
+  },
+  {
+   "line": 11,
+   "fdc": 168398,
+   "g": 125,
+   "name": "corn, sweet, yellow, frozen"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 11,
+   "name": "parsley fresh"
+  }
+ ],
+ "notes": "Mixed fish as 300 g cod + 150 g salmon; fish stock as home-prepared fish stock."
+}

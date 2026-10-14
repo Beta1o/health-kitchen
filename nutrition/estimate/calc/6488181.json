@@ -1,0 +1,73 @@
+{
+ "id": 6488181,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 46,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 2,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169124,
+   "g": 165,
+   "name": "pineapple, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170497,
+   "g": 10,
+   "name": "peppers, hot chili, green, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168578,
+   "g": 33,
+   "name": "peppers, hungarian, raw (banana pepper)"
+  },
+  {
+   "line": 8,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 175180,
+   "g": 180,
+   "name": "crustaceans, shrimp, cooked"
+  }
+ ],
+ "notes": "12 cooked shrimp size not given: taken as 15 g each (180 g). Banana pepper modelled as hungarian pepper."
+}

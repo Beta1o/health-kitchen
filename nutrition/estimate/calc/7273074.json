@@ -1,0 +1,36 @@
+{
+ "id": 7273074,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 18,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 15,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 500,
+   "name": "tomatoes, raw"
+  }
+ ]
+}

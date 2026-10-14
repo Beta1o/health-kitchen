@@ -1,0 +1,115 @@
+{
+ "id": 7534224,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 169231,
+   "g": 15,
+   "name": "ginger"
+  },
+  {
+   "line": 3,
+   "fdc": 170497,
+   "g": 10,
+   "name": "chiligreen"
+  },
+  {
+   "line": 4,
+   "fdc": 170924,
+   "g": 6.3,
+   "name": "curry"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinn"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "chilli flakes"
+  },
+  {
+   "line": 5,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric"
+  },
+  {
+   "line": 6,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 5,
+   "name": "nigella seeds (as cumin seed)"
+  },
+  {
+   "line": 9,
+   "fdc": 170051,
+   "g": 200,
+   "name": "tomcan"
+  },
+  {
+   "line": 10,
+   "fdc": 170173,
+   "g": 90,
+   "name": "reduced-fat coconut milk 200 ml (as ~45% regular)"
+  },
+  {
+   "line": 11,
+   "fdc": 169260,
+   "g": 175,
+   "name": "okra"
+  },
+  {
+   "line": 12,
+   "fdc": 168462,
+   "g": 100,
+   "name": "spinach"
+  },
+  {
+   "line": 13,
+   "fdc": 170457,
+   "g": 200,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 14,
+   "fdc": 175179,
+   "g": 200,
+   "name": "shrimp"
+  },
+  {
+   "line": 15,
+   "fdc": 171955,
+   "g": 400,
+   "name": "white fish"
+  },
+  {
+   "line": 16,
+   "fdc": 168156,
+   "g": 15,
+   "name": "limejuice"
+  }
+ ],
+ "notes": "Reduced-fat coconut milk not in SR Legacy: 200 ml modelled as 90 g regular canned coconut milk (rest water). Nigella seeds as cumin seed. Optional sweetener left out."
+}

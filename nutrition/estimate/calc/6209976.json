@@ -1,0 +1,55 @@
+{
+ "id": 6209976,
+ "servings": 4,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 61,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169205,
+   "g": 256,
+   "name": "Artichokes, (globe or french), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172688,
+   "g": 64,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 25,
+   "name": "Cheese, parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ],
+ "notes": "Artichokes 128 g each; lemon juice partly in the cooking water but counted in full."
+}

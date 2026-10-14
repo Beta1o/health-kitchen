@@ -1,0 +1,37 @@
+{
+ "id": 9122292,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 236,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170568,
+   "g": 72,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 2,
+   "fdc": 168191,
+   "g": 168,
+   "name": "Dates, medjool"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 174832,
+   "g": 30,
+   "name": "Beverages, almond milk, unsweetened, shelf stable"
+  }
+ ],
+ "notes": "dates assumed Medjool (7 x 24 g); toppings without amounts left out"
+}

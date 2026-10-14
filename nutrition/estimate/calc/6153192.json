@@ -1,0 +1,79 @@
+{
+ "id": 6153192,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 168462,
+   "g": 120,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 200,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 172184,
+   "g": 17,
+   "name": "Egg, yolk, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 2.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171583,
+   "g": 30,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 8,
+   "fdc": 170887,
+   "g": 61,
+   "name": "Yogurt, plain, skim milk"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 172762,
+   "g": 132,
+   "name": "Muffins, English, whole-wheat"
+  }
+ ],
+ "notes": "Low sodium vegetable broth entered as regular vegetable broth (2 tbsp only)."
+}

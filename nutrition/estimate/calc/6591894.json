@@ -1,0 +1,49 @@
+{
+ "id": 6591894,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 1021,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Lemon taken as its juice (45 g)."
+}

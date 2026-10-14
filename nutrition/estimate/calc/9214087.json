@@ -1,0 +1,104 @@
+{
+ "id": 9214087,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 255,
+   "name": "beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 175043,
+   "g": 16,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 60,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 3,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 171322,
+   "g": 1,
+   "name": "spices, dill weed, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 169251,
+   "g": 454,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172473,
+   "g": 48,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 11,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika (smoked)"
+  },
+  {
+   "line": 12,
+   "fdc": 169247,
+   "g": 376,
+   "name": "lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocados, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 168398,
+   "g": 136,
+   "name": "corn, sweet, yellow, frozen, unprepared"
+  },
+  {
+   "line": 15,
+   "fdc": 170457,
+   "g": 275,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 16,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw (red)"
+  }
+ ],
+ "notes": "nutritional yeast as active dry yeast"
+}

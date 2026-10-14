@@ -1,0 +1,30 @@
+{
+ "id": 9576533,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 30,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  }
+ ]
+}

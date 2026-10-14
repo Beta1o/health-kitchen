@@ -1,0 +1,61 @@
+{
+ "id": 7607126,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169703,
+   "g": 100,
+   "name": "brown rice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168462,
+   "g": 150,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171613,
+   "g": 18,
+   "name": "bouillon, low sodium, dry"
+  },
+  {
+   "line": 7,
+   "fdc": 170857,
+   "g": 30,
+   "name": "cream, light"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Low-salt vegetable stock (900 ml) modelled as 18 g low-sodium bouillon plus water; single cream as light cream."
+}

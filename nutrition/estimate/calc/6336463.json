@@ -1,0 +1,36 @@
+{
+ "id": 6336463,
+ "servings": 1,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173950,
+   "g": 78,
+   "name": "blueberries, frozen, unsweetened"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 168588,
+   "g": 5.3,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 4,
+   "fdc": 170257,
+   "g": 1,
+   "name": "sucralose sweetener (Splenda)"
+  }
+ ]
+}

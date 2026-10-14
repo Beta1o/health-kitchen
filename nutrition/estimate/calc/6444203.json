@@ -1,0 +1,54 @@
+{
+ "id": 6444203,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169097,
+   "g": 131,
+   "name": "oranges raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170187,
+   "g": 30,
+   "name": "walnuts english"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 60,
+   "name": "shallots raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170383,
+   "g": 860,
+   "name": "brussels sprouts raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  }
+ ]
+}

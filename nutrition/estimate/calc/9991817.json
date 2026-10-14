@@ -1,0 +1,97 @@
+{
+ "id": 9991817,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 14,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 454,
+   "name": "mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170381,
+   "g": 450,
+   "name": "broccoli raab raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170924,
+   "g": 2,
+   "name": "curry powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "cayenne / red pepper flakes"
+  },
+  {
+   "line": 9,
+   "fdc": 170054,
+   "g": 490,
+   "name": "tomato sauce, canned"
+  },
+  {
+   "line": 10,
+   "fdc": 170173,
+   "g": 400,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 11,
+   "fdc": 173801,
+   "g": 330,
+   "name": "chickpeas, canned, drained, rinsed"
+  },
+  {
+   "line": 12,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander leaves (cilantro), raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170497,
+   "g": 1,
+   "name": "peppers, hot chili, green, raw"
+  }
+ ],
+ "notes": "Servings 6 from portions. 19 oz can chickpeas drained ~330 g. Rice/naan to serve has no amount, left out; garnish 1 g each."
+}

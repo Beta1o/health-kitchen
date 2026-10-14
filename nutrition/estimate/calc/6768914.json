@@ -1,0 +1,55 @@
+{
+ "id": 6768914,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 172233,
+   "g": 2.2,
+   "name": "dill fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 167746,
+   "g": 60,
+   "name": "lemon without peel"
+  },
+  {
+   "line": 5,
+   "fdc": 169097,
+   "g": 131,
+   "name": "orange"
+  },
+  {
+   "line": 6,
+   "fdc": 171959,
+   "g": 284,
+   "name": "mahimahi raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170379,
+   "g": 200,
+   "name": "broccoli raw"
+  }
+ ],
+ "notes": "lemon and orange slices cooked in the packet counted as eaten; broccoli crown assumed 200 g"
+}

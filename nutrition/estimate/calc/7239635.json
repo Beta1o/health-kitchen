@@ -1,0 +1,72 @@
+{
+ "id": 7239635,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168409,
+   "g": 175,
+   "name": "cucumber"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "red onion"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 171833,
+   "g": 10,
+   "name": "horseradish sauce"
+  },
+  {
+   "line": 4,
+   "fdc": 171009,
+   "g": 9,
+   "name": "mayonnaise"
+  },
+  {
+   "line": 5,
+   "fdc": 170886,
+   "g": 30,
+   "name": "low-fat yogurt"
+  },
+  {
+   "line": 6,
+   "fdc": 174918,
+   "g": 100,
+   "name": "dark rye bread (pumpernickel)"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 100,
+   "name": "salad leaves"
+  },
+  {
+   "line": 8,
+   "fdc": 171985,
+   "g": 100,
+   "name": "smoked salmon"
+  },
+  {
+   "line": 9,
+   "fdc": 172238,
+   "g": 3,
+   "name": "capers"
+  },
+  {
+   "line": 11,
+   "fdc": 167747,
+   "g": 10,
+   "name": "lemon wedges, juice"
+  }
+ ]
+}

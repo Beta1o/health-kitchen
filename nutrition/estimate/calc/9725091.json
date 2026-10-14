@@ -1,0 +1,25 @@
+{
+ "id": 9725091,
+ "servings": 32,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170150,
+   "g": 288,
+   "name": "sesame seeds"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 0.3,
+   "name": "garp"
+  }
+ ],
+ "notes": "servings field is 2 (cups yield); serving size 1 Tbsp, so 2 cups = 32 servings."
+}

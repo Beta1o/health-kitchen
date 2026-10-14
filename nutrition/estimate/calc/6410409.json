@@ -1,0 +1,84 @@
+{
+ "id": 6410409,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 1,
+   "fdc": 169118,
+   "g": 140,
+   "name": "pear"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger"
+  },
+  {
+   "line": 4,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken_br"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 15,
+   "name": "scallion"
+  },
+  {
+   "line": 6,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy_low"
+  },
+  {
+   "line": 7,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "sesoil"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 170151,
+   "g": 1.3,
+   "name": "sesame"
+  },
+  {
+   "line": 10,
+   "fdc": 169249,
+   "g": 300,
+   "name": "1 head leaf lettuce"
+  },
+  {
+   "line": 11,
+   "fdc": 169704,
+   "g": 195,
+   "name": "brownrice_ck"
+  },
+  {
+   "line": 12,
+   "fdc": 171186,
+   "g": 34,
+   "name": "sriracha"
+  }
+ ]
+}

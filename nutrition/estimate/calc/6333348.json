@@ -1,0 +1,49 @@
+{
+ "id": 6333348,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171711,
+   "g": 25,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 167755,
+   "g": 25,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 25,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168462,
+   "g": 30,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 120,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt, plain, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 169414,
+   "g": 7,
+   "name": "flaxseed"
+  }
+ ],
+ "notes": "Mixed berries split equally blueberries/raspberries/strawberries. Ice left out."
+}

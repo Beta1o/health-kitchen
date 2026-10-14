@@ -1,0 +1,67 @@
+{
+ "id": 6325149,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 0.25,
+   "name": "spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170497,
+   "g": 520,
+   "name": "poblano x4 large as green chili"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 110,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 60,
+   "name": "gonion"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 5,
+   "name": "basil"
+  },
+  {
+   "line": 9,
+   "fdc": 172223,
+   "g": 30,
+   "name": "qfresco"
+  }
+ ],
+ "notes": "No poblano in SR: used hot green chili raw, large poblano ~130 g each (guess)."
+}

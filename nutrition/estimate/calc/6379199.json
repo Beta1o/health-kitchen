@@ -1,0 +1,37 @@
+{
+ "id": 6379199,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172207,
+   "g": 113,
+   "name": "Cheese, cream, fat free"
+  },
+  {
+   "line": 1,
+   "fdc": 172233,
+   "g": 1.1,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 400,
+   "name": "Cucumber, with peel, raw"
+  }
+ ],
+ "notes": "large English cucumber taken as 400 g"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6685325,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 0.25,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169311,
+   "g": 240,
+   "name": "artichokes, boiled, with salt"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 80,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 171247,
+   "g": 15,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Canned artichoke hearts (no entry) as boiled artichokes with salt; drained weight guessed 240 g."
+}

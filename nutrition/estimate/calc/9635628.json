@@ -1,0 +1,68 @@
+{
+ "id": 9635628,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168944,
+   "g": 240,
+   "name": "Wheat flour, whole-grain, soft wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171695,
+   "g": 122,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 161,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 172446,
+   "g": 122,
+   "name": "Soymilk, original and vanilla, unfortified"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 8.4,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 169656,
+   "g": 90,
+   "name": "Sugars, powdered",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 10,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172446,
+   "g": 22,
+   "name": "Soymilk, original and vanilla, unfortified"
+  }
+ ]
+}

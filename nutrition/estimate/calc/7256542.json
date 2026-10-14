@@ -1,0 +1,31 @@
+{
+ "id": 7256542,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas, canned, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 9.1,
+   "name": "oil, canola (rapeseed)"
+  },
+  {
+   "line": 2,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  }
+ ],
+ "notes": "400 g tin = 240 g drained"
+}

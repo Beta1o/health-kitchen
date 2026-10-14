@@ -1,0 +1,31 @@
+{
+ "id": 7439314,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169930,
+   "g": 130,
+   "name": "Peaches, canned, juice pack, solids and liquids"
+  },
+  {
+   "line": 1,
+   "fdc": 167755,
+   "g": 150,
+   "name": "Raspberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170886,
+   "g": 150,
+   "name": "Yogurt, plain, low fat"
+  },
+  {
+   "line": 3,
+   "fdc": 171267,
+   "g": 155,
+   "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D"
+  }
+ ],
+ "notes": "213 g can peaches drained ~130 g; plain yogurt as low fat; semi-skimmed milk as 2%."
+}

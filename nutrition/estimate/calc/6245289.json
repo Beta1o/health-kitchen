@@ -1,0 +1,61 @@
+{
+ "id": 6245289,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168917,
+   "g": 185,
+   "name": "quinoa, cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 173941,
+   "g": 28,
+   "name": "apricots, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170591,
+   "g": 17,
+   "name": "pine nuts, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 28,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "black pepper to taste: 0.3 g"
+}

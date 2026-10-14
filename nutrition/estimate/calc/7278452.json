@@ -1,0 +1,73 @@
+{
+ "id": 7278452,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "oil, sunflower"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 240,
+   "name": "leeks, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 150,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 174536,
+   "g": 300,
+   "name": "soup, chicken broth, ready-to-serve"
+  },
+  {
+   "line": 5,
+   "fdc": 170937,
+   "g": 0.6,
+   "name": "tarragon dried"
+  },
+  {
+   "line": 6,
+   "fdc": 170933,
+   "g": 0.4,
+   "name": "pepper, white"
+  },
+  {
+   "line": 7,
+   "fdc": 169698,
+   "g": 4,
+   "name": "cornstarch"
+  },
+  {
+   "line": 7,
+   "fdc": 171269,
+   "g": 26,
+   "name": "milk nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 171054,
+   "g": 150,
+   "name": "chicken, meat only, roasted"
+  },
+  {
+   "line": 9,
+   "fdc": 168482,
+   "g": 300,
+   "name": "sweet potato raw"
+  }
+ ],
+ "notes": "Fresh tarragon as dried (0.6 g); stock as regular ready-to-serve chicken broth."
+}

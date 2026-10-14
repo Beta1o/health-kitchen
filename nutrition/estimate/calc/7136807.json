@@ -1,0 +1,49 @@
+{
+ "id": 7136807,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 492,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "Oil, canola"
+  },
+  {
+   "line": 2,
+   "fdc": 169246,
+   "g": 125,
+   "name": "Leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167533,
+   "g": 170,
+   "name": "Bagels, wheat"
+  },
+  {
+   "line": 4,
+   "fdc": 172181,
+   "g": 60,
+   "name": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 5,
+   "fdc": 169994,
+   "g": 4,
+   "name": "Chives, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "Fat-free quark as nonfat cottage cheese (dry curd). Wholemeal bagels as wheat bagels, ~85 g each."
+}

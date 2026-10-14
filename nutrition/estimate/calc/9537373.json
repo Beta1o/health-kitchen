@@ -1,0 +1,42 @@
+{
+ "id": 9537373,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170027,
+   "g": 454,
+   "name": "potatoes, russet, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.55,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171333,
+   "g": 0.6,
+   "name": "rosemary, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 170930,
+   "g": 0.25,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ]
+}

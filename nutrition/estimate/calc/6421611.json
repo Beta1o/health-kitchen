@@ -1,0 +1,61 @@
+{
+ "id": 6421611,
+ "servings": 14,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172850,
+   "g": 907,
+   "name": "turkey, ground, 93% lean, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171331,
+   "g": 1.5,
+   "name": "poultry seasoning"
+  },
+  {
+   "line": 2,
+   "fdc": 171323,
+   "g": 2,
+   "name": "fennel seed"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  }
+ ]
+}

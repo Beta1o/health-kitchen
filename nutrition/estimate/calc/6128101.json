@@ -1,0 +1,43 @@
+{
+ "id": 6128101,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 255,
+   "name": "cabbage raw"
+  },
+  {
+   "line": 0,
+   "fdc": 170393,
+   "g": 28,
+   "name": "carrots raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172234,
+   "g": 15,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 3,
+   "fdc": 171330,
+   "g": 1.4,
+   "name": "poppy seed"
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar distilled (for rice vinegar)"
+  },
+  {
+   "line": 5,
+   "fdc": 173594,
+   "g": 80,
+   "name": "mayonnaise light"
+  }
+ ],
+ "notes": "no-calorie sweetener left out; coleslaw mix as cabbage+carrot"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 9429573,
+ "servings": 36,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168898,
+   "g": 158,
+   "name": "Rice flour, brown"
+  },
+  {
+   "line": 1,
+   "fdc": 169741,
+   "g": 100,
+   "name": "Oat flour, partially debranned"
+  },
+  {
+   "line": 2,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 3,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "Leavening agents, baking soda"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 173944,
+   "g": 141,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169661,
+   "g": 80,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 7,
+   "fdc": 171695,
+   "g": 61,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 167749,
+   "g": 6,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 175215,
+   "g": 243,
+   "name": "Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 10,
+   "fdc": 168462,
+   "g": 60,
+   "name": "Spinach, raw"
+  }
+ ]
+}

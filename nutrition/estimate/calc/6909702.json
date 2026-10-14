@@ -1,0 +1,42 @@
+{
+ "id": 6909702,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169986,
+   "g": 321,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 170,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172336,
+   "g": 13.6,
+   "name": "oil, canola"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  }
+ ]
+}

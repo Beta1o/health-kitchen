@@ -1,0 +1,85 @@
+{
+ "id": 9864024,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 14,
+   "name": "oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 174687,
+   "g": 300,
+   "name": "jackfruit, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171319,
+   "g": 8,
+   "name": "chili powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170923,
+   "g": 2,
+   "name": "cumin"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "pepper, red or cayenne"
+  },
+  {
+   "line": 13,
+   "fdc": 168156,
+   "g": 31,
+   "name": "lime juice, raw"
+  }
+ ],
+ "notes": "Young green jackfruit mapped to raw ripe jackfruit (overstates carbs). Liquid smoke has no calories/entry, left out. Tortillas and toppings without amounts left out (filling only)."
+}

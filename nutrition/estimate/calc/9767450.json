@@ -1,0 +1,56 @@
+{
+ "id": 9767450,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170173,
+   "g": 400,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168450,
+   "g": 245,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171726,
+   "g": 73,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170926,
+   "g": 0.9,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171321,
+   "g": 0.13,
+   "name": "cloves, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 168820,
+   "g": 30,
+   "name": "molasses",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Optional molasses (1-2 tbsp) counted as 1.5 tbsp; full-fat coconut milk assumed. Toppings without amounts left out."
+}

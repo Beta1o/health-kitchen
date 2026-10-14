@@ -1,0 +1,67 @@
+{
+ "id": 6808134,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 169287,
+   "g": 284,
+   "name": "Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 171248,
+   "g": 113,
+   "name": "Cheese, ricotta, part skim milk"
+  },
+  {
+   "line": 5,
+   "fdc": 172181,
+   "g": 198,
+   "name": "Cheese, cottage, nonfat, uncreamed, dry, large or small curd"
+  },
+  {
+   "line": 6,
+   "fdc": 175036,
+   "g": 228,
+   "name": "Tortillas, ready-to-bake or -fry, corn"
+  },
+  {
+   "line": 7,
+   "fdc": 174074,
+   "g": 245,
+   "name": "Sauce, enchilada, red, mild, ready to serve"
+  },
+  {
+   "line": 8,
+   "fdc": 170844,
+   "g": 42.5,
+   "name": "Cheese, monterey"
+  },
+  {
+   "line": 9,
+   "fdc": 170005,
+   "g": 90,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ],
+ "notes": "low-fat ricotta as part-skim; 5-inch tortillas 19 g each; bunch green onions 90 g"
+}

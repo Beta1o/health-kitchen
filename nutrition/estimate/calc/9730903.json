@@ -1,0 +1,97 @@
+{
+ "id": 9730903,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 144,
+   "name": "carrot"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 227,
+   "name": "crem"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "redp"
+  },
+  {
+   "line": 5,
+   "fdc": 175188,
+   "g": 510,
+   "name": "black beans canned drained x2"
+  },
+  {
+   "line": 6,
+   "fdc": 175243,
+   "g": 255,
+   "name": "kidney"
+  },
+  {
+   "line": 7,
+   "fdc": 172442,
+   "g": 17,
+   "name": "miso"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 490,
+   "name": "tsauce"
+  },
+  {
+   "line": 9,
+   "fdc": 172884,
+   "g": 480,
+   "name": "low sodium broth"
+  },
+  {
+   "line": 10,
+   "fdc": 171319,
+   "g": 16,
+   "name": "chili"
+  },
+  {
+   "line": 11,
+   "fdc": 171329,
+   "g": 6.9,
+   "name": "smoked paprika"
+  },
+  {
+   "line": 12,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garp"
+  },
+  {
+   "line": 13,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onpow"
+  },
+  {
+   "line": 14,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  }
+ ],
+ "notes": "Toppings (cashew cream, guacamole, avocado etc.) treated as to serve, no item. Low-sodium broth as home-prepared stock; black beans canned entry is not drained."
+}

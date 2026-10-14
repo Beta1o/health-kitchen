@@ -1,0 +1,67 @@
+{
+ "id": 7176015,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "sunoil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onion"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 72,
+   "name": "carrot"
+  },
+  {
+   "line": 3,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 4.5,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato puree (UK)"
+  },
+  {
+   "line": 7,
+   "fdc": 172421,
+   "g": 300,
+   "name": "canned green lentils in water"
+  },
+  {
+   "line": 8,
+   "fdc": 168421,
+   "g": 200,
+   "name": "kale"
+  },
+  {
+   "line": 9,
+   "fdc": 171583,
+   "g": 500,
+   "name": "vegetable stock"
+  }
+ ],
+ "notes": "400 g can lentils in water modelled as 300 g unsalted cooked lentils (liquid low in nutrients). Pepper to taste left out."
+}

@@ -1,0 +1,67 @@
+{
+ "id": 9557682,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173573,
+   "g": 13.6,
+   "name": "Oil, avocado"
+  },
+  {
+   "line": 1,
+   "fdc": 168877,
+   "g": 185,
+   "name": "Rice, white, long-grain, regular, raw, enriched"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 171583,
+   "g": 480,
+   "name": "Soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 7,
+   "fdc": 174524,
+   "g": 260,
+   "name": "Sauce, salsa, ready-to-serve"
+  },
+  {
+   "line": 8,
+   "fdc": 175188,
+   "g": 258,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 1,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "black beans drained+rinsed as canned black beans"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 9605903,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 137,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 0.6,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170938,
+   "g": 0.12,
+   "name": "Spices, thyme, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 170162,
+   "g": 1,
+   "name": "Nuts, cashew nuts, raw"
+  }
+ ],
+ "notes": "Vegan Parmesan has no amount: 1 g as garnish, entered as cashews."
+}

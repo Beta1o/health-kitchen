@@ -1,0 +1,37 @@
+{
+ "id": 9822376,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172232,
+   "g": 50,
+   "name": "basil fresh (2 cups packed)"
+  },
+  {
+   "line": 1,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "garlic"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 9,
+   "fdc": 170562,
+   "g": 70,
+   "name": "sunflower seeds"
+  }
+ ],
+ "notes": "ingredient list holds three pesto variants (basil, cilantro, sun-dried tomato); counted the basil version only plus the 1/2 cup sunflower seeds (assumed base of the nut-free pesto); cilantro and tomato variant lines left out"
+}

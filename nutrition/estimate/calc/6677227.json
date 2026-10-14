@@ -1,0 +1,97 @@
+{
+ "id": 6677227,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 61,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169246,
+   "g": 60,
+   "name": "Leeks, (bulb and lower leaf-portion), raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 822,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 167749,
+   "g": 4,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 360,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 175203,
+   "g": 240,
+   "name": "Beans, white, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 10,
+   "fdc": 173757,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 11,
+   "fdc": 168421,
+   "g": 30,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 171328,
+   "g": 5,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 14,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "no-added-salt canned beans -> boiled without salt; 1/3 cup fresh oregano -> 5 g dried"
+}

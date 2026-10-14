@@ -1,0 +1,67 @@
+{
+ "id": 7714393,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170029,
+   "g": 250,
+   "name": "Potatoes, red, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169141,
+   "g": 100,
+   "name": "Beans, snap, green, cooked, boiled, drained, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 246,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 4,
+   "fdc": 169094,
+   "g": 40,
+   "name": "Olives, ripe, canned (small-extra large)"
+  },
+  {
+   "line": 5,
+   "fdc": 174183,
+   "g": 12,
+   "name": "Fish, anchovy, european, canned in oil, drained solids"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 9,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 175159,
+   "g": 150,
+   "name": "Fish, tuna, fresh, yellowfin, raw"
+  }
+ ],
+ "notes": "Fresh tuna as yellowfin."
+}

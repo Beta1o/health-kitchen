@@ -1,0 +1,104 @@
+{
+ "id": 6438996,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172420,
+   "g": 192,
+   "name": "lentils, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 600,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 20,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170379,
+   "g": 273,
+   "name": "broccoli, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 169383,
+   "g": 119,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170010,
+   "g": 63,
+   "name": "peas, edible-podded, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170150,
+   "g": 9,
+   "name": "sesame seeds, whole, dried"
+  },
+  {
+   "line": 15,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  }
+ ],
+ "notes": "Rice vinegar -> distilled vinegar; low-sodium vegetable broth -> home-prepared stock."
+}

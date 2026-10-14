@@ -1,0 +1,67 @@
+{
+ "id": 6012687,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170379,
+   "g": 120,
+   "name": "broccoli"
+  },
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 120,
+   "name": "peppers"
+  },
+  {
+   "line": 0,
+   "fdc": 168464,
+   "g": 120,
+   "name": "yellow squash"
+  },
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 120,
+   "name": "zucchini"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "sea salt"
+  },
+  {
+   "line": 3,
+   "fdc": 171955,
+   "g": 454,
+   "name": "cod (white fish)"
+  },
+  {
+   "line": 4,
+   "fdc": 170499,
+   "g": 40,
+   "name": "shallot"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 20,
+   "name": "lemon juice"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 1,
+   "name": "dried herbs"
+  }
+ ],
+ "notes": "Assorted vegetables split evenly across broccoli, peppers, yellow squash, zucchini."
+}

@@ -1,0 +1,80 @@
+{
+ "id": 9373393,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169741,
+   "g": 180,
+   "name": "oat flour, partially debranned"
+  },
+  {
+   "line": 1,
+   "fdc": 169414,
+   "g": 41,
+   "name": "seeds, flaxseed"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "spices, nutmeg, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "leavening agents, baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170182,
+   "g": 55,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 8,
+   "fdc": 169291,
+   "g": 220,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 105,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 10,
+   "fdc": 171695,
+   "g": 61,
+   "name": "applesauce, canned, unsweetened, without added ascorbic acid (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 11,
+   "fdc": 172456,
+   "g": 183,
+   "name": "soymilk, original and vanilla, with added calcium, vitamins a and d"
+  }
+ ],
+ "notes": "2 cups oat flour taken as 180 g."
+}

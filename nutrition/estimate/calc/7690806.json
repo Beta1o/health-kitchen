@@ -1,0 +1,72 @@
+{
+ "id": 7690806,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170026,
+   "g": 400,
+   "name": "potatoes, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168482,
+   "g": 150,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170417,
+   "g": 133,
+   "name": "parsnips, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 168867,
+   "g": 50,
+   "name": "cornmeal (polenta)"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168155,
+   "g": 2,
+   "name": "limes, raw (zest)"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 9,
+   "fdc": 174196,
+   "g": 300,
+   "name": "flatfish (sole), raw"
+  },
+  {
+   "line": 10,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg, whole, raw"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": 6089102,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169928,
+   "g": 600,
+   "name": "peaches, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 2,
+   "fdc": 172241,
+   "g": 120,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 3,
+   "fdc": 170894,
+   "g": 245,
+   "name": "yogurt, greek, plain, nonfat"
+  },
+  {
+   "line": 4,
+   "fdc": 173418,
+   "g": 30,
+   "name": "cheese, cream (mascarpone stand-in)"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 7,
+   "fdc": 170187,
+   "g": 29,
+   "name": "walnuts"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 5.2,
+   "name": "spices, cinnamon, ground"
+  }
+ ],
+ "notes": "White balsamic as balsamic vinegar; mascarpone as cream cheese (no SR entry)."
+}

@@ -1,0 +1,54 @@
+{
+ "id": 6706835,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171247,
+   "g": 25,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 1,
+   "fdc": 174928,
+   "g": 27,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.2,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, summer, zucchini, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ]
+}

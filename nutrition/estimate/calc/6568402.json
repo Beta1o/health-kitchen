@@ -1,0 +1,67 @@
+{
+ "id": 6568402,
+ "servings": 16,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170918,
+   "g": 2.1,
+   "name": "spices, caraway seed"
+  },
+  {
+   "line": 1,
+   "fdc": 172370,
+   "g": 63.7,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 2,
+   "fdc": 168867,
+   "g": 138,
+   "name": "cornmeal, yellow, degermed"
+  },
+  {
+   "line": 3,
+   "fdc": 168893,
+   "g": 120,
+   "name": "wheat flour, whole-grain"
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 6.9,
+   "name": "baking powder"
+  },
+  {
+   "line": 5,
+   "fdc": 175040,
+   "g": 2.3,
+   "name": "baking soda"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170874,
+   "g": 245,
+   "name": "buttermilk, lowfat"
+  },
+  {
+   "line": 9,
+   "fdc": 169640,
+   "g": 84,
+   "name": "honey",
+   "added_sugar": true
+  }
+ ]
+}

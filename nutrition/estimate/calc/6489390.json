@@ -1,0 +1,60 @@
+{
+ "id": 6489390,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 124,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 170427,
+   "g": 30,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 27,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168576,
+   "g": 7,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 3,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168156,
+   "g": 15.4,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  }
+ ]
+}

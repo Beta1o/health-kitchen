@@ -1,0 +1,61 @@
+{
+ "id": 6342815,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169961,
+   "g": 227,
+   "name": "Beans, snap, green, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 172183,
+   "g": 33,
+   "name": "Egg, white, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 174527,
+   "g": 0.6,
+   "name": "Sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 4,
+   "fdc": 168867,
+   "g": 69,
+   "name": "Cornmeal, degermed, enriched, yellow"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 2.1,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 0.7,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171247,
+   "g": 10,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "garlic salt split as salt 2.1 g + garlic powder 0.7 g; all coating counted though some is left over"
+}

@@ -1,0 +1,87 @@
+{
+ "id": 9426702,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168569,
+   "g": 280,
+   "name": "Hearts of palm, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168556,
+   "g": 120,
+   "name": "Catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 60,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 174278,
+   "g": 32,
+   "name": "Soy sauce made from soy (tamari)"
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 20,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 10,
+   "fdc": 174916,
+   "g": 400,
+   "name": "Bread, pita, whole-wheat"
+  },
+  {
+   "line": 11,
+   "fdc": 170162,
+   "g": 35,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169717,
+   "g": 10,
+   "name": "Tapioca, pearl, dry"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  }
+ ],
+ "notes": "young jackfruit -> canned hearts of palm; two 12-inch multigrain flatbreads -> whole-wheat pita 400 g; half recipe vegan mozzarella guessed as 35 g cashews + 10 g tapioca"
+}

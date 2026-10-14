@@ -1,0 +1,31 @@
+{
+ "id": 6672724,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169249,
+   "g": 90,
+   "name": "lettuce, green leaf, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168409,
+   "g": 300,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 3,
+   "fdc": 171405,
+   "g": 60,
+   "name": "salad dressing, italian, reduced fat"
+  }
+ ],
+ "notes": "Light balsamic vinaigrette modelled as reduced-fat Italian dressing; mixed greens as green leaf lettuce."
+}

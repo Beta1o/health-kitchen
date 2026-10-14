@@ -167,6 +167,25 @@ def main():
                 cu.add(by_dish[str(rec["id"])])
         rec["cuisine"] = sorted(cu)
 
+    # cooking method for recipes whose publisher gives none, read from the English steps (same names as the publishers')
+    METHODS = [("Microwave", r"\bmicrowav"), ("Slow Cooker", r"\bslow[- ]cook|\bcrock[- ]?pot"),
+               ("Grill", r"\bgrill(s|ed|ing)?\b|\bbarbecue|\bbbq\b|\bbroil"), ("Roast", r"\broast(s|ed|ing)?\b"),
+               ("Bake", r"\bbak(e|es|ed|ing)\b(?!\s*(sheet|tray|paper|dish|powder|soda|pan|tin|parchment))"), ("Oven", r"\boven\b"),
+               ("Fry", r"\b(deep|shallow|pan)[- ]?fr(y|ies|ied|ying)\b|\bfry(ing)? (in|until|for)\b"),
+               ("Stove Top", r"\b(saucepan|frying pan|skillet|wok|hob|stove|simmer\w*|boil\w*|poach\w*|steam\w*|toast\w*|saut[ée]\w*|stir[- ]?fr\w*)\b|\b(low|medium|high)(-(low|high))? heat\b|\bpan over\b")]
+    HEAT = re.compile(r"\b(cook\w*|heat\w*|warm\w*|melt\w*|oven|grill\w*|fr(y|ied|ies)|boil\w*|bake\w*|roast\w*|toast\w*|microwav\w*|steam\w*|simmer\w*|brown\w*|char\w*)\b", re.I)
+    METHODS = [(m, re.compile(p_, re.I)) for m, p_ in METHODS]
+    meth_n = 0
+    for rec in recipes:
+        en = rec["t"].get("en")
+        if rec["method"] or not en or not en["steps"]:
+            continue
+        steps = " ".join(x[1] for x in en["steps"])
+        found = [m for m, rx in METHODS if rx.search(steps)]
+        rec["method"] = sorted(found) if found else [] if HEAT.search(steps) else ["No Cooking"]
+        meth_n += bool(rec["method"])
+    print(f"cooking method read from the steps for {meth_n} recipes")
+
     # reviewed categories for recipes from external sources (translations/catfix/out_*.json)
     catfix = {}
     for f in sorted((HERE / "translations" / "catfix").glob("out_*.json")):
@@ -232,6 +251,22 @@ def main():
     import subprocess, sys
     if subprocess.run([sys.executable, str(HERE / "tests" / "gi_regression.py")], env={**os.environ, "HK_DB": str(DB)}).returncode:
         raise SystemExit("glycemic estimates changed: check tests/gi_regression.py output, then run it with --update if the change is intended")
+
+    # nutrients the publisher does not print, estimated from the ingredients and kept only when the estimate
+    # reproduces the published calories, protein, carbohydrate and sodium (nutrition/estimate/merge.py)
+    sys.path.insert(0, str(HERE / "nutrition" / "estimate"))
+    import merge as nut_estimate
+    est = nut_estimate.fill(recipes)
+    print(f"estimated nutrients: {est['passed']} recipes filled ({est['filled']}), {len(est['failed'])} of {est['calc_files']}"
+          " calculations left out because they did not match the published numbers")
+
+    # diet-type tags from each recipe's own nutrition (diet_tags.py): the same rules for every source, publisher tags kept
+    import diet_tags
+    agree = diet_tags.agreement(recipes)
+    rep = diet_tags.apply(recipes)
+    (HERE / "diet_tags_report.json").write_text(json.dumps({"agreement_with_davita_aakp_pct": agree, **rep}, indent=1), encoding="utf-8")
+    print("diet tags: agreement with DaVita/AAKP dietitians", agree, f"; added {sum(sum(a.values()) for a in rep['added'].values())},"
+          f" {len(rep['conflicts'])} publisher tags contradicted by the numbers (diet_tags_report.json)")
 
     import shopping   # needs every language's ingredient lines, so before the split below
     shop, shop_rep = shopping.build(recipes, [l for l in LANGS if l != "en"])

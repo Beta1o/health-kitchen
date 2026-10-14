@@ -1,0 +1,34 @@
+{
+ "id": 3104,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173003,
+   "g": 31,
+   "name": "Corn Chex -> Ralston corn biscuits",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 173887,
+   "g": 27,
+   "name": "Rice Chex -> Ralston crisp rice",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 172973,
+   "g": 18,
+   "name": "Cocoa Puffs -> chocolate frosted puffed corn",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 168107,
+   "g": 15,
+   "name": "mini rice cakes"
+  }
+ ],
+ "notes": "cereal cup weights from package servings (Corn Chex 31 g, Rice Chex 27 g/cup, Cocoa Puffs 36 g/cup, mini rice cakes ~30 g/cup); cereal sugars marked added"
+}

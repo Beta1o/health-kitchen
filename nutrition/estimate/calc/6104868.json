@@ -1,0 +1,61 @@
+{
+ "id": 6104868,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168482,
+   "g": 360,
+   "name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169387,
+   "g": 120,
+   "name": "Arugula, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170182,
+   "g": 55,
+   "name": "Nuts, pecans"
+  },
+  {
+   "line": 7,
+   "fdc": 171723,
+   "g": 30,
+   "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 8,
+   "fdc": 168096,
+   "g": 60,
+   "name": "Salad dressing, italian dressing, reduced calorie"
+  }
+ ],
+ "notes": "Dried cranberries labeled no sugar added, but SR only has sweetened (not flagged added sugar); light balsamic vinaigrette as reduced-calorie Italian dressing."
+}

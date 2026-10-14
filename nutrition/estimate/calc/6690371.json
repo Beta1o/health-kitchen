@@ -1,0 +1,61 @@
+{
+ "id": 6690371,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 40.5,
+   "name": "oats"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 180,
+   "name": "almond milk unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 171688,
+   "g": 149,
+   "name": "apple with skin"
+  },
+  {
+   "line": 4,
+   "fdc": 170567,
+   "g": 17,
+   "name": "almonds"
+  },
+  {
+   "line": 5,
+   "fdc": 170257,
+   "g": 1.5,
+   "name": "sucralose sweetener"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  },
+  {
+   "line": 7,
+   "fdc": 173471,
+   "g": 2.1,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  }
+ ],
+ "notes": "sugar substitute via sucralose 1.5 g"
+}

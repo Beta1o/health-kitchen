@@ -1,0 +1,127 @@
+{
+ "id": 6913065,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 61,
+   "name": "greek yogurt nonfat plain"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 4,
+   "name": "cumin, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 4,
+   "name": "curry powder"
+  },
+  {
+   "line": 7,
+   "fdc": 172231,
+   "g": 3,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170932,
+   "g": 1.8,
+   "name": "cayenne / red pepper flakes"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170108,
+   "g": 164,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 15,
+   "fdc": 170903,
+   "g": 170,
+   "name": "greek yogurt lowfat plain"
+  },
+  {
+   "line": 15,
+   "fdc": 168409,
+   "g": 55,
+   "name": "cucumber with peel"
+  },
+  {
+   "line": 15,
+   "fdc": 171413,
+   "g": 7,
+   "name": "oil, olive"
+  },
+  {
+   "line": 15,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic raw"
+  },
+  {
+   "line": 15,
+   "fdc": 173468,
+   "g": 1,
+   "name": "salt, table"
+  },
+  {
+   "line": 15,
+   "fdc": 167747,
+   "g": 4,
+   "name": "lemon juice"
+  }
+ ],
+ "notes": "Garam masala as curry powder. Tzatziki (1 cup, 240 g) modelled from lowfat Greek yogurt, cucumber, olive oil, garlic, salt, lemon."
+}

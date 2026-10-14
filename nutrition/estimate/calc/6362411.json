@@ -1,0 +1,91 @@
+{
+ "id": 6362411,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 122,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 5,
+   "fdc": 172850,
+   "g": 454,
+   "name": "Turkey, ground, 93% lean, 7% fat, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170051,
+   "g": 411,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 7,
+   "fdc": 170501,
+   "g": 794,
+   "name": "Tomatoes, crushed, canned"
+  },
+  {
+   "line": 8,
+   "fdc": 173747,
+   "g": 260,
+   "name": "Beans, navy, mature seeds, canned"
+  },
+  {
+   "line": 9,
+   "fdc": 175243,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 171319,
+   "g": 8,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 12,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 13,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  }
+ ],
+ "notes": "navy beans: canned entry is solids+liquid, used drained weight; lean ground turkey taken as 93% lean"
+}

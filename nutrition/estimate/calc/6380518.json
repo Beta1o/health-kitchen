@@ -1,0 +1,48 @@
+{
+ "id": 6380518,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170845,
+   "g": 85,
+   "name": "mozzarella, whole milk (fresh)"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 224,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 2,
+   "fdc": 173757,
+   "g": 255,
+   "name": "chickpeas, boiled without salt (no-salt-added canned)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt (coarse)"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 6,
+   "fdc": 168462,
+   "g": 340,
+   "name": "spinach, raw"
+  }
+ ]
+}

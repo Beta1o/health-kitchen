@@ -1,0 +1,50 @@
+{
+ "id": 6201513,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167762,
+   "g": 304,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171711,
+   "g": 148,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167755,
+   "g": 123,
+   "name": "raspberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173946,
+   "g": 144,
+   "name": "blackberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 31.5,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 173475,
+   "g": 3.2,
+   "name": "spearmint, fresh"
+  }
+ ],
+ "notes": "1 medium lime taken as its juice (30 g)."
+}

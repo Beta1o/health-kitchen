@@ -1,0 +1,42 @@
+{
+ "id": 9066125,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172442,
+   "g": 34,
+   "name": "miso"
+  },
+  {
+   "line": 1,
+   "fdc": 171325,
+   "g": 2.3,
+   "name": "garlic powder"
+  },
+  {
+   "line": 2,
+   "fdc": 171327,
+   "g": 1.8,
+   "name": "onion powder"
+  },
+  {
+   "line": 3,
+   "fdc": 172234,
+   "g": 2.5,
+   "name": "mustard prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 168893,
+   "g": 30,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 5,
+   "fdc": 171583,
+   "g": 480,
+   "name": "vegetable broth"
+  }
+ ]
+}

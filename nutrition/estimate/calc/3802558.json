@@ -1,0 +1,32 @@
+{
+ "id": 3802558,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171688,
+   "g": 640,
+   "name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 173430,
+   "g": 50,
+   "name": "Butter, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 171711,
+   "g": 90,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 15,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  }
+ ],
+ "notes": "Dessert apples ~160 g each."
+}

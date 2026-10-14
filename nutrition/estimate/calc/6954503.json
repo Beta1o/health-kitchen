@@ -1,0 +1,86 @@
+{
+ "id": 6954503,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 24,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 13.3,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 172886,
+   "g": 32,
+   "added_sugar": true,
+   "name": "sauce, hoisin"
+  },
+  {
+   "line": 6,
+   "fdc": 171186,
+   "g": 6,
+   "name": "sauce, sriracha"
+  },
+  {
+   "line": 7,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "oil, vegetable, soybean"
+  },
+  {
+   "line": 8,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170379,
+   "g": 91,
+   "name": "broccoli, raw"
+  }
+ ],
+ "notes": "Rice vinegar as distilled vinegar."
+}

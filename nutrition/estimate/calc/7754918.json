@@ -1,0 +1,42 @@
+{
+ "id": 7754918,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 100,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 169387,
+   "g": 80,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 25,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 25,
+   "name": "spearmint, fresh"
+  }
+ ]
+}

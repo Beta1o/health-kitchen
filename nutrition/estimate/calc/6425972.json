@@ -1,0 +1,56 @@
+{
+ "id": 6425972,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174272,
+   "g": 227,
+   "name": "tempeh"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 170054,
+   "g": 85,
+   "name": "no-sugar barbecue sauce (tomato sauce as proxy)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 169247,
+   "g": 500,
+   "name": "romaine, 1 head"
+  },
+  {
+   "line": 5,
+   "fdc": 168409,
+   "g": 350,
+   "name": "English cucumber"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 149,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 7,
+   "fdc": 171420,
+   "g": 88,
+   "name": "fat-free Catalina (French) dressing",
+   "added_sugar": true
+  }
+ ],
+ "notes": "No-sugar-added barbecue sauce mapped to canned tomato sauce; romaine head 500 g, cucumber 350 g guessed."
+}

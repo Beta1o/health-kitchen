@@ -1,0 +1,50 @@
+{
+ "id": 9882257,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 330,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 300,
+   "name": "Bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170189,
+   "g": 120,
+   "name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+  },
+  {
+   "line": 3,
+   "fdc": 168833,
+   "g": 48,
+   "name": "Sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 173904,
+   "g": 121.5,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 5,
+   "fdc": 173471,
+   "g": 13,
+   "name": "Vanilla extract"
+  },
+  {
+   "line": 6,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  }
+ ],
+ "notes": "coconut sugar -> brown sugar; toppings (banana slices, chocolate chips, berries, nuts) have no amount and are left out"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6669746,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169961,
+   "g": 680,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 18,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 8.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 7,
+   "fdc": 172234,
+   "g": 5,
+   "name": "mustard, prepared, yellow"
+  },
+  {
+   "line": 8,
+   "fdc": 170257,
+   "g": 0.5,
+   "name": "sweetener, sucralose"
+  },
+  {
+   "line": 9,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, pepper, red or cayenne"
+  }
+ ],
+ "notes": "Champagne vinegar mapped to red wine vinegar; sugar substitute as sucralose 0.5 g."
+}

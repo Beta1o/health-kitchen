@@ -1,0 +1,68 @@
+{
+ "id": 6329487,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171706,
+   "g": 136,
+   "name": "avocados, raw, California"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 14,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 8,
+   "fdc": 169387,
+   "g": 40,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170591,
+   "g": 17,
+   "name": "pine nuts, dried"
+  }
+ ],
+ "notes": "Raspberry vinegar -> red wine vinegar."
+}

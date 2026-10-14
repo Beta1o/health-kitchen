@@ -1,0 +1,66 @@
+{
+ "id": 6825784,
+ "servings": 8,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 168874,
+   "g": 170,
+   "name": "quinoa"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 119,
+   "name": "greenp"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 6,
+   "fdc": 175243,
+   "g": 255,
+   "name": "kidney beans canned rinsed drained"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 60,
+   "name": "unsalted broth"
+  },
+  {
+   "line": 8,
+   "fdc": 169074,
+   "g": 61,
+   "name": "tsns"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper"
+  }
+ ]
+}

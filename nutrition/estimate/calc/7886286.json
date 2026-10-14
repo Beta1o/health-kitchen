@@ -1,0 +1,61 @@
+{
+ "id": 7886286,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 1.2,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169255,
+   "g": 160,
+   "name": "Mushrooms, portabella, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173801,
+   "g": 50,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 3,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 4,
+   "fdc": 168462,
+   "g": 200,
+   "name": "Spinach, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169079,
+   "g": 30,
+   "name": "Cheese, cream, low fat"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 130,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 172241,
+   "g": 5,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 8,
+   "fdc": 171706,
+   "g": 140,
+   "name": "Avocados, raw, California"
+  }
+ ],
+ "notes": "1kcal spray 4 pumps as 1.2 g oil spray; herby low-fat soft cheese as low-fat cream cheese."
+}

@@ -1,0 +1,25 @@
+{
+ "id": 7480641,
+ "servings": 8,
+ "items": [
+  {
+   "line": 1,
+   "fdc": 171890,
+   "g": 720,
+   "name": "coffee brewed (from grounds + 750 ml water)"
+  },
+  {
+   "line": 4,
+   "fdc": 171269,
+   "g": 412,
+   "name": "skimmed milk"
+  },
+  {
+   "line": 5,
+   "fdc": 169593,
+   "g": 0.4,
+   "name": "cocoa powder"
+  }
+ ],
+ "notes": "brewed coffee used for the grounds + water line; sweetener tablets (no calories) left out; optional milk included"
+}

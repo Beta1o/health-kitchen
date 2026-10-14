@@ -1,0 +1,49 @@
+{
+ "id": 9461625,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 255,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 171706,
+   "g": 136,
+   "name": "Avocados, raw, California"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 30.5,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 172233,
+   "g": 1.4,
+   "name": "Dill weed, fresh"
+  },
+  {
+   "line": 4,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 168558,
+   "g": 45,
+   "name": "Pickles, cucumber, dill or kosher dill"
+  }
+ ],
+ "notes": "cannellini drained+rinsed as canned white beans (sodium overstated); 3 tbsp pickle juice as dill pickles"
+}

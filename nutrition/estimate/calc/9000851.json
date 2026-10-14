@@ -1,0 +1,79 @@
+{
+ "id": 9000851,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168013,
+   "g": 300,
+   "name": "bread, multi-grain (whole-grain)"
+  },
+  {
+   "line": 1,
+   "fdc": 170182,
+   "g": 109,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 2,
+   "fdc": 172347,
+   "g": 28,
+   "name": "margarine, 80% fat, tub, with salt (vegan butter)"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 10.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170935,
+   "g": 1,
+   "name": "spices, sage, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 170938,
+   "g": 1,
+   "name": "spices, thyme, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 171333,
+   "g": 1.2,
+   "name": "spices, rosemary, dried"
+  },
+  {
+   "line": 10,
+   "fdc": 172884,
+   "g": 600,
+   "name": "soup, stock, chicken, home-prepared (low-sodium veg broth)"
+  },
+  {
+   "line": 12,
+   "fdc": 173473,
+   "g": 1,
+   "name": "rosemary, fresh"
+  }
+ ],
+ "notes": "Vegan butter as margarine 80%; broth 2.5 cups (midpoint)."
+}

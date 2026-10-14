@@ -1,0 +1,78 @@
+{
+ "id": 6212754,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 85,
+   "name": "quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 240,
+   "name": "stock, home-prepared (low sodium vegetable broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 184,
+   "name": "yogurt, Greek, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 172237,
+   "g": 30,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 5,
+   "fdc": 171322,
+   "g": 3.1,
+   "name": "dill weed, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "pepper"
+  },
+  {
+   "line": 9,
+   "fdc": 169975,
+   "g": 340,
+   "name": "coleslaw mix: cabbage"
+  },
+  {
+   "line": 9,
+   "fdc": 170393,
+   "g": 57,
+   "name": "coleslaw mix: carrot"
+  },
+  {
+   "line": 10,
+   "fdc": 173801,
+   "g": 255,
+   "name": "chickpeas, canned, drained, rinsed"
+  }
+ ]
+}

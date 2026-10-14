@@ -1,0 +1,42 @@
+{
+ "id": 6704193,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175179,
+   "g": 454,
+   "name": "Crustaceans, shrimp, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 170416,
+   "g": 60,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  }
+ ]
+}

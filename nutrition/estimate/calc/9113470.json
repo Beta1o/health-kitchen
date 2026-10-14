@@ -1,0 +1,45 @@
+{
+ "id": 9113470,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 212,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 170568,
+   "g": 100,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 2,
+   "fdc": 168833,
+   "g": 80,
+   "added_sugar": true,
+   "name": "Sugars, brown"
+  },
+  {
+   "line": 3,
+   "fdc": 171695,
+   "g": 81,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 168588,
+   "g": 64,
+   "name": "Nuts, almond butter, plain, without salt added"
+  },
+  {
+   "line": 5,
+   "fdc": 167976,
+   "g": 42,
+   "added_sugar": true,
+   "name": "Candies, semisweet chocolate"
+  }
+ ],
+ "notes": "coconut sugar -> brown sugar; almond flour -> blanched almonds"
+}

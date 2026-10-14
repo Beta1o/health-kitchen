@@ -1,0 +1,50 @@
+{
+ "id": 6644102,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 1361,
+   "name": "tomatoes raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172241,
+   "g": 10.6,
+   "name": "balsamic vinegar"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 4.2,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 5,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 170937,
+   "g": 2,
+   "name": "tarragon dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "black pepper"
+  }
+ ],
+ "notes": "fresh tarragon via dried (2 g)"
+}

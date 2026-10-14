@@ -1,0 +1,42 @@
+{
+ "id": 6381004,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 1,
+   "fdc": 170894,
+   "g": 70,
+   "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 3,
+   "fdc": 169997,
+   "g": 4,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168156,
+   "g": 46,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 8.5,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  }
+ ]
+}

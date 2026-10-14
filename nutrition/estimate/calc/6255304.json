@@ -1,0 +1,73 @@
+{
+ "id": 6255304,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 2,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.5,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 6,
+   "fdc": 175204,
+   "g": 340,
+   "name": "beans, white, canned"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 960,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "garbled lines: '1 l 1 crushed red pepper flakes' taken as a pinch; '1 oz cannellini beans (20-ounce jar, drained)' taken as one 20-oz jar drained ~340 g; low sodium vegetable broth as home-prepared stock"
+}

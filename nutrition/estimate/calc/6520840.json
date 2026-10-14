@@ -1,0 +1,74 @@
+{
+ "id": 6520840,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168462,
+   "g": 284,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 167762,
+   "g": 166,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171711,
+   "g": 74,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 53,
+   "name": "onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 30,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 7,
+   "fdc": 169640,
+   "g": 7,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 168156,
+   "g": 15,
+   "name": "lime juice"
+  },
+  {
+   "line": 9,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "White balsamic mapped to balsamic vinegar."
+}

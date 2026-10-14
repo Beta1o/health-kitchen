@@ -1,0 +1,37 @@
+{
+ "id": 6934057,
+ "servings": 5,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169972,
+   "g": 454,
+   "name": "brussels sprouts, frozen, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 174592,
+   "g": 42,
+   "name": "bacon, turkey, unprepared"
+  }
+ ],
+ "notes": "Turkey bacon slice taken as 14 g raw."
+}

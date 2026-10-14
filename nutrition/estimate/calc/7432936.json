@@ -1,0 +1,91 @@
+{
+ "id": 7432936,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169383,
+   "g": 160,
+   "name": "peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 160,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 130,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170886,
+   "g": 30,
+   "name": "yogurt, plain, low fat"
+  },
+  {
+   "line": 7,
+   "fdc": 170899,
+   "g": 50,
+   "name": "cheese, cheddar, sharp, sliced"
+  },
+  {
+   "line": 8,
+   "fdc": 168893,
+   "g": 150,
+   "name": "wheat flour, whole-grain (includes foods for usda's food distribution program)\",) {'calcium_mg': 34.0, 'calories': 340.0, 'carbohydrates_g': 71.97, 'cholesterol_mg': 0.0, 'fat_g': 2.5, 'fiber_g': 10.7, 'phosphorus_mg': 357.0, 'potassium_mg': 363.0, 'protein_g': 13.21, 'sodium_mg': 2.0, 'sugars_g': 0.41}\n"
+  },
+  {
+   "line": 9,
+   "fdc": 170931,
+   "g": 0.4,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 10,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 11,
+   "fdc": 168156,
+   "g": 44,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170457,
+   "g": 728,
+   "name": "tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 13,
+   "fdc": 170106,
+   "g": 15,
+   "name": "peppers, hot chili, red, raw"
+  }
+ ],
+ "notes": "Lime zest as lemon peel."
+}

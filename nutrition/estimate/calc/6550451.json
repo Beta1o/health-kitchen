@@ -1,0 +1,72 @@
+{
+ "id": 6550451,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 15,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 172240,
+   "g": 5,
+   "name": "Vinegar, red wine"
+  },
+  {
+   "line": 3,
+   "fdc": 170257,
+   "g": 0.1,
+   "name": "Sweeteners, tabletop, sucralose, SPLENDA packets"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 169097,
+   "g": 262,
+   "name": "Oranges, raw, all commercial varieties"
+  },
+  {
+   "line": 7,
+   "fdc": 169249,
+   "g": 120,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 18,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 2,
+   "name": "Coriander (cilantro) leaves, raw"
+  }
+ ]
+}

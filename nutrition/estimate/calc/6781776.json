@@ -1,0 +1,61 @@
+{
+ "id": 6781776,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171966,
+   "g": 240,
+   "name": "crustaceans, crab, blue, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173594,
+   "g": 30,
+   "name": "salad dressing, mayonnaise, light"
+  },
+  {
+   "line": 5,
+   "fdc": 170894,
+   "g": 15,
+   "name": "yogurt, greek, plain, nonfat (includes foods for usda's food distribution program)\",) {'calcium_mg': 110.0, 'calories': 59.0, 'carbohydrates_g': 3.6, 'cholesterol_mg': 5.0, 'fat_g': 0.39, 'fiber_g': 0.0, 'phosphorus_mg': 135.0, 'potassium_mg': 141.0, 'protein_g': 10.19, 'sodium_mg': 36.0, 'sugars_g': 3.24}\n"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 174527,
+   "g": 0.6,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 8,
+   "fdc": 169249,
+   "g": 60,
+   "name": "lettuce, green leaf, raw"
+  }
+ ],
+ "notes": "Two 6-oz cans crab drained ~120 g each."
+}

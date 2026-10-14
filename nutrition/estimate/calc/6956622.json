@@ -1,0 +1,79 @@
+{
+ "id": 6956622,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169975,
+   "g": 70,
+   "name": "cabbage, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171477,
+   "g": 210,
+   "name": "chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 55,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 66,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169242,
+   "g": 35,
+   "name": "mushrooms, shiitake, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170005,
+   "g": 15,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169714,
+   "g": 72,
+   "name": "rice flour, white, unenriched"
+  },
+  {
+   "line": 8,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 9,
+   "fdc": 172237,
+   "g": 45,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 12,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "spices, ginger, ground"
+  }
+ ],
+ "notes": "Rice paper wrappers (8 x 9 g) as white rice flour; rice wine vinegar as distilled vinegar."
+}

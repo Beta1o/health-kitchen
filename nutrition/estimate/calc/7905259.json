@@ -1,0 +1,85 @@
+{
+ "id": 7905259,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 60,
+   "name": "red pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 174030,
+   "g": 100,
+   "name": "beef, ground, 90% lean, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170051,
+   "g": 230,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 170459,
+   "g": 32,
+   "name": "tomato paste"
+  },
+  {
+   "line": 6,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 169738,
+   "g": 75,
+   "name": "pasta, whole-wheat, dry"
+  },
+  {
+   "line": 9,
+   "fdc": 175243,
+   "g": 130,
+   "name": "kidney beans, canned, drained, rinsed"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley"
+  },
+  {
+   "line": 11,
+   "fdc": 172688,
+   "g": 25,
+   "name": "bread, whole-wheat (crumbs)"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 15,
+   "name": "parmesan"
+  }
+ ],
+ "notes": "215 g tin kidney beans taken as 130 g drained."
+}

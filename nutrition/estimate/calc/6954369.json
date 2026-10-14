@@ -1,0 +1,56 @@
+{
+ "id": 6954369,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169225,
+   "g": 560,
+   "name": "cucumber, peeled, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table (coarse)"
+  },
+  {
+   "line": 3,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173442,
+   "g": 60,
+   "name": "sour cream, reduced fat"
+  },
+  {
+   "line": 6,
+   "fdc": 172237,
+   "g": 15,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 7,
+   "fdc": 169655,
+   "g": 12.5,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  }
+ ],
+ "notes": "Large cucumber taken as 280 g peeled each. Ice water left out. Salt for soaking cucumbers counted in full; some may be rinsed off."
+}

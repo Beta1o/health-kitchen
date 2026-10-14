@@ -1,0 +1,45 @@
+{
+ "id": 9740076,
+ "servings": 22,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175204,
+   "g": 255,
+   "name": "Beans, white, mature seeds, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 172470,
+   "g": 129,
+   "name": "Peanut butter, smooth style, without salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169661,
+   "g": 161,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173904,
+   "g": 61,
+   "name": "Cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 4,
+   "fdc": 170568,
+   "g": 84,
+   "name": "Nuts, almonds, blanched"
+  },
+  {
+   "line": 5,
+   "fdc": 170271,
+   "g": 44,
+   "name": "Chocolate, dark, 45- 59% cacao solids",
+   "added_sugar": true
+  }
+ ],
+ "notes": "Almond flour as blanched almonds (7/8 cup ~84 g); white kidney beans as canned white beans."
+}

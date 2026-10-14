@@ -1,0 +1,85 @@
+{
+ "id": 7019856,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171025,
+   "g": 9,
+   "name": "sunflower oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 150,
+   "name": "onion, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 168482,
+   "g": 250,
+   "name": "sweet potato, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 174284,
+   "g": 75,
+   "name": "lentils red raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 7,
+   "fdc": 171562,
+   "g": 8,
+   "name": "stock cube (chicken bouillon dry as stand-in for vegetable)"
+  },
+  {
+   "line": 8,
+   "fdc": 170924,
+   "g": 5,
+   "name": "curry powder (curry paste)"
+  },
+  {
+   "line": 8,
+   "fdc": 172336,
+   "g": 6,
+   "name": "oil (curry paste)"
+  },
+  {
+   "line": 8,
+   "fdc": 173468,
+   "g": 0.7,
+   "name": "salt (curry paste)"
+  },
+  {
+   "line": 10,
+   "fdc": 168877,
+   "g": 75,
+   "name": "rice, white, long-grain, raw (basmati)"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 1,
+   "name": "cilantro"
+  }
+ ],
+ "notes": "curry paste modelled as curry powder + oil + salt; vegetable stock cube modelled with chicken bouillon dry"
+}

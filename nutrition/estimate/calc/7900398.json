@@ -1,0 +1,85 @@
+{
+ "id": 7900398,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174081,
+   "g": 120,
+   "name": "tortillas, whole wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 168588,
+   "g": 16,
+   "name": "almond butter, no salt"
+  },
+  {
+   "line": 2,
+   "fdc": 174286,
+   "g": 120,
+   "name": "beans, pinto, canned, drained"
+  },
+  {
+   "line": 3,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste, canned, no salt added"
+  },
+  {
+   "line": 4,
+   "fdc": 170016,
+   "g": 80,
+   "name": "peas, green, frozen"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 6,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 7,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "spices, chili powder"
+  },
+  {
+   "line": 8,
+   "fdc": 170005,
+   "g": 30,
+   "name": "onions, spring or scallions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170427,
+   "g": 60,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169997,
+   "g": 1,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 10,
+   "name": "onions, raw"
+  }
+ ],
+ "notes": "tortillas 60 g each; half tin pinto beans = 120 g drained"
+}

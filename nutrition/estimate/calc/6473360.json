@@ -1,0 +1,55 @@
+{
+ "id": 6473360,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168899,
+   "g": 190,
+   "name": "pasta, gluten-free, corn, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 171597,
+   "g": 695,
+   "name": "pasta sauce, marinara, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 169287,
+   "g": 250,
+   "name": "spinach, frozen, unprepared (drained)"
+  },
+  {
+   "line": 3,
+   "fdc": 170900,
+   "g": 100,
+   "name": "mozzarella, part-skim, shredded"
+  },
+  {
+   "line": 4,
+   "fdc": 171248,
+   "g": 246,
+   "name": "ricotta, part skim"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 1,
+   "name": "cooking spray"
+  },
+  {
+   "line": 6,
+   "fdc": 171247,
+   "g": 22,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 7,
+   "fdc": 169074,
+   "g": 227,
+   "name": "tomato sauce, no salt added"
+  }
+ ],
+ "notes": "9 gluten-free lasagna noodles assumed ~21 g each dry; drained spinach 250 g."
+}

@@ -1,0 +1,109 @@
+{
+ "id": 6598291,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168893,
+   "g": 120,
+   "name": "whole wheat flour"
+  },
+  {
+   "line": 1,
+   "fdc": 168894,
+   "g": 62.5,
+   "name": "all-purpose flour"
+  },
+  {
+   "line": 2,
+   "fdc": 175040,
+   "g": 4.6,
+   "name": "baking soda"
+  },
+  {
+   "line": 3,
+   "fdc": 172803,
+   "g": 2.3,
+   "name": "baking powder"
+  },
+  {
+   "line": 4,
+   "fdc": 170935,
+   "g": 1,
+   "name": "sage ground"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "coarse salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 122.5,
+   "name": "greek yogurt nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 10,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 11,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 12,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots raw"
+  },
+  {
+   "line": 14,
+   "fdc": 169988,
+   "g": 80,
+   "name": "celery raw"
+  },
+  {
+   "line": 15,
+   "fdc": 169251,
+   "g": 227,
+   "name": "mushrooms raw"
+  },
+  {
+   "line": 16,
+   "fdc": 171077,
+   "g": 680,
+   "name": "chicken breast raw"
+  },
+  {
+   "line": 17,
+   "fdc": 172884,
+   "g": 1920,
+   "name": "chicken stock home-prepared (low sodium broth)"
+  }
+ ],
+ "notes": "optional coarse salt 1/4 tsp included"
+}

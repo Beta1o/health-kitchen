@@ -1,0 +1,68 @@
+{
+ "id": 6480132,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168472,
+   "g": 450,
+   "name": "squash, winter, acorn, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1.5,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 169098,
+   "g": 30,
+   "name": "orange juice, raw (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 5,
+   "fdc": 167706,
+   "g": 20,
+   "added_sugar": true,
+   "name": "jams, preserves, marmalade, reduced sugar"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 171726,
+   "g": 110,
+   "name": "dates, deglet noor"
+  },
+  {
+   "line": 8,
+   "fdc": 169387,
+   "g": 100,
+   "name": "arugula, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170185,
+   "g": 41,
+   "name": "nuts, pistachio nuts, dry roasted, without salt added"
+  }
+ ],
+ "notes": "Garam masala approximated by cumin; acorn squash edible weight guessed at 450 g; nuts of choice as unsalted dry-roasted pistachios."
+}

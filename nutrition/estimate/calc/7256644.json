@@ -1,0 +1,67 @@
+{
+ "id": 7256644,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170005,
+   "g": 60,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168389,
+   "g": 200,
+   "name": "Asparagus, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171563,
+   "g": 10,
+   "name": "Soup, chicken broth cubes, dry"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 3,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170933,
+   "g": 0.2,
+   "name": "Spices, pepper, white"
+  },
+  {
+   "line": 5,
+   "fdc": 168879,
+   "g": 150,
+   "name": "Rice, white, medium-grain, raw, enriched"
+  },
+  {
+   "line": 6,
+   "fdc": 170016,
+   "g": 150,
+   "name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 171256,
+   "g": 10,
+   "name": "Cream, sour, reduced fat, cultured"
+  },
+  {
+   "line": 8,
+   "fdc": 173410,
+   "g": 10,
+   "name": "Butter, salted"
+  },
+  {
+   "line": 9,
+   "fdc": 171247,
+   "g": 10,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Vegetable stock cube (~10 g) -> chicken broth cube, dry. Half-fat creme fraiche -> reduced-fat sour cream. Arborio -> white medium-grain raw."
+}

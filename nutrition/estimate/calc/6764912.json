@@ -1,0 +1,61 @@
+{
+ "id": 6764912,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169098,
+   "g": 46.5,
+   "name": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 6,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170005,
+   "g": 30,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170567,
+   "g": 27,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 4,
+   "fdc": 170170,
+   "g": 6,
+   "name": "Nuts, coconut meat, dried (desiccated), not sweetened"
+  },
+  {
+   "line": 5,
+   "fdc": 167767,
+   "g": 170,
+   "name": "Pineapple, canned, juice pack, drained"
+  },
+  {
+   "line": 6,
+   "fdc": 168421,
+   "g": 180,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 168874,
+   "g": 85,
+   "name": "Quinoa, uncooked"
+  }
+ ],
+ "notes": "Half 20-oz can pineapple taken as ~170 g drained chunks."
+}

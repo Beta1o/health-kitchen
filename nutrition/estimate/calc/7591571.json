@@ -1,0 +1,43 @@
+{
+ "id": 7591571,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173472,
+   "g": 15,
+   "name": "Horseradish, prepared"
+  },
+  {
+   "line": 1,
+   "fdc": 168013,
+   "g": 35,
+   "name": "Bread, multi-grain (includes whole-grain)"
+  },
+  {
+   "line": 2,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171955,
+   "g": 250,
+   "name": "Fish, cod, Atlantic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 169387,
+   "g": 80,
+   "name": "Arugula, raw"
+  }
+ ],
+ "notes": "Creamed horseradish matched to prepared horseradish; granary bread as multi-grain bread."
+}

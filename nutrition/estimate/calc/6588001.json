@@ -1,0 +1,103 @@
+{
+ "id": 6588001,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 172847,
+   "g": 454,
+   "name": "Turkey, ground, fat free, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "Spices, chili powder"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 1.05,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 180,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 10,
+   "fdc": 169704,
+   "g": 195,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 11,
+   "fdc": 175238,
+   "g": 170,
+   "name": "Beans, black, mature seeds, canned, low sodium"
+  },
+  {
+   "line": 12,
+   "fdc": 168429,
+   "g": 60,
+   "name": "Lettuce, butterhead (includes boston and bibb types), raw"
+  },
+  {
+   "line": 13,
+   "fdc": 172216,
+   "g": 14,
+   "name": "Cheese, Mexican, blend, reduced fat"
+  },
+  {
+   "line": 14,
+   "fdc": 169997,
+   "g": 8,
+   "name": "Coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 15,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  }
+ ],
+ "notes": "Extra-lean ground turkey as fat-free ground turkey."
+}

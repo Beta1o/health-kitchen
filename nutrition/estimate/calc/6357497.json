@@ -1,0 +1,67 @@
+{
+ "id": 6357497,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172183,
+   "g": 121,
+   "name": "egg white, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170872,
+   "g": 61,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 6,
+   "fdc": 171985,
+   "g": 57,
+   "name": "smoked salmon, lox (low sodium version not in SR)"
+  },
+  {
+   "line": 7,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, greek, nonfat"
+  },
+  {
+   "line": 8,
+   "fdc": 172233,
+   "g": 1,
+   "name": "dill, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 35,
+   "name": "onions, raw (red)"
+  }
+ ],
+ "notes": "Low-sodium smoked salmon modeled with regular lox; sodium likely overstated."
+}

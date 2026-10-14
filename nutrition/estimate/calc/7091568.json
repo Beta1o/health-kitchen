@@ -1,0 +1,90 @@
+{
+ "id": 7091568,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171098,
+   "g": 500,
+   "name": "Turkey, whole, breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170106,
+   "g": 30,
+   "name": "Peppers, hot chili, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "Spices, cumin seed"
+  },
+  {
+   "line": 4,
+   "fdc": 171315,
+   "g": 1.9,
+   "name": "Spices, allspice, ground"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 12,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170388,
+   "g": 150,
+   "name": "Cabbage, savoy, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170457,
+   "g": 364,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 11,
+   "fdc": 168409,
+   "g": 100,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170416,
+   "g": 4,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 173475,
+   "g": 2,
+   "name": "Spearmint, fresh"
+  },
+  {
+   "line": 14,
+   "fdc": 167747,
+   "g": 22,
+   "name": "Lemon juice, raw"
+  }
+ ]
+}

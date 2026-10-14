@@ -1,0 +1,79 @@
+{
+ "id": 6551725,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170257,
+   "g": 6,
+   "name": "sucralose sweetener (granulated)"
+  },
+  {
+   "line": 1,
+   "fdc": 169698,
+   "g": 16,
+   "name": "cornstarch"
+  },
+  {
+   "line": 2,
+   "fdc": 170872,
+   "g": 427,
+   "name": "milk, lowfat 1%"
+  },
+  {
+   "line": 3,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168450,
+   "g": 227,
+   "name": "pumpkin, canned, without salt"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 0.45,
+   "name": "ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171326,
+   "g": 0.3,
+   "name": "nutmeg, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 173471,
+   "g": 2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 10,
+   "fdc": 170182,
+   "g": 25,
+   "name": "nuts, pecans"
+  },
+  {
+   "line": 11,
+   "fdc": 167687,
+   "g": 32,
+   "name": "whipped topping, frozen, low fat"
+  }
+ ],
+ "notes": "Vanilla bean counted as 2 g vanilla extract."
+}

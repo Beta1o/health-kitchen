@@ -1,0 +1,79 @@
+{
+ "id": 6606398,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168875,
+   "g": 195,
+   "name": "brown rice cooked"
+  },
+  {
+   "line": 1,
+   "fdc": 175238,
+   "g": 128,
+   "name": "black beans canned low sodium drained"
+  },
+  {
+   "line": 2,
+   "fdc": 169998,
+   "g": 145,
+   "name": "corn sweet yellow raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 80,
+   "name": "red onion raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169997,
+   "g": 4,
+   "name": "cilantro"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 88,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "olive oil"
+  },
+  {
+   "line": 8,
+   "fdc": 170923,
+   "g": 2.1,
+   "name": "cumin"
+  },
+  {
+   "line": 9,
+   "fdc": 171319,
+   "g": 1.35,
+   "name": "chili powder"
+  },
+  {
+   "line": 10,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "coarse salt (kosher density)"
+  },
+  {
+   "line": 11,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  }
+ ],
+ "notes": "coarse salt taken as 4.8 g/tsp"
+}

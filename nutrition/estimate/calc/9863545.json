@@ -1,0 +1,42 @@
+{
+ "id": 9863545,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172347,
+   "g": 14,
+   "name": "margarine 80% fat (vegan butter)"
+  },
+  {
+   "line": 1,
+   "fdc": 170499,
+   "g": 80,
+   "name": "shallots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic"
+  },
+  {
+   "line": 3,
+   "fdc": 168434,
+   "g": 454,
+   "name": "mushrooms, crimini, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170283,
+   "g": 184,
+   "name": "barley, hulled"
+  },
+  {
+   "line": 5,
+   "fdc": 172884,
+   "g": 1920,
+   "name": "stock home-prepared (low sodium veg broth)"
+  }
+ ]
+}

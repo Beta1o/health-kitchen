@@ -1,0 +1,68 @@
+{
+ "id": 9135569,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169998,
+   "g": 450,
+   "name": "corn kernels"
+  },
+  {
+   "line": 1,
+   "fdc": 175188,
+   "g": 255,
+   "name": "black beans canned, drained"
+  },
+  {
+   "line": 2,
+   "fdc": 168409,
+   "g": 133,
+   "name": "cucumber"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 150,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 53,
+   "name": "red onion"
+  },
+  {
+   "line": 5,
+   "fdc": 170189,
+   "g": 30,
+   "name": "tahini"
+  },
+  {
+   "line": 6,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 30,
+   "name": "white wine vinegar -> red wine vinegar"
+  },
+  {
+   "line": 8,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 9,
+   "name": "basil fresh"
+  }
+ ],
+ "notes": "salt and pepper to taste left out"
+}

@@ -1,0 +1,84 @@
+{
+ "id": 6366362,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken_br"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 5.3,
+   "name": "soy_low"
+  },
+  {
+   "line": 5,
+   "fdc": 173469,
+   "g": 5,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 6,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 8,
+   "fdc": 172884,
+   "g": 480,
+   "name": "no-salt-added chicken stock"
+  },
+  {
+   "line": 9,
+   "fdc": 169703,
+   "g": 123,
+   "name": "brownrice"
+  },
+  {
+   "line": 10,
+   "fdc": 168462,
+   "g": 120,
+   "name": "spinach"
+  },
+  {
+   "line": 11,
+   "fdc": 169276,
+   "g": 18,
+   "name": "radish"
+  },
+  {
+   "line": 12,
+   "fdc": 170005,
+   "g": 30,
+   "name": "scallion"
+  },
+  {
+   "line": 13,
+   "fdc": 170151,
+   "g": 5.4,
+   "name": "sesame"
+  }
+ ]
+}

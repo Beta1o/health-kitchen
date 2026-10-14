@@ -1,0 +1,49 @@
+{
+ "id": 7378019,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 744,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 476,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 330,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169231,
+   "g": 25,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 36,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 173470,
+   "g": 3,
+   "name": "Thyme, fresh"
+  }
+ ],
+ "notes": "5 cm ginger ~25 g; 4 big thyme sprigs ~3 g; pepper to taste left out."
+}

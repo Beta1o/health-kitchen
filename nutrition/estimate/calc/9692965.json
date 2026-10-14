@@ -1,0 +1,32 @@
+{
+ "id": 9692965,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168833,
+   "g": 55,
+   "name": "sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 1,
+   "fdc": 171320,
+   "g": 1.3,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 4,
+   "fdc": 170182,
+   "g": 148.5,
+   "name": "pecans"
+  }
+ ],
+ "notes": "Two alternative flavours each with 1.5 cups pecans; only the first (sweet cinnamon) counted. Coconut sugar option ignored; brown sugar used."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6920949,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168156,
+   "g": 92,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, skinless, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171319,
+   "g": 2.7,
+   "name": "chili powder"
+  },
+  {
+   "line": 5,
+   "fdc": 170923,
+   "g": 1,
+   "name": "cumin"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 240,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 7,
+   "fdc": 168156,
+   "g": 30,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  }
+ ],
+ "notes": "Lime wedges for serving counted as 30 g juice."
+}

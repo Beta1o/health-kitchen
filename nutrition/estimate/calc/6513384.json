@@ -1,0 +1,67 @@
+{
+ "id": 6513384,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172240,
+   "g": 30,
+   "name": "vinegar, red wine"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 54,
+   "name": "oil, olive"
+  },
+  {
+   "line": 4,
+   "fdc": 173475,
+   "g": 3,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 167765,
+   "g": 570,
+   "name": "watermelon, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170008,
+   "g": 55,
+   "name": "onions, sweet, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169276,
+   "g": 120,
+   "name": "radishes, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173420,
+   "g": 57,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 9,
+   "fdc": 169387,
+   "g": 142,
+   "name": "arugula, raw"
+  }
+ ],
+ "notes": "reduced-fat feta: regular feta entry used (no reduced-fat entry); radish bunch ~120 g"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 6085562,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "cooking spray"
+  },
+  {
+   "line": 2,
+   "fdc": 173627,
+   "g": 227,
+   "name": "chicken thigh meat only raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 240,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169703,
+   "g": 185,
+   "name": "rice, brown, long-grain, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 12,
+   "name": "garlic raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170938,
+   "g": 0.5,
+   "name": "thyme dried"
+  },
+  {
+   "line": 8,
+   "fdc": 168389,
+   "g": 268,
+   "name": "asparagus raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 173439,
+   "g": 50,
+   "name": "cheese, low fat, cheddar"
+  }
+ ],
+ "notes": "Sodium-free chicken bouillon granules left out (sodium-free bouillon is usually potassium chloride based; no matching entry)."
+}

@@ -1,0 +1,67 @@
+{
+ "id": 6738204,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 113,
+   "name": "pasta dry enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 18,
+   "name": "red bell pepper"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 18,
+   "name": "orange bell -> yellow pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 25,
+   "name": "cucumber"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 20,
+   "name": "carrot"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 30,
+   "name": "red onion"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 173594,
+   "g": 155,
+   "name": "light mayonnaise"
+  },
+  {
+   "line": 8,
+   "fdc": 169655,
+   "g": 2,
+   "name": "sugar",
+   "added_sugar": true
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6558356,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168203,
+   "g": 360,
+   "name": "apples, granny smith, with skin"
+  },
+  {
+   "line": 1,
+   "fdc": 167747,
+   "g": 15,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "oil, canola"
+  },
+  {
+   "line": 3,
+   "fdc": 173933,
+   "g": 62,
+   "name": "apple juice, unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 169878,
+   "g": 15,
+   "name": "syrups, sugar free"
+  },
+  {
+   "line": 5,
+   "fdc": 171321,
+   "g": 0.5,
+   "name": "cloves, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cinnamon, ground"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 7,
+   "name": "almonds"
+  }
+ ],
+ "notes": "Apple cider as unsweetened apple juice; sugar-free maple-type syrup as sugar-free syrup."
+}

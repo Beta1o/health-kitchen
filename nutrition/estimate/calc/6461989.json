@@ -1,0 +1,68 @@
+{
+ "id": 6461989,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 30,
+   "name": "Lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 8,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174267,
+   "g": 24,
+   "name": "Peanut flour, defatted"
+  },
+  {
+   "line": 4,
+   "fdc": 174277,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+   "line": 5,
+   "fdc": 168833,
+   "g": 9.2,
+   "name": "Sugars, brown",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 174290,
+   "g": 595,
+   "name": "Tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 7,
+   "fdc": 169698,
+   "g": 5.3,
+   "name": "Cornstarch"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 170379,
+   "g": 340,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168917,
+   "g": 370,
+   "name": "Quinoa, cooked"
+  }
+ ],
+ "notes": "Powdered peanut butter as defatted peanut flour. Broccolini (2 bunches ~340 g) as broccoli. Lime as its juice ~30 g."
+}

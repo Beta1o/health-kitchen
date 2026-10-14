@@ -1,0 +1,66 @@
+{
+ "id": 7300874,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170457,
+   "g": 260,
+   "name": "tomatoes, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 169997,
+   "g": 50,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 20,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167749,
+   "g": 2,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 180,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 168409,
+   "g": 160,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170393,
+   "g": 250,
+   "name": "carrots, raw"
+  }
+ ]
+}

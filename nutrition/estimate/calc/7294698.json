@@ -1,0 +1,49 @@
+{
+ "id": 7294698,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 175119,
+   "g": 400,
+   "name": "mackerel, Atlantic, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 167747,
+   "g": 90,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 450,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170416,
+   "g": 30,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Seeded vine tomatoes 5 x ~90 g; large handful parsley guessed 30 g; lemon wedges and optional baguette to serve left out."
+}

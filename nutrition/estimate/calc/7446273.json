@@ -1,0 +1,55 @@
+{
+ "id": 7446273,
+ "servings": 36,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174977,
+   "g": 108,
+   "name": "melba toast (mini croustade cases, 36 x 3 g)"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 2,
+   "fdc": 173442,
+   "g": 60,
+   "name": "sour cream, reduced fat (half-fat creme fraiche)"
+  },
+  {
+   "line": 3,
+   "fdc": 169994,
+   "g": 3,
+   "name": "chives"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 0.3,
+   "name": "paprika"
+  },
+  {
+   "line": 5,
+   "fdc": 171247,
+   "g": 5,
+   "name": "parmesan, grated"
+  },
+  {
+   "line": 6,
+   "fdc": 174205,
+   "g": 225,
+   "name": "crab, cooked"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "pepper"
+  }
+ ],
+ "notes": "mini croustade cases taken as melba toast, 3 g each"
+}

@@ -1,0 +1,60 @@
+{
+ "id": 6262343,
+ "servings": 12,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168454,
+   "g": 454,
+   "name": "Rutabagas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170027,
+   "g": 227,
+   "name": "Potatoes, russet, flesh and skin, raw (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 92,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 15,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170917,
+   "g": 0.2,
+   "name": "Spices, bay leaf"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.29,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 480,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 9,
+   "fdc": 171413,
+   "g": 13.6,
+   "name": "Oil, olive, salad or cooking"
+  }
+ ]
+}

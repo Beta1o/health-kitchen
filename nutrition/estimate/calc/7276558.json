@@ -1,0 +1,61 @@
+{
+ "id": 7276558,
+ "servings": 20,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172675,
+   "g": 200,
+   "name": "bread, french (seeded baguette)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 4,
+   "fdc": 170393,
+   "g": 61,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 3,
+   "name": "vinegar, balsamic"
+  },
+  {
+   "line": 7,
+   "fdc": 168567,
+   "g": 8,
+   "name": "tomatoes, sun-dried"
+  },
+  {
+   "line": 8,
+   "fdc": 172232,
+   "g": 1,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "multigrain baguette as french bread"
+}

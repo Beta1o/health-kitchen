@@ -1,0 +1,73 @@
+{
+ "id": 6987481,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168096,
+   "g": 60,
+   "name": "italian dressing, reduced calorie"
+  },
+  {
+   "line": 2,
+   "fdc": 170894,
+   "g": 245,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173475,
+   "g": 1.6,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 174916,
+   "g": 112,
+   "name": "bread, pita, whole-wheat"
+  },
+  {
+   "line": 8,
+   "fdc": 168409,
+   "g": 301,
+   "name": "cucumber, with peel, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 149,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170000,
+   "g": 55,
+   "name": "onions, raw"
+  }
+ ],
+ "notes": "Light Italian dressing used as marinade: half (60 g) counted as absorbed; small pita 28 g each."
+}

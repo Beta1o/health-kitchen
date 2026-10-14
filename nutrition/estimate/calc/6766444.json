@@ -1,0 +1,31 @@
+{
+ "id": 6766444,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 4,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 175247,
+   "g": 255,
+   "name": "beans, pinto, mature seeds, canned, solids and liquids, low sodium"
+  }
+ ],
+ "notes": "Low-sodium canned beans as low-sodium pinto beans (solids and liquids entry, drained weight); herbs as parsley."
+}

@@ -1,0 +1,42 @@
+{
+ "id": 7252558,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172336,
+   "g": 9,
+   "name": "oil, canola"
+  },
+  {
+   "line": 1,
+   "fdc": 169231,
+   "g": 12,
+   "name": "ginger root"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 7.5,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "red pepper flakes"
+  },
+  {
+   "line": 4,
+   "fdc": 168421,
+   "g": 200,
+   "name": "kale, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  }
+ ]
+}

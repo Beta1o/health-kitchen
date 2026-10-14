@@ -1,0 +1,67 @@
+{
+ "id": 9810559,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 288,
+   "name": "lentils, pink or red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 907,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 168482,
+   "g": 680,
+   "name": "sweet potato, raw, unprepared (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 5,
+   "fdc": 171583,
+   "g": 1920,
+   "name": "soup, vegetable broth, ready to serve"
+  },
+  {
+   "line": 6,
+   "fdc": 171329,
+   "g": 4.6,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 7,
+   "fdc": 170923,
+   "g": 3.2,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 9,
+   "fdc": 167747,
+   "g": 38,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 170416,
+   "g": 1,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Garnish counted as 1 g parsley."
+}

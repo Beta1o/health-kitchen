@@ -1,0 +1,68 @@
+{
+ "id": 9966381,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 175188,
+   "g": 240,
+   "name": "Beans, black turtle, mature seeds, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 175243,
+   "g": 240,
+   "name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+  },
+  {
+   "line": 3,
+   "fdc": 168409,
+   "g": 200,
+   "name": "Cucumber, with peel, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170000,
+   "g": 40,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171705,
+   "g": 150,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 6,
+   "fdc": 172232,
+   "g": 21,
+   "name": "Basil, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 61,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 172241,
+   "g": 32,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 9,
+   "fdc": 169661,
+   "g": 20,
+   "added_sugar": true,
+   "name": "Syrups, maple"
+  }
+ ],
+ "notes": "black beans: only solids+liquid canned entry, used drained weight"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 6054450,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173717,
+   "g": 907,
+   "name": "Fish, trout, rainbow, farmed, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 4,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "Spices, paprika"
+  }
+ ],
+ "notes": "Salt-free lemon pepper as black pepper."
+}

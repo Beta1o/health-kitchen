@@ -1,0 +1,85 @@
+{
+ "id": 6074589,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 340,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 1,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170000,
+   "g": 55,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 298,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 7,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168434,
+   "g": 227,
+   "name": "Mushrooms, brown, italian, or crimini, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 172212,
+   "g": 60,
+   "name": "Cream, half and half, fat free"
+  },
+  {
+   "line": 10,
+   "fdc": 171579,
+   "g": 48,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 11,
+   "fdc": 169738,
+   "g": 227,
+   "name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 15,
+   "name": "Cheese, parmesan, grated"
+  }
+ ],
+ "notes": "1/2 lb whole grain spaghetti '(cooked)' taken as 227 g dry weight (serving says 1 cup cooked each)."
+}

@@ -1,0 +1,73 @@
+{
+ "id": 7912812,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.6,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw (red)"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "red bell pepper, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170427,
+   "g": 119,
+   "name": "green bell pepper, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170108,
+   "g": 119,
+   "name": "yellow bell pepper ~ red, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 175119,
+   "g": 400,
+   "name": "mackerel, Atlantic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170924,
+   "g": 3,
+   "name": "curry powder"
+  },
+  {
+   "line": 6,
+   "fdc": 172336,
+   "g": 2,
+   "name": "oil, canola"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.5,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 169997,
+   "g": 25,
+   "name": "coriander leaves, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 168155,
+   "g": 67,
+   "name": "limes, raw"
+  }
+ ],
+ "notes": "curry paste (2 tsp ~10 g) modelled as curry powder 3 g + oil 2 g + salt 0.5 g"
+}

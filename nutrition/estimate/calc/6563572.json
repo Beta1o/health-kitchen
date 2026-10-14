@@ -1,0 +1,49 @@
+{
+ "id": 6563572,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171477,
+   "g": 113,
+   "name": "Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+  },
+  {
+   "line": 1,
+   "fdc": 171579,
+   "g": 15,
+   "name": "Sauce, pesto, ready-to-serve, refrigerated"
+  },
+  {
+   "line": 2,
+   "fdc": 174081,
+   "g": 90,
+   "name": "Tortillas, ready-to-bake or -fry, whole wheat"
+  },
+  {
+   "line": 3,
+   "fdc": 169247,
+   "g": 28,
+   "name": "Lettuce, cos or romaine, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173420,
+   "g": 12,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 5,
+   "fdc": 168546,
+   "g": 18,
+   "name": "Peppers, sweet, red, canned, solids and liquids"
+  },
+  {
+   "line": 6,
+   "fdc": 170457,
+   "g": 91,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  }
+ ],
+ "notes": "Low-carb whole grain wraps as whole wheat tortillas ~45 g each (low-carb wraps have less carb, more fiber); fat-free feta as regular feta."
+}

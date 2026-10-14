@@ -1,0 +1,55 @@
+{
+ "id": 7525579,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171705,
+   "g": 200,
+   "name": "avocado large"
+  },
+  {
+   "line": 1,
+   "fdc": 171287,
+   "g": 76,
+   "name": "eggs small (2 x 38 g)"
+  },
+  {
+   "line": 2,
+   "fdc": 172336,
+   "g": 4.5,
+   "name": "rapeseed oil"
+  },
+  {
+   "line": 3,
+   "fdc": 170106,
+   "g": 7,
+   "name": "red chilli"
+  },
+  {
+   "line": 4,
+   "fdc": 175188,
+   "g": 200,
+   "name": "black beans canned"
+  },
+  {
+   "line": 5,
+   "fdc": 170457,
+   "g": 136,
+   "name": "cherry tomatoes (8)"
+  },
+  {
+   "line": 6,
+   "fdc": 171604,
+   "g": 3,
+   "name": "hot chili sauce (chipotle paste)"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 30,
+   "name": "spring onions"
+  }
+ ],
+ "notes": "chipotle paste -> hot red chili sauce"
+}

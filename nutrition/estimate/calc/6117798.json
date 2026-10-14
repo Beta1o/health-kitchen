@@ -1,0 +1,43 @@
+{
+ "id": 6117798,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171845,
+   "g": 320,
+   "name": "bread, naan, plain"
+  },
+  {
+   "line": 1,
+   "fdc": 169074,
+   "g": 227,
+   "name": "tomato sauce, canned, no salt added"
+  },
+  {
+   "line": 2,
+   "fdc": 170845,
+   "g": 85,
+   "name": "cheese, mozzarella, whole milk"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169094,
+   "g": 48,
+   "name": "olives, ripe, canned"
+  },
+  {
+   "line": 5,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "Mini naan assumed 40 g each."
+}

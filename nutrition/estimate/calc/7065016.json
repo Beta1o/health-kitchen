@@ -1,0 +1,109 @@
+{
+ "id": 7065016,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168894,
+   "g": 100,
+   "name": "wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 171287,
+   "g": 38,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 6,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 169230,
+   "g": 3,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 60,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 169986,
+   "g": 100,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 169291,
+   "g": 120,
+   "name": "squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169988,
+   "g": 40,
+   "name": "celery, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 170393,
+   "g": 50,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 174284,
+   "g": 50,
+   "name": "lentils, pink or red, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170051,
+   "g": 400,
+   "name": "tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 15,
+   "fdc": 171609,
+   "g": 200,
+   "name": "soup, chicken broth, low sodium, canned"
+  },
+  {
+   "line": 16,
+   "fdc": 171247,
+   "g": 15,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 17,
+   "fdc": 170416,
+   "g": 3.8,
+   "name": "parsley, fresh"
+  }
+ ],
+ "notes": "Fresh herbs as parsley; low-salt vegetable stock as canned low-sodium chicken broth."
+}

@@ -1,0 +1,55 @@
+{
+ "id": 6299047,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168191,
+   "g": 96,
+   "name": "dates medjool"
+  },
+  {
+   "line": 1,
+   "fdc": 171706,
+   "g": 136,
+   "name": "avocado California"
+  },
+  {
+   "line": 2,
+   "fdc": 174832,
+   "g": 60,
+   "name": "almond milk unsweetened"
+  },
+  {
+   "line": 3,
+   "fdc": 169593,
+   "g": 13.5,
+   "name": "cocoa unsweetened"
+  },
+  {
+   "line": 4,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "cinnamon ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 7,
+   "fdc": 167755,
+   "g": 11,
+   "name": "raspberries raw"
+  }
+ ],
+ "notes": "California dates assumed Medjool, 24 g each"
+}

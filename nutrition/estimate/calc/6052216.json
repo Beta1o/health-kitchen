@@ -1,0 +1,85 @@
+{
+ "id": 6052216,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 227,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 392,
+   "name": "squash, zucchini, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 75,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 6,
+   "fdc": 175179,
+   "g": 454,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170416,
+   "g": 7.5,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 0.6,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 2.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 170457,
+   "g": 300,
+   "name": "tomatoes, red, ripe, raw (cherry)"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 5,
+   "name": "cheese, parmesan, grated"
+  }
+ ],
+ "notes": "Lemon taken as its juice (45 g)."
+}

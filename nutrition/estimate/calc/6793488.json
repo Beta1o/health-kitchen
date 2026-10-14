@@ -1,0 +1,42 @@
+{
+ "id": 6793488,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.2,
+   "name": "oil, PAM cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169970,
+   "g": 454,
+   "name": "broccoli, frozen, spears, unprepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171327,
+   "g": 1.2,
+   "name": "spices, onion powder"
+  },
+  {
+   "line": 4,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ]
+}

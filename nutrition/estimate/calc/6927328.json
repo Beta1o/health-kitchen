@@ -1,0 +1,85 @@
+{
+ "id": 6927328,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168874,
+   "g": 170,
+   "name": "Quinoa, uncooked"
+  },
+  {
+   "line": 1,
+   "fdc": 170108,
+   "g": 150,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170457,
+   "g": 150,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 1,
+   "fdc": 169291,
+   "g": 130,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170379,
+   "g": 130,
+   "name": "Broccoli, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 27,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 1,
+   "name": "Spices, oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "Salt, table"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 7,
+   "fdc": 173420,
+   "g": 19,
+   "name": "Cheese, feta"
+  },
+  {
+   "line": 8,
+   "fdc": 167747,
+   "g": 45,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171077,
+   "g": 350,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "Mixed nonstarchy vegetables split as pepper/tomato/zucchini/broccoli; lemon wedges counted as juice."
+}

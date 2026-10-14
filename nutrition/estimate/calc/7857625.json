@@ -1,0 +1,66 @@
+{
+ "id": 7857625,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170688,
+   "g": 150,
+   "name": "bulgur, dry"
+  },
+  {
+   "line": 1,
+   "fdc": 170416,
+   "g": 11.4,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 173475,
+   "g": 4.8,
+   "name": "spearmint, fresh"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 125,
+   "name": "cherry tomatoes"
+  },
+  {
+   "line": 4,
+   "fdc": 168409,
+   "g": 170,
+   "name": "cucumber, with peel (half)"
+  },
+  {
+   "line": 5,
+   "fdc": 170005,
+   "g": 100,
+   "name": "spring onions (bunch)"
+  },
+  {
+   "line": 6,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lemon peel"
+  },
+  {
+   "line": 6,
+   "fdc": 167747,
+   "g": 22,
+   "name": "lemon juice"
+  },
+  {
+   "line": 7,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 8,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "pepper, black"
+  }
+ ]
+}

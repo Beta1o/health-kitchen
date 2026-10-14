@@ -1,0 +1,31 @@
+{
+ "id": 9566547,
+ "servings": 18,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168191,
+   "g": 178,
+   "name": "medjool dates, packed"
+  },
+  {
+   "line": 1,
+   "fdc": 170178,
+   "g": 134,
+   "name": "macadamia nuts"
+  },
+  {
+   "line": 2,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  }
+ ],
+ "notes": "Optional desiccated coconut for rolling (no amount) left out."
+}

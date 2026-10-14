@@ -1,0 +1,66 @@
+{
+ "id": 6530550,
+ "servings": 25,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170902,
+   "g": 227,
+   "name": "Yogurt, Greek, vanilla, nonfat"
+  },
+  {
+   "line": 1,
+   "fdc": 170554,
+   "g": 12,
+   "name": "Seeds, chia seeds, dried"
+  },
+  {
+   "line": 2,
+   "fdc": 171320,
+   "g": 0.3,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 3,
+   "fdc": 167762,
+   "g": 576,
+   "name": "Strawberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169092,
+   "g": 640,
+   "name": "Melons, cantaloupe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169124,
+   "g": 660,
+   "name": "Pineapple, raw, all varieties"
+  },
+  {
+   "line": 6,
+   "fdc": 174683,
+   "g": 453,
+   "name": "Grapes, red or green (European type, such as Thompson seedless), raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171711,
+   "g": 592,
+   "name": "Blueberries, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 174683,
+   "g": 453,
+   "name": "Grapes, red or green (European type, such as Thompson seedless), raw"
+  },
+  {
+   "line": 9,
+   "fdc": 173946,
+   "g": 432,
+   "name": "Blackberries, raw"
+  }
+ ]
+}

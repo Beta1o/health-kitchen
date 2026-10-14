@@ -1,0 +1,79 @@
+{
+ "id": 9623848,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169736,
+   "g": 125,
+   "name": "pasta, dry, enriched"
+  },
+  {
+   "line": 1,
+   "fdc": 174290,
+   "g": 350,
+   "name": "tofu, extra firm, prepared with nigari"
+  },
+  {
+   "line": 2,
+   "fdc": 175043,
+   "g": 16,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  },
+  {
+   "line": 3,
+   "fdc": 173469,
+   "g": 45,
+   "name": "vinegar, cider"
+  },
+  {
+   "line": 5,
+   "fdc": 171325,
+   "g": 1.5,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 6,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 168462,
+   "g": 142,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 170054,
+   "g": 735,
+   "name": "tomato products, canned, sauce"
+  },
+  {
+   "line": 9,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil, fresh"
+  },
+  {
+   "line": 10,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 11,
+   "fdc": 170162,
+   "g": 24,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 175043,
+   "g": 6,
+   "name": "leavening agents, yeast, baker's, active dry (for nutritional yeast)"
+  }
+ ],
+ "notes": "vegan parmesan modeled as cashews + nutritional yeast (as active dry yeast); tomato sauce as regular canned"
+}

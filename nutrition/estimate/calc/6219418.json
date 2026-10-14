@@ -1,0 +1,90 @@
+{
+ "id": 6219418,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170108,
+   "g": 238,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170923,
+   "g": 1,
+   "name": "spices, cumin seed"
+  },
+  {
+   "line": 5,
+   "fdc": 171329,
+   "g": 1.15,
+   "name": "spices, paprika"
+  },
+  {
+   "line": 6,
+   "fdc": 170922,
+   "g": 0.45,
+   "name": "spices, coriander seed"
+  },
+  {
+   "line": 7,
+   "fdc": 170932,
+   "g": 0.45,
+   "name": "spices, red pepper flakes (cayenne)"
+  },
+  {
+   "line": 8,
+   "fdc": 170138,
+   "g": 242,
+   "name": "tomatoes, canned, no salt added"
+  },
+  {
+   "line": 9,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 11,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 173420,
+   "g": 9.4,
+   "name": "cheese, feta"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 7.6,
+   "name": "parsley, fresh"
+  }
+ ]
+}

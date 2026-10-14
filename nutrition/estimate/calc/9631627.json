@@ -1,0 +1,50 @@
+{
+ "id": 9631627,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173945,
+   "g": 125,
+   "name": "Bananas, dehydrated, or banana powder"
+  },
+  {
+   "line": 1,
+   "fdc": 172803,
+   "g": 9.2,
+   "name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 2,
+   "fdc": 172456,
+   "g": 243,
+   "name": "Soymilk, original and vanilla, with added calcium, vitamins A and D"
+  },
+  {
+   "line": 3,
+   "fdc": 171695,
+   "g": 122,
+   "name": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 4,
+   "fdc": 169661,
+   "g": 40,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 174294,
+   "g": 16,
+   "name": "Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 6,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "Vanilla extract"
+  }
+ ],
+ "notes": "banana flour -> dehydrated banana/banana powder"
+}

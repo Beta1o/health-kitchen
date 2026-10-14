@@ -1,0 +1,42 @@
+{
+ "id": 6553465,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169705,
+   "g": 81,
+   "name": "oats"
+  },
+  {
+   "line": 2,
+   "fdc": 171269,
+   "g": 245,
+   "name": "skim milk"
+  },
+  {
+   "line": 3,
+   "fdc": 171689,
+   "g": 150,
+   "name": "apple without skin"
+  },
+  {
+   "line": 4,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "cinnamon"
+  },
+  {
+   "line": 5,
+   "fdc": 171326,
+   "g": 0.55,
+   "name": "nutmeg"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "salt"
+  }
+ ]
+}

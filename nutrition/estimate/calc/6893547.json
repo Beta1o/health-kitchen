@@ -1,0 +1,66 @@
+{
+ "id": 6893547,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 169385,
+   "g": 624,
+   "name": "fennel bulb (2 x 11 oz)"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onion"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "olive oil"
+  },
+  {
+   "line": 4,
+   "fdc": 172884,
+   "g": 240,
+   "name": "chicken stock home-prepared"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt"
+  },
+  {
+   "line": 6,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 7,
+   "fdc": 172240,
+   "g": 30,
+   "name": "red wine vinegar"
+  },
+  {
+   "line": 8,
+   "fdc": 175204,
+   "g": 260,
+   "name": "white beans canned (cannellini, drained)"
+  },
+  {
+   "line": 9,
+   "fdc": 170416,
+   "g": 15,
+   "name": "parsley"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": 7367467,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 150,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170051,
+   "g": 800,
+   "name": "Tomatoes, red, ripe, canned, packed in tomato juice"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 119,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169383,
+   "g": 119,
+   "name": "Peppers, sweet, yellow, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 119,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 174253,
+   "g": 240,
+   "name": "Lima beans, large, mature seeds, cooked, boiled, without salt"
+  },
+  {
+   "line": 4,
+   "fdc": 168421,
+   "g": 150,
+   "name": "Kale, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 1,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 6,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 170459,
+   "g": 32,
+   "name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+  }
+ ],
+ "notes": "Butterbeans in unsalted water as lima beans boiled without salt (240 g drained). Oil spray amount guessed as 1 g."
+}

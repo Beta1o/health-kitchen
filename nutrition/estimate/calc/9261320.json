@@ -1,0 +1,56 @@
+{
+ "id": 9261320,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 167932,
+   "g": 200,
+   "name": "pie crust, refrigerated, unbaked"
+  },
+  {
+   "line": 1,
+   "fdc": 170173,
+   "g": 600,
+   "name": "coconut milk, canned"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 67,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 100,
+   "name": "lemon juice"
+  },
+  {
+   "line": 4,
+   "fdc": 169698,
+   "g": 32,
+   "name": "cornstarch"
+  },
+  {
+   "line": 5,
+   "fdc": 172231,
+   "g": 1.5,
+   "name": "turmeric, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 167762,
+   "g": 1,
+   "name": "strawberries, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170567,
+   "g": 1,
+   "name": "almonds"
+  }
+ ],
+ "notes": "Vegan whole wheat crust approximated by refrigerated pie crust, 200 g; lemon juice 100 g (between 1/3 and 1/2 cup); fruit and almond garnish 1 g each."
+}

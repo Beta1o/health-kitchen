@@ -1,0 +1,92 @@
+{
+ "id": 3817521,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168156,
+   "g": 60,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 172473,
+   "g": 48,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 15,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169661,
+   "g": 6.7,
+   "added_sugar": true,
+   "name": "syrups, maple"
+  },
+  {
+   "line": 7,
+   "fdc": 171016,
+   "g": 4.5,
+   "name": "oil, sesame, salad or cooking"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 169986,
+   "g": 650,
+   "name": "cauliflower, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168421,
+   "g": 200,
+   "name": "kale, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 169738,
+   "g": 250,
+   "name": "pasta, whole-wheat, dry (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 12,
+   "fdc": 171287,
+   "g": 200,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 13,
+   "fdc": 170162,
+   "g": 50,
+   "name": "nuts, cashew nuts, raw"
+  },
+  {
+   "line": 14,
+   "fdc": 170392,
+   "g": 38,
+   "name": "cabbage, kimchi"
+  }
+ ],
+ "notes": "Chilli flakes to taste left out; medium cauliflower with leaves ~650 g; wholewheat noodles as whole-wheat pasta, dry."
+}

@@ -1,0 +1,63 @@
+{
+ "id": 9235323,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168569,
+   "g": 280,
+   "name": "Hearts of palm, canned"
+  },
+  {
+   "line": 1,
+   "fdc": 168556,
+   "g": 60,
+   "name": "Catsup",
+   "added_sugar": true
+  },
+  {
+   "line": 2,
+   "fdc": 173469,
+   "g": 60,
+   "name": "Vinegar, cider"
+  },
+  {
+   "line": 4,
+   "fdc": 174277,
+   "g": 16,
+   "name": "Soy sauce made from soy and wheat (shoyu)"
+  },
+  {
+   "line": 5,
+   "fdc": 169661,
+   "g": 20,
+   "name": "Syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 172234,
+   "g": 15,
+   "name": "Mustard, prepared, yellow"
+  },
+  {
+   "line": 7,
+   "fdc": 171329,
+   "g": 2.3,
+   "name": "Spices, paprika"
+  },
+  {
+   "line": 8,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "Spices, onion powder"
+  }
+ ],
+ "notes": "young jackfruit in brine (drained ~280 g) -> canned hearts of palm (no SR match); tortillas and toppings without amounts left out (filling only)"
+}

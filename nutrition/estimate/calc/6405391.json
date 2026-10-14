@@ -1,0 +1,73 @@
+{
+ "id": 6405391,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt, table"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 3,
+   "fdc": 168894,
+   "g": 30,
+   "name": "wheat flour, all-purpose"
+  },
+  {
+   "line": 4,
+   "fdc": 172183,
+   "g": 66,
+   "name": "egg, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173452,
+   "g": 33,
+   "name": "cheese, parmesan, dry grated, reduced fat"
+  },
+  {
+   "line": 6,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 7,
+   "fdc": 171328,
+   "g": 1,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 8,
+   "fdc": 171317,
+   "g": 0.7,
+   "name": "spices, basil, dried"
+  },
+  {
+   "line": 9,
+   "fdc": 174928,
+   "g": 54,
+   "name": "bread crumbs, dry, plain"
+  },
+  {
+   "line": 10,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  }
+ ],
+ "notes": "dredging flour: ~30 g of 1/2 cup assumed to stick; whole wheat crumbs as plain dry crumbs"
+}

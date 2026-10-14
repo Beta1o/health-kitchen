@@ -1,0 +1,55 @@
+{
+ "id": 6633572,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 27,
+   "name": "oil, olive"
+  },
+  {
+   "line": 1,
+   "fdc": 172233,
+   "g": 0.6,
+   "name": "dill weed, fresh"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 4,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 2.4,
+   "name": "salt, table"
+  },
+  {
+   "line": 4,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 5,
+   "fdc": 173691,
+   "g": 567,
+   "name": "fish, salmon, sockeye, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 168389,
+   "g": 340,
+   "name": "asparagus, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 167747,
+   "g": 30,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "Asparagus bunch taken as 340 g trimmed."
+}

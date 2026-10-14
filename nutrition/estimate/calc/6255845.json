@@ -1,0 +1,104 @@
+{
+ "id": 6255845,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 70,
+   "name": "onion small"
+  },
+  {
+   "line": 2,
+   "fdc": 170427,
+   "g": 50,
+   "name": "bell pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 169251,
+   "g": 113,
+   "name": "mushrooms white raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1.5,
+   "name": "italian seasoning -> oregano dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 1.5,
+   "name": "sea salt"
+  },
+  {
+   "line": 7,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "black pepper"
+  },
+  {
+   "line": 8,
+   "fdc": 171790,
+   "g": 454,
+   "name": "beef ground 95% lean raw"
+  },
+  {
+   "line": 9,
+   "fdc": 171287,
+   "g": 50,
+   "name": "egg"
+  },
+  {
+   "line": 10,
+   "fdc": 174928,
+   "g": 60,
+   "name": "whole-wheat panko -> bread crumbs dry"
+  },
+  {
+   "line": 11,
+   "fdc": 171269,
+   "g": 245,
+   "name": "milk fat-free"
+  },
+  {
+   "line": 12,
+   "fdc": 171610,
+   "g": 11,
+   "name": "worcestershire"
+  },
+  {
+   "line": 14,
+   "fdc": 170054,
+   "g": 80,
+   "name": "sugar-free ketchup -> tomato sauce canned"
+  },
+  {
+   "line": 15,
+   "fdc": 172234,
+   "g": 22,
+   "name": "dijon -> mustard prepared"
+  },
+  {
+   "line": 16,
+   "fdc": 168833,
+   "g": 4.6,
+   "name": "brown sugar",
+   "added_sugar": true
+  }
+ ],
+ "notes": "liquid smoke (no nutrients) left out; sugar-free ketchup not in SR, used canned tomato sauce"
+}

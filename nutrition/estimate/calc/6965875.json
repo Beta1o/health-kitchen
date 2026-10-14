@@ -1,0 +1,55 @@
+{
+ "id": 6965875,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173110,
+   "g": 454,
+   "name": "Beef, ground, 93% lean meat / 7% fat, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 170108,
+   "g": 74,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170108,
+   "g": 74,
+   "name": "Peppers, sweet, red, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 74,
+   "name": "Peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171597,
+   "g": 680,
+   "name": "Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 169704,
+   "g": 585,
+   "name": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 7,
+   "fdc": 173439,
+   "g": 57,
+   "name": "Cheese, low fat, cheddar or colby"
+  }
+ ],
+ "notes": "lean ground beef taken as 93% lean; orange pepper -> red pepper"
+}

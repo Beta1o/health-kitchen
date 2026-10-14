@@ -1,0 +1,36 @@
+{
+ "id": 9920004,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174284,
+   "g": 144,
+   "name": "lentils, red, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 4.7,
+   "name": "garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171317,
+   "g": 0.4,
+   "name": "basil, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "oregano, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 4.5,
+   "name": "salt, table"
+  }
+ ]
+}

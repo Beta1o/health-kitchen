@@ -1,0 +1,49 @@
+{
+ "id": 6570315,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169291,
+   "g": 646,
+   "name": "zucchini (2 large)"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 9,
+   "name": "olive oil"
+  },
+  {
+   "line": 2,
+   "fdc": 170931,
+   "g": 0.3,
+   "name": "black pepper"
+  },
+  {
+   "line": 3,
+   "fdc": 170457,
+   "g": 105,
+   "name": "tomatoes (jarred bruschetta)"
+  },
+  {
+   "line": 3,
+   "fdc": 171413,
+   "g": 10,
+   "name": "olive oil (jarred bruschetta)"
+  },
+  {
+   "line": 3,
+   "fdc": 173468,
+   "g": 1.2,
+   "name": "salt (jarred bruschetta)"
+  },
+  {
+   "line": 4,
+   "fdc": 171247,
+   "g": 6.7,
+   "name": "parmesan"
+  }
+ ],
+ "notes": "jarred bruschetta modeled as tomato + olive oil + salt"
+}

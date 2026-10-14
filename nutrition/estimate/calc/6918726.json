@@ -1,0 +1,42 @@
+{
+ "id": 6918726,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173944,
+   "g": 118,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 168917,
+   "g": 185,
+   "name": "quinoa, cooked"
+  },
+  {
+   "line": 2,
+   "fdc": 170902,
+   "g": 61,
+   "name": "yogurt, greek, vanilla, nonfat"
+  },
+  {
+   "line": 3,
+   "fdc": 168588,
+   "g": 64,
+   "name": "almond butter, unsalted"
+  },
+  {
+   "line": 4,
+   "fdc": 171711,
+   "g": 148,
+   "name": "blueberries, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  }
+ ]
+}

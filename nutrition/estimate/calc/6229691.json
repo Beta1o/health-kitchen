@@ -1,0 +1,55 @@
+{
+ "id": 6229691,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 2,
+   "fdc": 168894,
+   "g": 31,
+   "name": "Wheat flour, white, all-purpose, enriched, bleached"
+  },
+  {
+   "line": 3,
+   "fdc": 173582,
+   "g": 14,
+   "name": "Margarine-like, vegetable oil spread, 60% fat, tub, with salt"
+  },
+  {
+   "line": 4,
+   "fdc": 169251,
+   "g": 284,
+   "name": "Mushrooms, white, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 172241,
+   "g": 85,
+   "name": "Vinegar, balsamic"
+  },
+  {
+   "line": 7,
+   "fdc": 172884,
+   "g": 120,
+   "name": "Soup, stock, chicken, home-prepared"
+  }
+ ],
+ "notes": "All dredging flour counted."
+}

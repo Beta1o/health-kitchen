@@ -21,6 +21,7 @@
 | Languages | English, Spanish and Arabic for every recipe; Urdu, Hindi, French, Indonesian, Bengali and Tagalog being completed (a recipe appears in a language once its full translation is in). Official text is used where the source publishes it; the rest is translated |
 | Photos | 2,609 recipes. Recipes without one get a colour-coded illustrated title card |
 | Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
+| Diet types | Kidney (CKD, dialysis, lower potassium/protein) and diabetes tags worked out from each recipe's nutrition with the same rules for every source, besides the publishers' own tags |
 | Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 2,897 recipes, from the University of Sydney GI database |
 
 ## The app
@@ -33,7 +34,7 @@ Open `gallery/index.html` in any modern browser, or use the hosted version at **
 - **Dietitian's view** on each recipe: meters against your plan, the phosphorus-to-protein ratio for kidney plans, and automatic notes.
 - **My day:** add recipes to today's plan and watch the daily rings fill.
 - **Meal plans** for 7, 14, 30, 60, 120 or 365 days, built from the collection to stay within your daily limits.
-- **Search and filters:** search in any language, filter by diet type, category, dish type, cook method, cuisine, number of servings, photo and source, set nutrient limits, or leave out an ingredient.
+- **Search and filters:** search in any language, filter by diet type (worked out from the nutrition for every recipe), category, dish type, cook method, cuisine, number of servings, photo and source, set nutrient limits, or leave out an ingredient.
 - **Cooking aids:** tick off ingredients and steps, save favourites, copy a recipe, export it to PDF, or share a link to it (`#en-r2430`, `#ar-r2430`).
 - **Light and dark themes**, a right-to-left layout for Arabic, and bottom navigation on phones.
 
@@ -84,6 +85,7 @@ python3 i18n.py status              #    coverage per language
 python3 fonts/fetch_fonts.py        # 8. (once) embed the app fonts
 python3 nutrition/gi_sydney.py      #    (once) GI data                       -> nutrition/gi_sydney.json
 python3 glycemic.py                 #    GI/GL coverage report (--foods: database foods behind each ingredient group)
+python3 nutrition/estimate/merge.py #    how many nutrient estimates pass the check
 python3 build_gallery.py            # 9. build gallery/
 ```
 
@@ -92,6 +94,8 @@ Checks: the build runs `tests/gi_regression.py` (20 recipes' carbohydrate, potas
 The steps must run in this order, because each one builds on the previous. To translate recipes that are still missing a language, run `python3 i18n.py export`, translate the new `translations/jobs_*.json` files following `translations/GUIDE.md`, check them with `translations/validate.py` and `translations/crosscheck.py`, then repeat steps 6, 7 and 9.
 
 **Glycemic index and load.** `nutrition/gi_sydney.py` downloads the University of Sydney GI database (glycemicindex.com, one page request) and leaves out foods with pork, gelatin or alcohol. `glycemic.py` matches each English ingredient line to an ingredient group (white rice, basmati, wholemeal bread, lentils, dates and about 110 more, telling cooked, dry and canned apart). Each group takes the median GI of the database foods it matches, and its available carbohydrate per 100 g comes from USDA. A recipe's GI is the carbohydrate-weighted average of its ingredients (the standard mixed-meal method). GL per serving = GI × the recipe's published available carbohydrate ÷ 100. A GI is only given when the matched ingredients, plus non-starchy vegetables, explain at least 70% of the published carbohydrate. Bands: GI low ≤ 55, high ≥ 70; GL low ≤ 10, high ≥ 20 per serving. Fat, protein, acid and cooking change the real response, so the app labels these as estimates.
+
+**Missing nutrients and diet types.** Some publishers print no potassium, phosphorus, cholesterol or added sugar. `nutrition/estimate/calc/<id>.json` lists each such recipe's ingredients as USDA SR Legacy foods with gram weights (made by following `nutrition/estimate/GUIDE.md`). The build (`nutrition/estimate/merge.py`) uses the result only when it reproduces the publisher's calories and protein or carbohydrate within 25%, never replaces a published number, and marks estimates "≈" in the app. `diet_tags.py` then gives every recipe the same diet-type rules (limits in its header) and writes `diet_tags_report.json`: tags added per source, and publisher tags the published numbers contradict.
 
 Raw downloads (`cache/`, `images/`, `sources/*/cache`, `sources/*/images`) are not in the repository; the scrapers recreate them.
 

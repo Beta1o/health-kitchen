@@ -1,0 +1,97 @@
+{
+ "id": 6597568,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171077,
+   "g": 454,
+   "name": "chicken breast, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 170931,
+   "g": 1.2,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 2,
+   "fdc": 171325,
+   "g": 1.6,
+   "name": "spices, garlic powder"
+  },
+  {
+   "line": 3,
+   "fdc": 171328,
+   "g": 0.5,
+   "name": "spices, oregano, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 5,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 340,
+   "name": "soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 170872,
+   "g": 122,
+   "name": "milk, 1%"
+  },
+  {
+   "line": 8,
+   "fdc": 169698,
+   "g": 8,
+   "name": "cornstarch"
+  },
+  {
+   "line": 9,
+   "fdc": 168567,
+   "g": 13.5,
+   "name": "tomatoes, sun-dried"
+  },
+  {
+   "line": 10,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne"
+  },
+  {
+   "line": 11,
+   "fdc": 168462,
+   "g": 60,
+   "name": "spinach, raw"
+  },
+  {
+   "line": 12,
+   "fdc": 171247,
+   "g": 25,
+   "name": "cheese, parmesan, grated"
+  },
+  {
+   "line": 13,
+   "fdc": 170894,
+   "g": 61,
+   "name": "yogurt, Greek, plain, nonfat"
+  },
+  {
+   "line": 14,
+   "fdc": 172232,
+   "g": 12,
+   "name": "basil, fresh"
+  }
+ ],
+ "notes": "low sodium chicken broth as home-prepared stock"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 7972818,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170187,
+   "g": 20,
+   "name": "nuts, walnuts, english"
+  },
+  {
+   "line": 1,
+   "fdc": 173941,
+   "g": 30,
+   "name": "apricots, dried, sulfured, uncooked"
+  },
+  {
+   "line": 2,
+   "fdc": 168164,
+   "g": 25,
+   "name": "raisins, golden, seedless"
+  },
+  {
+   "line": 3,
+   "fdc": 171320,
+   "g": 2.6,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 4,
+   "fdc": 170556,
+   "g": 20,
+   "name": "seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 169103,
+   "g": 6,
+   "name": "orange peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 86,
+   "name": "orange juice, raw (includes foods for usda's food distribution program)\",) {'calcium_mg': 11.0, 'calories': 45.0, 'carbohydrates_g': 10.4, 'cholesterol_mg': 0.0, 'fat_g': 0.2, 'fiber_g': 0.2, 'phosphorus_mg': 17.0, 'potassium_mg': 200.0, 'protein_g': 0.7, 'sodium_mg': 1.0, 'sugars_g': 8.4}\n"
+  },
+  {
+   "line": 6,
+   "fdc": 171688,
+   "g": 900,
+   "name": "apples, raw, with skin (includes foods for usda's food distribution program)\",) {'calcium_mg': 6.0, 'calories': 52.0, 'carbohydrates_g': 13.81, 'cholesterol_mg': 0.0, 'fat_g': 0.17, 'fiber_g': 2.4, 'phosphorus_mg': 11.0, 'potassium_mg': 107.0, 'protein_g': 0.26, 'sodium_mg': 1.0, 'sugars_g': 10.39}\n"
+  }
+ ],
+ "notes": "6 eating apples cored ~150 g each; zest ~6 g, juice ~86 g."
+}

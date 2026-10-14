@@ -1,0 +1,79 @@
+{
+ "id": 6215386,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172370,
+   "g": 13.6,
+   "name": "Oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 1,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 6,
+   "name": "Garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 169231,
+   "g": 6,
+   "name": "Ginger root, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169291,
+   "g": 196,
+   "name": "Squash, summer, zucchini, includes skin, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168576,
+   "g": 14,
+   "name": "Peppers, jalapeno, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170026,
+   "g": 170,
+   "name": "Potatoes, flesh and skin, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170924,
+   "g": 6.3,
+   "name": "Spices, curry powder"
+  },
+  {
+   "line": 8,
+   "fdc": 173801,
+   "g": 240,
+   "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 9,
+   "fdc": 170457,
+   "g": 123,
+   "name": "Tomatoes, red, ripe, raw, year round average"
+  },
+  {
+   "line": 11,
+   "fdc": 170005,
+   "g": 90,
+   "name": "Onions, spring or scallions (includes tops and bulb), raw"
+  },
+  {
+   "line": 12,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  }
+ ],
+ "notes": "Line 10 taken as water."
+}

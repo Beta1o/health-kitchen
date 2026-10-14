@@ -1,0 +1,43 @@
+{
+ "id": 6093298,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170554,
+   "g": 40,
+   "name": "chia seeds, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 174832,
+   "g": 240,
+   "name": "almond milk, unsweetened"
+  },
+  {
+   "line": 2,
+   "fdc": 167749,
+   "g": 1,
+   "name": "lemon peel, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 167747,
+   "g": 7.5,
+   "name": "lemon juice, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169640,
+   "g": 21,
+   "name": "honey",
+   "added_sugar": true
+  },
+  {
+   "line": 5,
+   "fdc": 167755,
+   "g": 246,
+   "name": "raspberries, raw"
+  }
+ ]
+}

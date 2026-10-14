@@ -1,0 +1,103 @@
+{
+ "id": 7404450,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170000,
+   "g": 220,
+   "name": "onions, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 171413,
+   "g": 13.5,
+   "name": "oil, olive"
+  },
+  {
+   "line": 2,
+   "fdc": 173756,
+   "g": 200,
+   "name": "chickpeas, mature seeds, raw (dry weight)"
+  },
+  {
+   "line": 3,
+   "fdc": 172420,
+   "g": 150,
+   "name": "lentils, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170457,
+   "g": 500,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169988,
+   "g": 160,
+   "name": "celery, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 170459,
+   "g": 16,
+   "name": "tomato paste, canned, no salt added"
+  },
+  {
+   "line": 7,
+   "fdc": 170926,
+   "g": 1.8,
+   "name": "spices, ginger, ground"
+  },
+  {
+   "line": 8,
+   "fdc": 171320,
+   "g": 2,
+   "name": "spices, cinnamon, ground"
+  },
+  {
+   "line": 9,
+   "fdc": 172231,
+   "g": 3,
+   "name": "spices, turmeric, ground"
+  },
+  {
+   "line": 10,
+   "fdc": 172883,
+   "g": 1000,
+   "name": "soup, stock, beef, home-prepared"
+  },
+  {
+   "line": 11,
+   "fdc": 168894,
+   "g": 120,
+   "name": "wheat flour, white, all-purpose, enriched"
+  },
+  {
+   "line": 12,
+   "fdc": 170931,
+   "g": 0.5,
+   "name": "spices, pepper, black"
+  },
+  {
+   "line": 13,
+   "fdc": 169997,
+   "g": 5,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 13,
+   "fdc": 170416,
+   "g": 5,
+   "name": "parsley, fresh"
+  },
+  {
+   "line": 14,
+   "fdc": 167747,
+   "g": 45,
+   "name": "lemon juice, raw"
+  }
+ ],
+ "notes": "chickpeas 200 g taken as dry weight; olive oil without amount = 1 tbsp; 1 cup sourdough starter = 120 g flour + water; cinnamon sticks as 2 g ground"
+}

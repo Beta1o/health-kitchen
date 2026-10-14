@@ -1,0 +1,79 @@
+{
+ "id": 3689346,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 169756,
+   "g": 300,
+   "name": "rice, white, long-grain, regular, raw, unenriched"
+  },
+  {
+   "line": 1,
+   "fdc": 172370,
+   "g": 9,
+   "name": "oil, vegetable, soybean, refined"
+  },
+  {
+   "line": 2,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170393,
+   "g": 122,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169961,
+   "g": 100,
+   "name": "beans, snap, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 170108,
+   "g": 119,
+   "name": "peppers, sweet, red, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169997,
+   "g": 15,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 175179,
+   "g": 300,
+   "name": "crustaceans, shrimp, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171287,
+   "g": 100,
+   "name": "egg, whole, raw, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 172473,
+   "g": 24,
+   "name": "soy sauce made from soy and wheat (shoyu), low sodium"
+  },
+  {
+   "line": 10,
+   "fdc": 169997,
+   "g": 10,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 170005,
+   "g": 60,
+   "name": "onions, spring or scallions (includes tops and bulb), raw"
+  }
+ ],
+ "notes": "Green seasoning approximated as 15 g fresh herbs (cilantro)."
+}

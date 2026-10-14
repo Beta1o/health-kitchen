@@ -1,0 +1,49 @@
+{
+ "id": 6244327,
+ "servings": 10,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170556,
+   "g": 97,
+   "name": "Seeds, pumpkin and squash seed kernels, dried"
+  },
+  {
+   "line": 1,
+   "fdc": 171723,
+   "g": 120,
+   "name": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)"
+  },
+  {
+   "line": 2,
+   "fdc": 170567,
+   "g": 72,
+   "name": "Nuts, almonds"
+  },
+  {
+   "line": 3,
+   "fdc": 170187,
+   "g": 58,
+   "name": "Nuts, walnuts, english"
+  },
+  {
+   "line": 4,
+   "fdc": 170562,
+   "g": 26,
+   "name": "Seeds, sunflower seed kernels, dried"
+  },
+  {
+   "line": 5,
+   "fdc": 171320,
+   "g": 0.65,
+   "name": "Spices, cinnamon, ground"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "Salt, table"
+  }
+ ],
+ "notes": "Unsweetened dried cranberries: SR has only sweetened ones (used, not flagged as added sugar; carbs/sugar likely overstated)."
+}

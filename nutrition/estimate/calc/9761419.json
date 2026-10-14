@@ -1,0 +1,30 @@
+{
+ "id": 9761419,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173800,
+   "g": 240,
+   "name": "chickpeas 15 oz can drained"
+  },
+  {
+   "line": 1,
+   "fdc": 170189,
+   "g": 60,
+   "name": "tahini"
+  },
+  {
+   "line": 2,
+   "fdc": 168576,
+   "g": 21,
+   "name": "jalap"
+  },
+  {
+   "line": 3,
+   "fdc": 168156,
+   "g": 30,
+   "name": "limejuice"
+  }
+ ]
+}

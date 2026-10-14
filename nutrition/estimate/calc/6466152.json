@@ -1,0 +1,38 @@
+{
+ "id": 6466152,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174090,
+   "g": 85,
+   "name": "rolls, whole wheat"
+  },
+  {
+   "line": 1,
+   "fdc": 171248,
+   "g": 185,
+   "name": "ricotta, part skim"
+  },
+  {
+   "line": 2,
+   "fdc": 170280,
+   "g": 80,
+   "name": "jam, sweetened with fruit juice",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 173946,
+   "g": 108,
+   "name": "blackberries, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  }
+ ],
+ "notes": "whole grain hoagie roll ~85 g as whole-wheat roll"
+}

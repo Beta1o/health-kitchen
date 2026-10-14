@@ -1,0 +1,73 @@
+{
+ "id": 6451442,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 172473,
+   "g": 32,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 1,
+   "fdc": 172237,
+   "g": 30,
+   "name": "rice vinegar"
+  },
+  {
+   "line": 2,
+   "fdc": 171016,
+   "g": 13.6,
+   "name": "oil, sesame"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 20,
+   "name": "maple syrup",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 169230,
+   "g": 6,
+   "name": "garlic"
+  },
+  {
+   "line": 5,
+   "fdc": 169231,
+   "g": 2,
+   "name": "ginger"
+  },
+  {
+   "line": 6,
+   "fdc": 172448,
+   "g": 454,
+   "name": "tofu, firm"
+  },
+  {
+   "line": 7,
+   "fdc": 170000,
+   "g": 110,
+   "name": "red onion"
+  },
+  {
+   "line": 8,
+   "fdc": 170108,
+   "g": 238,
+   "name": "bell peppers"
+  },
+  {
+   "line": 9,
+   "fdc": 168464,
+   "g": 392,
+   "name": "yellow squash"
+  },
+  {
+   "line": 10,
+   "fdc": 169704,
+   "g": 260,
+   "name": "rice, brown, cooked"
+  }
+ ]
+}

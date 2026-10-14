@@ -1,0 +1,86 @@
+{
+ "id": 9317037,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 174290,
+   "g": 350,
+   "name": "tofu, extra firm"
+  },
+  {
+   "line": 1,
+   "fdc": 172473,
+   "g": 16,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 2,
+   "fdc": 174527,
+   "g": 15,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 3,
+   "fdc": 169698,
+   "g": 16,
+   "name": "cornstarch"
+  },
+  {
+   "line": 4,
+   "fdc": 171327,
+   "g": 2.4,
+   "name": "onion powder"
+  },
+  {
+   "line": 5,
+   "fdc": 172473,
+   "g": 85,
+   "name": "soy sauce, low sodium"
+  },
+  {
+   "line": 6,
+   "fdc": 169655,
+   "g": 50,
+   "name": "sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 172237,
+   "g": 30,
+   "name": "vinegar, distilled"
+  },
+  {
+   "line": 9,
+   "fdc": 174527,
+   "g": 30,
+   "name": "sauce, ready-to-serve, pepper or hot"
+  },
+  {
+   "line": 10,
+   "fdc": 171325,
+   "g": 3.1,
+   "name": "garlic powder"
+  },
+  {
+   "line": 11,
+   "fdc": 170932,
+   "g": 0.9,
+   "name": "spices, pepper, red or cayenne (flakes)"
+  },
+  {
+   "line": 12,
+   "fdc": 169698,
+   "g": 16,
+   "name": "cornstarch"
+  },
+  {
+   "line": 15,
+   "fdc": 170150,
+   "g": 1,
+   "name": "seeds, sesame seeds, whole, dried"
+  }
+ ],
+ "notes": "serving bases and \"veggies of your choice\" without amounts left out; rice vinegar as distilled; hot sauce as generic pepper sauce"
+}

@@ -1,0 +1,56 @@
+{
+ "id": 9406949,
+ "servings": 30,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173801,
+   "g": 230,
+   "name": "chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+  },
+  {
+   "line": 1,
+   "fdc": 173944,
+   "g": 272,
+   "name": "bananas, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 174294,
+   "g": 128,
+   "name": "peanut butter, smooth (includes foods for usda's food distribution program)"
+  },
+  {
+   "line": 3,
+   "fdc": 169661,
+   "g": 40,
+   "name": "syrups, maple",
+   "added_sugar": true
+  },
+  {
+   "line": 4,
+   "fdc": 172803,
+   "g": 4.6,
+   "name": "leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+  },
+  {
+   "line": 5,
+   "fdc": 171412,
+   "g": 27.2,
+   "name": "oil, coconut"
+  },
+  {
+   "line": 6,
+   "fdc": 173904,
+   "g": 61,
+   "name": "cereals, oats, regular and quick, not fortified, dry"
+  },
+  {
+   "line": 7,
+   "fdc": 173471,
+   "g": 4.2,
+   "name": "vanilla extract"
+  }
+ ],
+ "notes": "13.5 oz can chickpeas drained ~230 g; optional maple syrup and vanilla included; coconut oil chosen over applesauce."
+}

@@ -1,0 +1,84 @@
+{
+ "id": 6862793,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 168448,
+   "g": 907,
+   "name": "pumpkin, raw (calabaza)"
+  },
+  {
+   "line": 1,
+   "fdc": 172884,
+   "g": 1920,
+   "name": "soup, stock, chicken, home-prepared (low-sodium broth)"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 182,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 170427,
+   "g": 119,
+   "name": "peppers, sweet, green, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 168576,
+   "g": 14,
+   "name": "peppers, jalapeno, raw"
+  },
+  {
+   "line": 6,
+   "fdc": 169231,
+   "g": 6,
+   "name": "ginger root, raw"
+  },
+  {
+   "line": 7,
+   "fdc": 170005,
+   "g": 120,
+   "name": "spring onions, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 173470,
+   "g": 1,
+   "name": "thyme, fresh"
+  },
+  {
+   "line": 9,
+   "fdc": 169997,
+   "g": 4,
+   "name": "coriander (cilantro) leaves, raw"
+  },
+  {
+   "line": 10,
+   "fdc": 168156,
+   "g": 31,
+   "name": "lime juice, raw"
+  },
+  {
+   "line": 11,
+   "fdc": 173468,
+   "g": 0.75,
+   "name": "salt, table"
+  },
+  {
+   "line": 12,
+   "fdc": 170557,
+   "g": 8,
+   "name": "pumpkin seed kernels, roasted, without salt"
+  }
+ ]
+}

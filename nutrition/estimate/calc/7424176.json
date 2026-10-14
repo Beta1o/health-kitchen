@@ -1,0 +1,31 @@
+{
+ "id": 7424176,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170162,
+   "g": 75,
+   "name": "Nuts, cashew nuts, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172688,
+   "g": 144,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 2,
+   "fdc": 171705,
+   "g": 200,
+   "name": "Avocados, raw, all commercial varieties"
+  },
+  {
+   "line": 3,
+   "fdc": 173944,
+   "g": 136,
+   "name": "Bananas, raw"
+  }
+ ],
+ "notes": "Wholemeal slice ~36 g. Large avocado 200 g edible."
+}

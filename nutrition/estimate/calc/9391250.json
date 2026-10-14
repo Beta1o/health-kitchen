@@ -1,0 +1,61 @@
+{
+ "id": 9391250,
+ "servings": 3,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 173800,
+   "g": 255,
+   "name": "chickpeas, canned, drained"
+  },
+  {
+   "line": 1,
+   "fdc": 171705,
+   "g": 150,
+   "name": "avocado raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170457,
+   "g": 123,
+   "name": "tomatoes, red, ripe, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 40,
+   "name": "onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 172232,
+   "g": 6,
+   "name": "basil fresh"
+  },
+  {
+   "line": 5,
+   "fdc": 171328,
+   "g": 1,
+   "name": "oregano dried"
+  },
+  {
+   "line": 6,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 7,
+   "fdc": 171325,
+   "g": 0.8,
+   "name": "garlic powder"
+  },
+  {
+   "line": 8,
+   "fdc": 175206,
+   "g": 15,
+   "name": "chickpeas, canned, solids and liquids"
+  }
+ ],
+ "notes": "Servings 3 from portions. Aquafaba (2 tbsp) approximated as 15 g canned chickpeas solids and liquids."
+}

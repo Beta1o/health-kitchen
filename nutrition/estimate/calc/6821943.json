@@ -1,0 +1,30 @@
+{
+ "id": 6821943,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "oil, cooking spray"
+  },
+  {
+   "line": 1,
+   "fdc": 170393,
+   "g": 907,
+   "name": "carrots, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 171413,
+   "g": 40.8,
+   "name": "oil, olive"
+  },
+  {
+   "line": 3,
+   "fdc": 170931,
+   "g": 0.6,
+   "name": "spices, pepper, black"
+  }
+ ]
+}

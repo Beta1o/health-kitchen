@@ -1,0 +1,67 @@
+{
+ "id": 7863056,
+ "servings": 2,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170416,
+   "g": 25,
+   "name": "Parsley, fresh"
+  },
+  {
+   "line": 1,
+   "fdc": 173708,
+   "g": 112,
+   "name": "Fish, tuna, light, canned in oil, drained solids"
+  },
+  {
+   "line": 2,
+   "fdc": 170591,
+   "g": 25,
+   "name": "Nuts, pine nuts, dried"
+  },
+  {
+   "line": 3,
+   "fdc": 172688,
+   "g": 45,
+   "name": "Bread, whole-wheat, commercially prepared"
+  },
+  {
+   "line": 4,
+   "fdc": 167749,
+   "g": 2,
+   "name": "Lemon peel, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173468,
+   "g": 0.4,
+   "name": "Salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.2,
+   "name": "Spices, pepper, black"
+  },
+  {
+   "line": 6,
+   "fdc": 171287,
+   "g": 50,
+   "name": "Egg, whole, raw, fresh"
+  },
+  {
+   "line": 7,
+   "fdc": 170460,
+   "g": 200,
+   "name": "Tomato products, canned, puree, without salt added"
+  },
+  {
+   "line": 8,
+   "fdc": 167746,
+   "g": 10,
+   "name": "Lemons, raw, without peel"
+  }
+ ],
+ "notes": "Tuna in sunflower oil drained ~112 g (reserved oil not counted). Brown breadcrumbs as whole-wheat bread. Passata as no-salt tomato puree."
+}

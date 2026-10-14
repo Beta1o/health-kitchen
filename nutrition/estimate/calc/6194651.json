@@ -1,0 +1,82 @@
+{
+ "id": 6194651,
+ "servings": 8,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 170182,
+   "g": 27,
+   "name": "Nuts, pecans"
+  },
+  {
+   "line": 2,
+   "fdc": 169655,
+   "g": 4.2,
+   "name": "Sugars, granulated",
+   "added_sugar": true
+  },
+  {
+   "line": 3,
+   "fdc": 170932,
+   "g": 0.2,
+   "name": "Spices, pepper, red or cayenne"
+  },
+  {
+   "line": 4,
+   "fdc": 169249,
+   "g": 300,
+   "name": "Lettuce, green leaf, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 171413,
+   "g": 54,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 5,
+   "fdc": 169098,
+   "g": 90,
+   "name": "\"Orange juice, raw (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 11.0, 'calories': 45.0, 'carbohydrates_g': 10.4, 'cholesterol_mg': 0.0, 'fat_g': 0.2, 'fiber_g': 0.2, 'phosphorus_mg': 17.0, 'potassium_mg': 200.0, 'protein_g': 0.7, 'sodium_mg': 1.0, 'sugars_g': 8.4}\n"
+  },
+  {
+   "line": 5,
+   "fdc": 167747,
+   "g": 30,
+   "name": "Lemon juice, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 169640,
+   "g": 10,
+   "name": "Honey",
+   "added_sugar": true
+  },
+  {
+   "line": 6,
+   "fdc": 169917,
+   "g": 280,
+   "name": "\"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 43.0, 'calories': 49.0, 'carbohydrates_g': 12.54, 'cholesterol_mg': 0.0, 'fat_g': 0.15, 'fiber_g': 2.2, 'phosphorus_mg': 23.0, 'potassium_mg': 166.0, 'protein_g': 0.91, 'sodium_mg': 1.0, 'sugars_g': 8.5}\n"
+  },
+  {
+   "line": 7,
+   "fdc": 171723,
+   "g": 40,
+   "name": "\"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)\",) {'calcium_mg': 9.0, 'calories': 308.0, 'carbohydrates_g': 82.8, 'cholesterol_mg': 0.0, 'fat_g': 1.09, 'fiber_g': 5.3, 'phosphorus_mg': 8.0, 'potassium_mg': 49.0, 'protein_g': 0.17, 'sodium_mg': 5.0, 'sugars_g': 72.56}\n",
+   "added_sugar": true
+  },
+  {
+   "line": 8,
+   "fdc": 171077,
+   "g": 907,
+   "name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+  }
+ ],
+ "notes": "Triple Citrus Vinaigrette (linked recipe, 3/4 cup) approximated as olive oil 54 g + orange juice 90 g + lemon juice 30 g + honey 10 g; 2 lbs chicken taken as raw weight; dried cranberries option used"
+}

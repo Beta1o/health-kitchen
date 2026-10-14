@@ -1,0 +1,43 @@
+{
+ "id": 9327187,
+ "servings": 4,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 170028,
+   "g": 454,
+   "name": "potatoes, white, flesh and skin, raw"
+  },
+  {
+   "line": 1,
+   "fdc": 172347,
+   "g": 28,
+   "name": "margarine, 80% fat, tub, with salt"
+  },
+  {
+   "line": 2,
+   "fdc": 169230,
+   "g": 9,
+   "name": "garlic, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170930,
+   "g": 0.5,
+   "name": "parsley, dried"
+  },
+  {
+   "line": 4,
+   "fdc": 173468,
+   "g": 3,
+   "name": "salt, table"
+  },
+  {
+   "line": 5,
+   "fdc": 170931,
+   "g": 0.58,
+   "name": "pepper, black"
+  }
+ ],
+ "notes": "Yukon Gold as white potatoes; vegan butter as margarine 80% fat."
+}

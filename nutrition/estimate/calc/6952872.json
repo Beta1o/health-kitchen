@@ -1,0 +1,79 @@
+{
+ "id": 6952872,
+ "servings": 6,
+ "items": [
+  {
+   "line": 0,
+   "fdc": 171430,
+   "g": 0.25,
+   "name": "Oil, PAM cooking spray, original"
+  },
+  {
+   "line": 1,
+   "fdc": 169988,
+   "g": 80,
+   "name": "Celery, raw"
+  },
+  {
+   "line": 2,
+   "fdc": 170393,
+   "g": 150,
+   "name": "Carrots, raw"
+  },
+  {
+   "line": 3,
+   "fdc": 170000,
+   "g": 110,
+   "name": "Onions, raw"
+  },
+  {
+   "line": 4,
+   "fdc": 169975,
+   "g": 454,
+   "name": "Cabbage, raw"
+  },
+  {
+   "line": 5,
+   "fdc": 173470,
+   "g": 2,
+   "name": "Thyme, fresh"
+  },
+  {
+   "line": 6,
+   "fdc": 172884,
+   "g": 240,
+   "name": "Soup, stock, chicken, home-prepared"
+  },
+  {
+   "line": 7,
+   "fdc": 171098,
+   "g": 900,
+   "name": "Turkey, whole, breast, meat only, raw"
+  },
+  {
+   "line": 8,
+   "fdc": 171413,
+   "g": 4.5,
+   "name": "Oil, olive, salad or cooking"
+  },
+  {
+   "line": 9,
+   "fdc": 171327,
+   "g": 3,
+   "name": "Spices, onion powder"
+  },
+  {
+   "line": 9,
+   "fdc": 171325,
+   "g": 3,
+   "name": "Spices, garlic powder"
+  },
+  {
+   "line": 10,
+   "fdc": 170931,
+   "g": 1.15,
+   "name": "Spices, pepper, black"
+  }
+ ],
+ "notes": "2.5 lb bone-in turkey breast -> 900 g raw meat without bone/skin (6 x 4 oz cooked); salt-free seasoning as onion + garlic powder."
+}
