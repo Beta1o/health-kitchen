@@ -98,7 +98,9 @@ def derive(rec, lines, times):
     if sum(1 for x in lines if x.strip()) <= 5:
         out.add("5 or less ingredients")
     m = total_minutes(*times)
-    if m is not None and m <= 30:
+    # a prep time alone says nothing about baking or simmering: Quick needs a total or cook time, or no cooking
+    timed = times[2] or times[1] or rec["method"] == ["No Cooking"]
+    if m is not None and m <= 30 and timed:
         out.add("Quick")
     if rec["cat"] in MAINS and "Vegetarian" in rec["diet"] and (rec["n"][0] or 0) >= 250 and (rec["n"][1] or 0) >= 10:
         out.add("Meatless Entree")

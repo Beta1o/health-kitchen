@@ -68,9 +68,17 @@ def known(spec, key):
     return gap / (sum(it["g"] for it in items) or 1) <= 0.10
 
 
+ACCEPTED = HERE / "accepted.json"
+
+
+def save_accepted(rep):
+    """Ids whose calculation matched the published numbers (glycemic.weights_for uses only these)."""
+    ACCEPTED.write_text(json.dumps(sorted(rep["accepted"])), encoding="utf-8")
+
+
 def fill(recipes):
     """Fill missing nutrients in rec["n"] in place; return a report."""
-    rep = {"calc_files": 0, "passed": 0, "failed": [], "rescaled": [], "kcl": [], "pub_lowk": [], "filled": {k: 0 for k in (KEYS[i] for i in FILL)}}
+    rep = {"calc_files": 0, "passed": 0, "failed": [], "rescaled": [], "accepted": [], "kcl": [], "pub_lowk": [], "filled": {k: 0 for k in (KEYS[i] for i in FILL)}}
     for rec in recipes:
         f = CALC / f"{rec['id']}.json"
         if not f.exists():
@@ -86,6 +94,7 @@ def fill(recipes):
                 rep["failed"].append(rec["id"])
                 continue
             rep["rescaled"].append(rec["id"])
+        rep["accepted"].append(rec["id"])
         est = [i for i in FILL if n[i] is None and calc[i] is not None and known(spec, "sugars_g" if i == 10 else KEYS[i])]
         if "Lower Potassium" in rec["diet"]:
             # kidney publishers count potassium after leaching (boiled, drained vegetables), which raw USDA values do not

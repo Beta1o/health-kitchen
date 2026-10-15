@@ -22,7 +22,7 @@
 | Photos | 2,609 recipes. Recipes without one get a colour-coded illustrated title card |
 | Nutrition | Calories, protein, carbohydrates, fat, cholesterol, sodium, potassium, phosphorus, calcium, fiber and added sugar per serving |
 | Diet types | Kidney (CKD, dialysis, lower potassium/protein) and diabetes tags worked out from each recipe's nutrition, vegetarian from the ingredients, and dish types (quick, 5 or less ingredients, soup, cake, ...) from the text and times, with the same rules for every source, besides the publishers' own tags |
-| Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 3,286 recipes, from the University of Sydney GI database |
+| Blood sugar | Estimated glycemic index (GI) and glycemic load (GL) per serving for 3,262 recipes, from the University of Sydney GI database |
 
 ## The app
 

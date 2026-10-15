@@ -9,14 +9,14 @@
   "Diabetes Food Hub (ADA)": {
    "Higher Potassium": 489,
    "CKD non-dialysis": 498,
-   "Dialysis": 701,
+   "Lower Protein": 822,
    "Lower Potassium": 366,
-   "Lower Protein": 822
+   "Dialysis": 701
   },
   "This Healthy Kitchen": {
-   "Diabetes": 290,
    "Lower Protein": 333,
    "Higher Potassium": 128,
+   "Diabetes": 290,
    "Dialysis": 246,
    "CKD non-dialysis": 169,
    "Lower Potassium": 113
@@ -36,17 +36,17 @@
    "Lower Potassium": 60
   },
   "AAKP": {
-   "Lower Potassium": 66,
    "Lower Protein": 92,
+   "Lower Potassium": 66,
    "Higher Potassium": 62,
-   "CKD non-dialysis": 22,
    "Diabetes": 16,
-   "Dialysis": 33
+   "Dialysis": 33,
+   "CKD non-dialysis": 22
   },
   "My Renal Nutrition": {
    "CKD non-dialysis": 59,
-   "Dialysis": 73,
    "Lower Protein": 45,
+   "Dialysis": 73,
    "Lower Potassium": 37,
    "Higher Potassium": 12
   },
@@ -56,9 +56,9 @@
   "DaVita Saudi Arabia": {
    "Higher Potassium": 4,
    "Lower Protein": 2,
-   "CKD non-dialysis": 1,
    "Diabetes": 1,
    "Dialysis": 1,
+   "CKD non-dialysis": 1,
    "Lower Potassium": 1
   },
   "Saudi Kitchen": {
@@ -4262,13 +4262,6 @@
   ],
   [
    7106956,
-   "Diabetes UK",
-   [
-    "Diabetes"
-   ]
-  ],
-  [
-   7497836,
    "Diabetes UK",
    [
     "Diabetes"

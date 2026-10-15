@@ -240,6 +240,16 @@ def main():
             if rl:
                 rec["t"][l] = clean(rec["t"][l], rl)
 
+    # nutrients the publisher does not print, estimated from the ingredients and kept only when the estimate
+    # reproduces the published calories, protein, carbohydrate and sodium (nutrition/estimate/merge.py)
+    import sys
+    sys.path.insert(0, str(HERE / "nutrition" / "estimate"))
+    import merge as nut_estimate
+    est = nut_estimate.fill(recipes)
+    nut_estimate.save_accepted(est)   # the glycemic step takes unreadable amounts only from these calculations
+    print(f"estimated nutrients: {est['passed']} recipes filled ({est['filled']}; {len(est['rescaled'])} scaled to the published servings),"
+          f" {len(est['failed'])} of {est['calc_files']} calculations left out because they did not match the published numbers")
+
     # glycemic index and load per serving, and the ingredient lines that raise blood sugar most (glycemic.py);
     # line positions are the same in every language
     import glycemic
@@ -266,14 +276,6 @@ def main():
     import dish_tags
     d_added, d_agree = dish_tags.apply(recipes, lambda rid: (recipe_rows[rid]["prep_time"], recipe_rows[rid]["cook_time"], recipe_rows[rid]["total_time"]))
     print("dish tags added", d_added, "; share of DaVita/ADA-tagged recipes found", d_agree)
-
-    # nutrients the publisher does not print, estimated from the ingredients and kept only when the estimate
-    # reproduces the published calories, protein, carbohydrate and sodium (nutrition/estimate/merge.py)
-    sys.path.insert(0, str(HERE / "nutrition" / "estimate"))
-    import merge as nut_estimate
-    est = nut_estimate.fill(recipes)
-    print(f"estimated nutrients: {est['passed']} recipes filled ({est['filled']}; {len(est['rescaled'])} scaled to the published servings),"
-          f" {len(est['failed'])} of {est['calc_files']} calculations left out because they did not match the published numbers")
 
     # diet-type tags from each recipe's own nutrition (diet_tags.py): the same rules for every source, publisher tags kept
     import diet_tags

@@ -279,13 +279,19 @@ def band(v, cut):
 
 
 CALC = Path(__file__).resolve().parent / "nutrition" / "estimate" / "calc"
+ACCEPTED = None   # ids whose calculation matched the published numbers (nutrition/estimate/accepted.json, written by the build)
 
 
 def weights_for(rid):
     """Grams per ingredient line from the recipe's USDA calculation (nutrition/estimate/calc/<id>.json), for lines the
-    amount parser cannot read ("1 x 400g tin chickpeas", "4 x flour tortillas"); only lines that hold one food."""
+    amount parser cannot read ("1 x 400g tin chickpeas", "4 x flour tortillas"); only lines that hold one food, and
+    only calculations that reproduced the publisher's calories and protein/carbohydrate."""
+    global ACCEPTED
+    if ACCEPTED is None:
+        a = CALC.parent / "accepted.json"
+        ACCEPTED = set(json.loads(a.read_text())) if a.exists() else set()
     f = CALC / f"{rid}.json"
-    if not f.exists():
+    if rid not in ACCEPTED or not f.exists():
         return {}
     items = json.loads(f.read_text(encoding="utf-8"))["items"]
     per = {}
