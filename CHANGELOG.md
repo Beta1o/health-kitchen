@@ -6,6 +6,20 @@ All notable changes to Health Kitchen. Dates are YYYY-MM-DD.
 ### Open
 - Owner decisions: full GI database search public or admin-only until the University of Sydney replies; keep or reword the "without it / with half" numbers; staging before release. Details and owner tasks in CHATLOG.md, "Pick up here".
 
+## [0.9.0] - 2026-10-15
+Every recipe now has a cuisine, diet types and almost all a cooking method; more glycemic loads and dish types.
+### Added
+- Glycemic load for 3,286 recipes (was 2,897), the 70% evidence rule unchanged:
+  - Ingredient lines whose amount the parser cannot read ("1 x 400g tin chickpeas", "4 x flour tortillas") take their grams from the recipe's USDA calculation (`glycemic.weights_for`).
+  - Up to 10 g of available carbohydrate a serving, the load is low whatever the GI, so it is shown as a ceiling ("≤ 8") when the GI is not known (was up to 5 g).
+- Dish types from each recipe's own text and times, the same rules for every source (`dish_tags.py`): 5 or less ingredients, Quick (30 minutes or less), Soup, Stew, Cake, Muffin, Cookies, Bread, Pie, Stir-fry, Meatless Entree. Each rule was checked against the DaVita and ADA tags (Soup 90%, Stew 91%, Muffin 97%, 5 or less ingredients 96% of their tagged recipes found). Budget, Easy, Potluck, Picnic, Freezer, Refrigerator, One-Dish Meal and Candy are judgement calls and are not derived.
+- Vegetarian from the ingredients and title (no meat, poultry, fish or seafood, meat stock, gelatin or marshmallows; "chicken or vegetable broth" counts as chicken): 762 more recipes. Gluten-free is not derived (hidden gluten).
+- Cuisine for the 474 recipes without one (`translations/cuisine_fill.json`; named dishes get their cuisine, the rest International) and cooking method for 173 more (`translations/method_fill.json`).
+### Tested and not used
+- A second blind USDA calculation for the 442 recipes whose first one did not match: the retries that passed were less accurate (potassium within 30% for 63% against 83%), so they were dropped and those recipes keep no estimate.
+### Still empty (on purpose)
+- Glycemic load for 579 recipes (too little of the carbohydrate has a measured GI); potassium for 288 and phosphorus for 441 recipes (no calculation matched the published numbers, or the publisher labels them lower in potassium); cooking method for 20 single cooked items; dish type for 622 recipes that match none of the objective rules; Heart Healthy is not derived (saturated fat is not published).
+
 ## [0.8.0] - 2026-10-15
 Diet types and nutrients filled for every recipe the numbers allow.
 ### Added

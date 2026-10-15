@@ -185,6 +185,15 @@ def main():
         rec["method"] = sorted(found) if found else [] if HEAT.search(steps) else ["No Cooking"]
         meth_n += bool(rec["method"])
     print(f"cooking method read from the steps for {meth_n} recipes")
+    # cuisine and the remaining cooking methods, chosen per recipe where the publisher gives none (translations/*_fill.json)
+    for key, fname in (("cuisine", "cuisine_fill.json"), ("method", "method_fill.json")):
+        fill = json.loads((HERE / "translations" / fname).read_text(encoding="utf-8"))
+        n = 0
+        for rec in recipes:
+            if not rec[key] and str(rec["id"]) in fill:
+                rec[key] = fill[str(rec["id"])]
+                n += 1
+        print(f"{key}: {n} recipes filled from {fname}")
 
     # reviewed categories for recipes from external sources (translations/catfix/out_*.json)
     catfix = {}
@@ -240,7 +249,8 @@ def main():
         if not en:
             continue
         r = recipe_rows[rec["id"]]
-        out, info = glycemic.recipe([x[1] for x in en["ing"]], rec["serv"], r["carbohydrates_g"], r["fiber_g"], rec["sourceName"], r["portions"])
+        out, info = glycemic.recipe([x[1] for x in en["ing"]], rec["serv"], r["carbohydrates_g"], r["fiber_g"], rec["sourceName"], r["portions"],
+                                     glycemic.weights_for(rec["id"]))
         for g in {glycemic.base_group(p[1]) for p in info["parts"]}:   # which GI foods each recipe uses, for the food guide
             gi_recipes.setdefault(g, []).append(rec["id"])
         if out:
@@ -251,6 +261,11 @@ def main():
     import subprocess, sys
     if subprocess.run([sys.executable, str(HERE / "tests" / "gi_regression.py")], env={**os.environ, "HK_DB": str(DB)}).returncode:
         raise SystemExit("glycemic estimates changed: check tests/gi_regression.py output, then run it with --update if the change is intended")
+
+    # dish types and Vegetarian from each recipe's own text and times (dish_tags.py)
+    import dish_tags
+    d_added, d_agree = dish_tags.apply(recipes, lambda rid: (recipe_rows[rid]["prep_time"], recipe_rows[rid]["cook_time"], recipe_rows[rid]["total_time"]))
+    print("dish tags added", d_added, "; share of DaVita/ADA-tagged recipes found", d_agree)
 
     # nutrients the publisher does not print, estimated from the ingredients and kept only when the estimate
     # reproduces the published calories, protein, carbohydrate and sodium (nutrition/estimate/merge.py)

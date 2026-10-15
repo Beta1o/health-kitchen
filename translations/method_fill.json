@@ -1,0 +1,523 @@
+{
+"_note": "Cooking method for recipes whose publisher gives none and whose steps name no method, read from the steps, title and ingredients (air fryer counted as Oven, pressure cooker as Stove Top).",
+"1002750": [
+"Fry",
+"Stove Top"
+],
+"3162079": [
+"No Cooking"
+],
+"4800276": [
+"Stove Top"
+],
+"4957725": [
+"Stove Top"
+],
+"4964931": [
+"No Cooking"
+],
+"5057164": [
+"Stove Top"
+],
+"5172480": [
+"Stove Top"
+],
+"5262888": [
+"Stove Top"
+],
+"5377448": [
+"Stove Top"
+],
+"5481420": [
+"Stove Top"
+],
+"6019263": [
+"No Cooking"
+],
+"6028849": [
+"No Cooking"
+],
+"6079494": [
+"No Cooking"
+],
+"6093808": [
+"No Cooking"
+],
+"6098453": [
+"No Cooking"
+],
+"6105928": [
+"No Cooking"
+],
+"6106256": [
+"No Cooking"
+],
+"6111989": [
+"No Cooking"
+],
+"6113306": [
+"No Cooking"
+],
+"6131183": [
+"Stove Top"
+],
+"6145161": [
+"No Cooking"
+],
+"6160768": [
+"No Cooking"
+],
+"6161118": [
+"No Cooking"
+],
+"6162321": [
+"No Cooking"
+],
+"6169737": [
+"Stove Top"
+],
+"6190468": [
+"No Cooking"
+],
+"6204544": [
+"No Cooking"
+],
+"6208885": [
+"No Cooking"
+],
+"6226156": [
+"No Cooking"
+],
+"6234115": [
+"No Cooking"
+],
+"6250256": [
+"No Cooking"
+],
+"6262722": [
+"No Cooking"
+],
+"6274572": [
+"No Cooking"
+],
+"6275460": [
+"No Cooking"
+],
+"6283047": [
+"No Cooking"
+],
+"6289021": [
+"No Cooking"
+],
+"6294641": [
+"No Cooking"
+],
+"6309831": [
+"No Cooking"
+],
+"6311769": [
+"No Cooking"
+],
+"6332960": [
+"No Cooking"
+],
+"6334868": [
+"No Cooking"
+],
+"6344459": [
+"No Cooking"
+],
+"6384200": [
+"No Cooking"
+],
+"6390581": [
+"No Cooking"
+],
+"6396957": [
+"No Cooking"
+],
+"6400204": [
+"No Cooking"
+],
+"6406213": [
+"No Cooking"
+],
+"6409832": [
+"No Cooking"
+],
+"6416579": [
+"No Cooking"
+],
+"6418319": [
+"No Cooking"
+],
+"6424759": [
+"No Cooking"
+],
+"6425903": [
+"No Cooking"
+],
+"6431387": [
+"No Cooking"
+],
+"6461642": [
+"No Cooking"
+],
+"6461923": [
+"No Cooking"
+],
+"6474350": [
+"No Cooking"
+],
+"6478767": [
+"No Cooking"
+],
+"6491318": [
+"No Cooking"
+],
+"6494648": [
+"No Cooking"
+],
+"6499693": [
+"No Cooking"
+],
+"6500937": [
+"No Cooking"
+],
+"6501487": [
+"Stove Top"
+],
+"6510397": [
+"No Cooking"
+],
+"6512511": [
+"No Cooking"
+],
+"6514260": [
+"No Cooking"
+],
+"6536985": [
+"No Cooking"
+],
+"6551703": [
+"No Cooking"
+],
+"6556304": [
+"No Cooking"
+],
+"6590213": [
+"No Cooking"
+],
+"6593652": [
+"No Cooking"
+],
+"6593896": [
+"Stove Top"
+],
+"6606398": [
+"No Cooking"
+],
+"6612695": [
+"No Cooking"
+],
+"6614887": [
+"No Cooking"
+],
+"6624712": [
+"No Cooking"
+],
+"6642831": [
+"No Cooking"
+],
+"6661374": [
+"No Cooking"
+],
+"6673785": [
+"No Cooking"
+],
+"6689398": [
+"Stove Top"
+],
+"6734922": [
+"No Cooking"
+],
+"6738204": [
+"Stove Top"
+],
+"6739333": [
+"No Cooking"
+],
+"6760120": [
+"No Cooking"
+],
+"6767827": [
+"No Cooking"
+],
+"6777920": [
+"No Cooking"
+],
+"6786566": [
+"No Cooking"
+],
+"6793195": [
+"No Cooking"
+],
+"6807355": [
+"No Cooking"
+],
+"6817221": [
+"No Cooking"
+],
+"6817273": [
+"No Cooking"
+],
+"6844012": [
+"No Cooking"
+],
+"6862739": [
+"No Cooking"
+],
+"6877159": [
+"Stove Top"
+],
+"6897570": [
+"No Cooking"
+],
+"6923520": [
+"No Cooking"
+],
+"6923905": [
+"No Cooking"
+],
+"6942750": [
+"No Cooking"
+],
+"6957718": [
+"No Cooking"
+],
+"6986844": [
+"No Cooking"
+],
+"6990463": [
+"No Cooking"
+],
+"6996404": [
+"No Cooking"
+],
+"7046954": [
+"Stove Top"
+],
+"7190087": [
+"Stove Top"
+],
+"7241290": [
+"Stove Top"
+],
+"7280237": [
+"Stove Top"
+],
+"7285911": [
+"Stove Top"
+],
+"7328847": [
+"Stove Top"
+],
+"7332922": [
+"Stove Top"
+],
+"7404450": [
+"Stove Top"
+],
+"7478749": [
+"Stove Top"
+],
+"7534585": [
+"Stove Top"
+],
+"7574767": [
+"Stove Top"
+],
+"7798440": [
+"No Cooking"
+],
+"7805746": [
+"Stove Top"
+],
+"7848709": [
+"Stove Top"
+],
+"7897038": [
+"Stove Top"
+],
+"7959955": [
+"Stove Top"
+],
+"7974942": [
+"Stove Top"
+],
+"9064409": [
+"No Cooking"
+],
+"9067847": [
+"Bake"
+],
+"9074637": [
+"No Cooking"
+],
+"9106627": [
+"Bake"
+],
+"9130591": [
+"Oven"
+],
+"9175178": [
+"No Cooking"
+],
+"9183615": [
+"No Cooking"
+],
+"9206024": [
+"Oven"
+],
+"9229405": [
+"Oven"
+],
+"9229801": [
+"Oven"
+],
+"9231462": [
+"Stove Top"
+],
+"9249680": [
+"Stove Top"
+],
+"9263742": [
+"Bake"
+],
+"9273315": [
+"No Cooking"
+],
+"9297046": [
+"Oven"
+],
+"9306532": [
+"Oven"
+],
+"9391250": [
+"No Cooking"
+],
+"9397040": [
+"Oven"
+],
+"9413497": [
+"Stove Top"
+],
+"9419746": [
+"Oven"
+],
+"9421240": [
+"Oven"
+],
+"9425725": [
+"Oven"
+],
+"9479544": [
+"Stove Top"
+],
+"9480093": [
+"Stove Top"
+],
+"9484573": [
+"Oven"
+],
+"9517824": [
+"Oven"
+],
+"9529012": [
+"Oven"
+],
+"9537373": [
+"Oven"
+],
+"9553231": [
+"No Cooking"
+],
+"9583574": [
+"Bake"
+],
+"9584605": [
+"Bake"
+],
+"9592646": [
+"Oven"
+],
+"9665970": [
+"Oven"
+],
+"9692965": [
+"Oven"
+],
+"9702792": [
+"Stove Top"
+],
+"9706219": [
+"Stove Top"
+],
+"9716519": [
+"No Cooking"
+],
+"9717936": [
+"No Cooking"
+],
+"9740076": [
+"No Cooking"
+],
+"9751449": [
+"Oven"
+],
+"9763958": [
+"No Cooking"
+],
+"9766698": [
+"No Cooking"
+],
+"9794865": [
+"Oven"
+],
+"9809440": [
+"Oven"
+],
+"9814933": [
+"No Cooking"
+],
+"9877958": [
+"No Cooking"
+],
+"9922647": [
+"No Cooking"
+],
+"9924261": [
+"Oven"
+],
+"9931828": [
+"No Cooking"
+],
+"9956832": [
+"Oven"
+],
+"9957284": [
+"Oven"
+],
+"9985547": [
+"No Cooking"
+],
+"9991273": [
+"Oven"
+],
+"9992614": [
+"Oven"
+],
+"9996156": [
+"No Cooking"
+]
+}

@@ -38,7 +38,7 @@ def current():
         rid, por, carbs, fiber, k, src = row
         lines = [x for (x,) in db.execute("SELECT text FROM ingredients_i18n WHERE recipe_id=? AND lang='en' ORDER BY position", (rid,))]
         m = re.match(r"\s*(\d+)", por or "")
-        res, _ = glycemic.recipe(lines, int(m.group(1)) if m else None, carbs, fiber, src, por)
+        res, _ = glycemic.recipe(lines, int(m.group(1)) if m else None, carbs, fiber, src, por, glycemic.weights_for(rid))
         res = res or {}
         out[t] = {"carbs_g": carbs, "potassium_mg": k, "gi": res.get("gi"), "gl": res.get("gl")}
     return out

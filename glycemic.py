@@ -278,18 +278,39 @@ def band(v, cut):
     return None if v is None else 0 if v <= cut[0] else 1 if v <= cut[1] else 2
 
 
-def recipe(lines, servings, carbs, fiber, source, portions=None):
-    """{'gi', 'gl', 'gx': [[line position, GI, share of the sugar load %], ...]} or None, plus report details."""
+CALC = Path(__file__).resolve().parent / "nutrition" / "estimate" / "calc"
+
+
+def weights_for(rid):
+    """Grams per ingredient line from the recipe's USDA calculation (nutrition/estimate/calc/<id>.json), for lines the
+    amount parser cannot read ("1 x 400g tin chickpeas", "4 x flour tortillas"); only lines that hold one food."""
+    f = CALC / f"{rid}.json"
+    if not f.exists():
+        return {}
+    items = json.loads(f.read_text(encoding="utf-8"))["items"]
+    per = {}
+    for it in items:
+        if it.get("line") is not None:
+            per.setdefault(it["line"], []).append(it["g"])
+    return {k: v[0] for k, v in per.items() if len(v) == 1 and v[0] > 0}
+
+
+def recipe(lines, servings, carbs, fiber, source, portions=None, weights=None):
+    """{'gi', 'gl', 'gx': [[line position, GI, share of the sugar load %], ...]} or None, plus report details.
+    weights: {line position: grams} used when a line's amount cannot be parsed (weights_for)."""
+    weights = weights or {}
     parts, unknown, unmatched, veg = [], [], [], 0.0
     for pos, line in enumerate(lines):
         p = parse(line)
         if not p:
-            continue
+            if pos not in weights:
+                continue
+            p = (None, None, line)
         hit = group_of(line)
         if not hit or hit[1] is None:
             v = next((x for x in VEG if x[0].search(line)), None)
             if v:
-                w = grams(p[0], p[1], v[2], v[3], line)
+                w = grams(p[0], p[1], v[2], v[3], line) or weights.get(pos)
                 if w:
                     veg += w * v[1] / 100
                 continue
@@ -298,6 +319,8 @@ def recipe(lines, servings, carbs, fiber, source, portions=None):
             continue
         g, gi, c100, dens, pc = hit
         w = grams(p[0], p[1], dens, pc, line)
+        if w is None:
+            w = weights.get(pos)
         if w is None:
             unknown.append(g)
             continue
@@ -319,7 +342,7 @@ def recipe(lines, servings, carbs, fiber, source, portions=None):
     # a GI is shown only when the matched ingredients explain at least 70% of the published carbohydrate
     coverage = 1.0 if stated is None or stated < 1 else min(1.0, (est + veg / serv) / stated)
     covered = coverage >= 0.7
-    if avail < 5:   # a few grams of carbohydrate: the load is low whatever the GI; without a GI, GL is given as its ceiling (GI 100)
+    if avail <= 10:   # up to 10 g of carbohydrate: the load is low whatever the GI; without a GI, GL is given as its ceiling (GI 100)
         out = {"gl": round(avail * gi / 100, 1)} if gi is not None and covered else {"gl": round(avail, 1), "glMax": 1}
         if gi is not None and covered:
             out["gi"] = gi
@@ -360,7 +383,8 @@ def report(db_path):
     for r in rows:
         lines = [t for (t,) in db.execute("SELECT text FROM ingredients_i18n WHERE recipe_id=? AND lang='en' ORDER BY position", (r["id"],))]
         m = re.match(r"\s*(\d+)", r["portions"] or "")
-        out, info = recipe(lines, int(m.group(1)) if m else None, r["carbohydrates_g"], r["fiber_g"], r["source_name"] or "DaVita", r["portions"])
+        out, info = recipe(lines, int(m.group(1)) if m else None, r["carbohydrates_g"], r["fiber_g"], r["source_name"] or "DaVita", r["portions"],
+                           weights_for(r["id"]))
         unmatched.update(info["unmatched"])
         src = r["source_name"] or "DaVita"
         if info["stated"] and info["stated"] >= 5:

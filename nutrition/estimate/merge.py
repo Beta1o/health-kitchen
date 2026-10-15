@@ -6,7 +6,10 @@ An estimate is only used when the calculation reproduces what the publisher did 
 of protein and carbohydrate are published, and each published one agrees within 25% (or a small absolute amount
 for low values). Sodium is not part of the check: it mostly reflects how much salt "to taste" is counted, not
 whether the foods and amounts are right. A calculation off by one consistent factor (a different serving count) is
-scaled to the publisher's servings (rescaled()). Published numbers are never replaced. Estimated nutrients are listed in rec["e"] (their index),
+scaled to the publisher's servings (rescaled()).
+A second blind calculation of the recipes that fail was tried (2026-10-15) and not used: on ADA recipes that publish
+potassium, the retries that passed were within 30% only 63% of the time (first pass 83%), so retrying until a
+calculation passes lets worse estimates through. Published numbers are never replaced. Estimated nutrients are listed in rec["e"] (their index),
 so the app marks them "≈" and the diet tags keep a safety margin (diet_tags.py).
 
 A blind test on 40 recipes with published values (DaVita and ADA) found that, when this check passes,
